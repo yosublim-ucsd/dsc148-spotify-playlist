@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Nesly",
+  "description": "Les hits zouk du moment. Photo : Kim",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 140357,
       "name": "Dehors il fait froid",
       "url": "https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2"
@@ -604,6 +604,28 @@
       "duration_ms": 180206,
       "name": "Des Mots - Des maux",
       "url": "https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC"
+    },
+    {
+      "album": {
+        "name": "Conversations Sur L'Oreiller",
+        "url": "https://open.spotify.com/album/358o3sd6vVA7c8gKAjUPMU"
+      },
+      "artists": [
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        },
+        {
+          "name": "G-Wins",
+          "url": "https://open.spotify.com/artist/5yqFT5onSnCJrPajUnmlUU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213796,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/3uqATgtHuKkVA3BXCOdloN"
     },
     {
       "album": {
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 154312,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E"
@@ -1991,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "On di Road",
+        "url": "https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m"
+      },
+      "artists": [
+        {
+          "name": "Ayewai",
+          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136620,
+      "name": "Ou P\u00e9",
+      "url": "https://open.spotify.com/track/0eWNcMTXQ8985SKAZM24cO"
+    },
+    {
+      "album": {
         "name": "Oublie Dehors",
         "url": "https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg"
       },
@@ -2094,6 +2138,32 @@
       "duration_ms": 215040,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4ZZZqHNebHX4LxhF2kvMPZ"
+    },
+    {
+      "album": {
+        "name": "Pa Jan'm As\u00e9",
+        "url": "https://open.spotify.com/album/6j1BeWs0ajUvztNmUxL7rd"
+      },
+      "artists": [
+        {
+          "name": "Jude Deslouches",
+          "url": "https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt"
+        },
+        {
+          "name": "Vayb",
+          "url": "https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H"
+        },
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242684,
+      "name": "Pa Jan'm As\u00e9",
+      "url": "https://open.spotify.com/track/7jSwDyHWOaBPU4h1XKDUZa"
     },
     {
       "album": {
@@ -2232,6 +2302,24 @@
       "duration_ms": 149902,
       "name": "Piment",
       "url": "https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "PJDK",
+      "url": "https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d"
     },
     {
       "album": {
@@ -2954,7 +3042,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 189425,
       "name": "Tout",
       "url": "https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM"
@@ -3308,7 +3396,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 158400,
       "name": "Vou Et Mwen",
       "url": "https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM"

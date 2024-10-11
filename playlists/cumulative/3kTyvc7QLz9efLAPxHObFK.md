@@ -4,7 +4,7 @@
 
 > 
 
-1,754 songs - 3 day 22 hr 12 min
+1,756 songs - 3 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 | 2023-11-20 |  |
 | [Deepest Truth](https://open.spotify.com/track/1mPGgEenAV0pMLAdWOINax) | [WHØAMI](https://open.spotify.com/artist/1QoGCFi0O4ldlVJSZEijnw), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Deepest Truth](https://open.spotify.com/album/2GZHATjTUn0AxHGmnbUqqp) | 2:46 | 2024-10-01 |  |
 | [DeeRose \- Commercial Mix 3](https://open.spotify.com/track/7AREoBQzm7y9jfxv5CZF14) | [Gunrunner](https://open.spotify.com/artist/6dqraVukr3bFkO6w3pOv9U) | [DeeRose Edits EP](https://open.spotify.com/album/30pfyJMmmSIrgMVp3tNEwu) | 1:02 | 2022-11-08 |  |
+| [DEFAULT DAMAGER](https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [DEFAULT DAMAGER](https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD) | 2:27 | 2024-10-10 |  |
 | [Demolition](https://open.spotify.com/track/14yofNC5ix4ulvNR6UkRwV) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Demolition](https://open.spotify.com/album/6t6z8HeYERM8SzW9s8Wief) | 3:52 | 2024-05-28 |  |
 | [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2022-09-06 |  |
 | [Demons](https://open.spotify.com/track/0r6ZZsfKWhSaYjpqF1AARe) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [Demons](https://open.spotify.com/album/3R4nR9XnpXU7xq6X1mofgr) | 2:47 | 2024-08-30 |  |
@@ -1563,6 +1564,7 @@
 | [To The Beat](https://open.spotify.com/track/4i9zmkmf3vcSqOF3aOp7nm) | [Uncaged](https://open.spotify.com/artist/2HDeehZ2osQxtP45Q1asqo), [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [To The Beat](https://open.spotify.com/album/4jr0BKOG6ylarDnH6XN48o) | 3:03 | 2024-06-10 |  |
 | [TO THE DEATH](https://open.spotify.com/track/3Bm5dSOqvqbBHEFNm6JjpW) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [TO THE DEATH](https://open.spotify.com/album/6GCfqgLxi4IiTk6NjqLMiN) | 3:21 | 2023-06-24 |  |
 | [To The Ground](https://open.spotify.com/track/1wAXCdoOGFRhjhK9gKfvbh) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [To The Ground](https://open.spotify.com/album/6LfUya1W5rCy63DO5yBf1U) | 2:56 | 2022-10-27 |  |
+| [To The Moon \- Gabber Version](https://open.spotify.com/track/54i0jO0ULAviwnr2omKYEv) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [To The Moon](https://open.spotify.com/album/27bSeTi48ojbn3Q1bzVIVv) | 2:55 | 2024-10-10 |  |
 | [To The Ones We Hate The Most](https://open.spotify.com/track/674xk8ZDWT9a5qqYizvOjE) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [To The Ones We Hate The Most](https://open.spotify.com/album/688JArJhRJy7vomsbj7sMd) | 3:02 | 2022-02-22 |  |
 | [To the Top](https://open.spotify.com/track/1s5OCXuJ5D7g9qJ1YCJjX6) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [To the Top](https://open.spotify.com/album/086aM68IMih2Kx6l54jMLP) | 2:29 | 2024-05-02 |  |
 | [To You](https://open.spotify.com/track/5yYROmMZBCIhd1edtA3As1) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [To You](https://open.spotify.com/album/4hlJDxIBylLU2EWF411A47) | 3:12 | 2024-05-04 |  |

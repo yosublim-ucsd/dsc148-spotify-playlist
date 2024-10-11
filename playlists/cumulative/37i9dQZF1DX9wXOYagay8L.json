@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=4ijqsDRgTdCb8WO1xgpkWw\">Halo Yagami</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs?si=CMXYK9TzRrKRW3PHPFs2Nw\">Donald</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Hambe",
+        "url": "https://open.spotify.com/album/3uQxzD8gc6eygTTobLKMId"
+      },
+      "artists": [
+        {
+          "name": "Sindiswa",
+          "url": "https://open.spotify.com/artist/1VziFLN7PWqeYYAKheX0fL"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Hambe",
+      "url": "https://open.spotify.com/track/1uyCJTHaDKqGicPuwr81bD"
+    },
+    {
+      "album": {
         "name": "Hata",
         "url": "https://open.spotify.com/album/3Jc2d07Cl2rm3ST6T2DcZe"
       },
@@ -3284,6 +3306,24 @@
       "duration_ms": 244992,
       "name": "I choose you",
       "url": "https://open.spotify.com/track/1b20Ob8VDzTkOXtUp8gty9"
+    },
+    {
+      "album": {
+        "name": "Decade Experience - Live",
+        "url": "https://open.spotify.com/album/3Xu67o1s49wyUUbWBcupRn"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408933,
+      "name": "I Remember I Believe - Live - Melrose Arch Venue / 2024",
+      "url": "https://open.spotify.com/track/3KPdnkkeeElIsrYWjAP3lx"
     },
     {
       "album": {
@@ -4281,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Isibusiso Sami",
+        "url": "https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM"
+      },
+      "artists": [
+        {
+          "name": "Ndu Shezi",
+          "url": "https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232396,
+      "name": "Isibusiso Sakho",
+      "url": "https://open.spotify.com/track/5Ly2yLD9EAKQzsAqXDaCuV"
+    },
+    {
+      "album": {
         "name": "Isimilo",
         "url": "https://open.spotify.com/album/5XHDKHJ7BaOHrm7HVlBAGQ"
       },
@@ -5030,6 +5088,24 @@
       "duration_ms": 223889,
       "name": "Khuphuka",
       "url": "https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX"
+    },
+    {
+      "album": {
+        "name": "Khwezela",
+        "url": "https://open.spotify.com/album/6Mo5bI96eD6fX84MdF82qb"
+      },
+      "artists": [
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251774,
+      "name": "Khwezela",
+      "url": "https://open.spotify.com/track/6HaxFKlRLTgqu99N67uJBM"
     },
     {
       "album": {
@@ -8834,6 +8910,24 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
+    },
+    {
+      "album": {
+        "name": "Piki Piki",
+        "url": "https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Piki Piki",
+      "url": "https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY"
     },
     {
       "album": {

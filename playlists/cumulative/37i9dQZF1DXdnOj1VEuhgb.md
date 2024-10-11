@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: cakal
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-446 songs - 19 hr 43 min
+447 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Mümkünse](https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YBF](https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB) | 3:16 | 2024-04-04 | 2024-06-01 |
 | [Müşkül](https://open.spotify.com/track/6OZoesRPfDRImpsKSH3jJP) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Müşkül](https://open.spotify.com/album/0HYzOGKPaiMSVvwesU9tkz) | 1:50 | 2024-08-29 | 2024-09-27 |
 | [N'aptığını bilmesem de](https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [N'aptığını bilmesem de](https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK) | 2:18 | 2023-06-22 | 2024-01-24 |
-| [NAM NAM](https://open.spotify.com/track/4BaDMyA1nxnLn9mBOEvC39) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Merdov](https://open.spotify.com/artist/5hQRnQh0rQORV1E9Gc4qL6), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [NAM NAM](https://open.spotify.com/album/4CskKrWmvhLHyAODpngaGe) | 3:27 | 2024-09-19 |  |
+| [NAM NAM](https://open.spotify.com/track/4BaDMyA1nxnLn9mBOEvC39) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Merdov](https://open.spotify.com/artist/5hQRnQh0rQORV1E9Gc4qL6), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [NAM NAM](https://open.spotify.com/album/4CskKrWmvhLHyAODpngaGe) | 3:27 | 2024-09-19 | 2024-10-11 |
 | [Nasip](https://open.spotify.com/track/5EtvbFJ6zZ0XNVMJGzH6Cf) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Nasip](https://open.spotify.com/album/4dogjv6Sivh3guZtKcDDGh) | 2:17 | 2023-06-29 | 2023-07-14 |
 | [NAYLON](https://open.spotify.com/track/72Wph4Ou9qRjwNd3vR67Ug) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [NAYLON](https://open.spotify.com/album/3TGzqo19JQ5GULaZminGDl) | 2:28 | 2023-08-10 | 2023-09-01 |
 | [Ne Anlar Onlar](https://open.spotify.com/track/6oxmPTxpYqCkGQwGbYHgcl) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Ne Anlar Onlar](https://open.spotify.com/album/3TUAWkPFmNHmhZ0kFoR1S5) | 3:52 | 2023-08-24 | 2023-09-15 |
@@ -387,6 +387,7 @@
 | [SUÇ](https://open.spotify.com/track/7eB0GHwce0u93PS6yvAatH) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SUÇ](https://open.spotify.com/album/4kPfEb1aBplSNm7lCvufkj) | 2:58 | 2024-02-15 | 2024-04-05 |
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2023-01-10 | 2023-03-18 |
 | [Switch](https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Switch](https://open.spotify.com/album/7GV0frbZRy8KayIzSDV68j) | 3:12 | 2023-01-10 | 2023-01-20 |
+| [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-10 |  |
 | [Sönük Kaldın](https://open.spotify.com/track/1HtT0CVW7SbMiECVEPOiO5) | [Xentix](https://open.spotify.com/artist/1RltulqsGXX8jN82sxZHpp), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Sönük Kaldın](https://open.spotify.com/album/0FzybsrMkrplViiOHqNFvL) | 4:12 | 2024-06-06 | 2024-06-21 |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-04 | 2023-05-26 |
 | [Süzülerek](https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [DÖNMEK İÇİN EVE](https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O) | 3:36 | 2024-05-09 | 2024-06-21 |

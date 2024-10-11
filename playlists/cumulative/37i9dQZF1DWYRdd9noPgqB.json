@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 515499,
       "name": "I Guess Time Just Makes Fools of Us All",
       "url": "https://open.spotify.com/track/3i8TRXOR9zN91ZSBtcsxlj"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 218932,
       "name": "Many Lives",
       "url": "https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H"
@@ -4649,6 +4649,28 @@
     },
     {
       "album": {
+        "name": "The world of yesterday",
+        "url": "https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr"
+      },
+      "artists": [
+        {
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212750,
+      "name": "The world of yesterday",
+      "url": "https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9"
+    },
+    {
+      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -4718,7 +4740,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -4914,6 +4936,24 @@
       "duration_ms": 189163,
       "name": "Under Water / In Air",
       "url": "https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF"
+    },
+    {
+      "album": {
+        "name": "Rock Machine",
+        "url": "https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
     },
     {
       "album": {

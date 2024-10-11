@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Snakehips, Absolutely
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,538 likes - 160 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,513 likes - 160 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 12 | [Just Concentrate](https://open.spotify.com/track/7zjzg2pgMlS3rujhSfw3Dy) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Just Concentrate](https://open.spotify.com/album/6gUYsp8zbzWcQPAzY6v3nq) | 3:38 |
 | 13 | [Icky Boyz](https://open.spotify.com/track/277hRJkk5W8GKzdBZ67Q1l) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [Icky Boyz](https://open.spotify.com/album/4Wi5VeEYchfdVcThpnC7Tn) | 2:23 |
 | 14 | [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 |
-| 15 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 15 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 16 | [What You Need](https://open.spotify.com/track/2Sfx1WzABjAAWlaC3EVkZB) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [What You Need](https://open.spotify.com/album/47ULqmgRTuQT6BUWM8ugVz) | 2:49 |
 | 17 | [Ghost Of What Could Be](https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Ghost Of What Could Be](https://open.spotify.com/album/48X57POaib4oaROKyrYGvS) | 3:22 |
 | 18 | [set me free](https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [composure](https://open.spotify.com/album/4Wbv9vgwg26DkAVDimPzxP) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring HARU NEMURI and Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,754 likes - 150 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,794 likes - 150 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 47 | [ODDS](https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [ODDS](https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf) | 2:48 |
 | 48 | [Focus](https://open.spotify.com/track/7xUAdQvYQFjR767gAzJy24) | [Body Meat](https://open.spotify.com/artist/4BrSvpXSgT02JhhNULggJk) | [Focus](https://open.spotify.com/album/7L1HvGDKE96GAkpsEDQgeU) | 3:55 |
 | 49 | [SPORTS](https://open.spotify.com/track/6d58EADHoLpqNFh7Q4k4NN) | [Model Child](https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O) | [SPORTS](https://open.spotify.com/album/71YUFjHlLLwt67NHlbHuUx) | 4:02 |
-| 50 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 50 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 51 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 |
 | 52 | [Pretty Girl Party](https://open.spotify.com/track/1ymK7hZ3biElFYTXhGwONM) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Pretty Girl Party](https://open.spotify.com/album/1OYly7NLk78fIHZw29vsM7) | 2:41 |
 | 53 | [For Two](https://open.spotify.com/track/6T1YH2tO5llDU1PmNTMiOm) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [For Two](https://open.spotify.com/album/6LckbMkAspa3A4UJC7ACcN) | 3:16 |

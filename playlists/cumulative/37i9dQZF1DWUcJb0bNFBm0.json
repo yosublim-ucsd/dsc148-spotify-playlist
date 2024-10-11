@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: BUBBLE TEA AND CIGARETTES)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: envy)",
   "name": "Haze ",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 194717,
       "name": "Candy (Flashback)",
       "url": "https://open.spotify.com/track/2pJ0He1anjlfESMrPLwHWv"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 367058,
       "name": "Divine Light",
       "url": "https://open.spotify.com/track/689CnhpaozpUpdCOfbSHCA"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 265920,
       "name": "Flow",
       "url": "https://open.spotify.com/track/6gwNlcFoSNnDBNOyE8qcSk"
@@ -839,6 +839,42 @@
     },
     {
       "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/0ENNpHzXuTcJ2rOHQuEzTx"
+      },
+      "artists": [
+        {
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227268,
+      "name": "Imagination and Creation",
+      "url": "https://open.spotify.com/track/4W8OK7sBpV2VIUUsQmh45L"
+    },
+    {
+      "album": {
+        "name": "books, cats, and memories",
+        "url": "https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W"
+      },
+      "artists": [
+        {
+          "name": "bioneunnal",
+          "url": "https://open.spotify.com/artist/67mxngUxuuXP9CRqODWoIy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158964,
+      "name": "in my room, gazing into book page",
+      "url": "https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF"
+    },
+    {
+      "album": {
         "name": "Irene",
         "url": "https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi"
       },
@@ -886,10 +922,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 225281,
       "name": "Jalur Bebas Hambatan",
       "url": "https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl"
+    },
+    {
+      "album": {
+        "name": "Jam Besuk",
+        "url": "https://open.spotify.com/album/0sENhyCzYjVc5FVAQzRpmX"
+      },
+      "artists": [
+        {
+          "name": "Mafia Pemantik Qolbu",
+          "url": "https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Jam Besuk",
+      "url": "https://open.spotify.com/track/5Ii4yocie87LCUFIP5HOIK"
     },
     {
       "album": {
@@ -926,6 +980,24 @@
       "duration_ms": 386450,
       "name": "jitensha",
       "url": "https://open.spotify.com/track/6v4169idGWlzblAiw2dB67"
+    },
+    {
+      "album": {
+        "name": "18PERSONAL",
+        "url": "https://open.spotify.com/album/6oICItoCzy52AKxGR0Kw9i"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65203,
+      "name": "Just.",
+      "url": "https://open.spotify.com/track/3Yaajfj3UQmyjzqwKm8uge"
     },
     {
       "album": {
@@ -1056,7 +1128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 385320,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u"
@@ -1524,7 +1596,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 288271,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa"
@@ -1686,7 +1758,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 271200,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq"
@@ -1726,6 +1798,24 @@
       "duration_ms": 290900,
       "name": "Sad,Infinite And Dazed",
       "url": "https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh"
+    },
+    {
+      "album": {
+        "name": "Selfless Love",
+        "url": "https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM"
+      },
+      "artists": [
+        {
+          "name": "dansa med dig",
+          "url": "https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Selfless Love",
+      "url": "https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7"
     },
     {
       "album": {
@@ -1902,7 +1992,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166946,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6KfBtlxnO1lwrvySAoynQD"
@@ -1920,7 +2010,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 375248,
       "name": "Summertime Has Come",
       "url": "https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT"
@@ -2014,6 +2104,24 @@
       "duration_ms": 276374,
       "name": "To My Love",
       "url": "https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU"
+    },
+    {
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9"
+      },
+      "artists": [
+        {
+          "name": "The Whisperer",
+          "url": "https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd"
     },
     {
       "album": {
@@ -2212,7 +2320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 153400,
       "name": "\u3055\u3056\u3081\u304f\u9ea6\u308f\u3089",
       "url": "https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2"
@@ -2284,7 +2392,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 255119,
       "name": "\u6700\u521d\u306e\u5929\u4f7f",
       "url": "https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V"

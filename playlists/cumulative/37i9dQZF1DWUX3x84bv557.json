@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Bente",
+  "description": "De nieuwste Nederlandse pop! Cover: FLEMMING",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 229320,
       "name": "6 Ballonnen",
       "url": "https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166200,
       "name": "Achterom",
       "url": "https://open.spotify.com/track/5nQXli1o0ryNQL741hvnqt"
@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Voor Jou Kon Kiezen",
+        "url": "https://open.spotify.com/album/3dHkxCOOUHsfbdOqLAJXzB"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134687,
+      "name": "Als Ik Voor Jou Kon Kiezen",
+      "url": "https://open.spotify.com/track/6GUGE5QnGLUz37trubL40t"
+    },
+    {
+      "album": {
         "name": "Als Je Haar Ziet",
         "url": "https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 185285,
       "name": "Alsof ik jou ben",
       "url": "https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD"
@@ -1366,6 +1384,24 @@
       "duration_ms": 196010,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R"
+    },
+    {
+      "album": {
+        "name": "Nog States",
+        "url": "https://open.spotify.com/album/36CjM3IAUHq3SGvY8XqIjr"
+      },
+      "artists": [
+        {
+          "name": "Yes-R",
+          "url": "https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/5kGnvaCmS16MHPWfbj4LaT"
     },
     {
       "album": {
@@ -2226,7 +2262,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 139250,
       "name": "Cosmo",
       "url": "https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa"
@@ -3134,6 +3170,24 @@
       "duration_ms": 177362,
       "name": "diesel",
       "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
+    },
+    {
+      "album": {
+        "name": "Dilara",
+        "url": "https://open.spotify.com/album/5DwnW6ZSOyM6CNaklo5XnY"
+      },
+      "artists": [
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125038,
+      "name": "Dilara",
+      "url": "https://open.spotify.com/track/3N2cxA2874Unb9GY7jLK0F"
     },
     {
       "album": {
@@ -4673,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "Hee Vriend",
+        "url": "https://open.spotify.com/album/4HlbsngQXVOEHEUOBhoYJa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Hee Vriend",
+      "url": "https://open.spotify.com/track/3CibO988O8WkYzmEui8tua"
+    },
+    {
+      "album": {
         "name": "Heel Misschien",
         "url": "https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw"
       },
@@ -4792,7 +4864,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 139743,
       "name": "Heling",
       "url": "https://open.spotify.com/track/79WaMgt0AKB74sqqPo9Kdw"
@@ -4984,6 +5056,28 @@
       "duration_ms": 235265,
       "name": "Het Komt Wel Goed",
       "url": "https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ"
+    },
+    {
+      "album": {
+        "name": "Het Midden",
+        "url": "https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        },
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Het Midden",
+      "url": "https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL"
     },
     {
       "album": {
@@ -5412,6 +5506,24 @@
       "duration_ms": 183747,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/5cEXuATPIXChMiJ9J2K8N5"
+    },
+    {
+      "album": {
+        "name": "Hou Me Vast",
+        "url": "https://open.spotify.com/album/7uy0X46Xpf5FnJlfEiT67s"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174734,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/2pLpQS9Bpz095fvVPFFsSV"
     },
     {
       "album": {
@@ -6082,6 +6194,24 @@
       "duration_ms": 140643,
       "name": "Industry Plant",
       "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
+        "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169023,
+      "name": "Ind\u00e9pendant",
+      "url": "https://open.spotify.com/track/7EKIK7qBI1n8pSORJy4vyG"
     },
     {
       "album": {
@@ -7374,7 +7504,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166015,
       "name": "Littekens",
       "url": "https://open.spotify.com/track/5tcmKbwnW0wKWbxDlcI4Mv"
@@ -7824,6 +7954,24 @@
       "duration_ms": 207750,
       "name": "Mens",
       "url": "https://open.spotify.com/track/17bVqSvBXixR9bo2YsG8nk"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
+        "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177877,
+      "name": "Mes In M'n Rug",
+      "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
     },
     {
       "album": {
@@ -10418,7 +10566,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 206154,
       "name": "Soms Regen Ik Ook",
       "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
@@ -11562,7 +11710,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 187391,
       "name": "Vas-y",
       "url": "https://open.spotify.com/track/0wZYIQ2875xa0VhiBcJEhY"
@@ -12906,7 +13054,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 175709,
       "name": "Wie is zij",
       "url": "https://open.spotify.com/track/76RE1A1vlV8AsFWhAVnGbT"
@@ -12978,7 +13126,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 250230,
       "name": "Wolk breekt",
       "url": "https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ"
@@ -12996,7 +13144,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 183197,
       "name": "Wonen In Het Westen",
       "url": "https://open.spotify.com/track/0tMLH7zuBzXuZpMaGf6AEb"
@@ -13018,6 +13166,24 @@
       "duration_ms": 282906,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
+    },
+    {
+      "album": {
+        "name": "Gesprekken Met Mezelf",
+        "url": "https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kist",
+          "url": "https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237672,
+      "name": "Zaklamp",
+      "url": "https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN"
     },
     {
       "album": {

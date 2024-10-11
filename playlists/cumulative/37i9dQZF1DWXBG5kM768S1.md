@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-243 songs - 15 hr 32 min
+244 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Livet Mitt](https://open.spotify.com/track/14TheOeTxRnFLL8LaTPvuj) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [Livet Mitt](https://open.spotify.com/album/20jnCsnuoAuuOokrknak3H) | 3:25 | 2022-03-23 | 2022-04-18 |
 | [Løvblad i vinden](https://open.spotify.com/track/38J3Av5XTtizhvtOHUDE1o) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Løvblad i vinden](https://open.spotify.com/album/28PEXasrDwsRhOOxovjXIk) | 3:17 | 2021-12-16 | 2022-07-23 |
 | [Løvenskioldsgate 5](https://open.spotify.com/track/3E28nTB7Rl7zAmJX0G1UIM) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Løvenskioldsgate 5](https://open.spotify.com/album/2Xuu26ynYaZxISKZ6t3d6v) | 3:17 | 2022-02-17 | 2022-07-27 |
-| [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 | 2022-01-06 |  |
+| [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 | 2022-01-06 | 2024-10-11 |
 | [Midt i mørket](https://open.spotify.com/track/5bVgmnECHM8wRr9E84VAr9) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Ten Sing 50 år \- De utrolige](https://open.spotify.com/album/1QNWE943EdD53JCsViyRoQ) | 4:42 | 2022-01-06 | 2022-06-07 |
 | [Miriams sang](https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [Et sted under stjernene](https://open.spotify.com/album/4lkAF5a0B0xDbaTcbZY4NL) | 3:41 | 2021-12-16 | 2022-07-23 |
 | [Mitt Andre Hjem](https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM), [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K) | [Mitt Andre Hjem](https://open.spotify.com/album/4WChofZor5RuSged93ZT0c) | 3:32 | 2021-12-16 | 2022-07-23 |
@@ -178,6 +178,7 @@
 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 | 2021-12-16 |  |
 | [Når ingen ser](https://open.spotify.com/track/4ElNvj3wSF0S7sf8HLnxig) | [Christian Ingebrigtsen](https://open.spotify.com/artist/2rqmyyW0bTclIFX2Ec2AwN) | [Når ingen ser](https://open.spotify.com/album/2Uqrf8Dbw0y32lbpkXSgH2) | 3:56 | 2021-12-16 | 2022-04-21 |
 | [Når månen lyser](https://open.spotify.com/track/0w9NPRolxSnW7eynjqeZp9) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy), [Thorbjørn Harr](https://open.spotify.com/artist/00WEn86i8SDGAa8sIfahSc) | [Når månen lyser](https://open.spotify.com/album/4TKYxUXC59kwiH7NFDYMRk) | 4:27 | 2022-03-23 | 2022-04-14 |
+| [Oss og vi](https://open.spotify.com/track/2ZzysQlfFWUB4dQ2eCMkuK) | [Lundevall](https://open.spotify.com/artist/3ajMDUu73dkYgLPJ2O8fbm) | [Smertestillende 7 stk.](https://open.spotify.com/album/6419c7pT1hqyg4GY4kV0Os) | 3:01 | 2024-10-10 |  |
 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 | 2024-09-12 |  |
 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 | 2021-12-16 | 2023-04-28 |
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-09-19 |  |

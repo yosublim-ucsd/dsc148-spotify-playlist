@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-677 songs - 1 day 12 hr 12 min
+681 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cloud Surf](https://open.spotify.com/track/5vYEP4fVYC4VwimS2L3J21) | [GALAFUNK](https://open.spotify.com/artist/5cBXHUwPEFHePvKdQqFYzb) | [Cloud Surf](https://open.spotify.com/album/1aXEnX1VBrPzxXUmG0KbcO) | 3:19 | 2024-05-30 |  |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 |  |
 | [Coexistence](https://open.spotify.com/track/5tD5TkJ6LxyIqqI9TGUvCc) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Coexistence](https://open.spotify.com/album/67kLWA4NECjGwFQKm6J4ML) | 2:46 | 2023-12-08 | 2024-01-06 |
+| [Coin Toss](https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coin Toss](https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC) | 2:13 | 2024-10-10 |  |
 | [Come Closer](https://open.spotify.com/track/3v53NvBLdoPiyDPJ4MPcW9) | [ANDREA CALABRIA](https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1) | [Come Closer](https://open.spotify.com/album/38E64aHEVdOO0z9W3s7GJA) | 3:00 | 2024-07-25 |  |
 | [Comedown](https://open.spotify.com/track/5iDn05wrs0yVWihC5YFlZU) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Matt You](https://open.spotify.com/artist/54p0AZwrKT6Ua6W5P60IwG) | [Comedown](https://open.spotify.com/album/2TTwBbmPUodJEiDVEU9OLG) | 3:12 | 2024-06-06 |  |
 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 | 2024-04-11 |  |
@@ -145,6 +146,7 @@
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-04-27 | 2024-01-06 |
 | [don’t say](https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [don’t say](https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7) | 3:30 | 2023-09-14 |  |
 | [Down On My Love](https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ) | [Down On My Love](https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb) | 2:49 | 2023-11-30 | 2024-01-06 |
+| [drown](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [drown](https://open.spotify.com/album/4SBqaBsnhT1kWWr7N9lvGv) | 2:54 | 2024-10-10 |  |
 | [dublin](https://open.spotify.com/track/6mEGBUUubG4YZ8WD8pIAwk) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [dublin](https://open.spotify.com/album/0Z8ZczWeNpTRVIYTzlZVt5) | 3:00 | 2023-09-21 | 2024-01-06 |
 | [Dust](https://open.spotify.com/track/2i3nykI6NtCdrp6TyTuTVM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Dust](https://open.spotify.com/album/4NCWDMas79CEDrnIjnlfJF) | 2:12 | 2024-02-08 |  |
 | [Dust](https://open.spotify.com/track/13R5q2nJrYuUEHy0l7fSt9) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Dust](https://open.spotify.com/album/5cYgsQGisq4HEDQPxh9geQ) | 2:24 | 2024-02-15 | 2024-04-19 |
@@ -285,6 +287,7 @@
 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 | 2024-07-25 |  |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-02-22 | 2024-07-03 |
 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 | 2024-02-29 |  |
+| [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 | 2024-10-10 |  |
 | [In The Summer](https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:57 | 2023-07-28 | 2024-01-06 |
 | [IN YOUR EYES](https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [IN YOUR EYES](https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24) | 3:16 | 2024-07-02 |  |
 | [Indefinitely](https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Indefinitely](https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0) | 2:09 | 2024-07-25 |  |
@@ -659,6 +662,7 @@
 | [When Did You Know?](https://open.spotify.com/track/3YCqzGoLy0mVos7Xso2OLl) | [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [When Did You Know?](https://open.spotify.com/album/1P095HZ0xoNQH00Mns1UDI) | 2:24 | 2024-05-23 |  |
 | [when you](https://open.spotify.com/track/6dmXA0k54GvfyHMMoYSa4q) | [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [how I saw it \(side B\)](https://open.spotify.com/album/4yKIURLq3TcyVTOVjV6wmE) | 3:19 | 2023-06-08 |  |
 | [When You Love Someone](https://open.spotify.com/track/3QYwMPBidU0VOG22qfLen1) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [When You Love Someone](https://open.spotify.com/album/5XFn4YhIngF56rhqu7DgLF) | 2:24 | 2024-01-25 |  |
+| [Where Are You Now](https://open.spotify.com/track/13F2gancTCuNE1QQMjup6h) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Joe Farwick](https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s) | [Melancholia](https://open.spotify.com/album/2Jd6pgvCVkVy3apKPe0n09) | 4:54 | 2024-10-10 |  |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-27 | 2024-01-06 |
 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 | 2024-08-22 |  |
 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-06-22 | 2024-01-06 |

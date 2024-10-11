@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94790,
+  "num_followers": 94783,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-09-19 23:01:00",
       "album": {
-        "name": "Take 5",
-        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 191856,
-      "name": "Take 5",
-      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
-    },
-    {
-      "added_at": "2024-09-19 23:01:00",
-      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2024-09-19 23:01:00",
+      "album": {
+        "name": "Take 5",
+        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 191856,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
     },
     {
       "added_at": "2024-09-19 23:01:00",

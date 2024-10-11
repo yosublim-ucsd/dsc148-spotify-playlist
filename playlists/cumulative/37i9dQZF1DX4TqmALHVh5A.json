@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Aime Simone",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Rahim Redcar",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Singles and Rarities",
+        "url": "https://open.spotify.com/album/22VfnIdacX3d1GNA7771yE"
+      },
+      "artists": [
+        {
+          "name": "VoX LoW",
+          "url": "https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359288,
+      "name": "Baby Brown (Short Edit)",
+      "url": "https://open.spotify.com/track/5mhEeSJUAm9KpjDF6wwvKk"
+    },
+    {
+      "album": {
         "name": "babyBB",
         "url": "https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 200000,
       "name": "babyBB",
       "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 202988,
       "name": "Call Me - Single Edit",
       "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 173684,
       "name": "Dannazione",
       "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
@@ -838,6 +856,24 @@
       "duration_ms": 171800,
       "name": "Dans\u00e9",
       "url": "https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG"
+    },
+    {
+      "album": {
+        "name": "Heart Choices",
+        "url": "https://open.spotify.com/album/6EAJ9G6DT4UUYCqghIWEyj"
+      },
+      "artists": [
+        {
+          "name": "Maddy Street",
+          "url": "https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153802,
+      "name": "Deep Eyes",
+      "url": "https://open.spotify.com/track/57If5DV9TQdoSHKP5jNvSh"
     },
     {
       "album": {
@@ -1097,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Fortune",
+        "url": "https://open.spotify.com/album/1oIAdZXowgU2fj6rmKKqMp"
+      },
+      "artists": [
+        {
+          "name": "Dead Chic",
+          "url": "https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185068,
+      "name": "Fortune",
+      "url": "https://open.spotify.com/track/309ebGLU8IFokDjlcDdHgV"
+    },
+    {
+      "album": {
         "name": "garder le sourire",
         "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
       },
@@ -1310,6 +1364,24 @@
       "duration_ms": 209440,
       "name": "Ikea Boy",
       "url": "https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3"
+    },
+    {
+      "album": {
+        "name": "IN EXTREMIS",
+        "url": "https://open.spotify.com/album/6MExSpDdVs0vh3t2OChygh"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227336,
+      "name": "In extremis",
+      "url": "https://open.spotify.com/track/5c7xsAj83FaUHDzBNNE434"
     },
     {
       "album": {
@@ -3626,7 +3698,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 179007,
       "name": "Z",
       "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"

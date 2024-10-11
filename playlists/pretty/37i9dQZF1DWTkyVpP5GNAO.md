@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9<br/>">Christine D'Clario</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,081 likes - 75 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,231 likes - 75 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

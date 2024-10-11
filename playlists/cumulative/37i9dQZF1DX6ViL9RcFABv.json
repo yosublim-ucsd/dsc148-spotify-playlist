@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Calema",
+  "description": "Uma playlist de pura alma pop! Foto: Mickael Carreira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 178014,
       "name": "Anos 90",
       "url": "https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl"
@@ -180,6 +180,24 @@
       "duration_ms": 216706,
       "name": "Ao Teu Ouvido (feat. B\u00e1rbara Tinoco)",
       "url": "https://open.spotify.com/track/6bZkZEAd74aN460QLox8W9"
+    },
+    {
+      "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/36heBACSXybLbTgwAHf8Ja"
+      },
+      "artists": [
+        {
+          "name": "Mickael Carreira",
+          "url": "https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166329,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/3wsBY12jclLxRB8IkQkfFh"
     },
     {
       "album": {
@@ -325,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Capicuas",
+        "url": "https://open.spotify.com/album/61ilOfzmq0FfizugStjxDm"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Capicuas",
+      "url": "https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu"
+    },
+    {
+      "album": {
         "name": "Cara a Cara",
         "url": "https://open.spotify.com/album/6S3P0rv3UuWsWwRLwHs0SM"
       },
@@ -336,7 +372,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 179731,
       "name": "Cara a Cara",
       "url": "https://open.spotify.com/track/2Ik0mM3HtmmFJNBQU6iutp"
@@ -420,6 +456,28 @@
       "duration_ms": 154736,
       "name": "Celebrau",
       "url": "https://open.spotify.com/track/7iIEaCUFTU9bPmo5YvS7eT"
+    },
+    {
+      "album": {
+        "name": "Chelas",
+        "url": "https://open.spotify.com/album/1f4GKTogkgEWUjcqDhBRMz"
+      },
+      "artists": [
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Chelas",
+      "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
     },
     {
       "album": {
@@ -809,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Diz-se a\u00ed ... (Dois Pares de Botas)",
+        "url": "https://open.spotify.com/album/00ko18V7emW5bHIc85eLfo"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        },
+        {
+          "name": "Joana Almeirante",
+          "url": "https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "Diz-se a\u00ed ... (Dois Pares de Botas)",
+      "url": "https://open.spotify.com/track/3XU0AFp8OqH4SD3BbVUANw"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ"
       },
@@ -990,7 +1070,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 187057,
       "name": "Estrago",
       "url": "https://open.spotify.com/track/7oqQ5UI5vBioYH4KNDOHJI"
@@ -1343,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/067QyMgx2vn0d40ekW9jMy"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        },
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Imagina a Cara Dela",
+      "url": "https://open.spotify.com/track/3RyP0beviSEoGuMN0nGDPX"
+    },
+    {
+      "album": {
         "name": "Juntar Estrelas",
         "url": "https://open.spotify.com/album/3Zcv7hf4aVLPbDiIy19p7t"
       },
@@ -1570,7 +1672,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 196418,
       "name": "N\u00e3o Durmo Bem",
       "url": "https://open.spotify.com/track/5TgfKSmnnyI21rnY5m01kf"
@@ -1631,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "O Teu Cheiro",
+        "url": "https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "O Teu Cheiro",
+      "url": "https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r"
+    },
+    {
+      "album": {
         "name": "Oj\u00e9 Oj\u00e9",
         "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
       },
@@ -1678,7 +1798,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197033,
       "name": "Outra vez",
       "url": "https://open.spotify.com/track/7A9xkQbFCU9ynZeptsMlAk"
@@ -1776,7 +1896,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 144000,
       "name": "pod\u00edamos ser n\u00f3s",
       "url": "https://open.spotify.com/track/7rWYvfOX3c6JoenZBxQFYI"
@@ -1910,7 +2030,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171670,
       "name": "Ramantxada",
       "url": "https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT"
@@ -2316,7 +2436,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 210989,
       "name": "Vai Vaguear",
       "url": "https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv"

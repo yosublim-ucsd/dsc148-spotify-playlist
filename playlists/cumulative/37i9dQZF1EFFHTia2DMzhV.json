@@ -2427,6 +2427,40 @@
     },
     {
       "album": {
+        "name": "Heart's Delight - The Songs Of Richard Tauber",
+        "url": "https://open.spotify.com/album/5ePlAJotGkAC10evHn114u"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Romberg",
+          "url": "https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr"
+        },
+        {
+          "name": "Piotr Beczala",
+          "url": "https://open.spotify.com/artist/2TMEwrUmFfQ5KUOXEDa3Jz"
+        },
+        {
+          "name": "Berlin Comedian Harmonists",
+          "url": "https://open.spotify.com/artist/3nkSaVoXa0HQ7wvHAPXsnv"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "\u0141ukasz Borowicz",
+          "url": "https://open.spotify.com/artist/7uLvjFKAw1iwyrA3FrSkaa"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "The Student Prince - Arr. by Paul Bateman: Overhead The Moon Is Beaming",
+      "url": "https://open.spotify.com/track/2EDDoa9YjJKYkm22ZyLgds"
+    },
+    {
+      "album": {
         "name": "What You'd Call a Dream",
         "url": "https://open.spotify.com/album/0BmaNAPgyOtXCxpwcRZm8j"
       },
@@ -2446,7 +2480,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 209117,
       "name": "The Student Serenade from the Student Prince",
       "url": "https://open.spotify.com/track/3BGKqOh9Entxma8K03wRqu"

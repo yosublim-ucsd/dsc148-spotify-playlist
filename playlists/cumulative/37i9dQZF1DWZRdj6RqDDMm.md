@@ -2,9 +2,9 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=CpG0PAoPTDG4Ofil9G4flQ>Marizu
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=hLU63GlGSKGIsxdKFSPg\_Q>Omojo
 
-350 songs - 20 hr 23 min
+355 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-06-07 |
 | [Easy](https://open.spotify.com/track/4VBagSXFy5qzMvDd3RWbeZ) | [Reubie the Artist](https://open.spotify.com/artist/2CpHiduRy3bVW44ODZ8Wzg), [Tim](https://open.spotify.com/artist/42GNCDUR5O6qp9zEw72zLE) | [Easy](https://open.spotify.com/album/0spXZewYIJPSqmPTRB151Q) | 3:17 | 2024-04-19 | 2024-06-07 |
 | [Eazy](https://open.spotify.com/track/6vaoPNq2lJZ6DzRZZAS21G) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm) | [Eazy](https://open.spotify.com/album/3d0RkuEYcmCwMVMEcSlBVV) | 2:15 | 2023-10-20 | 2024-01-12 |
+| [EAZY BABY \- UNVL' 24](https://open.spotify.com/track/0g8v4CkCqnS1xFq4hpiS74) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [EAZY BABY \(UNVL' 24\)](https://open.spotify.com/album/76zrlgzv9vwpnwFvczpyR8) | 2:26 | 2024-10-11 |  |
 | [Echoes Of Love](https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Echoes Of Love](https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt) | 3:31 | 2024-06-01 | 2024-08-09 |
 | [EL GIBOR](https://open.spotify.com/track/6FfG8FIsrsDqMjvFY9bTno) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [EL GIBOR](https://open.spotify.com/album/03vsdpnVy3jTMRcduHDMEh) | 2:19 | 2024-03-21 | 2024-06-07 |
 | [El Roi](https://open.spotify.com/track/7Asby5UHS9Abm4M4UtSEF9) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [El Roi](https://open.spotify.com/album/35GGIjcUikr8SU0fZUGIEm) | 2:10 | 2024-08-09 |  |
@@ -119,7 +120,10 @@
 | [Freedom](https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Freedom](https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f) | 2:43 | 2024-09-27 |  |
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-12 | 2024-02-02 |
 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 | 2024-09-20 |  |
+| [Gather Dey](https://open.spotify.com/track/6dI8DLiMjcPT9fuD8m9Ieg) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Gather Dey](https://open.spotify.com/album/0D7dexoOUXOlbHHBJYQYeF) | 3:04 | 2024-10-11 |  |
+| [Gathering \- Special Version](https://open.spotify.com/track/0YKi0GV9YJ5ufYvX5aOYeK) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Gathering \(Special Version\)](https://open.spotify.com/album/16aGD6JpxEnq8WIknNoo2T) | 2:25 | 2024-10-11 |  |
 | [Glory](https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Glory](https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz) | 3:12 | 2023-11-03 | 2024-01-12 |
+| [Glory Days! \- Special Version](https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory Days! \- Special Version](https://open.spotify.com/album/3bAUV7ihfuNxmoiTayLGpj) | 2:45 | 2024-10-11 |  |
 | [God abeg](https://open.spotify.com/track/5diDmQkEpe6wbTGDSRh7yW) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Lucid Notes Vol\. I](https://open.spotify.com/album/0Ikgis3xcM49NfpohlUfoY) | 3:34 | 2024-03-29 | 2024-05-03 |
 | [God Is with Us](https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [God Is with Us](https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab) | 4:28 | 2024-07-12 | 2024-09-06 |
 | [GODFIDENCE](https://open.spotify.com/track/0GuUunRa2XDOqCyR2l6DY2) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [GODFIDENCE](https://open.spotify.com/album/6VfuzPZmOss5rXDK8hfY76) | 2:50 | 2024-03-29 | 2024-05-03 |
@@ -204,6 +208,7 @@
 | [My Life](https://open.spotify.com/track/5k3S8w74XsbNBDUHdiFiwz) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [My Life](https://open.spotify.com/album/6raOH84yGL3ZzpOtpIgPbQ) | 2:54 | 2024-07-26 | 2024-10-04 |
 | [my Light](https://open.spotify.com/track/1Yu55Al0TiS5YdSrMl7cWX) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus is Lord](https://open.spotify.com/album/00MR3DsfzyVVJPGUMz0oWP) | 2:51 | 2024-01-19 | 2024-02-23 |
 | [My Lord \(Isaiah 2:11\)](https://open.spotify.com/track/7vjSZuqvoGd9KJ7XazdkHu) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [My Lord \(Isaiah 2:11\)](https://open.spotify.com/album/26lCJiZGnBkRU4c0OybPXW) | 2:35 | 2023-11-03 | 2024-01-26 |
+| [My Lord is Good](https://open.spotify.com/track/6AEQOLEYTFQlorjhbr0e75) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [My Lord Is Good](https://open.spotify.com/album/6FWH09Kwodt4ReIiCRIUi5) | 2:10 | 2024-10-11 |  |
 | [my side](https://open.spotify.com/track/5lxDpepi7sv1o6BwukXGtC) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [my side](https://open.spotify.com/album/0eoEKov6mHqYsJO6LG7ywn) | 2:30 | 2024-03-21 | 2024-06-07 |
 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 | 2023-10-20 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Na You Dey Reign](https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm) | 4:27 | 2023-10-20 | 2023-10-27 |

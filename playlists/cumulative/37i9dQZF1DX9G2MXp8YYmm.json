@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Ege Balkiz",
+  "description": "Popun sevilen isimleri. Kapak: G\u00fcliz Ayla",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 175000,
       "name": "Ahde Vefa",
       "url": "https://open.spotify.com/track/1Jg14R12v9VvvUqKZuzKr9"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 130080,
       "name": "Ben B\u00f6yle",
       "url": "https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh"
@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Bi' Fark\u0131n Var",
+        "url": "https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcliz Ayla",
+          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152450,
+      "name": "Bi' Fark\u0131n Var",
+      "url": "https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL"
+    },
+    {
+      "album": {
         "name": "Bir G\u00fcn Ol Yerimde",
         "url": "https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b"
       },
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 137872,
       "name": "Bizden Olmaz",
       "url": "https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 249801,
       "name": "D\u00f6n Geri",
       "url": "https://open.spotify.com/track/4PQPUyhIjnw0QjTvqRVWWT"
@@ -1000,6 +1018,32 @@
       "duration_ms": 210064,
       "name": "D\u00fcnya Hevesi",
       "url": "https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp"
+    },
+    {
+      "album": {
+        "name": "Esmer",
+        "url": "https://open.spotify.com/album/4AyoygSAYsKAErO6s6ha67"
+      },
+      "artists": [
+        {
+          "name": "Okan & Volkan",
+          "url": "https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV"
+        },
+        {
+          "name": "Ahlat",
+          "url": "https://open.spotify.com/artist/015PSt8FXZRLBK936dOQUG"
+        },
+        {
+          "name": "Can Demir",
+          "url": "https://open.spotify.com/artist/00UK1NIitQXRyJKMh5tJhV"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Esmer",
+      "url": "https://open.spotify.com/track/2QiIcD1oAKlusZ7gPBOPQ8"
     },
     {
       "album": {
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 151888,
       "name": "Ho\u015funa Gidiyo",
       "url": "https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE"
@@ -2136,7 +2180,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 221037,
       "name": "Vakitsiz Geldin",
       "url": "https://open.spotify.com/track/4sXE51Fg8kmWLzoi9cXvun"

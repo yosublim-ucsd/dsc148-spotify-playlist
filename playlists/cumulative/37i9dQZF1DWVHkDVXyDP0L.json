@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Grogans",
+  "description": "New and local indie noise. Cover: Gut Health",
   "name": "Local Noise",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 203076,
       "name": "1800-PAINLESS",
       "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
+    },
+    {
+      "album": {
+        "name": "2 in the AM PM",
+        "url": "https://open.spotify.com/album/1grll5i9BeqNVv4P2yKRHU"
+      },
+      "artists": [
+        {
+          "name": "Alison Road",
+          "url": "https://open.spotify.com/artist/0OeHjg4TE1wDmzjlEMjWy0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223372,
+      "name": "2 in the AM PM",
+      "url": "https://open.spotify.com/track/6TfQadvDh7q12sNlfGVeCK"
     },
     {
       "album": {
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 151413,
       "name": "Annoying Riffs",
       "url": "https://open.spotify.com/track/4iET6mz5YWon4Pl7OpsUQi"
@@ -334,6 +352,24 @@
       "duration_ms": 179608,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn"
+    },
+    {
+      "album": {
+        "name": "A Garden of Small Disappointments",
+        "url": "https://open.spotify.com/album/79qTty241nkxMo7EZPg0ot"
+      },
+      "artists": [
+        {
+          "name": "Jess Day",
+          "url": "https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/53GZvXAcR9tgpHD9qhR8Jm"
     },
     {
       "album": {
@@ -442,7 +478,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 172389,
       "name": "Bleed But Never Die",
       "url": "https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W"
@@ -568,7 +604,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 247136,
       "name": "Britney Spears",
       "url": "https://open.spotify.com/track/2nkWAT1M3xE0dkT6KTQSK2"
@@ -734,6 +770,24 @@
       "duration_ms": 160589,
       "name": "CELLPHONE",
       "url": "https://open.spotify.com/track/6JR09Bqla348Q30W34Vh5n"
+    },
+    {
+      "album": {
+        "name": "Champagne & Nikes",
+        "url": "https://open.spotify.com/album/7BsLSkCYzbScXI4BFReb5d"
+      },
+      "artists": [
+        {
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156620,
+      "name": "Champagne & Nikes",
+      "url": "https://open.spotify.com/track/7eQ9YZqwYQ5peVXUuzSoKU"
     },
     {
       "album": {
@@ -1282,7 +1336,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 315760,
       "name": "Eighteen",
       "url": "https://open.spotify.com/track/6AYJj0174f801Mz0Yk18wQ"
@@ -1304,6 +1358,24 @@
       "duration_ms": 248061,
       "name": "eleveneleven - short",
       "url": "https://open.spotify.com/track/6ouZRw6LHIVWtxs44QNazP"
+    },
+    {
+      "album": {
+        "name": "GFC / EMPTY BARRELS",
+        "url": "https://open.spotify.com/album/46ib4fXRLl2PW6EXj5Oj31"
+      },
+      "artists": [
+        {
+          "name": "STIFF RICHARDS",
+          "url": "https://open.spotify.com/artist/0tDaLHgoNT53Kr4OQ6XG7J"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75509,
+      "name": "Empty Barrels",
+      "url": "https://open.spotify.com/track/5BfEjqgxW5c1SsI8gfT1VS"
     },
     {
       "album": {
@@ -1394,6 +1466,24 @@
       "duration_ms": 180704,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0C9BgLXXFuyNcxGzfZXhfT"
+    },
+    {
+      "album": {
+        "name": "Falls Away",
+        "url": "https://open.spotify.com/album/0IFqk4NqMQu5CworWATX9J"
+      },
+      "artists": [
+        {
+          "name": "Stormy-Lou",
+          "url": "https://open.spotify.com/artist/6UBHfmGknwru62HQNnlIdW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169359,
+      "name": "Falls Away",
+      "url": "https://open.spotify.com/track/6qwqehUiYQnjaJmoK1DNEj"
     },
     {
       "album": {
@@ -1520,6 +1610,24 @@
       "duration_ms": 173410,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/1CfOSnxdh51BmF95wAaBqP"
+    },
+    {
+      "album": {
+        "name": "First Night Fever",
+        "url": "https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "First Night Fever",
+      "url": "https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA"
     },
     {
       "album": {
@@ -1678,7 +1786,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 154800,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/2xCZ5XGZypH7rIlrvf4UCz"
@@ -1826,7 +1934,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 227027,
       "name": "Have You Lost Yourself?",
       "url": "https://open.spotify.com/track/3TBPGJ90CjAVedzVd86bFj"
@@ -2031,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
+    },
+    {
+      "album": {
         "name": "HOPELESS",
         "url": "https://open.spotify.com/album/66hOb5N7d4kmcEuSMhGvNs"
       },
@@ -2136,6 +2262,24 @@
       "duration_ms": 228128,
       "name": "I Can Wait",
       "url": "https://open.spotify.com/track/1tlLIciSeMZbUyBPCFUZJK"
+    },
+    {
+      "album": {
+        "name": "I Don't Understand How Planes Work",
+        "url": "https://open.spotify.com/album/0KmQ6NDMm6hqeVGrs5pv5v"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204301,
+      "name": "I Don't Understand How Planes Work",
+      "url": "https://open.spotify.com/track/12DXULWlJOyrf0zL9wCylR"
     },
     {
       "album": {
@@ -2352,7 +2496,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 214507,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
@@ -2580,6 +2724,24 @@
       "duration_ms": 140487,
       "name": "LIFE'S A BEACH",
       "url": "https://open.spotify.com/track/0QQsTOO7UVwVBW1nbQALC2"
+    },
+    {
+      "album": {
+        "name": "Light Up The Path",
+        "url": "https://open.spotify.com/album/3yqg1fo5jnijZk6cm4k4oM"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238514,
+      "name": "Light Up The Path",
+      "url": "https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq"
     },
     {
       "album": {
@@ -3012,7 +3174,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 175010,
       "name": "ninezero",
       "url": "https://open.spotify.com/track/1TzuF0wtfTOLRjSc7mhN8w"
@@ -3365,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Patiently",
+        "url": "https://open.spotify.com/album/4KcDKEjrd778SLGlPE1vKx"
+      },
+      "artists": [
+        {
+          "name": "Third Junction",
+          "url": "https://open.spotify.com/artist/74olOZvzs76jHYXnrU2YP6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218219,
+      "name": "Patiently",
+      "url": "https://open.spotify.com/track/4QpdSZceLLtEMBQPf1jKBB"
+    },
+    {
+      "album": {
         "name": "Surface World",
         "url": "https://open.spotify.com/album/5Fnd3Md7flbsdcJb2ejnsR"
       },
@@ -3466,7 +3646,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
@@ -3636,7 +3816,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 128916,
       "name": "RAINED OFF",
       "url": "https://open.spotify.com/track/1TX3yGKnupf5TBNKJuk1Vm"
@@ -3672,7 +3852,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 203339,
       "name": "REAL",
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
@@ -3730,6 +3910,24 @@
       "duration_ms": 308288,
       "name": "Repeating Repeating",
       "url": "https://open.spotify.com/track/2gGlhtCT3htTp18SfRMOi5"
+    },
+    {
+      "album": {
+        "name": "Stiletto",
+        "url": "https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF"
     },
     {
       "album": {
@@ -4093,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Dogs",
+        "url": "https://open.spotify.com/album/6pwByNKOnvpOvzNrUg242D"
+      },
+      "artists": [
+        {
+          "name": "Twine",
+          "url": "https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "Sleeping Dogs",
+      "url": "https://open.spotify.com/track/7xW9JjKq1cl6ZBq8tTkeWA"
+    },
+    {
+      "album": {
         "name": "slut era",
         "url": "https://open.spotify.com/album/26Aap3VdSgDzBzxvY38Us7"
       },
@@ -4194,7 +4410,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 158006,
       "name": "Spain",
       "url": "https://open.spotify.com/track/4xKk9AP1wEbK9N5WmScRMK"
@@ -4252,7 +4468,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 441450,
       "name": "Stiletto",
       "url": "https://open.spotify.com/track/4NVUat14Xk5CiaCzR41ijf"
@@ -4457,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "album": {
         "name": "TANTRUM",
         "url": "https://open.spotify.com/album/4iaROZXjnQxL5MFKeMjdgT"
       },
@@ -4655,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "The Way It Goes",
+        "url": "https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg"
+      },
+      "artists": [
+        {
+          "name": "Secret World",
+          "url": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154710,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE"
+    },
+    {
+      "album": {
         "name": "Think Again, Motherf*cker",
         "url": "https://open.spotify.com/album/2zHr7RS1GPrtsiF0grSLaa"
       },
@@ -4720,7 +4972,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 284293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/0ZN8kajcWw7pDNzTgsYMLB"

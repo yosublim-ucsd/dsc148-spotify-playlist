@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Sully Burrows
 
-1,681 songs - 3 day 14 hr 49 min
+1,683 songs - 3 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,13 +627,14 @@
 | [Home](https://open.spotify.com/track/1cP6g7lhFx3TjIgQ57JXUi) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [The Fall](https://open.spotify.com/album/4QcDnkpJ5TM1bxbEoyzpZ1) | 2:58 | 2024-05-08 | 2024-05-16 |
 | [Home](https://open.spotify.com/track/6jHvW4orr3E0yOONE44XGb) | [Ophilia](https://open.spotify.com/artist/1r4zI6eEopx7Uh90naGbrf) | [Home](https://open.spotify.com/album/2oMfxrU1ti0enosQnibrs0) | 3:18 | 2023-09-27 | 2023-10-12 |
 | [Home](https://open.spotify.com/track/7GF8Hx6SBAgui986dNeGYQ) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Mellifluous](https://open.spotify.com/album/5A1mjQLNChJIbN8rTXIX3t) | 4:20 | 2023-09-13 | 2023-10-05 |
-| [Homecoming](https://open.spotify.com/track/5MebLJTdoVfc1uucifEv1d) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Homecoming Season](https://open.spotify.com/album/43VEiSVI7kUFzSxYLdhelC) | 2:39 | 2024-09-26 |  |
+| [Homecoming](https://open.spotify.com/track/5MebLJTdoVfc1uucifEv1d) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Homecoming Season](https://open.spotify.com/album/43VEiSVI7kUFzSxYLdhelC) | 2:39 | 2024-09-26 | 2024-10-11 |
 | [homies](https://open.spotify.com/track/6hbCFrTMnTsGUm1sLSw5yx) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [homies](https://open.spotify.com/album/31IBbJhGLaDsJQib6JwcVh) | 3:40 | 2024-08-07 | 2024-09-12 |
 | [Honest](https://open.spotify.com/track/6SloAIIEp2SSQcQzumoNdF) | [Seyblu](https://open.spotify.com/artist/6TGK3wsHfrTrj0D89dSbCB) | [Honest](https://open.spotify.com/album/18UhTCo1y7NMzXV6qEWzdd) | 2:53 | 2023-07-26 | 2023-08-03 |
 | [Honest Love](https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Honest Love](https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV) | 3:54 | 2024-01-24 | 2024-02-01 |
 | [Honestly](https://open.spotify.com/track/7k5JbDCUGzWHBKDMYOI2eq) | [Toddy](https://open.spotify.com/artist/6B8Q8Sd23cmTkQDN09oxzK) | [Honestly](https://open.spotify.com/album/1oCx2FrDyCAw5Cnyp14xyS) | 2:52 | 2024-05-15 | 2024-05-23 |
 | [Hongbae](https://open.spotify.com/track/4vQcIj9f30mL5SPSiyDG6x) | [Fake Crush](https://open.spotify.com/artist/7e0ZsMxHFrdSasdWFbhlz3) | [Hongbae](https://open.spotify.com/album/7M6IWgk5YeTw1ETTR05KeW) | 2:11 | 2024-06-26 | 2024-07-11 |
 | [Hook \- Original mix](https://open.spotify.com/track/5RZdT4FUTOe5YKCleLHr8n) | [Native P.](https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr), [Savage & SHē](https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD) | [Hook](https://open.spotify.com/album/341j9iHqrZ4pSZRVJ43Q6n) | 6:30 | 2024-05-15 | 2024-05-23 |
+| [hopeulisten.](https://open.spotify.com/track/4WqoVBRCeYirfi08DtiBSV) | [Donat Jackson](https://open.spotify.com/artist/22VAakx8ju6tEIQjVYxLL3), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [hopeulisten.](https://open.spotify.com/album/4NiJv7TwCiqc4UndtnMB2h) | 2:58 | 2024-10-10 |  |
 | [Hot Ex](https://open.spotify.com/track/6DF61bBHy11bxuSjPi47R7) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Hot Ex](https://open.spotify.com/album/1zIrU3vob6YSekbhExoN5y) | 2:38 | 2023-10-25 | 2023-11-16 |
 | [Hot Girls with ADD](https://open.spotify.com/track/5mcAAk5hNsbr9heZSzKQSy) | [Kaya Hoax](https://open.spotify.com/artist/6J74ZycJFLdGbzyR5UDXCe), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Hot Girls with ADD](https://open.spotify.com/album/6d3Ym4fLYiDxTcjtbTZSN0) | 3:08 | 2024-04-24 | 2024-05-02 |
 | [Hot Topic](https://open.spotify.com/track/71YQ5eRA6IlYNtAJbHPwTK) | [LADY SB](https://open.spotify.com/artist/2ijOrLqeUMFXLF5UvRGgs1) | [Hot Topic](https://open.spotify.com/album/74QnzfnJ7w0v60eRS3DpkP) | 1:59 | 2024-07-31 | 2024-08-15 |
@@ -1443,6 +1444,7 @@
 | [Tempting](https://open.spotify.com/track/0CB698dLbDonh8TICvbug2) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Tempting](https://open.spotify.com/album/0kxWyuSCgvfaKNDlPk8hkq) | 7:02 | 2024-01-10 | 2024-01-25 |
 | [TEN CUIDAO](https://open.spotify.com/track/4JmrZ99iOnO3fqmTPOnrQh) | [Flavia Abadía](https://open.spotify.com/artist/4tP9YbaqL7orJ3w9Bha4QG), [Medylandia](https://open.spotify.com/artist/53pDKdL2WqhQGPOMNdJHaK) | [TEN CUIDAO](https://open.spotify.com/album/6aRmHuJ0OLcaT2DxbByz3M) | 2:12 | 2023-11-15 | 2023-11-30 |
 | [Tennis Chains](https://open.spotify.com/track/5TQkSGkqRWZ6SU7EUlYi6M) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s) | [Tennis Chains](https://open.spotify.com/album/74c2i8sYEgQp1LIPn72Mv0) | 3:12 | 2023-07-26 | 2023-08-17 |
+| [text me when youre home](https://open.spotify.com/track/7Lbbxl4S4NglFu6sROBfcp) | [Jet Blck Renji](https://open.spotify.com/artist/749yEyrnJcvdrBMe1HAnTe) | [text me when youre home](https://open.spotify.com/album/3Fmz3RLI8cIByIeyIE10Ch) | 1:44 | 2024-10-10 |  |
 | [Thank You](https://open.spotify.com/track/4X9t1oKxYRwyJJVxYvR7Cn) | [Christopher Atkins](https://open.spotify.com/artist/5uQgk6UhD8weDRzKqCV0BN) | [Another Year](https://open.spotify.com/album/3PC0RJuJAmqAZYCKbVmADU) | 3:40 | 2024-05-01 | 2024-05-16 |
 | [Thank You for the Music](https://open.spotify.com/track/1hh9bpvDAaF2qGEF36bWxC) | [Lemon Cash](https://open.spotify.com/artist/2QgUS0sRpv7kBOad5vhy7n) | [Thank You for the Music](https://open.spotify.com/album/5DzUuOF4W29ywVtCyOjIhc) | 3:46 | 2024-02-14 | 2024-03-07 |
 | [That Song](https://open.spotify.com/track/0wlkFituZp5jCUOjS35UJ1) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [That Song](https://open.spotify.com/album/6r0K1oOph3m0MlqQUQ5Ncy) | 2:41 | 2023-08-30 | 2024-01-11 |
@@ -1512,7 +1514,7 @@
 | [Toujours au Club](https://open.spotify.com/track/5kCzHi7UURF976RTv7vkSj) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [POURQUOI TU DOUTES ?](https://open.spotify.com/album/727O9tJvOHf3zfrfTLIoky) | 3:01 | 2024-06-05 | 2024-06-13 |
 | [Tour du Monde](https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Tour du Monde](https://open.spotify.com/album/1ybBcRxpUhorl343FGWUyO) | 2:25 | 2024-06-19 | 2024-07-04 |
 | [Tourner](https://open.spotify.com/track/10JAfW2AVRnUbHTzlvplTB) | [Véda](https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi), [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Mon boy](https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc) | 2:08 | 2023-09-27 | 2024-01-11 |
-| [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-09-04 |  |
+| [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-09-04 | 2024-10-11 |
 | [Tout le monde oublie](https://open.spotify.com/track/7aETyOLVxF0ru54LVBTt1w) | [Cosmophone](https://open.spotify.com/artist/7mLFikX4xNVtYm0XEcr9MC) | [Feu toi, feu moi](https://open.spotify.com/album/2g3XHN37Ogr7KdbLnrxFP8) | 2:49 | 2023-09-27 | 2023-10-12 |
 | [Tout pour plaire](https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Pour tout vous dire](https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa) | 3:37 | 2024-06-05 | 2024-06-13 |
 | [Tracer des lignes](https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [ok bebye](https://open.spotify.com/album/3o4TZjqq0E3DTyvkAzKHSi) | 3:09 | 2023-10-04 | 2023-10-26 |

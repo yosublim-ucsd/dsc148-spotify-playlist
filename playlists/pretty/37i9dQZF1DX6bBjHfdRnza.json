@@ -1,29 +1,13 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Depart. Artwork by Rewina Beshue.",
-  "num_followers": 185310,
+  "num_followers": 185347,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwBLWgAAAAAqtRoGXXBYz9Z6ABixu9dh",
+  "snapshot_id": "ZwdboQAAAADfJJ9sTSwjIIU4NCmGxDu0",
   "tracks": [
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/7mSbYxV6M20yajCMWMthnP"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 289011,
-      "name": "Everything in Between",
-      "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
-    },
     {
       "added_at": "2024-10-02 18:02:38",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 155003,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/58mO9YgRePOUCrDX2u51sz"
-    },
-    {
-      "added_at": "2024-07-03 22:16:33",
-      "album": {
-        "name": "library",
-        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
-      },
-      "artists": [
-        {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "library",
-      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -73,36 +41,36 @@
       "url": "https://open.spotify.com/track/4ubG5aMNisOmR8IpKxL0a0"
     },
     {
-      "added_at": "2024-08-28 16:35:01",
+      "added_at": "2024-10-02 18:02:38",
       "album": {
-        "name": "Dance With You (All Night)",
-        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/7mSbYxV6M20yajCMWMthnP"
       },
       "artists": [
         {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 188072,
-      "name": "Dance With You (All Night)",
-      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+      "duration_ms": 289011,
+      "name": "Everything in Between",
+      "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
     },
     {
-      "added_at": "2024-10-04 17:15:55",
+      "added_at": "2024-10-10 04:44:17",
       "album": {
-        "name": "Motor Hombre",
-        "url": "https://open.spotify.com/album/4kLE56x341F6cTrl7eMFe4"
+        "name": "Set The Mood EP",
+        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
       },
       "artists": [
         {
-          "name": "tulengua",
-          "url": "https://open.spotify.com/artist/2rXUN5oxetpexWoqyMYUhu"
+          "name": "Eridu",
+          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Motor Hombre",
-      "url": "https://open.spotify.com/track/6hKknw0wDowLXXh2xehw16"
+      "duration_ms": 187500,
+      "name": "Set The Mood",
+      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -119,6 +87,38 @@
       "duration_ms": 177261,
       "name": "FIREFLY",
       "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+    },
+    {
+      "added_at": "2024-10-10 04:44:17",
+      "album": {
+        "name": "This Trip",
+        "url": "https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "This Trip",
+      "url": "https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -141,62 +141,6 @@
       "url": "https://open.spotify.com/track/7A38q6OZ1vjy84t3H8O9Ub"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "SIDES",
-        "url": "https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb"
-      },
-      "artists": [
-        {
-          "name": "1NN3R53LF",
-          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
-        },
-        {
-          "name": "ENERGY11",
-          "url": "https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv"
-        },
-        {
-          "name": "NYNE",
-          "url": "https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem"
-        }
-      ],
-      "duration_ms": 237050,
-      "name": "SIDES",
-      "url": "https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "I Stay",
-        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "I Stay",
-      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
-    },
-    {
       "added_at": "2024-10-02 18:02:38",
       "album": {
         "name": "Touch",
@@ -215,6 +159,134 @@
       "duration_ms": 175714,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4f6oR2hRHLPZPajRrXeCLZ"
+    },
+    {
+      "added_at": "2024-10-10 04:44:17",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV"
+    },
+    {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/3YYuQ5imBez1kqNikmgDvp"
+      },
+      "artists": [
+        {
+          "name": "Grooze",
+          "url": "https://open.spotify.com/artist/29KJ54WU9BuVVREEfBoQr2"
+        }
+      ],
+      "duration_ms": 321147,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/42Z1iJEXzCqSpq78w5wZsA"
+    },
+    {
+      "added_at": "2024-08-28 16:35:01",
+      "album": {
+        "name": "Dance With You (All Night)",
+        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 188072,
+      "name": "Dance With You (All Night)",
+      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+    },
+    {
+      "added_at": "2024-10-02 18:02:38",
+      "album": {
+        "name": "BAND4BAND",
+        "url": "https://open.spotify.com/album/5BwO95meODLYBe4NffRrMZ"
+      },
+      "artists": [
+        {
+          "name": "Magic Flowers",
+          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "BAND4BAND",
+      "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
+    },
+    {
+      "added_at": "2024-10-04 17:15:55",
+      "album": {
+        "name": "Motor Hombre",
+        "url": "https://open.spotify.com/album/4kLE56x341F6cTrl7eMFe4"
+      },
+      "artists": [
+        {
+          "name": "tulengua",
+          "url": "https://open.spotify.com/artist/2rXUN5oxetpexWoqyMYUhu"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Motor Hombre",
+      "url": "https://open.spotify.com/track/6hKknw0wDowLXXh2xehw16"
+    },
+    {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2024-10-10 04:44:17",
+      "album": {
+        "name": "Talk 2 The Deejay",
+        "url": "https://open.spotify.com/album/0rANHd4v8KcKO4TcS40lpa"
+      },
+      "artists": [
+        {
+          "name": "Auramatic",
+          "url": "https://open.spotify.com/artist/6oV38HtGDKckEhGBCmvDk9"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Talk 2 The Deejay",
+      "url": "https://open.spotify.com/track/699iI6trQdW6AQ2LHD0hSO"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
     },
     {
       "added_at": "2024-10-04 20:08:58",
@@ -285,38 +357,6 @@
       "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
     },
     {
-      "added_at": "2024-10-04 17:15:55",
-      "album": {
-        "name": "Wherever",
-        "url": "https://open.spotify.com/album/3YYuQ5imBez1kqNikmgDvp"
-      },
-      "artists": [
-        {
-          "name": "Grooze",
-          "url": "https://open.spotify.com/artist/29KJ54WU9BuVVREEfBoQr2"
-        }
-      ],
-      "duration_ms": 321147,
-      "name": "Wherever",
-      "url": "https://open.spotify.com/track/42Z1iJEXzCqSpq78w5wZsA"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "BAND4BAND",
-        "url": "https://open.spotify.com/album/5BwO95meODLYBe4NffRrMZ"
-      },
-      "artists": [
-        {
-          "name": "Magic Flowers",
-          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "BAND4BAND",
-      "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "LET THE MUSIC PLAY",
@@ -335,6 +375,30 @@
       "duration_ms": 177306,
       "name": "LET THE MUSIC PLAY",
       "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb"
+      },
+      "artists": [
+        {
+          "name": "1NN3R53LF",
+          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
+        },
+        {
+          "name": "ENERGY11",
+          "url": "https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv"
+        },
+        {
+          "name": "NYNE",
+          "url": "https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem"
+        }
+      ],
+      "duration_ms": 237050,
+      "name": "SIDES",
+      "url": "https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -1129,42 +1193,6 @@
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
-      "added_at": "2024-08-28 16:35:01",
-      "album": {
-        "name": "Into Your Groove",
-        "url": "https://open.spotify.com/album/0Td3TnwxqNearczk1wpadD"
-      },
-      "artists": [
-        {
-          "name": "Nyra",
-          "url": "https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8"
-        },
-        {
-          "name": "Richard x",
-          "url": "https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi"
-        }
-      ],
-      "duration_ms": 298410,
-      "name": "Into Your Groove",
-      "url": "https://open.spotify.com/track/3ivO63tuzsQPI9kOgrZoah"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "While We're Young",
-        "url": "https://open.spotify.com/album/6pc7rAgyCg8SehOOOwFAnH"
-      },
-      "artists": [
-        {
-          "name": "No_4mat",
-          "url": "https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213"
-        }
-      ],
-      "duration_ms": 253521,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/3SMpdIqBeWnNg61gOJAt6n"
-    },
-    {
       "added_at": "2024-09-04 16:07:14",
       "album": {
         "name": "Higher (Just A Feeling)",
@@ -1393,22 +1421,6 @@
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/43yT7TFV4bPdQwNPyzPrLn"
-      },
-      "artists": [
-        {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
-        }
-      ],
-      "duration_ms": 182779,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5cjP5yIadEwHcm5FBrSOw6"
-    },
-    {
       "added_at": "2024-08-07 16:28:20",
       "album": {
         "name": "C'est Toi",
@@ -1575,26 +1587,6 @@
       "duration_ms": 180000,
       "name": "2 Be Mine",
       "url": "https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp"
-    },
-    {
-      "added_at": "2024-07-31 17:23:25",
-      "album": {
-        "name": "ALWAYS",
-        "url": "https://open.spotify.com/album/6kUOenj0BpAgvKP3Vk0WPi"
-      },
-      "artists": [
-        {
-          "name": "Luis V",
-          "url": "https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 164774,
-      "name": "VHS (feat. Sa\u00efna)",
-      "url": "https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG"
     },
     {
       "added_at": "2024-07-24 17:53:28",

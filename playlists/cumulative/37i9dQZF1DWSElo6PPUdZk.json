@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 210000,
       "name": "8 Parche",
       "url": "https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen"
@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ammiye",
+      "url": "https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP"
+    },
+    {
+      "album": {
         "name": "Magical",
         "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
       },
@@ -370,6 +388,28 @@
       "duration_ms": 188571,
       "name": "Be Aware (feat. Kaater)",
       "url": "https://open.spotify.com/track/63y0bDChOJ5rSd7PsxvTun"
+    },
+    {
+      "album": {
+        "name": "Big Loss",
+        "url": "https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Big Loss",
+      "url": "https://open.spotify.com/track/76voghdL792BAy9YwEKfzw"
     },
     {
       "album": {
@@ -1807,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "Nakhro",
+      "url": "https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B"
+    },
+    {
+      "album": {
         "name": "Nattiyaan",
         "url": "https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w"
       },
@@ -1980,7 +2038,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 195933,
       "name": "Raule",
       "url": "https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe"
@@ -2592,7 +2650,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 258071,
       "name": "XL",
       "url": "https://open.spotify.com/track/4yZzVCseQLtDE22MKGUWM2"

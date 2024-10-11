@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30277,
+  "num_followers": 30283,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPhwbyYIJcnB4aTXlxE/ohmRheFXcg",
+  "snapshot_id": "AAAPi2GhHpp5+WRuJ0x54iUYR8f5glHt",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ"
     },
     {
+      "added_at": "2024-09-25 10:47:54",
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 219152,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
+    },
+    {
       "added_at": "2024-10-02 09:28:30",
       "album": {
         "name": "Otherside",
@@ -85,42 +101,6 @@
       "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
     },
     {
-      "added_at": "2024-09-27 16:17:12",
-      "album": {
-        "name": "Sad Girl",
-        "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Dan Whitlam",
-          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
-        }
-      ],
-      "duration_ms": 99927,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
-    },
-    {
-      "added_at": "2024-09-25 10:47:54",
-      "album": {
-        "name": "Still Riding",
-        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 219152,
-      "name": "Still Riding",
-      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
-    },
-    {
       "added_at": "2024-09-24 16:51:07",
       "album": {
         "name": "The Sun",
@@ -139,6 +119,26 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "added_at": "2024-09-27 16:17:12",
+      "album": {
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "duration_ms": 99927,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
     },
     {
       "added_at": "2024-09-18 16:20:13",

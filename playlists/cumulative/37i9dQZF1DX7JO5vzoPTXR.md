@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: Yseult
 
-844 songs - 1 day 22 hr 24 min
+845 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [I Like You](https://open.spotify.com/track/4ttOWrMcp8B1smQt17JjDb) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Bedroom EP](https://open.spotify.com/album/3dHDokcMuVz5jZzI5S5s5g) | 3:09 | 2022-07-06 | 2022-08-04 |
 | [I Love You But I Love Me More](https://open.spotify.com/track/7xeVVcbevE1q3NS6BjxS1g) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:43 | 2022-11-30 | 2023-01-05 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2022-02-02 | 2022-03-09 |
+| [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 | 2024-10-09 |  |
 | [i luv him.](https://open.spotify.com/track/78vv48Ic6syaE6kWqDGY47) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [i luv him.](https://open.spotify.com/album/3ioxFrDViC41xtHHcijlUZ) | 3:45 | 2022-01-05 | 2023-01-05 |
 | [I Miss You](https://open.spotify.com/track/1vMj09CQbopXMnDZQtLEdT) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 4:20 | 2022-03-08 | 2023-10-05 |
 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2022-09-07 | 2023-04-06 |

@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : Guy2Bezbar
 
-187 songs - 9 hr 7 min
+188 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Eh toi](https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Eh toi](https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9) | 2:50 | 2023-10-26 | 2023-12-15 |
 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 | 2024-09-19 | 2024-10-04 |
 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 | 2024-09-26 |  |
+| [ENERGY](https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [ENERGY](https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9) | 2:13 | 2024-10-10 |  |
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-01 |  |
 | [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 | 2023-12-08 |
 | [Fleurs](https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:05 | 2024-07-18 | 2024-08-16 |

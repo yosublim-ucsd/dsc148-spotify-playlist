@@ -2,7 +2,7 @@
 
 ### [This Is mxmtoon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lGcr7)
 
-> This is mxmtoon\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is mxmtoon\. The essential tracks, all in one playlist.
 
 84 songs - 4 hr 27 min
 

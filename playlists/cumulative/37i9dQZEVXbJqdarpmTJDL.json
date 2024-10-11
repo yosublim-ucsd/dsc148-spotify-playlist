@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 205894,
       "name": "BABAS",
       "url": "https://open.spotify.com/track/5TW2fSt9RlaGNtFre7ufqY"
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197142,
       "name": "BLACK SHEEP",
       "url": "https://open.spotify.com/track/6DHZdopL90oWrrUsHSyCjD"
@@ -8050,7 +8050,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 143766,
       "name": "Death Before Dishonor",
       "url": "https://open.spotify.com/track/5MdKLXYWrL48gqZjioO0N4"
@@ -16420,7 +16420,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 206500,
       "name": "ISOS",
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
@@ -17228,7 +17228,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -18552,7 +18552,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -19352,6 +19352,28 @@
       "duration_ms": 190344,
       "name": "LDN",
       "url": "https://open.spotify.com/track/1TAypAcTg9M0u6UQ7r3LMR"
+    },
+    {
+      "album": {
+        "name": "Lebron",
+        "url": "https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Lebron",
+      "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
     },
     {
       "album": {
@@ -25286,7 +25308,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 213733,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
@@ -32270,7 +32292,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 135000,
       "name": "SPECIAL",
       "url": "https://open.spotify.com/track/3YPWOCQhrJnavJLMnPMzYr"
@@ -34836,7 +34858,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 164265,
       "name": "TMC",
       "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"

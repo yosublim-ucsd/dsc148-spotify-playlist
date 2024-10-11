@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 32938,
+  "num_followers": 32946,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAACC5I9bOc3kZ3SqDJ093W6c",
+  "snapshot_id": "ZwXHgAAAAABdBz4fspuJ5si13XWNXtQn",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 169000,
       "name": "easier said than done",
       "url": "https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORIGIN (Deluxe)",
-        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 187675,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "reflection",
-      "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 205280,
       "name": "birthday cake - duet",
       "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "reflection",
+      "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "said so",
-      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Your Life",
         "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 155998,
       "name": "This Is Your Life",
       "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "said so",
+      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "all these years",
-      "url": "https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "when you love someone",
         "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 173076,
       "name": "when you love someone",
       "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "all these years",
+      "url": "https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i wish you cheated (Frank Walker Remix)",
         "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 210612,
       "name": "i wish you cheated (Frank Walker Remix)",
       "url": "https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
     },
     {
       "added_at": null,

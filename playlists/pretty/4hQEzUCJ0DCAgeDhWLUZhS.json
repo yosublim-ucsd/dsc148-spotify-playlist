@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAG+h3867PZziM3fEAj4FHgXajX25GB",
+  "snapshot_id": "AAAG/DLPj8lMrpK42g3hmX9mSdmSAXzI",
   "tracks": [
     {
       "added_at": "2024-09-27 00:33:54",
@@ -55,6 +55,38 @@
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "added_at": "2024-10-11 02:11:52",
+      "album": {
+        "name": "Last Of The Lonely Gods",
+        "url": "https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f"
+      },
+      "artists": [
+        {
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
+        }
+      ],
+      "duration_ms": 209343,
+      "name": "Shouldn\u2019t Leave It Like That",
+      "url": "https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq"
+    },
+    {
+      "added_at": "2024-10-11 02:31:25",
+      "album": {
+        "name": "The Way It Goes",
+        "url": "https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg"
+      },
+      "artists": [
+        {
+          "name": "Secret World",
+          "url": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+        }
+      ],
+      "duration_ms": 154710,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE"
     },
     {
       "added_at": "2024-09-27 00:44:11",

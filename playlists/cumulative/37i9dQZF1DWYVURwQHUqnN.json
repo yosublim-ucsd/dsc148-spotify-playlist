@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : GIMS",
+  "description": "Photo : Guy2Bezbar",
   "name": "Best Life",
   "tracks": [
     {
@@ -1150,6 +1150,24 @@
       "duration_ms": 173760,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA"
+    },
+    {
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX"
     },
     {
       "album": {

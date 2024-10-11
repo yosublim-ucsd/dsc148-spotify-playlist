@@ -1,12 +1,12 @@
 {
   "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 40301,
+  "num_followers": 40415,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAAD3Sg0UmB7Rsn3/WkI94PXl",
+  "snapshot_id": "ZwXHgAAAAAAXgfy/WTHsq5yrftbeYjz8",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vengas A Buscarme",
-        "url": "https://open.spotify.com/album/5horTevZCjGFpqPGXKalaX"
+        "name": "Cuando Alguien Me Amaba",
+        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
       "artists": [
         {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 236333,
-      "name": "No Vengas A Buscarme",
-      "url": "https://open.spotify.com/track/7JS9AEJmz4Cpriz73u3tmB"
+      "duration_ms": 144514,
+      "name": "Cuando Alguien Me Amaba",
+      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
     },
     {
       "added_at": null,
@@ -487,22 +483,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Alguien Me Amaba",
-        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
+        "name": "No Vengas A Buscarme",
+        "url": "https://open.spotify.com/album/5horTevZCjGFpqPGXKalaX"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 144514,
-      "name": "Cuando Alguien Me Amaba",
-      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+      "duration_ms": 236333,
+      "name": "No Vengas A Buscarme",
+      "url": "https://open.spotify.com/track/7JS9AEJmz4Cpriz73u3tmB"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isidro El Chapo",
         "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 168720,
       "name": "Isidro El Chapo",
       "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,

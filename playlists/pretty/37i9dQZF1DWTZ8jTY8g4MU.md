@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,695 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,720 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 24 | [Alek Akhaf](https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Alek Akhaf](https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA) | 3:28 |
 | 25 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
 | 26 | [يا مجرم يا حرامي](https://open.spotify.com/track/6i6tTxSVVyEuStYIU53KKy) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [يا مجرم يا حرامي](https://open.spotify.com/album/2xnxfz3WeV8pDuXY4DTjdA) | 3:05 |
-| 27 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
-| 28 | [وين رايح](https://open.spotify.com/track/6WVupuiS3OeUEWrdlxJBsi) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [وين رايح](https://open.spotify.com/album/4NikyjIrV6CFkJYQTtVjlB) | 3:49 |
-| 29 | [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 |
-| 30 | [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 |
-| 31 | [يادنيا من انتي له](https://open.spotify.com/track/0e9lHail7OcanmIC4vuKZB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [يادنيا من انتي له](https://open.spotify.com/album/5Fx3zV2OjPThkHQvY72JGP) | 3:36 |
-| 32 | [جرعة الشوق](https://open.spotify.com/track/71NdJylekmU1EIw7oxrFuy) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [جرعة الشوق](https://open.spotify.com/album/7dxUUSz6A4Iw7N2UaSseA3) | 3:43 |
-| 33 | [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 |
-| 34 | [جرح قلبي](https://open.spotify.com/track/5pM7c9tvDX9NN0C7zeVKUc) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [جرح قلبي](https://open.spotify.com/album/3pe1DhHhq2Zu7xXjA9myw7) | 4:10 |
-| 35 | [العزله احسن](https://open.spotify.com/track/5aD10saKZMJqh7NrtK9BUT) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العزله احسن](https://open.spotify.com/album/7osyeXcZDSclHumvwAEQLj) | 4:15 |
-| 36 | [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 |
-| 37 | [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 |
-| 38 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 |
-| 39 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs), [Sultan Ben Mreea](https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
-| 40 | [نظرته قتالة](https://open.spotify.com/track/7DHZR2oLRk4E78BLcsStej) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [نظرته قتالة](https://open.spotify.com/album/1BD5Jn39AJStfjxJlrv2B3) | 3:26 |
-| 41 | [جمالك غير](https://open.spotify.com/track/2JVNP7hVTG0lUXtzmO6FM8) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [جمالك غير](https://open.spotify.com/album/3yeHJBZJNbg4ADLM0Rutyo) | 5:44 |
-| 42 | [Enta Omry](https://open.spotify.com/track/5zteb7rFbPUsL5QdB1nlKh) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [Enta Omry](https://open.spotify.com/album/0wlscyFHNbfziYc5D2tBvF) | 4:26 |
-| 43 | [حب ماله مثيل](https://open.spotify.com/track/20L4L7BTjobKztzO6E51tC) | [ماجد خضير](https://open.spotify.com/artist/3y1gBdIcu9SoeBqdePgppN) | [حب ماله مثيل](https://open.spotify.com/album/5P6GOGRXG0TZ0SNhoUaKYt) | 3:39 |
-| 44 | [روف بالحال](https://open.spotify.com/track/40XKew4DK7n9XpkVNIQGW2) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [روف بالحال](https://open.spotify.com/album/5171dqfWQBBpAKZ5v5vkWN) | 3:09 |
-| 45 | [فاقد احساسي](https://open.spotify.com/track/6BUAhBYpsMaoqe8O0lV2HQ) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فاقد احساسي](https://open.spotify.com/album/0VYqS7d65Mp5DRXY1N1o1a) | 3:42 |
-| 46 | [Ya Aneedah](https://open.spotify.com/track/2VOd0JcjUA6dgEda5OeCP9) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ya Aneedah](https://open.spotify.com/album/2vjgjvXAO5BcXGV5CsjAul) | 3:44 |
-| 47 | [وزارة اسكاني](https://open.spotify.com/track/4YvlDxpWkMJ5tyzkyveeV6) | [صالح ال كليب](https://open.spotify.com/artist/280TGPMuHgU0HFq9FqUF5C) | [وزارة اسكاني](https://open.spotify.com/album/6gPBVi3twSgqFBJFUwgijh) | 4:12 |
-| 48 | [يا صديقي](https://open.spotify.com/track/5pn2Efk7QurZz4kRrE1OmT) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [يا صديقي](https://open.spotify.com/album/4ytrFFuw0xqaqyhJM7zKYH) | 3:04 |
-| 49 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 |
-| 50 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
+| 27 | [تبقى ملك](https://open.spotify.com/track/5bDJShwFM1wmzEpAcalnbC) | [أسعد البطحري](https://open.spotify.com/artist/30ExYDAwbVcSREibnsoNUf) | [تبقى ملك](https://open.spotify.com/album/4kyTKLN6GqY28NWolHAskl) | 4:08 |
+| 28 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
+| 29 | [وين رايح](https://open.spotify.com/track/6WVupuiS3OeUEWrdlxJBsi) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [وين رايح](https://open.spotify.com/album/4NikyjIrV6CFkJYQTtVjlB) | 3:49 |
+| 30 | [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 |
+| 31 | [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 |
+| 32 | [يادنيا من انتي له](https://open.spotify.com/track/0e9lHail7OcanmIC4vuKZB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [يادنيا من انتي له](https://open.spotify.com/album/5Fx3zV2OjPThkHQvY72JGP) | 3:36 |
+| 33 | [جرعة الشوق](https://open.spotify.com/track/71NdJylekmU1EIw7oxrFuy) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [جرعة الشوق](https://open.spotify.com/album/7dxUUSz6A4Iw7N2UaSseA3) | 3:43 |
+| 34 | [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 |
+| 35 | [جرح قلبي](https://open.spotify.com/track/5pM7c9tvDX9NN0C7zeVKUc) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [جرح قلبي](https://open.spotify.com/album/3pe1DhHhq2Zu7xXjA9myw7) | 4:10 |
+| 36 | [العزله احسن](https://open.spotify.com/track/5aD10saKZMJqh7NrtK9BUT) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العزله احسن](https://open.spotify.com/album/7osyeXcZDSclHumvwAEQLj) | 4:15 |
+| 37 | [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 |
+| 38 | [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 |
+| 39 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 |
+| 40 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs), [Sultan Ben Mreea](https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
+| 41 | [نظرته قتالة](https://open.spotify.com/track/7DHZR2oLRk4E78BLcsStej) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [نظرته قتالة](https://open.spotify.com/album/1BD5Jn39AJStfjxJlrv2B3) | 3:26 |
+| 42 | [جمالك غير](https://open.spotify.com/track/2JVNP7hVTG0lUXtzmO6FM8) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [جمالك غير](https://open.spotify.com/album/3yeHJBZJNbg4ADLM0Rutyo) | 5:44 |
+| 43 | [Enta Omry](https://open.spotify.com/track/5zteb7rFbPUsL5QdB1nlKh) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [Enta Omry](https://open.spotify.com/album/0wlscyFHNbfziYc5D2tBvF) | 4:26 |
+| 44 | [حب ماله مثيل](https://open.spotify.com/track/20L4L7BTjobKztzO6E51tC) | [ماجد خضير](https://open.spotify.com/artist/3y1gBdIcu9SoeBqdePgppN) | [حب ماله مثيل](https://open.spotify.com/album/5P6GOGRXG0TZ0SNhoUaKYt) | 3:39 |
+| 45 | [روف بالحال](https://open.spotify.com/track/40XKew4DK7n9XpkVNIQGW2) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [روف بالحال](https://open.spotify.com/album/5171dqfWQBBpAKZ5v5vkWN) | 3:09 |
+| 46 | [فاقد احساسي](https://open.spotify.com/track/6BUAhBYpsMaoqe8O0lV2HQ) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فاقد احساسي](https://open.spotify.com/album/0VYqS7d65Mp5DRXY1N1o1a) | 3:42 |
+| 47 | [Ya Aneedah](https://open.spotify.com/track/2VOd0JcjUA6dgEda5OeCP9) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ya Aneedah](https://open.spotify.com/album/2vjgjvXAO5BcXGV5CsjAul) | 3:44 |
+| 48 | [وزارة اسكاني](https://open.spotify.com/track/4YvlDxpWkMJ5tyzkyveeV6) | [صالح ال كليب](https://open.spotify.com/artist/280TGPMuHgU0HFq9FqUF5C) | [وزارة اسكاني](https://open.spotify.com/album/6gPBVi3twSgqFBJFUwgijh) | 4:12 |
+| 49 | [يا صديقي](https://open.spotify.com/track/5pn2Efk7QurZz4kRrE1OmT) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [يا صديقي](https://open.spotify.com/album/4ytrFFuw0xqaqyhJM7zKYH) | 3:04 |
+| 50 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 |
+| 51 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
 
-Snapshot ID: `Zu1EygAAAAAlKp74XvfLVdKmKg2NN/Gv`
+Snapshot ID: `ZwgxCQAAAABCpYRotPNBZ3d7w50AGhsW`

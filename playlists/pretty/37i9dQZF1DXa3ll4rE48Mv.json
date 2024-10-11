@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 198485,
+  "num_followers": 198541,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "They / Them",
         "url": "https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 96051,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Steady Damage",
         "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 291600,
       "name": "Bird in Space",
       "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
     },
     {
       "added_at": "2024-05-22 11:00:00",

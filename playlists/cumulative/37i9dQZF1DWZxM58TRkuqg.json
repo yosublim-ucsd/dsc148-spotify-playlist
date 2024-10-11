@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Tiara Andini",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  For Revenge",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 244000,
       "name": "Bagaimana Bisa Seseorang",
       "url": "https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253866,
       "name": "Dendam",
       "url": "https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253529,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 182760,
       "name": "LOVE ME LIKE YOU",
       "url": "https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC"
@@ -2568,6 +2568,24 @@
       "duration_ms": 225065,
       "name": "Maling",
       "url": "https://open.spotify.com/track/4jzbofXDxLM1PLiLtdYoXf"
+    },
+    {
+      "album": {
+        "name": "Melangkah",
+        "url": "https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219943,
+      "name": "Malu Malu Tapi Nyaman",
+      "url": "https://open.spotify.com/track/1jKyWssDMP83VtugbwCJ6g"
     },
     {
       "album": {
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 194943,
       "name": "Rahasia #2",
       "url": "https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND"
@@ -3232,6 +3250,24 @@
       "duration_ms": 274506,
       "name": "Salam Perpisahan",
       "url": "https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg"
+    },
+    {
+      "album": {
+        "name": "Sampai Bertemu Lagi",
+        "url": "https://open.spotify.com/album/7MrqprT4KZWTzdXYLseZuE"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251849,
+      "name": "Sampai Bertemu Lagi",
+      "url": "https://open.spotify.com/track/0nXp170HMJr7a5Zj1uU5As"
     },
     {
       "album": {
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 295800,
       "name": "Selamanya Untukku",
       "url": "https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT"
@@ -3566,6 +3602,24 @@
       "duration_ms": 231187,
       "name": "Semua lagu cinta",
       "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+    },
+    {
+      "album": {
+        "name": "Semula",
+        "url": "https://open.spotify.com/album/1yrDwJMvVbuwnzLq7ZENPt"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236830,
+      "name": "Semula",
+      "url": "https://open.spotify.com/track/11JHhRhXGfct6c41wYbKti"
     },
     {
       "album": {
@@ -4342,7 +4396,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
@@ -4400,6 +4454,24 @@
       "duration_ms": 253244,
       "name": "Tunggulah Sebentar",
       "url": "https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq"
+    },
+    {
+      "album": {
+        "name": "Untukmu Aku Bertahan (Live Orchestra Version)",
+        "url": "https://open.spotify.com/album/2fUZXKVLCg4xruwfwYaC8t"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278801,
+      "name": "Untukmu Aku Bertahan (Live Orchestra Version)",
+      "url": "https://open.spotify.com/track/4ZDFnMzyPtXCL2og3ipPVK"
     },
     {
       "album": {

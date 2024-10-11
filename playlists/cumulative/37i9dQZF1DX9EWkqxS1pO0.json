@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: K\u0131r\u0131k Pena",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Ayberk Serin",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166216,
       "name": "Duydu\u011fum En G\u00fczel \u015eark\u0131s\u0131n",
       "url": "https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 204250,
       "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
       "url": "https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas"
@@ -921,6 +921,42 @@
     },
     {
       "album": {
+        "name": "G\u00fcc\u00fcm Yok",
+        "url": "https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM"
+      },
+      "artists": [
+        {
+          "name": "Melis Karaduman",
+          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168426,
+      "name": "G\u00fcc\u00fcm Yok",
+      "url": "https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X"
+    },
+    {
+      "album": {
+        "name": "G\u00fcn Batarken",
+        "url": "https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF"
+      },
+      "artists": [
+        {
+          "name": "Ayberk Serin",
+          "url": "https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "G\u00fcn Batarken",
+      "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
+    },
+    {
+      "album": {
         "name": "G\u00fcnebakan",
         "url": "https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw"
       },
@@ -950,7 +986,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 176800,
       "name": "G\u00fczel Olmaz M\u0131?",
       "url": "https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW"
@@ -1250,6 +1286,24 @@
       "duration_ms": 232166,
       "name": "Mutluluk Bizim",
       "url": "https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ"
+    },
+    {
+      "album": {
+        "name": "N'olur Gelsen",
+        "url": "https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "N'olur Gelsen",
+      "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
     },
     {
       "album": {

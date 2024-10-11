@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Viscardi",
+  "description": "Il meglio dell'R&B italiano. Cover: Feliciana",
   "name": "anima R&B",
   "tracks": [
+    {
+      "album": {
+        "name": "1 secondo",
+        "url": "https://open.spotify.com/album/7MTeZ7wPxGZF0zkcfNcL9p"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "1 secondo",
+      "url": "https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5"
+    },
     {
       "album": {
         "name": "11:11",
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 148314,
       "name": "CORE 'N GALERA",
       "url": "https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6"
@@ -3836,6 +3854,28 @@
       "duration_ms": 187800,
       "name": "Fior di glicine",
       "url": "https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn"
+    },
+    {
+      "album": {
+        "name": "FIORI DI CARTA",
+        "url": "https://open.spotify.com/album/7sJXAGadI2De4sCo2SGPDm"
+      },
+      "artists": [
+        {
+          "name": "KAWAKAMI",
+          "url": "https://open.spotify.com/artist/2QsyKTC6pUGz4hpGs6zBG7"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147672,
+      "name": "FIORI DI CARTA",
+      "url": "https://open.spotify.com/track/3FNAlldoBSKh54CapcthJI"
     },
     {
       "album": {
@@ -5690,7 +5730,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 193544,
       "name": "La versione migliore di me",
       "url": "https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS"
@@ -6236,6 +6276,24 @@
       "duration_ms": 197248,
       "name": "Lopsided",
       "url": "https://open.spotify.com/track/2hfUSLKQk9FNeQoWH4aGgr"
+    },
+    {
+      "album": {
+        "name": "Mirrored Reflections",
+        "url": "https://open.spotify.com/album/7BlXMMC3hQNp5LjwmENOJl"
+      },
+      "artists": [
+        {
+          "name": "Feliciana",
+          "url": "https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181829,
+      "name": "Lost in Translation",
+      "url": "https://open.spotify.com/track/7ovAOdTCsmQQ6m2vR4iLGW"
     },
     {
       "album": {
@@ -7422,7 +7480,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197648,
       "name": "NIRVANA (feat. Evra & Ernvss)",
       "url": "https://open.spotify.com/track/3vzHw9uFJNbJDxI1i4XjjI"
@@ -7676,7 +7734,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 221661,
       "name": "NON HO PI\u00d9 PAURA",
       "url": "https://open.spotify.com/track/4pUuKLM4kSJryyPeu47g3o"
@@ -8242,6 +8300,28 @@
       "duration_ms": 212769,
       "name": "Odissea / Astronave",
       "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
+    },
+    {
+      "album": {
+        "name": "OEOE (Appress' a te)",
+        "url": "https://open.spotify.com/album/4FtG5TddXhOAmYH5FAfcRP"
+      },
+      "artists": [
+        {
+          "name": "AYSA",
+          "url": "https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC"
+        },
+        {
+          "name": "Nablito",
+          "url": "https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "OEOE (Appress' a te)",
+      "url": "https://open.spotify.com/track/12FxcsybNaGwUkmEHbNdfL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
-164 songs - 9 hr 22 min
+165 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Faint Of Heart](https://open.spotify.com/track/2csUY4IGUWm8b8mWbBybjc) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Faint Of Heart](https://open.spotify.com/album/3mpkO4KFbEzzz0lFJxY2IH) | 6:05 | 2024-07-26 | 2024-09-25 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-24 | 2024-07-12 |
 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 | 2024-06-24 | 2024-09-06 |
-| [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 | 2024-07-11 |  |
+| [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 | 2024-07-11 | 2024-10-11 |
 | [Ffleur Hari](https://open.spotify.com/track/3Cnihk7ccMTGURGiQXTtay) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [Ffleur Hari](https://open.spotify.com/album/6f5JGxRJ62riInXmDVdE1e) | 3:30 | 2024-08-30 |  |
 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 | 2024-06-24 | 2024-08-02 |
 | [For a Friend](https://open.spotify.com/track/2mLdVh2Qxkf8UFBAKRHH6w) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [For a Friend](https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg) | 3:18 | 2024-09-05 |  |
@@ -86,6 +86,7 @@
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-26 |  |
 | [let it go](https://open.spotify.com/track/7jAlLZpJcrxdgy1qFG3E76) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [let it go](https://open.spotify.com/album/0PW7LZ82sgSiKAZbC0xdhI) | 3:07 | 2024-10-04 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-27 | 2024-07-12 |
+| [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 | 2024-10-10 |  |
 | [LONDON](https://open.spotify.com/track/5wYKZtxuznUf9h53BcRzSI) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [LONDON](https://open.spotify.com/album/08EsNvipHUdPcyeQAC4Z09) | 2:28 | 2024-06-24 | 2024-07-10 |
 | [Lonsdale Slipons](https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Lonsdale Slipons](https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS) | 2:13 | 2024-07-11 | 2024-09-25 |
 | [Loser](https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Loser](https://open.spotify.com/album/2mlLbBlwrR0YgPf484jcJH) | 3:03 | 2024-07-26 |  |

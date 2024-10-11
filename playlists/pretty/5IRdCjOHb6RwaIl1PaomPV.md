@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kito, DJ\_Dave, Eera, evilgiane, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,783 likes - 100 songs - 5 hr 37 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,781 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 63 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 |
 | 64 | [Grands!](https://open.spotify.com/track/3skcWsW778gWE85v7dCi35) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Duppy Gun](https://open.spotify.com/album/3afz4ORD26X2AkSM5BPIsW) | 2:47 |
 | 65 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 |
-| 66 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
+| 66 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 67 | [crush](https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [boy](https://open.spotify.com/album/0JfgfkFvNYiZIt5mS3skmZ) | 2:26 |
 | 68 | [Melter](https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [Melter](https://open.spotify.com/album/0HueEubCVTggbxE0j6nXnN) | 4:15 |
 | 69 | [skin deep](https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [skin deep](https://open.spotify.com/album/7xXBKyU4i2C1iX4AvzQqcK) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 
 > With the release of <a href="spotify:show:6lIui701UGlgFROb4kuHqz">Lies & Weddings</a>, international bestselling author Kevin Kwan handpicks his soundtrack to accompany the highly anticipated book.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 | 5 | [Pure Shores](https://open.spotify.com/track/2vIEquOWG8DTVgwIOofocm) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Hits \(Special Edition\)](https://open.spotify.com/album/57aSjfZx8tlZEY2qVAwG5I) | 4:28 |
 | 6 | [Harvest Moon](https://open.spotify.com/track/21HsI1RpRHEjbUjmzHtIyj) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [New Moon Daughter](https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA) | 5:01 |
 | 7 | [Deep in an Ancient Hawaiian Forest](https://open.spotify.com/track/5fxTMPnS3vYOW9PYWWRs2D) | [Makana](https://open.spotify.com/artist/5cP5AByXG70KVZlVQsAMOD) | [Venus, and the Sky Turns to Clay: The Instrumental World of Makana](https://open.spotify.com/album/4Vt7X4Yazg3InEPP8T7eIn) | 5:13 |
-| 8 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY) | 2:31 |
+| 8 | [Spring 1 \- 2012](https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY) | 2:31 |
 | 9 | [Duck Shoot](https://open.spotify.com/track/5HARZiEbfWnwXdv7ckqh5z) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [The Crown: Season One \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6ng66yiXAHS3lYzt7C6AD5) | 4:07 |
 | 10 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 11 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |

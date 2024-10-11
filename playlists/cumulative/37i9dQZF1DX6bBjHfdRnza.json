@@ -7466,6 +7466,24 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF"
       },
       "artists": [
@@ -20872,7 +20890,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 298410,
       "name": "Into Your Groove",
       "url": "https://open.spotify.com/track/3ivO63tuzsQPI9kOgrZoah"
@@ -34335,6 +34353,24 @@
     },
     {
       "album": {
+        "name": "Set The Mood EP",
+        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
+      },
+      "artists": [
+        {
+          "name": "Eridu",
+          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Set The Mood",
+      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
+    },
+    {
+      "album": {
         "name": "Sex, Money & Drugs",
         "url": "https://open.spotify.com/album/1ratceSHCs8YWFGLnJ5laO"
       },
@@ -36054,7 +36090,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 182779,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/5cjP5yIadEwHcm5FBrSOw6"
@@ -38531,6 +38567,24 @@
     },
     {
       "album": {
+        "name": "Talk 2 The Deejay",
+        "url": "https://open.spotify.com/album/0rANHd4v8KcKO4TcS40lpa"
+      },
+      "artists": [
+        {
+          "name": "Auramatic",
+          "url": "https://open.spotify.com/artist/6oV38HtGDKckEhGBCmvDk9"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Talk 2 The Deejay",
+      "url": "https://open.spotify.com/track/699iI6trQdW6AQ2LHD0hSO"
+    },
+    {
+      "album": {
         "name": "Talkin' 'bout U",
         "url": "https://open.spotify.com/album/0VTNScEkUamOQFjHf1dYOy"
       },
@@ -40360,6 +40414,24 @@
       "duration_ms": 234857,
       "name": "this time i don't think i can",
       "url": "https://open.spotify.com/track/2PTAzTzFwsxqMcL7T0UB40"
+    },
+    {
+      "album": {
+        "name": "This Trip",
+        "url": "https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "This Trip",
+      "url": "https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr"
     },
     {
       "album": {
@@ -42480,7 +42552,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 164774,
       "name": "VHS (feat. Sa\u00efna)",
       "url": "https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG"
@@ -44114,7 +44186,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253521,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/3SMpdIqBeWnNg61gOJAt6n"

@@ -2,7 +2,7 @@
 
 ### [This Is EGOIST](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07DtzR)
 
-> This is EGOIST。アーティストの代表曲をひとつのプレイリストに。
+> This is EGOIST\. Todos os maiores hits em uma só playlist.
 
 81 songs - 5 hr 29 min
 

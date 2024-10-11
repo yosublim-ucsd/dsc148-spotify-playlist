@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "a little sun nap",
+        "url": "https://open.spotify.com/album/33ynMqo3XgRrfktrbuCrWy"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148367,
+      "name": "a little sun nap",
+      "url": "https://open.spotify.com/track/7AoV9qLAx0n2B6IOqUDXFh"
+    },
+    {
+      "album": {
         "name": "A Midsummer Dream",
         "url": "https://open.spotify.com/album/5HibmlP5d4rM5rRRHwqA2C"
       },
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 131506,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq"
@@ -17676,7 +17694,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 185397,
       "name": "kick it back, kid",
       "url": "https://open.spotify.com/track/2I9KLecFGk6rKauCvN6eME"
@@ -20298,7 +20316,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 141642,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/2NSA8n916vTmClZ6vBKPDm"
@@ -20944,7 +20962,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 198227,
       "name": "maste",
       "url": "https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR"
@@ -23130,7 +23148,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Nattchill",
       "url": "https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst"
@@ -23264,7 +23282,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 163661,
       "name": "neo",
       "url": "https://open.spotify.com/track/7o5tomJPSAXGCtZYO3HEZ3"
@@ -24076,7 +24094,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 143616,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R"
@@ -26302,7 +26320,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "Paulie Walnut",
       "url": "https://open.spotify.com/track/6RInRXWilsEVQrob1Tunl9"
@@ -39028,7 +39046,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 161927,
       "name": "Wonders",
       "url": "https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI"

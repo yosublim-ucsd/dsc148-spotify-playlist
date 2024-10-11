@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Ayanne
 
-203 songs - 11 hr 29 min
+204 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 | 2024-01-18 |  |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 | 2024-08-23 |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
+| [Apprêtez\-vous](https://open.spotify.com/track/5oliKkUCzfhFbHc6U1FRcg) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp), [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa), [Yaziel](https://open.spotify.com/artist/0U3ht7dMJxqDtGF3r7kpdE), [Elvyn Le Conquérant](https://open.spotify.com/artist/0UF0swa2mxB2noqoWIwmtD), [Djess](https://open.spotify.com/artist/6ap4rncYEBwtvgoSHLg4uI), [Iron le rappeur](https://open.spotify.com/artist/4vwOqTQrz8cGUZmHIhqMsh), [Leufa](https://open.spotify.com/artist/5nfaQOXMFIG7oVKFztI5ZQ) | [KDO](https://open.spotify.com/album/0etHjipRafoS8q6t6WvyoG) | 2:51 | 2024-10-10 |  |
 | [Arc de triomphe](https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [PUISSANCE 10](https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg) | 3:25 | 2024-01-04 |  |
 | [Avant de partir](https://open.spotify.com/track/5G9eZDVh8yomG2iUfu2Qxn) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [El Jay](https://open.spotify.com/artist/7LRIRop14jp1Z5jtwNManQ) | [Avant de partir](https://open.spotify.com/album/56WIVaUQZ2XwAbQI47DFcz) | 2:36 | 2024-04-18 | 2024-05-17 |
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
@@ -186,7 +187,7 @@
 | [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 | 2023-01-06 |
 | [Taper dedans](https://open.spotify.com/track/1shncRrvTSTQtK8hgGFL7m) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Taper dedans](https://open.spotify.com/album/6h8Pa5WVQy0SkwVHw6DDxP) | 2:40 | 2023-12-14 | 2024-04-05 |
 | [Tchayeh](https://open.spotify.com/track/6DXBVqs3KRJtdp4XxJxLRk) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tchayeh](https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF) | 2:56 | 2024-07-25 |  |
-| [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 | 2023-06-15 |  |
+| [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 | 2023-06-15 | 2024-10-11 |
 | [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 | 2023-07-07 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-28 | 2023-11-24 |
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 | 2023-02-24 |

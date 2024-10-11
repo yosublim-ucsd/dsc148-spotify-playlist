@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        },
+        {
+          "name": "Ana Ofelia Murgu\u00eda",
+          "url": "https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73650,
+      "name": "Remember Me (Reunion)",
+      "url": "https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C"
+    },
+    {
+      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },

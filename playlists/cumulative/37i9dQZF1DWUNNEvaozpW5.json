@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Coque Malla y Leiva.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Alejo con Kutxi Romero.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 168292,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
@@ -2286,6 +2286,28 @@
       "duration_ms": 164669,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
+    },
+    {
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/5VL8S0BgMMQ7vWjWhRbWdP"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/44ahXdBHEvQEd65HGx2jGd"
     },
     {
       "album": {
@@ -4126,7 +4148,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 188085,
       "name": "JUEGOS VIOLENTOS",
       "url": "https://open.spotify.com/track/6RtafXemW33TLBa2y63HBO"
@@ -4436,7 +4458,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 134093,
       "name": "La mala reputaci\u00f3n - XX Aniversario - Nueva mezcla",
       "url": "https://open.spotify.com/track/2ZdSU3fOZRsm9C5YD6yUAq"
@@ -4644,6 +4666,24 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "album": {
+        "name": "La Selva",
+        "url": "https://open.spotify.com/album/7fMbEVrAF5Qj4h2bu2bpZc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Papaya",
+          "url": "https://open.spotify.com/artist/7crFuTH6NqDsqgQFg2D69M"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "La Selva",
+      "url": "https://open.spotify.com/track/7wrcBkeoO6zXglCUrmwqqy"
     },
     {
       "album": {
@@ -5190,6 +5230,24 @@
       "duration_ms": 222549,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1YRuKNFkQeyECwYvsrDCH6"
+    },
+    {
+      "album": {
+        "name": "Luna de Hiel",
+        "url": "https://open.spotify.com/album/7HJszEZ1lkwlk2Igsq8PQQ"
+      },
+      "artists": [
+        {
+          "name": "Marte Diem",
+          "url": "https://open.spotify.com/artist/0F97tki4V1pG8gxqojGdTd"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202092,
+      "name": "Luna de Hiel",
+      "url": "https://open.spotify.com/track/6RK2IW7xA7lR9Lr2irXPiX"
     },
     {
       "album": {
@@ -6682,6 +6740,24 @@
       "duration_ms": 223263,
       "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
       "url": "https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh"
+    },
+    {
+      "album": {
+        "name": "Polvo en el viento",
+        "url": "https://open.spotify.com/album/1EVmw8PTdYWkqtcEHGJxJy"
+      },
+      "artists": [
+        {
+          "name": "Chicle",
+          "url": "https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173910,
+      "name": "Polvo en el viento",
+      "url": "https://open.spotify.com/track/3eYLwbFkc842p6aoIOZfoa"
     },
     {
       "album": {

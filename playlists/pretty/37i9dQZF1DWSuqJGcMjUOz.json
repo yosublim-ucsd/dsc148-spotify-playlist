@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6469,
+  "num_followers": 6470,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Objets perdus",
-        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Maintenant ou jamais",
-      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Objets perdus",
+        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Maintenant ou jamais",
+      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
       },
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les cent prochaines ann\u00e9es",
         "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 190640,
       "name": "Les cent prochaines ann\u00e9es",
       "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1203,22 +1219,6 @@
       "duration_ms": 191603,
       "name": "Anyway, Mommy Love",
       "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Etienne Dufresne fait des efforts",
-        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "J'fais des efforts",
-      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les Heures",
         "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 210286,
       "name": "Les Heures",
       "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Etienne Dufresne fait des efforts",
+        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "J'fais des efforts",
+      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Osoyoos",
         "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 235959,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "C'est pire et c'est mieux",
+        "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        },
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 196572,
+      "name": "C'est pire et c'est mieux",
+      "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Il n'y a rien que je ne suis pas",
         "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 168888,
       "name": "Quelqu'un quand-m\u00eame",
       "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "C'est pire et c'est mieux",
-        "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        },
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 196572,
-      "name": "C'est pire et c'est mieux",
-      "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "On frap la route?",
-        "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
-      },
-      "artists": [
-        {
-          "name": "Guessmi",
-          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Holla",
-      "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "J'ai brod\u00e9 mon c\u0153ur",
         "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 34000,
       "name": "Apr\u00e8s la nuit",
       "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "On frap la route?",
+        "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Holla",
+      "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Holistique",
+        "url": "https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        },
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        }
+      ],
+      "duration_ms": 193652,
+      "name": "Plage",
+      "url": "https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 194400,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Holistique",
-        "url": "https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM"
-      },
-      "artists": [
-        {
-          "name": "Fanny Bloom",
-          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
-        },
-        {
-          "name": "Greg Beaudin",
-          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
-        }
-      ],
-      "duration_ms": 193652,
-      "name": "Plage",
-      "url": "https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B"
     },
     {
       "added_at": "2024-06-19 20:38:05",

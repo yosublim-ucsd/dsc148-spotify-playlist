@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Hilda Watiri",
   "name": "NairoBae",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253128,
       "name": "Coka Mucie",
       "url": "https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8"
@@ -556,6 +556,24 @@
       "duration_ms": 228969,
       "name": "Dark brown eyes",
       "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
+    },
+    {
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1"
+      },
+      "artists": [
+        {
+          "name": "X.O",
+          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155062,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr"
     },
     {
       "album": {
@@ -2043,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z"
+    },
+    {
+      "album": {
         "name": "Soul'd Duets",
         "url": "https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6"
       },
@@ -2572,7 +2612,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166670,
       "name": "Only You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"

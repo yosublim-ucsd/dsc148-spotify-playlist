@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "1999 (Exhale VA005)",
+        "url": "https://open.spotify.com/album/4oCflXpMzitBdQlA44lsl7"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313830,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2xMCbLGu1AJ77QlT3PMEBl"
+    },
+    {
+      "album": {
         "name": "303 State",
         "url": "https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH"
       },
@@ -68,6 +86,24 @@
       "duration_ms": 453068,
       "name": "303 State",
       "url": "https://open.spotify.com/track/3Wf6hVbr3YWCWt9py5OzDy"
+    },
+    {
+      "album": {
+        "name": "Acid Phase (Original Mix)",
+        "url": "https://open.spotify.com/album/3Xdyj5UiW9gxqjfDwpDjbX"
+      },
+      "artists": [
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Acid Phase - Original Mix",
+      "url": "https://open.spotify.com/track/07UwtfPjdgSZdvClSvTxbp"
     },
     {
       "album": {
@@ -585,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Thunderworld EP",
+        "url": "https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X"
+      },
+      "artists": [
+        {
+          "name": "Milo Spykers",
+          "url": "https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267343,
+      "name": "Croton",
+      "url": "https://open.spotify.com/track/3IIxjHfPlbLHGCY9mptGiz"
+    },
+    {
+      "album": {
         "name": "SUF 100",
         "url": "https://open.spotify.com/album/2DleJNXcZsmefAFLk1oQPn"
       },
@@ -1026,6 +1080,24 @@
     {
       "album": {
         "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
         "url": "https://open.spotify.com/album/2fdjmtLe66LqI9D6AluyQU"
       },
       "artists": [
@@ -1240,6 +1312,24 @@
       "duration_ms": 298039,
       "name": "Get Real Low",
       "url": "https://open.spotify.com/track/2BkUyMpQtvrRtD2rzqLDwl"
+    },
+    {
+      "album": {
+        "name": "Thunderworld EP",
+        "url": "https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X"
+      },
+      "artists": [
+        {
+          "name": "Milo Spykers",
+          "url": "https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297341,
+      "name": "Ghostrider",
+      "url": "https://open.spotify.com/track/0GQOK623qn4kXvvP5I2THO"
     },
     {
       "album": {
@@ -2373,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0x5bgzC2b4L6un2YnO2W6l"
+      },
+      "artists": [
+        {
+          "name": "Reform",
+          "url": "https://open.spotify.com/artist/76k0s6unMUFr68vNkbMmaV"
+        },
+        {
+          "name": "ParteNope",
+          "url": "https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354520,
+      "name": "Play that Fact",
+      "url": "https://open.spotify.com/track/13zSFvC75hhnvQB7Q7m93D"
+    },
+    {
+      "album": {
         "name": "Historia",
         "url": "https://open.spotify.com/album/56tITXyE0RcImU43s2OL7j"
       },
@@ -2478,7 +2590,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 338165,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY"
@@ -2902,6 +3014,24 @@
       "duration_ms": 323333,
       "name": "Somewhen - 437p",
       "url": "https://open.spotify.com/track/2hOgMqywNsliLHgcIFXCkt"
+    },
+    {
+      "album": {
+        "name": "Ragnarok",
+        "url": "https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10"
+      },
+      "artists": [
+        {
+          "name": "BY\u00d8RN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291300,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/6sUaaV9yoTwbLRH0THBG5a"
     },
     {
       "album": {

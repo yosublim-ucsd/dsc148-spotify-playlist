@@ -1,35 +1,35 @@
 {
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
-  "num_followers": 405992,
+  "description": "The best French indie tracks right now. Cover : Mattyeux",
+  "num_followers": 406016,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAACb2XdU2Bc2hByqWbGDF1Yb",
+  "snapshot_id": "ZwhOYAAAAAB1vtu9RKccsJGdTKQ7n8Pn",
   "tracks": [
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "MOLITOR 24",
-        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe"
       },
       "artists": [
         {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
         },
         {
-          "name": "Molitor",
-          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
+      "duration_ms": 154786,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/39GSGgJ2HJ2SOV6TPvoCRN"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Juste toi et moi",
-        "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
-      },
-      "artists": [
-        {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Juste toi et moi",
-      "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Sunset Park (Extended version)",
         "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
@@ -81,7 +65,7 @@
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Amber Eyes",
         "url": "https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4"
@@ -101,7 +85,7 @@
       "url": "https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Il Faudra Bien",
         "url": "https://open.spotify.com/album/0oLHRQFyXLMjVrHW3Lxejo"
@@ -117,7 +101,43 @@
       "url": "https://open.spotify.com/track/2NEL9RbgWhmFl0zeQpyLB6"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Juste toi et moi",
+        "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Juste toi et moi",
+      "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "MOLITOR 24",
+        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Molitor",
+          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Many Lives",
         "url": "https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX"
@@ -137,23 +157,7 @@
       "url": "https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Matcha Queen",
-        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Matcha Queen",
-      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
@@ -177,7 +181,39 @@
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Matcha Queen",
+        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Matcha Queen",
+      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Rock Machine",
+        "url": "https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "un million de petits chocs",
         "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
@@ -193,27 +229,67 @@
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Tiger Teeth (Feat Just Jack)",
-        "url": "https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT"
+        "name": "Funambule",
+        "url": "https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz"
       },
       "artists": [
         {
-          "name": "Synapson",
-          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+          "name": "Mahom",
+          "url": "https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K"
         },
         {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Tiger Teeth (Feat Just Jack)",
-      "url": "https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF"
+      "duration_ms": 228292,
+      "name": "Funambule",
+      "url": "https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "The world of yesterday",
+        "url": "https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr"
+      },
+      "artists": [
+        {
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "The world of yesterday",
+      "url": "https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Les pieds dans l'eau",
+        "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
+        }
+      ],
+      "duration_ms": 169794,
+      "name": "La nuit dehors",
+      "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Oddy",
         "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
@@ -229,23 +305,39 @@
       "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Golden Bay",
-        "url": "https://open.spotify.com/album/0VQBTgExKApYJMMOE3tufu"
+        "name": "When You Keep Running",
+        "url": "https://open.spotify.com/album/3VpZm610YUtXe1AzOLbIqY"
       },
       "artists": [
         {
-          "name": "Later.",
-          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Golden Bay",
-      "url": "https://open.spotify.com/track/7hB9Efd9KkapvHfjpzPUu8"
+      "duration_ms": 243827,
+      "name": "When You Keep Running",
+      "url": "https://open.spotify.com/track/4BK2Ahjaain3jpUeOWaIfO"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
         "url": "https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK"
@@ -269,306 +361,46 @@
       "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Funambule",
-        "url": "https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz"
+        "name": "Yeux Mouill\u00e9s",
+        "url": "https://open.spotify.com/album/7r2nGFND4HHvz0a9Ku2ayi"
       },
       "artists": [
         {
-          "name": "Mahom",
-          "url": "https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K"
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "duration_ms": 191992,
+      "name": "Yeux Mouill\u00e9s",
+      "url": "https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Tiger Teeth (Feat Just Jack)",
+        "url": "https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
         },
         {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
         }
       ],
-      "duration_ms": 228292,
-      "name": "Funambule",
-      "url": "https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK"
+      "duration_ms": 180500,
+      "name": "Tiger Teeth (Feat Just Jack)",
+      "url": "https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi"
-      },
-      "artists": [
-        {
-          "name": "Lulu Gainsbourg",
-          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Elle",
-      "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Les pieds dans l'eau",
-        "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
-      },
-      "artists": [
-        {
-          "name": "AGAV",
-          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
-        },
-        {
-          "name": "Cliff Schneider",
-          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
-        }
-      ],
-      "duration_ms": 169794,
-      "name": "La nuit dehors",
-      "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Storytelling",
-        "url": "https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "Storytelling",
-      "url": "https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Oh Why",
-        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
-      },
-      "artists": [
-        {
-          "name": "Jil Is Lucky",
-          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
-        }
-      ],
-      "duration_ms": 167114,
-      "name": "Oh Why",
-      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Nelly Lawson",
-          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Massilia (feat. Adrien Gallo)",
-        "url": "https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM"
-      },
-      "artists": [
-        {
-          "name": "Corine",
-          "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
-        },
-        {
-          "name": "Adrien Gallo",
-          "url": "https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Massilia (feat. Adrien Gallo)",
-      "url": "https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "SANTS",
-        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Froissart",
-          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
-        }
-      ],
-      "duration_ms": 135040,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Flegme",
-        "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e8re",
-          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Minuit sur le balcon",
-      "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "I see you up tomorrow",
-        "url": "https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j"
-      },
-      "artists": [
-        {
-          "name": "Scratch Massive",
-          "url": "https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA"
-        },
-        {
-          "name": "Maud Geffray",
-          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
-        }
-      ],
-      "duration_ms": 166972,
-      "name": "I see you up tomorrow",
-      "url": "https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Bonifacio",
-        "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
-      },
-      "artists": [
-        {
-          "name": "Romain Muller",
-          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "Bonifacio",
-      "url": "https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "R\u00eave parti",
-        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
-      },
-      "artists": [
-        {
-          "name": "Lescop",
-          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Internet",
-      "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Any Way (feat. Maggie Rogers)",
-        "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 309896,
-      "name": "Any Way (feat. Maggie Rogers)",
-      "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "\u00c9TINCELLE",
-        "url": "https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI"
-      },
-      "artists": [
-        {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
-        }
-      ],
-      "duration_ms": 215550,
-      "name": "\u00c9TINCELLE",
-      "url": "https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Baby, Come Over Tonight",
-        "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
+        "name": "Golden Bay",
+        "url": "https://open.spotify.com/album/0VQBTgExKApYJMMOE3tufu"
       },
       "artists": [
         {
@@ -576,48 +408,12 @@
           "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
         }
       ],
-      "duration_ms": 203500,
-      "name": "Baby, Come Over Tonight",
-      "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
+      "duration_ms": 190500,
+      "name": "Golden Bay",
+      "url": "https://open.spotify.com/track/7hB9Efd9KkapvHfjpzPUu8"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "L'hiver au soleil",
-        "url": "https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv"
-      },
-      "artists": [
-        {
-          "name": "AGAV",
-          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
-        },
-        {
-          "name": "Cliff Schneider",
-          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "L'hiver au soleil",
-      "url": "https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "The Wedding Song",
-        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
-      },
-      "artists": [
-        {
-          "name": "Magon",
-          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0J92jWQySAfKXhXApETKR0"
@@ -645,23 +441,227 @@
       "url": "https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Vivant",
-        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi"
       },
       "artists": [
         {
-          "name": "Malik Djoudi",
-          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+          "name": "Lulu Gainsbourg",
+          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
         }
       ],
-      "duration_ms": 197497,
-      "name": "Pas vraiment",
-      "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
+      "duration_ms": 207840,
+      "name": "Elle",
+      "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "R\u00eave parti",
+        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Any Way (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 309896,
+      "name": "Any Way (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "SANTS",
+        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Bonifacio",
+        "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
+      },
+      "artists": [
+        {
+          "name": "Romain Muller",
+          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
+        }
+      ],
+      "duration_ms": 135560,
+      "name": "Bonifacio",
+      "url": "https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Baby, Come Over Tonight",
+        "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Baby, Come Over Tonight",
+      "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Nelly Lawson",
+          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Flegme",
+        "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Minuit sur le balcon",
+      "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "\u00c9TINCELLE",
+        "url": "https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "duration_ms": 215550,
+      "name": "\u00c9TINCELLE",
+      "url": "https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "I see you up tomorrow",
+        "url": "https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j"
+      },
+      "artists": [
+        {
+          "name": "Scratch Massive",
+          "url": "https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA"
+        },
+        {
+          "name": "Maud Geffray",
+          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+        }
+      ],
+      "duration_ms": 166972,
+      "name": "I see you up tomorrow",
+      "url": "https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
+      },
+      "artists": [
+        {
+          "name": "Jil Is Lucky",
+          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+        }
+      ],
+      "duration_ms": 167114,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv"
@@ -677,43 +677,23 @@
       "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Businessman",
-        "url": "https://open.spotify.com/album/3vTSqqLAKoH4H8kU41aJ5i"
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
       },
       "artists": [
         {
-          "name": "Ed Mount",
-          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
-        },
-        {
-          "name": "M.I.L.K.",
-          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+          "name": "Magon",
+          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
         }
       ],
-      "duration_ms": 195248,
-      "name": "Businessman",
-      "url": "https://open.spotify.com/track/2be8j001jZ3xCahZ6rktJM"
+      "duration_ms": 173000,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Quitter la ville",
         "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
@@ -729,7 +709,7 @@
       "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "FVTVRVM",
         "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
@@ -745,26 +725,30 @@
       "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "V\u00e9g\u00e9tal",
-        "url": "https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ"
+        "name": "L'hiver au soleil",
+        "url": "https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv"
       },
       "artists": [
         {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
         }
       ],
-      "duration_ms": 233933,
-      "name": "V\u00e9g\u00e9tal",
-      "url": "https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i"
+      "duration_ms": 192941,
+      "name": "L'hiver au soleil",
+      "url": "https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Viens on prend le temps",
-        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+        "name": "Vivant",
+        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
       },
       "artists": [
         {
@@ -772,28 +756,12 @@
           "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
         }
       ],
-      "duration_ms": 176743,
-      "name": "Viens on prend le temps",
-      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+      "duration_ms": 197497,
+      "name": "Pas vraiment",
+      "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Adieu Cl\u00e9mence",
-        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
-      },
-      "artists": [
-        {
-          "name": "Tao Mon Amour",
-          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Adieu Cl\u00e9mence",
-      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "SIXTEEN WONDERS",
         "url": "https://open.spotify.com/album/778Og5tR0wLAoV4bRkhtQU"
@@ -809,7 +777,23 @@
       "url": "https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "La Mer",
         "url": "https://open.spotify.com/album/25M1bUCa54IDjgv1Axa6ay"
@@ -825,7 +809,23 @@
       "url": "https://open.spotify.com/track/1o0iPjV4Hb1zx845PUv2vp"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Adieu Cl\u00e9mence",
+        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
+      },
+      "artists": [
+        {
+          "name": "Tao Mon Amour",
+          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Adieu Cl\u00e9mence",
+      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/1G1fL98A0Qso16gmgO0lP3"
@@ -841,7 +841,23 @@
       "url": "https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Viens on prend le temps",
+        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "duration_ms": 176743,
+      "name": "Viens on prend le temps",
+      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Never Be The Same Again",
         "url": "https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl"
@@ -857,23 +873,7 @@
       "url": "https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Ciao Paris!",
-        "url": "https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Ciao Paris!",
-      "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs"

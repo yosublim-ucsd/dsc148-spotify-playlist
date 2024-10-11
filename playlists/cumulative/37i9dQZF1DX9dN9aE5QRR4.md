@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École, disponible sur Netflix.
 
-103 songs - 4 hr 50 min
+104 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 | 2023-05-31 | 2024-07-05 |
 | [Gravé dans la roche](https://open.spotify.com/track/0LZ90308GB1Tp05STjabeC) | [SNIPER](https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6) | [Gravé dans la roche](https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O) | 4:45 | 2024-07-11 |  |
 | [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 | 2024-07-21 |  |
-| [HOMEMADE](https://open.spotify.com/track/6E00uxTQsrmtdYTSCx0Yme) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/64gWzun5ti8C2p8gvIrjYc) | 2:55 | 2024-07-04 |  |
+| [HOMEMADE](https://open.spotify.com/track/6E00uxTQsrmtdYTSCx0Yme) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/64gWzun5ti8C2p8gvIrjYc) | 2:55 | 2024-07-04 | 2024-10-11 |
+| [HOMEMADE](https://open.spotify.com/track/6YeRKlhp8n2NTf7CPAbsfo) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/6HCxXceM09SYlK7ATByVWL) | 2:55 | 2024-10-10 |  |
 | [Illégal](https://open.spotify.com/track/05F2F5LYyfpldsBb0hQQcp) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Illégal](https://open.spotify.com/album/6u5fg232ZGcnhgBEX50Llz) | 2:41 | 2024-07-11 |  |
 | [Je sais pas faire de Refrains \- Nouvelle École](https://open.spotify.com/track/2nqz8fkqxbWx373LdoxlvR) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 3:39 | 2024-07-18 |  |
 | [JEUNE MALAGASY](https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [JEUNE MALAGASY](https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID) | 2:15 | 2024-07-04 |  |

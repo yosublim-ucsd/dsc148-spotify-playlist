@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
+  "description": "This Is Eric Clapton. Los temas esenciales, todos en una lista.",
   "name": "This Is Eric Clapton",
   "tracks": [
     {
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 237800,
       "name": "Prayer of a Child",
       "url": "https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa"

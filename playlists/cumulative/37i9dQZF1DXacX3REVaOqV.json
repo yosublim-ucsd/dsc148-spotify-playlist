@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "24 (Turn It Up) (+6)",
+        "url": "https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "24 (Turn It Up) (+6)",
+      "url": "https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne"
+    },
+    {
+      "album": {
         "name": "24 (Turn It Up) (Radio Edit)",
         "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
       },
@@ -92,7 +114,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 196721,
       "name": "24 (Turn It Up) (Radio Edit)",
       "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
@@ -3813,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232676,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f"
+    },
+    {
+      "album": {
         "name": "Heat (feat. Nathan Thomas)",
         "url": "https://open.spotify.com/album/3SmqyGukt1Dl17Mo4E1i2W"
       },
@@ -6774,7 +6814,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 304000,
       "name": "Now Is Gone",
       "url": "https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH"
@@ -8624,7 +8664,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 208863,
       "name": "Somebody - Radio Edit",
       "url": "https://open.spotify.com/track/4R5HDTBHkbpcEBahlXp4nw"
@@ -10732,6 +10772,28 @@
       "duration_ms": 158095,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/3VNzvfqYAMHiSktx33Zqgj"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/1cn7hF8EOcYxqLfWdEPrWi"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183046,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2JKSwsqtfhpx6zkuSZFGa4"
     },
     {
       "album": {

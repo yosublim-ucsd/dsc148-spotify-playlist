@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,282 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,288 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 22 | [Jersey Culture BR](https://open.spotify.com/track/4JDLzoBc8uxuGgK0scCksH) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Jersey Culture BR](https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG) | 1:59 |
 | 23 | [Sem Ansiedade](https://open.spotify.com/track/763zdo3E6H3KZfE6wIgYAD) | [Mc Binn](https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sem Ansiedade](https://open.spotify.com/album/1SvtZJlwIK8u5iGfW9BVeV) | 2:51 |
 | 24 | [Finin de Ouro](https://open.spotify.com/track/3BZb1ArjUi8peWqwSv7wOQ) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Finin de Ouro](https://open.spotify.com/album/4mZoJDt9KEgTwoWKAn2Z8T) | 3:13 |
-| 25 | [Vai Escutar 70](https://open.spotify.com/track/04mKB5MwxL1fTJ3YmX195J) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Vai Escutar 70](https://open.spotify.com/album/7ldV1Yk4ZTDMAJBVLT4AAM) | 2:23 |
+| 25 | [Vai Escutar 70](https://open.spotify.com/track/04mKB5MwxL1fTJ3YmX195J) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Vai Escutar 70](https://open.spotify.com/album/7ldV1Yk4ZTDMAJBVLT4AAM) | 2:23 |
 | 26 | [Sexo Hot](https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:48 |
 | 27 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |
 | 28 | [Santo de Casa](https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:22 |

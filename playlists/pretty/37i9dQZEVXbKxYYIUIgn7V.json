@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LpnvSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LptAyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
+        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
+          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Farewell, Starlite!",
         "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Position gefunden (Blitzer App)",
         "url": "https://open.spotify.com/album/1njATVAtxt9jDK82469ZHP"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/7b2nCgF2a5p5svGd0VcRB4"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Never Truly Happy",
-        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
-      },
-      "artists": [
-        {
-          "name": "NESYA",
-          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
-        }
-      ],
-      "duration_ms": 136459,
-      "name": "delulu",
-      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
@@ -93,7 +93,39 @@
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Verwandtschaftstreffen",
+        "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "duration_ms": 165661,
+      "name": "Verwandtschaftstreffen",
+      "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "DON'T SLEEP",
         "url": "https://open.spotify.com/album/1d5RbutxubP725Rv34RP9X"
@@ -117,7 +149,7 @@
       "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Why's this dealer?",
         "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Dinner in America Soundtrack",
         "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -213,23 +245,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Verwandtschaftstreffen",
-        "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 165661,
-      "name": "Verwandtschaftstreffen",
-      "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Controversee\u2026That's Life\u2026and That's the Way It Is",
         "url": "https://open.spotify.com/album/1tiBNNEW1WPa59sVZ71Ers"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/76YDsWGWezclVy9Z6sDGhf"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "ROTE FLAGGEN",
         "url": "https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa"
@@ -277,71 +293,7 @@
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Wandering (Love Me Back)",
-        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "A Lot More Free",
-      "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Ich lieb dich kaputt",
-        "url": "https://open.spotify.com/album/4BxFHItBLCsQW6XQ4Wf63K"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        }
-      ],
-      "duration_ms": 136004,
-      "name": "Ich lieb dich kaputt",
-      "url": "https://open.spotify.com/track/4Ofqdvr2QPmbbJQNfOJFwV"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "I'll Take You There Choir",
-          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
-      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "nachts wach",
-        "url": "https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH"
-      },
-      "artists": [
-        {
-          "name": "OSWALD",
-          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "nachts wach",
-      "url": "https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
@@ -357,55 +309,55 @@
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Zwischenlandung",
-        "url": "https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz"
+        "name": "Ich lieb dich kaputt",
+        "url": "https://open.spotify.com/album/4BxFHItBLCsQW6XQ4Wf63K"
       },
       "artists": [
         {
-          "name": "Haindling",
-          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Bayern",
-      "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
+      "duration_ms": 136004,
+      "name": "Ich lieb dich kaputt",
+      "url": "https://open.spotify.com/track/4Ofqdvr2QPmbbJQNfOJFwV"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "FTW",
-        "url": "https://open.spotify.com/album/6QUMgubCKyt9VbL36GKueb"
+        "name": "Wandering (Love Me Back)",
+        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
       },
       "artists": [
         {
-          "name": "LACAZETTE",
-          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 156521,
-      "name": "FTW",
-      "url": "https://open.spotify.com/track/3aJT51ya8amzpT3TKDVipL"
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Bauch Beine Po",
-        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
       },
       "artists": [
         {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
         }
       ],
-      "duration_ms": 133932,
-      "name": "Bauch Beine Po",
-      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Schlaraffenland",
         "url": "https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD"
@@ -425,39 +377,71 @@
       "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+        "name": "FTW",
+        "url": "https://open.spotify.com/album/6QUMgubCKyt9VbL36GKueb"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
         }
       ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+      "duration_ms": 156521,
+      "name": "FTW",
+      "url": "https://open.spotify.com/track/3aJT51ya8amzpT3TKDVipL"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Pazifik",
-        "url": "https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu"
+        "name": "nachts wach",
+        "url": "https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH"
       },
       "artists": [
         {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Pazifik",
-      "url": "https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW"
+      "duration_ms": 162985,
+      "name": "nachts wach",
+      "url": "https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Bauch Beine Po",
+        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 133932,
+      "name": "Bauch Beine Po",
+      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "GLAMOUR",
         "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
@@ -485,7 +469,23 @@
       "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Geschenk Edition",
+        "url": "https://open.spotify.com/album/3aHtC2ACJmjZ5BsfVHN6z8"
+      },
+      "artists": [
+        {
+          "name": "Haindling",
+          "url": "https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Bayern",
+      "url": "https://open.spotify.com/track/09vKXFvmcYiuQ5R5AwIqyF"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Y-3 X Shababs Botten",
         "url": "https://open.spotify.com/album/4B7ZuC9DlwNN93oJb31grU"
@@ -505,7 +505,71 @@
       "url": "https://open.spotify.com/track/0Nkgdg43f9wGgOx1O4aE7S"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/0gEde8rFCDJYdovwdVRKtq"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 181926,
+      "name": "Pazifik",
+      "url": "https://open.spotify.com/track/3dDaZtrQzWW9IPJz4Az2oY"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "ICH GEH MIT MIR",
+        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "duration_ms": 187155,
+      "name": "ICH GEH MIT MIR",
+      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -525,7 +589,23 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Die Schule der magischen Tiere 3 - Soundtrack zum Film",
+        "url": "https://open.spotify.com/album/6ngoE6dWovkpBQxb8gNdsV"
+      },
+      "artists": [
+        {
+          "name": "Die Schule der magischen Tiere",
+          "url": "https://open.spotify.com/artist/1BElEHaU2xaZg7FOGsSird"
+        }
+      ],
+      "duration_ms": 150331,
+      "name": "Karamell",
+      "url": "https://open.spotify.com/track/57iGmddz2pl7VyZNgdHEiX"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "H&K",
         "url": "https://open.spotify.com/album/3zeoTW11WPs2UXKNOb5RGa"
@@ -541,7 +621,71 @@
       "url": "https://open.spotify.com/track/5ubQrs2wWoSgRwEaPZd4eS"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Die Schule der magischen Tiere 3 - Soundtrack zum Film",
+        "url": "https://open.spotify.com/album/6ngoE6dWovkpBQxb8gNdsV"
+      },
+      "artists": [
+        {
+          "name": "Die Schule der magischen Tiere",
+          "url": "https://open.spotify.com/artist/1BElEHaU2xaZg7FOGsSird"
+        }
+      ],
+      "duration_ms": 131511,
+      "name": "Halt, das ist unser Wald",
+      "url": "https://open.spotify.com/track/716nxJRvf5LepfbCNn8RYP"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Blame It On The Rain (Sped Up)",
+        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Entt\u00e4uscht",
+        "url": "https://open.spotify.com/album/1CbIJFPoO6E3WPlisg5Vp4"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 211836,
+      "name": "Entt\u00e4uscht",
+      "url": "https://open.spotify.com/track/1FrMsTKGAL1zVIMIQ7N12X"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
+      "album": {
+        "name": "Von der Sch\u00f6nheit und Zerbrechlichkeit der Dinge",
+        "url": "https://open.spotify.com/album/01umZXLO7VcQkBUBCXLS5O"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 129813,
+      "name": "Ich mag dich",
+      "url": "https://open.spotify.com/track/1SonFPlV5a1ls2pyKyUgLy"
+    },
+    {
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Nardo RS",
         "url": "https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu"
@@ -561,71 +705,23 @@
       "url": "https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+        "name": "Bossbaby Tape",
+        "url": "https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+      "duration_ms": 97391,
+      "name": "Bundeswehr",
+      "url": "https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "GGUM",
-        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 151689,
-      "name": "GGUM",
-      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "ICH GEH MIT MIR",
-        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
-      },
-      "artists": [
-        {
-          "name": "LORI",
-          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
-        }
-      ],
-      "duration_ms": 187155,
-      "name": "ICH GEH MIT MIR",
-      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Bunca Y\u0131l (Dedub Sessions)",
         "url": "https://open.spotify.com/album/6oEMdYmN0PQXVlr058Jdp5"
@@ -645,23 +741,23 @@
       "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Von der Sch\u00f6nheit und Zerbrechlichkeit der Dinge",
-        "url": "https://open.spotify.com/album/01umZXLO7VcQkBUBCXLS5O"
+        "name": "GGUM",
+        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
       },
       "artists": [
         {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
         }
       ],
-      "duration_ms": 129813,
-      "name": "Ich mag dich",
-      "url": "https://open.spotify.com/track/1SonFPlV5a1ls2pyKyUgLy"
+      "duration_ms": 151689,
+      "name": "GGUM",
+      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Meer",
         "url": "https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs"
@@ -677,71 +773,7 @@
       "url": "https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Die Schule der magischen Tiere 3 - Soundtrack zum Film",
-        "url": "https://open.spotify.com/album/6ngoE6dWovkpBQxb8gNdsV"
-      },
-      "artists": [
-        {
-          "name": "Die Schule der magischen Tiere",
-          "url": "https://open.spotify.com/artist/1BElEHaU2xaZg7FOGsSird"
-        }
-      ],
-      "duration_ms": 131511,
-      "name": "Halt, das ist unser Wald",
-      "url": "https://open.spotify.com/track/716nxJRvf5LepfbCNn8RYP"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/57VLBRdEVnK7PBx9fc9mLp"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 105331,
-      "name": "1994",
-      "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Die Schule der magischen Tiere 3 - Soundtrack zum Film",
-        "url": "https://open.spotify.com/album/6ngoE6dWovkpBQxb8gNdsV"
-      },
-      "artists": [
-        {
-          "name": "Die Schule der magischen Tiere",
-          "url": "https://open.spotify.com/artist/1BElEHaU2xaZg7FOGsSird"
-        }
-      ],
-      "duration_ms": 150331,
-      "name": "Karamell",
-      "url": "https://open.spotify.com/track/57iGmddz2pl7VyZNgdHEiX"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Bossbaby Tape",
-        "url": "https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq"
-      },
-      "artists": [
-        {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "Bundeswehr",
-      "url": "https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
@@ -757,39 +789,39 @@
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Entt\u00e4uscht",
-        "url": "https://open.spotify.com/album/1CbIJFPoO6E3WPlisg5Vp4"
+        "name": "1994",
+        "url": "https://open.spotify.com/album/57VLBRdEVnK7PBx9fc9mLp"
       },
       "artists": [
         {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
         }
       ],
-      "duration_ms": 211836,
-      "name": "Entt\u00e4uscht",
-      "url": "https://open.spotify.com/track/1FrMsTKGAL1zVIMIQ7N12X"
+      "duration_ms": 105331,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Blame It On The Rain (Sped Up)",
-        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
       "artists": [
         {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 248533,
-      "name": "Blame It on the Rain",
-      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
@@ -805,60 +837,24 @@
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
     },
     {
-      "added_at": "2024-10-09 20:46:15",
+      "added_at": "2024-10-10 20:40:04",
       "album": {
-        "name": "Ma Bella",
-        "url": "https://open.spotify.com/album/3P2R5rsXplvC3oetaRAYbR"
+        "name": "midnight",
+        "url": "https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR"
       },
       "artists": [
         {
-          "name": "Accaoui",
-          "url": "https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M"
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
         },
         {
-          "name": "Dafina Zeqiri",
-          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Red Luna",
+          "url": "https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE"
         }
       ],
-      "duration_ms": 214285,
-      "name": "Ma Bella",
-      "url": "https://open.spotify.com/track/110UrbttBGnylCs1icY5JX"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "Doner Kebab Nacho Alejandro Garnacho",
-        "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
-      },
-      "artists": [
-        {
-          "name": "Y2K SPORTS",
-          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Doner Kebab Nacho Alejandro Garnacho",
-      "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
-    },
-    {
-      "added_at": "2024-10-09 20:46:15",
-      "album": {
-        "name": "CUP",
-        "url": "https://open.spotify.com/album/3lxLwp9Qmj2BeS8tQNfUCB"
-      },
-      "artists": [
-        {
-          "name": "LACAZETTE",
-          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
-        }
-      ],
-      "duration_ms": 134003,
-      "name": "CUP",
-      "url": "https://open.spotify.com/track/6Z1C9gQnScliphROi2DabV"
+      "duration_ms": 129022,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg"
     }
   ],
   "unique_name": "Viral 50 - Austria",

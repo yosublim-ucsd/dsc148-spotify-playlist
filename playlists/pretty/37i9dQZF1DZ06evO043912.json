@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5801,
+  "num_followers": 5803,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAACxStQDjSaQV3DoUz1kbqCx",
+  "snapshot_id": "ZwXHgAAAAAC3463kaNUwes2oHReOueKt",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 107963,
-      "name": "Enia Se Rere",
-      "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 245080,
       "name": "Kosun Tadie",
       "url": "https://open.spotify.com/track/5bPX2y8YJbCUG6U2ee639t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 107963,
+      "name": "Enia Se Rere",
+      "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 212775,
-      "name": "Komi Komi",
-      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos Evergreen Golden Oldies",
         "url": "https://open.spotify.com/album/63es39jzJGaJPYTs5I4PVy"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 1115233,
       "name": "Aye Nreti Elaya Mi",
       "url": "https://open.spotify.com/track/2aZjM68gmOEgMTt4csJDrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 212775,
+      "name": "Komi Komi",
+      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Banana",
-        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "The Golden Mecury of Africa",
-          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
-        }
-      ],
-      "duration_ms": 116515,
-      "name": "Bo Se Nse Oju Yen",
-      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of the Classic Years",
         "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },
@@ -435,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 93578,
-      "name": "E Yi Ga",
-      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
+      "duration_ms": 116515,
+      "name": "Bo Se Nse Oju Yen",
+      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
     },
     {
       "added_at": null,
@@ -467,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Banana",
-        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "The Golden Mecury of Africa",
-          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 251925,
-      "name": "Jinginrin",
-      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
+      "duration_ms": 93578,
+      "name": "E Yi Ga",
+      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
     },
     {
       "added_at": null,
@@ -512,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 236771,
-      "name": "Eni Jesu We",
-      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+      "duration_ms": 189236,
+      "name": "O-wo-wo Obele",
+      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
     },
     {
       "added_at": null,
@@ -531,6 +511,26 @@
       "duration_ms": 194026,
       "name": "Ode La Alaga",
       "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Banana",
-        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "The Golden Mecury of Africa",
-          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
-        }
-      ],
-      "duration_ms": 100143,
-      "name": "Sweet Banana",
-      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Check \"E\"",
         "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
@@ -584,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 189236,
-      "name": "O-wo-wo Obele",
-      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
+      "duration_ms": 236771,
+      "name": "Eni Jesu We",
+      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
     },
     {
       "added_at": null,
@@ -607,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 71626,
-      "name": "African Beats Lu Nsere",
-      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -636,9 +600,25 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 213523,
-      "name": "Ona Mi La",
-      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
+      "duration_ms": 100143,
+      "name": "Sweet Banana",
+      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 71626,
+      "name": "African Beats Lu Nsere",
+      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
     },
     {
       "added_at": null,
@@ -679,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 424266,
-      "name": "Afai Bowon",
-      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -708,9 +672,25 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 227985,
-      "name": "Mo L'Oluwa, Ohun To Mu Bale Ile",
-      "url": "https://open.spotify.com/track/4dGeiTEKIXjAWUZIAHJgv2"
+      "duration_ms": 213523,
+      "name": "Ona Mi La",
+      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 424266,
+      "name": "Afai Bowon",
+      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
       "duration_ms": 166112,
       "name": "Prince Adesanya",
       "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "duration_ms": 227985,
+      "name": "Mo L'Oluwa, Ohun To Mu Bale Ile",
+      "url": "https://open.spotify.com/track/4dGeiTEKIXjAWUZIAHJgv2"
     },
     {
       "added_at": null,

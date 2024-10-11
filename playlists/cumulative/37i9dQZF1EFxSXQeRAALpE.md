@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wb3dcSPYJ6xlVpP6HG0u8">Kristen Anderson\-Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 6 hr 6 min
+145 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Reindeer\(s\) Are Better Than People \- From "Frozen" / Soundtrack Version](https://open.spotify.com/track/4C463MZrXGxq3t7A3wlGuV) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Frozen \- Original Motion Picture Soundtrack / Deluxe Edition](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 0:50 | 2024-07-26 |  |
 | [Remember Me \(Dúo\)](https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:44 | 2024-07-26 |  |
 | [Sad Clown](https://open.spotify.com/track/6dXgd9fAFuvPZClNaldbLe) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:46 | 2024-07-26 |  |
+| [Salem's Seven](https://open.spotify.com/track/5rvidR0va32M5VSxT5iWXT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 2:48 | 2024-10-10 |  |
 | [Saturday Night Obsession](https://open.spotify.com/track/3fyuGpw0PARGBSQ4nPA5cn) | [Erin Mackey](https://open.spotify.com/artist/0SxpdMrawYno4Nt8vAd7zP), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 3:56 | 2024-07-26 |  |
 | [Sewage Treatment Plant \- Score Version](https://open.spotify.com/track/0QOBHNWU6RoYDRLH70OhlY) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN), [Nemo](https://open.spotify.com/artist/1A1lV9pQKY76rAIKpCo5XH) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:42 | 2024-07-26 |  |
 | [Sharks \- Score Version](https://open.spotify.com/track/0hFgYbqq9cmayA20D0s2pB) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN), [Bruce](https://open.spotify.com/artist/3pk4gB8ByhOr86CgWCL6xM), [Anchor](https://open.spotify.com/artist/6UDUqBdUwe17d0pT3zAaAF), [Chum](https://open.spotify.com/artist/2YJiQt1NDhh40wyqSUcEJD) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:45 | 2024-07-26 |  |

@@ -2,9 +2,9 @@
 
 ### [노래방 인기가요 \(Singing Room K\-Pop\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: LEE CHANGSUB\(이창섭\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: DAY6\)
 
-304 songs - 19 hr 51 min
+306 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Half](https://open.spotify.com/track/4DPu6D0yKDUJoXKzE26EJv) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [Half](https://open.spotify.com/album/3QvNW4EYbYVibicMTojB4j) | 4:04 | 2022-02-23 | 2024-04-19 |
 | [Half](https://open.spotify.com/track/2dYy6s3WvuFFXTrkSmBaAQ) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [Half](https://open.spotify.com/album/3eHZdjYwXbs37Irw06FG3v) | 4:04 | 2022-02-17 |  |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-02-17 |  |
+| [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 | 2024-10-10 |  |
 | [Happy](https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/54NpbHDAJ6dRu46WYZxDJq) | 4:12 | 2022-02-23 | 2023-11-16 |
 | [Happy](https://open.spotify.com/track/46DptioHrTOMaoRVQWzwVa) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ) | 4:12 | 2022-02-17 | 2022-08-14 |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-10-04 |  |
@@ -309,6 +310,7 @@
 | [좋니](https://open.spotify.com/track/4qkYFnaKtaaPkUvhSsC8kC) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin](https://open.spotify.com/album/3ukXa5DzYvV5aEXz2PrGLO) | 6:15 | 2022-02-23 | 2024-04-19 |
 | [지나오다](https://open.spotify.com/track/0keu6b483OyisjQZqQBqqB) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/3Wtjnp72J9oK31RxH83BiO) | 4:41 | 2022-02-17 |  |
 | [쩔어 DOPE](https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 1](https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH) | 4:00 | 2021-03-11 | 2022-02-18 |
+| [참 다행이야](https://open.spotify.com/track/4shDkvXXUSQrW1PqxFzUPo) | [S.Papa](https://open.spotify.com/artist/78qs2umqe90pqXe9oFpOcl) | [Spapa](https://open.spotify.com/album/5r7kEbgARP8NP2rFL9b3X9) | 4:41 | 2024-10-10 |  |
 | [천년의 사랑](https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3TQXaDuauGf8syAkPbYrex) | 4:25 | 2022-02-23 | 2024-04-19 |
 | [천년의 사랑](https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애 \(天年之愛\)](https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV) | 4:25 | 2022-02-17 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-02-17 |  |

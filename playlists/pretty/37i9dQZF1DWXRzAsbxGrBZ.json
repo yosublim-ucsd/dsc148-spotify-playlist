@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 68133,
+  "num_followers": 68224,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Unprepared",
-        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
-      },
-      "artists": [
-        {
-          "name": "Zinyo",
-          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
-        },
-        {
-          "name": "DJ Clock",
-          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
-        }
-      ],
-      "duration_ms": 405447,
-      "name": "Unprepared",
-      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "AWA",
         "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 239995,
       "name": "AWA - Ralf GUM Vocal Mix Edit",
       "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Unprepared",
+        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
+      },
+      "artists": [
+        {
+          "name": "Zinyo",
+          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
+        },
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        }
+      ],
+      "duration_ms": 405447,
+      "name": "Unprepared",
+      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -611,30 +611,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Some Lovin'",
-        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
-      },
-      "artists": [
-        {
-          "name": "UPZ",
-          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
-        },
-        {
-          "name": "Salvador",
-          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Some Lovin'",
-      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "The Whole Thing",
         "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Some Lovin'",
+        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Some Lovin'",
+      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "Lomthwalo",
+        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
+      },
+      "artists": [
+        {
+          "name": "Mandaba",
+          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
+        },
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "duration_ms": 366206,
+      "name": "Lo'Mthwalo - Original Mix",
+      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "Little Me (Kaidi Tatham Remix)",
         "url": "https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 332773,
       "name": "Little Me - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Lomthwalo",
-        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
-      },
-      "artists": [
-        {
-          "name": "Mandaba",
-          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
-        },
-        {
-          "name": "Griffith Malo",
-          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
-        }
-      ],
-      "duration_ms": 366206,
-      "name": "Lo'Mthwalo - Original Mix",
-      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
     },
     {
       "added_at": "2024-08-02 00:28:01",

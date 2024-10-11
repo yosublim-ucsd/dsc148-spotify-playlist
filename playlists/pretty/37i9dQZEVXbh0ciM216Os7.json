@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAflNEO5YCf+VAuxEjJSjRG",
+  "snapshot_id": "AAAAAAAAAACZ1iHBlXW44l+lKW3IjgJB",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -83,8 +83,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
-        "url": "https://open.spotify.com/album/4uAGZUP763X7MGYaxWZSvA"
+        "name": "Life Sucks",
+        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
       },
       "artists": [
         {
@@ -102,13 +102,13 @@
       ],
       "duration_ms": 174835,
       "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
-      "url": "https://open.spotify.com/track/2ek3ACYo7h7exTdeCGwtMC"
+      "url": "https://open.spotify.com/track/1iFq30sebSBYZkIcmYLtrY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "eternal sunshine (slightly deluxe and also live)",
-        "url": "https://open.spotify.com/album/70DwGIQRimyF7nk7cyRC09"
+        "url": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 206327,
-      "name": "eternal sunshine - live version",
-      "url": "https://open.spotify.com/track/2SRQZfCTtMpSTQ7GD2gQ1f"
+      "duration_ms": 163574,
+      "name": "supernatural - live version",
+      "url": "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -135,6 +135,26 @@
       "duration_ms": 234346,
       "name": "Night Bird Flying - Alternate Version",
       "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Perplexed",
+        "url": "https://open.spotify.com/album/4ckShM8zDvui3g6xd05rQC"
+      },
+      "artists": [
+        {
+          "name": "Tsukii HiFi",
+          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 103058,
+      "name": "Perplexed",
+      "url": "https://open.spotify.com/track/76Db2n1JRXOwXKQwuwLeYf"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -159,26 +179,6 @@
       "duration_ms": 126004,
       "name": "Lyrical Wu",
       "url": "https://open.spotify.com/track/0Vm5zxb9g4XgMFRc92SfOh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "DIAMOND CIGARS",
-        "url": "https://open.spotify.com/album/7fJtvIOHxle2tlP0TSoSKF"
-      },
-      "artists": [
-        {
-          "name": "Little Larry",
-          "url": "https://open.spotify.com/artist/7EBeBK8nKGwZ7trZTGBCb6"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "DIAMOND CIGARS",
-      "url": "https://open.spotify.com/track/7wfQvpKdGUJH3rw924zV4l"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
-      },
-      "artists": [
-        {
-          "name": "Suli4Q",
-          "url": "https://open.spotify.com/artist/2QJUzTehLJmQg4uVAAVyl7"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "2gunn Kevi",
-          "url": "https://open.spotify.com/artist/0GZZY4DPEAAQyVryasiqXE"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 206386,
       "name": "Minnesota Fats",
       "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
+      },
+      "artists": [
+        {
+          "name": "Suli4Q",
+          "url": "https://open.spotify.com/artist/2QJUzTehLJmQg4uVAAVyl7"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "2gunn Kevi",
+          "url": "https://open.spotify.com/artist/0GZZY4DPEAAQyVryasiqXE"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Just Dreams",
-        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Just Dreams",
-      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Still Too Deep",
         "url": "https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 201900,
       "name": "I Try (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/3DhxAnsGkBgc7UxC4IZRyi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Just Dreams",
+        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Just Dreams",
+      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Abysses & Ivresse des profondeurs",
-        "url": "https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        }
-      ],
-      "duration_ms": 497746,
-      "name": "R\u00e9pondez-moi 2024 / Humain",
-      "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Sicilienne, Op. 78",
         "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219186,
       "name": "Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Abysses & Ivresse des profondeurs",
+        "url": "https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "duration_ms": 497746,
+      "name": "R\u00e9pondez-moi 2024 / Humain",
+      "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

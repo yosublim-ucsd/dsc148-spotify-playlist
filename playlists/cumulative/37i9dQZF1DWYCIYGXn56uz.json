@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Anzj",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Sarah",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 178105,
       "name": "Disordine",
       "url": "https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR"
@@ -3263,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Formiche",
+        "url": "https://open.spotify.com/album/6BEsWdHL2DUqVeSjswYf7U"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Formiche",
+      "url": "https://open.spotify.com/track/4luGa0WDAf86wqyyWy2eM6"
+    },
+    {
+      "album": {
         "name": "FOTORICORDO",
         "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
@@ -3336,6 +3354,24 @@
       "duration_ms": 165000,
       "name": "Fulmini",
       "url": "https://open.spotify.com/track/70ZxpUnMJjJwr2I3hXHi7b"
+    },
+    {
+      "album": {
+        "name": "GABBIA",
+        "url": "https://open.spotify.com/album/24VYr9FE4euZE49DmNaYRu"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "GABBIA",
+      "url": "https://open.spotify.com/track/770BhoCEPO3hYMcPimc7gd"
     },
     {
       "album": {
@@ -4352,7 +4388,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 165000,
       "name": "L'Ultima Volta",
       "url": "https://open.spotify.com/track/1IiMRrtu025C19KonR7TJK"
@@ -5102,7 +5138,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 185000,
       "name": "MAMMAM\u00cc",
       "url": "https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK"
@@ -6909,6 +6945,28 @@
     },
     {
       "album": {
+        "name": "LA PARTE DEL MONDO CHE NON MI PIACE",
+        "url": "https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F"
+    },
+    {
+      "album": {
         "name": "PIOVERE",
         "url": "https://open.spotify.com/album/5aACZ8stKioaJl5aEGdMyv"
       },
@@ -7048,6 +7106,24 @@
       "duration_ms": 182630,
       "name": "POSATENEBRE",
       "url": "https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM"
+    },
+    {
+      "album": {
+        "name": "Poteva piovere",
+        "url": "https://open.spotify.com/album/1Yp5jcutprfBdOqqSoddV4"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Poteva piovere",
+      "url": "https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc"
     },
     {
       "album": {
@@ -7701,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "Schiava della Vita",
+        "url": "https://open.spotify.com/album/3O7kIq8JQAcWd5MmoPY1jc"
+      },
+      "artists": [
+        {
+          "name": "LINDA",
+          "url": "https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165034,
+      "name": "Schiava della Vita",
+      "url": "https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3"
+    },
+    {
+      "album": {
         "name": "Scivola",
         "url": "https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh"
       },
@@ -7922,7 +8016,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 159685,
       "name": "SEXY MAGICA",
       "url": "https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t"
@@ -9844,7 +9938,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 177349,
       "name": "YACHT CLUB",
       "url": "https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2"

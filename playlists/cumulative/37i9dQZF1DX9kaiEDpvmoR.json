@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
       },
@@ -81,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Alive On The Dance Floor",
+        "url": "https://open.spotify.com/album/57LQXCiT8o9OYUJsW0obQr"
+      },
+      "artists": [
+        {
+          "name": "April Snow",
+          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
+        },
+        {
+          "name": "Sharlene Hector",
+          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251809,
+      "name": "Alive On The Dance Floor",
+      "url": "https://open.spotify.com/track/7aQz46ePN60wHTCYfKUHyp"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -132,6 +172,28 @@
       "duration_ms": 208750,
       "name": "All v\u00e5r dans",
       "url": "https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv"
+    },
+    {
+      "album": {
+        "name": "Alltid Du",
+        "url": "https://open.spotify.com/album/7bBq9PjJ0457BqQGMHDzUG"
+      },
+      "artists": [
+        {
+          "name": "Dregen",
+          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
+        },
+        {
+          "name": "Etta Zelmani",
+          "url": "https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Alltid Du (feat. Etta Zelmani)",
+      "url": "https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z"
     },
     {
       "album": {
@@ -305,7 +367,7 @@
     },
     {
       "album": {
-        "name": "The Rest Of The Best - Vol. 2",
+        "name": "The Rest Of The Best (Vol. 2)",
         "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
       },
       "artists": [
@@ -352,7 +414,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 203381,
       "name": "COWBOY",
       "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
@@ -1059,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Forserum",
+        "url": "https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq"
+      },
+      "artists": [
+        {
+          "name": "KUPLETTEN",
+          "url": "https://open.spotify.com/artist/02EKOQPSOvw98jhKYtMcQa"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314654,
+      "name": "Forserum",
+      "url": "https://open.spotify.com/track/4Wpt5gCGT1SgDl4pW850DI"
+    },
+    {
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -1312,7 +1392,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 220346,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1xk71Mxe7bkdB5kFLJk3x8"
@@ -1590,7 +1670,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 199760,
       "name": "If You Lose Her, You're A Loser",
       "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
@@ -1804,6 +1884,28 @@
       "duration_ms": 165306,
       "name": "Kiss Me When You're Through",
       "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
+    },
+    {
+      "album": {
+        "name": "Knowing Me, Knowing You",
+        "url": "https://open.spotify.com/album/0RsOlovI5yQnhnPPjQLzmZ"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        },
+        {
+          "name": "7th Heaven",
+          "url": "https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "Knowing Me, Knowing You (7th Heaven Radio Edit)",
+      "url": "https://open.spotify.com/track/1UDh3ZtVpSKjpVarF47xIB"
     },
     {
       "album": {
@@ -2097,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norberg",
+          "url": "https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu"
+    },
+    {
+      "album": {
         "name": "Maybe Now",
         "url": "https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv"
       },
@@ -2220,7 +2340,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 218103,
       "name": "Mordbrand",
       "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
@@ -2282,6 +2402,24 @@
       "duration_ms": 194509,
       "name": "Need You",
       "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
+    },
+    {
+      "album": {
+        "name": "No More You",
+        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176366,
+      "name": "No More You",
+      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
     },
     {
       "album": {
@@ -2423,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Orkanen",
+        "url": "https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Orkanen",
+      "url": "https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs"
+    },
+    {
+      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
       },
@@ -2470,7 +2626,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 148853,
       "name": "Passa dig",
       "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
@@ -2792,6 +2948,24 @@
       "duration_ms": 203613,
       "name": "Salta t\u00e5rar",
       "url": "https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy"
+    },
+    {
+      "album": {
+        "name": "Samma saga",
+        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213882,
+      "name": "Samma saga",
+      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
       "album": {
@@ -3194,7 +3368,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 169246,
       "name": "S\u00e4g vad du t\u00e4nker",
       "url": "https://open.spotify.com/track/0xzGKqSRbmUPfAMkxvvKOw"
@@ -3252,7 +3426,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 224001,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B"
@@ -3476,6 +3650,24 @@
       "duration_ms": 167225,
       "name": "Vad Dom Sa",
       "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
+    },
+    {
+      "album": {
+        "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+        "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180627,
+      "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+      "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
     },
     {
       "album": {
@@ -3726,7 +3918,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 243720,
       "name": "Waiting for the Storm to Pass",
       "url": "https://open.spotify.com/track/3MFAqUVRhIj3LBmoodruF8"
@@ -3788,7 +3980,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 225976,
       "name": "Wasting Years",
       "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
@@ -3990,7 +4182,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 220333,
       "name": "\u00c4nglarna",
       "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"

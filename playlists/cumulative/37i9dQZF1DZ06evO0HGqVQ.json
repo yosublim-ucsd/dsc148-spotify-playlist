@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 317000,
       "name": "Mejor No Somos Nada",
       "url": "https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh"
@@ -366,6 +366,24 @@
     {
       "album": {
         "name": "Eternamente",
+        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name La Vida",
+      "url": "https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP"
+    },
+    {
+      "album": {
+        "name": "Eternamente",
         "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
       },
       "artists": [
@@ -380,6 +398,24 @@
       "duration_ms": 251000,
       "name": "Piel A Piel",
       "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
+    },
+    {
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "Primavera Azul",
+      "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
     },
     {
       "album": {
@@ -632,6 +668,24 @@
       "duration_ms": 284600,
       "name": "Ven A M\u00ed",
       "url": "https://open.spotify.com/track/3FbY8IsVYAnchlr4wQfH2e"
+    },
+    {
+      "album": {
+        "name": "Con Luz Propia",
+        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou"
     },
     {
       "album": {

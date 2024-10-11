@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
-  "num_followers": 42136,
+  "num_followers": 42134,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "P\u00e9tunias",
+        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 211239,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "ANTI-GU\u00c9RISON",
+        "url": "https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi"
+      },
+      "artists": [
+        {
+          "name": "Xela Edna",
+          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
+        },
+        {
+          "name": "Eius Echo",
+          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
+        }
+      ],
+      "duration_ms": 231043,
+      "name": "ANTI-GU\u00c9RISON",
+      "url": "https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -431,26 +467,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "ANTI-GU\u00c9RISON",
-        "url": "https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi"
-      },
-      "artists": [
-        {
-          "name": "Xela Edna",
-          "url": "https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS"
-        },
-        {
-          "name": "Eius Echo",
-          "url": "https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE"
-        }
-      ],
-      "duration_ms": 231043,
-      "name": "ANTI-GU\u00c9RISON",
-      "url": "https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "'Ndrangheta",
         "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "P\u00e9tunias",
-        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 211239,
-      "name": "P\u00e9tunias",
-      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 172346,
       "name": "SAN GOKU",
       "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Bazar",
-        "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 166322,
-      "name": "Bazar",
-      "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -535,6 +519,22 @@
       "duration_ms": 198000,
       "name": "Guardia",
       "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Bazar",
+        "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 166322,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Compl\u00e9mentaires",
-        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Compl\u00e9mentaires",
-      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Compl\u00e9mentaires",
+        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Compl\u00e9mentaires",
+      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Mandat de D\u00e9p\u00f4t",
-        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Darement",
-      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ceci n'est pas une chanson triste",
         "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+        "name": "Mandat de D\u00e9p\u00f4t",
+        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
         }
       ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
+      "duration_ms": 192468,
+      "name": "Darement",
+      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 153618,
       "name": "Chacun son chacun",
       "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "killa",
         "url": "https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu"
       },
@@ -911,38 +927,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Le choix",
-      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Nouvelle vie",
-        "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Nouvelle vie",
-      "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Arabian Heartbreak",
         "url": "https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

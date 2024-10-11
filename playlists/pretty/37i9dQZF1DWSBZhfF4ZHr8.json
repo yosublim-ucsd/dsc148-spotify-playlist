@@ -1,47 +1,31 @@
 {
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Ouidad",
-  "num_followers": 224755,
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Maheva",
+  "num_followers": 224754,
   "original_name": "Fresh Vari\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8T4AAAAAC1S/QyDWuT6wZaKjTqEd72",
+  "snapshot_id": "ZwhOYAAAAAC3z58ujm1/1fu+SgmOQS/T",
   "tracks": [
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Il \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
+        "name": "Avec un H",
+        "url": "https://open.spotify.com/album/5MKuByPteUpw5FLpGfVPR5"
       },
       "artists": [
         {
-          "name": "Ouidad",
-          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
         }
       ],
-      "duration_ms": 198637,
-      "name": "Quitte",
-      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
+      "duration_ms": 143331,
+      "name": "La vie n'attend pas",
+      "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Le choix",
-      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "T'en aller",
         "url": "https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN"
@@ -57,7 +41,75 @@
       "url": "https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
+      },
+      "artists": [
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "duration_ms": 214807,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Voyage (Part II)",
+        "url": "https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "duration_ms": 198637,
+      "name": "Quitte",
+      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
@@ -73,91 +125,7 @@
       "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "SOR4",
-        "url": "https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us"
-      },
-      "artists": [
-        {
-          "name": "SOR4",
-          "url": "https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln"
-        }
-      ],
-      "duration_ms": 167273,
-      "name": "Comment on s'aime",
-      "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Chaque seconde (feat. M. Pokora)",
-        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        },
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Chaque seconde (feat. M. Pokora)",
-      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "La prison des amoureuses malheureuses",
-        "url": "https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Mute",
-      "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "On est plein",
-        "url": "https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9man",
-          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
-        }
-      ],
-      "duration_ms": 146253,
-      "name": "On est plein",
-      "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "J'ai plus peur",
-        "url": "https://open.spotify.com/album/3RxSWOD6Xf5BSCc7wz2o96"
-      },
-      "artists": [
-        {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
-        }
-      ],
-      "duration_ms": 177725,
-      "name": "J'ai plus peur",
-      "url": "https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
@@ -177,59 +145,39 @@
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Seul au monde (feat. Soolking)",
-        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+        "name": "Parle-moi... ou pas",
+        "url": "https://open.spotify.com/album/0oeo2vtHzFPJcRgCM28vxJ"
       },
       "artists": [
         {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Philippine Lavrey",
+          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
         }
       ],
-      "duration_ms": 180361,
-      "name": "Seul au monde (feat. Soolking)",
-      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+      "duration_ms": 148347,
+      "name": "Parle-moi... ou pas",
+      "url": "https://open.spotify.com/track/1fvWSvZOi1xm2MzxS4IMCZ"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Compl\u00e9mentaires",
-        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
+        "name": "J'ai plus peur",
+        "url": "https://open.spotify.com/album/3RxSWOD6Xf5BSCc7wz2o96"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Compl\u00e9mentaires",
-      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+      "duration_ms": 177725,
+      "name": "J'ai plus peur",
+      "url": "https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Avec un H",
-        "url": "https://open.spotify.com/album/5MKuByPteUpw5FLpGfVPR5"
-      },
-      "artists": [
-        {
-          "name": "Maheva",
-          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "La vie n'attend pas",
-      "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
@@ -245,7 +193,43 @@
       "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Chaque seconde (feat. M. Pokora)",
+        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Compl\u00e9mentaires",
+        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Compl\u00e9mentaires",
+      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Elo\u00efz",
         "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
@@ -261,39 +245,23 @@
       "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Tout ira bien",
-        "url": "https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj"
+        "name": "On est plein",
+        "url": "https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le & Robin",
-          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Tout ira bien",
-      "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
+      "duration_ms": 146253,
+      "name": "On est plein",
+      "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Last in Line (2024 Edit)",
-        "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
-      },
-      "artists": [
-        {
-          "name": "Josiane",
-          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Last in Line - 2024 Edit",
-      "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "En \u00e9quipe",
         "url": "https://open.spotify.com/album/5zIcjorc0ObGwvSoUl7p4a"
@@ -313,151 +281,107 @@
       "url": "https://open.spotify.com/track/0cP0V18rkyNvIjoVc5wY3N"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
+        "name": "Last in Line (2024 Edit)",
+        "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
       },
       "artists": [
         {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+          "name": "Josiane",
+          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
         }
       ],
-      "duration_ms": 214807,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
+      "duration_ms": 183626,
+      "name": "Last in Line - 2024 Edit",
+      "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Moi c'est Jeck",
-        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
       },
       "artists": [
         {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 176306,
-      "name": "Immortel",
-      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Comment tu fais \u00e7a ?",
-        "url": "https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo"
+        "name": "SOR4",
+        "url": "https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us"
       },
       "artists": [
         {
-          "name": "Eko Eko",
-          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
+          "name": "SOR4",
+          "url": "https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln"
         }
       ],
-      "duration_ms": 181162,
-      "name": "Comment tu fais \u00e7a ?",
-      "url": "https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX"
+      "duration_ms": 167273,
+      "name": "Comment on s'aime",
+      "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Pas de seum pour le summer",
-        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
+        "name": "Tout ira bien",
+        "url": "https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj"
       },
       "artists": [
         {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
         }
       ],
-      "duration_ms": 179866,
-      "name": "Summer Body",
-      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+      "duration_ms": 179533,
+      "name": "Tout ira bien",
+      "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Me voil\u00e0.",
-        "url": "https://open.spotify.com/album/3343W4NSJeFjymjgkwsKdY"
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/3JIicLsd5uAnePIbUatgvN"
       },
       "artists": [
         {
-          "name": "Victorien",
-          "url": "https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE"
+          "name": "Alexy Large",
+          "url": "https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2"
         }
       ],
-      "duration_ms": 169018,
-      "name": "Plus rien",
-      "url": "https://open.spotify.com/track/65bsljUmUwY2n7PPFDXp7N"
+      "duration_ms": 161066,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/5z6CNZkRIy44n7FrYNs23q"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Tout de suite",
-        "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
+        "name": "Mon regard",
+        "url": "https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL"
       },
       "artists": [
         {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+          "name": "Margot Abate",
+          "url": "https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Parle-moi",
-      "url": "https://open.spotify.com/track/566J3qHuG8sSJv5gVf4S1K"
+      "duration_ms": 139681,
+      "name": "Mon regard",
+      "url": "https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Nogam",
-          "url": "https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "la pluie",
-        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "la pluie",
-      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Plein le coeur",
-        "url": "https://open.spotify.com/album/7643FMfOT2OILHDQJaaeve"
-      },
-      "artists": [
-        {
-          "name": "Maheva",
-          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
-        }
-      ],
-      "duration_ms": 165243,
-      "name": "Plein le coeur",
-      "url": "https://open.spotify.com/track/5sH61fRKG9VzemeLCnEQy7"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "\u00c9quilibre (Summer \u00c9dition)",
         "url": "https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU"
@@ -473,23 +397,71 @@
       "url": "https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Vie vagabonde",
-        "url": "https://open.spotify.com/album/0rmOiiMcUxATbZtqUD4Xgz"
+        "name": "Moi c'est Jeck",
+        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
       },
       "artists": [
         {
-          "name": "Petit K",
-          "url": "https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
         }
       ],
-      "duration_ms": 227988,
-      "name": "Vie vagabonde",
-      "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
+      "duration_ms": 176306,
+      "name": "Immortel",
+      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Fashionista",
+        "url": "https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo"
+      },
+      "artists": [
+        {
+          "name": "Paola",
+          "url": "https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc"
+        }
+      ],
+      "duration_ms": 152303,
+      "name": "Fashionista",
+      "url": "https://open.spotify.com/track/747tXUosf24taPFSdrNWOa"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Gamins des sables",
+        "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 179279,
+      "name": "Gamins des sables",
+      "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ces filles",
+        "url": "https://open.spotify.com/album/5NOBiapUgGKZvFOqNEoj6M"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Ces filles",
+      "url": "https://open.spotify.com/track/7sxkjio9AdWpCQb5MmCGiD"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Plus L'Time (Stereo Love)",
         "url": "https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea"
@@ -513,55 +485,71 @@
       "url": "https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW"
+        "name": "Vie vagabonde",
+        "url": "https://open.spotify.com/album/0rmOiiMcUxATbZtqUD4Xgz"
       },
       "artists": [
         {
-          "name": "2 Copains",
-          "url": "https://open.spotify.com/artist/6yINzSJry9uroHLqhGf3yB"
+          "name": "Petit K",
+          "url": "https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL"
+      "duration_ms": 227988,
+      "name": "Vie vagabonde",
+      "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ces filles",
-        "url": "https://open.spotify.com/album/5NOBiapUgGKZvFOqNEoj6M"
+        "name": "Plein le coeur",
+        "url": "https://open.spotify.com/album/7643FMfOT2OILHDQJaaeve"
       },
       "artists": [
         {
-          "name": "Carla De Coignac",
-          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Ces filles",
-      "url": "https://open.spotify.com/track/7sxkjio9AdWpCQb5MmCGiD"
+      "duration_ms": 165243,
+      "name": "Plein le coeur",
+      "url": "https://open.spotify.com/track/5sH61fRKG9VzemeLCnEQy7"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB"
+        "name": "La prison des amoureuses malheureuses",
+        "url": "https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
         }
       ],
-      "duration_ms": 165640,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB"
+      "duration_ms": 173453,
+      "name": "Mute",
+      "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "HIT PARADE",
+        "url": "https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS"
+      },
+      "artists": [
+        {
+          "name": "Trois Vagues",
+          "url": "https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "HIT PARADE",
+      "url": "https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Soif d'amour",
         "url": "https://open.spotify.com/album/2oml5W6hOHp3EFGJIDaqn6"
@@ -577,55 +565,103 @@
       "url": "https://open.spotify.com/track/4DKzSPzfpw6pnmD8ej7I9I"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Fleurs Fan\u00e9es",
-        "url": "https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB"
       },
       "artists": [
         {
-          "name": "Candice",
-          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
         }
       ],
-      "duration_ms": 208201,
-      "name": "Fleurs Fan\u00e9es",
-      "url": "https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3"
+      "duration_ms": 165640,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Gamins des sables",
-        "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
+        "name": "Tout de suite",
+        "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
         }
       ],
-      "duration_ms": 179279,
-      "name": "Gamins des sables",
-      "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+      "duration_ms": 163000,
+      "name": "Parle-moi",
+      "url": "https://open.spotify.com/track/566J3qHuG8sSJv5gVf4S1K"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mon regard",
-        "url": "https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL"
+        "name": "Me voil\u00e0.",
+        "url": "https://open.spotify.com/album/3343W4NSJeFjymjgkwsKdY"
       },
       "artists": [
         {
-          "name": "Margot Abate",
-          "url": "https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ"
+          "name": "Victorien",
+          "url": "https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE"
         }
       ],
-      "duration_ms": 139681,
-      "name": "Mon regard",
-      "url": "https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d"
+      "duration_ms": 169018,
+      "name": "Plus rien",
+      "url": "https://open.spotify.com/track/65bsljUmUwY2n7PPFDXp7N"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "15h22",
+        "url": "https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Duthu",
+          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/2MNCk2kccGV2x3mMiV7Tfu"
+      },
+      "artists": [
+        {
+          "name": "Laura",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0fONeo4QwEvZHnDxb0NLOJ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Mon coeur s'emballe",
+        "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
+      },
+      "artists": [
+        {
+          "name": "SARA'H",
+          "url": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+        }
+      ],
+      "duration_ms": 186868,
+      "name": "Mon coeur s'emballe",
+      "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Au dessus des nuages",
         "url": "https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT"
@@ -641,43 +677,103 @@
       "url": "https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Finalement",
-        "url": "https://open.spotify.com/album/7hLQmNDbh9eSbBpjrqV1Gq"
+        "name": "Fleurs Fan\u00e9es",
+        "url": "https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA"
       },
       "artists": [
         {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
         }
       ],
-      "duration_ms": 166787,
-      "name": "Finalement",
-      "url": "https://open.spotify.com/track/0ZSWlkAkmp2fQsRfikrBox"
+      "duration_ms": 208201,
+      "name": "Fleurs Fan\u00e9es",
+      "url": "https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Z\u00c9RO PAR MOIS",
-        "url": "https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z"
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW"
       },
       "artists": [
         {
-          "name": "Robin",
-          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
-        },
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+          "name": "2 Copains",
+          "url": "https://open.spotify.com/artist/6yINzSJry9uroHLqhGf3yB"
         }
       ],
-      "duration_ms": 141576,
-      "name": "Z\u00c9RO PAR MOIS",
-      "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
+      "duration_ms": 141000,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Nogam",
+          "url": "https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Nouveau d\u00e9part",
+        "url": "https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "Nouveau d\u00e9part",
+      "url": "https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Dis-le moi",
+        "url": "https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "duration_ms": 158205,
+      "name": "Dis-le moi",
+      "url": "https://open.spotify.com/track/7JI97inpI8UEflF3hsncqb"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "La fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "La fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "J'ai Grandi",
         "url": "https://open.spotify.com/album/53q4GoasgXwqzg4X36ckYU"
@@ -697,135 +793,43 @@
       "url": "https://open.spotify.com/track/5ETuaFo3eJjaGBSSHRXOCK"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mon coeur s'emballe",
-        "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
+        "name": "Z\u00c9RO PAR MOIS",
+        "url": "https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z"
       },
       "artists": [
         {
-          "name": "SARA'H",
-          "url": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
         }
       ],
-      "duration_ms": 186868,
-      "name": "Mon coeur s'emballe",
-      "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
+      "duration_ms": 141576,
+      "name": "Z\u00c9RO PAR MOIS",
+      "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "HIT PARADE",
-        "url": "https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS"
+        "name": "Finalement",
+        "url": "https://open.spotify.com/album/7hLQmNDbh9eSbBpjrqV1Gq"
       },
       "artists": [
         {
-          "name": "Trois Vagues",
-          "url": "https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z"
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
         }
       ],
-      "duration_ms": 168150,
-      "name": "HIT PARADE",
-      "url": "https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix"
+      "duration_ms": 166787,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/0ZSWlkAkmp2fQsRfikrBox"
     },
     {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "La fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU"
-      },
-      "artists": [
-        {
-          "name": "Lou",
-          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "La fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/2MNCk2kccGV2x3mMiV7Tfu"
-      },
-      "artists": [
-        {
-          "name": "Laura",
-          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0fONeo4QwEvZHnDxb0NLOJ"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "15h22",
-        "url": "https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Duthu",
-          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Hyper",
-      "url": "https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Dis-le moi",
-        "url": "https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
-        }
-      ],
-      "duration_ms": 158205,
-      "name": "Dis-le moi",
-      "url": "https://open.spotify.com/track/7JI97inpI8UEflF3hsncqb"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Premi\u00e8re Escale",
-        "url": "https://open.spotify.com/album/3YzPMlRk7zWnkCz1lWGQFW"
-      },
-      "artists": [
-        {
-          "name": "Mauvais \u0152il",
-          "url": "https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Comme les Autres",
-      "url": "https://open.spotify.com/track/4jsoRGCNeiSsdxuNi8wIlc"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Nouveau d\u00e9part",
-        "url": "https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4"
-      },
-      "artists": [
-        {
-          "name": "DAYSY",
-          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "Nouveau d\u00e9part",
-      "url": "https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Tant pis",
         "url": "https://open.spotify.com/album/0ZiQ50GgM9ZJ7xBTDCcJ1L"

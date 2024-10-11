@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo & Kapo, Natanael Cano, Ela Taubert, Eslabon Armado and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,000 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,063 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 9 | [Pari Pari](https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Pari Pari](https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr) | 2:33 |
 | 10 | [IG](https://open.spotify.com/track/3vtPzVMbYE5KveyLyNS2Hj) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [IG](https://open.spotify.com/album/0iytPnOagkUKmOWkwhnNvf) | 3:10 |
 | 11 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
-| 12 | [Catira \(feat\. Neutro Shorty\)](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira \(feat\. Neutro Shorty\)](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
+| 12 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
 | 13 | [CINTURITA](https://open.spotify.com/track/4vXvk2iDdn26POy12Uj5F7) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [De La Zona Más Extrema](https://open.spotify.com/album/0pltYSAofttoCfgKleLKoH) | 3:06 |
 | 14 | [Slow \(feat\. Lyanno\) \- Remix](https://open.spotify.com/track/4mN6iJIEEpPu2AcyHPfXbj) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Slow \(feat\. Lyanno\) \[Remix\]](https://open.spotify.com/album/1j2cJIhGQfZ7pjNlGNi2iX) | 5:39 |
 | 15 | [Fría](https://open.spotify.com/track/1ikMirVApoWYgyoMZZdF3x) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Fría](https://open.spotify.com/album/6Wu7CocDnUUtUNSBw9rDDW) | 2:53 |

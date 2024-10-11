@@ -2,7 +2,7 @@
 
 ### [This Is Sexyy Red](https://open.spotify.com/playlist/37i9dQZF1DZ06evO271ive)
 
-> This is Sexyy Red\. The essential tracks, all in one playlist.
+> This is: Sexyy Red\. Alle wichtigen Tracks in einer Playlist.
 
 89 songs - 4 hr 11 min
 

@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 123697,
       "name": "Chhore",
       "url": "https://open.spotify.com/track/4vDdzKCAT9t45L4gKoXQGE"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 131162,
       "name": "Clout Chase",
       "url": "https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR"
@@ -6677,6 +6677,32 @@
     },
     {
       "album": {
+        "name": "Na Dekha Na Socha",
+        "url": "https://open.spotify.com/album/1EHgmlUJhFyUEeTEjttkTc"
+      },
+      "artists": [
+        {
+          "name": "Muhfaad",
+          "url": "https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Funkaar",
+          "url": "https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173022,
+      "name": "Na Dekha Na Socha",
+      "url": "https://open.spotify.com/track/4QXpQepOBlKrqUSOM707K4"
+    },
+    {
+      "album": {
         "name": "NAACH",
         "url": "https://open.spotify.com/album/6Utv4sG6z1BMAAjKMF5B9R"
       },
@@ -7084,6 +7110,28 @@
       "duration_ms": 190485,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm"
+    },
+    {
+      "album": {
+        "name": "No Parking",
+        "url": "https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik"
+      },
+      "artists": [
+        {
+          "name": "Nagii",
+          "url": "https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E"
+        },
+        {
+          "name": "MNLTX",
+          "url": "https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "No Parking",
+      "url": "https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz"
     },
     {
       "album": {

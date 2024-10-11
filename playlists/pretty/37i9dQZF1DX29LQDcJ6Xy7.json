@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 335995,
+  "num_followers": 336048,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "The Golden Age Of Grotesque",
-        "url": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "mOBSCENE",
-      "url": "https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Digimortal",
         "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "The Golden Age Of Grotesque",
+        "url": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "mOBSCENE",
+      "url": "https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 292586,
       "name": "Jesus Built My Hotrod",
       "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Die H\u00f6lle muss warten",
+        "url": "https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp"
+      },
+      "artists": [
+        {
+          "name": "Eisbrecher",
+          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Verr\u00fcckt",
+      "url": "https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Die H\u00f6lle muss warten",
-        "url": "https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Eisbrecher",
-          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Verr\u00fcckt",
-      "url": "https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0"
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
         "name": "Darkest Days",
         "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 240159,
       "name": "Golgotha Tenement Blues",
       "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 330706,
+      "name": "N.W.O.",
+      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 330706,
-      "name": "N.W.O.",
-      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 416186,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "The Mind Is a Terrible Thing to Taste",
         "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 301426,
       "name": "Thieves",
       "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 416186,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 190327,
       "name": "Hengit\u00e4",
       "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "The Algorithm",
-        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 217071,
-      "name": "Obliteration",
-      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Prototype 6:17",
         "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 208470,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Hollow (Project Regeneration)",
-        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Hollow (Project Regeneration)",
-      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 218205,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Hollow (Project Regeneration)",
+        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Hollow (Project Regeneration)",
+      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
     },
     {
       "added_at": "2024-07-05 16:33:33",

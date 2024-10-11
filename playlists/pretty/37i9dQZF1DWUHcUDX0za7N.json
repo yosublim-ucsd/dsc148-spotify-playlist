@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Phyno",
-  "num_followers": 55499,
+  "num_followers": 55552,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-10-08 10:31:04",
       "album": {
+        "name": "LAST WEEK",
+        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "LAST WEEK",
+      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
+    },
+    {
+      "added_at": "2024-10-08 10:31:04",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 144935,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
-    },
-    {
-      "added_at": "2024-10-08 10:31:04",
-      "album": {
-        "name": "LAST WEEK",
-        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "LAST WEEK",
-      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
     },
     {
       "added_at": "2024-10-08 10:31:04",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-10-08 10:31:04",
       "album": {
-        "name": "Taya",
-        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
-      },
-      "artists": [
-        {
-          "name": "Dwillsharmony",
-          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
-    },
-    {
-      "added_at": "2024-10-08 10:31:04",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
+    },
+    {
+      "added_at": "2024-10-08 10:31:04",
+      "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
     },
     {
       "added_at": "2024-10-08 10:31:04",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2024-10-08 10:31:04",
       "album": {
-        "name": "Jumpin Bumpin",
-        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
+        "name": "Warning!",
+        "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
       },
       "artists": [
         {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 169130,
-      "name": "Jumpin Bumpin",
-      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
+      "duration_ms": 164827,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
     }
   ],
   "unique_name": "Naija Bars ",

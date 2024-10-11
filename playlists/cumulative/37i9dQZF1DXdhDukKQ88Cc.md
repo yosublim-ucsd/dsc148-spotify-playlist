@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap men det er mere en vibe 🌊🌊
+> dk rap var ventet på det her track  🥵  <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>  /<a href="spotify:track:2bFgjHMqGThTzlv6V94V5v">Har Hørt Dig</a>
 
-239 songs - 10 hr 20 min
+244 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,10 @@
 | [Et Par Timer](https://open.spotify.com/track/1eEc7r9BeHoiE9XYjLRoSx) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Et Par Timer](https://open.spotify.com/album/57KyTFA1EXOs6ZDL0CrA5W) | 2:27 | 2024-04-25 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 | 2024-02-23 |
 | [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 | 2024-07-12 |
+| [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 | 2024-10-10 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 | 2024-10-04 |
+| [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 | 2024-10-10 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 | 2023-11-11 |
 | [Fiesta](https://open.spotify.com/track/0bZcMRbdHEu7mJfx3233xN) | [Gio](https://open.spotify.com/artist/11WOy8bNZ7WpdX89ILYNEW), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Fiesta](https://open.spotify.com/album/0ibuiCtHWmTftzZpTZAxtD) | 2:25 | 2024-05-30 |  |
 | [Fiesta](https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Fiesta](https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ) | 2:05 | 2023-10-06 | 2024-05-14 |
@@ -114,6 +116,7 @@
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 |  |
 | [HANNIBAL & JERRY](https://open.spotify.com/track/7IKMflhC3oROTEwUFzH5PW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [HANNIBAL & JERRY](https://open.spotify.com/album/27UpFPOvaxNwCNjcRKGgbH) | 2:02 | 2024-02-22 | 2024-04-05 |
 | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0) | 2:20 | 2023-11-10 | 2024-01-19 |
+| [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 | 2024-10-10 |  |
 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 | 2023-09-21 | 2024-04-05 |
 | [Helt Sikker](https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Helt Sikker](https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg) | 2:03 | 2024-04-18 |  |
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 | 2023-11-11 |
@@ -144,6 +147,7 @@
 | [KOM HERHEN](https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [KOM HERHEN](https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS) | 2:24 | 2024-05-23 |  |
 | [Lad Mig Lande \(feat\. Gilli, KESI, Kimbo & Sivas\)](https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:32 | 2024-03-21 | 2024-06-22 |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 | 2024-01-17 |
+| [Langt Væk](https://open.spotify.com/track/29wJ4iomPWiJLXaXYhowRu) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Langt Væk](https://open.spotify.com/album/21xYB9rpuvfWagpQkuAxdV) | 2:09 | 2024-10-10 |  |
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 | 2024-09-13 |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-05-14 |
@@ -168,6 +172,7 @@
 | [North Face \(feat\. Lamin\)](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face \(feat\. Lamin\)](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 | 2024-01-04 | 2024-05-14 |
 | [Når Det Nok](https://open.spotify.com/track/1a5rv4iJLXTIXmY4wPOyrR) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Når Det Nok](https://open.spotify.com/album/6qElWts5XQIjlwBIjiaTkL) | 2:04 | 2024-06-27 | 2024-09-13 |
 | [OCHO](https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/6qNTf2SSU5LesB8d8w63if) | 2:54 | 2024-04-25 |  |
+| [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 | 2024-10-10 |  |
 | [OT](https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [OT](https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ) | 2:50 | 2024-03-28 |  |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/album/3pirHD0zqwlGkb0QS4UsIU) | 2:53 | 2024-02-15 | 2024-05-14 |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:53 | 2024-03-21 | 2024-04-19 |

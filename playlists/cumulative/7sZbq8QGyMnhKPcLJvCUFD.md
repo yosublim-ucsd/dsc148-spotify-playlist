@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-614 songs - 1 day 7 hr 7 min
+615 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 | 2024-06-11 |  |
 | [Your Highness](https://open.spotify.com/track/1r2epakXbNUm9jJFBwnYbR) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Your Highness](https://open.spotify.com/album/4K03B0jZLorCFqXj4LjXkU) | 3:06 | 2023-05-05 | 2023-08-10 |
 | [Your Love](https://open.spotify.com/track/6e9RiPpVFxukEfOC7fHW4i) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Your Love](https://open.spotify.com/album/0smUOqiOuyScdD4bgwI7ek) | 2:25 | 2023-04-28 | 2023-08-10 |
+| [Your Poison](https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Your Poison](https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd) | 3:18 | 2024-10-10 |  |
 | [Zig Zag](https://open.spotify.com/track/1shskQEKKGCDz4u3xQ192q) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Zig Zag](https://open.spotify.com/album/3NMv7cXA7JSgBm5TFkTkAf) | 3:27 | 2023-08-08 | 2023-12-14 |
 
 \*This playlist was first scraped on 2022-10-06. Prior content cannot be recovered.

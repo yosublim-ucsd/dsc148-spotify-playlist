@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Sexmane.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Jore & Zpoppa.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1519,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "Dead Presidents",
+        "url": "https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181716,
+      "name": "Dead Presidents",
+      "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa"
       },
@@ -1700,6 +1722,28 @@
       "duration_ms": 155884,
       "name": "DUNYA",
       "url": "https://open.spotify.com/track/3LkWGDeGu4QTHthLqB6ZGS"
+    },
+    {
+      "album": {
+        "name": "Duunarit (feat. Aleksanteri Hakaniemi)",
+        "url": "https://open.spotify.com/album/3BNvUel2GPYflNyYzZVO03"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Duunarit (feat. Aleksanteri Hakaniemi)",
+      "url": "https://open.spotify.com/track/4rMlws9mxGg0qZm6Jogryy"
     },
     {
       "album": {
@@ -3482,7 +3526,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 140722,
       "name": "H\u00e4fl\u00e4",
       "url": "https://open.spotify.com/track/2yEVWfpe2JKjidkQpFW3I2"
@@ -4020,6 +4064,24 @@
       "duration_ms": 127023,
       "name": "jeesus",
       "url": "https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS"
+    },
+    {
+      "album": {
+        "name": "NOIDANKEH\u00c4",
+        "url": "https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "JOHANNES KASTAJA",
+      "url": "https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi"
     },
     {
       "album": {
@@ -4572,7 +4634,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 183040,
       "name": "Kaikki t\u00e4\u00e4l kuolee",
       "url": "https://open.spotify.com/track/2nUfuINNeCS55vskPfkPeB"
@@ -5782,7 +5844,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 168750,
       "name": "Kusip\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11"
@@ -7438,6 +7500,28 @@
       "duration_ms": 233414,
       "name": "MENI MENI (feat. Tommishock)",
       "url": "https://open.spotify.com/track/6N6SsvQrE9YOwwcpUtEkqC"
+    },
+    {
+      "album": {
+        "name": "Mensa x OFF THE BOOTH (S2)",
+        "url": "https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6"
+      },
+      "artists": [
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/7Jj21VbE0QN6OtL2MRtRbr"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94411,
+      "name": "Mensa x OFF THE BOOTH (S2)",
+      "url": "https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ"
     },
     {
       "album": {
@@ -9542,7 +9626,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 153043,
       "name": "PRADA SHEIDIT",
       "url": "https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu"
@@ -9564,7 +9648,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 120590,
       "name": "Prinsessa (feat. baka\u00ae)",
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
@@ -10388,7 +10472,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 179114,
       "name": "Saat mut syttyy",
       "url": "https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS"
@@ -11745,6 +11829,24 @@
     },
     {
       "album": {
+        "name": "n\u00e4\u00e4ts\u00e4 mut?",
+        "url": "https://open.spotify.com/album/1jxW2otFGa3DmhKBjJKSHm"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154685,
+      "name": "S\u00c4D!",
+      "url": "https://open.spotify.com/track/6ap8d46sBzUPQyNx05hYbw"
+    },
+    {
+      "album": {
         "name": "Cooper",
         "url": "https://open.spotify.com/album/2R7hvnF64rMABKsCiphfwc"
       },
@@ -12284,7 +12386,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 126760,
       "name": "TIPPA x OFF THE BOOTH (S2)",
       "url": "https://open.spotify.com/track/3zaDes14AojI2jAze3DdKN"
@@ -12328,6 +12430,24 @@
       "duration_ms": 190773,
       "name": "Toiset samanlaiset (feat. K\u00e4\u00e4rij\u00e4)",
       "url": "https://open.spotify.com/track/74GljYNzhYRF90chULPqsz"
+    },
+    {
+      "album": {
+        "name": "Toista sua",
+        "url": "https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169074,
+      "name": "Toista sua",
+      "url": "https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk"
     },
     {
       "album": {
@@ -13464,6 +13584,28 @@
       "duration_ms": 151200,
       "name": "VIIHTYM\u00c4\u00c4",
       "url": "https://open.spotify.com/track/1vwH7fgBUQqOYrQQLTQqtm"
+    },
+    {
+      "album": {
+        "name": "Viikatemies",
+        "url": "https://open.spotify.com/album/0mFRPbN0x8rhTALoifI4MJ"
+      },
+      "artists": [
+        {
+          "name": "James-J",
+          "url": "https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1"
+        },
+        {
+          "name": "Joa",
+          "url": "https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "Viikatemies",
+      "url": "https://open.spotify.com/track/1Q8gl1pAKc5OuIysCqFick"
     },
     {
       "album": {

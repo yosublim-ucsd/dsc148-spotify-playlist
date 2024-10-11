@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 173779,
+  "num_followers": 173823,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Filho Pr\u00f3digo",
-        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 114580,
-      "name": "Filho Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
         "name": "N\u00e3o Tenha Medo",
         "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 250158,
       "name": "N\u00e3o Tenha Medo",
       "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Filho Pr\u00f3digo",
+        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 114580,
+      "name": "Filho Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -439,8 +439,8 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Chove Cedo",
-        "url": "https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR"
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
       "artists": [
         {
@@ -448,17 +448,13 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Chove Cedo",
-      "url": "https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW"
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -579,6 +575,22 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
+        "name": "Fala Que \u00c9 Crente",
+        "url": "https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB"
+      },
+      "artists": [
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        }
+      ],
+      "duration_ms": 171728,
+      "name": "Fala Que \u00c9 Crente",
+      "url": "https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -603,24 +615,8 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Fala Que \u00c9 Crente",
-        "url": "https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        }
-      ],
-      "duration_ms": 171728,
-      "name": "Fala Que \u00c9 Crente",
-      "url": "https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+        "name": "Chove Cedo",
+        "url": "https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR"
       },
       "artists": [
         {
@@ -628,13 +624,17 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+      "duration_ms": 192000,
+      "name": "Chove Cedo",
+      "url": "https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -683,6 +683,22 @@
       "duration_ms": 228888,
       "name": "Quebrantado - Remix",
       "url": "https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Mesma Miss\u00e3o",
+        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
+      },
+      "artists": [
+        {
+          "name": "RAMON EL BRABO",
+          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Mesma Miss\u00e3o",
+      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Mesma Miss\u00e3o",
-        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
-      },
-      "artists": [
-        {
-          "name": "RAMON EL BRABO",
-          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Mesma Miss\u00e3o",
-      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
         "name": "E F\u00e9",
         "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 153400,
       "name": "E F\u00e9",
       "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -863,22 +847,18 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+        "name": "Jo\u00e3o 16:33",
+        "url": "https://open.spotify.com/album/2Oipu9q43QiXD7RwCiGN6s"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 157393,
+      "name": "Jo\u00e3o 16:33",
+      "url": "https://open.spotify.com/track/3Da9B1a75oSL23u8UqS4nE"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -903,18 +883,38 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Jo\u00e3o 16:33",
-        "url": "https://open.spotify.com/album/2Oipu9q43QiXD7RwCiGN6s"
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
         }
       ],
-      "duration_ms": 157393,
-      "name": "Jo\u00e3o 16:33",
-      "url": "https://open.spotify.com/track/3Da9B1a75oSL23u8UqS4nE"
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
+        "name": "Solid\u00e3o e Arte",
+        "url": "https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "Solid\u00e3o e Arte",
+      "url": "https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
         "name": "Love Sangre",
         "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 138947,
       "name": "Com Jesus Eu Ganho",
       "url": "https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
-        "name": "Solid\u00e3o e Arte",
-        "url": "https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m"
-      },
-      "artists": [
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "Solid\u00e3o e Arte",
-      "url": "https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        },
-        {
-          "name": "DJ Richa",
-          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1167,18 +1147,22 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Aba Pai",
-        "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
       "artists": [
         {
-          "name": "Izza D",
-          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "DJ Richa",
+          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
         }
       ],
-      "duration_ms": 126720,
-      "name": "Aba Pai",
-      "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
+      "duration_ms": 171428,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 124714,
       "name": "Teologia Negra",
       "url": "https://open.spotify.com/track/6yoco3ulwjuskHpxH3h9qL"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
+      },
+      "artists": [
+        {
+          "name": "Izza D",
+          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Aba Pai",
+      "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Te Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
         "name": "Casa Sem a Gra\u00e7a",
         "url": "https://open.spotify.com/album/2lRvGKZu4PLkZTyKjuaWTk"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 209395,
       "name": "Casa Sem a Gra\u00e7a",
       "url": "https://open.spotify.com/track/3xOMVx3JeUEgbxlVdKMBm0"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
         "name": "R&V - Prel\u00fadio",
         "url": "https://open.spotify.com/album/0JPVBsKAA00j2gnCBQhDT8"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 164173,
       "name": "God",
       "url": "https://open.spotify.com/track/7JvCGKW36E0XyLpF8Lvd8f"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1483,26 +1483,6 @@
       "duration_ms": 127079,
       "name": "Desenvolvimento",
       "url": "https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
-        "name": "Tua Face",
-        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Tua Face",
-      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2024-10-07 14:58:00",
       "album": {
+        "name": "Tua Face",
+        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tua Face",
+      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
         "name": "Paracetamol (Divisa de Fogo)",
         "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+    },
+    {
+      "added_at": "2024-10-07 14:58:00",
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-10-07 14:58:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 180000,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
-    },
-    {
-      "added_at": "2024-10-07 14:58:00",
-      "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-10-07 14:58:00",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 770065,
+  "num_followers": 770336,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Street Bangerz Volume 6: Playhouse",
-        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
-      },
-      "artists": [
-        {
-          "name": "Poldoore",
-          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "But I Do",
-      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Please Slow Down",
         "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 163324,
       "name": "Please Slow Down",
       "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Street Bangerz Volume 6: Playhouse",
+        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "But I Do",
+      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Never Give Up (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
-      },
-      "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Never Give Up (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Le temps passe etc.",
         "url": "https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Never Give Up (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Never Give Up (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Oser",
-        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
-      },
-      "artists": [
-        {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Ose",
-      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Sunset Park",
         "url": "https://open.spotify.com/album/5SIZvHjcywZNeJZx0158sB"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 185173,
       "name": "Sunset Park",
       "url": "https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Oser",
+        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Ose",
+      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
     },
     {
       "added_at": "2024-10-04 15:42:51",

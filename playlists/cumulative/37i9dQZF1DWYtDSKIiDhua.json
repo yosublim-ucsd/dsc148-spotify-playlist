@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Noni",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Fyegoodgurl",
   "name": "mood.",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 149195,
       "name": "1900's",
       "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 204906,
       "name": "365 (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 146400,
       "name": "am i",
       "url": "https://open.spotify.com/track/4mTgK0Qrm6TEXi9inlxPgn"
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+    },
+    {
+      "album": {
         "name": "Breeze in the beach (feat. CHAI)",
         "url": "https://open.spotify.com/album/04CfgUmMEO3IJ1KHQlCIS8"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 131715,
       "name": "Can't stop",
       "url": "https://open.spotify.com/track/2WeNY2fPswb6XmHEAfJ5cr"
@@ -2316,6 +2334,24 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "album": {
+        "name": "Caressing",
+        "url": "https://open.spotify.com/album/652gS5Nmjk12FPtwaJYPtX"
+      },
+      "artists": [
+        {
+          "name": "J.Tajor",
+          "url": "https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Caressing",
+      "url": "https://open.spotify.com/track/5I9PPPSgYkQTgRCRD0bQkM"
     },
     {
       "album": {
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171666,
       "name": "collide",
       "url": "https://open.spotify.com/track/5MDjnOt0WLXp4GD56V1FUK"
@@ -3232,7 +3268,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 226495,
       "name": "Dancing Circles 2.0",
       "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
@@ -6360,7 +6396,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 218357,
       "name": "Haven",
       "url": "https://open.spotify.com/track/6EFpT7vgUJone0XDpNttWg"
@@ -6562,7 +6598,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
@@ -7030,7 +7066,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 249939,
       "name": "HURTS LIKE HEAVEN",
       "url": "https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E"
@@ -8224,7 +8260,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 237066,
       "name": "Keen",
       "url": "https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl"
@@ -9288,7 +9324,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171428,
       "name": "Love Wont Be Wasted",
       "url": "https://open.spotify.com/track/7eDdzoR5zY9z26xhQA8HgC"
@@ -10160,6 +10196,24 @@
       "duration_ms": 208888,
       "name": "Moment",
       "url": "https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO"
+    },
+    {
+      "album": {
+        "name": "curfew",
+        "url": "https://open.spotify.com/album/30IjmLVu9aRAMGoynyXD2q"
+      },
+      "artists": [
+        {
+          "name": "Dani Zam",
+          "url": "https://open.spotify.com/artist/0bJM4Kl0INlyoFuQvAVjgq"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212143,
+      "name": "moon",
+      "url": "https://open.spotify.com/track/6pot9mOSgxAvcoqf1pXl9J"
     },
     {
       "album": {
@@ -11356,6 +11410,24 @@
       "duration_ms": 211053,
       "name": "ore ore",
       "url": "https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO"
+    },
+    {
+      "album": {
+        "name": "OTNW",
+        "url": "https://open.spotify.com/album/0ppXruu0u7FQSSC5emQMMQ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206052,
+      "name": "OTNW",
+      "url": "https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0"
     },
     {
       "album": {
@@ -12990,7 +13062,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 144545,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
@@ -13062,7 +13134,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 215127,
       "name": "Say It To The Moon",
       "url": "https://open.spotify.com/track/5rSIyqbK49D5JxVoxKsgrT"
@@ -13414,7 +13486,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 216993,
       "name": "She Don't",
       "url": "https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6"
@@ -15266,7 +15338,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 188901,
       "name": "Texas",
       "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
@@ -15302,7 +15374,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
@@ -16806,7 +16878,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 219786,
       "name": "Waiting on the Right Time",
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"

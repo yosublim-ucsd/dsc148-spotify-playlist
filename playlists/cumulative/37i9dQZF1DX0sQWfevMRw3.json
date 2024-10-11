@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "ALLA \u00c4R V\u00c4LKOMNA TILL RITUALEN!!",
+  "description": "DET G\u00c5R UPP O NER!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 182400,
       "name": "Bra vibrationer (Du ger mig bra vibrationer)",
       "url": "https://open.spotify.com/track/0NG4MkcDRdtq3YuttON5W7"
@@ -3488,6 +3488,32 @@
       "duration_ms": 147808,
       "name": "DANSA UTAN DIG",
       "url": "https://open.spotify.com/track/01I13TY1pgfk7ZhkFsuKbz"
+    },
+    {
+      "album": {
+        "name": "DANSA UTAN SPRIT",
+        "url": "https://open.spotify.com/album/5No9XeQMuJCNxpd9rgYsPP"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127241,
+      "name": "DANSA UTAN SPRIT",
+      "url": "https://open.spotify.com/track/1MwTbxU9ZXZ3LPp3AaTKPS"
     },
     {
       "album": {
@@ -6128,7 +6154,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 147214,
       "name": "Fakk dig \u00e4lskling",
       "url": "https://open.spotify.com/track/5aTc2p4FjhVpKcMDIIBtLN"
@@ -6388,6 +6414,32 @@
       "duration_ms": 160000,
       "name": "FARA NER P\u00c5 BYN",
       "url": "https://open.spotify.com/track/3WIaPlB4A0RxRT03GmtiXk"
+    },
+    {
+      "album": {
+        "name": "Farbror bl\u00e5 (halli hall\u00e5)",
+        "url": "https://open.spotify.com/album/2f1VWbESqFkqIUC0uut3PR"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        },
+        {
+          "name": "LUREBUS",
+          "url": "https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "Farbror bl\u00e5 (halli hall\u00e5)",
+      "url": "https://open.spotify.com/track/5WY1r7mjjiki4H94GyVtRk"
     },
     {
       "album": {
@@ -8274,7 +8326,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 159120,
       "name": "GAMMAL I GEMET",
       "url": "https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW"
@@ -13739,6 +13791,24 @@
     },
     {
       "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/3RN8yuNI167pkxrDkVVlS8"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136692,
+      "name": "LOST AND FOUND",
+      "url": "https://open.spotify.com/track/1xgpjWKr5C2l5k3KzwNDhp"
+    },
+    {
+      "album": {
         "name": "Lovade mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/469rQNCwK0z521wLPDPIdI"
       },
@@ -14542,7 +14612,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 115000,
       "name": "MIN ST\u00d6RSTA F\u00d6RSTA K\u00c4RLEK",
       "url": "https://open.spotify.com/track/46O0UcUAkwwEGIT2rKL2IH"
@@ -21831,6 +21901,24 @@
     },
     {
       "album": {
+        "name": "SYND",
+        "url": "https://open.spotify.com/album/1xJ6JoIa9sr72gtyNycuEf"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "SYND",
+      "url": "https://open.spotify.com/track/7bHTntU8BruWpiIELblDPe"
+    },
+    {
+      "album": {
         "name": "SYRGAS (Till Anna) [J.O.X Remix]",
         "url": "https://open.spotify.com/album/30rlNIYDWtCCYrLZZqwTG5"
       },
@@ -23513,6 +23601,28 @@
     },
     {
       "album": {
+        "name": "Upp & Ner (feat. Lia Larsson)",
+        "url": "https://open.spotify.com/album/3qs72Lj0BQPuQegqx5vbUJ"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136071,
+      "name": "Upp & Ner (feat. Lia Larsson)",
+      "url": "https://open.spotify.com/track/2LBeuEhfG5EYIRATV9sR3s"
+    },
+    {
+      "album": {
         "name": "Uppe Hela Natten",
         "url": "https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t"
       },
@@ -24167,6 +24277,28 @@
     },
     {
       "album": {
+        "name": "Vem kan segla f\u00f6rutan vind",
+        "url": "https://open.spotify.com/album/4P4iK8gisKi4nwbRS9u35d"
+      },
+      "artists": [
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        },
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Vem kan segla f\u00f6rutan vind",
+      "url": "https://open.spotify.com/track/2VxoTJcNj4aeXfW82z3XNV"
+    },
+    {
+      "album": {
         "name": "VEM VARE",
         "url": "https://open.spotify.com/album/4eTvphaeN29X6yQuBNudo1"
       },
@@ -24248,7 +24380,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 163342,
       "name": "Vi ska aldrig hem",
       "url": "https://open.spotify.com/track/5rRP5f90sxhDnexjoT6HAb"

@@ -4,7 +4,7 @@
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-90 songs - 4 hr 13 min
+92 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Don't Fight the Rhythm! \- From "Disneyland Resort's Pixar Pals Playtime Party"](https://open.spotify.com/track/3QhIwMB5eIul4JzFGVTlCn) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy), [Rhett Fisher](https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA), [Devin Hoffman](https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb) | [Don't Fight the Rhythm! \(From "Disneyland Resort's Pixar Pals Playtime Party"\)](https://open.spotify.com/album/2Hs7U0rI4ITjlt5CzomTW5) | 3:10 | 2024-05-30 |  |
 | [Down to Earth \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Rated PG](https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO) | 5:58 | 2023-09-15 |  |
 | [Down to Earth \- From "WALL\-E"/Soundtrack Version](https://open.spotify.com/track/3RcTV0VBkSwzHNMghOmRbm) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 5:57 | 2024-04-08 | 2024-06-01 |
+| [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 | 2024-10-10 |  |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2023-09-15 |  |
 | [EVE](https://open.spotify.com/track/2SGW2reRU2ZvIinJAhAogC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:02 | 2023-09-15 |  |
 | [EVE \- From "WALL\-E"/Score](https://open.spotify.com/track/3ypMbDmBzhI4hTugVJSA58) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 1:02 | 2024-04-08 | 2024-06-01 |
@@ -67,6 +68,7 @@
 | [Ratatouille Main Theme](https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:09 | 2023-09-15 |  |
 | [Real Gone](https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 3:20 | 2023-09-15 |  |
 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 | 2023-09-15 |  |
+| [Remember Me \(Reunion\)](https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 | 2024-10-10 |  |
 | [Ride \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/6KZYD8mbuJJJpXjpDqmmbT) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 4:03 | 2023-09-15 |  |
 | [Roar \- From "Monsters University"/Soundtrack Version](https://open.spotify.com/track/2aTC0XUEY35Vg607Z7OeSJ) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 2:52 | 2023-09-15 |  |
 | [Route 66](https://open.spotify.com/track/0LGF5lHk51Xa0BCJsWXrJv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:50 | 2024-04-08 | 2024-06-01 |

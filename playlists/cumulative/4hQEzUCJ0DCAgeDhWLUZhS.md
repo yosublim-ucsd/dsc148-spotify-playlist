@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-441 songs - 1 day 2 hr 0 min
+443 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 | 2023-09-01 |  |
 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 | 2020-10-10\* | 2021-02-25 |
 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 | 2023-05-19 |  |
+| [Shouldn’t Leave It Like That](https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Last Of The Lonely Gods](https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f) | 3:29 | 2024-10-11 |  |
 | [Show Me Your God](https://open.spotify.com/track/049eMbPucZ3Acq6r3aQkvz) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq) | 3:37 | 2022-12-09 |  |
 | [Shut It Down](https://open.spotify.com/track/4tRR0oqkIFjs39wC5cAuK6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Colorado](https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv) | 3:44 | 2020-10-10\* | 2021-02-25 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 | 2022-03-18 |
@@ -389,6 +390,7 @@
 | [The Present is a Foreign Land](https://open.spotify.com/track/41By7rJLga2kJTkHA9CDIq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present is a Foreign Land](https://open.spotify.com/album/4KFSqMqYLlO8PVW32PO5rS) | 4:14 | 2022-07-15 |  |
 | [The Runaround](https://open.spotify.com/track/4UT9eu8tFiRyi7wVz0vVcZ) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [The Runaround](https://open.spotify.com/album/6sKafsuY83tNWqqqnL4k9n) | 3:43 | 2021-02-26 | 2022-03-18 |
 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 | 2020-10-10\* | 2021-05-13 |
+| [The Way It Goes](https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [The Way It Goes](https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg) | 2:34 | 2024-10-11 |  |
 | [The Writing on the Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 | 2021-07-17 |  |
 | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/track/3XJySfQxLrk1nuHB3OUPs9) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a), [Andrew Michael Wells](https://open.spotify.com/artist/4GasLQGNFJu8hUb6NiEE44) | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/album/0sELNTcQOVostrzXOv70Bc) | 3:21 | 2023-08-18 |  |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 |  |

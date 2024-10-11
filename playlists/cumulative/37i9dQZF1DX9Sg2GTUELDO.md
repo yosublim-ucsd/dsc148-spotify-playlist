@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 方皓玟
+> 感受超級女聲力量。Cover: Marf 邱彥筒
 
-381 songs - 22 hr 55 min
+384 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 | 2024-06-27 |  |
 | [Cozy☆200%!!!](https://open.spotify.com/track/5NpA58eSLlijU3ci21Q9LG) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Cozy☆200%!!!](https://open.spotify.com/album/010V4IWXK36TEldH81z78M) | 3:33 | 2024-06-27 |  |
 | [Crying in Bed \(feat\. 范曉萱\)](https://open.spotify.com/track/79jFaso7GwIbkTLhrd52rJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I) | [Crying in Bed](https://open.spotify.com/album/1aB0WWgeiKLkBzcuTwBK85) | 3:21 | 2024-06-27 |  |
+| [Crying on the Plane](https://open.spotify.com/track/2T0vyabR19megOmy2OM8kA) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Crying on the Plane](https://open.spotify.com/album/7L2pQQRe7qPPy6rQZUrkUz) | 3:18 | 2024-10-10 |  |
 | [CYA](https://open.spotify.com/track/4V6sgL7rpAQp0tErZ7x8QU) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq), [Windy 詹天文](https://open.spotify.com/artist/1mF0zgwvohTvauSu3K8My4), [Yumi 鍾柔美](https://open.spotify.com/artist/0s9Jv5Tyi7qmUEPZcWHigA) | [CYA](https://open.spotify.com/album/687ce4Txbb7ZhgKsZGeH41) | 3:36 | 2024-07-18 |  |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
 | [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 | 2024-08-29 |  |
@@ -91,6 +92,7 @@
 | [Maybe I Have Something Just Like You?](https://open.spotify.com/track/0bSDdr8gb2MblYtr4JLPfV) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Maybe I Have Something Just Like You?](https://open.spotify.com/album/6e5cIPCAS7ndpUQxdRUIj1) | 4:00 | 2024-09-12 |  |
 | [Midnight Serenade](https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Midnight Serenade](https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj) | 2:56 | 2024-06-27 |  |
 | [Miss u Goodbye](https://open.spotify.com/track/02VC6JaIcpaAxQceTxuTn3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Miss u Goodbye](https://open.spotify.com/album/3e7hBrnnwqIposqklVsKCk) | 5:18 | 2024-06-27 |  |
+| [Morning Call](https://open.spotify.com/track/4JeJg0MDrvpQSQQBwC2y8W) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Morning Call](https://open.spotify.com/album/4ZiGvTsGK6xViEbf7EMYI8) | 3:03 | 2024-10-10 |  |
 | [My Type](https://open.spotify.com/track/71x2nXAO1ytJ6JFFrrfFmc) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [My Type](https://open.spotify.com/album/7yeZXWEBwsX5uo8Q8Xn84A) | 2:38 | 2024-06-27 |  |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
@@ -235,6 +237,7 @@
 | [引我笑](https://open.spotify.com/track/5NV6UYomi1d0o02vPEi0nm) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [引我笑](https://open.spotify.com/album/6a8DC52Ao3RD86JQM0RU9M) | 3:17 | 2024-09-05 |  |
 | [後人類的美麗與哀愁](https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [後人類的美麗與哀愁](https://open.spotify.com/album/2XRiLdbU5VPiLF5jxRPczq) | 3:40 | 2024-06-27 |  |
 | [從前的我們](https://open.spotify.com/track/6ovnT0BGF0l7pgur3t6X4Z) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 3:39 | 2024-07-25 |  |
+| [心好細 <3](https://open.spotify.com/track/4rAGMvxecVlnFSuZNbdlyM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [心好細 <3](https://open.spotify.com/album/33L8MnulOYyeb6HP6VF6k8) | 3:10 | 2024-10-10 |  |
 | [心甘情願](https://open.spotify.com/track/1rkbhMawUQNcA9okSe0DaN) | [Stephanie Leung](https://open.spotify.com/artist/5L8OEtf2LqWJhj3vFkLfDP) | [心甘情願](https://open.spotify.com/album/1TyTLJ5ESW2dXMHeikM2hE) | 3:16 | 2024-06-27 |  |
 | [心魔](https://open.spotify.com/track/3H9A0RlpWlPf61RR3EPhYI) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [心魔](https://open.spotify.com/album/12jqcFB37LnxltbicrX1fq) | 2:52 | 2024-06-27 |  |
 | [念](https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan) | 4:48 | 2024-06-27 |  |

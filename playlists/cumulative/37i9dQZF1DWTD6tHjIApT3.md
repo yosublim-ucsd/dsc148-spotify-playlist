@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: アイナ・ジ・エンド
 
-2,681 songs - 7 day 3 hr 58 min
+2,682 songs - 7 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1907,7 +1907,7 @@
 | [ドキメキダイアリー](https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 3:19 | 2023-06-20 | 2023-08-09 |
 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 | 2023-04-18 | 2023-06-01 |
 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-28 | 2024-07-12 |
-| [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 |  |
+| [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 | 2024-10-11 |
 | [ナイトドライブ](https://open.spotify.com/track/6ZBFeY13nAPGK3kHWqWQRw) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [was@bi shock](https://open.spotify.com/artist/5ztp9ZNHZtl7nWs8h5hQHK) | [ナイトドライブ](https://open.spotify.com/album/3f5hpxx3a324W1t3G8tnUY) | 3:16 | 2022-06-02 | 2022-06-24 |
 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 | 2023-09-05 | 2023-09-13 |
 | [ナナ](https://open.spotify.com/track/4E2hU1R5zgWwOUPVJWaKcg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [ナナ](https://open.spotify.com/album/48dHjHqT0WohXywOLrqshJ) | 3:11 | 2023-10-17 | 2023-10-25 |
@@ -2092,6 +2092,7 @@
 | [傷だらけの王者](https://open.spotify.com/track/4aBRN65wpWN7g2rtr7W0nV) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [Rockon Social Club](https://open.spotify.com/artist/597cgbM5AF6IgCGKlZLEru) | [傷だらけの王者](https://open.spotify.com/album/61K4VgLQFwEqwg7ksGP8xy) | 4:21 | 2023-08-31 | 2023-09-06 |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 | 2024-01-31 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
+| [僕らはいきものだから](https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [僕らはいきものだから](https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59) | 4:38 | 2024-10-08 |  |
 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-06-01 | 2023-11-16 |
 | [僕等の歌](https://open.spotify.com/track/3KNDM8RmMNj8teuLsNvwy6) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [僕等の歌](https://open.spotify.com/album/4XqWx0WTODwXYLqjitlMjI) | 3:49 | 2024-05-28 | 2024-06-05 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |

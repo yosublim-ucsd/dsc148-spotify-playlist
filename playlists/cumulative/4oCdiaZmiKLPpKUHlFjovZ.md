@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-105 songs - 4 hr 32 min
+108 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blood Money](https://open.spotify.com/track/16RFHJt4G6sCvYNiamya1n) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Blood Money](https://open.spotify.com/album/66CxCiIbp8PQqNLsMhENvR) | 2:40 | 2024-05-20 | 2024-06-15 |
 | [Boomshakalacka](https://open.spotify.com/track/3IMnLWHNOdfvz0nfBEJaqP) | [ShittyBoyz](https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S) | [Boomshakalacka](https://open.spotify.com/album/5umq61b97ffg7TKVaBeLVo) | 2:11 | 2023-09-08 | 2024-01-20 |
 | [Bops Goin Brazy](https://open.spotify.com/track/256GEMjbWz2hXaw9Teu7qd) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/2bw51rEFvMWqiS1YQSKKOj) | 2:08 | 2023-09-15 |  |
+| [Boss Affirmations](https://open.spotify.com/track/1rDZbka59VIuNxOunUml0b) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Boss Affirmations](https://open.spotify.com/album/5SOdHCozqHXM7SV12PjdP8) | 1:56 | 2024-10-10 |  |
 | [Bosses Linking With Bosses](https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 2:10 | 2023-07-24 | 2024-05-21 |
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 | 2024-05-21 |
 | [Brand New](https://open.spotify.com/track/1VdYuaX09Fl8wJbGKloAfA) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/6PXO9lWb0jxlBYtYvTk6Uc) | 3:02 | 2023-09-28 |  |
@@ -41,6 +42,7 @@
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2023-12-08 |  |
 | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/3l0Ha2qd65GqFvaEL8lwIZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [The Kid That Did](https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx) | 2:42 | 2024-09-23 |  |
 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 | 2023-08-11 |  |
+| [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 | 2024-10-10 |  |
 | [Don't Play That](https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:13 | 2024-01-19 |  |
 | [Dreams](https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Dreams](https://open.spotify.com/album/3HT15k21n0cZ9T2MPVmt7I) | 2:27 | 2024-06-14 |  |
 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2024-06-18 |  |
@@ -82,6 +84,7 @@
 | [Pressure](https://open.spotify.com/track/4FYhPppqSSvjmi46jWOhjM) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 3:17 | 2024-04-24 |  |
 | [Psilocybin](https://open.spotify.com/track/4yiMqpWedLgroh2cGXcT2v) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Psilocybin](https://open.spotify.com/album/2a2X4S69knPtrLufy84coS) | 2:18 | 2023-09-29 |  |
 | [Psilocybin](https://open.spotify.com/track/6VEEzKXbaLIzRjCYXYlzi6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [GHETTO](https://open.spotify.com/album/0aLRZQl5n4zKvejDignqyK) | 2:18 | 2023-10-13 | 2024-06-15 |
+| [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 | 2024-10-10 |  |
 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 | 2024-06-01 |  |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2024-01-12 |  |
 | [Ronaldo](https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 1:53 | 2024-03-10 |  |

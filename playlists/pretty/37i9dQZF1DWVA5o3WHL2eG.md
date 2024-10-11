@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,949 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,952 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Immer da](https://open.spotify.com/track/5zSMwadIN9PiorJvYNVWZN) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Immer da](https://open.spotify.com/album/0poF4PhP8Gzr6zEOJ071FM) | 2:30 |
 | 21 | [Stummer Schrei](https://open.spotify.com/track/7tD1Z34AVipWVbGhLI4P2C) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Stummer Schrei](https://open.spotify.com/album/3ia7qboQ3t7NpUGsOn8RWJ) | 2:40 |
 | 22 | [HellSehen](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
-| 23 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
+| 23 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
 | 24 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
-| 25 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
+| 25 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
 | 26 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |
 | 27 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
 | 28 | [Was hab ich nur getan?](https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Was hab ich nur getan?](https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA) | 2:52 |
-| 29 | [zu nice](https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [zu nice](https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL) | 2:42 |
-| 30 | [ich weiß, dass du das weißt](https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ich weiß, dass du das weißt](https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp) | 2:35 |
+| 29 | [ich weiß, dass du das weißt](https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ich weiß, dass du das weißt](https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp) | 2:35 |
+| 30 | [zu nice](https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [zu nice](https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL) | 2:42 |
 | 31 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
 | 32 | [Feel zu spät](https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/7gnkgzRsyk0XaQGOcfmmn4) | 3:07 |
 | 33 | [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/track/6UpWIK4IUttKIaeeTqUiuD) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/album/7gk025jTyBruevpYUTukVw) | 5:48 |
 | 41 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 |
 | 42 | [My Melody](https://open.spotify.com/track/6abYvlEKi1JLymoapJLnuT) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [My Melody](https://open.spotify.com/album/6BK5VZGzz4rk6bkMzIWNau) | 2:46 |
-| 43 | [Once You Laugh](https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Once You Laugh](https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY) | 2:17 |
-| 44 | [Hot Family](https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt) | 3:39 |
+| 43 | [Hot Family](https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt) | 3:39 |
+| 44 | [Once You Laugh](https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Once You Laugh](https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY) | 2:17 |
 | 45 | [fuck you paris](https://open.spotify.com/track/65uI2xul4j4UD8mX8tSg7w) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [fuck you paris](https://open.spotify.com/album/61SCR2w7ZqD01Dxlg6mI2b) | 2:27 |
 | 46 | [Landscape Escape \- Nine Years Later](https://open.spotify.com/track/5YTVwELHfJD93lVmFDgUec) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Dahlia](https://open.spotify.com/album/14WAFfaJHHYb69jyaBXML8) | 5:11 |
-| 47 | [Girl in a Band](https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:12 |
-| 48 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
+| 47 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
+| 48 | [Girl in a Band](https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:12 |
 | 49 | [Im\_Possible](https://open.spotify.com/track/2SmZcm0DEOGVk5kFJdDeiS) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Im\_Possible](https://open.spotify.com/album/65WNRRyeYrxmJ7pgwsFGHc) | 2:41 |
 | 50 | [Reise](https://open.spotify.com/track/6JNFa3C36DOyg83qHoBzl7) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Reise](https://open.spotify.com/album/4d5v1Snws3imspGLpywdZQ) | 3:24 |
 

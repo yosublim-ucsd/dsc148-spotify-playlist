@@ -8,13 +8,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
-| 2 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
-| 3 | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/track/1ZEr5GFTzG9ebCGJFSdBSn) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN) | 3:27 |
-| 4 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 |
-| 5 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
-| 6 | [Kahden sydämen törmäys](https://open.spotify.com/track/0euUqu9VKnJANjO33EG9CT) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kahden sydämen törmäys](https://open.spotify.com/album/6grirshEGLT9DRl5yxy7XC) | 3:40 |
-| 7 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
+| 1 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
+| 2 | [Kahden sydämen törmäys](https://open.spotify.com/track/0euUqu9VKnJANjO33EG9CT) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kahden sydämen törmäys](https://open.spotify.com/album/6grirshEGLT9DRl5yxy7XC) | 3:40 |
+| 3 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
+| 4 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
+| 5 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 6 | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/track/1ZEr5GFTzG9ebCGJFSdBSn) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN) | 3:27 |
+| 7 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 |
 | 8 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
 | 9 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
 | 10 | [Aioin jättää sut tänään](https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [SUPERAURINKO](https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Kalpeaa valoa](https://open.spotify.com/track/3zUjxPK3ypd5JlfVLHku5B) | [Hullunkruunu](https://open.spotify.com/artist/4e5S9w4n2q9xeePK88mgIx) | [Tumman veden pinta](https://open.spotify.com/album/7qULDZOGiQTQ9OOyh8jc6N) | 4:45 |
 | 80 | [Korkealla Corolla](https://open.spotify.com/track/4FUtG7lJU8KF7vFbAAx4Vt) | [Säätövara](https://open.spotify.com/artist/7JL4buqBOKb78XllzghKes) | [Korkealla Corolla](https://open.spotify.com/album/1I1EWhDrvdLS3dzeZGonGZ) | 5:21 |
 
-Snapshot ID: `Zv8GDAAAAADccjUd/uZIgt7rJZMYPVQc`
+Snapshot ID: `ZweoygAAAAAVXN298DQzRfPjr8In7ydH`

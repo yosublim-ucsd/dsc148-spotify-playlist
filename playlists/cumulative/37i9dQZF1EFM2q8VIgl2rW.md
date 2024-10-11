@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 7 hr 15 min
+167 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Remember Me \(Dúo\)](https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:44 | 2024-07-26 |  |
 | [Sad Clown](https://open.spotify.com/track/6dXgd9fAFuvPZClNaldbLe) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:46 | 2024-07-26 |  |
 | [Sal Tlay Ka Siti](https://open.spotify.com/track/6n7FyFONGtwL0XdGALhXMJ) | [Nikki M\. James](https://open.spotify.com/artist/5HHdJNyLkf5ZmTcxId47jT) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 3:41 | 2024-07-26 |  |
+| [Salem's Seven](https://open.spotify.com/track/5rvidR0va32M5VSxT5iWXT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 2:48 | 2024-10-10 |  |
 | [Schadenfreude](https://open.spotify.com/track/5UUH9RTJ6eqr4y96HOHgQD) | [Natalie Venetia Belcon](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f), [Rick Lyon](https://open.spotify.com/artist/4mblmGvdUx8IcysSPERlJn) | [Avenue Q \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0qikoI7Lgl9pp9KrxepBB3) | 3:04 | 2024-07-26 |  |
 | [School For Monsters \(Made Popular By "Avenue Q"\) \[Karaoke Version\]](https://open.spotify.com/track/5IIBtWwPlq887uWkuZBUou) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Show Tunes 10](https://open.spotify.com/album/75KcELc2CmBtG56RVHZlQD) | 1:27 | 2024-07-26 |  |
 | [Sewage Treatment Plant \- Score Version](https://open.spotify.com/track/0QOBHNWU6RoYDRLH70OhlY) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN), [Nemo](https://open.spotify.com/artist/1A1lV9pQKY76rAIKpCo5XH) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:42 | 2024-07-26 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : B.B. Jacques",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssef Swatt's",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 236187,
       "name": "CAMP D'ENTRA\u00ceNEMENT",
       "url": "https://open.spotify.com/track/5vTB5o92ygTGye1MaTOhWs"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 151875,
       "name": "Chef tribal",
       "url": "https://open.spotify.com/track/3O02qkF8L7v3o4yzuw1iNU"
@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "H\u00f4tel",
+        "url": "https://open.spotify.com/album/3ooBULlHTXEEoQfXylxpKT"
+      },
+      "artists": [
+        {
+          "name": "Felhur x Andro",
+          "url": "https://open.spotify.com/artist/7pM6sUyReIMJOA88s1WqYT"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "H\u00f4tel",
+      "url": "https://open.spotify.com/track/7D8a360I1Z1sOr714l59B3"
+    },
+    {
+      "album": {
         "name": "IN PARIS",
         "url": "https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ"
       },
@@ -532,6 +550,24 @@
       "duration_ms": 199546,
       "name": "Kayano",
       "url": "https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t"
+    },
+    {
+      "album": {
+        "name": "LA HAINE",
+        "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332155,
+      "name": "L'4MOUR",
+      "url": "https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6"
     },
     {
       "album": {
@@ -630,6 +666,28 @@
       "duration_ms": 190813,
       "name": "La Cour des Miracles",
       "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
+    },
+    {
+      "album": {
+        "name": "LA HAINE",
+        "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "LA HAINE (feat. Clara Luciani)",
+      "url": "https://open.spotify.com/track/5hw2tWIicbY7Kd737HZBZk"
     },
     {
       "album": {
@@ -758,7 +816,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 155445,
       "name": "Le Plat",
       "url": "https://open.spotify.com/track/0ZctGizLJmhyC5Y75FTj4y"

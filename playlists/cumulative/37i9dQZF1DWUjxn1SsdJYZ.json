@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: YNG Martyr",
+  "description": "The best new AUS & NZ Rap. Cover: Hooligan Heffs",
   "name": "Local Hype",
   "tracks": [
     {
@@ -728,7 +728,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 152733,
       "name": "All I wanna do is rock",
       "url": "https://open.spotify.com/track/3xiBfWvxwxCnoS8YkJWq1W"
@@ -6497,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "GOD TIMING",
+        "url": "https://open.spotify.com/album/2Wiqdj9GzCcTeA5zYJFLJD"
+      },
+      "artists": [
+        {
+          "name": "JK-47",
+          "url": "https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110454,
+      "name": "GOD TIMING",
+      "url": "https://open.spotify.com/track/5GujrHWL2ObVkPvcvN6BoR"
+    },
+    {
+      "album": {
         "name": "Godfather",
         "url": "https://open.spotify.com/album/2l3sShuabwGviFlkoqMliT"
       },
@@ -7532,7 +7550,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 180776,
       "name": "HONEYCOMB",
       "url": "https://open.spotify.com/track/61JuHiWVzceBAkziPAhPGa"
@@ -8156,7 +8174,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 136000,
       "name": "I Would",
       "url": "https://open.spotify.com/track/5xRuBA1K2cSxP5x9Ksx041"
@@ -9271,6 +9289,24 @@
     },
     {
       "album": {
+        "name": "LIE TO ME STILL",
+        "url": "https://open.spotify.com/album/4KV4ZFWzyvH4lDKp130KQz"
+      },
+      "artists": [
+        {
+          "name": "Jteazy",
+          "url": "https://open.spotify.com/artist/7i1xIKvHS7CGozfyGZEDlW"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "LIE TO ME STILL",
+      "url": "https://open.spotify.com/track/6upg5VPnJ8jt6S64Aqi8K3"
+    },
+    {
+      "album": {
         "name": "LIED TO MY FACE",
         "url": "https://open.spotify.com/album/6JGDi4vkRhBqZG8M8iTraE"
       },
@@ -9704,7 +9740,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 198654,
       "name": "London To A Brick (feat. Shadow)",
       "url": "https://open.spotify.com/track/7oWGZp2XgKFCLnUCvu3CTs"
@@ -10507,6 +10543,24 @@
     },
     {
       "album": {
+        "name": "Million Dreams",
+        "url": "https://open.spotify.com/album/7mycWlNkhRUY4MXZXQpBmD"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134579,
+      "name": "Million Dreams",
+      "url": "https://open.spotify.com/track/1vBJfOXGFx63YZcrYwq7ZR"
+    },
+    {
+      "album": {
         "name": "Miss You Still",
         "url": "https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt"
       },
@@ -11060,6 +11114,32 @@
       "duration_ms": 165600,
       "name": "MY TURN",
       "url": "https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl"
+    },
+    {
+      "album": {
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
     },
     {
       "album": {
@@ -13106,7 +13186,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 119194,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/3hIdIurlh62D3IEjTVpxcu"
@@ -13912,7 +13992,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 120000,
       "name": "RIDDLE ME THIS",
       "url": "https://open.spotify.com/track/6cRfWPAKV6RbQPHbKtchJ9"
@@ -15344,7 +15424,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 205018,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/1Y2Y76jhfhcMvOSPoynumz"
@@ -17927,6 +18007,28 @@
     },
     {
       "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/1SzUGDRdkEPXQevFEseGOu"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "PROPER",
+          "url": "https://open.spotify.com/artist/1keifiXI5BfdQjv8woANJH"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152446,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/4s9RoBsJQ2fUPchpgsFcBY"
+    },
+    {
+      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/6FtcifEcQr5sImoXIqrXPx"
       },
@@ -18168,6 +18270,24 @@
       "duration_ms": 208000,
       "name": "WE HERE NOW",
       "url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166"
+    },
+    {
+      "album": {
+        "name": "We On",
+        "url": "https://open.spotify.com/album/6PmvO7pxY2C8m7mHTfAkLT"
+      },
+      "artists": [
+        {
+          "name": "PNC",
+          "url": "https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151928,
+      "name": "We On",
+      "url": "https://open.spotify.com/track/0Fg0cS78YGo8yj85omk5Sm"
     },
     {
       "album": {
@@ -18532,7 +18652,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 112521,
       "name": "WHO GOT DA PACK?",
       "url": "https://open.spotify.com/track/6DWb6yo0oaDe9kDD4XyhIN"

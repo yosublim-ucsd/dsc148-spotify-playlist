@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-835 songs - 1 day 23 hr 35 min
+836 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [DIVA](https://open.spotify.com/track/37KmFNIT72X8KJ1nsI3MTJ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity](https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu) | 2:10 | 2024-05-16 | 2024-08-14 |
+| [DIVA \- SØL Remix](https://open.spotify.com/track/2z3ecxzZrkbAsIoWlb3u0I) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [SØL](https://open.spotify.com/artist/4lIm4NzXKTs3bHWxUq2C5a) | [DIVA \(SØL Remix\)](https://open.spotify.com/album/6mfwuGrWhFkFPby8T08m3E) | 2:17 | 2024-10-10 |  |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 | 2022-10-26 |
 | [Diving In](https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Diving In](https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9) | 3:49 | 2023-03-15 | 2023-06-08 |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
@@ -304,7 +305,7 @@
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
 | [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
 | [GOOME](https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb) | [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [GOOME](https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse) | 3:12 | 2024-08-26 |  |
-| [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 |  |
+| [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 | 2024-10-11 |
 | [Got A Feeling](https://open.spotify.com/track/4gWxLRxRhMWQSo4gBXMQe4) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Got A Feeling](https://open.spotify.com/album/1T4RZyOiEUKpSoY6zUAleQ) | 3:31 | 2023-06-19 | 2023-09-26 |
 | [Gotta Let Go](https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Adriano](https://open.spotify.com/artist/16rL3ixuAl02NLL6uTCt54) | [Gotta Let Go](https://open.spotify.com/album/0JA4OsVQ4nNNmN4gCzLW09) | 2:51 | 2023-03-23 | 2023-06-16 |
 | [Gravitation](https://open.spotify.com/track/596eZCTayPzpFxydrFRWvH) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Gravitation](https://open.spotify.com/album/4h9oOOppG73HKl0d9WX6hM) | 3:01 | 2024-06-24 | 2024-09-17 |

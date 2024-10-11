@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 732,409 likes - 104 songs - 4 hr 59 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 732,408 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 102 | [Help Me Help You](https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:31 |
 | 103 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 104 | [I'll Be There](https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [I'll Be There](https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr) | 2:14 |
+| 105 | [Your Poison](https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Your Poison](https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd) | 3:18 |
 
-Snapshot ID: `AAAXvXKSQpHONooVwKcCLLgNN3hrKVmc`
+Snapshot ID: `AAAXvvjn/UXNPxmIRHpd40MNmhgsKwCS`

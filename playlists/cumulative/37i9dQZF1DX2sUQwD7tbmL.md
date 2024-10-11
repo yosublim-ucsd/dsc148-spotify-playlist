@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-704 songs - 1 day 15 hr 42 min
+705 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Big City Boys \- Generationals Remix](https://open.spotify.com/track/3YDZEi6jetqyeNZdsk8Y5R) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Big City Boys \(Generationals Remix\)](https://open.spotify.com/album/4n548r94uoKnz0kJbq5lFo) | 3:14 | 2021-05-01 | 2022-04-14 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-05-01 | 2022-07-29 |
 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2023-04-21 | 2023-09-30 |
-| [Birthday Baby \(The Girl with No Smile\)](https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Birthday Baby \(The Girl with No Smile\)](https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1) | 3:50 | 2024-06-28 |  |
+| [Birthday Baby \(The Girl with No Smile\)](https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Birthday Baby \(The Girl with No Smile\)](https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1) | 3:50 | 2024-06-28 | 2024-10-11 |
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-08-30 | 2024-04-19 |
 | [Bitter](https://open.spotify.com/track/3McUZkVgVyzvYCdy4aIo3R) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/0tXVOrcxt1yOgn7sypgwrm) | 3:53 | 2021-05-01 | 2022-07-29 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-04-13 | 2023-03-25 |
@@ -345,6 +345,7 @@
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2021-05-01 | 2022-07-29 |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 |  |
+| [Just Stay For Once](https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Just Stay For Once](https://open.spotify.com/album/0CkS4LqIzZO5YOU1eMDOM5) | 3:36 | 2024-09-20 |  |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2024-07-27 |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-07-19 | 2023-06-03 |

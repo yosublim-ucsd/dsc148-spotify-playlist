@@ -4,7 +4,7 @@
 
 > Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-88 songs - 4 hr 21 min
+92 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A New Generation](https://open.spotify.com/track/0DcsIiTE6l7PqI4DVA1oCe) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:11 | 2023-12-15 |  |
 | [Afternoon Sounds in Everglades National Park](https://open.spotify.com/track/4z63h0szwUTS5Fxqd1nhdy) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 0:44 | 2024-09-26 |  |
 | [Beach Living](https://open.spotify.com/track/2BlWGB7wM2dSiQ9JUjJMND) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:16 | 2023-12-15 |  |
+| [Bear Family Hunting Salmon at Katmai National Park](https://open.spotify.com/track/3UWIWhiOmtJCnLlCzF9izF) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 4:12 | 2024-10-10 |  |
 | [Boys Wanna Be Her](https://open.spotify.com/track/7eMjl8fLykfgpxrNr0KyqJ) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Boys Wanna Be Her](https://open.spotify.com/album/6Ct0Mywt5YZMLr41yLNsDh) | 3:55 | 2024-03-01 | 2024-03-28 |
 | [Bulls Built Different](https://open.spotify.com/track/6i59Uwwlsu8dwippavNLOx) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 1:42 | 2023-12-15 |  |
 | [By Moonlight](https://open.spotify.com/track/5STKqRZzOPigoYVnUk0kcJ) | [Mikey J](https://open.spotify.com/artist/3sTWxXZXify7sB3qVuAiet) | [Clotilda: Last American Slave Ship \(Original Soundtrack\)](https://open.spotify.com/album/6JuZRY8T58wqEtLU04UH1E) | 0:57 | 2023-12-15 |  |
@@ -57,6 +58,7 @@
 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 | 2023-12-15 |  |
 | [Our Mountain](https://open.spotify.com/track/5JuAq0ECVpUiXYs6cU8gFl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Wild Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746) | 2:19 | 2023-12-15 |  |
 | [Over the Waterfall and Crashing Waves](https://open.spotify.com/track/1RM1reLrJ2zLvXmVOQbqYO) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 5:40 | 2024-05-24 |  |
+| [Peaceful Evening in Zion National Park](https://open.spotify.com/track/3jUQskqN0hSwfGbUBD1Csz) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 5:08 | 2024-10-10 |  |
 | [Pedagogic](https://open.spotify.com/track/3tXLYJhJktVZpwxKAK2gi2) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC) | [Fire of Love \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW) | 1:39 | 2023-12-15 |  |
 | [Penguins](https://open.spotify.com/track/4VlLEFdAfKiFVMkzSHV7qT) | [Andrew Christie](https://open.spotify.com/artist/3yJPmPcckAkvSN8nCX3MFW) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 2:52 | 2023-12-15 |  |
 | [Perfect Life](https://open.spotify.com/track/6aDerNa8GOuJGIqa13gdmg) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 3:43 | 2023-12-15 |  |
@@ -86,6 +88,7 @@
 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 | 2023-12-15 |  |
 | [The Northern Reaches](https://open.spotify.com/track/1h2LmFZz0xyuKSPeqx1rgJ) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 2:32 | 2023-12-15 |  |
 | [Through the Dark](https://open.spotify.com/track/6DL5Wc5rwmITnKOi4tpt6N) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:15 | 2024-03-01 | 2024-03-28 |
+| [Thunderstorm in Everglades National Park](https://open.spotify.com/track/7ISvDbtyWCGeskXQ1rX0DZ) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 3:39 | 2024-10-10 |  |
 | [Titles \- LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/track/7C2Y6UiQG8fttWPoCldYHM) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/album/2o8yuykY3WBWSlNRkGvSIu) | 2:30 | 2023-12-15 |  |
 | [Tribes](https://open.spotify.com/track/677AIqHTflBDfeVfh0yqpo) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M) | [Queens \(Original Series Soundtrack\)](https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5) | 2:03 | 2024-03-01 |  |
 | [Umi \- From "Queens"](https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Umi \(From "Queens"\)](https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu) | 2:29 | 2024-02-09 |  |
@@ -96,5 +99,6 @@
 | [Working Late, Going Out](https://open.spotify.com/track/6SXgrXgn9U4cUd31bsbw2H) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 4:00 | 2023-12-15 |  |
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2024-03-01 | 2024-03-28 |
 | [Zaire 73](https://open.spotify.com/track/19SztVDdRIuV0raHvmN7qJ) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC) | [Fire of Love \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW) | 2:43 | 2023-12-15 |  |
+| [Zion Canyon Thunderstorm](https://open.spotify.com/track/5KSe1wiaCx1HGXUWRdL26I) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 4:00 | 2024-10-10 |  |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

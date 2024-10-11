@@ -1,13 +1,213 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6605,
+  "num_followers": 6607,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAChQkZUHZJ6yGpgPKx4DGH07gzPSZep",
+  "snapshot_id": "AAChUTtq+8wzL/Uytfa1yz0lDRH0P5aE",
   "tracks": [
+    {
+      "added_at": "2024-10-10 06:12:27",
+      "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2024-10-10 06:12:42",
+      "album": {
+        "name": "Lo Que Recuerdo De Ti",
+        "url": "https://open.spotify.com/album/74AtsQNZJH85wBBRyRz0oy"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        },
+        {
+          "name": "Rafa Val",
+          "url": "https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F"
+        },
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Lo Que Recuerdo De Ti",
+      "url": "https://open.spotify.com/track/0D3EqumWhsQWsg4SMXgHK1"
+    },
+    {
+      "added_at": "2024-10-10 06:13:01",
+      "album": {
+        "name": "Grieta",
+        "url": "https://open.spotify.com/album/6QXsv3Lb6BxWYksqpPIc5v"
+      },
+      "artists": [
+        {
+          "name": "Hoonine",
+          "url": "https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "Grieta",
+      "url": "https://open.spotify.com/track/1VUDF5yUrDwY6KWu8esUMp"
+    },
+    {
+      "added_at": "2024-10-10 10:12:01",
+      "album": {
+        "name": "Paris Hilton",
+        "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
+    },
+    {
+      "added_at": "2024-10-10 09:32:29",
+      "album": {
+        "name": "Gran Hostal",
+        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "No seas animal",
+      "url": "https://open.spotify.com/track/7dcixWu9nvkQtY7a0BQpc9"
+    },
+    {
+      "added_at": "2024-10-10 09:24:45",
+      "album": {
+        "name": "In The Living Room",
+        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "In The Living Room",
+      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+    },
+    {
+      "added_at": "2024-10-10 09:25:24",
+      "album": {
+        "name": "The Collective (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5S9k06M6T8UhFK58nurGm4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Bangin' on the Freeway - Bonus Track",
+      "url": "https://open.spotify.com/track/3ipl8FVrOq9PoTUVm2ogXv"
+    },
+    {
+      "added_at": "2024-10-10 09:26:23",
+      "album": {
+        "name": "My Beautiful Girl",
+        "url": "https://open.spotify.com/album/0tasLYViIeiNn7GfozOJ71"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 133966,
+      "name": "My Beautiful Girl",
+      "url": "https://open.spotify.com/track/3tuzP0VTRq1be7QrbSmBMe"
+    },
+    {
+      "added_at": "2024-10-10 09:25:40",
+      "album": {
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
+    },
+    {
+      "added_at": "2024-10-10 09:25:55",
+      "album": {
+        "name": "Ingo Swann",
+        "url": "https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "Ingo Swann",
+      "url": "https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE"
+    },
+    {
+      "added_at": "2024-10-10 08:24:22",
+      "album": {
+        "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
+        "url": "https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
+      "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
+    },
+    {
+      "added_at": "2024-10-10 09:27:36",
+      "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Karate Kid",
+      "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
+    },
     {
       "added_at": "2024-10-03 22:00:34",
       "album": {

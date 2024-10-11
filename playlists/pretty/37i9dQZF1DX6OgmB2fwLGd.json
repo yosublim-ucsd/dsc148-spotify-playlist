@@ -1,13 +1,37 @@
 {
   "description": "2hollis. Born and raised on the internet.",
-  "num_followers": 1391739,
+  "num_followers": 1391670,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv92UAAAAAChPV2EGg8VzTck2nmBfxuk",
+  "snapshot_id": "Zwgm2gAAAABrjBvgQ+3oWC7dAyjFZ5p9",
   "tracks": [
+    {
+      "added_at": "2024-10-10 19:11:22",
+      "album": {
+        "name": "BRUISED",
+        "url": "https://open.spotify.com/album/0zGVVjgaTXDoNWpZiqqpWQ"
+      },
+      "artists": [
+        {
+          "name": "HIIBRYD",
+          "url": "https://open.spotify.com/artist/0s5AwKu2JlPxyBlxMNPVxu"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "BRUISED",
+      "url": "https://open.spotify.com/track/2qhRJaNCzBk54yQkn7gLpu"
+    },
     {
       "added_at": "2024-10-04 05:00:00",
       "album": {
@@ -1815,26 +1839,6 @@
       "duration_ms": 156000,
       "name": "One Eyed Willy",
       "url": "https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "all the time",
-        "url": "https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ"
-      },
-      "artists": [
-        {
-          "name": "Bayymack",
-          "url": "https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG"
-        },
-        {
-          "name": "Pr0xy",
-          "url": "https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM"
-        }
-      ],
-      "duration_ms": 111074,
-      "name": "all the time",
-      "url": "https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD"
     }
   ],
   "unique_name": "Internet People",

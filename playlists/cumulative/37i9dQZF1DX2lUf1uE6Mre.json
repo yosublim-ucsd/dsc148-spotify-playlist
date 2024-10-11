@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: DANO",
+  "description": "Die Playlist zur Wasserpfeife. Cover: Dardan",
   "name": "Shisha Club",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 176024,
       "name": "ALTE BILDER",
       "url": "https://open.spotify.com/track/40p8UwWvpJ8Iiqg4ioy5zX"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 132901,
       "name": "Favela",
       "url": "https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp"
@@ -1180,6 +1180,28 @@
       "duration_ms": 147892,
       "name": "Favela Type Beat",
       "url": "https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu"
+    },
+    {
+      "album": {
+        "name": "F\u00dcR IMMER",
+        "url": "https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160427,
+      "name": "F\u00dcR IMMER",
+      "url": "https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS"
     },
     {
       "album": {
@@ -1425,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "WAGWAN",
+        "url": "https://open.spotify.com/album/5oKxG7kTpuQK9kPdQXUI6C"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166179,
+      "name": "KELOKE",
+      "url": "https://open.spotify.com/track/70APe9yigyCVZ9bDIv51y3"
+    },
+    {
+      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi"
       },
@@ -1594,6 +1634,32 @@
       "duration_ms": 132005,
       "name": "Leben lang",
       "url": "https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ"
+    },
+    {
+      "album": {
+        "name": "Limousine",
+        "url": "https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        },
+        {
+          "name": "ilo 7araga",
+          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "Limousine",
+      "url": "https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp"
     },
     {
       "album": {
@@ -1768,7 +1834,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 141000,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/504M4AhCfHbmXMiXvgw8QY"
@@ -1903,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "Moonlight Dreams",
+        "url": "https://open.spotify.com/album/6af7xjDtfUoj6Pf8K4lNhn"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146950,
+      "name": "Moonlight Dreams",
+      "url": "https://open.spotify.com/track/4yNd1xo3DZ75MqPMscauEG"
+    },
+    {
+      "album": {
         "name": "NaNa",
         "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
       },
@@ -1980,7 +2068,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 149333,
       "name": "Ohh Baby",
       "url": "https://open.spotify.com/track/5qIEQwr6duTVF77EzNODcL"
@@ -2173,6 +2261,32 @@
     },
     {
       "album": {
+        "name": "PLAYBOYBUNNIES",
+        "url": "https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "PLAYBOYBUNNIES",
+      "url": "https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC"
+    },
+    {
+      "album": {
         "name": "Pse",
         "url": "https://open.spotify.com/album/7p4AEWKPGmkwHyKxqtQ2zl"
       },
@@ -2346,7 +2460,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 158448,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
@@ -2525,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Unsichtbar",
+        "url": "https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143725,
+      "name": "Unsichtbar",
+      "url": "https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw"
+    },
+    {
+      "album": {
         "name": "Up and down",
         "url": "https://open.spotify.com/album/7r3SKsAXb951yqOde4BjX2"
       },
@@ -2598,7 +2730,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 145560,
       "name": "VER KA\u00c7",
       "url": "https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf"
@@ -2646,6 +2778,28 @@
       "duration_ms": 141046,
       "name": "Vrumm",
       "url": "https://open.spotify.com/track/6lx99yqF0e7NuDHZsvwBmM"
+    },
+    {
+      "album": {
+        "name": "WAGWAN",
+        "url": "https://open.spotify.com/album/5oKxG7kTpuQK9kPdQXUI6C"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152454,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/4eWo9P0bY0SniczUtzTYxu"
     },
     {
       "album": {
@@ -2870,7 +3024,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 125901,
       "name": "Yamaha Yz",
       "url": "https://open.spotify.com/track/3XHESdkyiPRgBbpL17wkH9"

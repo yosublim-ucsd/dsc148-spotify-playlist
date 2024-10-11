@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Wijaya 80",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Dialog Dini Hari",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 264827,
       "name": "Bersama Lagi",
       "url": "https://open.spotify.com/track/0af5NEGjg4mLCOaOqhBBCv"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 261967,
       "name": "Change of Heart - Alt. Version",
       "url": "https://open.spotify.com/track/6FL4oxoGhJ0GSvhmzZpBDA"
@@ -728,6 +728,24 @@
       "duration_ms": 201000,
       "name": "cool enough for you",
       "url": "https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB"
+    },
+    {
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK"
+      },
+      "artists": [
+        {
+          "name": "JUNJI",
+          "url": "https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245663,
+      "name": "Dancing On The Edge",
+      "url": "https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx"
     },
     {
       "album": {
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 219428,
       "name": "Jovial",
       "url": "https://open.spotify.com/track/15Gpfe9Dh8mqtunIOM6w9I"
@@ -2154,6 +2172,24 @@
       "duration_ms": 394218,
       "name": "Merdeka Melaju Dari A Sampai Z",
       "url": "https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz"
+    },
+    {
+      "album": {
+        "name": "Renjana",
+        "url": "https://open.spotify.com/album/4mFA3f7WMgwTXWaT7aOWe7"
+      },
+      "artists": [
+        {
+          "name": "Dialog Dini Hari",
+          "url": "https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256470,
+      "name": "Merpati",
+      "url": "https://open.spotify.com/track/1GGzJwUdqVKL23AvJZCQOo"
     },
     {
       "album": {
@@ -3005,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "so much to say",
+        "url": "https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV"
+      },
+      "artists": [
+        {
+          "name": "AneeSa",
+          "url": "https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "so much to say in this road",
+      "url": "https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr"
+    },
+    {
+      "album": {
         "name": "Stay Asleep",
         "url": "https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S"
       },
@@ -3628,7 +3682,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 220000,
       "name": "Wedjangan",
       "url": "https://open.spotify.com/track/3n6f7f6MujxaKhMBR4rfI5"

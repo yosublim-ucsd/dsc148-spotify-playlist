@@ -11547,6 +11547,24 @@
     },
     {
       "album": {
+        "name": "OTRO CAP\u00cdTULO",
+        "url": "https://open.spotify.com/album/5ICc0mseGnHM12LSWEfLgz"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/2IzVNdYbdh2tgO4Pq15Lho"
+    },
+    {
+      "album": {
         "name": "Otros XOXO",
         "url": "https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr"
       },
@@ -13328,6 +13346,24 @@
       "duration_ms": 211892,
       "name": "Risue\u00f1a",
       "url": "https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b"
+    },
+    {
+      "album": {
+        "name": "ROBAME UN BESO",
+        "url": "https://open.spotify.com/album/3N2kt9ioaMGzGMBfvzhBXN"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "ROBAME UN BESO",
+      "url": "https://open.spotify.com/track/2RxJ9U2Pj7TsiocDXtjowg"
     },
     {
       "album": {

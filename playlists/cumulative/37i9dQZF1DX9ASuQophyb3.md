@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkiye'nin en büyük pop listesi\. Kapak: EDIS
+> Türkiye'nin en büyük pop listesi\. Kapak:  Melike Şahin
 
 100 songs - 4 hr 58 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Jacob Banks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li)
 
-> This is Jacob Banks。アーティストの代表曲をひとつのプレイリストに。
+> This is Jacob Banks\. The essential tracks, all in one playlist.
 
 92 songs - 5 hr 14 min
 

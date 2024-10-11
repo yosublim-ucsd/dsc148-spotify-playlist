@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B, Gara Dur\u00e1n.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 228890,
       "name": "Autom\u00f3viles",
       "url": "https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 186937,
       "name": "CON LOQ1 NACE",
       "url": "https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH"
@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Escudo",
+        "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Escudo",
+      "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
+    },
+    {
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF"
       },
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197894,
       "name": "ESTR\u00c9S",
       "url": "https://open.spotify.com/track/4Rg0Ra86pfQa9ZsRtGwrnL"
@@ -1526,6 +1548,24 @@
       "duration_ms": 217500,
       "name": "Frente al Latido",
       "url": "https://open.spotify.com/track/14Cw2iFrUslMi9sGpdjLTp"
+    },
+    {
+      "album": {
+        "name": "Full Gas",
+        "url": "https://open.spotify.com/album/6Dg6VhaUJiNInPhmqa1RC8"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amist\u00e1",
+          "url": "https://open.spotify.com/artist/7dZxQ5ZCpXuQEKdXvWKOoX"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172699,
+      "name": "Full Gas",
+      "url": "https://open.spotify.com/track/4ee1OX2Vo9NYJRgCtmdcwA"
     },
     {
       "album": {
@@ -1692,7 +1732,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Imparables",
       "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
@@ -2010,7 +2050,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 233453,
       "name": "Liturgia",
       "url": "https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd"
@@ -2466,7 +2506,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 181417,
       "name": "MICHAL\u00d3",
       "url": "https://open.spotify.com/track/54hGxwAhwQlRadAPl90Kes"
@@ -2851,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Paris Hilton",
+        "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215516,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
+    },
+    {
+      "album": {
         "name": "PASARELA",
         "url": "https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti"
       },
@@ -2996,7 +3054,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 175663,
       "name": "Prefiero",
       "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
@@ -3036,6 +3094,28 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
+    },
+    {
+      "album": {
+        "name": "QUEMARLO TODO",
+        "url": "https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150568,
+      "name": "QUEMARLO TODO",
+      "url": "https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC"
     },
     {
       "album": {
@@ -3086,7 +3166,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 198400,
       "name": "rachel y ross",
       "url": "https://open.spotify.com/track/7bCc9z9MMr447KrWR1jjYY"
@@ -3364,6 +3444,24 @@
       "duration_ms": 189998,
       "name": "TALANQUERA",
       "url": "https://open.spotify.com/track/7l9ESULRKHh8ABJmlVZ2oB"
+    },
+    {
+      "album": {
+        "name": "SORA",
+        "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "TECHNO TRISTE",
+      "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
     },
     {
       "album": {
@@ -3752,6 +3850,24 @@
       "duration_ms": 166134,
       "name": "Vespa Verde Agua",
       "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+    },
+    {
+      "album": {
+        "name": "Vida Quemada",
+        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181002,
+      "name": "Vida Quemada",
+      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
     },
     {
       "album": {

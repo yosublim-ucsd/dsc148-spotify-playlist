@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Black Fingernails",
+        "url": "https://open.spotify.com/album/4vpi6oVYDI1KKl6LemCUFw"
+      },
+      "artists": [
+        {
+          "name": "Sowhatimdead",
+          "url": "https://open.spotify.com/artist/2naw67cznxs1VBTnTg7Vqg"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184291,
+      "name": "Black Fingernails",
+      "url": "https://open.spotify.com/track/2QQPdD4KRl8qIgiSYz1U08"
+    },
+    {
+      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
       },
@@ -4838,6 +4856,24 @@
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/0yIywEquxORnu1dR0WYsdN"
     },
     {
       "album": {
@@ -8778,7 +8814,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 87818,
       "name": "warm welcome",
       "url": "https://open.spotify.com/track/1I6way4zg9vYNcR3VHkMSO"
@@ -12840,7 +12876,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 126171,
       "name": "\u043c\u0443\u0437\u044b\u043a\u0430 \u0438\u043b\u0438 \u0441\u0447\u0430\u0441\u0442\u044c\u0435",
       "url": "https://open.spotify.com/track/2NmSSzfPciOj4ir4hNN237"

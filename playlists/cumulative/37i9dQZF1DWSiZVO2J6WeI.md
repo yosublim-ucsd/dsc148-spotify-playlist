@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-391 songs - 20 hr 3 min
+392 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Double Helix](https://open.spotify.com/track/5Hd70laM8Glw4wcT8FFEO5) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Double Helix](https://open.spotify.com/album/1yep9TfPABX97QXdFKao62) | 2:55 | 2024-01-17 | 2024-02-08 |
 | [Double Star](https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 4:00 | 2022-01-12 | 2024-01-18 |
 | [Dream Creator](https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Dream Creator](https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6) | 2:59 | 2024-01-17 |  |
+| [dream voyage](https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream voyage](https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh) | 3:27 | 2024-09-06 |  |
 | [Dreaming Away](https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Dreaming Away](https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS) | 1:57 | 2022-01-12 | 2022-02-19 |
 | [Drifting Away](https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 3:21 | 2022-01-12 | 2023-07-29 |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-05 |  |
@@ -334,7 +335,7 @@
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-30 |  |
 | [Sogniare](https://open.spotify.com/track/2lRlv6866bap5dTst95GoN) | [Darmian Coté](https://open.spotify.com/artist/79EfJQ6cOqIfLPuply0JCl) | [Sogniare](https://open.spotify.com/album/250bxUmKSymaXoTLqS2JVK) | 4:16 | 2024-05-20 |  |
 | [Solar Plexus 528 Hz](https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy) | [Stardust Waves](https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv) | [Solar Plexus 528 Hz](https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i) | 3:00 | 2024-04-05 |  |
-| [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 |  |
+| [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 | 2024-10-11 |
 | [Sonar Light](https://open.spotify.com/track/4odbTZUw8sqfkz0Aor84DV) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Sonar Light](https://open.spotify.com/album/1HMquYwpOmvSvYpxXvvolE) | 3:03 | 2024-05-20 |  |
 | [Soulful Solitude](https://open.spotify.com/track/7jQjXE5ZsOpzeY8lhP8oQA) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Soulful Solitude](https://open.spotify.com/album/6TVn9amY9rhwaPYKisSE1V) | 2:36 | 2024-07-15 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 | 2024-05-21 |

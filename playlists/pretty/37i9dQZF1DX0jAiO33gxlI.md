@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,793 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,794 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BrusaDaNike e GShock](https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:06 |
 | 2 | [O Cara Do Trem](https://open.spotify.com/track/5MiABWFq8JAFSlqfC3eHjW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [O Cara Do Trem](https://open.spotify.com/album/5AwMo0Z5sHkHQJNKYoNv3K) | 2:52 |
-| 3 | [24H](https://open.spotify.com/track/2eBK8HwKPwlEuzBt4I6Mua) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [DJ KL Jay](https://open.spotify.com/artist/2Et154w5eRQcTdRj3399BF), [Exkal](https://open.spotify.com/artist/33UPA64bSitd7TrPtspjJm) | [24H](https://open.spotify.com/album/7fnZ4YB1QEMfItUuQVLGCt) | 3:51 |
+| 3 | [24H](https://open.spotify.com/track/2eBK8HwKPwlEuzBt4I6Mua) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Exkal](https://open.spotify.com/artist/33UPA64bSitd7TrPtspjJm) | [24H](https://open.spotify.com/album/7fnZ4YB1QEMfItUuQVLGCt) | 3:51 |
 | 4 | [ALOHOMORA](https://open.spotify.com/track/3EMGoQ0l6FG3Pq1naqFIFM) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [ALOHOMORA](https://open.spotify.com/album/6IKlqdzflE6UuTEoSwmqDQ) | 2:32 |
 | 5 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/7h1wem7ocYZiGyH5CckYZe) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Origens 3 \- O Show \(Ao Vivo\)](https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy) | 6:19 |
 | 6 | [Senhorita XX](https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Edie](https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Senhorita XX](https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6) | 3:58 |

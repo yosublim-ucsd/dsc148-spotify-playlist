@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Jelly Roll and ESPN team up for a playlist celebrating “The Greatest Story Ever Played” as the hunt to crown a National Champion begins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,814 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,903 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

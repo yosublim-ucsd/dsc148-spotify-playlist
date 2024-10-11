@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: CORTE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,013 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,032 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 28 | [SORRY SI LOS GHOSTEO](https://open.spotify.com/track/3T5IYzxDbkxZoPhGiJUcAu) | [Patricia Lint](https://open.spotify.com/artist/2DkFydgeADIVl7l82kMPTX), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P) | [SORRY SI LOS GHOSTEO](https://open.spotify.com/album/5YXHg9TlpgYkxkAhHSdVCf) | 2:49 |
 | 29 | [Donde quiero quedarme](https://open.spotify.com/track/3BJ90c94ntMZl9Zeq72uwi) | [Dylla](https://open.spotify.com/artist/08KrsPP1RR5nugoP4VOriu), [Rami Castañeda](https://open.spotify.com/artist/6skq6u7EKS2BbzaRteGMcN) | [Donde quiero quedarme](https://open.spotify.com/album/6vEkKQwmsoayy9kBf3G2id) | 2:40 |
 | 30 | [SI TE QUIERES QUEDAR](https://open.spotify.com/track/1uj81v0xUS8qyxyzWBKnsJ) | [BER](https://open.spotify.com/artist/6hyb6aOpQAw0VC1SQdq5P6) | [SI TE QUIERES QUEDAR](https://open.spotify.com/album/190cv74GIsmdsvjdj7n125) | 2:29 |
-| 31 | [Ojalá](https://open.spotify.com/track/5lsG04C2uh2u8yRRJDFaOA) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [Ojalá](https://open.spotify.com/album/69WwYLKacwAOVDiYAJxrIO) | 3:03 |
+| 31 | [Ojalá](https://open.spotify.com/track/5lsG04C2uh2u8yRRJDFaOA) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [Ojalá](https://open.spotify.com/album/69WwYLKacwAOVDiYAJxrIO) | 3:04 |
 | 32 | [Camino De Las Rocas](https://open.spotify.com/track/6PuaIqR7bYrINTuFzVxYub) | [Pablo Lesuit](https://open.spotify.com/artist/4lA8TrVb4WS2bcyqaokXaT) | [Camino De Las Rocas](https://open.spotify.com/album/5ZBpWovcV0oDbR0FSOACKM) | 3:37 |
 | 33 | [pa que me quieras](https://open.spotify.com/track/0puujZ0tDNjzqkOUtehxWa) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [pa que me quieras](https://open.spotify.com/album/5HMpnGK133bIEO7ZIQSwN8) | 2:08 |
 | 34 | [Mis Cicatrices](https://open.spotify.com/track/6MvHxvmzGBvKZrGODvadFn) | [MARASMO](https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX) | [Mis Cicatrices](https://open.spotify.com/album/3K5RSIc4qpXRPKX9S37aP1) | 2:30 |

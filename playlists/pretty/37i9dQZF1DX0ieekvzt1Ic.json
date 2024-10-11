@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in India. \nCover: Sabrina Carpenter",
-  "num_followers": 525003,
+  "num_followers": 525313,
   "original_name": "Hot Hits India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtWtywAAAACojDOQTOPOi3zpvK7K+yZN",
+  "snapshot_id": "Zwe/0wAAAADcL8TrCz7rvxPiJ3KcNckL",
   "tracks": [
     {
       "added_at": "2024-09-02 12:21:31",
@@ -91,6 +91,26 @@
       "duration_ms": 163653,
       "name": "Co2",
       "url": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N"
+    },
+    {
+      "added_at": "2024-10-10 11:51:46",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
       "added_at": "2024-07-03 08:33:12",

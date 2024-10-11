@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 290083,
+  "num_followers": 290190,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Post Scriptum",
-        "url": "https://open.spotify.com/album/7uMOq45PDzQUNKVfmxjvtg"
-      },
-      "artists": [
-        {
-          "name": "Jasper van't Hofs Pili Pili",
-          "url": "https://open.spotify.com/artist/5SzgUF6HG0rix7dOgVzAFF"
-        }
-      ],
-      "duration_ms": 944133,
-      "name": "Pili Pili",
-      "url": "https://open.spotify.com/track/5o63XXSCnte2qrXQfaFqLn"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "T.V. Scene (Sensurround Mix)",
         "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 438408,
       "name": "T.V. Scene - Sensurround Mix",
       "url": "https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Post Scriptum",
+        "url": "https://open.spotify.com/album/7uMOq45PDzQUNKVfmxjvtg"
+      },
+      "artists": [
+        {
+          "name": "Jasper van't Hofs Pili Pili",
+          "url": "https://open.spotify.com/artist/5SzgUF6HG0rix7dOgVzAFF"
+        }
+      ],
+      "duration_ms": 944133,
+      "name": "Pili Pili",
+      "url": "https://open.spotify.com/track/5o63XXSCnte2qrXQfaFqLn"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "T.V. Scene (Sensurround Mix)",
+        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
+      },
+      "artists": [
+        {
+          "name": "Linda Di Franco",
+          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
+        }
+      ],
+      "duration_ms": 346875,
+      "name": "My Boss - Extended Remix",
+      "url": "https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
       },
@@ -1359,34 +1375,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
+        "name": "Experience: Expanded (Remastered)",
+        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Upstairs at Eric's",
-        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 345626,
-      "name": "Situation - 12\" Remix",
-      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
+      "duration_ms": 298533,
+      "name": "Out Of Space (Remastered)",
+      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
     }
   ],
   "unique_name": "Ibiza Classics",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: PIZZALI",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3 (ddkogi)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 247223,
       "name": "\u4e82\u6d41",
       "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
@@ -8844,7 +8844,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 107368,
       "name": "\u6d77\u6d0b\u8cdc\u4e88",
       "url": "https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar"
@@ -9778,7 +9778,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 149927,
       "name": "\u7b49\u6211\u56de\u5bb6",
       "url": "https://open.spotify.com/track/1Wl9sF3iwrjFSibLvkGjQg"
@@ -9944,7 +9944,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 167344,
       "name": "\u7ffc",
       "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"
@@ -10229,6 +10229,24 @@
     },
     {
       "album": {
+        "name": "\u898b\u5230\u59b3\u5f8c",
+        "url": "https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "\u898b\u5230\u59b3\u5f8c",
+      "url": "https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK"
+    },
+    {
+      "album": {
         "name": "\u91ce\u883b\u4e4b\u8352",
         "url": "https://open.spotify.com/album/4knvf1FmUkiBrDCXWZdrNR"
       },
@@ -10374,7 +10392,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 192065,
       "name": "\u8d64\u5b50",
       "url": "https://open.spotify.com/track/0smNgxpidOTnMLiaXazVdt"
@@ -11246,7 +11264,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171612,
       "name": "\u98df\u8a00",
       "url": "https://open.spotify.com/track/4iAtPeHIBrTa79E2Qz3rbd"

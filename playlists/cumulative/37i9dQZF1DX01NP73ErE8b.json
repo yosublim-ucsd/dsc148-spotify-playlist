@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Cesare Cremonini",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: CLARA",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 212044,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 206006,
       "name": "La Citt\u00e0 Addosso",
       "url": "https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo"
@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Niente Panico",
+        "url": "https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Niente Panico",
+      "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
+    },
+    {
+      "album": {
         "name": "No Me Llames",
         "url": "https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06"
       },
@@ -1426,6 +1444,24 @@
       "duration_ms": 183092,
       "name": "Piccoli piccoli (feat. centomilacarie)",
       "url": "https://open.spotify.com/track/1A202wT21CErLDE7FikK03"
+    },
+    {
+      "album": {
+        "name": "The Freak Show",
+        "url": "https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183437,
+      "name": "Piccolo",
+      "url": "https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z"
     },
     {
       "album": {
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 188684,
       "name": "SEXY SHOP",
       "url": "https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q"
@@ -1822,6 +1858,24 @@
       "duration_ms": 199537,
       "name": "tutta vera",
       "url": "https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU"
+    },
+    {
+      "album": {
+        "name": "TUTTO SBAGLIATO",
+        "url": "https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez"
+      },
+      "artists": [
+        {
+          "name": "AIELLO",
+          "url": "https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159716,
+      "name": "TUTTO SBAGLIATO",
+      "url": "https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0"
     },
     {
       "album": {

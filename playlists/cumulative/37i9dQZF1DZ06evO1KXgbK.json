@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 178675,
       "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
       "url": "https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh"
@@ -1292,6 +1292,32 @@
       "duration_ms": 247053,
       "name": "When I Get Where I'm Going (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+    },
+    {
+      "album": {
+        "name": "When Possession Gets Too Strong",
+        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Louis Owens",
+          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129364,
+      "name": "When Possession Gets Too Strong",
+      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
     },
     {
       "album": {

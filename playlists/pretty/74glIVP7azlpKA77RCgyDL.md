@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sol Invicto.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,722 likes - 231 songs - 13 hr 45 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,720 likes - 231 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Obvious Play](https://open.spotify.com/track/1lOCYC8ljy7ZmqTH4I96g4) | [Sol Invicto](https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv), [Cypress Hill](https://open.spotify.com/artist/1LP6WR1aL9FOTKsZECs5RD), [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w), [Stephen Carpenter \(of Deftones\)](https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs), [Technical Itch](https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ), [Richie Londres](https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj), [Plague To Pyres](https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo) | [The Obvious Play](https://open.spotify.com/album/6OpcBjPC6YLhJEwK2XVpze) | 3:41 |
+| 1 | [The Obvious Play](https://open.spotify.com/track/1lOCYC8ljy7ZmqTH4I96g4) | [Sol Invicto](https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w), [Stephen Carpenter \(of Deftones\)](https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs), [Technical Itch](https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ), [Richie Londres](https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj), [Plague To Pyres](https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo) | [The Obvious Play](https://open.spotify.com/album/6OpcBjPC6YLhJEwK2XVpze) | 3:41 |
 | 2 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 |
 | 3 | [Oxygen](https://open.spotify.com/track/0ncGg1FsXkT3VDEjC229IU) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Oxygen](https://open.spotify.com/album/28zqInXXqTsVDImavH3zyT) | 3:45 |
 | 4 | [Baptism of Fire](https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z) | [Punitive Damage](https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ) | [Baptism of Fire](https://open.spotify.com/album/5TleQ7jv24XhAyvmtqpFuE) | 1:28 |

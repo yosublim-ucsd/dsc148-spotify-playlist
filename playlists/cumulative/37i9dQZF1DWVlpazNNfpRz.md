@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-121 songs - 7 hr 4 min
+122 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bailar Contigo \- Leeb Remix](https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Bailar Contigo \(Leeb Remix\)](https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv) | 4:22 | 2023-08-11 |  |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2023-08-11 |  |
 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 | 2023-08-11 |  |
+| [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 | 2024-10-10 |  |
 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2024-06-14 |  |
 | [Confieso](https://open.spotify.com/track/3IBXPyDPW905zIz9Ie4xmh) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a) | [Confieso](https://open.spotify.com/album/2JtcpWxHOoNCk1U9sPY37a) | 4:05 | 2023-11-10 |  |
 | [Confieso \(Remix\)](https://open.spotify.com/track/25ZjRLqFdc3u1saH4NNxRZ) | [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a), [Fainal](https://open.spotify.com/artist/0Q7ezBXgkKjIvdbtDLL3R6) | [Confieso](https://open.spotify.com/album/7HeUwZCMAL3A6lh4KCVkPz) | 3:58 | 2023-08-11 | 2024-04-19 |
@@ -56,7 +57,7 @@
 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 | 2023-08-11 |  |
 | [Imaginarte](https://open.spotify.com/track/2bd9r2SoVStogVPzxm3BnE) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Deivid](https://open.spotify.com/artist/1ca8bJcsvXKWnnuOZfmO77), [J Trons & Derek](https://open.spotify.com/artist/7jvn3cCEokFAKOB7Kd0C3V) | [Imaginarte](https://open.spotify.com/album/7dRCroNHQtPf0JtS01seta) | 3:49 | 2023-11-10 |  |
 | [Imaginarte](https://open.spotify.com/track/2VD4N2zsOzEFXtFGrBuUG3) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Deivid](https://open.spotify.com/artist/1ca8bJcsvXKWnnuOZfmO77), [J Trons & Derek](https://open.spotify.com/artist/7jvn3cCEokFAKOB7Kd0C3V) | [Imaginarte](https://open.spotify.com/album/32d8KOJa1e4M8MhdsLNbQs) | 3:49 | 2023-08-11 | 2024-04-19 |
-| [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2023-08-11 |  |
+| [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2023-08-11 | 2024-10-11 |
 | [Infinity \- Magic Mitch Club Mix](https://open.spotify.com/track/0NFBBnJO8D7oA6suYD2WKD) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy) | [Infinity](https://open.spotify.com/album/31YXEro2hGtx3uTJD3OjlO) | 3:13 | 2023-11-10 | 2024-04-19 |
 | [Infinity 2008](https://open.spotify.com/track/7vseIfb8ooQmXzisuinchZ) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy) | [SLAM!FM Presents Clubbin' Best of 2008/2009](https://open.spotify.com/album/6GVBb7pAVvbvBxTRsXGdh8) | 3:10 | 2023-11-10 |  |
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2023-08-11 | 2024-01-27 |

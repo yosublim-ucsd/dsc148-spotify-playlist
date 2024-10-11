@@ -1,28 +1,28 @@
 {
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=nqHpzrAiRqKmOmFzNlHalg\">VOLK</a>",
-  "num_followers": 20262,
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx\">Sonder Onderbroeke</a>",
+  "num_followers": 20274,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9wJAAAAAAA0Nl+tUzQh5lTNJZnOb99",
+  "snapshot_id": "ZwhOYAAAAACDJjLlKpc5VyGGJqPIybmD",
   "tracks": [
     {
-      "added_at": "2024-10-04 04:33:39",
+      "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "ZAR",
-        "url": "https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX"
+        "name": "Lego",
+        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
       "artists": [
         {
-          "name": "VOLK",
-          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
         }
       ],
-      "duration_ms": 207899,
-      "name": "ZAR",
-      "url": "https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv"
+      "duration_ms": 151329,
+      "name": "Lego",
+      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -127,38 +127,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "WEATHER REPORT",
-        "url": "https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT"
-      },
-      "artists": [
-        {
-          "name": "Loveth Besamoh",
-          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
-        }
-      ],
-      "duration_ms": 238005,
-      "name": "Pandemonium",
-      "url": "https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -171,6 +139,22 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -189,38 +173,6 @@
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "Android",
-        "url": "https://open.spotify.com/album/0g6q1QEe0BlQfUBQ2ubdct"
-      },
-      "artists": [
-        {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
-        }
-      ],
-      "duration_ms": 212650,
-      "name": "Android",
-      "url": "https://open.spotify.com/track/5UtLO5eNEB3MsrQNm77ZW2"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Judas Mind",
-        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 244728,
-      "name": "Judas Mind - edit",
-      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
@@ -237,20 +189,20 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
+      "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Moth Eater",
-        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
       },
       "artists": [
         {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 323357,
-      "name": "Moth Eater",
-      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -335,58 +287,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "The Art Of Letting Go",
-        "url": "https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        },
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 188495,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
-    },
-    {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "Die C-Span",
-        "url": "https://open.spotify.com/album/2I7eVjnDGerCjrUICKUNop"
-      },
-      "artists": [
-        {
-          "name": "Klaas Zaberman en die Nie-reisende Reserwes",
-          "url": "https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA"
-        }
-      ],
-      "duration_ms": 253803,
-      "name": "Die C-Span",
-      "url": "https://open.spotify.com/track/4oRVQbWroZKgxXld2a9Wer"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Lente",
-        "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 179391,
-      "name": "Cloetesville",
-      "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -399,38 +299,6 @@
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
-    },
-    {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "Skree en Huil",
-        "url": "https://open.spotify.com/album/1MICoGEINA8iib61ysLgOV"
-      },
-      "artists": [
-        {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
-        }
-      ],
-      "duration_ms": 169087,
-      "name": "Mag Nie Kla Nie",
-      "url": "https://open.spotify.com/track/7i5gPtSEgWWUZh4HxvUhRg"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Terapie Vir Nou",
-        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Terapie Vir Nou",
-      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -549,6 +417,22 @@
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
     },
     {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "Moth Eater",
+        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 323357,
+      "name": "Moth Eater",
+      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
+    },
+    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "96-03 The Singles",
@@ -581,20 +465,20 @@
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-10-04 04:33:39",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt"
+        "name": "WEATHER REPORT",
+        "url": "https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT"
       },
       "artists": [
         {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+          "name": "Loveth Besamoh",
+          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
+      "duration_ms": 238005,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -615,22 +499,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Penny Sleeps",
-        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174974,
-      "name": "Penny Sleeps",
-      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Collected Memories",
         "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
       },
@@ -647,18 +515,34 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Altyd Daar",
-        "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
       },
       "artists": [
         {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
         }
       ],
-      "duration_ms": 255773,
-      "name": "Altyd Daar",
-      "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
+    },
+    {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "Android",
+        "url": "https://open.spotify.com/album/0g6q1QEe0BlQfUBQ2ubdct"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "duration_ms": 212650,
+      "name": "Android",
+      "url": "https://open.spotify.com/track/5UtLO5eNEB3MsrQNm77ZW2"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -725,6 +609,22 @@
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
     },
     {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "ZAR",
+        "url": "https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "ZAR",
+      "url": "https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv"
+    },
+    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Adrenalien",
@@ -739,54 +639,6 @@
       "duration_ms": 252500,
       "name": "Adrenalien",
       "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Net Om Die Geraas In Te Asem",
-        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
-      },
-      "artists": [
-        {
-          "name": "\u00e9F-\u00e9L",
-          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
-        }
-      ],
-      "duration_ms": 141186,
-      "name": "Sindikaat",
-      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Heelal",
-        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
-      },
-      "artists": [
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 247146,
-      "name": "Katedraal",
-      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
-    },
-    {
-      "added_at": "2024-09-06 06:15:37",
-      "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/1lsx1zOJrWs99uiwruqQtM"
-      },
-      "artists": [
-        {
-          "name": "Run Into Waves",
-          "url": "https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6Di0vZd85nU8V9K2e7fHd9"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -807,6 +659,38 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Net Om Die Geraas In Te Asem",
+        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
+      },
+      "artists": [
+        {
+          "name": "\u00e9F-\u00e9L",
+          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
+        }
+      ],
+      "duration_ms": 141186,
+      "name": "Sindikaat",
+      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
+    },
+    {
+      "added_at": "2024-09-06 06:15:37",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/1lsx1zOJrWs99uiwruqQtM"
+      },
+      "artists": [
+        {
+          "name": "Run Into Waves",
+          "url": "https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6Di0vZd85nU8V9K2e7fHd9"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Nagblind",
         "url": "https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7"
       },
@@ -819,6 +703,122 @@
       "duration_ms": 213973,
       "name": "Nagblind",
       "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "The Romantic Lure of Possum Worship",
+        "url": "https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm"
+      },
+      "artists": [
+        {
+          "name": "Tweak",
+          "url": "https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "Birthday Card",
+      "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Wild Shit",
+        "url": "https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR"
+      },
+      "artists": [
+        {
+          "name": "Kalden Berg",
+          "url": "https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j"
+        },
+        {
+          "name": "Elsie Binx",
+          "url": "https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl"
+        }
+      ],
+      "duration_ms": 192339,
+      "name": "Wild Shit",
+      "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 182589,
+      "name": "Dans Deur Die Donker",
+      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "added_at": "2024-09-06 06:15:37",
+      "album": {
+        "name": "Kondisie",
+        "url": "https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Kondisie",
+      "url": "https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
+      },
+      "artists": [
+        {
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Gee My Jou Alles",
+        "url": "https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "duration_ms": 212617,
+      "name": "Gee My Jou Alles",
+      "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Alone At Last",
+        "url": "https://open.spotify.com/album/5Ouc8dsexIm7HTxk9jtgzc"
+      },
+      "artists": [
+        {
+          "name": "Run Into Waves",
+          "url": "https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP"
     }
   ],
   "unique_name": "SA Rock ",

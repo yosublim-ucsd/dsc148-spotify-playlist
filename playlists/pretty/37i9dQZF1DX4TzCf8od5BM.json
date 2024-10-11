@@ -1,12 +1,12 @@
 {
   "description": "Sing-along with your favorite songs from Disney Junior shows including new music from Ariel.",
-  "num_followers": 57558,
+  "num_followers": 57567,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAASO4eotBoCUUS+zjrKgX1i",
+  "snapshot_id": "ZwhREAAAAAC5yLqLl1QCn7iotKbnEEfV",
   "tracks": [
     {
       "added_at": "2024-06-26 21:40:30",
@@ -79,6 +79,30 @@
       "duration_ms": 130261,
       "name": "Do the Spidey",
       "url": "https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "duration_ms": 52866,
+      "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
+      "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -955,30 +979,6 @@
       "duration_ms": 129045,
       "name": "The Doc Is 10 - From \"Disney Junior Music: Doc McStuffins\"",
       "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Sofia the First",
-        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
-      },
-      "artists": [
-        {
-          "name": "Cast - Sofia the First",
-          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
-        }
-      ],
-      "duration_ms": 52866,
-      "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
-      "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
     },
     {
       "added_at": "2024-05-31 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Black Alien](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DKn4c)
 
-> This Is Black Alien\. Los temas esenciales, todos en una lista.
+> This Is Black Alien\. Todas as faixas essenciais numa única playlist.
 
 44 songs - 2 hr 45 min
 
@@ -50,7 +50,7 @@
 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 | 2023-09-18 |  |
 | [Um Bom Lugar](https://open.spotify.com/track/2QvXPaXSw3NtAV4gDW8NNn) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:05 | 2023-09-18 |  |
 | [Vai Baby](https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:57 | 2023-09-18 |  |
-| [Vai Explodir](https://open.spotify.com/track/35SyZI5BZyBrraebGUoUqB) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Black Alien](https://open.spotify.com/artist/0mrRaKETgAzieYGVYA0ft6) | [Se Deus Vier Que Venha Armado](https://open.spotify.com/album/37wx0Zeao0vu5M789P920W) | 3:01 | 2023-09-18 |  |
+| [Vai Explodir](https://open.spotify.com/track/35SyZI5BZyBrraebGUoUqB) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Black Alien](https://open.spotify.com/artist/0mrRaKETgAzieYGVYA0ft6) | [Se Deus Vier Que Venha Armado](https://open.spotify.com/album/37wx0Zeao0vu5M789P920W) | 3:01 | 2023-09-18 | 2024-10-11 |
 | [Área 51](https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:45 | 2023-09-18 |  |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

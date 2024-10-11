@@ -12959,6 +12959,24 @@
     },
     {
       "album": {
+        "name": "Your Poison",
+        "url": "https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Your Poison",
+      "url": "https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA"
+    },
+    {
+      "album": {
         "name": "Zig Zag",
         "url": "https://open.spotify.com/album/3NMv7cXA7JSgBm5TFkTkAf"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 762834,
+  "description": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. Los temas esenciales, todos en una lista.",
+  "num_followers": 763181,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAAADE1Zcg6xSD5S+ygFe5uHm",
+  "snapshot_id": "ZwXHgAAAAADrXfzQM5UJW2SE02DP4zL/",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1rchate Y Olv\u00eddame",
-        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "M\u00e1rchate",
-      "url": "https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 134613,
       "name": "Eso Si Me Doli\u00f3",
       "url": "https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1rchate Y Olv\u00eddame",
+        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af"
     },
     {
       "added_at": null,

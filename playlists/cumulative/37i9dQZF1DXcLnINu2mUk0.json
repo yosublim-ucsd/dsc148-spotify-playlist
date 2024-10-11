@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
   "name": "Seda",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 182420,
       "name": "#Sextou",
       "url": "https://open.spotify.com/track/2hISKDI87Hj34dIPIWiqVP"
+    },
+    {
+      "album": {
+        "name": "+ Sexy",
+        "url": "https://open.spotify.com/album/2JYKW1cUplK5NrxakDqnwc"
+      },
+      "artists": [
+        {
+          "name": "Deedz B",
+          "url": "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "+ Sexy",
+      "url": "https://open.spotify.com/track/3NiMRKeDFvEOz9F8rWxt79"
     },
     {
       "album": {
@@ -638,7 +656,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
@@ -7222,7 +7240,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
@@ -9635,6 +9653,28 @@
     },
     {
       "album": {
+        "name": "Regra Do Jogo",
+        "url": "https://open.spotify.com/album/5SlSTCgocavqz0enwGuHmp"
+      },
+      "artists": [
+        {
+          "name": "Mano Chaba",
+          "url": "https://open.spotify.com/artist/28oWVPePPjpqgwfULL2rnk"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176458,
+      "name": "Regra Do Jogo",
+      "url": "https://open.spotify.com/track/4BAylI99ZwsfDX2rIYi6U1"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -9768,6 +9808,32 @@
       "duration_ms": 161163,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
+    },
+    {
+      "album": {
+        "name": "Rocky&Rihanna",
+        "url": "https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        },
+        {
+          "name": "POTTER",
+          "url": "https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Rocky&Rihanna",
+      "url": "https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln"
     },
     {
       "album": {
@@ -10768,7 +10834,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 162872,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"

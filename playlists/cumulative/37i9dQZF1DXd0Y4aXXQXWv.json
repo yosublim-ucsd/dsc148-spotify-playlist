@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : C\u00e9line Dion & Jean-Jacques Goldman",
+  "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Johnny Hallyday",
   "name": "Culture Tubes",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 277466,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/1zw40jMntljzbGsl0KJboE"
@@ -1264,6 +1264,24 @@
       "duration_ms": 230426,
       "name": "L'envie",
       "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
+    },
+    {
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/5KAz1HC0P31pabmIceTd7Q"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "L'envie",
+      "url": "https://open.spotify.com/track/1DssiNss5G9n0SuB7c4Cem"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: FINNEAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,323 likes - 126 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,351 likes - 126 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

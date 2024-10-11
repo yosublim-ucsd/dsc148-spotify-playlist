@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2376,
+  "num_followers": 2379,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAAAt8r4tru+GV+fbK7BPoR9j",
+  "snapshot_id": "ZwXHgAAAAADcSmd8iFPRVdCdHka1hFtX",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 300660,
-      "name": "Eaten by Worms",
-      "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
+      "duration_ms": 280477,
+      "name": "Nineteen Ninety Heaven",
+      "url": "https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 280477,
-      "name": "Nineteen Ninety Heaven",
-      "url": "https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge"
+      "duration_ms": 300660,
+      "name": "Eaten by Worms",
+      "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 375933,
-      "name": "Mine Is Clouds",
-      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
+      "duration_ms": 375933,
+      "name": "Mine Is Clouds",
+      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
     },
     {
       "added_at": null,

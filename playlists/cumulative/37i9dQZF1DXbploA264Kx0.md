@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LÜCY
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 柯智棠 \(Kowen Ko\)
 
-273 songs - 16 hr 39 min
+278 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Call Ken](https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Call Ken](https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR) | 2:57 | 2024-08-29 |  |
 | [Can You Fix It](https://open.spotify.com/track/6C7tnzMVfOPgxPhjigd3kf) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Can You Fix It](https://open.spotify.com/album/6tbjnicCHxbuAtSQuq3xS7) | 2:54 | 2024-03-28 | 2024-04-26 |
 | [Carousel](https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Carousel](https://open.spotify.com/album/1nbOlxFDqQJYI1FcXJn4JX) | 3:15 | 2024-03-28 | 2024-05-24 |
-| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-05 |  |
+| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-05 | 2024-10-11 |
 | [Chubby](https://open.spotify.com/track/13nw3eoalLPH4497o4H76U) | [尋人啟事The Wanted](https://open.spotify.com/artist/7FNSvrE4X5hb2C6pYN0skP) | [減肥計劃](https://open.spotify.com/album/5X8BhE0aDFoqWuesFfihM6) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [CLOUD 9](https://open.spotify.com/track/53QI2tEUs5dh0oVWUIHTeF) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [CLOUD 9](https://open.spotify.com/album/7iDLISX1nf2helOPlrwouj) | 3:05 | 2024-02-29 | 2024-03-15 |
 | [CLV](https://open.spotify.com/track/7gh3QqAkJeGSbWTKDopwAd) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [CLV](https://open.spotify.com/album/5HPjcuwsmRIbpPTwa7z1rV) | 2:44 | 2024-02-29 | 2024-03-15 |
@@ -70,6 +70,7 @@
 | [Felt](https://open.spotify.com/track/4xMdEsDUYLBbrVR7cfRc7S) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Felt](https://open.spotify.com/album/1BylzdJuG9vR6TLTeRYxg8) | 2:24 | 2024-02-22 | 2024-03-01 |
 | [Finger](https://open.spotify.com/track/3Of8Z34kYIFKzm025HtkiH) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Balance](https://open.spotify.com/album/4DxdJ8pemzqSl38OjDcpF6) | 5:02 | 2024-02-29 | 2024-03-15 |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2024-01-25 |  |
+| [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:21 | 2024-10-10 |  |
 | [Fortune Cookie](https://open.spotify.com/track/2DEcavRxaAOuEgVcgcNaJ0) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Fortune Cookie](https://open.spotify.com/album/67s3sGE3Z0kKvQBNuVv7J4) | 4:13 | 2024-05-23 | 2024-07-27 |
 | [Freedom](https://open.spotify.com/track/1Kb8k1lx00kItso7EBh97x) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [Freedom](https://open.spotify.com/album/11nO58mkteDM9vnY1dJLNt) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 | 2024-01-25 | 2024-09-27 |
@@ -147,8 +148,10 @@
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-19 |  |
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ) | 3:50 | 2024-01-25 |  |
+| [Ramming the Town Roaming the Mountain](https://open.spotify.com/track/7KnCxwxpzXln8pSYuduL37) | [Scattered Purgatory](https://open.spotify.com/artist/4rgGqYYp43VQDKdRHnDrgw) | [Lost Ethnography of the Miscanthus Ocean](https://open.spotify.com/album/7a2mP44iRHItObZkZKiDys) | 10:31 | 2024-10-10 |  |
 | [Real World](https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Real World](https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh) | 4:19 | 2024-01-25 | 2024-09-27 |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 |  |
+| [Ridge \- Live](https://open.spotify.com/track/5f9QzTJscb6PhuXqGZ7DbE) | [YenTing Lo](https://open.spotify.com/artist/6W7lSbguF67nqkK6djqd8z), [Gin Lin](https://open.spotify.com/artist/4nz0UDdGQfUJ2uBAudUImu), [Debby Wang 王思雅](https://open.spotify.com/artist/0kPD0Ti5iYLQ6Lx9CZC7jN), [ShaoHuan Hung](https://open.spotify.com/artist/2ST9FRGx0MotiW4iTcgUlY) | [Land forms \(Live on Bebop Artist Project\)](https://open.spotify.com/album/34F61mTHBu0YMjK4HrifsB) | 3:34 | 2024-10-10 |  |
 | [Right Here Right Now](https://open.spotify.com/track/7mHahJViSbDSyj2UcxvNFl) | [Lukas MAX](https://open.spotify.com/artist/4wT5Qb0wFcb2G0K0iQUnHG), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE) | [Right Here Right Now](https://open.spotify.com/album/6BVySNnOxduh2tm6DQwe2i) | 2:46 | 2024-01-25 | 2024-08-30 |
 | [Rocketship](https://open.spotify.com/track/0vVwAEgX33PCDarOayP25w) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [把水開著](https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3) | 4:23 | 2024-06-13 | 2024-07-01 |
 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 | 2024-09-12 |  |
@@ -217,6 +220,7 @@
 | [假幸福](https://open.spotify.com/track/2w4fymIdidvmVbxynb38rT) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [不是路](https://open.spotify.com/album/1XfUQba0Sdi0YPk1nTnfcd) | 3:45 | 2024-06-13 | 2024-07-01 |
 | [兄弟](https://open.spotify.com/track/09d6pxcb14XzvyqYf8OaHd) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [人](https://open.spotify.com/album/27El5Wlkw4N59jrxVTlWFh) | 3:25 | 2024-02-29 | 2024-03-15 |
 | [八寶公主 Princess Bubble](https://open.spotify.com/track/0MyZGpsTYtgWMwwuX2fhpB) | [A Root 同根生](https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE) | [邊緣轉生術 Holy Gazai](https://open.spotify.com/album/5if9aZn1SKGYLi10argekL) | 4:08 | 2024-06-13 | 2024-07-01 |
+| [別遺棄 Aka Sawadan](https://open.spotify.com/track/0FaTG6eBxRQA3ypScbLibZ) | [漂流出口](https://open.spotify.com/artist/2MTlHJpV27LEGE9HYVBGxy) | [波流水 Drifting](https://open.spotify.com/album/7auaP75uIUozKcWWBtshyT) | 5:05 | 2024-10-10 |  |
 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-03-28 | 2024-06-07 |
 | [台灣Song](https://open.spotify.com/track/24nBHb4jbudivAMxu8LlW4) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [舌粲蓮花](https://open.spotify.com/album/1BgPXTf5C80O2BFWnfLR5x) | 4:22 | 2024-02-29 | 2024-03-15 |
 | [回郵 \(Re:\)](https://open.spotify.com/track/4y1LtJIJGiJYReJJONM4hP) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [回郵 \(Re:\)](https://open.spotify.com/album/64ecbogy9LO3DiTXGgwZrk) | 4:22 | 2024-06-13 | 2024-07-01 |
@@ -247,6 +251,7 @@
 | [棲居在溪源之上 Seeking the Sources of Streams](https://open.spotify.com/track/4I3vnw84b5ZzsUldAoffAC) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [棲居在溪源之上 Seeking the Sources of Streams](https://open.spotify.com/album/6GehZ1cDeurvyt0emrC7sE) | 11:18 | 2024-06-13 | 2024-07-01 |
 | [樹屋](https://open.spotify.com/track/5DQ9dDCBnWAiqf9NVL3XFB) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 3:33 | 2024-02-29 | 2024-03-15 |
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2024-02-29 | 2024-03-15 |
+| [毛線球少女 Yarn](https://open.spotify.com/track/4z4wb1p7KpEI9mCjKxs8YP) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [毛線球少女 Yarn](https://open.spotify.com/album/3cDNDcNVxkuq4GV4Nw6qXJ) | 3:32 | 2024-10-10 |  |
 | [水燈祭典 Water Lanterns](https://open.spotify.com/track/1WGzKFSbxFUdo0OcPc0YBP) | [A Root 同根生](https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE) | [邊緣轉生術 Holy Gazai](https://open.spotify.com/album/5if9aZn1SKGYLi10argekL) | 4:25 | 2024-06-13 | 2024-07-01 |
 | [永遠 \(feat\. Norio\)](https://open.spotify.com/track/2vMsqshNbPC3ksiSTnwtpT) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl), [Norio](https://open.spotify.com/artist/3I9p8Q35lqt1NmCx2r0L9S) | [永遠 \(feat\. Norio\)](https://open.spotify.com/album/6plwMz01mkUlqapxx4rZFo) | 4:26 | 2024-07-04 | 2024-07-27 |
 | [沒有我的那個宇宙](https://open.spotify.com/track/6UnzW55tMsnOEn7nLftP5r) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [沒有我的那個宇宙](https://open.spotify.com/album/2KjoiKcYc8kzw3rD7nDNb3) | 3:11 | 2024-02-29 | 2024-03-15 |

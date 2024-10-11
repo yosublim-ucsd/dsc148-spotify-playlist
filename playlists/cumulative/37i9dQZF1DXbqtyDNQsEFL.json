@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=IsFwsk8TRPummkMhBslTUg>Ada Ehi</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI-fhS1qjt9pyyAggSQ>Judikay</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 250360,
       "name": "Alayo",
       "url": "https://open.spotify.com/track/6C3VOdOfte4tMLFZT3fOeH"
+    },
+    {
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350250,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C"
     },
     {
       "album": {
@@ -1983,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/4w6PorVb5s1RTpTWJWifhs"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/0qgx6zvq7aU69Lt6iGDCvx"
+    },
+    {
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/0e00XQl6SWnwNXVh6WRrc4"
       },
@@ -2636,7 +2672,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 621265,
       "name": "Greatest Name",
       "url": "https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN"
@@ -4222,6 +4258,28 @@
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "album": {
+        "name": "Melodies",
+        "url": "https://open.spotify.com/album/2wfiWkB0R8e3PaJNsMxKNA"
+      },
+      "artists": [
+        {
+          "name": "Sammie Ekpoh",
+          "url": "https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/1Evjgpabe7O551q1MGZ1Qb"
     },
     {
       "album": {
@@ -5998,7 +6056,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
@@ -6078,7 +6136,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 213750,
       "name": "Rest",
       "url": "https://open.spotify.com/track/6NiUp5vpizC71VdSupgKhi"
@@ -7271,6 +7329,24 @@
     },
     {
       "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "album": {
         "name": "We Prevail",
         "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
@@ -8164,7 +8240,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 192027,
       "name": "You Saved Me",
       "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"

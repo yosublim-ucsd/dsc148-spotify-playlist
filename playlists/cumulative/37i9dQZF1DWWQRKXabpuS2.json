@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u0628\u0644\u0642\u064a\u0633",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u062f\u0627\u0644\u064a\u0627",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1282,6 +1282,24 @@
       "duration_ms": 174402,
       "name": "Bara Jarhik",
       "url": "https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk"
+    },
+    {
+      "album": {
+        "name": "Basma",
+        "url": "https://open.spotify.com/album/7j02qpsUwwhTf5LaVfHKIK"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220873,
+      "name": "Basma",
+      "url": "https://open.spotify.com/track/6kOU6t2ywX9M2UTVA7Fd4c"
     },
     {
       "album": {
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 305150,
       "name": "Laalaha Khierah",
       "url": "https://open.spotify.com/track/6idBQjC1kZMtrvVyWaLsAK"
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 203627,
       "name": "Moawari Al Atab",
       "url": "https://open.spotify.com/track/3qNy2bp2JmGzUToF4hbPUt"
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 243600,
       "name": "Wbass Wallah",
       "url": "https://open.spotify.com/track/0tO10FXwItxlccWS8d2WoZ"
@@ -5808,6 +5826,24 @@
       "duration_ms": 258341,
       "name": "\u062d\u062f\u0648\u062f \u0627\u0644\u063a\u0631\u0627\u0645",
       "url": "https://open.spotify.com/track/0UdnJGuKosWJZ9zMSaKIOt"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0631\u0648\u0641 \u0627\u0644\u063a\u0644\u0627",
+        "url": "https://open.spotify.com/album/3i0nMOXc0pDURlI2Wx1aeR"
+      },
+      "artists": [
+        {
+          "name": "\u062b\u0627\u0645\u0631 \u0627\u0644\u062a\u0631\u0643\u064a",
+          "url": "https://open.spotify.com/artist/2NoiFq5LOM6eSt4E5aIvh1"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245591,
+      "name": "\u062d\u0631\u0648\u0641 \u0627\u0644\u063a\u0644\u0627",
+      "url": "https://open.spotify.com/track/4PFVrVmnqmFQJVj9XePQXb"
     },
     {
       "album": {

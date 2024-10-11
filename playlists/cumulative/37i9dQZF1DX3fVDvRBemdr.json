@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Yves Berendse & Emma Heesters",
+  "description": "De nieuwste Hollandse hits. Cover: Quido van de Graaf",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Blauwe Plekken",
+        "url": "https://open.spotify.com/album/72aNDQTfy9CMFbFFA0ZZRJ"
+      },
+      "artists": [
+        {
+          "name": "Raoel",
+          "url": "https://open.spotify.com/artist/0BMgHUFkZZAdzv6VNXoIv4"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171284,
+      "name": "Blauwe Plekken",
+      "url": "https://open.spotify.com/track/38uMqZZ9ms5cVbrOwJyQBT"
+    },
+    {
+      "album": {
         "name": "Blijf Bij Mij",
         "url": "https://open.spotify.com/album/3pipl4FxxkmuTJdZYYlwI8"
       },
@@ -480,6 +498,24 @@
       "duration_ms": 181598,
       "name": "De Chinees",
       "url": "https://open.spotify.com/track/1vgA7zW12S9XuurE8kOGbL"
+    },
+    {
+      "album": {
+        "name": "De Hele Wereld Mag Het Weten",
+        "url": "https://open.spotify.com/album/7MvdWtMXGtnTrzUcFH0Sdp"
+      },
+      "artists": [
+        {
+          "name": "Hessel en Ineke",
+          "url": "https://open.spotify.com/artist/7LpPw5pABrJEwRXWFct2rP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181610,
+      "name": "De Hele Wereld Mag Het Weten",
+      "url": "https://open.spotify.com/track/6F5lpnzXy4dGno4tBon7UK"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 152649,
       "name": "Ik War Laot",
       "url": "https://open.spotify.com/track/5OWrAv6Gn1Ixxkw3bOsbs5"
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 155976,
       "name": "Is Dit Alles",
       "url": "https://open.spotify.com/track/7zTTsQNcLtxIsX3CdGq5fp"
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 203809,
       "name": "Laat De Zon In Je Hart",
       "url": "https://open.spotify.com/track/6ZUQHg1ehekmE6C0eETvSv"
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 155188,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/73MmD8YyM4vq4JLbt7scxF"
@@ -1496,6 +1532,24 @@
       "duration_ms": 173203,
       "name": "Mama Maria",
       "url": "https://open.spotify.com/track/2A5QPm7ALhM9qyJsV3pDNd"
+    },
+    {
+      "album": {
+        "name": "Marijke",
+        "url": "https://open.spotify.com/album/1IkKGgufJmNZKcrCuGPVCt"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Dam",
+          "url": "https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178888,
+      "name": "Marijke",
+      "url": "https://open.spotify.com/track/5XvA3Vpo4353ZxFLlYUney"
     },
     {
       "album": {
@@ -1965,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Sluitingstijd",
+        "url": "https://open.spotify.com/album/7rqRsWaApueRcN8aJkT9Pz"
+      },
+      "artists": [
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157083,
+      "name": "Sluitingstijd",
+      "url": "https://open.spotify.com/track/6wIQa0VfsFwwSvuCJyOD4x"
+    },
+    {
+      "album": {
         "name": "Space Piloot",
         "url": "https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1"
       },
@@ -2202,7 +2274,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 200952,
       "name": "Vier Het Leven",
       "url": "https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn"
@@ -2332,6 +2404,24 @@
       "duration_ms": 141428,
       "name": "Wachten Op Jou",
       "url": "https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro"
+    },
+    {
+      "album": {
+        "name": "Wat Als Ik Wat Mis",
+        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
+      },
+      "artists": [
+        {
+          "name": "Danilo Kuiters",
+          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165001,
+      "name": "Wat Als Ik Wat Mis",
+      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
     },
     {
       "album": {

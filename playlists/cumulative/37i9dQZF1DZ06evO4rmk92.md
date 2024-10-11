@@ -2,7 +2,7 @@
 
 ### [This Is Nat King Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rmk92)
 
-> This is Nat King Cole\. Todos os maiores hits em uma só playlist.
+> This Is Nat King Cole\. Los temas esenciales, todos en una lista.
 
 125 songs - 6 hr 0 min
 

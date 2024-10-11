@@ -1,12 +1,12 @@
 {
-  "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 661928,
+  "description": "This Is The Doors. Los temas esenciales, todos en una lista.",
+  "num_followers": 661995,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAAC01Qxtx/wJlEhllOJx+MWr",
+  "snapshot_id": "ZwXHgAAAAABCIRoUGdhgr91zj3B9ehjO",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 30893,
-      "name": "Yachting (Hyper)",
-      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 259265,
-      "name": "The Changeling",
-      "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 378480,
       "name": "Gloria - Live; 2007 Remaster",
       "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "The Changeling",
+      "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Been down so Long",
-      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Been down so Long",
+      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -511,6 +511,26 @@
       "duration_ms": 180573,
       "name": "You're Lost Little Girl",
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Breakn' a Sweat",
+      "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bangarang EP",
-        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "Breakn' a Sweat",
-      "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 117066,
       "name": "Unhappy Girl",
       "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Tell All the People",
-      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 63773,
       "name": "Bird of Prey",
       "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Tell All the People",
+      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back In Town (Live)",
+        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 96643,
+      "name": "Mack The Knife - Live 1968",
+      "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 175826,
       "name": "Wishful Sinful",
       "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 39229,
-      "name": "I Am Troubled - 2019 Remaster",
-      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back In Town (Live)",
-        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
+        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 96643,
-      "name": "Mack The Knife - Live 1968",
-      "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+      "duration_ms": 39229,
+      "name": "I Am Troubled - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
     },
     {
       "added_at": null,

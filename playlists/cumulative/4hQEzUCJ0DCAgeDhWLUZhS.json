@@ -5905,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "Last Of The Lonely Gods",
+        "url": "https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f"
+      },
+      "artists": [
+        {
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209343,
+      "name": "Shouldn\u2019t Leave It Like That",
+      "url": "https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq"
+    },
+    {
+      "album": {
         "name": "Show Me Your God",
         "url": "https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq"
       },
@@ -7060,6 +7078,24 @@
       "duration_ms": 261936,
       "name": "The Runner",
       "url": "https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH"
+    },
+    {
+      "album": {
+        "name": "The Way It Goes",
+        "url": "https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg"
+      },
+      "artists": [
+        {
+          "name": "Secret World",
+          "url": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154710,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE"
     },
     {
       "album": {

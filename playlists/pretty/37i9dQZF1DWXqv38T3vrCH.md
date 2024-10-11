@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,711 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,002 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 76 | [Fangs](https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Fangs](https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O) | 3:32 |
 | 77 | [Halloween](https://open.spotify.com/track/3DpQh6dqj032o9aqpYYkzn) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Halloween](https://open.spotify.com/album/62myWRYmIPEDvAnoowJmJ5) | 3:59 |
 | 78 | [Halloween 13\-13](https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Spook & Destroy](https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9) | 3:53 |
-| 79 | [Am I Evil?](https://open.spotify.com/track/4Dbgmi3ex27nUh2aEIBgHf) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?: The Best Of](https://open.spotify.com/album/3uidvgJilaGwhwsVKcFKuA) | 7:40 |
-| 80 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 |
+| 79 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 |
+| 80 | [Am I Evil?](https://open.spotify.com/track/4Dbgmi3ex27nUh2aEIBgHf) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?: The Best Of](https://open.spotify.com/album/3uidvgJilaGwhwsVKcFKuA) | 7:40 |
 
 Snapshot ID: `Zm5EOwAAAAAeerxwaWJTEP+imEjBBg49`

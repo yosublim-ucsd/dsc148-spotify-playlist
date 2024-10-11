@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 351586,
+  "num_followers": 351595,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LpnvSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LptAyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Do Jeito Que Voc\u00ea Mete",
         "url": "https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "\u00daltima Noite",
+        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Pow Pow na Pepekinha",
         "url": "https://open.spotify.com/album/0gR3fZefISjEgXjLIvzW3v"
@@ -65,7 +81,31 @@
       "url": "https://open.spotify.com/track/1iNb89RNRk4Lsydg4HT9cB"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "EPica 2",
+        "url": "https://open.spotify.com/album/4T3LzTlRz61Pak52Bo1qm1"
+      },
+      "artists": [
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "name": "Mc Naninha",
+          "url": "https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy"
+        },
+        {
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        }
+      ],
+      "duration_ms": 138923,
+      "name": "Cachorra Absurda ft. Mc Naninha Prod. PZZS",
+      "url": "https://open.spotify.com/track/7IK0jM6FX2JvsX21kTnYok"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -81,7 +121,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
@@ -109,47 +149,7 @@
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "EPica 2",
-        "url": "https://open.spotify.com/album/4T3LzTlRz61Pak52Bo1qm1"
-      },
-      "artists": [
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        },
-        {
-          "name": "Mc Naninha",
-          "url": "https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy"
-        },
-        {
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        }
-      ],
-      "duration_ms": 138923,
-      "name": "Cachorra Absurda ft. Mc Naninha Prod. PZZS",
-      "url": "https://open.spotify.com/track/7IK0jM6FX2JvsX21kTnYok"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 195794,
-      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -165,7 +165,23 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -185,7 +201,23 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Agora / Um Sonho Louco / N\u00e3o Posso Ter Medo de Amar",
         "url": "https://open.spotify.com/album/5v7DmJFlY7yJoyYidkWIlC"
@@ -209,23 +241,7 @@
       "url": "https://open.spotify.com/track/7BBopHzEqynOAICBuDJVi9"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "\u00c9 Ele",
         "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
@@ -261,7 +277,27 @@
       "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "De Volta Pra Gaiola: Amor de Verdade e Amor",
+        "url": "https://open.spotify.com/album/1fLYybGdtcoF1PfcT213xe"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 107648,
+      "name": "Pagodin",
+      "url": "https://open.spotify.com/track/5cb6RYi3jU1vM3FIYuj0wD"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Parada Obrigat\u00f3ria, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SkKauPb86QelsQUcSSlpu"
@@ -289,7 +325,7 @@
       "url": "https://open.spotify.com/track/1ksLhXiPeKIK6IgCfxuylu"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Pense Em Mim",
         "url": "https://open.spotify.com/album/1UBo6r14c6N8BXGqHJo5tV"
@@ -309,39 +345,7 @@
       "url": "https://open.spotify.com/track/5MQHvST7iWSb6vznUV9ZCU"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "O Bambu T\u00e1 Gemendo",
-        "url": "https://open.spotify.com/album/50ZrANjMBEZEH0NdZyFbui"
-      },
-      "artists": [
-        {
-          "name": "Gil Baianinho do Forr\u00f3",
-          "url": "https://open.spotify.com/artist/0880UqaGWCnU51WEZsfp9v"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "O Bambu T\u00e1 Gemendo",
-      "url": "https://open.spotify.com/track/046Gk18FTzc6jRpfR3TjVt"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -357,43 +361,7 @@
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "J\u00e1 Ganhou Tan Tan Tan",
-        "url": "https://open.spotify.com/album/5zUGIa7Yj1Yo6aNx87j81v"
-      },
-      "artists": [
-        {
-          "name": "MX no Beat",
-          "url": "https://open.spotify.com/artist/12glL4a4KZiymIEhqefGZ6"
-        },
-        {
-          "name": "Patrulha do Coxinha",
-          "url": "https://open.spotify.com/artist/4NB0Vk0QARb23YtCBjfWBS"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "J\u00e1 Ganhou Tan Tan Tan",
-      "url": "https://open.spotify.com/track/2VNkclwbYj9GG8cF46BSVK"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Automotivo da Turbulencia",
         "url": "https://open.spotify.com/album/4oBA63HKO89DopUAfIMdBH"
@@ -417,43 +385,75 @@
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "De Volta Pra Gaiola: Amor de Verdade e Amor",
-        "url": "https://open.spotify.com/album/1fLYybGdtcoF1PfcT213xe"
+        "name": "O Bambu T\u00e1 Gemendo",
+        "url": "https://open.spotify.com/album/50ZrANjMBEZEH0NdZyFbui"
       },
       "artists": [
         {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+          "name": "Gil Baianinho do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/0880UqaGWCnU51WEZsfp9v"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "O Bambu T\u00e1 Gemendo",
+      "url": "https://open.spotify.com/track/046Gk18FTzc6jRpfR3TjVt"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "J\u00e1 Ganhou Tan Tan Tan",
+        "url": "https://open.spotify.com/album/5zUGIa7Yj1Yo6aNx87j81v"
+      },
+      "artists": [
+        {
+          "name": "MX no Beat",
+          "url": "https://open.spotify.com/artist/12glL4a4KZiymIEhqefGZ6"
         },
         {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+          "name": "Patrulha do Coxinha",
+          "url": "https://open.spotify.com/artist/4NB0Vk0QARb23YtCBjfWBS"
         }
       ],
-      "duration_ms": 107648,
-      "name": "Pagodin",
-      "url": "https://open.spotify.com/track/5cb6RYi3jU1vM3FIYuj0wD"
+      "duration_ms": 158653,
+      "name": "J\u00e1 Ganhou Tan Tan Tan",
+      "url": "https://open.spotify.com/track/2VNkclwbYj9GG8cF46BSVK"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "Politicamente Correto",
-        "url": "https://open.spotify.com/album/1AT4OamSQ91HpWfD7Mr9Jo"
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
       "artists": [
         {
-          "name": "Lambasaia",
-          "url": "https://open.spotify.com/artist/2gkfnXfwfeW6k3xm9dRdAd"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 139541,
-      "name": "Desespero",
-      "url": "https://open.spotify.com/track/2Y7hBWXcQ7kDozwxBrsXoS"
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "GGUM",
         "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Politicamente Correto",
         "url": "https://open.spotify.com/album/1AT4OamSQ91HpWfD7Mr9Jo"
@@ -480,12 +480,28 @@
           "url": "https://open.spotify.com/artist/2gkfnXfwfeW6k3xm9dRdAd"
         }
       ],
-      "duration_ms": 147957,
-      "name": "Faz o Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0yE7Pw0ryFEvUoTjbOvLbS"
+      "duration_ms": 139541,
+      "name": "Desespero",
+      "url": "https://open.spotify.com/track/2Y7hBWXcQ7kDozwxBrsXoS"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Lambasaia no Lambad\u00e3o",
         "url": "https://open.spotify.com/album/1J5h6GGMii57wk025e1KV0"
@@ -501,7 +517,55 @@
       "url": "https://open.spotify.com/track/0IyGwSs9f1hhfz71kobVLa"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Politicamente Correto",
+        "url": "https://open.spotify.com/album/1AT4OamSQ91HpWfD7Mr9Jo"
+      },
+      "artists": [
+        {
+          "name": "Lambasaia",
+          "url": "https://open.spotify.com/artist/2gkfnXfwfeW6k3xm9dRdAd"
+        }
+      ],
+      "duration_ms": 147957,
+      "name": "Faz o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0yE7Pw0ryFEvUoTjbOvLbS"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Nego Raul",
+        "url": "https://open.spotify.com/album/7qkhmQV5lYNIw7N5t7VDdl"
+      },
+      "artists": [
+        {
+          "name": "Klaus Millions",
+          "url": "https://open.spotify.com/artist/5j333AGNVDmUb6YCcGapr7"
+        }
+      ],
+      "duration_ms": 641590,
+      "name": "Nego Raul",
+      "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Reacende a Chama - Ao Vivo",
+        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 477994,
+      "name": "Reacende a Chama - Ao Vivo",
+      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Vai Tomar Lapada",
         "url": "https://open.spotify.com/album/3IFaZOL6WN2c7I5b8TgpQ2"
@@ -521,7 +585,7 @@
       "url": "https://open.spotify.com/track/5LJZ1pYk6VqgBVnGJ76NQp"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Blame It On The Rain (Sped Up)",
         "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
@@ -537,91 +601,7 @@
       "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Nego Raul",
-        "url": "https://open.spotify.com/album/7qkhmQV5lYNIw7N5t7VDdl"
-      },
-      "artists": [
-        {
-          "name": "Klaus Millions",
-          "url": "https://open.spotify.com/artist/5j333AGNVDmUb6YCcGapr7"
-        }
-      ],
-      "duration_ms": 641590,
-      "name": "Nego Raul",
-      "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Reacende a Chama - Ao Vivo",
-        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 477994,
-      "name": "Reacende a Chama - Ao Vivo",
-      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Erro Favorito",
-        "url": "https://open.spotify.com/album/4Sq3cfwbfIB2tn40aTLuft"
-      },
-      "artists": [
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Erro Favorito",
-      "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Meu Prefeito Ele T\u00e1 na Boca do Povo (Remix)",
-        "url": "https://open.spotify.com/album/7pgRRE6V5LQOhelhxVgC3r"
-      },
-      "artists": [
-        {
-          "name": "DJ Tayrone",
-          "url": "https://open.spotify.com/artist/1aUpJ2ddvEdXsBGKz4JiSk"
-        }
-      ],
-      "duration_ms": 118990,
-      "name": "Meu Prefeito Ele T\u00e1 na Boca do Povo - Remix",
-      "url": "https://open.spotify.com/track/0RggrCL7mcYPmOi5E3MnbV"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
@@ -645,51 +625,39 @@
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        },
-        {
-          "name": "Amber Coffman",
-          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 296520,
-      "name": "She Knows (feat. Amber Coffman & Cults)",
-      "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "Pandemonium!",
-        "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
+        "name": "Julho 2K24",
+        "url": "https://open.spotify.com/album/4lsBksZlQnopzYltYinVhJ"
       },
       "artists": [
         {
-          "name": "B2K",
-          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Edison Ribeiro",
+          "url": "https://open.spotify.com/artist/22YNH1nYzkac84HAX15JgF"
         }
       ],
-      "duration_ms": 282773,
-      "name": "Bump, Bump, Bump (feat. P. Diddy)",
-      "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
+      "duration_ms": 213635,
+      "name": "Vagabundo Apaixonado",
+      "url": "https://open.spotify.com/track/2vqHa8WyNfGgyjgRdTz0sC"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Montagem After Party",
         "url": "https://open.spotify.com/album/18QOxNgnzkFQkEEyzW8yaW"
@@ -717,55 +685,63 @@
       "url": "https://open.spotify.com/track/6FQp6Y0SpjZrurysCIo7BJ"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+        "name": "Meu Prefeito Ele T\u00e1 na Boca do Povo (Remix)",
+        "url": "https://open.spotify.com/album/7pgRRE6V5LQOhelhxVgC3r"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "DJ Tayrone",
+          "url": "https://open.spotify.com/artist/1aUpJ2ddvEdXsBGKz4JiSk"
         }
       ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+      "duration_ms": 118990,
+      "name": "Meu Prefeito Ele T\u00e1 na Boca do Povo - Remix",
+      "url": "https://open.spotify.com/track/0RggrCL7mcYPmOi5E3MnbV"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Erro Favorito",
+        "url": "https://open.spotify.com/album/4Sq3cfwbfIB2tn40aTLuft"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
+      "duration_ms": 179580,
+      "name": "Erro Favorito",
+      "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "Julho 2K24",
-        "url": "https://open.spotify.com/album/4lsBksZlQnopzYltYinVhJ"
+        "name": "Pandemonium!",
+        "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
       },
       "artists": [
         {
-          "name": "Edison Ribeiro",
-          "url": "https://open.spotify.com/artist/22YNH1nYzkac84HAX15JgF"
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 213635,
-      "name": "Vagabundo Apaixonado",
-      "url": "https://open.spotify.com/track/2vqHa8WyNfGgyjgRdTz0sC"
+      "duration_ms": 282773,
+      "name": "Bump, Bump, Bump (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Era uma vez",
         "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
@@ -781,23 +757,23 @@
       "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 214033,
-      "name": "TUDO",
-      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Piseiro Hawaiano",
         "url": "https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS"
@@ -821,7 +797,47 @@
       "url": "https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "TUDO",
+      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "She Knows (feat. Amber Coffman & Cults)",
+      "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Tropa do Sem K.O",
         "url": "https://open.spotify.com/album/5SM8mR0LUO5ajfRTGAtU5e"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/02I0Nm97YdmZ8teGFcIHEy"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
@@ -893,7 +909,23 @@
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -921,23 +953,23 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
     },
     {
-      "added_at": "2024-10-09 20:46:14",
+      "added_at": "2024-10-10 20:40:03",
       "album": {
         "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
         "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
@@ -955,42 +987,6 @@
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 388226,
-      "name": "Last Night (feat. Keyshia Cole)",
-      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
-    },
-    {
-      "added_at": "2024-10-09 20:46:14",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

@@ -2,7 +2,7 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Last Train
+> Les meilleures nouveautés de la scène rock française\. Photo : SEX SHOP MUSHROOMS
 
 273 songs - 16 hr 40 min
 
@@ -31,7 +31,7 @@
 | [Autodrama](https://open.spotify.com/track/3uvsiUdJ40LfqYQaok6aEI) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [THIRST](https://open.spotify.com/album/1ihsnvwQh0l61TnWVJN5No) | 4:09 | 2023-10-26 | 2023-12-01 |
 | [Automatic Mode](https://open.spotify.com/track/2UARBzkscvBzujgjHX5zIT) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Automatic Mode](https://open.spotify.com/album/5fPVtxlx8vY2HumyDvn12K) | 3:00 | 2024-09-12 | 2024-09-20 |
 | [Autorisation](https://open.spotify.com/track/3ni2TkTPh9TlAI9jdrOB63) | [Delgres](https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3) | [Promis Le Ciel](https://open.spotify.com/album/4BvwRGHPD0geln8A2hda3e) | 3:01 | 2024-02-15 | 2024-03-29 |
-| [Aérosol](https://open.spotify.com/track/4hYjzUdf9JFHE7URQ2Kb9Z) | [Mustang](https://open.spotify.com/artist/2E8cviAuSyzPATw2ahHHpn) | [Aérosol](https://open.spotify.com/album/5LW4SlUgiil66zjcbdpbL2) | 2:48 | 2024-04-18 |  |
+| [Aérosol](https://open.spotify.com/track/4hYjzUdf9JFHE7URQ2Kb9Z) | [Mustang](https://open.spotify.com/artist/2E8cviAuSyzPATw2ahHHpn) | [Aérosol](https://open.spotify.com/album/5LW4SlUgiil66zjcbdpbL2) | 2:48 | 2024-04-18 | 2024-10-11 |
 | [B/W Rainbow](https://open.spotify.com/track/0jhy2QigktS8s6StS0eJPW) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [16 Dreams a Minute](https://open.spotify.com/album/1485FZSX7HEo5vwK1KHk8c) | 2:42 | 2024-04-25 |  |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-02-09 |
 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 | 2023-10-20 | 2023-12-01 |
@@ -102,7 +102,7 @@
 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-06 |  |
 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-09-30 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 | 2024-02-09 |
-| [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 | 2024-04-25 |  |
+| [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 | 2024-04-25 | 2024-10-11 |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-02 | 2024-02-16 |
 | [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 | 2024-02-16 |
 | [Hurricanes](https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Hurricanes](https://open.spotify.com/album/3coIK4BNVCgOLy9kAPGumC) | 3:14 | 2023-12-14 | 2024-01-26 |
@@ -206,7 +206,7 @@
 | [She Said](https://open.spotify.com/track/6nFyCnc6iKU5G2u8GIE6um) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [She Said](https://open.spotify.com/album/6n9BWTvWeTpd0dnLHv0xdH) | 3:30 | 2024-02-15 | 2024-04-19 |
 | [Sheer](https://open.spotify.com/track/51bCjqkHdXpJVrouWac7OU) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Sheer](https://open.spotify.com/album/0FWk1F0liElxKrWMyHjAzP) | 2:54 | 2024-03-14 | 2024-05-17 |
 | [Silly Dreams](https://open.spotify.com/track/1tuZGEBipGpUXYcz5u3lIx) | [Gurl](https://open.spotify.com/artist/4Fj5Yd9zJaMILwRxWlHSTB) | [Silly Dreams](https://open.spotify.com/album/1rw3wL6MeQmcyM4rbqTe7z) | 3:59 | 2023-09-28 | 2024-02-09 |
-| [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/album/6SHc5RUIva7X6KtRH9O4Qd) | 3:21 | 2024-04-11 |  |
+| [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [SklogW II \(On n'a pas l'cul sorti des ronces\)](https://open.spotify.com/album/6SHc5RUIva7X6KtRH9O4Qd) | 3:21 | 2024-04-11 | 2024-10-11 |
 | [Sleepless Nights](https://open.spotify.com/track/6bLc4V9YRq6lLnMXhcn8Ls) | [Deep Merries](https://open.spotify.com/artist/42l0fKzMugV26K0EufdWIP) | [Sleepless Nights](https://open.spotify.com/album/1ibX97ViAxhnAg7t2u0ZNj) | 4:08 | 2024-03-21 | 2024-05-10 |
 | [Slow Attack](https://open.spotify.com/track/1BwfyBdQnrvuL8bxpQkxBv) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Dawn of the Dusk](https://open.spotify.com/album/2hxdDwFuruximCModqB9Q7) | 4:50 | 2023-12-21 | 2024-04-12 |
 | [Slow down](https://open.spotify.com/track/2W3zxdFnNdctxB0nNzBiWS) | [Murder At The Pony Club](https://open.spotify.com/artist/7C3EICXmCNNxgAs2CPneWO) | [A Human Story](https://open.spotify.com/album/5aKE8XextCU5zV2EFtZP1S) | 3:19 | 2024-06-27 |  |

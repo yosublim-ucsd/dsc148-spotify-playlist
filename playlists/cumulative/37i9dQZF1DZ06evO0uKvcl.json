@@ -471,6 +471,36 @@
     },
     {
       "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Do The Do",
+      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+    },
+    {
+      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -494,48 +524,10 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 143826,
       "name": "Do The Do",
       "url": "https://open.spotify.com/track/7qUFSMqfCOCHd2kLjMR2LK"
-    },
-    {
-      "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
-        }
-      ],
-      "date_added": "2022-08-29",
-      "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
-      "duration_ms": 139826,
-      "name": "Do The Do",
-      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
     },
     {
       "album": {

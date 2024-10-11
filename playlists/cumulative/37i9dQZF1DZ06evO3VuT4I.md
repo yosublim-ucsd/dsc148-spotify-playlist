@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
 
 117 songs - 9 hr 36 min
 
@@ -12,7 +12,7 @@
 | [4 O'Clock in the Morning](https://open.spotify.com/track/1z4wE7bLDQrf5B5CJKHXjv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:49 | 2022-07-24 | 2022-09-07 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:52 | 2022-06-22 | 2022-06-24 |
 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 | 2022-06-11 | 2024-04-19 |
-| [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 | 2022-09-21 |  |
+| [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 | 2022-09-21 | 2024-10-11 |
 | [A New Day](https://open.spotify.com/track/0FSw4ppnsTatvOcjKYlofZ) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [FRKWYS Vol\. 13: Sunergy](https://open.spotify.com/album/23lc2uS9fRiCApwcNhCvUT) | 23:08 | 2022-06-27 | 2022-09-21 |
 | [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 | 2022-06-09 | 2024-09-10 |
 | [A Sonic Womb Pt\. 3](https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:15 | 2022-06-07 | 2024-07-12 |
@@ -34,7 +34,7 @@
 | [Concert at Wbai Free Music Store](https://open.spotify.com/track/1SrKUJ1r6wNGSqaF7aKvzv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Buchla Concerts 1975](https://open.spotify.com/album/2eRdpXgHPeltZL4nMr3Qxr) | 19:49 | 2022-05-29 | 2023-02-14 |
 | [Coral Reef](https://open.spotify.com/track/2rjMOz1O2RRmVZyQoXHgzv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Coral Reef](https://open.spotify.com/album/6Wm6Kek2O1stXbYi75wWKJ) | 4:46 | 2023-09-15 | 2023-11-11 |
 | [Coral Reef](https://open.spotify.com/track/55XSfNp6o9TVp8F7Xjp0va) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:46 | 2023-11-10 |  |
-| [Delayed \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5eXM2sr47Zcgl0YberHWIo) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 4:44 | 2024-02-19 | 2024-02-24 |
+| [Delayed \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5eXM2sr47Zcgl0YberHWIo) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 4:44 | 2024-02-19 |  |
 | [Denali](https://open.spotify.com/track/2B3Ak3JxzXgQDO9VztLMj1) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Music For Denali](https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6) | 3:35 | 2023-08-19 | 2023-08-26 |
 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 | 2022-05-29 | 2024-09-11 |
 | [Dream of the Pink Zebra](https://open.spotify.com/track/5soT0vJ6kTN1pRDYtVeRev) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:38 | 2022-06-27 | 2022-09-09 |

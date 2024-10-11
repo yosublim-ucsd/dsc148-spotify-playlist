@@ -2,7 +2,7 @@
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This is Eric Clapton\. The essential tracks, all in one playlist.
+> This Is Eric Clapton\. Los temas esenciales, todos en una lista.
 
 153 songs - 11 hr 39 min
 
@@ -112,7 +112,7 @@
 | [Please Be With Me](https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 3:26 | 2023-05-04 | 2024-07-23 |
 | [Pompous Fool](https://open.spotify.com/track/5T8rMvtWtsG8O7pp6TxGs8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 4:45 | 2024-10-07 |  |
 | [Pompous Fool](https://open.spotify.com/track/5EobzV1JmNMIijNeOTESTS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pompous Fool](https://open.spotify.com/album/2BPC18y4vgEymeHhdhnacw) | 4:45 | 2022-08-05 | 2022-11-21 |
-| [Prayer of a Child](https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Prayer of a Child](https://open.spotify.com/album/178WnPfId9ExhG95JDEg1j) | 3:57 | 2024-04-13 |  |
+| [Prayer of a Child](https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Prayer of a Child](https://open.spotify.com/album/178WnPfId9ExhG95JDEg1j) | 3:57 | 2024-04-13 | 2024-10-11 |
 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 | 2024-04-24 |  |
 | [Pretending](https://open.spotify.com/track/2cu4KvdykqkUOUsHu3NiTD) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/1tJctCfk9OYvRbBKu3bI5L) | 4:43 | 2022-08-26 | 2022-10-06 |
 | [Promises](https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Backless](https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i) | 3:01 | 2022-08-05 |  |

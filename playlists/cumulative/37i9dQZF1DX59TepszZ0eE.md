@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=YK719CUwT0KOKLbBeuY0kA>Dumi Mkokstad</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot\_HNbA>Solly Moholo</a>
 
-309 songs - 1 day 8 hr 5 min
+311 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 | 2018-09-24 | 2024-04-19 |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
+| [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/4epVuj4ZLMusxeWD8qJll9) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3hK5itgu7a8OKdLu2kzNWh) | 7:30 | 2024-10-11 |  |
 | [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 | 2023-06-09 |
 | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC), [Girly Sibiya](https://open.spotify.com/artist/2FxLvFgLUJzmXZjMh3EsEU) | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/album/2e74E0qcVor3plRWUnCpMP) | 5:03 | 2024-02-09 | 2024-05-17 |
 | [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 | 2024-01-05 |  |
@@ -296,6 +297,7 @@
 | [Wethembekile](https://open.spotify.com/track/7Hoh0EFokhyX9zjt9Ngb2x) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wethembekile](https://open.spotify.com/album/4ZXch2i9RsaPUWK8r3ouTz) | 5:13 | 2024-05-10 | 2024-07-12 |
 | [Wonderful Love \- Live](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love \(Live\)](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 | 2023-09-29 | 2024-02-02 |
 | [Wozani Zindlamafa](https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wozani Zindlamafa](https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4) | 4:00 | 2023-09-08 | 2023-09-15 |
+| [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 | 2024-10-11 |  |
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2020-04-13 | 2024-04-19 |
 | [Xa Ndiyekelelwa \- Live](https://open.spotify.com/track/5MDmBimlxmvhDshNiV5fCa) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Collaborations, Vol\. 1](https://open.spotify.com/album/6FUPRNJO74x0fl6xphVQ3b) | 6:46 | 2024-04-05 |  |
 | [Yaze Yafika leyomini](https://open.spotify.com/track/40EBB0o68HaO8gAUHfb1sQ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Yaze Yafika Leyomini](https://open.spotify.com/album/31ow4h4QzGFia8ODrPBVeA) | 8:02 | 2023-09-29 | 2024-02-02 |

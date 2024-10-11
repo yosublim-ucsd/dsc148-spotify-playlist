@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "\u064a\u0627 \u062e\u0644\u064a",
+        "url": "https://open.spotify.com/album/4a33vCR41CTgn3hF6qacKw"
+      },
+      "artists": [
+        {
+          "name": "Bessan Ismail",
+          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "\u064a\u0627 \u062e\u0644\u064a",
+      "url": "https://open.spotify.com/track/364THEHA4pehlPPj0JdR5V"
+    },
+    {
+      "album": {
         "name": "Ana Sekketen",
         "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
       },

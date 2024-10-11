@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 420746,
+  "num_followers": 420771,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 358240,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
         "name": "Isaias Saad",
         "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 358240,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
         "name": "15 Anos (ao Vivo)",
         "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Aba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 348364,
+      "name": "Aba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Acredito (We Believe)",
-        "url": "https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 229594,
-      "name": "Acredito (We Believe)",
-      "url": "https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
         "name": "Renovo",
         "url": "https://open.spotify.com/album/7fiWxyJRFR0NIQ1nfFXcbL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 281240,
       "name": "Sobrevivi",
       "url": "https://open.spotify.com/track/6uiPCZIIdtfVCjuh7NUTiM"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Acredito (We Believe)",
+        "url": "https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 229594,
+      "name": "Acredito (We Believe)",
+      "url": "https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2"
     },
     {
       "added_at": "2024-09-20 03:01:00",

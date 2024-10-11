@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
+        "url": "https://open.spotify.com/album/2zcb8Uz3hRNanHUQ3jCAjF"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u88e4\u5b50\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228042,
+      "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
+      "url": "https://open.spotify.com/track/1JYNcQCK6FmCmZIIXymh2v"
+    },
+    {
+      "album": {
         "name": "\u51fa\u8d70",
         "url": "https://open.spotify.com/album/0lGn56lhCvMeqiVppbz9YM"
       },
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 262500,
       "name": "\u60f3\u8457\u4f60\u7684\u611f\u89ba",
       "url": "https://open.spotify.com/track/1o4ShGYKCjvKKLh66UvY2U"
@@ -6798,7 +6816,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 230031,
       "name": "\u81f4\u5149\uff08\u300a\u4e8c\u5341\u4e00\u5929\u300b\u5f71\u8996\u5287\u63d2\u66f2\uff09",
       "url": "https://open.spotify.com/track/1qwRg7xVJU7PR8X9BZAywB"
@@ -6946,6 +6964,24 @@
       "duration_ms": 196125,
       "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
       "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"
+    },
+    {
+      "album": {
+        "name": "\u865b\u69cb",
+        "url": "https://open.spotify.com/album/0TJZpw1w6xGeo2NnIQfp7I"
+      },
+      "artists": [
+        {
+          "name": "Colbie\u738b\u601d\u6db5",
+          "url": "https://open.spotify.com/artist/6NO4KtoS7iSjcg88n151zp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215029,
+      "name": "\u865b\u69cb",
+      "url": "https://open.spotify.com/track/2MQJbiu6FnxVn5KkH42xuR"
     },
     {
       "album": {

@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "A Very Trainor Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135985,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO"
+    },
+    {
+      "album": {
         "name": "Thank You (Deluxe)",
         "url": "https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d"
       },

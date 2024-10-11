@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Manuel Turizo &amp; Kapo
 
-833 songs - 1 day 20 hr 34 min
+835 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 | 2022-07-13 | 2023-05-26 |
 | [Otra Vez](https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Otra Vez](https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw) | 3:41 | 2022-12-09 | 2023-06-02 |
 | [Otra Vida](https://open.spotify.com/track/2QeiWWE11sKROZhu79ADcX) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Retrofuturismo](https://open.spotify.com/album/2Kc986d6cZXdpyguHWEQrr) | 2:08 | 2022-05-27 | 2023-05-26 |
+| [OTRO CAPÍTULO](https://open.spotify.com/track/2IzVNdYbdh2tgO4Pq15Lho) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [OTRO CAPÍTULO](https://open.spotify.com/album/5ICc0mseGnHM12LSWEfLgz) | 3:00 | 2024-10-11 |  |
 | [Otros XOXO](https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Otros XOXO](https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr) | 3:15 | 2023-03-31 | 2023-06-03 |
 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 | 2023-11-09 | 2024-07-03 |
 | [Pa La Pared](https://open.spotify.com/track/0qY9zmmg06NoVuqnktxwIz) | [Gønza](https://open.spotify.com/artist/7gekNb01jBYOpcrla2cgEH) | [Pa La Pared](https://open.spotify.com/album/1auYpptwAAhdd2nVCEq0xZ) | 2:34 | 2023-03-10 | 2023-06-01 |
@@ -651,6 +652,7 @@
 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 | 2024-04-01 |  |
 | [Ride](https://open.spotify.com/track/1JWSvbotktLh1cftm1SyRc) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Ride](https://open.spotify.com/album/36yqcY0wmk7Z3RSPo7k452) | 4:03 | 2022-06-15 | 2023-05-26 |
 | [Risueña](https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Risueña](https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx) | 3:31 | 2022-03-10 | 2023-05-26 |
+| [ROBAME UN BESO](https://open.spotify.com/track/2RxJ9U2Pj7TsiocDXtjowg) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [ROBAME UN BESO](https://open.spotify.com/album/3N2kt9ioaMGzGMBfvzhBXN) | 2:23 | 2024-10-11 |  |
 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 | 2023-06-07 |  |
 | [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 | 2023-04-27 | 2023-06-02 |
 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-07-30 |  |

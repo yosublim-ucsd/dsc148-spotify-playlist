@@ -301,6 +301,48 @@
     },
     {
       "album": {
+        "name": "KDO",
+        "url": "https://open.spotify.com/album/0etHjipRafoS8q6t6WvyoG"
+      },
+      "artists": [
+        {
+          "name": "Ks Bloom",
+          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
+        },
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        },
+        {
+          "name": "Yaziel",
+          "url": "https://open.spotify.com/artist/0U3ht7dMJxqDtGF3r7kpdE"
+        },
+        {
+          "name": "Elvyn Le Conqu\u00e9rant",
+          "url": "https://open.spotify.com/artist/0UF0swa2mxB2noqoWIwmtD"
+        },
+        {
+          "name": "Djess",
+          "url": "https://open.spotify.com/artist/6ap4rncYEBwtvgoSHLg4uI"
+        },
+        {
+          "name": "Iron le rappeur",
+          "url": "https://open.spotify.com/artist/4vwOqTQrz8cGUZmHIhqMsh"
+        },
+        {
+          "name": "Leufa",
+          "url": "https://open.spotify.com/artist/5nfaQOXMFIG7oVKFztI5ZQ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171783,
+      "name": "Appr\u00eatez-vous",
+      "url": "https://open.spotify.com/track/5oliKkUCzfhFbHc6U1FRcg"
+    },
+    {
+      "album": {
         "name": "PUISSANCE 10",
         "url": "https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg"
       },
@@ -3576,7 +3618,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 223636,
       "name": "Tchoutchou Kpangor",
       "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"

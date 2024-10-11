@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Tapped In with Edgardo Nuñez  click  <a href="spotify:episode:7oeED4lRIATJgLSMdw99e1">here</a> to dive into La Finikera
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,561 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,575 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

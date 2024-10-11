@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Uday Bath",
+  "description": "Discover the future of Punjabi Pop! Cover: Sona Walia",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "About you",
+        "url": "https://open.spotify.com/album/0EliFoBFGkMh1Ns97EXq6T"
+      },
+      "artists": [
+        {
+          "name": "Yograj",
+          "url": "https://open.spotify.com/artist/5mW9XVgy7a5PYpqxZn56Di"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "About you",
+      "url": "https://open.spotify.com/track/3G6F2P2IV5Yw6OA2Ze1e75"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0rPy3BIr7pDIeQDYl8ao1i"
       },
@@ -122,7 +148,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
@@ -319,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/73oNRVRbD4NkKyblaImPkl"
+      },
+      "artists": [
+        {
+          "name": "Khushbaaz",
+          "url": "https://open.spotify.com/artist/3R0xbZq2UBUA0KqkYhBEIx"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149015,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/0d5mAuWfhepfHtr2ZnmSSy"
+    },
+    {
+      "album": {
         "name": "Breed",
         "url": "https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp"
       },
@@ -363,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Broken Stars",
+        "url": "https://open.spotify.com/album/3KsoML4YjjCdyNrXPrNGKM"
+      },
+      "artists": [
+        {
+          "name": "Onkar",
+          "url": "https://open.spotify.com/artist/3Lnlbjyv8I8E9tb6JtKPqG"
+        },
+        {
+          "name": "Manna Music",
+          "url": "https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134257,
+      "name": "Broken Stars",
+      "url": "https://open.spotify.com/track/6apEeDjHGWLulWLmRbSEXu"
+    },
+    {
+      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB"
       },
@@ -400,6 +466,42 @@
       "duration_ms": 186000,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R"
+    },
+    {
+      "album": {
+        "name": "Challa Gaani",
+        "url": "https://open.spotify.com/album/6xZ91WIeRwjEddFvQJhqjl"
+      },
+      "artists": [
+        {
+          "name": "Jay C",
+          "url": "https://open.spotify.com/artist/1vqG9c5Ja0auBGSwp208Jq"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Challa Gaani",
+      "url": "https://open.spotify.com/track/1iwqrmTIGLImYYv861MdG5"
+    },
+    {
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4EyoAKM7q2hcQrhnBdXyHn"
+      },
+      "artists": [
+        {
+          "name": "Fatehjit",
+          "url": "https://open.spotify.com/artist/4mWb5waebEeACv4F66MlXy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169629,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/3LPWunwDs0gx6Ex79Ohgpu"
     },
     {
       "album": {
@@ -458,7 +560,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 138600,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p"
@@ -554,7 +656,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 145647,
       "name": "Daaka",
       "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
@@ -568,6 +670,10 @@
         {
           "name": "Saajz",
           "url": "https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b"
+        },
+        {
+          "name": "Onkaar Harman",
+          "url": "https://open.spotify.com/artist/4nUGbIGm3hSmbNNDCanbw6"
         }
       ],
       "date_added": "2024-09-04",
@@ -630,7 +736,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 114193,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
@@ -1049,6 +1155,28 @@
     },
     {
       "album": {
+        "name": "KAAFIRA",
+        "url": "https://open.spotify.com/album/2welrI6U1eL6hr0thN1HX6"
+      },
+      "artists": [
+        {
+          "name": "Anmol Dhandra",
+          "url": "https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE"
+        },
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "KAAFIRA",
+      "url": "https://open.spotify.com/track/5SkW8s2DHoymYDgtiKul64"
+    },
+    {
+      "album": {
         "name": "Kan Akhiyaan",
         "url": "https://open.spotify.com/album/5MKXR6yhcohniMtsKE32xm"
       },
@@ -1315,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Mature",
+        "url": "https://open.spotify.com/album/0kd3RgfFiPHBk8XE9F56fc"
+      },
+      "artists": [
+        {
+          "name": "EKAM",
+          "url": "https://open.spotify.com/artist/4SmR8tn9GIzfzawszn6Gav"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144598,
+      "name": "Mature",
+      "url": "https://open.spotify.com/track/1UOiwtPyuGvJB3NhPlYCou"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6t1YnsTiZ6lKkEftch3UUa"
       },
@@ -1496,7 +1642,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 148965,
       "name": "Munda Hot",
       "url": "https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N"
@@ -1638,7 +1784,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 132244,
       "name": "Pasand",
       "url": "https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S"
@@ -1833,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Sohneya",
+        "url": "https://open.spotify.com/album/0Lkz9ZEAVf3tYwU0kBWQR1"
+      },
+      "artists": [
+        {
+          "name": "MANN CHAUHAN",
+          "url": "https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215334,
+      "name": "Sohneya",
+      "url": "https://open.spotify.com/track/6kkH3711G3XPbeLV4xGdJ7"
+    },
+    {
+      "album": {
         "name": "Highway Hits",
         "url": "https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq"
       },
@@ -1884,7 +2048,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 213333,
       "name": "Talks",
       "url": "https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0"
@@ -1910,7 +2074,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 170808,
       "name": "Tareek",
       "url": "https://open.spotify.com/track/4CAiZC1PX9sddBFtEiLwie"

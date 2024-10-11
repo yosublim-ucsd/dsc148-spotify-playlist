@@ -4,7 +4,7 @@
 
 > 🫧 ₊˚⊹♡ world of Luvcat 🍒‧₊˚ 🎐✩
 
-3,026 songs - 6 day 19 hr 49 min
+3,030 songs - 6 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Dead Celebrities](https://open.spotify.com/track/2V6dyeFrTmIrdXFoMcZHO9) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Dead Celebrities](https://open.spotify.com/album/7zI35ceEWXUJ581slrLfx4) | 3:16 | 2020-01-10 | 2020-02-20 |
 | [dead end](https://open.spotify.com/track/2r6Z8DzXopRlfPfFPHSLes) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5q9MyQau8ZpBMOwtg00IZu) | 2:20 | 2021-04-28 | 2021-06-05 |
 | [Dead Girl Walking](https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 3:19 | 2024-01-10 | 2024-02-22 |
+| [Deadbeat](https://open.spotify.com/track/1enKqw8WNSYA8YxvzEcgsg) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Deadbeat](https://open.spotify.com/album/1IUdm89WoY8CZsUKHLKPNb) | 3:33 | 2024-10-10 |  |
 | [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2024-05-03 | 2024-06-01 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-27 | 2022-08-04 |
 | [Dear Prudence](https://open.spotify.com/track/2zpd0M5FkvGrMgOTVOlEMW) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB), [Jim Sturgess](https://open.spotify.com/artist/15cfE4nzURJUvrUyqsrMuF), [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v), [T.V\. Carpio](https://open.spotify.com/artist/1a99hRwEKy7OTVTjzHOExM) | [Across The Universe](https://open.spotify.com/album/0wk2LEg0xFuuRq35UuLoNz) | 5:18 | 2020-10-09 | 2020-10-20 |
@@ -1431,7 +1432,7 @@
 | [Julia](https://open.spotify.com/track/2e3piWu2WMTgdhxa42bcX8) | [Crate](https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7) | [Julia](https://open.spotify.com/album/562ZDTDGWvA5sP3vR2GsJ5) | 5:29 | 2024-05-31 | 2024-07-27 |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2021-03-26 | 2022-02-26 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2019-11-08 | 2020-04-28 |
-| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-17 |  |
+| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-17 | 2024-10-11 |
 | [Junior Varsity](https://open.spotify.com/track/6H3vlGfkDO5M2WTDMNbdoI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:12 | 2020-01-10 | 2020-02-20 |
 | [JUST A FRIEND](https://open.spotify.com/track/36LhRqsiN9nh2R2uRw2okl) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2), [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew) | [JUST A FRIEND](https://open.spotify.com/album/5dvbtgle6QcXWclKh8fDwY) | 2:46 | 2022-06-30 | 2022-07-02 |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2022-05-11 | 2022-06-22 |
@@ -1613,6 +1614,7 @@
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-05-31 | 2024-06-20 |
 | [Love On Top](https://open.spotify.com/track/2aPsnczW0FbW24MXtlWrC4) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Love On Top](https://open.spotify.com/album/1IzSQzGqrHWaMe12OI5yH8) | 2:13 | 2020-05-15 | 2020-07-31 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-24 | 2024-04-19 |
+| [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 |  |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-10 | 2023-04-22 |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2021-01-07 | 2021-05-19 |
 | [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 | 2023-05-12 | 2024-02-23 |
@@ -2272,6 +2274,7 @@
 | [She Plays Bass](https://open.spotify.com/track/3HsISqx1yY7IFQZzzgZrKD) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/1M3PMTh90ShsJfQ1AfHbGH) | 3:27 | 2019-08-23 | 2020-02-05 |
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-07-10 | 2024-08-08 |
 | [Shed Head](https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Shed Head](https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc) | 3:41 | 2022-05-12 | 2022-06-10 |
+| [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 | 2024-10-10 |  |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-06-21 | 2022-10-13 |
 | [Shimmer](https://open.spotify.com/track/6SFFmZFiDoTjQG3kdECxZa) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 5:00 | 2020-02-01 | 2020-02-20 |
 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-23 | 2023-08-16 |
@@ -2362,6 +2365,7 @@
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-12 | 2021-04-16 |
 | [Soft Drink](https://open.spotify.com/track/0WCB977PfbtbJa85dbSzVP) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Drink](https://open.spotify.com/album/1Ehb2AaSOAbyehOOSGW80b) | 3:19 | 2021-08-14 | 2021-11-13 |
 | [Soft Side](https://open.spotify.com/track/0tQkQQ94DEbpj7cded0KtA) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/7FVjc6puo9t6Fd0R9AaVpy) | 2:34 | 2022-03-04 | 2022-06-10 |
+| [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 | 2024-10-10 |  |
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2021-12-01 | 2022-04-23 |
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2020-12-03 | 2021-04-02 |
 | [Soft Spot](https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:08 | 2021-07-31 | 2021-12-02 |

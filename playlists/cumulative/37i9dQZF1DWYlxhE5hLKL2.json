@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -604,6 +622,24 @@
       "duration_ms": 195988,
       "name": "Plug Talk (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/3kKfpZ1Lwf5bG2t6mHbSOw"
+    },
+    {
+      "album": {
+        "name": "EXPO EXPO",
+        "url": "https://open.spotify.com/album/5s6G3HzAqcKNJt90LeFw19"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/4PIgLPKh6b2MqURJmMtH0v"
     },
     {
       "album": {

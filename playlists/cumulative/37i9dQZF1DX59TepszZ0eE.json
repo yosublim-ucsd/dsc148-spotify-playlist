@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=YK719CUwT0KOKLbBeuY0kA>Dumi Mkokstad</a>",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot_HNbA>Solly Moholo</a>",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -4007,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "Sidumisa Wena (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/3hK5itgu7a8OKdLu2kzNWh"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450720,
+      "name": "Sidumisa Wena (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/4epVuj4ZLMusxeWD8qJll9"
+    },
+    {
+      "album": {
         "name": "Andijiki",
         "url": "https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF"
       },
@@ -5674,6 +5692,24 @@
       "duration_ms": 240640,
       "name": "Wozani Zindlamafa",
       "url": "https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e"
+    },
+    {
+      "album": {
+        "name": "Wubani O zo Pepeza",
+        "url": "https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm"
+      },
+      "artists": [
+        {
+          "name": "Solly Moholo",
+          "url": "https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290957,
+      "name": "Wubani O zo Pepeza",
+      "url": "https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy"
     },
     {
       "album": {

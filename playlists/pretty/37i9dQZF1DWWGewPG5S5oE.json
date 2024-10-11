@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c71\u4e2d\u5343\u5c0b",
-  "num_followers": 39072,
+  "num_followers": 39097,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 231722,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
+        "name": "Un Poco Loco",
+        "url": "https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
         "name": "Take the S Line",
         "url": "https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "Un Poco Loco",
-        "url": "https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "Un Poco Loco",
-      "url": "https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "Lifescape",
         "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 307186,
       "name": "Kobune",
       "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
-        "url": "https://open.spotify.com/album/2hnk8qCpFHbNlT8Rqg1oLO"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
-      "url": "https://open.spotify.com/track/0tIWLp37QshtVajg2zplo9"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -743,22 +727,18 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "City Creatures",
-        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
+        "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/2hnk8qCpFHbNlT8Rqg1oLO"
       },
       "artists": [
         {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 184670,
-      "name": "City Creatures",
-      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+      "duration_ms": 74000,
+      "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
+      "url": "https://open.spotify.com/track/0tIWLp37QshtVajg2zplo9"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -775,6 +755,26 @@
       "duration_ms": 277840,
       "name": "\u77f3\u306e\u6559\u4f1a",
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "City Creatures",
+        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "City Creatures",
+      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
     },
     {
       "added_at": "2024-10-08 15:00:00",

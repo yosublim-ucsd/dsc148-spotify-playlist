@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Bass Up (feat. 666)",
+        "url": "https://open.spotify.com/album/7fkdNKHZsd6Z95RFrm5E97"
+      },
+      "artists": [
+        {
+          "name": "RADAR",
+          "url": "https://open.spotify.com/artist/2vSWW48mOUHkwqWZSPgcM2"
+        },
+        {
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185843,
+      "name": "Bass Up (feat. 666)",
+      "url": "https://open.spotify.com/track/07JmyNE5PImUiiqQqa2Bk5"
+    },
+    {
+      "album": {
         "name": "BEEZ IN THE TRAP",
         "url": "https://open.spotify.com/album/5j79Xb6tUJe2FV5T3fhaHu"
       },
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 144705,
       "name": "Da Beat Goes",
       "url": "https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi"
@@ -2199,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Feeling Gold",
+        "url": "https://open.spotify.com/album/4rwLTbGy5VDJXVzwfGBO1K"
+      },
+      "artists": [
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244968,
+      "name": "Feeling Gold",
+      "url": "https://open.spotify.com/track/6JdUDhDszeEpzTuRVKKn0g"
+    },
+    {
+      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/7IiP9ggy5PCKjfpTFIkWGx"
       },
@@ -2326,7 +2366,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 138000,
       "name": "Freak",
       "url": "https://open.spotify.com/track/4lDNvFbQ00saZ7UhCbqFBD"
@@ -2344,7 +2384,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 236916,
       "name": "Fuerteventura Forever",
       "url": "https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B"
@@ -2606,7 +2646,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 164129,
       "name": "Handbrake",
       "url": "https://open.spotify.com/track/5lJKkE4D9KjKk5tS22tZvJ"
@@ -2957,6 +2997,32 @@
     },
     {
       "album": {
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167861,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt"
+    },
+    {
+      "album": {
         "name": "Digital Chaos",
         "url": "https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA"
       },
@@ -3074,7 +3140,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 164295,
       "name": "Immer wenn du fehlst",
       "url": "https://open.spotify.com/track/1pLRmnVMAz4br5qJThj1vO"
@@ -3500,7 +3566,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "La Batteria",
       "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
@@ -3566,6 +3632,28 @@
       "duration_ms": 418003,
       "name": "Leave it to the vibe",
       "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190541,
+      "name": "Left On Read",
+      "url": "https://open.spotify.com/track/6KNrgoXljii0isy9i7JaqP"
     },
     {
       "album": {
@@ -4115,6 +4203,28 @@
     },
     {
       "album": {
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5"
+    },
+    {
+      "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
       },
@@ -4404,6 +4514,24 @@
       "duration_ms": 249250,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O"
+    },
+    {
+      "album": {
+        "name": "New Phone Who Dis?",
+        "url": "https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "New Phone Who Dis?",
+      "url": "https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF"
     },
     {
       "album": {
@@ -5316,7 +5444,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 186486,
       "name": "Rock This Party",
       "url": "https://open.spotify.com/track/04YwTLxHSH0baL7p0z1yfw"
@@ -5528,7 +5656,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 165293,
       "name": "Schreien! - Turbo Remix",
       "url": "https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6"
@@ -5858,7 +5986,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 173250,
       "name": "Survive It",
       "url": "https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA"
@@ -6080,10 +6208,28 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 211983,
       "name": "The Muter Flash - (Radio Edit)",
       "url": "https://open.spotify.com/track/6CvMZDG5jL2oXkgp3e1Cfv"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/6ejImNwZ4g3RO5v2OgpTtd"
+      },
+      "artists": [
+        {
+          "name": "AJAK",
+          "url": "https://open.spotify.com/artist/50nKV8xOVqawhrJM71dwmf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208869,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/3YUjRipga4xHkoQe01kkBb"
     },
     {
       "album": {
@@ -6318,6 +6464,24 @@
       "duration_ms": 231332,
       "name": "Traurig",
       "url": "https://open.spotify.com/track/6TsiuH7lYexOoq4xJKsOaj"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4nen stillen keinen Durst",
+        "url": "https://open.spotify.com/album/4izpDFkufU4Y6OW89a0sbu"
+      },
+      "artists": [
+        {
+          "name": "Kalte Liebe",
+          "url": "https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Tr\u00e4nen stillen keinen Durst",
+      "url": "https://open.spotify.com/track/06cX1gmzT8uBgPD5eYY3fJ"
     },
     {
       "album": {
@@ -6602,7 +6766,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 173083,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
@@ -6624,6 +6788,24 @@
       "duration_ms": 188907,
       "name": "Wegen Dir",
       "url": "https://open.spotify.com/track/6kKoiRER3E74UgJDAI4C6N"
+    },
+    {
+      "album": {
+        "name": "The Legend Of The Princess",
+        "url": "https://open.spotify.com/album/3rZWPwpMPvUOfOsLRBRQvM"
+      },
+      "artists": [
+        {
+          "name": "DJ Europarking",
+          "url": "https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "What Is What",
+      "url": "https://open.spotify.com/track/7r4NTF1qfJ8EwHA6T3qUeB"
     },
     {
       "album": {

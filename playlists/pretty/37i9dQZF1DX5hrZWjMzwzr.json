@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10202,
+  "num_followers": 10201,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "M\u0141ODY PADEREWSKI",
-        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "M\u0141ODY PADEREWSKI",
-      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "TRZEBA MIE\u0106",
         "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
       },
@@ -667,26 +651,18 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Uzi",
-        "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
+        "name": "M\u0141ODY PADEREWSKI",
+        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
       },
       "artists": [
         {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
         }
       ],
-      "duration_ms": 175518,
-      "name": "Uzi",
-      "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
+      "duration_ms": 130285,
+      "name": "M\u0141ODY PADEREWSKI",
+      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -711,6 +687,30 @@
       "duration_ms": 179638,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Uzi",
+        "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 175518,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -775,6 +775,46 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Inny \u015awiat",
+        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
+      },
+      "artists": [
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wowo",
+          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Inny \u015awiat",
+      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "E- PUSIA",
+        "url": "https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV"
+      },
+      "artists": [
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 166038,
+      "name": "W GOR\u0104CEJ WODZIE COMPANY",
+      "url": "https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -815,46 +855,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Inny \u015awiat",
-        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
-      },
-      "artists": [
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Wowo",
-          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Inny \u015awiat",
-      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "E- PUSIA",
-        "url": "https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV"
-      },
-      "artists": [
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 166038,
-      "name": "W GOR\u0104CEJ WODZIE COMPANY",
-      "url": "https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Czarne czy Czerwone",
-        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
-      },
-      "artists": [
-        {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
-        },
-        {
-          "name": "E V",
-          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Czarne czy Czerwone",
-      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "KOMBINATORYKA",
         "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 216000,
       "name": "Przekaz",
       "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Czarne czy Czerwone",
+        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+      },
+      "artists": [
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "E V",
+          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Czarne czy Czerwone",
+      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Jak \u017cy\u0107 w WWA?",
+        "url": "https://open.spotify.com/album/6sC1BbgI21pm7ebNQExVWt"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "APmg",
+          "url": "https://open.spotify.com/artist/2HqnOWXqkHUlN5JuY7qEWq"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Jak \u017cy\u0107 w WWA?",
+      "url": "https://open.spotify.com/track/5MnvdapEzYt5yWfpQHbhcL"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "GM2L Mixtape",
         "url": "https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 134693,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/7pnSBvGTjOHRDPgojNKXNu"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Jak \u017cy\u0107 w WWA?",
-        "url": "https://open.spotify.com/album/6sC1BbgI21pm7ebNQExVWt"
-      },
-      "artists": [
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "APmg",
-          "url": "https://open.spotify.com/artist/2HqnOWXqkHUlN5JuY7qEWq"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Jak \u017cy\u0107 w WWA?",
-      "url": "https://open.spotify.com/track/5MnvdapEzYt5yWfpQHbhcL"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Na jedna karte",
-        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "Na jedna karte",
-      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 zawsze jest",
         "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 185250,
       "name": "setki dr\u00f3g",
       "url": "https://open.spotify.com/track/4K4pptEdHvnQ4JBU8PAYJp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Na jedna karte",
+        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "Na jedna karte",
+      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "TEN HIP HOP",
+        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
+      },
+      "artists": [
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        }
+      ],
+      "duration_ms": 165966,
+      "name": "TEN HIP HOP",
+      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mamy ci\u0119\u017cko",
         "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 158181,
       "name": "Mamy ci\u0119\u017cko",
       "url": "https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "TEN HIP HOP",
-        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
-      },
-      "artists": [
-        {
-          "name": "TEDE",
-          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
-        },
-        {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        }
-      ],
-      "duration_ms": 165966,
-      "name": "TEN HIP HOP",
-      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
     },
     {
       "added_at": "2024-02-27 08:21:33",

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Speak in Tongues",
+        "url": "https://open.spotify.com/album/7kBvEAyU78SCJvNMCFTh3B"
+      },
+      "artists": [
+        {
+          "name": "Fixation",
+          "url": "https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263080,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7bsWeMsVacIVzNLeiJSDBV"
+    },
+    {
+      "album": {
         "name": "LoveCop",
         "url": "https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 259626,
       "name": "Come To Brazil",
       "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
@@ -1732,6 +1750,24 @@
       "duration_ms": 162665,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg"
+    },
+    {
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "album": {

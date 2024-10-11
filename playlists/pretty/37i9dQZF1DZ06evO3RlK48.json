@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 15138,
+  "num_followers": 15157,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAAASd3+sfOp4lTKTW68SBFPg",
+  "snapshot_id": "ZwXHgAAAAACJhT1Vkqm9avBI5YFqcH6x",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
       "duration_ms": 188369,
       "name": "Empathy - MUNA Remix",
       "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Myself (MUNA Remix)",
-        "url": "https://open.spotify.com/album/2H6mRDnIJw7cpXSeSdC9XY"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 189793,
-      "name": "With Myself - MUNA Remix",
-      "url": "https://open.spotify.com/track/1e2HAlEuK8NAEYwXbr1BAO"
     }
   ],
   "unique_name": "This Is MUNA",

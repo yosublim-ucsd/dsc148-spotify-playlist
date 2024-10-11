@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : GS
+> Le meilleur du rap français version cloud\. Photo : JaySoCold
 
-430 songs - 21 hr 2 min
+433 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [2ECOND](https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW) | [Rodrigo](https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy), [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [ÉTERNEL SECOND](https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj) | 4:16 | 2024-04-11 | 2024-06-01 |
 | [2NIGHT](https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [2NIGHT](https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O) | 2:00 | 2024-10-03 |  |
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
-| [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 |  |
+| [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 | 2024-10-11 |
 | [7](https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [7](https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw) | 2:41 | 2024-02-01 | 2024-06-01 |
 | [7DUMATIN](https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Reset/Start](https://open.spotify.com/album/5esIkU96v4JHvpNGqprjQo) | 2:40 | 2023-04-27 | 2023-09-08 |
 | [A perte](https://open.spotify.com/track/5wmyF6drfu8jkNZ0JPNvKZ) | [Billi](https://open.spotify.com/artist/4c0fM3fOFU8S3xM2JzGq88) | [A perte](https://open.spotify.com/album/79CEfpo0U9HpHpJn56B4mK) | 3:12 | 2024-09-26 |  |
@@ -144,6 +144,7 @@
 | [Fall in love](https://open.spotify.com/track/5LTHUMgaJp001MAKlotwr9) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [L'inconnue d'en face](https://open.spotify.com/album/0w6oQvHWjelePItuPAjIOD) | 2:43 | 2023-04-27 | 2023-05-26 |
 | [Fantôme](https://open.spotify.com/track/1bKWOseEU3s1CytXqsKVgQ) | [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [Rosa Nera](https://open.spotify.com/album/2XKWzcLBAFZREXmcvlMNb7) | 3:39 | 2023-03-02 | 2023-04-14 |
 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 | 2022-11-17 | 2023-01-20 |
+| [FAST LIFE](https://open.spotify.com/track/1lXpuN0QfupyovgfJPgSsz) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [BLESSED](https://open.spotify.com/album/3egy1qJcCXdsTLPqXOYcgL) | 2:27 | 2024-10-10 |  |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 | 2022-11-18 |
 | [FENÊTRE](https://open.spotify.com/track/68bIdxaAgmJDdFBfhj9LiX) | [Gatchete](https://open.spotify.com/artist/5a2rrj294lEVKNCLQqTlOk) | [FENÊTRE](https://open.spotify.com/album/0t29DQagdu2t3o8e7sjZu2) | 2:24 | 2023-02-23 | 2023-04-07 |
 | [FIHA KHEIR](https://open.spotify.com/track/0DXm4GoWvFM7xz8G6fUGRB) | [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [THE RAIN NEVER LIES](https://open.spotify.com/album/2qodXMzOJbhSsDRzh9SkEG) | 3:00 | 2024-03-28 | 2024-05-24 |
@@ -211,6 +212,7 @@
 | [Juste un moment](https://open.spotify.com/track/4ysL8o0IjoUpby6XslUy4n) | [Donguti](https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf) | [Désolé pour mes doutes](https://open.spotify.com/album/2DnYN2DMzgHVzAfV2OsSTu) | 3:03 | 2024-05-02 | 2024-06-28 |
 | [Katrina](https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Katrina](https://open.spotify.com/album/3pIirpXIcZFjNh3FKeMYny) | 3:04 | 2024-06-27 | 2024-10-04 |
 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 | 2024-01-19 |
+| [KISAME](https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [KISAME](https://open.spotify.com/album/0boS7L678ymaQI47fJWul6) | 3:31 | 2024-10-10 |  |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'Audacieuse](https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [L'Audacieuse](https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6) | 2:34 | 2023-10-26 | 2023-12-01 |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
@@ -223,11 +225,12 @@
 | [LA MAIN SUR LE COEUR](https://open.spotify.com/track/4ov5a5J11JtqmqVxT652ox) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2) | [LA MAIN SUR LE COEUR](https://open.spotify.com/album/2RzJrWCoHC3NHqtAdunKsK) | 2:38 | 2024-09-12 |  |
 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 |  |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
-| [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 |  |
+| [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 | 2024-10-11 |
 | [LA VIE EN ROSE](https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [LA VIE EN ROSE](https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ) | 3:00 | 2023-08-24 | 2023-11-24 |
 | [La Villa](https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4) | [Rouge Carmin](https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS) | [La Villa](https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54) | 2:26 | 2023-05-18 | 2023-06-23 |
 | [La vérité](https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [La vérité](https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc) | 2:20 | 2024-09-26 |  |
 | [LAISSE](https://open.spotify.com/track/71ZFzJ4Hc1OSnIZZ2tsX50) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [LAISSE](https://open.spotify.com/album/0Y0vM2ITnQXTjWzfY9Z9oA) | 2:44 | 2023-05-25 | 2023-09-08 |
+| [Laisse tomber](https://open.spotify.com/track/2nHl8cd6sfEAAm0tV7jqAP) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw) | [Personne n'est spécial](https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh) | 3:29 | 2024-10-10 |  |
 | [Larmes](https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Larmes](https://open.spotify.com/album/1YGUXrZ9U4pLtke6ZQPVW1) | 3:42 | 2023-04-20 | 2023-05-16 |
 | [LE GO](https://open.spotify.com/track/1NQa6P3uWrx9LySoktgFPP) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [LE GO](https://open.spotify.com/album/3zZcih5osXWdKD3leqfsZy) | 2:41 | 2023-09-28 | 2023-11-17 |
 | [Le jour se lève](https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [Le jour se lève](https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd) | 2:36 | 2023-06-15 | 2023-10-13 |
@@ -385,7 +388,7 @@
 | [SINCÈREMENT](https://open.spotify.com/track/13hCmkcW61DsnePHeXRbhg) | [PHLP](https://open.spotify.com/artist/14UW64obRS8GNXHzbRK9DL) | [SINCÈREMENT](https://open.spotify.com/album/3XkUXrkXr9nx6WrUSfbvBx) | 2:02 | 2024-06-20 | 2024-09-27 |
 | [SITCOM](https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL) | [S4Y](https://open.spotify.com/artist/730brklpRJyEsMwAd4mQRp) | [SITCOM](https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY) | 2:13 | 2023-11-16 | 2024-01-12 |
 | [SKYLER](https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [SKYLER](https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u) | 3:17 | 2022-12-01 | 2023-03-25 |
-| [SLIZZY SLANG](https://open.spotify.com/track/06CHWwFuSe5eTLK4CK4QIb) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [SLIZZY SLANG](https://open.spotify.com/album/7IPWRcnMDV8n1if7g000gk) | 2:31 | 2024-08-29 |  |
+| [SLIZZY SLANG](https://open.spotify.com/track/06CHWwFuSe5eTLK4CK4QIb) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [SLIZZY SLANG](https://open.spotify.com/album/7IPWRcnMDV8n1if7g000gk) | 2:31 | 2024-08-29 | 2024-10-11 |
 | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL) | 3:07 | 2022-12-08 | 2023-03-18 |
 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [PUSH & GIO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [LETS GO](https://open.spotify.com/artist/0slvOa2y1TVxMkb7H1iasz) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 | 2023-05-18 | 2023-10-20 |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-08-11 | 2023-08-11 |

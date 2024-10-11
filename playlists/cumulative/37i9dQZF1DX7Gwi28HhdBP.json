@@ -3531,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0647\u064a\u0628\u0647 \u0648\u0627\u0644\u0645\u0639\u0644\u0645\u0647",
+        "url": "https://open.spotify.com/album/0HDv4GxxBzxQjpE3Mn1zyt"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        },
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323422,
+      "name": "\u0627\u0644\u0647\u064a\u0628\u0647 \u0648\u0627\u0644\u0645\u0639\u0644\u0645\u0647",
+      "url": "https://open.spotify.com/track/4ZBU2xMc5mS9Xcd0KhFRNg"
+    },
+    {
+      "album": {
         "name": "\u0627\u0645\u0627\u0646\u0647",
         "url": "https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW"
       },
@@ -4780,7 +4802,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 369423,
       "name": "\u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0643\u0631\u0627\u0633\u0649",
       "url": "https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct"

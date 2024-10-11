@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa The 69 Eyes.
+> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa Linkin Park.
 
-104 songs - 6 hr 53 min
+106 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 | 2024-09-11 |  |
 | [Aztec Death Whistle](https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Aztec Death Whistle](https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg) | 3:19 | 2024-09-11 | 2024-09-20 |
 | [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-09-11 |  |
-| [Behind the Lie](https://open.spotify.com/track/1VSSV0LoA60hM1qPTcUbcI) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Behind the Lie](https://open.spotify.com/album/5JhgNBNcmHrXSo7Ebf0WE2) | 5:01 | 2024-09-11 |  |
+| [Behind the Lie](https://open.spotify.com/track/1VSSV0LoA60hM1qPTcUbcI) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Behind the Lie](https://open.spotify.com/album/5JhgNBNcmHrXSo7Ebf0WE2) | 5:01 | 2024-09-11 | 2024-10-11 |
 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 | 2024-09-11 |  |
 | [Bimbo](https://open.spotify.com/track/4GTm2tz9bKG9AbpvyzTZqy) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [Bimbo](https://open.spotify.com/album/5AJAJ8IsUsGNnVb70NM3Rc) | 3:34 | 2024-09-26 |  |
 | [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 |  |
@@ -67,6 +67,7 @@
 | [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 |  |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 |  |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 |  |
+| [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 |  |
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-09-11 |  |
 | [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-09-11 |  |
 | [Outer Dimensions](https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:05 | 2024-09-11 |  |
@@ -106,6 +107,7 @@
 | [We Got the Moves](https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [We Got the Moves](https://open.spotify.com/album/3DlJt0IZ2E2YHTdyP9napb) | 3:26 | 2024-09-11 |  |
 | [What Do I Got To Lose?](https://open.spotify.com/track/7HeDgIOQpnJuOaKJsIMI31) | [Sebastian Bach](https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV) | [What Do I Got To Lose?](https://open.spotify.com/album/2TLNf2GCQLk0gjqfMcHT9f) | 4:48 | 2024-09-11 |  |
 | [What I Have Become](https://open.spotify.com/track/11BSRsy1sAYhtzOCpvBGxj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [What I Have Become](https://open.spotify.com/album/4aLY17EugVDeUkvUqLrTd7) | 4:06 | 2024-09-11 | 2024-09-20 |
+| [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 | 2024-10-10 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2024-09-11 |  |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/track/0QbaBnjzFD03RergddLUa9) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/album/28Qw38KEEIzBwjfA3FHfd7) | 4:30 | 2024-09-11 | 2024-09-13 |

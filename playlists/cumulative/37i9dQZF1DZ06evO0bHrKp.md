@@ -2,7 +2,7 @@
 
 ### [This Is Sum 41](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bHrKp)
 
-> This is Sum 41\. The essential tracks, all in one playlist.
+> This is Sum 41\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 76 songs - 4 hr 5 min
 

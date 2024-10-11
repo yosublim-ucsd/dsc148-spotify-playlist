@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Vivo Luna Park, Pt. 1",
+        "url": "https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Desaparecer - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
+    },
+    {
+      "album": {
         "name": "Vivo Cosqu\u00edn Rock",
         "url": "https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR"
       },
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 225426,
       "name": "Julieta - Vivo Mosc\u00fa",
       "url": "https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx"
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 311014,
       "name": "Ni Mierda - Vivo En Obras",
       "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
@@ -4741,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Airbag - En Vivo Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
+    },
+    {
+      "album": {
         "name": "Por Mil Noches (En Vivo)",
         "url": "https://open.spotify.com/album/1OSrYHj95HX9relLWTvp7d"
       },
@@ -4752,7 +4788,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 303857,
       "name": "Por Mil Noches - En Vivo",
       "url": "https://open.spotify.com/track/6TggFUAsxDQXxqd9qTUKF5"
@@ -5374,6 +5410,24 @@
       "duration_ms": 267044,
       "name": "Solo - En Vivo",
       "url": "https://open.spotify.com/track/1jWR7BjkDfuZ8pYI5XsspE"
+    },
+    {
+      "album": {
+        "name": "Solo Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Solo Aqui - En Vivo",
+      "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
     },
     {
       "album": {

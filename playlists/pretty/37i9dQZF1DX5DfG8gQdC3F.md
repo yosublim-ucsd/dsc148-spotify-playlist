@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Coldplay, Caribou, Jonah Yano, FINNEAS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,709 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,721 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Keep Going \(And Don't Forget\)](https://open.spotify.com/track/0L91LicotwTmW73OtnSBWy) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [14KT](https://open.spotify.com/artist/5S8L0diSZfnelH2OH2VVIf) | [Reel Speakers](https://open.spotify.com/album/42BW56jChd7zVwviXD5VTg) | 2:37 |
 | 80 | [CROSSFIRE](https://open.spotify.com/track/4rvtB6yyDoaBAPgZKCDtNM) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [THE SUN, THE MOON AND THE BIG MACHINE](https://open.spotify.com/album/5qFHOhuR64kspZz2x05LHv) | 3:01 |
 | 81 | [protection](https://open.spotify.com/track/39B5kpkPKEhQ0sGB5ssRDf) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [XO SKELETON +](https://open.spotify.com/album/3UOSFPxuDICc10Xcicq59q) | 3:29 |
-| 82 | [Sombody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Sombody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 |
+| 82 | [Somebody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Somebody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 |
 | 83 | [Whiskey For Sale](https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Whiskey For Sale](https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG) | 3:11 |
 | 84 | [STRICTLY FOR MY SHORTY](https://open.spotify.com/track/6ozfsoNlcP11SqY4tEVtl8) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [DEARLY LOVED: EL CARIÑO \(Deluxe\)](https://open.spotify.com/album/1tN3mEL5qYKT3mh2WW2Tpw) | 2:01 |
 | 85 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 |

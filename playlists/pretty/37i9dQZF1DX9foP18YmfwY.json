@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 335274,
+  "num_followers": 335360,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -863,42 +879,18 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+        "name": "To Indo Embora (Fam\u00edlia \u00c9 Tudo Igual)",
+        "url": "https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Padre Alessandro Campos",
+          "url": "https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS"
         }
       ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
-        "name": "Pequeno Rei",
-        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 293210,
-      "name": "Emanuel, Eu Te Adoro",
-      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
+      "duration_ms": 191576,
+      "name": "To Indo Embora - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
+      "url": "https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -943,6 +935,50 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
+        "name": "Pequeno Rei",
+        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 293210,
+      "name": "Emanuel, Eu Te Adoro",
+      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "Mensagens e Can\u00e7\u00f5es Que Transformam Vidas",
+        "url": "https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Jorge",
+          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
+        },
+        {
+          "name": "Miss\u00e3o Mensagem Brasil",
+          "url": "https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Fa\u00e7o Novas Todas As Coisas",
+      "url": "https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -979,26 +1015,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "Mensagens e Can\u00e7\u00f5es Que Transformam Vidas",
-        "url": "https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Jorge",
-          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
-        },
-        {
-          "name": "Miss\u00e3o Mensagem Brasil",
-          "url": "https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Fa\u00e7o Novas Todas As Coisas",
-      "url": "https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "Maior do Que a Vida",
         "url": "https://open.spotify.com/album/61Asls8mBChyPHD5lPzvdu"
       },
@@ -1011,42 +1027,6 @@
       "duration_ms": 260209,
       "name": "Maior do Que a Vida",
       "url": "https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
-        "name": "Romanos 12",
-        "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
-      },
-      "artists": [
-        {
-          "name": "Herrison Pontes",
-          "url": "https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Romanos 12",
-      "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
-        "name": "To Indo Embora (Fam\u00edlia \u00c9 Tudo Igual)",
-        "url": "https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat"
-      },
-      "artists": [
-        {
-          "name": "Padre Alessandro Campos",
-          "url": "https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "To Indo Embora - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
-      "url": "https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 405974,
       "name": "Seremos o Amor",
       "url": "https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "Romanos 12",
+        "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
+      },
+      "artists": [
+        {
+          "name": "Herrison Pontes",
+          "url": "https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Romanos 12",
+      "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
     },
     {
       "added_at": "2024-10-04 03:01:00",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-10-04 03:01:00",
       "album": {
-        "name": "Bom \u00c9 Estarmos Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8"
-      },
-      "artists": [
-        {
-          "name": "Leo Mantovani",
-          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Eduardo Cruz",
-          "url": "https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5"
-        }
-      ],
-      "duration_ms": 231219,
-      "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
-    },
-    {
-      "added_at": "2024-10-04 03:01:00",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2024-10-04 03:01:00",
+      "album": {
+        "name": "Bom \u00c9 Estarmos Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8"
+      },
+      "artists": [
+        {
+          "name": "Leo Mantovani",
+          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Eduardo Cruz",
+          "url": "https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5"
+        }
+      ],
+      "duration_ms": 231219,
+      "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
     },
     {
       "added_at": "2024-10-04 03:01:00",

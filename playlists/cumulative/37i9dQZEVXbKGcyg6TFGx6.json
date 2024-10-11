@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
@@ -10368,7 +10368,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 151013,
       "name": "Dead Now",
       "url": "https://open.spotify.com/track/6yoe3RqEVQK6Q2ufcFWGAC"
@@ -14198,7 +14198,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 236230,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
@@ -23746,7 +23746,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -33047,6 +33047,24 @@
     },
     {
       "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/2mISzUHiRsBz38GLU4Wa4C"
+      },
+      "artists": [
+        {
+          "name": "Ta Liebe",
+          "url": "https://open.spotify.com/artist/7i1R0lBOzePk6u7WLKDvpe"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/11qZN1Tr5KD6dSCH3QRthm"
+    },
+    {
+      "album": {
         "name": "Rien",
         "url": "https://open.spotify.com/album/10AW4wqFISRK1x4YXrq5p2"
       },
@@ -39528,7 +39546,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -40690,7 +40708,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 175901,
       "name": "TOKA",
       "url": "https://open.spotify.com/track/1IPHJxo4Y20Rki9beIP1bN"
@@ -43280,7 +43298,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK"

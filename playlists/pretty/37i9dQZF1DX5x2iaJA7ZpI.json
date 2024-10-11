@@ -1,6 +1,6 @@
 {
   "description": "Charli xcx & Troye Sivan present SWEAT",
-  "num_followers": 15240,
+  "num_followers": 15799,
   "original_name": "The SWEAT tour setlist",
   "owner": {
     "name": "Spotify",
@@ -233,7 +233,7 @@
         }
       ],
       "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
+      "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
@@ -282,6 +282,10 @@
         {
           "name": "Lorde",
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
       "duration_ms": 205938,

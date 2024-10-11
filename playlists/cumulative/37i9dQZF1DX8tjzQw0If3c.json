@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Unearthing trailblazers. Cover: Haven",
+  "description": "Unearthing trailblazers. Cover: Josh Makazo",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 196587,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw"
+    },
+    {
+      "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
     },
     {
       "album": {
@@ -855,6 +873,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200638,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q"
+    },
+    {
+      "album": {
         "name": "MAJOR",
         "url": "https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx"
       },
@@ -1320,6 +1356,32 @@
       "duration_ms": 161250,
       "name": "Tap Out!",
       "url": "https://open.spotify.com/track/39ZRrvH3OcU9XBMSC4IgSc"
+    },
+    {
+      "album": {
+        "name": "TELL EM",
+        "url": "https://open.spotify.com/album/3CFNSdoH5e88Qo0iHFD3Vl"
+      },
+      "artists": [
+        {
+          "name": "DISTORTED",
+          "url": "https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby"
+        },
+        {
+          "name": "ASYRAF NASIR",
+          "url": "https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT"
+        },
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253150,
+      "name": "TELL EM",
+      "url": "https://open.spotify.com/track/1P1NtLjQnQdCcBcUh45pJx"
     },
     {
       "album": {

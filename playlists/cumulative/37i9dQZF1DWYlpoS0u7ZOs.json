@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover:  Gurriers",
+  "description": "A new wave of rock music. Cover: Humane The Moon",
   "name": "shockwave",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 217677,
       "name": "97%",
       "url": "https://open.spotify.com/track/3jKEUkS4Gq3PFejGrbMlhK"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "all i know",
+        "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
+      },
+      "artists": [
+        {
+          "name": "glasseyed",
+          "url": "https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "all i know",
+      "url": "https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2"
+    },
+    {
+      "album": {
         "name": "Alpha Beta Sigma",
         "url": "https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 185450,
       "name": "Alpha Beta Sigma",
       "url": "https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb"
@@ -437,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Tightropes and Limericks",
+        "url": "https://open.spotify.com/album/3OiZGdAnVrEzWECXrDtZq7"
+      },
+      "artists": [
+        {
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "AWOL",
+      "url": "https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV"
+    },
+    {
+      "album": {
         "name": "Love, Chaos",
         "url": "https://open.spotify.com/album/0S4XZufmw216AwX0SuPeuB"
       },
@@ -488,6 +524,24 @@
       "duration_ms": 181714,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u"
+    },
+    {
+      "album": {
+        "name": "Back2bed",
+        "url": "https://open.spotify.com/album/1w2jKlJbVynIPpHj8w2oBl"
+      },
+      "artists": [
+        {
+          "name": "Blood Wizard",
+          "url": "https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173583,
+      "name": "Back2bed",
+      "url": "https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D"
     },
     {
       "album": {
@@ -740,6 +794,24 @@
       "duration_ms": 274664,
       "name": "Bleachers Yard",
       "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
+    },
+    {
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289622,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN"
     },
     {
       "album": {
@@ -1121,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Choose Life",
+        "url": "https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq"
+      },
+      "artists": [
+        {
+          "name": "Shark School",
+          "url": "https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF"
+    },
+    {
+      "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
       },
@@ -1215,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Come On Outside",
+        "url": "https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178765,
+      "name": "Come On Outside",
+      "url": "https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6hfaHD2ncymALJD3g1df2c"
       },
@@ -1226,7 +1334,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 142906,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y"
@@ -1568,7 +1676,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 170800,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV"
@@ -2285,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "For The Weekend",
+        "url": "https://open.spotify.com/album/3p9w4qM9HmdRiSQ9lEt5fl"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171709,
+      "name": "For The Weekend",
+      "url": "https://open.spotify.com/track/2q7DmMeGKPyEKqR8RvRvu8"
+    },
+    {
+      "album": {
         "name": "Euphoria, Where Were You?",
         "url": "https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC"
       },
@@ -2527,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Get it Over With",
+        "url": "https://open.spotify.com/album/3UOxjGmftwewh7nt1rYwHV"
+      },
+      "artists": [
+        {
+          "name": "Fred Roberts",
+          "url": "https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181931,
+      "name": "Get it Over With",
+      "url": "https://open.spotify.com/track/5T4HwUbx28TSprcA3L4nsE"
+    },
+    {
+      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -2564,6 +2708,24 @@
       "duration_ms": 162000,
       "name": "Glue",
       "url": "https://open.spotify.com/track/21rQgTvx0rD9kOdFMRGQjC"
+    },
+    {
+      "album": {
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/756HTjlhhotoXjG0egC407"
+      },
+      "artists": [
+        {
+          "name": "Florentenes",
+          "url": "https://open.spotify.com/artist/3ARtFR3uitcSLCVxhnYln0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261278,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB"
     },
     {
       "album": {
@@ -2690,6 +2852,24 @@
       "duration_ms": 292093,
       "name": "Goodbye (So Long, Farewell)",
       "url": "https://open.spotify.com/track/2kU97AkFb1VPK7DLFamIw8"
+    },
+    {
+      "album": {
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/1Z69kdTL473xwnEe8Qa4dm"
+      },
+      "artists": [
+        {
+          "name": "Binmen",
+          "url": "https://open.spotify.com/artist/1IFtNFMII2PUtt6ixvftRb"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Gossip",
+      "url": "https://open.spotify.com/track/7CrDzSEaTaZ4WjizyXSNoI"
     },
     {
       "album": {
@@ -3040,6 +3220,24 @@
       "duration_ms": 183765,
       "name": "Holly",
       "url": "https://open.spotify.com/track/7b22PAJMC8VkuWlailtWU8"
+    },
+    {
+      "album": {
+        "name": "Slap",
+        "url": "https://open.spotify.com/album/6TcvQX6hkQyTnWmRyTht1s"
+      },
+      "artists": [
+        {
+          "name": "congratulations",
+          "url": "https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Hosepipe Ban",
+      "url": "https://open.spotify.com/track/2VoUmo4TPFuyq3vAWPr5na"
     },
     {
       "album": {
@@ -3432,7 +3630,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 178305,
       "name": "Impossible + Strange",
       "url": "https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92"
@@ -3947,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Like Your Man",
+        "url": "https://open.spotify.com/album/3iPTAqc8vHLxv4Ba8093Ro"
+      },
+      "artists": [
+        {
+          "name": "The Fae",
+          "url": "https://open.spotify.com/artist/0AXSYpBS5CTCK8fRsX6T7K"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Like Your Man",
+      "url": "https://open.spotify.com/track/6Ib6NVZGDFY3gkapLHX0Pl"
+    },
+    {
+      "album": {
         "name": "Live Laugh Love",
         "url": "https://open.spotify.com/album/0QpxeNDCvP58iDeOcJIoVK"
       },
@@ -4254,6 +4470,24 @@
       "duration_ms": 195777,
       "name": "MANA",
       "url": "https://open.spotify.com/track/3e8AAXjqnb4tLJWHGao38T"
+    },
+    {
+      "album": {
+        "name": "Sadolescence",
+        "url": "https://open.spotify.com/album/5EzeOqP7qGG2btacCXYS5O"
+      },
+      "artists": [
+        {
+          "name": "Indoor Foxes",
+          "url": "https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297800,
+      "name": "Manic",
+      "url": "https://open.spotify.com/track/5BFgNcqeEnXO1L3nrW0kMV"
     },
     {
       "album": {
@@ -4628,7 +4862,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
@@ -4927,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Devoured by the Mouth of Hell",
+        "url": "https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
+    },
+    {
+      "album": {
         "name": "Our Love Is Growing",
         "url": "https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5"
       },
@@ -5140,7 +5392,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 144387,
       "name": "placebo dreams",
       "url": "https://open.spotify.com/track/3akppgRklUClRW0d08fh8D"
@@ -5302,7 +5554,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 224797,
       "name": "RAINBOWS",
       "url": "https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt"
@@ -6491,6 +6743,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1897oDamebeoSMxQUB6Aba"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164599,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4bVl1QANpKT2KSuHaDCl9S"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Wrong",
         "url": "https://open.spotify.com/album/12SxXpf86LVJYuNqQhkSPx"
       },
@@ -6524,6 +6794,42 @@
       "duration_ms": 161702,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/5XKoMPxmsPtmVnlzwMfsWa"
+    },
+    {
+      "album": {
+        "name": "The Boss",
+        "url": "https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178782,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6"
+    },
+    {
+      "album": {
+        "name": "Debris Joice",
+        "url": "https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225139,
+      "name": "The Curb",
+      "url": "https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2"
     },
     {
       "album": {
@@ -6902,7 +7208,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 224385,
       "name": "Truth\u2606Truth",
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
@@ -7125,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0ZuEJvoBnw8STA9RoGToz7"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202919,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/5i1B4LLrCJmBUCz5oek861"
+    },
+    {
+      "album": {
         "name": "Way, No Way",
         "url": "https://open.spotify.com/album/272UlvmzxL0Z6If8reDTrs"
       },
@@ -7316,7 +7640,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 232363,
       "name": "When I Had Hope, I Had It All",
       "url": "https://open.spotify.com/track/1Fw8VCVNNmbwJAR76dlCrS"
@@ -7377,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "white knuckles",
+        "url": "https://open.spotify.com/album/7kwRJAcFWvJ6rCSVEPP18d"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221591,
+      "name": "white knuckles",
+      "url": "https://open.spotify.com/track/5cIGVczqgwq9JKB2MfgyUU"
+    },
+    {
+      "album": {
         "name": "White Rabbit",
         "url": "https://open.spotify.com/album/0SbeIjE8AtDndPYtsva24g"
       },
@@ -7424,7 +7766,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197560,
       "name": "Why Would I Lie?",
       "url": "https://open.spotify.com/track/6L1xeWUMDZNnaHAaBsi1yg"

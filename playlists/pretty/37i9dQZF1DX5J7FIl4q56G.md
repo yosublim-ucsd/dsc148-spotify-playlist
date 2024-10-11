@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Soilwork
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,892 likes - 53 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,968 likes - 53 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 40 | [Beneath The Veil of Flesh](https://open.spotify.com/track/7iYPXxeH8VPby5d4OeFWxV) | [The Fallen Prophets](https://open.spotify.com/artist/5ZW7xLlj4bsIfjvUpNGEcs) | [Beneath The Veil of Flesh](https://open.spotify.com/album/32dhds9ncK4Jo9rYumrLKC) | 4:31 |
 | 41 | [Yearnings of A Rotten Spine](https://open.spotify.com/track/313PzvOEJyVuHDDvpot1bR) | [Carnosus](https://open.spotify.com/artist/6lm2Urs3F29cmTREX2LZPO) | [Yearnings of A Rotten Spine](https://open.spotify.com/album/2NOXvEbUjfUdIyEqmVGfM1) | 3:33 |
 | 42 | [Higher](https://open.spotify.com/track/11MWBas8o5Xg7R5DGLYnGR) | [Innerwish](https://open.spotify.com/artist/3n2dDAtQ8u71AlBfs44ZC9) | [Higher](https://open.spotify.com/album/0HfVupjCnVPa4wJeetamLd) | 4:50 |
-| 43 | [The Obvious Play](https://open.spotify.com/track/1lOCYC8ljy7ZmqTH4I96g4) | [Sol Invicto](https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv), [Cypress Hill](https://open.spotify.com/artist/1LP6WR1aL9FOTKsZECs5RD), [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w), [Stephen Carpenter \(of Deftones\)](https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs), [Technical Itch](https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ), [Richie Londres](https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj), [Plague To Pyres](https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo) | [The Obvious Play](https://open.spotify.com/album/6OpcBjPC6YLhJEwK2XVpze) | 3:41 |
+| 43 | [The Obvious Play](https://open.spotify.com/track/1lOCYC8ljy7ZmqTH4I96g4) | [Sol Invicto](https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w), [Stephen Carpenter \(of Deftones\)](https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs), [Technical Itch](https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ), [Richie Londres](https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj), [Plague To Pyres](https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo) | [The Obvious Play](https://open.spotify.com/album/6OpcBjPC6YLhJEwK2XVpze) | 3:41 |
 | 44 | [Carry On](https://open.spotify.com/track/7gNuBFGP6geilvs6YiK5hV) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Carry On](https://open.spotify.com/album/10MRW8o5gdh6eESNEFMVAI) | 4:09 |
 | 45 | [Felsensang](https://open.spotify.com/track/4eVw6qRavJL5tGavsWMfMQ) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Felsensang](https://open.spotify.com/album/6OFpcmWCYPGc3CfTgEPJ0o) | 6:16 |
 | 46 | [FAITHFUL TO MY DEMONS](https://open.spotify.com/track/4hYqmNM3zZV1jtrto3coQP) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [FAITHFUL TO MY DEMONS](https://open.spotify.com/album/5lwugwT5caA2gTpE525AHZ) | 3:56 |

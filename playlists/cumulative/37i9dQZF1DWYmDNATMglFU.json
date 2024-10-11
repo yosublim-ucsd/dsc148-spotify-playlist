@@ -5143,6 +5143,28 @@
     },
     {
       "album": {
+        "name": "Final Nail",
+        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150404,
+      "name": "Final Nail",
+      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
+    },
+    {
+      "album": {
         "name": "Flames (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH"
       },
@@ -6214,6 +6236,24 @@
       "duration_ms": 123538,
       "name": "have u got a light?",
       "url": "https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW"
+    },
+    {
+      "album": {
+        "name": "HEADCASE",
+        "url": "https://open.spotify.com/album/50VUBEb1u98rlHBU7j9PaL"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201179,
+      "name": "HEADCASE",
+      "url": "https://open.spotify.com/track/4zaaH9aJmN4TRntzWuUWee"
     },
     {
       "album": {
@@ -10351,6 +10391,24 @@
     },
     {
       "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
+    },
+    {
+      "album": {
         "name": "NUMB",
         "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
       },
@@ -10698,7 +10756,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 143028,
       "name": "our hill",
       "url": "https://open.spotify.com/track/4OFUdkVHt12w2AJpOOSo05"
@@ -10724,6 +10782,24 @@
       "duration_ms": 168090,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4L8N6rZRLZndXM2djmpfSw"
+    },
+    {
+      "album": {
+        "name": "Out Of My Place",
+        "url": "https://open.spotify.com/album/6FM8y99ZpTHcUXRBwdJiOq"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188922,
+      "name": "Out Of My Place",
+      "url": "https://open.spotify.com/track/5U4Q0Dzr5mjovuAaIsTqmT"
     },
     {
       "album": {
@@ -12008,6 +12084,24 @@
       "duration_ms": 183537,
       "name": "serotonin",
       "url": "https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Sex Drugs Whatever",
+      "url": "https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN"
     },
     {
       "album": {

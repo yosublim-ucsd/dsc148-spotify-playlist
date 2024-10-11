@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem, nationaal in elke taal 🇳🇱
 
-81 songs - 4 hr 14 min
+82 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-27 | 2024-09-20 |
 | [Als Nu Nu Is](https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Als Nu Nu Is](https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9) | 2:54 | 2024-07-22 |  |
 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 | 2024-09-05 |  |
+| [Alsof ik jou ben](https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Alsof ik jou ben](https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6) | 3:05 | 2024-10-10 |  |
 | [Belangrijk](https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Belangrijk](https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt) | 3:54 | 2024-07-22 |  |
 | [Brandende Zee](https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Brandende Zee](https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf) | 3:49 | 2024-06-24 |  |
 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-06-24 | 2024-07-27 |
@@ -20,7 +21,7 @@
 | [Crazy](https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Crazy](https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER) | 3:18 | 2024-06-24 |  |
 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 | 2024-10-03 |  |
 | [Dansen Om Het Vuur](https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Dansen Om Het Vuur](https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF) | 3:10 | 2024-06-24 |  |
-| [diesel](https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [diesel](https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg) | 2:57 | 2024-06-24 |  |
+| [diesel](https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [diesel](https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg) | 2:57 | 2024-06-24 | 2024-10-11 |
 | [Fiasco](https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Fiasco](https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2) | 2:22 | 2024-09-19 |  |
 | [Garden of Eden](https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [By My Side](https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq) | 3:06 | 2024-06-24 |  |
 | [Geef Me Over](https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Geef Me Over](https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2) | 3:26 | 2024-08-29 |  |

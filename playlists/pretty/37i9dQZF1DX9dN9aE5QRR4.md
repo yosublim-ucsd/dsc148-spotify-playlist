@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,421 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,456 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 45 | [Champs\-Élysées](https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [A7](https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4) | 3:45 |
 | 46 | [Ca y est ..\. J'suis là](https://open.spotify.com/track/2ZHu310HcSyHiZz2yz2z5A) | [Kenz](https://open.spotify.com/artist/4VGM96ndosnexzrvC3gI2p) | [Ca y est ..\. J'suis là](https://open.spotify.com/album/5hb8dkyicIx6bgMQHmqkMi) | 2:27 |
 | 47 | [Daddy](https://open.spotify.com/track/1qG77EJYDIgxOTEsUZqNLx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Daddy](https://open.spotify.com/album/7M3SEQCleBaVkwdlogqHbc) | 2:38 |
-| 48 | [HOMEMADE](https://open.spotify.com/track/6E00uxTQsrmtdYTSCx0Yme) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/64gWzun5ti8C2p8gvIrjYc) | 2:55 |
+| 48 | [HOMEMADE](https://open.spotify.com/track/6YeRKlhp8n2NTf7CPAbsfo) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [FULL OPTION](https://open.spotify.com/album/6HCxXceM09SYlK7ATByVWL) | 2:55 |
 | 49 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/0wLG5McOPyKtqBFv8zQVoI) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1) | 3:15 |
 | 50 | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE) | [Elyon](https://open.spotify.com/artist/3VY8rqAcd0Aj6eAJyvmbON) | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/album/4KIIiadeLMb6tvzh27twVy) | 3:39 |
 | 51 | [Parabellum \(Nouvelle École\)](https://open.spotify.com/track/3hcFPs4c7D3impUjYq2l7W) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Parabellum \(Nouvelle École\)](https://open.spotify.com/album/4Kzl1KZmxnxMEOKzW4YZq0) | 2:58 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 55 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
 | 56 | [Yafama \- Nouvelle École](https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH), [Bassey Kone](https://open.spotify.com/artist/041XhEqeFNWddFXmAeAIPp) | [Yafama \- Nouvelle École](https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4) | 3:34 |
 
-Snapshot ID: `Ztop4AAAAADQUkSFjUqAA9a9E00bweA/`
+Snapshot ID: `Zwe5gQAAAACWB5yM9CHEBeDStIXVP/Xd`

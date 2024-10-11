@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Sabanis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+    },
+    {
+      "album": {
+        "name": "Agapi Mou Me Dioxneis",
+        "url": "https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170257,
+      "name": "Agapi Mou Me Dioxneis",
+      "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
     },
     {
       "album": {
@@ -411,6 +429,46 @@
     },
     {
       "album": {
+        "name": "Emeis",
+        "url": "https://open.spotify.com/album/2mzrqsgeLmp1aw9jRTL9Cs"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        },
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254192,
+      "name": "Ela Pali Apopse",
+      "url": "https://open.spotify.com/track/3bTPHtlPOQ7PQbSGB9d0kU"
+    },
+    {
+      "album": {
+        "name": "Eleftheri Ptosi",
+        "url": "https://open.spotify.com/album/3jqGsAXx8AjjzqrAYpa2fo"
+      },
+      "artists": [
+        {
+          "name": "Panos Kalidis",
+          "url": "https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Eleftheri Ptosi",
+      "url": "https://open.spotify.com/track/1H0kDa1Cm7NdL6kwEd5j0K"
+    },
+    {
+      "album": {
         "name": "Evaisthisies",
         "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
       },
@@ -430,7 +488,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 240000,
       "name": "Evaisthisies",
       "url": "https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW"
@@ -602,7 +660,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 232000,
       "name": "I Gynaika Pou Agapaei",
       "url": "https://open.spotify.com/track/3ScLAuuzL6RGISttGvuo3D"
@@ -646,6 +704,24 @@
       "duration_ms": 199285,
       "name": "Kapios San Esena",
       "url": "https://open.spotify.com/track/2HDxzXnUO5PdzsV7iSbRWL"
+    },
+    {
+      "album": {
+        "name": "Kathestos",
+        "url": "https://open.spotify.com/album/2O6Hd21LRn99WJmuiVzXiV"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Karras",
+          "url": "https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Kathestos",
+      "url": "https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z"
     },
     {
       "album": {
@@ -830,7 +906,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 227893,
       "name": "O Hartis",
       "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
@@ -1035,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Psixi Me Psixi",
+        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261117,
+      "name": "Psixi Me Psixi",
+      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "album": {
         "name": "Pyrkagia",
         "url": "https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn"
       },
@@ -1216,7 +1310,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 198425,
       "name": "Sou Eho Agapi Megali",
       "url": "https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2"
@@ -1328,7 +1422,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 252428,
       "name": "Thalasses",
       "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"

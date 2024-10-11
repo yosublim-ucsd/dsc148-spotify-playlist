@@ -4,7 +4,7 @@
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-634 songs - 1 day 12 hr 45 min
+635 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Door](https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Door](https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE) | 5:22 | 2019-06-26 | 2022-07-29 |
 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 | 2021-06-07 | 2023-01-14 |
 | [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2022-04-14 | 2022-04-29 |
+| [Dramamine](https://open.spotify.com/track/1h0vtVWW5INmO7WWJmW3OB) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Dramamine / Fragility](https://open.spotify.com/album/2Lnyu0gfmU0sq1kMaWJuya) | 3:25 | 2024-10-10 |  |
 | [DREAD/TKOE \- ALASKALASKA Remix](https://open.spotify.com/track/757G9ylgcnkdYfZphNXqZo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx), [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [DREAD/TKOE \(ALASKALASKA Remix\)](https://open.spotify.com/album/3F4h5peaLQaW2dJjWIeNco) | 5:26 | 2022-08-19 | 2022-10-14 |
 | [Dream](https://open.spotify.com/track/2zGIkOiBbu2CiRYA4TIx7D) | [Friend of a Friend](https://open.spotify.com/artist/42umgGQd1MziaOHQfGOmaP) | [In Arms](https://open.spotify.com/album/048TCEC1wmw4TUHsJNEZtl) | 3:48 | 2022-09-29 | 2022-10-05 |
 | [Dream About You](https://open.spotify.com/track/0HrQUJIhZ8vXxuiAGCM9iF) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:04 | 2023-09-29 | 2024-04-19 |
@@ -198,7 +199,7 @@
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-10-14 |
 | [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 | 2023-05-12 |  |
-| [Fragility](https://open.spotify.com/track/7apTlYqAJnvxoJHv0CrDme) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Dramamine / Fragility](https://open.spotify.com/album/5HzThDTTRHK27nIpP3HW6Z) | 2:57 | 2024-05-10 |  |
+| [Fragility](https://open.spotify.com/track/7apTlYqAJnvxoJHv0CrDme) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Dramamine / Fragility](https://open.spotify.com/album/5HzThDTTRHK27nIpP3HW6Z) | 2:57 | 2024-05-10 | 2024-10-11 |
 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 | 2022-10-08 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 | 2024-02-24 |
 | [Frowning Friends](https://open.spotify.com/track/6EuFq2sY7h2KgF9ip5tmqR) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Frowning Friends](https://open.spotify.com/album/0RGkOLkr7Bap09GdvesEWV) | 2:10 | 2023-05-12 | 2024-01-13 |

@@ -1,6 +1,6 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 101878,
+  "num_followers": 101928,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,22 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Gone to Texas",
-        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
+      "duration_ms": 271133,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

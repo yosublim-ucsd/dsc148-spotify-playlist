@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "ANDIRANS",
+        "url": "https://open.spotify.com/album/7io0T8GtFc0aA6WvhZGwzQ"
+      },
+      "artists": [
+        {
+          "name": "Kevni",
+          "url": "https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138394,
+      "name": "ANDIRANS",
+      "url": "https://open.spotify.com/track/6a05xZZ1ezAEJnE0H0vG3Z"
+    },
+    {
+      "album": {
         "name": "Lucidity",
         "url": "https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h"
       },
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 165962,
       "name": "Bruk Up",
       "url": "https://open.spotify.com/track/6HtI4ZekFzDre5JW0nJo1H"
@@ -3701,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/4ufbGNZeu8FpVeErC3IaCG"
       },
@@ -5532,7 +5572,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 170322,
       "name": "Mon combat",
       "url": "https://open.spotify.com/track/73laRkwZIP1kcwgOPYoNGG"

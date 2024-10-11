@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Dawid Kwiatkowski",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 146181,
       "name": "100 BPM",
       "url": "https://open.spotify.com/track/3wAulDuaq7hYR0Oc61eMXB"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 138600,
       "name": "B012",
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 139130,
       "name": "BEBECITA",
       "url": "https://open.spotify.com/track/1qDwZiPNwUfIAw7EoaAxw4"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 131250,
       "name": "Chyba \u017ce z Tob\u0105",
       "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 157771,
       "name": "Co ja robi\u0119 tu",
       "url": "https://open.spotify.com/track/1SaUfQNBUXlf6clnOKBrfe"
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "diament",
+        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203434,
+      "name": "diament",
+      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
+    },
+    {
+      "album": {
         "name": "Do gwiazd",
         "url": "https://open.spotify.com/album/06hti0E1fVucZZ0sTD9jMG"
       },
@@ -930,6 +948,24 @@
       "duration_ms": 165040,
       "name": "Dwa Tygodnie",
       "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
+    },
+    {
+      "album": {
+        "name": "DZIEWCZYNA Z PLAKATU",
+        "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159789,
+      "name": "DZIEWCZYNA Z PLAKATU",
+      "url": "https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM"
     },
     {
       "album": {
@@ -1112,6 +1148,28 @@
       "duration_ms": 175562,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB"
+    },
+    {
+      "album": {
+        "name": "HAPI",
+        "url": "https://open.spotify.com/album/4QiBRzQmuzi1fSl9QeMMRQ"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        },
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178539,
+      "name": "HAPI",
+      "url": "https://open.spotify.com/track/4DTYjZ5dWFa39MKY4dv7k8"
     },
     {
       "album": {
@@ -1737,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "BEZ TRZYMANKI",
+        "url": "https://open.spotify.com/album/6cYcT2tNQ0BYGE491z8z8T"
+      },
+      "artists": [
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188622,
+      "name": "Mia\u0142a\u015b tu ze mn\u0105 by\u0107",
+      "url": "https://open.spotify.com/track/1jgfCJsrijrIx8goq1wfl4"
+    },
+    {
+      "album": {
         "name": "milczysz",
         "url": "https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI"
       },
@@ -1980,7 +2056,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
@@ -2153,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Nic Nie Zmieni?",
+        "url": "https://open.spotify.com/album/3R6aVkISx6oCKqqKWsEvlP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210109,
+      "name": "Nic Nie Zmieni?",
+      "url": "https://open.spotify.com/track/4JA0zkwnS5WYHdp8VbvAlD"
+    },
+    {
+      "album": {
         "name": "Nie by\u0142o \u017ale",
         "url": "https://open.spotify.com/album/27pwhbLxg3mslINMEudf6W"
       },
@@ -2186,7 +2280,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 149508,
       "name": "Nie ma Ci\u0119 tu",
       "url": "https://open.spotify.com/track/7gNGlEQQQQMlBILu3BhRuA"
@@ -2270,6 +2364,24 @@
       "duration_ms": 151687,
       "name": "Nie Szkodzi",
       "url": "https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56"
+    },
+    {
+      "album": {
+        "name": "Nie znam tego miejsca",
+        "url": "https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Nie znam tego miejsca",
+      "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
     },
     {
       "album": {
@@ -3130,7 +3242,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 233578,
       "name": "Szum",
       "url": "https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii"
@@ -3218,6 +3330,24 @@
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7"
+    },
+    {
+      "album": {
+        "name": "Tam czeka mnie dom",
+        "url": "https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137898,
+      "name": "Tam czeka mnie dom",
+      "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"
     },
     {
       "album": {
@@ -3724,6 +3854,24 @@
       "duration_ms": 154977,
       "name": "Za Miasto",
       "url": "https://open.spotify.com/track/4PXLCS8HNjWiJARIyv7mhp"
+    },
+    {
+      "album": {
+        "name": "Za r\u0119k\u0119",
+        "url": "https://open.spotify.com/album/4o1pv2gKtxVSaBqw3D1kC9"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Za r\u0119k\u0119",
+      "url": "https://open.spotify.com/track/7cPSgtVt4rwYK634SirtSp"
     },
     {
       "album": {

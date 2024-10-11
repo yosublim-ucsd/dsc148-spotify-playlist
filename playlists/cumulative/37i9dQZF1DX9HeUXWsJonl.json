@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 146608,
       "name": "Va Bene",
       "url": "https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ"
@@ -4256,6 +4256,28 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
+    },
+    {
+      "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1pY5RrTcgsNs6tyJhD5nhV"
+      },
+      "artists": [
+        {
+          "name": "JenJoon",
+          "url": "https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK"
+        },
+        {
+          "name": "Sharifa Jamal",
+          "url": "https://open.spotify.com/artist/2y75W11K9qiguoKpLXqLlT"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142697,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/34CROaorYbGLAcKONwqvbi"
     },
     {
       "album": {

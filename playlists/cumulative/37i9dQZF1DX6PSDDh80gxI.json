@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Folcast sulla cover della playlist con il meglio dell\u2019indie italiano! ",
+  "description": "rovere sulla cover della playlist con il meglio dell\u2019indie italiano! ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 185364,
       "name": "+1",
       "url": "https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg"
+    },
+    {
+      "album": {
+        "name": "11 case",
+        "url": "https://open.spotify.com/album/6mRmzDGzEzqHbbAjtqHHf7"
+      },
+      "artists": [
+        {
+          "name": "rovere",
+          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "11 case",
+      "url": "https://open.spotify.com/track/13PawRVvAhgkutmTD6gkkR"
     },
     {
       "album": {
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 193219,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6"
@@ -310,7 +328,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 161573,
       "name": "CHINA",
       "url": "https://open.spotify.com/track/0qlH49l549jbi95gDyFUC6"
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 193350,
       "name": "Gangsta Story",
       "url": "https://open.spotify.com/track/6LaTDXwti80gtqeHqfTsx7"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 82914,
       "name": "LA SIGNORA DEI BACI",
       "url": "https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs"
@@ -1010,6 +1028,46 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "album": {
+        "name": "Luned\u00ec Notte (EP)",
+        "url": "https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx"
+      },
+      "artists": [
+        {
+          "name": "Luned\u00ec Notte",
+          "url": "https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Lucifero",
+      "url": "https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg"
+    },
+    {
+      "album": {
+        "name": "L\u2019URLO",
+        "url": "https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA"
+      },
+      "artists": [
+        {
+          "name": "CIMINI",
+          "url": "https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140543,
+      "name": "L\u2019URLO",
+      "url": "https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo"
     },
     {
       "album": {
@@ -1314,7 +1372,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 157170,
       "name": "passanti",
       "url": "https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng"
@@ -1735,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Suona! Vol.1",
+        "url": "https://open.spotify.com/album/6R1f97fvkL6rjEG87EFHFV"
+      },
+      "artists": [
+        {
+          "name": "Motta",
+          "url": "https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271790,
+      "name": "Suona",
+      "url": "https://open.spotify.com/track/5TvUHRaL7vEowTJdlf7uLQ"
+    },
+    {
+      "album": {
         "name": "ULTRAFRAGOLA",
         "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
       },
@@ -1808,6 +1884,24 @@
       "duration_ms": 197561,
       "name": "Trasparente",
       "url": "https://open.spotify.com/track/7K51Wblkit2uioRGADynFB"
+    },
+    {
+      "album": {
+        "name": "TUFFO",
+        "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
+      },
+      "artists": [
+        {
+          "name": "PUGNI",
+          "url": "https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214670,
+      "name": "Trentasette denti",
+      "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
     },
     {
       "album": {
@@ -1919,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "TUTTO SBAGLIATO",
+        "url": "https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez"
+      },
+      "artists": [
+        {
+          "name": "AIELLO",
+          "url": "https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159716,
+      "name": "TUTTO SBAGLIATO",
+      "url": "https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0"
+    },
+    {
+      "album": {
         "name": "Tuttoscorre",
         "url": "https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH"
       },
@@ -2002,7 +2114,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166343,
       "name": "Una Serie Di Sfortunati Eventi",
       "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"

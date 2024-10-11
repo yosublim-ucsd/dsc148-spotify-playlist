@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums..\. welcome to the function\. Cover: Shenseea 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,197 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,219 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 7 | [Sitt'n Fi Chat](https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Sitt'n Fi Chat](https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc) | 2:46 |
 | 8 | [Trouble](https://open.spotify.com/track/6gx8SHpGPlFeHpPBl7FiMx) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Trouble](https://open.spotify.com/album/4MlNS3ebhAToBfk8KrgeIg) | 2:19 |
 | 9 | [Happy People](https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Happy People](https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3) | 2:51 |
-| 10 | [Sombody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Sombody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 |
+| 10 | [Somebody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Somebody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 |
 | 11 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 |
 | 12 | [NAIJA MAN](https://open.spotify.com/track/7pg0rj6EdyjTtMLJNnkLer) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [NAIJA MAN](https://open.spotify.com/album/5tMFWa4T1ruMlCVYNhsUzd) | 2:58 |
 | 13 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |

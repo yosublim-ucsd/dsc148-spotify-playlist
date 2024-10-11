@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Cikey",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
   "name": "le miel",
   "tracks": [
     {
@@ -624,6 +624,24 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "album": {
+        "name": "Comme je l'aime",
+        "url": "https://open.spotify.com/album/6Qf7uI07LuuL0Cur2l09b6"
+      },
+      "artists": [
+        {
+          "name": "Nilusi",
+          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "Comme je l'aime",
+      "url": "https://open.spotify.com/track/1BmmF0R8N8E8hKS01RAJ2g"
     },
     {
       "album": {
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 142487,
       "name": "Tous les deux - version acoustique",
       "url": "https://open.spotify.com/track/7AE3xJuOyyukbbEMdLaXIJ"

@@ -1,44 +1,28 @@
 {
   "description": "Het leven is prachtig en dat verdient goede muziek",
-  "num_followers": 165376,
+  "num_followers": 165452,
   "original_name": "Beautiful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv0QJQAAAAAmtPGZ83WC463MCM7RWi06",
+  "snapshot_id": "ZwhOYAAAAADh39ZUV3NxIeVHEq4ox9Ap",
   "tracks": [
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Lari",
-        "url": "https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ"
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
       },
       "artists": [
         {
-          "name": "Komodo",
-          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 209729,
-      "name": "Lari",
-      "url": "https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "Top Gun: Maverick (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN"
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -111,6 +95,22 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 229697,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
       },
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
       },
@@ -159,18 +175,34 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf"
+        "name": "Lari",
+        "url": "https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
         }
       ],
-      "duration_ms": 229697,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk"
+      "duration_ms": 209729,
+      "name": "Lari",
+      "url": "https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Top Gun: Maverick (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -223,22 +255,6 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
         "name": "Children of the Sky (a Starfield song)",
         "url": "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 181370,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 161567,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -367,18 +351,34 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
         }
       ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+      "duration_ms": 232493,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -447,18 +447,34 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
       "artists": [
         {
-          "name": "Blaudzun",
-          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h"
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -507,22 +523,6 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 161567,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
+        "name": "Sleep When I'm With You",
+        "url": "https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Sleep When I'm With You",
+      "url": "https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 176923,
       "name": "Half a Man",
       "url": "https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "Sleep When I'm With You",
-        "url": "https://open.spotify.com/album/5GjwbyGJ0KlBoOR3uUt8Co"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Sleep When I'm With You",
-      "url": "https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk"
     },
     {
       "added_at": "2024-09-27 12:17:49",

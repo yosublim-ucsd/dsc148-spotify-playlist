@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-11",
-  "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
+  "description": "This Is Maaya Sakamoto. Los temas esenciales, todos en una lista.",
   "name": "This Is Maaya Sakamoto",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 296906,
       "name": "Kotoba ni Dekinai",
       "url": "https://open.spotify.com/track/3IwTddh6f5P2C0iVdOBFnt"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 238314,
       "name": "\u84bc\u306e\u30a8\u30fc\u30c6\u30eb",
       "url": "https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb"

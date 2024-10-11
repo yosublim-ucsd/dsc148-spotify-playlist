@@ -1,13 +1,85 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Mollie Collins",
-  "num_followers": 32532,
+  "num_followers": 32529,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAraW0dAb7oi2bFVQMORNRIq2PG1BUm",
+  "snapshot_id": "AAArcOSnQORs0pzM5ZtKJ4zVTrE7qJ/J",
   "tracks": [
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "When It Runs Out (feat. Felix Samuel)",
+        "url": "https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "Maduk",
+          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "When It Runs Out (feat. Felix Samuel)",
+      "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Germany & Techno (feat. Krys Tha Sis)",
+        "url": "https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "Fabian Farell",
+          "url": "https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY"
+        },
+        {
+          "name": "Derb",
+          "url": "https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8"
+        },
+        {
+          "name": "Krys Tha Sis",
+          "url": "https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Germany & Techno (feat. Krys Tha Sis)",
+      "url": "https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF"
+    },
     {
       "added_at": "2024-10-03 13:01:48",
       "album": {
@@ -95,6 +167,122 @@
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "SexyBack (TechnoBack)",
+        "url": "https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Mono Schwarz",
+          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
+        }
+      ],
+      "duration_ms": 146029,
+      "name": "SexyBack - TechnoBack",
+      "url": "https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo"
+    },
+    {
+      "added_at": "2024-10-10 12:15:23",
+      "album": {
+        "name": "SexyBack (TechnoBack)",
+        "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Mono Schwarz",
+          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
+        }
+      ],
+      "duration_ms": 146029,
+      "name": "SexyBack - TechnoBack",
+      "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Soundboy Killah",
+        "url": "https://open.spotify.com/album/6FBDbAme8h471vzHNlawcb"
+      },
+      "artists": [
+        {
+          "name": "Awiin",
+          "url": "https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Soundboy Killah",
+      "url": "https://open.spotify.com/track/50yWD8iOunA5nQzwe4gJ6U"
+    },
+    {
+      "added_at": "2024-10-10 12:19:18",
+      "album": {
+        "name": "Another Season Alone",
+        "url": "https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 192820,
+      "name": "Another Season Alone",
+      "url": "https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Damaru",
+        "url": "https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Miranda",
+          "url": "https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6"
+        },
+        {
+          "name": "M\u00eblb\u00ebc",
+          "url": "https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Damaru",
+      "url": "https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
     },
     {
       "added_at": "2024-09-27 14:32:44",

@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-660 songs - 2 day 3 hr 24 min
+662 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 | 2022-03-31 |  |
 | [Destiny](https://open.spotify.com/track/3XwyTHASTc774AVHBtRjuE) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Mariage](https://open.spotify.com/album/1OVjXKtVfQGOyGuuM6SkCr) | 5:06 | 2024-05-23 | 2024-09-06 |
 | [Digital Detox](https://open.spotify.com/track/7suak3E7l3TBrlhm694OSU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 2:24 | 2024-09-25 |  |
+| [DINORWIC](https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [DINORWIC](https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX) | 11:51 | 2024-10-11 |  |
 | [Disintegration Loops \(1.1 Excerpt I\)](https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Music from The Comedy, A Film by Rick Alverson](https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH) | 2:02 | 2024-02-08 |  |
 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 | 2022-03-31 | 2024-02-09 |
 | [DOLPHINS](https://open.spotify.com/track/4yJAbkC1MfvoyRwtToIw4m) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Esperanto](https://open.spotify.com/album/2zZysv8QqhFQh71PcmDPfa) | 3:21 | 2022-03-31 | 2022-06-15 |
@@ -181,7 +182,7 @@
 | [Everything Valley](https://open.spotify.com/track/5uVkQzrRTFQ4FGWKBrj12Y) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [We Are the Times](https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda) | 5:57 | 2024-02-08 | 2024-04-19 |
 | [Evocations 2](https://open.spotify.com/track/6kndOSeWrt1cRNZzMgtJCF) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [コレクシオン・デ・シェノン II](https://open.spotify.com/album/2sIk82nBIC7srhgZ6VIbZg) | 7:11 | 2022-03-30 | 2022-07-17 |
 | [f.o.o.3.](https://open.spotify.com/track/46wUZnVDkGtqPUJoFkHKDw) | [Team TENbient](https://open.spotify.com/artist/4jBPIW39WXjI8qA13u0lAt) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 9:00 | 2022-03-31 | 2022-04-20 |
-| [Fade](https://open.spotify.com/track/59F6QkEsNpLl9mGiUcpeYJ) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [Fade/Faded](https://open.spotify.com/album/4YUCp7sHv6OuJgJcO3xR3T) | 1:18 | 2024-09-06 |  |
+| [Fade](https://open.spotify.com/track/59F6QkEsNpLl9mGiUcpeYJ) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [Fade/Faded](https://open.spotify.com/album/4YUCp7sHv6OuJgJcO3xR3T) | 1:18 | 2024-09-06 | 2024-10-11 |
 | [Faded Corners \- aus Reprise](https://open.spotify.com/track/3oIMgGY3hWqZl6I2DlhoLW) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Faded Corners \(aus Reprise\)](https://open.spotify.com/album/1zfCHf4nYBk1ILESV5jqVk) | 5:04 | 2024-09-06 | 2024-09-26 |
 | [Fanfare](https://open.spotify.com/track/6zEkQ585AkgQP6F9nIuAio) | [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Awaawaa](https://open.spotify.com/album/0AC2qGNY9HR5BlC61Yikqq) | 0:45 | 2022-04-28 | 2022-06-19 |
 | [Faraway](https://open.spotify.com/track/5XyL1qKqfFWX27nA4YwkRI) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Faraway](https://open.spotify.com/album/40BOmaowFYSnkc3WlecoHD) | 2:30 | 2022-03-31 | 2022-07-27 |
@@ -393,6 +394,7 @@
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 |  |
 | [Ongoromochi Souji](https://open.spotify.com/track/1peJy95lggmSY04Nh9LotF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [yOrUkOrU](https://open.spotify.com/album/4j0Q1bfGdSdCPUbftm18gv) | 2:59 | 2022-04-07 | 2022-04-17 |
 | [Opaque](https://open.spotify.com/track/28T3vVyYZejl6mImsSHRtK) | [濱瀬元彦](https://open.spotify.com/artist/1fHhTpHGhai17LCu0I4hGA) | [テクノドローム](https://open.spotify.com/album/08wNWKk2GS5Vg28ipiYPix) | 5:49 | 2022-03-31 | 2022-07-14 |
+| [Opera City](https://open.spotify.com/track/13AmgQ4AtYVStvJz0MNbxP) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Shared Senses](https://open.spotify.com/album/0LVV7qlB4oV1wC2LmkBXrx) | 4:24 | 2024-10-11 |  |
 | [Optimyst](https://open.spotify.com/track/1sXdGrbrhfWZ8QACYx6Lpx) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 3:52 | 2022-04-16 | 2022-07-27 |
 | [Oriental Flash](https://open.spotify.com/track/0k86hvHcaDg37bGApaGFng) | [Asami Kado](https://open.spotify.com/artist/5RWmMNXgrpLlb2Cy9DQ6nx) | [La Fleur Bleue\-青い花\-](https://open.spotify.com/album/77mC8h7BNiK9lwntSH24d9) | 1:52 | 2022-04-16 | 2022-07-13 |
 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 | 2024-06-15 | 2024-09-06 |
@@ -456,7 +458,7 @@
 | [Sasameyuki](https://open.spotify.com/track/5XGE0Ozz43n7foDuVidkLh) | [Gallery Six](https://open.spotify.com/artist/1rbPYgBG7xEiwzLzg009Y3) | [Trivial Treasures](https://open.spotify.com/album/53xWrjEQI82u7pecKnfO7x) | 6:30 | 2022-03-31 | 2022-07-28 |
 | [scenery](https://open.spotify.com/track/7L38DkZVsMefn9lGJjASyW) | [UYUNI](https://open.spotify.com/artist/456fQGAt00AiCfXhNdZVU2) | [scenery](https://open.spotify.com/album/5dOuRFBZ1b8Qc5i92y9s7g) | 4:02 | 2022-03-30 | 2022-04-25 |
 | [Sea](https://open.spotify.com/track/5nicqJi0k1oS9dKolZcwMH) | [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [IPSA Discover ME](https://open.spotify.com/album/5DYQaHtCYz4BOn2kO6nJVg) | 2:38 | 2024-02-15 | 2024-04-19 |
-| [Sea](https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU) | [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [IPSA Discover ME](https://open.spotify.com/album/62Nj00HyEy4yudGW2qwcSI) | 2:38 | 2024-03-07 |  |
+| [Sea](https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU) | [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [IPSA Discover ME](https://open.spotify.com/album/62Nj00HyEy4yudGW2qwcSI) | 2:38 | 2024-03-07 | 2024-10-11 |
 | [Sea Candle](https://open.spotify.com/track/20FSs2WNLiROOK5jCQf5et) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Akari](https://open.spotify.com/album/5JNjm0qR3zCMGGsWEa24F8) | 3:30 | 2022-03-31 | 2022-07-20 |
 | [Secondhand Sunlight](https://open.spotify.com/track/0W2Yvv08fcuxcCjTlvRcHC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Shadow On the Lawn](https://open.spotify.com/album/67oxviWzcQgeW8SA4iq3ce) | 8:20 | 2022-03-31 | 2022-04-07 |
 | [Secret Squirrel](https://open.spotify.com/track/2458yvCO4DErKhc7Zipq09) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Auntie Aubrey's Excursions Beyond The Call Of Duty \- The Orb Remix Project \- Part 1](https://open.spotify.com/album/2AtgGwq7etyx2UaxTfilDl) | 7:16 | 2022-04-28 | 2022-07-08 |

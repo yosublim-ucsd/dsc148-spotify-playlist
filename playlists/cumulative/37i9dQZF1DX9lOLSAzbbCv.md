@@ -2,7 +2,7 @@
 
 ### [Реп хіти](https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv)
 
-> Хіти українського репу\. Обкладинка: DOVI & SKOFKA
+> Хіти українського репу\. Обкладинка: kavabanga Depo kolibri
 
 83 songs - 3 hr 45 min
 

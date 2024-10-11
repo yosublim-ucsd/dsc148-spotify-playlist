@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Nate Smith, Avril Lavigne",
+  "description": "The cream of today's Country crop. Cover: Jelly Roll",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "album": {
         "name": "Darlinghurst",
         "url": "https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 209268,
       "name": "Be Like",
       "url": "https://open.spotify.com/track/1UGFaqYcaP8xicpYfP26Lh"
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 204648,
       "name": "Don't Wanna Say Goodnight",
       "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
@@ -5282,6 +5300,28 @@
       "duration_ms": 166000,
       "name": "HEART LIKE A HOMETOWN",
       "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
+    },
+    {
+      "album": {
+        "name": "Upon Reflection",
+        "url": "https://open.spotify.com/album/5UHrTg43vbXnxZTkDwoanC"
+      },
+      "artists": [
+        {
+          "name": "Tyla Rodrigues",
+          "url": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV"
+        },
+        {
+          "name": "Blake O'Connor",
+          "url": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249774,
+      "name": "Heart, Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/2FEhGntRtV5YZtAzMTIvSq"
     },
     {
       "album": {
@@ -7498,7 +7538,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 163053,
       "name": "lose you again (feat. parmalee)",
       "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
@@ -10014,7 +10054,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197333,
       "name": "Right Turn",
       "url": "https://open.spotify.com/track/4Iuun3BhbsK5lZMP2Dv45R"
@@ -12953,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "Tree Birds",
+        "url": "https://open.spotify.com/album/6PAud3gLOCgM4Mit5yaPkh"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Tree Birds",
+      "url": "https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
@@ -13912,7 +13970,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 181558,
       "name": "Whiskey Neat",
       "url": "https://open.spotify.com/track/6Q3zPssAN0Ve5UOn2L2BC5"
@@ -14237,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D"
+    },
+    {
+      "album": {
         "name": "Through the Smoke",
         "url": "https://open.spotify.com/album/5rQ9bj7fCon5qGgve7QmzL"
       },
@@ -14548,6 +14624,24 @@
       "duration_ms": 200506,
       "name": "You Don\u2019t Want That Smoke",
       "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
+    },
+    {
+      "album": {
+        "name": "You Fall",
+        "url": "https://open.spotify.com/album/6v2uT9DKF0HNQ9z1x4mdX1"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Trio",
+          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "You Fall",
+      "url": "https://open.spotify.com/track/1V3WX6iR228GPdroMUAhd5"
     },
     {
       "album": {

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Bekledim",
+        "url": "https://open.spotify.com/album/63DxYH2eyX3xJvVEFS6xba"
+      },
+      "artists": [
+        {
+          "name": "Zemin Kat",
+          "url": "https://open.spotify.com/artist/6pJlkFcAnfDmuvkadDVI6N"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168184,
+      "name": "Bekledim",
+      "url": "https://open.spotify.com/track/0CLcEhx4eNpXlTC7ed7LDc"
+    },
+    {
+      "album": {
         "name": "Ben Gezegenim Sen Uzays\u0131n",
         "url": "https://open.spotify.com/album/2AHIcjdhSQDmmO9VRruccX"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 168426,
       "name": "G\u00fcc\u00fcm Yok",
       "url": "https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X"
@@ -961,6 +979,24 @@
     },
     {
       "album": {
+        "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju"
+      },
+      "artists": [
+        {
+          "name": "Keskin Band",
+          "url": "https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147790,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o"
+    },
+    {
+      "album": {
         "name": "\u0130sterdim",
         "url": "https://open.spotify.com/album/3aS3RbXZLL1z31PbHWdAx4"
       },
@@ -1009,7 +1045,7 @@
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 268000,
+      "duration_ms": 266636,
       "name": "\u0130\u00e7imde A\u015fk Var",
       "url": "https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy"
     },
@@ -1069,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7BTCSq0pQjvQpGg4DYQ3GK"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289543,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/7jDAYmGmLI2QcP1srfdxT5"
+    },
+    {
+      "album": {
         "name": "Kara Delik",
         "url": "https://open.spotify.com/album/5pRs1cWtW1IjNwtOZ5IfxO"
       },
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 200200,
       "name": "Kara Delik",
       "url": "https://open.spotify.com/track/5iz5KvWyYzAJEgHivkQJrK"
@@ -1193,7 +1247,7 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 266000,
+      "duration_ms": 265364,
       "name": "Kufi",
       "url": "https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh"
     },
@@ -1359,7 +1413,7 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 228000,
+      "duration_ms": 227634,
       "name": "Nerde Benim Kafam",
       "url": "https://open.spotify.com/track/3b83Fi9nZOQkmLJqy10ONJ"
     },
@@ -1788,7 +1842,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 211967,
       "name": "Unutama Beni",
       "url": "https://open.spotify.com/track/3b3lZIlBbeDBn0uhJ3RqQH"
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 141177,
       "name": "Yaln\u0131zl\u0131klar",
       "url": "https://open.spotify.com/track/3UiFJQiXHdiX5l9SpSPQZF"
@@ -2128,6 +2182,24 @@
       "duration_ms": 149211,
       "name": "Y\u00fcr\u00fcr\u00fcm Durmadan",
       "url": "https://open.spotify.com/track/0BXRBH4JmjEGdxz3vzzIqa"
+    },
+    {
+      "album": {
+        "name": "\u00c7arp\u0131\u015fan Otolar - Rashit Greatest Shits",
+        "url": "https://open.spotify.com/album/4p7GB0PpeK46FHry0OmPE8"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166354,
+      "name": "\u00c7arp\u0131\u015fan Otolar - Rashit Greatest Shits",
+      "url": "https://open.spotify.com/track/2OdRr82dundL98OEqPxc2U"
     },
     {
       "album": {

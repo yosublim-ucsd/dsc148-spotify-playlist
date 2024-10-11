@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Koven, Steve Aoki",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, brazy",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 173500,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 193103,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3yww2B1N7sKBo2ED9ucJ7u"
@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Did I Forget Something?",
+        "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
+      },
+      "artists": [
+        {
+          "name": "Venjent",
+          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Did I Forget Something",
+      "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
+    },
+    {
+      "album": {
         "name": "die young",
         "url": "https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP"
       },
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 171034,
       "name": "First Time (feat. Elipsa)",
       "url": "https://open.spotify.com/track/6NpWE90aJJ9ERQPcExCdvd"
@@ -8715,6 +8733,32 @@
     },
     {
       "album": {
+        "name": "Lose No Sleep (Masterpeace)",
+        "url": "https://open.spotify.com/album/5xh4F3zSVaCgX99hjytqjQ"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Lose No Sleep (Masterpeace)",
+      "url": "https://open.spotify.com/track/5i4qgjqnx4R8LGCJwNHPOZ"
+    },
+    {
+      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/0Ruhvi1Po4DrvhX6oxxGpE"
       },
@@ -9637,6 +9681,28 @@
     },
     {
       "album": {
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103714,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
+    },
+    {
+      "album": {
         "name": "My Favourite Game (feat. The Cardigans)",
         "url": "https://open.spotify.com/album/3rMfs8Eno9bwi3Z5ZkfRXp"
       },
@@ -9686,7 +9752,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 184371,
       "name": "My Type",
       "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"
@@ -10024,7 +10090,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 215172,
       "name": "New Energy",
       "url": "https://open.spotify.com/track/7lg5Ub6z08aSDkPhhMbnGO"
@@ -11462,7 +11528,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 170198,
       "name": "Raise Di Alarm",
       "url": "https://open.spotify.com/track/5xC8aq9kmGCdwF03NThspZ"
@@ -13741,6 +13807,28 @@
     },
     {
       "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
+    },
+    {
+      "album": {
         "name": "STR8 SHELLIN",
         "url": "https://open.spotify.com/album/0jyVETFfg6Y9xhdlXwCCaa"
       },
@@ -14683,6 +14771,28 @@
     },
     {
       "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/6qKWvolh88jomkOHHv35Db"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240100,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6X4VJwhPhAbpgEMqCuHcl9"
+    },
+    {
+      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
@@ -14794,6 +14904,24 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "album": {

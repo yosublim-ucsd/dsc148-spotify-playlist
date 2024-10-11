@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Beijo Na Boca",
+        "url": "https://open.spotify.com/album/59uSu3mvGvpypSVqNA7KGD"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227361,
+      "name": "Beijo Na Boca",
+      "url": "https://open.spotify.com/track/5u2dMMtXaUT4nCTVTl51B8"
+    },
+    {
+      "album": {
         "name": "Bela",
         "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
@@ -3562,6 +3584,24 @@
       "duration_ms": 221408,
       "name": "Kel Tempo",
       "url": "https://open.spotify.com/track/3PDFuZVewf6fR15SPG528b"
+    },
+    {
+      "album": {
+        "name": "Kenha",
+        "url": "https://open.spotify.com/album/7lADuX26QWb62V2FBklX1s"
+      },
+      "artists": [
+        {
+          "name": "KVN LOPES",
+          "url": "https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Kenha",
+      "url": "https://open.spotify.com/track/74o0Tq9QEQx5PX68L1PbIv"
     },
     {
       "album": {
@@ -5566,7 +5606,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"

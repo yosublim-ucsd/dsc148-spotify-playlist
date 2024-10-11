@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,703 songs - 3 day 16 hr 23 min
+1,704 songs - 3 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-03-04 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-05 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-03 |
-| [Hej](https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hej](https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S) | 2:15 | 2024-07-27 |  |
+| [Hej](https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hej](https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S) | 2:15 | 2024-07-27 | 2024-10-11 |
 | [Hele Dagen](https://open.spotify.com/track/6V4uTyQqs8tq21qbMUYrWA) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 2:57 | 2023-05-13 | 2023-06-11 |
 | [Hele Danmark Op At Stå \(feat\. Herrelandsholdet\) \- VM\-sang 2018](https://open.spotify.com/track/0DdYhNAQsDuzWplOzoDUm5) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Hele Danmark Op At Stå \(feat\. Herrelandsholdet\) \[VM\-sang 2018\]](https://open.spotify.com/album/5cqjRl59U8cV6pWyMJ0i5T) | 3:10 | 2021-06-14 | 2021-07-10 |
 | [Hele Tiden](https://open.spotify.com/track/3WPemO6hvX7c2c0RPaxA21) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc) | [Hele Tiden](https://open.spotify.com/album/3Qu1ho5d0lJrppdgbw0TGq) | 2:28 | 2022-07-02 | 2022-07-17 |
@@ -1376,6 +1376,7 @@
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-04-06 | 2024-05-14 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-28 | 2024-04-07 |
 | [Smack](https://open.spotify.com/track/6wHFL0oXCYFLWab25xf85h) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Smack / Bar La Hende Drik](https://open.spotify.com/album/2opyUn8FLuSD4jAIzaWnRe) | 2:48 | 2022-06-24 | 2022-07-03 |
+| [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2024-10-10 |  |
 | [Smil Ik' Cry \(Gobs X ICEKIID\)](https://open.spotify.com/track/4fwBQlHrJUYOuSFa1JfBiZ) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INTET TIL ALT \(DELUXE\)](https://open.spotify.com/album/6VlGt1WawD05ZTd5coZIrO) | 2:16 | 2022-04-16 | 2022-04-29 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-11 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2022-01-01 |

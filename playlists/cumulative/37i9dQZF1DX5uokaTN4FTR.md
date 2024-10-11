@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Lost Frequencies, Tom Odell
+> The UK's biggest dance playlist! Cover: Levi
 
-620 songs - 1 day 8 hr 28 min
+621 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,8 @@
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-06-07 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2023-12-15 |  |
 | [The Dark \(feat\. Bklava\)](https://open.spotify.com/track/0ZGTKMUfj3pbKbTjMCCuEQ) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [The Dark \(feat\. Bklava\)](https://open.spotify.com/album/6ZVSUV6Q5gVALQFEoAhbZF) | 3:50 | 2022-03-08 | 2022-03-10 |
-| [The Days](https://open.spotify.com/track/3gIUMi9WV8PeN0aUbImw7V) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Unarchived 2015](https://open.spotify.com/album/4JW7gNjShwnqHUohDXf9b7) | 2:49 | 2024-10-04 |  |
+| [The Days](https://open.spotify.com/track/3gIUMi9WV8PeN0aUbImw7V) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Unarchived 2015](https://open.spotify.com/album/4JW7gNjShwnqHUohDXf9b7) | 2:49 | 2024-10-04 | 2024-10-11 |
+| [The Days \- Edit](https://open.spotify.com/track/4KbkHQWVpW5munyeFbHyfX) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [The Days](https://open.spotify.com/album/7qmIKmPBqw8vNYbTaAAJTb) | 2:10 | 2024-10-11 |  |
 | [The Don](https://open.spotify.com/track/7dhiGKBm2pYVLAW4QF1z1E) | [System.Inc](https://open.spotify.com/artist/5CfCAv52QCxLv9bdlGIyUD), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The Don](https://open.spotify.com/album/4XuVKQOCaQ15ZCdtcENLlD) | 2:54 | 2021-12-03 | 2022-02-18 |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2022-05-06 | 2022-07-22 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-18 | 2022-04-16 |

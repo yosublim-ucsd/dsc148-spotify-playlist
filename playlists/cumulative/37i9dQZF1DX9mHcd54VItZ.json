@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=nqHpzrAiRqKmOmFzNlHalg\">VOLK</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx\">Sonder Onderbroeke</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 216626,
       "name": "Alone At Last",
       "url": "https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 255773,
       "name": "Altyd Daar",
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 208500,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 189973,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 179391,
       "name": "Cloetesville",
       "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 253803,
       "name": "Die C-Span",
       "url": "https://open.spotify.com/track/4oRVQbWroZKgxXld2a9Wer"
@@ -3108,7 +3108,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 212617,
       "name": "Gee My Jou Alles",
       "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
@@ -4378,7 +4378,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 247146,
       "name": "Katedraal",
       "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
@@ -4530,6 +4530,24 @@
       "duration_ms": 206706,
       "name": "Kom Saam",
       "url": "https://open.spotify.com/track/1AhNnE44HmpMjJ6sdCLlcu"
+    },
+    {
+      "album": {
+        "name": "Kondisie",
+        "url": "https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Kondisie",
+      "url": "https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa"
     },
     {
       "album": {
@@ -4758,6 +4776,24 @@
       "duration_ms": 210003,
       "name": "Lefase",
       "url": "https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF"
+    },
+    {
+      "album": {
+        "name": "Lego",
+        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151329,
+      "name": "Lego",
+      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
       "album": {
@@ -5024,7 +5060,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 169087,
       "name": "Mag Nie Kla Nie",
       "url": "https://open.spotify.com/track/7i5gPtSEgWWUZh4HxvUhRg"
@@ -7414,7 +7450,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
@@ -8012,7 +8048,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 218117,
       "name": "Terapie Vir Nou",
       "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
@@ -8034,7 +8070,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 188495,
       "name": "The Art Of Letting Go",
       "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
@@ -9328,7 +9364,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 192339,
       "name": "Wild Shit",
       "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"

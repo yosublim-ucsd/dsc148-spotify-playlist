@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Half Waif
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,337 likes - 105 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,364 likes - 105 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

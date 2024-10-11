@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY">Jordan Ward</a> and <a href="spotify:artist:0gY0jm6QAzJCAslmZC3T35">Joony</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,813 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,809 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

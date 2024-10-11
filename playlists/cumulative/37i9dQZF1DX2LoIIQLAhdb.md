@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Tiakola
+> Le R&B français, nouvelle ère\. Photo : Jungeli
 
-356 songs - 16 hr 59 min
+360 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Love Therapy](https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM) | 5:09 | 2023-01-05 | 2023-01-27 |
 | [LUNDI](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 | 2023-06-22 | 2023-07-28 |
 | [LUVA](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 | 2023-07-20 | 2024-06-28 |
+| [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-10 |  |
 | [M'en Aller](https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [M'en Aller](https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh) | 2:34 | 2023-06-15 | 2023-08-04 |
 | [M'Hood](https://open.spotify.com/track/7CGEtadwkWyNCmOSQUcTXr) | [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [Trilogie](https://open.spotify.com/album/4TFoYMdgwNRY9pr5prd98r) | 3:04 | 2024-04-04 | 2024-05-03 |
 | [Ma Lova](https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Ma Lova](https://open.spotify.com/album/69VpibECOEtYba9gZTn36O) | 2:26 | 2023-02-09 | 2023-05-19 |
@@ -236,6 +237,7 @@
 | [NOUS](https://open.spotify.com/track/0IKK3A8XAx7QkTwnEEe483) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [NOUS](https://open.spotify.com/album/0AdeOaA497bwfn0PqjoWNT) | 2:20 | 2023-03-09 | 2023-04-21 |
 | [Nous](https://open.spotify.com/track/5xDBcbm1SAFe1rupcdudiq) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Nous](https://open.spotify.com/album/0uUKJJT87LHqgu62jc6LfP) | 3:13 | 2022-12-22 | 2023-02-03 |
 | [Nous deux](https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Nous deux](https://open.spotify.com/album/10x2oUxuTk4ezgt0DkJdTL) | 3:41 | 2023-02-16 | 2023-04-14 |
+| [OG](https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [OG](https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa) | 2:33 | 2024-10-10 |  |
 | [On s'en fout](https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:59 | 2023-01-19 | 2023-02-24 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-19 | 2024-01-12 |
 | [On sait jamais](https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [On sait jamais](https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL) | 2:48 | 2024-01-11 | 2024-02-09 |
@@ -286,7 +288,9 @@
 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 | 2023-10-19 | 2023-11-24 |
 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 | 2023-08-24 | 2023-10-13 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
+| [Recommencer Pt.2](https://open.spotify.com/track/7qekyyp9UZWV3ZgAbGXanv) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [15 Vol.2 : La polyvalence est un don](https://open.spotify.com/album/0X943C64oj0FwgOnZDaTm9) | 2:50 | 2024-10-10 |  |
 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 | 2024-09-19 |  |
+| [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 | 2024-10-10 |  |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |
 | [S'égarer](https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [S'égarer](https://open.spotify.com/album/7m3mfDHqK57CJpYTdyEJlA) | 2:16 | 2024-08-08 | 2024-09-13 |
 | [S.O.S](https://open.spotify.com/track/22cx7Yei6YPRaKLCvyKQMQ) | [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [S.O.S](https://open.spotify.com/album/08ksLbbYidSLVQ3W79Lwt6) | 3:03 | 2024-06-27 | 2024-08-30 |
@@ -297,7 +301,7 @@
 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 | 2022-12-15 | 2023-02-17 |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-11-24 | 2022-12-17 |
 | [Sans Filtre](https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Sans Filtre](https://open.spotify.com/album/5JczTcyvSeUFSE4h5pBfIW) | 3:00 | 2023-06-29 | 2023-08-25 |
-| [Sans se retourner \(feat\. Leto\)](https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Story](https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y) | 2:50 | 2024-05-16 |  |
+| [Sans se retourner \(feat\. Leto\)](https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Story](https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y) | 2:50 | 2024-05-16 | 2024-10-11 |
 | [Secret](https://open.spotify.com/track/1zeHHVvlytOKg37iwMBK9y) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [En attendant PM](https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa) | 3:02 | 2023-06-22 | 2023-10-20 |
 | [Selfie](https://open.spotify.com/track/1vb6yFE9Rh2nUBzpZEPUPx) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Selfie](https://open.spotify.com/album/1B1RaBEv5jO1rK0yPWkhUr) | 2:48 | 2024-03-07 | 2024-05-03 |
 | [Sentiments](https://open.spotify.com/track/1lOsNJwmQ8IQHlADQnLoCL) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Sentiments](https://open.spotify.com/album/5TR28HTV1YVgMZqO0S89oH) | 2:36 | 2023-05-25 | 2023-06-30 |
@@ -309,8 +313,8 @@
 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 | 2024-06-06 |  |
 | [si j'avais pu](https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [si j'avais pu](https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P) | 2:26 | 2024-01-18 | 2024-03-01 |
 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 | 2024-01-25 | 2024-08-02 |
-| [Sincère](https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sincère](https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ) | 2:21 | 2024-02-15 |  |
-| [So nice](https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [So nice](https://open.spotify.com/album/0ShQLD5CRIH9WVSnziuBkh) | 2:46 | 2024-07-18 |  |
+| [Sincère](https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sincère](https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ) | 2:21 | 2024-02-15 | 2024-10-11 |
+| [So nice](https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [So nice](https://open.spotify.com/album/0ShQLD5CRIH9WVSnziuBkh) | 2:46 | 2024-07-18 | 2024-10-11 |
 | [Soeurcière](https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7) | [Djena Della](https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc) | [Soeurcière](https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b) | 2:33 | 2023-03-30 | 2023-04-28 |
 | [SOLD OUT !](https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:03 | 2024-02-15 | 2024-09-27 |
 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 | 2024-06-06 |  |
@@ -336,7 +340,7 @@
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-02 | 2024-06-28 |
 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 | 2022-11-24 | 2022-12-16 |
 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 | 2024-01-11 | 2024-06-28 |
-| [ton attitude](https://open.spotify.com/track/5xuFExz8qNnRVLQWcraYag) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [ton attitude](https://open.spotify.com/album/5OgTiYmcsCkNipHvQoHwFr) | 2:41 | 2024-08-29 |  |
+| [ton attitude](https://open.spotify.com/track/5xuFExz8qNnRVLQWcraYag) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [ton attitude](https://open.spotify.com/album/5OgTiYmcsCkNipHvQoHwFr) | 2:41 | 2024-08-29 | 2024-10-11 |
 | [Tous les mêmes](https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Tous les mêmes](https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz) | 2:30 | 2023-02-02 | 2023-06-30 |
 | [Tout](https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA) | [Pearl](https://open.spotify.com/artist/2MhjocNxlP3QVRiKqKcpkF) | [Tout](https://open.spotify.com/album/7xWdkdj3NvGshk6QDuQNuB) | 2:38 | 2023-07-06 | 2023-08-04 |
 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 | 2024-05-09 |  |

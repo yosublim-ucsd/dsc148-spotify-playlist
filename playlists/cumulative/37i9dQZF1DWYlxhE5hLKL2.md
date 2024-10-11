@@ -4,7 +4,7 @@
 
 > Digging old Japanese records and flipping them into something new.
 
-74 songs - 5 hr 18 min
+76 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2023-06-16 |  |
 | [Intro](https://open.spotify.com/track/0P2pNXbQfYkE0VOUZbAkzJ) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Bae2](https://open.spotify.com/album/2mUH5mT06J6NOrtqLCe2jN) | 1:58 | 2023-06-16 |  |
 | [Intro](https://open.spotify.com/track/5G2rxM4Ubg6cmpPXRIFEmK) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Bae2](https://open.spotify.com/album/7Cxvh1GcNnkHs8xit5MbBk) | 1:58 | 2023-06-16 | 2024-04-19 |
+| [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-10 |  |
 | [January 28th](https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:02 | 2023-06-16 |  |
 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 | 2023-06-16 |  |
 | [Lodi Dodi](https://open.spotify.com/track/6OtfwrzhIaIg6gmnzgPlu1) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 5:01 | 2023-06-16 |  |
@@ -39,6 +40,7 @@
 | [No Regrets](https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [No Regrets](https://open.spotify.com/album/1xzYe93YZ35KNW6VzILAut) | 3:02 | 2023-06-16 |  |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2023-06-16 |  |
 | [Plug Talk \(feat\. 2 Chainz\)](https://open.spotify.com/track/3kKfpZ1Lwf5bG2t6mHbSOw) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [The Plugs I Met 2](https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj) | 3:15 | 2023-06-16 |  |
+| [prism](https://open.spotify.com/track/4PIgLPKh6b2MqURJmMtH0v) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [EXPO EXPO](https://open.spotify.com/album/5s6G3HzAqcKNJt90LeFw19) | 4:30 | 2024-10-10 |  |
 | [RYDEEN](https://open.spotify.com/track/0RAXoT7hwOoqAXI95ryxT5) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:26 | 2023-06-16 |  |
 | [Sailing by Night](https://open.spotify.com/track/0tdfn1TNa1dm9TuBk8PjIo) | [Department Of Eagles](https://open.spotify.com/artist/0d2BmAcZ7p8vrtBPY48WMW) | [The Cold Nose](https://open.spotify.com/album/6Mdlj2C8YahbrF8KqHTM8d) | 4:35 | 2023-06-16 |  |
 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 | 2023-06-16 |  |

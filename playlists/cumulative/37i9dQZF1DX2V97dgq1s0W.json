@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Leon Thomas",
+  "description": "The best voices in R&B. Cover: Odeal",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Call You",
+        "url": "https://open.spotify.com/album/0WOEnrWky87aIMALb1FEUn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        },
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219245,
+      "name": "Call You",
+      "url": "https://open.spotify.com/track/2BmLnQM1y4gsGZGGN94SJH"
+    },
+    {
+      "album": {
         "name": "Can I Call You Rose? (Cover)",
         "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 146427,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/2JXhIOii8XvolNWAZuQtuH"
@@ -1308,6 +1330,24 @@
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
+    },
+    {
+      "album": {
+        "name": "defiance",
+        "url": "https://open.spotify.com/album/5qt9UjTYqbue5NfngVWD8O"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246152,
+      "name": "defiance",
+      "url": "https://open.spotify.com/track/7HSuDocrUEMvTa20ocNEWO"
     },
     {
       "album": {
@@ -2982,7 +3022,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 182906,
       "name": "Is It A Crime? - Unplugged",
       "url": "https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0"
@@ -3214,6 +3254,28 @@
       "duration_ms": 130151,
       "name": "LaSenza",
       "url": "https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "album": {
@@ -3698,7 +3760,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 208297,
       "name": "Made For Me - Soul Train Performance Live",
       "url": "https://open.spotify.com/track/0avIl6Ss5Xa4ybAc3kup4g"
@@ -4070,6 +4132,24 @@
       "duration_ms": 184385,
       "name": "Naked - Feat. Leven Kali",
       "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
+    },
+    {
+      "album": {
+        "name": "Nasty/(En)amor",
+        "url": "https://open.spotify.com/album/3hFgBZYx0BGaVy1M8UgYVj"
+      },
+      "artists": [
+        {
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171048,
+      "name": "Nasty/(En)amor",
+      "url": "https://open.spotify.com/track/3trv8IFOS4zNFJXNccN26g"
     },
     {
       "album": {
@@ -5732,7 +5812,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 183260,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
@@ -6086,6 +6166,24 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
     },
     {
       "album": {

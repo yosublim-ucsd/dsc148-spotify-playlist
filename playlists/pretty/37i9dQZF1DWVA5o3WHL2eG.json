@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 34949,
+  "num_followers": 34952,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "8 stufen ep",
-        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
+        "name": "Das Beste",
+        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
       },
       "artists": [
         {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
         }
       ],
-      "duration_ms": 172138,
-      "name": "pok\u00e9mon",
-      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
+      "duration_ms": 152000,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Das Beste",
-        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
+        "name": "8 stufen ep",
+        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
       },
       "artists": [
         {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Das Beste",
-      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
+      "duration_ms": 172138,
+      "name": "pok\u00e9mon",
+      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "zu nice",
-        "url": "https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL"
-      },
-      "artists": [
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "zu nice",
-      "url": "https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "ich wei\u00df, dass du das wei\u00dft",
         "url": "https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 155938,
       "name": "ich wei\u00df, dass du das wei\u00dft",
       "url": "https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "zu nice",
+        "url": "https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "zu nice",
+      "url": "https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Once You Laugh",
-        "url": "https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY"
-      },
-      "artists": [
-        {
-          "name": "Andreya Casablanca",
-          "url": "https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa"
-        }
-      ],
-      "duration_ms": 137059,
-      "name": "Once You Laugh",
-      "url": "https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219141,
       "name": "Hot Family",
       "url": "https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Once You Laugh",
+        "url": "https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY"
+      },
+      "artists": [
+        {
+          "name": "Andreya Casablanca",
+          "url": "https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa"
+        }
+      ],
+      "duration_ms": 137059,
+      "name": "Once You Laugh",
+      "url": "https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "An Ode To ?",
-        "url": "https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn"
-      },
-      "artists": [
-        {
-          "name": "Blush Always",
-          "url": "https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U"
-        }
-      ],
-      "duration_ms": 192432,
-      "name": "Girl in a Band",
-      "url": "https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Lonely Men",
         "url": "https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 225202,
       "name": "Lonely Men",
       "url": "https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "An Ode To ?",
+        "url": "https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn"
+      },
+      "artists": [
+        {
+          "name": "Blush Always",
+          "url": "https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U"
+        }
+      ],
+      "duration_ms": 192432,
+      "name": "Girl in a Band",
+      "url": "https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp"
     },
     {
       "added_at": "2024-10-01 22:00:00",

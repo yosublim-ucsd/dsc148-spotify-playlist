@@ -449,6 +449,32 @@
     },
     {
       "album": {
+        "name": "Bad (feat. Tipsy Gee & Masauti)",
+        "url": "https://open.spotify.com/album/3mnKqtHH6H8pVUAFPb51GF"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Bad (feat. Tipsy Gee & Masauti)",
+      "url": "https://open.spotify.com/track/4ju1W03rlR47XS26I1vG3w"
+    },
+    {
+      "album": {
         "name": "Bad Gyal",
         "url": "https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF"
       },
@@ -4228,7 +4254,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 151456,
       "name": "Lele",
       "url": "https://open.spotify.com/track/1NlqheYPuFb5LveKKQA7dd"
@@ -6393,6 +6419,32 @@
     },
     {
       "album": {
+        "name": "Crocodile EP",
+        "url": "https://open.spotify.com/album/0anFn4jCWdP4vyGzTNfi1k"
+      },
+      "artists": [
+        {
+          "name": "Timmy Tdat",
+          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Jeshi Jinga",
+          "url": "https://open.spotify.com/artist/3cXYwY0BrJskvfEvjXneap"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154543,
+      "name": "Place Nakam (feat. Ssaru & Jeshi Jinga)",
+      "url": "https://open.spotify.com/track/6UY6qS7mlvJ4NGfb6W6YVp"
+    },
+    {
+      "album": {
         "name": "Pocahantas",
         "url": "https://open.spotify.com/album/4QaCeC55ghgtBFliu7SMtY"
       },
@@ -6842,7 +6894,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 132680,
       "name": "Rich",
       "url": "https://open.spotify.com/track/37ArS1kei108HBKhbYePT5"
@@ -7024,7 +7076,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 217952,
       "name": "Sekete",
       "url": "https://open.spotify.com/track/7ewht8ClVfHEwZTX53OHj9"
@@ -8000,6 +8052,24 @@
       "duration_ms": 237593,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5ozgizyjmZws6tF5VAO9iG"
+    },
+    {
+      "album": {
+        "name": "TIGONI",
+        "url": "https://open.spotify.com/album/7ssQREEpj37FraIkxrnvHb"
+      },
+      "artists": [
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168639,
+      "name": "TIGONI",
+      "url": "https://open.spotify.com/track/5Yi5WfvGGaF6JhbVUmHujd"
     },
     {
       "album": {

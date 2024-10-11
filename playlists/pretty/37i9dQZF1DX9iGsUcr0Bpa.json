@@ -1,6 +1,6 @@
 {
   "description": "Classics from trailblazing women in hip-hop. Cover: Da Brat",
-  "num_followers": 375133,
+  "num_followers": 375268,
   "original_name": "Door Knockers",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-07-02 00:08:18",
       "album": {
+        "name": "The Bootleg of the Bootleg (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh"
+      },
+      "artists": [
+        {
+          "name": "Jean Grae",
+          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
+        }
+      ],
+      "duration_ms": 313666,
+      "name": "Hater's Anthem",
+      "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
+    },
+    {
+      "added_at": "2024-07-02 00:08:18",
+      "album": {
         "name": "Enquiring Minds",
         "url": "https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 269066,
       "name": "Where Dem Dollas At (feat. DJ Paul & Juicy J)",
       "url": "https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC"
-    },
-    {
-      "added_at": "2024-07-02 00:08:18",
-      "album": {
-        "name": "The Bootleg of the Bootleg (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh"
-      },
-      "artists": [
-        {
-          "name": "Jean Grae",
-          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Hater's Anthem",
-      "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
     }
   ],
   "unique_name": "Door Knockers",

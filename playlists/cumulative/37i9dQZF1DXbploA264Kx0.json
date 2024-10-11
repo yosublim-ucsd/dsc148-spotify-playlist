@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: L\u00dcCY",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u67ef\u667a\u68e0 (Kowen Ko)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 216349,
       "name": "Cast a Spell",
       "url": "https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN"
@@ -1170,6 +1170,24 @@
       "duration_ms": 220363,
       "name": "FLAME (feat. MANDARK)",
       "url": "https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc"
+    },
+    {
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261426,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd"
     },
     {
       "album": {
@@ -2731,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Lost Ethnography of the Miscanthus Ocean",
+        "url": "https://open.spotify.com/album/7a2mP44iRHItObZkZKiDys"
+      },
+      "artists": [
+        {
+          "name": "Scattered Purgatory",
+          "url": "https://open.spotify.com/artist/4rgGqYYp43VQDKdRHnDrgw"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631450,
+      "name": "Ramming the Town Roaming the Mountain",
+      "url": "https://open.spotify.com/track/7KnCxwxpzXln8pSYuduL37"
+    },
+    {
+      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh"
       },
@@ -2764,6 +2800,36 @@
       "duration_ms": 200000,
       "name": "Retro Petrol",
       "url": "https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv"
+    },
+    {
+      "album": {
+        "name": "Land forms (Live on Bebop Artist Project)",
+        "url": "https://open.spotify.com/album/34F61mTHBu0YMjK4HrifsB"
+      },
+      "artists": [
+        {
+          "name": "YenTing Lo",
+          "url": "https://open.spotify.com/artist/6W7lSbguF67nqkK6djqd8z"
+        },
+        {
+          "name": "Gin Lin",
+          "url": "https://open.spotify.com/artist/4nz0UDdGQfUJ2uBAudUImu"
+        },
+        {
+          "name": "Debby Wang \u738b\u601d\u96c5",
+          "url": "https://open.spotify.com/artist/0kPD0Ti5iYLQ6Lx9CZC7jN"
+        },
+        {
+          "name": "ShaoHuan Hung",
+          "url": "https://open.spotify.com/artist/2ST9FRGx0MotiW4iTcgUlY"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Ridge - Live",
+      "url": "https://open.spotify.com/track/5f9QzTJscb6PhuXqGZ7DbE"
     },
     {
       "album": {
@@ -4147,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "\u6ce2\u6d41\u6c34 Drifting",
+        "url": "https://open.spotify.com/album/7auaP75uIUozKcWWBtshyT"
+      },
+      "artists": [
+        {
+          "name": "\u6f02\u6d41\u51fa\u53e3",
+          "url": "https://open.spotify.com/artist/2MTlHJpV27LEGE9HYVBGxy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305592,
+      "name": "\u5225\u907a\u68c4 Aka Sawadan",
+      "url": "https://open.spotify.com/track/0FaTG6eBxRQA3ypScbLibZ"
+    },
+    {
+      "album": {
         "name": "\u526f\u90fd\u5fc3",
         "url": "https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv"
       },
@@ -4704,6 +4788,24 @@
       "duration_ms": 205371,
       "name": "\u6b63\u60f3\u8457\u4f60\u5462",
       "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
+    },
+    {
+      "album": {
+        "name": "\u6bdb\u7dda\u7403\u5c11\u5973 Yarn",
+        "url": "https://open.spotify.com/album/3cDNDcNVxkuq4GV4Nw6qXJ"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212593,
+      "name": "\u6bdb\u7dda\u7403\u5c11\u5973 Yarn",
+      "url": "https://open.spotify.com/track/4z4wb1p7KpEI9mCjKxs8YP"
     },
     {
       "album": {

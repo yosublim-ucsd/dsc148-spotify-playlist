@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129033,
+      "name": "Johnnie Walker",
+      "url": "https://open.spotify.com/track/7tErHOovEq5zRlmod4wrq8"
+    },
+    {
+      "album": {
         "name": "Kehra Pind?",
         "url": "https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ"
       },
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 212441,
       "name": "Kehra Pind?",
       "url": "https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl"

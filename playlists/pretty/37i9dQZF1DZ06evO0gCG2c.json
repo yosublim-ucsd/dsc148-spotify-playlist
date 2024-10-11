@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 307265,
+  "num_followers": 307329,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAACXAnQ3QVrPm80YjI+TGJTT",
+  "snapshot_id": "ZwXHgAAAAAByBtCuqXCBhIF8UCrAXdaM",
   "tracks": [
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra-One",
-        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
-        }
-      ],
-      "duration_ms": 306503,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Right Now (Na Na Na) [Sped Up]",
         "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 226709,
       "name": "Right Now (Na Na Na) - Sped Up",
       "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "duration_ms": 306503,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Second Rounds On Me",
+        "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
+      },
+      "artists": [
+        {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Second Rounds On Me",
-        "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
-      },
-      "artists": [
-        {
-          "name": "Obie Trice",
-          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "Snitch",
-      "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -1019,22 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Boss' Life",
-      "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
     }
   ],
   "unique_name": "This Is Akon",

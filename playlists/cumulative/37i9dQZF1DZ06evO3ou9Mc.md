@@ -2,7 +2,7 @@
 
 ### [This Is The Offspring](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ou9Mc)
 
-> This Is The Offspring\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is The Offspring\. The essential tracks, all in one playlist.
 
 70 songs - 3 hr 45 min
 

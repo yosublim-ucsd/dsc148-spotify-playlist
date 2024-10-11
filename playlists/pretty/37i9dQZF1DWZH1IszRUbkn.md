@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 925 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 47 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 | 48 | [Susanita](https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM) | [Daniela](https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82), [Los Pollitos](https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 3:01 |
 | 49 | [Ki Ki Kí \- Co Co Có \(Arturo Cabrera Remix\)](https://open.spotify.com/track/4retjOENUHtaD9bmnNrIIP) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Arturo Cabrera](https://open.spotify.com/artist/2tnkqXDQ6S1FosAwwS0do1) | [Por Tí Y Para Tí](https://open.spotify.com/album/5lY38DKcpTaEsO0s3yzML8) | 3:42 |
-| 50 | [Cocinar](https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:37 |
+| 50 | [Las mañanitas](https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:12 |
 
 Snapshot ID: `Za6laAAAAAC6Alu1cb6ZZVgWZw637MD+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:0Qb0B1f0uVNSiNbT4SAwGi\">Julie Ellinor</a>",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C?si=6p1M5o_yTJ2WuklEB_DL8Q\">Emma Sehested H\u00f8eg</a>",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 212558,
       "name": "Ildfluer",
       "url": "https://open.spotify.com/track/44AFri447xop1t5EblgHbE"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 180545,
       "name": "Neon Glow",
       "url": "https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9"
@@ -1952,6 +1952,24 @@
       "duration_ms": 168425,
       "name": "v\u00e6ret der for mig",
       "url": "https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w"
+    },
+    {
+      "album": {
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "album": {

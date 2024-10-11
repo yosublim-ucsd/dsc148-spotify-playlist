@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Noor
+> La pop française annonce la couleur\. Photo : Mauvaise Bouche
 
-226 songs - 11 hr 12 min
+228 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Brisées](https://open.spotify.com/track/4LP1eSmHnz4zuOUWzBBrQs) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Brisées](https://open.spotify.com/album/6QPKe9umwU1cNYqefQakdb) | 3:16 | 2024-06-20 | 2024-08-02 |
 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 | 2023-11-23 | 2024-01-26 |
 | [Bêtise](https://open.spotify.com/track/6OmdFCxnpRCwuMX9kprUXU) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Bêtise](https://open.spotify.com/album/4oYPlPRZRLpvuFWGDQJepf) | 3:01 | 2024-03-28 |  |
-| [C'est ciao !](https://open.spotify.com/track/7GGSkQIglpa4FC3OIsMkXb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [C'est ciao !](https://open.spotify.com/album/5sEYaSuLlMiFcwtR2rEs6x) | 2:19 | 2024-06-27 |  |
+| [C'est ciao !](https://open.spotify.com/track/7GGSkQIglpa4FC3OIsMkXb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [C'est ciao !](https://open.spotify.com/album/5sEYaSuLlMiFcwtR2rEs6x) | 2:19 | 2024-06-27 | 2024-10-11 |
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-04-18 | 2024-07-12 |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-09 | 2024-01-26 |
 | [CC SAVA](https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [CC SAVA](https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S) | 3:07 | 2023-10-12 | 2023-12-15 |
@@ -63,7 +63,7 @@
 | [Dans mon coeur, tu reviens](https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Dans mon coeur, tu reviens](https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 | 2024-01-10 |
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-19 |
-| [Des Histoires](https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Des Histoires](https://open.spotify.com/album/4tCoXW3fESM9myCDX6cSD2) | 3:16 | 2024-05-16 |  |
+| [Des Histoires](https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Des Histoires](https://open.spotify.com/album/4tCoXW3fESM9myCDX6cSD2) | 3:16 | 2024-05-16 | 2024-10-11 |
 | [Des Trésors](https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/0EcdCP79FGAUF30sPIvgI6) | 3:22 | 2023-07-27 | 2023-09-08 |
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 | 2024-03-08 |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
@@ -149,6 +149,7 @@
 | [Mon corps](https://open.spotify.com/track/2zP3QL9m9TNv0EgEKNiHR8) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Après la pluie](https://open.spotify.com/album/34WUIUhO70T0QUQvoTS16U) | 2:20 | 2024-04-18 | 2024-06-28 |
 | [Morose](https://open.spotify.com/track/6h9sz00y2BxWK7luVV5moD) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Je cherche encore...](https://open.spotify.com/album/4NTg4TxZozULTYTH2evyuA) | 2:49 | 2024-05-30 | 2024-09-27 |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-02-29 | 2024-09-20 |
+| [Mélancolie](https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Mélancolie](https://open.spotify.com/album/1Md5rUEu50jUGKPatnGv1I) | 3:41 | 2024-10-10 |  |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 | 2024-07-11 |  |
 | [Normandie](https://open.spotify.com/track/304a160jxpVs2JYVWtoR4N) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Tout ce que l'on ne devient pas](https://open.spotify.com/album/0HJxteAp9XRvMFbWp7MXwe) | 2:25 | 2024-04-25 | 2024-05-17 |
@@ -209,6 +210,7 @@
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2023-12-21 | 2024-06-28 |
 | [Stop](https://open.spotify.com/track/1FHYc87SB04yU4D07Ar9eD) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Stop](https://open.spotify.com/album/41B9LhfvPuQ9a1u9n7DIhs) | 3:08 | 2024-04-25 | 2024-09-27 |
 | [Super potos](https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [Super potos](https://open.spotify.com/album/6AuJdkK4SBkcLskg9tF1NK) | 2:11 | 2023-09-14 | 2023-11-10 |
+| [T'es pas sexy](https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [T'es pas sexy](https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw) | 2:29 | 2024-10-10 |  |
 | [Tant mieux](https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [Tant mieux](https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA) | 2:36 | 2024-10-03 |  |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2023-12-14 | 2024-10-04 |
 | [tattoo](https://open.spotify.com/track/7evwmxNkhVLd2upYjGa7De) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:50 | 2024-07-05 | 2024-08-23 |

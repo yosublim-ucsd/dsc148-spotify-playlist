@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Mousiba",
+        "url": "https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ"
+      },
+      "artists": [
+        {
+          "name": "El Katiba",
+          "url": "https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220116,
+      "name": "Mousiba",
+      "url": "https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P"
+    },
+    {
+      "album": {
         "name": "NE7LEF",
         "url": "https://open.spotify.com/album/6ywgv4mpHICIW4nfg9jCly"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 199466,
       "name": "Sa7a",
       "url": "https://open.spotify.com/track/4FLgbthreXG0QiWWYeYfMf"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 172148,
       "name": "Savage",
       "url": "https://open.spotify.com/track/0eTSk4KhErvJ8fC4PhbsQg"
@@ -1682,6 +1700,24 @@
       "duration_ms": 192052,
       "name": "Welou",
       "url": "https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4"
+    },
+    {
+      "album": {
+        "name": "Ya Rayah",
+        "url": "https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t"
+      },
+      "artists": [
+        {
+          "name": "Sou Feryville",
+          "url": "https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203624,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0"
     },
     {
       "album": {

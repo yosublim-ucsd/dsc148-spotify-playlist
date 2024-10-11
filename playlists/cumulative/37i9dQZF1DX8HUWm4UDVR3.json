@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Noor",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Mauvaise Bouche",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 139946,
       "name": "C'est ciao !",
       "url": "https://open.spotify.com/track/7GGSkQIglpa4FC3OIsMkXb"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 196839,
       "name": "Des Histoires",
       "url": "https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe"
@@ -2639,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9lancolie",
+        "url": "https://open.spotify.com/album/1Md5rUEu50jUGKPatnGv1I"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221846,
+      "name": "M\u00e9lancolie",
+      "url": "https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf"
+    },
+    {
+      "album": {
         "name": "Z\u00e9lie c'est qui ?",
         "url": "https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha"
       },
@@ -3752,6 +3770,24 @@
       "duration_ms": 131907,
       "name": "Super potos",
       "url": "https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr"
+    },
+    {
+      "album": {
+        "name": "T'es pas sexy",
+        "url": "https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149080,
+      "name": "T'es pas sexy",
+      "url": "https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Layton Giordani",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Ben Hemsley",
   "name": "Armada Today",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 175620,
       "name": "Another Dimension",
       "url": "https://open.spotify.com/track/6bu9yE3D2FUamqfXpd8VPD"
@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Beg You",
+        "url": "https://open.spotify.com/album/4v1z9TfE4y97omPxEreTg4"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264650,
+      "name": "Beg You",
+      "url": "https://open.spotify.com/track/1IpOkr2ADRJGyR8nE3xQS2"
+    },
+    {
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2FzpTdxPDGjENoVQE6W2EH"
       },
@@ -1906,7 +1928,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
@@ -4297,6 +4319,32 @@
     },
     {
       "album": {
+        "name": "Destination Lost (Would You Miss Me Around)",
+        "url": "https://open.spotify.com/album/6seNFgrCda8WxGsKjMigrO"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Destination Lost (Would You Miss Me Around)",
+      "url": "https://open.spotify.com/track/2J51s8ix1W0LZZX1jXHJo2"
+    },
+    {
+      "album": {
         "name": "DFCW",
         "url": "https://open.spotify.com/album/3h7Cs4gtHtdgRqi2ukWskK"
       },
@@ -4820,7 +4868,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 145600,
       "name": "Dominos - Parsa Nani Remix",
       "url": "https://open.spotify.com/track/5y49z7kFyN7CKJ8yjqTVI2"
@@ -6598,10 +6646,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 359599,
       "name": "Flashdance - Album Mix",
       "url": "https://open.spotify.com/track/12GCtamy9WhgTGUfTl4eN4"
+    },
+    {
+      "album": {
+        "name": "Flashdance",
+        "url": "https://open.spotify.com/album/3j7WIGnQQHjHCbxt7svjUM"
+      },
+      "artists": [
+        {
+          "name": "Deep Dish",
+          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171516,
+      "name": "Flashdance - Deep Dish Guitar Redux Remix",
+      "url": "https://open.spotify.com/track/0REwglRKOWRUNwVWAtUOFm"
     },
     {
       "album": {
@@ -7084,6 +7150,28 @@
       "duration_ms": 223548,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6gk0Zohmm4H6wjpzNZNk4X"
+    },
+    {
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169531,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO"
     },
     {
       "album": {
@@ -9554,6 +9642,24 @@
       "duration_ms": 129375,
       "name": "Hungry (For Love)",
       "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+    },
+    {
+      "album": {
+        "name": "Hype Boy",
+        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196941,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
     },
     {
       "album": {
@@ -16678,7 +16784,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 159705,
       "name": "Perfect (Exceeder) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/2XoNq5vZlHC2Y1JCoEbYBY"
@@ -21004,7 +21110,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 203333,
       "name": "Sunshine On A Rainy Day",
       "url": "https://open.spotify.com/track/7AF1QK0AM9lWEoTUeik0On"
@@ -22618,6 +22724,24 @@
       "duration_ms": 624574,
       "name": "Tidal - The Euphoric Mix",
       "url": "https://open.spotify.com/track/7Itjn9RYLYdtAonZdc9Mkp"
+    },
+    {
+      "album": {
+        "name": "Tigra",
+        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
+      },
+      "artists": [
+        {
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Tigra",
+      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
     },
     {
       "album": {

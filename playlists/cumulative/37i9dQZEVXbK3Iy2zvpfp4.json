@@ -2561,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -7009,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "DU\u0160A UNDERGROUNDU",
+        "url": "https://open.spotify.com/album/7LqHV0S8eBATAlaAiQjXUD"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "camo baggy pants",
+      "url": "https://open.spotify.com/track/1YhyDImQSePUTON2Rm4QLT"
+    },
+    {
+      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/5SZRS4UxsNuGFTgPwjAga9"
       },
@@ -10716,7 +10756,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 168856,
       "name": "do i ever cross your mind",
       "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
@@ -19408,7 +19448,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
@@ -23960,7 +24000,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -25294,7 +25334,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 137187,
       "name": "made in slovakia",
       "url": "https://open.spotify.com/track/7rQB3A66Brj0Xc5EXzUdgF"
@@ -26882,10 +26922,6 @@
         {
           "name": "Red Luna",
           "url": "https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE"
-        },
-        {
-          "name": "RhyRhy",
-          "url": "https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7"
         }
       ],
       "date_added": "2024-10-08",
@@ -26930,10 +26966,6 @@
         {
           "name": "Red Luna",
           "url": "https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE"
-        },
-        {
-          "name": "RhyRhy",
-          "url": "https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7"
         }
       ],
       "date_added": "2024-10-08",
@@ -34334,7 +34366,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -43305,6 +43337,24 @@
     },
     {
       "album": {
+        "name": "In Excellent Order",
+        "url": "https://open.spotify.com/album/30lqUcHnBNxCseddTVrXIU"
+      },
+      "artists": [
+        {
+          "name": "Fried By Fluoride",
+          "url": "https://open.spotify.com/artist/0qwt0uuav6sDn54MRKrL1u"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112171,
+      "name": "The Love I Lost",
+      "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
+    },
+    {
+      "album": {
         "name": "THE MASTER",
         "url": "https://open.spotify.com/album/6ByfgsYiN2mwX5bQyrts8s"
       },
@@ -45530,7 +45580,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -48136,7 +48186,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 258013,
       "name": "Woops",
       "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"

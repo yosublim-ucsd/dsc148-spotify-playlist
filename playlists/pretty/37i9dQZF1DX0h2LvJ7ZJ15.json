@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1413863,
+  "num_followers": 1414439,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "NO GOING BACK",
-        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "BAIXO - slowed",
-      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "3 am empty",
         "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 199043,
       "name": "3 am walk - Slowed & Reverb Version",
       "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "NO GOING BACK",
+        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "BAIXO - slowed",
+      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "It's Ok (Slowed)",
+        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 214371,
+      "name": "It's Ok - Slowed",
+      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "Memory Reboot",
         "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 236307,
       "name": "Memory Reboot - Slowed",
       "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "It's Ok (Slowed)",
-        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 214371,
-      "name": "It's Ok - Slowed",
-      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CUTE DEPRESSED (ALL VERSIONS)",
-        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "CUTE DEPRESSED - SLOWED VERSION",
-      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Fangs",
         "url": "https://open.spotify.com/album/0gPfImCSCdXyMPRGjWw9oQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186013,
       "name": "Fangs - Slowed Down",
       "url": "https://open.spotify.com/track/30l31DirTxcg4NaAY1BHlS"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CUTE DEPRESSED (ALL VERSIONS)",
+        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "CUTE DEPRESSED - SLOWED VERSION",
+      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -883,18 +883,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "prolly my spookiest beat (slowed + reverb)",
-        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
       },
       "artists": [
         {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "DJ Purpberry",
+          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
         }
       ],
-      "duration_ms": 141509,
-      "name": "prolly my spookiest beat (slowed + reverb)",
-      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     }
   ],
   "unique_name": "slowed and reverbed",

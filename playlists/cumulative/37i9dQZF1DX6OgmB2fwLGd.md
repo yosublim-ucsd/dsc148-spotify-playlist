@@ -4,7 +4,7 @@
 
 > 2hollis\. Born and raised on the internet.
 
-1,069 songs - 1 day 19 hr 27 min
+1,070 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [ALL MY MIGHT](https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ALL MY MIGHT](https://open.spotify.com/album/4S1mlCyeQ87cipFb0TClvA) | 2:24 | 2022-01-28 | 2022-03-13 |
 | [ALL NIGHT LONG](https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ALL NIGHT LONG](https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e) | 2:09 | 2022-10-07 | 2022-11-12 |
 | [all of me \(feat\. polo perks <3 <3 <3\)](https://open.spotify.com/track/0VoO5y11ZUazbNF4qvywa7) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [POLO PERKS <3 <3 <3](https://open.spotify.com/artist/4f4Ee5QjHnoeSdlxTaK6rx) | [all of me \(feat\. polo perks <3 <3 <3\)](https://open.spotify.com/album/3WppiDwkADpwntgFHjU9He) | 2:32 | 2023-11-17 | 2023-12-30 |
-| [all the time](https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD) | [Bayymack](https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [all the time](https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ) | 1:51 | 2024-01-12 |  |
+| [all the time](https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD) | [Bayymack](https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [all the time](https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ) | 1:51 | 2024-01-12 | 2024-10-11 |
 | [ALONE \(feat\. Trippie Redd\)](https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:16 | 2022-02-11 | 2022-02-26 |
 | [Already Rich](https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Already Rich](https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed) | 2:25 | 2023-06-02 | 2023-10-14 |
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-27 | 2022-04-29 |
@@ -167,6 +167,7 @@
 | [Bread Head](https://open.spotify.com/track/35bjGZeGBH31RzVvBpa8x1) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Bread Head](https://open.spotify.com/album/71plzbsKknTR8QPMKJtesU) | 3:25 | 2021-10-08 | 2022-02-23 |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-27 |  |
 | [BREATHE\. freestyle](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE\. freestyle](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 | 2023-11-10 | 2024-07-31 |
+| [BRUISED](https://open.spotify.com/track/2qhRJaNCzBk54yQkn7gLpu) | [HIIBRYD](https://open.spotify.com/artist/0s5AwKu2JlPxyBlxMNPVxu), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [BRUISED](https://open.spotify.com/album/0zGVVjgaTXDoNWpZiqqpWQ) | 3:24 | 2024-10-10 |  |
 | [BUBBLE GREEN](https://open.spotify.com/track/3geCHoatBHgpCbLmittPye) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [GHOST \(DELUXE EDITION\)](https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E) | 1:49 | 2023-11-10 | 2024-04-04 |
 | [Buggin' Freestyle](https://open.spotify.com/track/4qqvFEtoAQvRdYWTecpbk7) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R) | [Buggin' Freestyle](https://open.spotify.com/album/41cCjr0TBMm6GTXD36A6Tw) | 2:24 | 2022-01-14 | 2022-01-22 |
 | [buku](https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [buku](https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog) | 2:17 | 2023-03-17 | 2023-10-21 |

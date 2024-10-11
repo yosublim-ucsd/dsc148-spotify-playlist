@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Kweller
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,643 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,671 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 12 | [Bala e Fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Bala e Fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
 | 13 | [Só Mais Um Dia](https://open.spotify.com/track/5NEN6TH8Js8TIsUNOIiRn5) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Só Mais Um Dia](https://open.spotify.com/album/2D1KWMlCw1H60ewPVTPT2y) | 3:57 |
 | 14 | [Destaque](https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Balances](https://open.spotify.com/artist/64ixLjZbotbS49TdLAGqBT) | [IAMBINHU](https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU) | 2:31 |
-| 15 | [ONDA GRANDE](https://open.spotify.com/track/1DmidDfqLyMPlOgH4u5mTR) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [ONDA GRANDE](https://open.spotify.com/album/4fYGmyDE0sO8vuHyadgV0H) | 2:39 |
+| 15 | [ONDA GRANDE](https://open.spotify.com/track/1DmidDfqLyMPlOgH4u5mTR) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk) | [ONDA GRANDE](https://open.spotify.com/album/4fYGmyDE0sO8vuHyadgV0H) | 2:39 |
 | 16 | [Chevette do Jacó](https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Chevette do Jacó](https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C) | 2:53 |
 | 17 | [Jam \#01 \- Melhor Vibe](https://open.spotify.com/track/7aR6KJVIkUHakIQYFPf8EE) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Jam \#1](https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR) | 2:12 |
 | 18 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |

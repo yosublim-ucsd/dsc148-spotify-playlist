@@ -2,7 +2,7 @@
 
 ### [This Is Yseult](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12oeLC)
 
-> This is Yseult\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Yseult\. The essential tracks, all in one playlist.
 
 50 songs - 2 hr 57 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,751 songs - 3 day 22 hr 4 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,753 songs - 3 day 22 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1759,5 +1759,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1749 | [Feel The Rush](https://open.spotify.com/track/0B1F31CeEx7L5jy36W9l6d) | [RUBIØ](https://open.spotify.com/artist/6qr39ni6B1uX5Vbo9biMhd) | [Feel The Rush](https://open.spotify.com/album/2LLzpqN0OAzOlD1TYtQ1ZC) | 6:33 |
 | 1750 | [The Future \- Laser Live Edit](https://open.spotify.com/track/6trG4y7IE2PXiBEVSDAitx) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi), [Tenzin](https://open.spotify.com/artist/5vnDYpoLqdsebfsH7xexpG) | [Live EP](https://open.spotify.com/album/1QpdZ1gDn2FHhyptxyUod0) | 2:19 |
 | 1751 | [Bring The Noise](https://open.spotify.com/track/66QZYbaKQlcx3fJBVqiGp0) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Bring The Noise](https://open.spotify.com/album/19JuT3kCuEWXlwoMplXGag) | 2:26 |
+| 1752 | [To The Moon \- Gabber Version](https://open.spotify.com/track/54i0jO0ULAviwnr2omKYEv) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [To The Moon](https://open.spotify.com/album/27bSeTi48ojbn3Q1bzVIVv) | 2:55 |
+| 1753 | [DEFAULT DAMAGER](https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [DEFAULT DAMAGER](https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD) | 2:27 |
 
-Snapshot ID: `AAAHCFs3KK/hRDvlBXsUPDtGL6KkoJiU`
+Snapshot ID: `AAAHCt87daapRQHE2WsK4hYQvKbF9PRC`

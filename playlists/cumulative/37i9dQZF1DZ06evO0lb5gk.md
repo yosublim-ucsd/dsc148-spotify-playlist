@@ -2,7 +2,7 @@
 
 ### [This Is Gojira](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lb5gk)
 
-> This is Gojira\. The essential tracks, all in one playlist.
+> This Is Gojira\. Les titres incontournables, réunis dans une seule et même playlist.
 
 61 songs - 4 hr 45 min
 

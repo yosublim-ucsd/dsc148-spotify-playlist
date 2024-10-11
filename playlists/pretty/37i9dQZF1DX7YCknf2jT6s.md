@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,670 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,741 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 31 | [Tension](https://open.spotify.com/track/0Q9Z3nPkhn6zgLDwb3KDQI) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Hoodna Orchestra](https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk) | [Tension](https://open.spotify.com/album/1LEyv9zoE2S6GN8gqkIq9f) | 4:57 |
 | 32 | [Embraceable You \- Radio Edit](https://open.spotify.com/track/6eHXuBhkIeN9LVsdUnVfOC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Embraceable You \(Radio Edit\)](https://open.spotify.com/album/6diBPFhPsOXX9zfo78vfq7) | 7:17 |
 | 33 | [Just Dreams](https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Just Dreams](https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM) | 3:52 |
-| 34 | [May 4th](https://open.spotify.com/track/6WnUUjFHc0NLFPNnvxH4Id) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Andrew Cyrille](https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Breaking the Shell](https://open.spotify.com/album/7imWOWOlNlyNaKvOeRFA4G) | 3:10 |
+| 34 | [May 4th](https://open.spotify.com/track/6WnUUjFHc0NLFPNnvxH4Id) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Andrew Cyrille](https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Breaking the Shell](https://open.spotify.com/album/7imWOWOlNlyNaKvOeRFA4G) | 3:10 |
 | 35 | [Control](https://open.spotify.com/track/4DHcY0NyOusUtbcYBfiUs9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [TyC](https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Free Trap](https://open.spotify.com/album/1W6O3yZir8yLmqBZu3kHbg) | 3:34 |
 | 36 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 |
 | 37 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |

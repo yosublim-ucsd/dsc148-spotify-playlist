@@ -1,13 +1,77 @@
 {
   "description": "Inspiring the explorer in everyone. Cover: National Parks USA, now streaming on Hulu.  ",
-  "num_followers": 14622,
+  "num_followers": 14642,
   "original_name": "National Geographic Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdMhAAAAABXphd3AsfyxVXj85802KZn",
+  "snapshot_id": "ZwhS/QAAAABTBAMLJHbGxeGEi+oW87V6",
   "tracks": [
+    {
+      "added_at": "2024-10-10 22:19:41",
+      "album": {
+        "name": "National Geographic Soundscapes: National Parks USA",
+        "url": "https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN"
+      },
+      "artists": [
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "duration_ms": 252764,
+      "name": "Bear Family Hunting Salmon at Katmai National Park",
+      "url": "https://open.spotify.com/track/3UWIWhiOmtJCnLlCzF9izF"
+    },
+    {
+      "added_at": "2024-10-10 22:19:41",
+      "album": {
+        "name": "National Geographic Soundscapes: National Parks USA",
+        "url": "https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN"
+      },
+      "artists": [
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Thunderstorm in Everglades National Park",
+      "url": "https://open.spotify.com/track/7ISvDbtyWCGeskXQ1rX0DZ"
+    },
+    {
+      "added_at": "2024-10-10 22:19:41",
+      "album": {
+        "name": "National Geographic Soundscapes: National Parks USA",
+        "url": "https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN"
+      },
+      "artists": [
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Zion Canyon Thunderstorm",
+      "url": "https://open.spotify.com/track/5KSe1wiaCx1HGXUWRdL26I"
+    },
+    {
+      "added_at": "2024-10-10 22:19:41",
+      "album": {
+        "name": "National Geographic Soundscapes: National Parks USA",
+        "url": "https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN"
+      },
+      "artists": [
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "duration_ms": 308308,
+      "name": "Peaceful Evening in Zion National Park",
+      "url": "https://open.spotify.com/track/3jUQskqN0hSwfGbUBD1Csz"
+    },
     {
       "added_at": "2024-05-24 18:00:00",
       "album": {

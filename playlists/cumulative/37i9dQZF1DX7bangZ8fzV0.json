@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=Ui9RM25sQ3quVOKlNu9xhQ\">Ruhan Du Toit</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=XeeVnwcDRLK-7fn3mXNm4g\">Eloff</a> en <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=vwpvgRPdQZ6B_qW6sI0dTA\">Die Piesangskille</a>",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 204816,
       "name": "Ek Like Jou",
       "url": "https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD"
@@ -1048,6 +1048,28 @@
       "duration_ms": 181831,
       "name": "Ek S\u00ea So",
       "url": "https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT"
+    },
+    {
+      "album": {
+        "name": "Ek Verstaan",
+        "url": "https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164746,
+      "name": "Ek Verstaan",
+      "url": "https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA"
     },
     {
       "album": {
@@ -1304,6 +1326,28 @@
       "duration_ms": 180040,
       "name": "Gooi Nog 'n Whiskey",
       "url": "https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT"
+    },
+    {
+      "album": {
+        "name": "Groeipyne (feat. Die Piesangskille)",
+        "url": "https://open.spotify.com/album/2twBO549njTa165ndnDqIK"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        },
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "Groeipyne (feat. Die Piesangskille)",
+      "url": "https://open.spotify.com/track/2G6OnOnHviWZy9LPl38wyw"
     },
     {
       "album": {
@@ -1644,6 +1688,24 @@
       "duration_ms": 196530,
       "name": "Hy's 'n Lekker Ou",
       "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
+    },
+    {
+      "album": {
+        "name": "Ik Ben Een Afrikaander",
+        "url": "https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201289,
+      "name": "Ik Ben Een Afrikaander",
+      "url": "https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p"
     },
     {
       "album": {
@@ -2774,7 +2836,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 202648,
       "name": "Neem My Op Vlerke - SENSASIE Remix",
       "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
@@ -2980,7 +3042,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 197479,
       "name": "OASE",
       "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"

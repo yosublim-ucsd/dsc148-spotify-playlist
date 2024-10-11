@@ -4,10 +4,11 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-183 songs - 10 hr 19 min
+184 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Thousand Years](https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv) | 3:32 | 2024-10-10 |  |
 | [Above Me](https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf) | 3:34 | 2024-05-20 |  |
 | [Ain't Just Dreaming](https://open.spotify.com/track/5Oj6jg9NrV8dYlXDNB6Uu5) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [The NZ Team](https://open.spotify.com/artist/7rI9VYVp3JYh32FbZME6ip), [Ellesse Andrews](https://open.spotify.com/artist/1mDua6s6MkNJ7WZc9xBFaP), [Max Brown](https://open.spotify.com/artist/7zV7e9gbkoifHMZYxW3Bh6) | [Ain't Just Dreaming](https://open.spotify.com/album/7wU7TF5kEnSJnobM4HcB1m) | 3:21 | 2024-05-20 |  |
 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 | 2024-09-26 |  |
@@ -26,7 +27,7 @@
 | [Boys & Guitars](https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Boys & Guitars](https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf) | 3:55 | 2024-09-19 |  |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 |  |
 | [CANADA \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 | 2024-05-20 |  |
-| [Candy's House \(Comedown Song\)](https://open.spotify.com/track/4HBQRNQTA6Wq4PgIauAWMB) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling \(Deluxe\)](https://open.spotify.com/album/5uMEjjSH41zZbl4XpI4KDC) | 3:06 | 2024-05-20 |  |
+| [Candy's House \(Comedown Song\)](https://open.spotify.com/track/4HBQRNQTA6Wq4PgIauAWMB) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling \(Deluxe\)](https://open.spotify.com/album/5uMEjjSH41zZbl4XpI4KDC) | 3:06 | 2024-05-20 | 2024-10-11 |
 | [Catacombs](https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Catacombs](https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H) | 2:55 | 2024-08-22 |  |
 | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/track/1ZMshhKYdUJO50NwWqiJqF) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/album/2vCLkO9163xJNUrQr0xizl) | 3:17 | 2024-05-20 |  |
 | [Caviar Candles](https://open.spotify.com/track/7lEo9BK11xnUGDeJgHG9uh) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Caviar Candles](https://open.spotify.com/album/4NpJt9BY48vMtOuc12DELp) | 3:11 | 2024-05-20 |  |

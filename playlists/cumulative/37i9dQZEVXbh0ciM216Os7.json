@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 174835,
       "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
       "url": "https://open.spotify.com/track/1iFq30sebSBYZkIcmYLtrY"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 174835,
       "name": "Ball Alone (feat. Joey Bada$$ & Saba)",
       "url": "https://open.spotify.com/track/2ek3ACYo7h7exTdeCGwtMC"
@@ -7562,7 +7562,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 102000,
       "name": "DIAMOND CIGARS",
       "url": "https://open.spotify.com/track/7wfQvpKdGUJH3rw924zV4l"
@@ -9746,7 +9746,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 206327,
       "name": "eternal sunshine - live version",
       "url": "https://open.spotify.com/track/2SRQZfCTtMpSTQ7GD2gQ1f"
@@ -25611,6 +25611,28 @@
     },
     {
       "album": {
+        "name": "Perplexed",
+        "url": "https://open.spotify.com/album/4ckShM8zDvui3g6xd05rQC"
+      },
+      "artists": [
+        {
+          "name": "Tsukii HiFi",
+          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103058,
+      "name": "Perplexed",
+      "url": "https://open.spotify.com/track/76Db2n1JRXOwXKQwuwLeYf"
+    },
+    {
+      "album": {
         "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
         "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
       },
@@ -31750,7 +31772,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 163574,
       "name": "supernatural - live version",
       "url": "https://open.spotify.com/track/0FnkhFA4h80IYaYGgKFI2M"

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: レトロリロン
 
-1,926 songs - 4 day 23 hr 46 min
+1,927 songs - 4 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [25](https://open.spotify.com/track/1YSJWOAY8r5tWVOvekY9bi) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Sugar House](https://open.spotify.com/album/76Ay3WdOwB9FZJ0mVaWxgx) | 3:44 | 2024-01-16 | 2024-01-24 |
 | [27](https://open.spotify.com/track/3PcJpYWgLETjUx1anD13B7) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz) | [27](https://open.spotify.com/album/4v6DOkGMoF2SV76CZKWzwB) | 2:06 | 2023-11-30 | 2023-12-06 |
 | [2人は飛び降りた](https://open.spotify.com/track/0pFQvJ2re0mMT5DF8o2gjE) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [2人は飛び降りた](https://open.spotify.com/album/2QpRd89ajCuOe0vZUWkPKb) | 3:57 | 2023-09-26 | 2023-09-28 |
-| [40℃](https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [40℃](https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B) | 2:54 | 2024-09-03 |  |
+| [40℃](https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [40℃](https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B) | 2:54 | 2024-09-03 | 2024-10-11 |
 | [6a6ylon 6illy](https://open.spotify.com/track/3jyhTziThZReJcJvsMylnQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [ku ru i](https://open.spotify.com/album/2NfbawZAo52pxLPkn54Ce0) | 2:07 | 2024-05-28 | 2024-06-05 |
 | [6月は愛について](https://open.spotify.com/track/5pzbLN7UbYjZz7zRZsAKri) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/4IrEjA3UuyN5o1TAr3aVU9) | 3:09 | 2023-08-08 | 2023-08-10 |
 | [777](https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [777](https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof) | 3:54 | 2024-09-17 | 2024-10-05 |
@@ -425,6 +425,7 @@
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-04-05 |
 | [HINODE](https://open.spotify.com/track/20CLHhDErrZB8JsFKYZW4t) | [Antiage](https://open.spotify.com/artist/1Ds6NxT56UdoyjaOjOpkH4) | [HINODE](https://open.spotify.com/album/2jM7tztSPBnAhP3Q2LV9Dc) | 4:13 | 2024-06-04 | 2024-06-12 |
+| [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 | 2024-10-08 |  |
 | [Hitohito](https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Hitohito](https://open.spotify.com/album/4azrBZDRfk6pT59gYODhv6) | 4:21 | 2023-12-05 | 2023-12-27 |
 | [Hitsujigumo](https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Hitsujigumo](https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg) | 3:37 | 2024-04-02 | 2024-04-10 |
 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 | 2024-01-23 | 2024-01-31 |

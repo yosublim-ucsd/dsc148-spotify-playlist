@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv7MkwAAAADDbjQ2bC8u+yF0ApUF4+Qx",
+  "snapshot_id": "ZweBBwAAAAAacJw31r/T0vpFqOa7bEW3",
   "tracks": [
     {
       "added_at": "2024-10-03 16:55:47",
@@ -59,6 +59,38 @@
     {
       "added_at": "2024-10-03 16:55:47",
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "Coincidence",
+      "url": "https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud"
+    },
+    {
+      "added_at": "2024-10-10 07:23:51",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2024-10-03 16:55:47",
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -75,22 +107,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "Coincidence",
-      "url": "https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud"
     },
     {
       "added_at": "2024-10-03 16:55:47",
@@ -191,6 +207,22 @@
       "duration_ms": 283500,
       "name": "Badut Bodoh",
       "url": "https://open.spotify.com/track/7wZhfStC45k8DA1IrJ9hii"
+    },
+    {
+      "added_at": "2024-10-10 07:23:51",
+      "album": {
+        "name": "alone tonight",
+        "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 225031,
+      "name": "intentions",
+      "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
     },
     {
       "added_at": "2024-10-03 16:55:47",
@@ -839,26 +871,6 @@
     {
       "added_at": "2024-10-03 16:55:47",
       "album": {
-        "name": "Different Cities",
-        "url": "https://open.spotify.com/album/6guyJDIbIkZcVrz9l6lmaQ"
-      },
-      "artists": [
-        {
-          "name": "RADi",
-          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
-        },
-        {
-          "name": "Alex Ungku",
-          "url": "https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Different Cities",
-      "url": "https://open.spotify.com/track/18fcLoyTylM1MDyOc7s5av"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
         "name": "Peak of Love",
         "url": "https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ"
       },
@@ -871,22 +883,6 @@
       "duration_ms": 242000,
       "name": "Peak of Love",
       "url": "https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
-        "name": "French Exit",
-        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     },
     {
       "added_at": "2024-10-03 16:55:47",
@@ -959,22 +955,6 @@
     {
       "added_at": "2024-10-03 16:55:47",
       "album": {
-        "name": "Live in Peter's Attic",
-        "url": "https://open.spotify.com/album/0jGd0wCQBaOe5IPeIn43H5"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 243796,
-      "name": "I Don't Wanna Be Okay Without You",
-      "url": "https://open.spotify.com/track/5cJZPy9Tad2aT3ZMnN6yvd"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
         "name": "Sekarang Hingga Nanti Kita Tua",
         "url": "https://open.spotify.com/album/0zckviJr7tgEcWCttsurOw"
       },
@@ -1019,22 +999,6 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173639,
-      "name": "the boy is mine",
-      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
     },
     {
       "added_at": "2024-10-03 16:55:47",
@@ -1471,22 +1435,6 @@
       "duration_ms": 236493,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
-    },
-    {
-      "added_at": "2024-10-03 16:55:47",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2024-10-03 16:55:47",

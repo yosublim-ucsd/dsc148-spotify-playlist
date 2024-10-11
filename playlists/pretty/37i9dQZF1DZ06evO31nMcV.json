@@ -1,12 +1,12 @@
 {
-  "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22221,
+  "description": "This Is Alexis Ffrench. Los temas esenciales, todos en una lista.",
+  "num_followers": 22244,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwMkgAAAAABqpob1cGb3/JRDyWOICy6Q",
+  "snapshot_id": "ZwXHgAAAAACxoCQF6doc3R3CjGl8qsmm",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly With His Song",
-        "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 63372,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -275,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+        "name": "Killing Me Softly With His Song",
+        "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
       },
       "artists": [
         {
@@ -284,9 +268,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 133647,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
     },
     {
       "added_at": null,
@@ -323,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Returning To You",
-        "url": "https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
       "artists": [
         {
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g"
+      "duration_ms": 133647,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
     },
     {
       "added_at": null,
@@ -371,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0nO7IYnaHm7eNwNRULgLG4"
+        "name": "Returning To You",
+        "url": "https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb"
       },
       "artists": [
         {
@@ -380,9 +364,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 216600,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/0MXPtGPzHBwiPioVDzVtfJ"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g"
     },
     {
       "added_at": null,
@@ -467,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 49124,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -499,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together Without You",
-        "url": "https://open.spotify.com/album/4SPaZt0yKuLHkB4bd5mEfA"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Together Without You",
-      "url": "https://open.spotify.com/track/2STpnOCDlWxS5JdtsLWaFA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -536,17 +524,13 @@
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 49124,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
+      "duration_ms": 207626,
+      "name": "Together Without You",
+      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
     },
     {
       "added_at": null,
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 129745,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+      "duration_ms": 218130,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 129745,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Karma",
         "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 191445,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stolen Lullabies",
-        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
-      },
-      "artists": [
-        {
-          "name": "The Gagliano Strings",
-          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
-        },
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 112072,
-      "name": "A Wondrous Path",
-      "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 74977,
       "name": "I Say A Little Prayer",
       "url": "https://open.spotify.com/track/5EX3FKSygguEMobMVHM3Og"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stolen Lullabies",
+        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
+      },
+      "artists": [
+        {
+          "name": "The Gagliano Strings",
+          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 112072,
+      "name": "A Wondrous Path",
+      "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stolen Lullabies",
-        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
-      },
-      "artists": [
-        {
-          "name": "The Gagliano Strings",
-          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
-        },
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 104727,
-      "name": "Calmer Shores",
-      "url": "https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 54748,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/4sU45HF4D5m8Sal64CxTFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stolen Lullabies",
+        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
+      },
+      "artists": [
+        {
+          "name": "The Gagliano Strings",
+          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 104727,
+      "name": "Calmer Shores",
+      "url": "https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Hard GZ",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Midas Alonso",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 169591,
       "name": "Best Pussy",
       "url": "https://open.spotify.com/track/7uHW4jGILUeKjawiOfd0zC"
@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Celine (with Kidd Keo)",
+        "url": "https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT"
+      },
+      "artists": [
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "Celine (with Kidd Keo)",
+      "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
+    },
+    {
+      "album": {
         "name": "Cero Negativo",
         "url": "https://open.spotify.com/album/5liO9uFnwv3WhlsHysVuHe"
       },
@@ -2196,7 +2218,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 223977,
       "name": "Creo",
       "url": "https://open.spotify.com/track/2d7DpsLgBTDU3IjgOd288f"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 108000,
       "name": "CSV - Intro",
       "url": "https://open.spotify.com/track/2KW6PCNFjHVKBmO9J16UeE"
@@ -3273,6 +3295,28 @@
     },
     {
       "album": {
+        "name": "MASTERCASTER",
+        "url": "https://open.spotify.com/album/2GTwVzWYGOxTLCmkxunYbQ"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317922,
+      "name": "FIFA Street",
+      "url": "https://open.spotify.com/track/36gTI2PpMvM4j81c1NLiii"
+    },
+    {
+      "album": {
         "name": "Filet Mignon",
         "url": "https://open.spotify.com/album/3w73C6oqcYOHwKUrcF2erp"
       },
@@ -3314,6 +3358,28 @@
       "duration_ms": 216983,
       "name": "Flaco",
       "url": "https://open.spotify.com/track/48w9LKpxqtimEnjABqtgOB"
+    },
+    {
+      "album": {
+        "name": "Florian Wirtz",
+        "url": "https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126633,
+      "name": "Florian Wirtz",
+      "url": "https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07"
     },
     {
       "album": {
@@ -3986,7 +4052,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 143076,
       "name": "j Battle - Fugitivo, Vol. 26",
       "url": "https://open.spotify.com/track/3H6rDy0T4nuXRkFQHog3Mf"
@@ -4030,7 +4096,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 181333,
       "name": "Jokic",
       "url": "https://open.spotify.com/track/5h7nQEwGns2pF1FmuFKgpo"
@@ -7213,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "ROMA NORTE",
+        "url": "https://open.spotify.com/album/7i1PRyXfcECE6FCHp3F7ty"
+      },
+      "artists": [
+        {
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120427,
+      "name": "ROMA NORTE",
+      "url": "https://open.spotify.com/track/4ojrMON5VcUgxXn8bV0Zsp"
+    },
+    {
+      "album": {
         "name": "UN MUNDO RARO",
         "url": "https://open.spotify.com/album/7BZQDrxpHZjSZUtlbOiYwZ"
       },
@@ -9272,6 +9356,24 @@
       "duration_ms": 164571,
       "name": "Yo No S\u00e9",
       "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
+    },
+    {
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/2HBZiEAAsac2an2gFpn7aa"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Young Sinatra",
+      "url": "https://open.spotify.com/track/0Y6FnT5WeEVrPBwI1uJyfr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-119 songs - 6 hr 16 min
+120 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Jattz N The Hood](https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW) | [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Jattz N The Hood](https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M) | 5:23 | 2024-06-03 | 2024-09-29 |
 | [Jhanjraan](https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 2:56 | 2021-12-18 | 2022-01-11 |
 | [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 |  |
-| [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 |  |
+| [Johnnie Walker](https://open.spotify.com/track/7tErHOovEq5zRlmod4wrq8) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:09 | 2024-10-10 |  |
+| [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 | 2024-10-11 |
 | [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 |  |
 | [Khad Tainu Main Dassa](https://open.spotify.com/track/38SHGnYLRMQJ7MzaU6fkCl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Khad Tainu Main Dassa](https://open.spotify.com/album/2bN1Z69PB8VSh7K9Omt6By) | 3:24 | 2021-12-18 | 2022-01-11 |
 | [Killa](https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Killa](https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp) | 3:37 | 2024-08-20 |  |

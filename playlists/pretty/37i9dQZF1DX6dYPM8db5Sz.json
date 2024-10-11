@@ -1,13 +1,225 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=lHSG3jDXRnWPq1a02FSrlg\">HONEYMOAN</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt?si=AYISP-69TmGbARslMxBPgw\">Nic van Graan</a>",
   "num_followers": 12140,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9tNgAAAAAYdg5YrS5P5NbiUHf39k5Y",
+  "snapshot_id": "ZwhOYAAAAAAK2rL+OfxLZUQrE2Y+jiJ6",
   "tracks": [
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "29m2",
+        "url": "https://open.spotify.com/album/582Fnz7HfLw73TITPkm5WQ"
+      },
+      "artists": [
+        {
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "29m2",
+      "url": "https://open.spotify.com/track/1C7APhs9wHwq6DpURYsct9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 221429,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Adrian",
+        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Adrian",
+      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Midnight Talking",
+        "url": "https://open.spotify.com/album/5RlimGp7a5oKiNeVQJg0Qa"
+      },
+      "artists": [
+        {
+          "name": "Louis Island",
+          "url": "https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft"
+        }
+      ],
+      "duration_ms": 131774,
+      "name": "Midnight Talking",
+      "url": "https://open.spotify.com/track/0QcAIJg3Fqx4wvpedzGEla"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/2NvZuxqaoPEEP6vExwiytS"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "She Calls",
+      "url": "https://open.spotify.com/track/50MxY8PIirYisbqAn1ZAOc"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 114696,
+      "name": "Business Blues",
+      "url": "https://open.spotify.com/track/4JspSnfiV6X8okxoPthpwt"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "She's Amazing",
+        "url": "https://open.spotify.com/album/48swFjDVDL7c7nhB8yjCxQ"
+      },
+      "artists": [
+        {
+          "name": "Wynand Fourie",
+          "url": "https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN"
+        }
+      ],
+      "duration_ms": 145421,
+      "name": "She's Amazing",
+      "url": "https://open.spotify.com/track/697j4lXybaYMv9G6Sh1IkA"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 212843,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/1BOf6GT4iZ0dwJqerSsFdn"
+      },
+      "artists": [
+        {
+          "name": "Cara Frew",
+          "url": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/7mWKrNLup11lwdvhokBl6U"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "A-frame",
+        "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "A-frame",
+      "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "There's More To Life",
+        "url": "https://open.spotify.com/album/5kVWaKlgGJGCRJZrNBAcFg"
+      },
+      "artists": [
+        {
+          "name": "Simone Govender",
+          "url": "https://open.spotify.com/artist/4g4b9Qx7XMrxzhQizhD2zz"
+        }
+      ],
+      "duration_ms": 189812,
+      "name": "There's More To Life",
+      "url": "https://open.spotify.com/track/4sFPL29s9eQoeDbdmIlSS0"
+    },
     {
       "added_at": "2024-10-04 04:21:10",
       "album": {
@@ -192,8 +404,8 @@
       },
       "artists": [
         {
-          "name": "Stephan Kreussel",
-          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+          "name": "Indiesonics",
+          "url": "https://open.spotify.com/artist/1S1XiCb76NOin42Jzx53Yp"
         }
       ],
       "duration_ms": 202143,
@@ -955,54 +1167,6 @@
       "duration_ms": 150900,
       "name": "I See the World",
       "url": "https://open.spotify.com/track/6df5JX0hccxo2cpazqg2oK"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "WGTMOMM??",
-        "url": "https://open.spotify.com/album/19LMdvfBQP6A9ATYAfr9qN"
-      },
-      "artists": [
-        {
-          "name": "Sishii",
-          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "WGTMOMM??",
-      "url": "https://open.spotify.com/track/4scFevAlibVBXC66b1yf9R"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Love The Way You Love/Lover's Vow",
-        "url": "https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 176998,
-      "name": "Love The Way You Love",
-      "url": "https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9"
     }
   ],
   "unique_name": "Indie GO",

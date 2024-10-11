@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jungeli",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "L\u2019envers du d\u00e9cor",
+        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "L\u2019envers du d\u00e9cor",
+      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
+    },
+    {
+      "album": {
         "name": "M'en Aller",
         "url": "https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh"
       },
@@ -4390,6 +4408,28 @@
       "duration_ms": 221050,
       "name": "Nous deux",
       "url": "https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ"
+    },
+    {
+      "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153606,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec"
     },
     {
       "album": {
@@ -5345,6 +5385,28 @@
     },
     {
       "album": {
+        "name": "15 Vol.2 : La polyvalence est un don",
+        "url": "https://open.spotify.com/album/0X943C64oj0FwgOnZDaTm9"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        },
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Recommencer Pt.2",
+      "url": "https://open.spotify.com/track/7qekyyp9UZWV3ZgAbGXanv"
+    },
+    {
+      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
       },
@@ -5368,6 +5430,24 @@
       "duration_ms": 242333,
       "name": "RESTE-L\u00c0",
       "url": "https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N"
+    },
+    {
+      "album": {
+        "name": "Reviens jamais",
+        "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161082,
+      "name": "Reviens jamais",
+      "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
     },
     {
       "album": {
@@ -5578,7 +5658,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 170783,
       "name": "Sans se retourner (feat. Leto)",
       "url": "https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP"
@@ -5802,7 +5882,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 141473,
       "name": "Sinc\u00e8re",
       "url": "https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm"
@@ -5820,7 +5900,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 166736,
       "name": "So nice",
       "url": "https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm"
@@ -6328,7 +6408,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 161541,
       "name": "ton attitude",
       "url": "https://open.spotify.com/track/5xuFExz8qNnRVLQWcraYag"

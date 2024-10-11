@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Mano Walter com Matheus Fernandes, GREGO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,349 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,942,549 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 35 | [Molly](https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Molly](https://open.spotify.com/album/14ODkgiFnF1t2ob4e7ygUW) | 3:20 |
 | 36 | [VAI BEBÊ](https://open.spotify.com/track/4czWTferV6e2mLKM5bFxYP) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [VAI BEBÊ](https://open.spotify.com/album/0P5FZicSyd4jyUHsFZ8I3n) | 1:40 |
 | 37 | [CLIMA QUENTE](https://open.spotify.com/track/5UXLMNEFbp70L1YWQ25XKL) | [Puyol](https://open.spotify.com/artist/3I40IzmWD1UYZzZM5U5Q0x), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [CLIMA QUENTE](https://open.spotify.com/album/33pRWPxggdXTCp7N6AhVbU) | 2:11 |
-| 38 | [ONDA GRANDE](https://open.spotify.com/track/1DmidDfqLyMPlOgH4u5mTR) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [ONDA GRANDE](https://open.spotify.com/album/4fYGmyDE0sO8vuHyadgV0H) | 2:39 |
+| 38 | [ONDA GRANDE](https://open.spotify.com/track/1DmidDfqLyMPlOgH4u5mTR) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk) | [ONDA GRANDE](https://open.spotify.com/album/4fYGmyDE0sO8vuHyadgV0H) | 2:39 |
 | 39 | [A D I C T O <3](https://open.spotify.com/track/6LqZrpbGOaiSxciF7T9qPq) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7) | [A D I C T O <3](https://open.spotify.com/album/1ps2Q5sBq5Q3SiiJpYIh6u) | 2:58 |
 | 40 | [Pzidéia](https://open.spotify.com/track/0KhtokCAhaWdd7rIyLpx7Y) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Pzidéia](https://open.spotify.com/album/0ZcsUIYGZeMQqEsMHiNKmO) | 2:44 |
 | 41 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |

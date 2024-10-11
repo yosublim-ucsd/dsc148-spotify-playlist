@@ -671,36 +671,6 @@
     },
     {
       "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "date_added": "2023-12-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151506,
-      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
-      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
-    },
-    {
-      "album": {
         "name": "What's Your Pleasure? (The Platinum Pleasure Edition)",
         "url": "https://open.spotify.com/album/2SfZNW7y0r8ZcUpcxwMQwX"
       },
@@ -788,6 +758,36 @@
       "duration_ms": 263933,
       "name": "Sign In Stranger",
       "url": "https://open.spotify.com/track/3Vrw3TH5qkTReMFHVfI3v8"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
     },
     {
       "album": {

@@ -225,6 +225,36 @@
     },
     {
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "album": {
         "name": "All I See (BAUGRUPPE90 Remix)",
         "url": "https://open.spotify.com/album/1mGR41NcbBasYYAoYJu3Qh"
       },
@@ -1456,7 +1486,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 207012,
       "name": "Change This Pain For Ecstasy",
       "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
@@ -1482,7 +1512,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 230526,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg"
@@ -2450,7 +2480,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
@@ -2846,7 +2876,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 261105,
       "name": "Fell In Luv - Black Circle Remix",
       "url": "https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa"
@@ -4486,7 +4516,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 300000,
       "name": "Let the Music",
       "url": "https://open.spotify.com/track/0K39LXoHYlmW0dsoRmu3gi"
@@ -5228,7 +5258,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 279344,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
@@ -5611,6 +5641,36 @@
     },
     {
       "album": {
+        "name": "Neverender (Rampa Remix)",
+        "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384062,
+      "name": "Neverender - Rampa Remix",
+      "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
+    },
+    {
+      "album": {
         "name": "Night Shadows",
         "url": "https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6"
       },
@@ -5764,7 +5824,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 342473,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/0wVsELktNqS9JISQAwN79y"
@@ -5782,7 +5842,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -6451,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "album": {
         "name": "PSYCHODYSKO",
         "url": "https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c"
       },
@@ -6578,6 +6656,28 @@
       "duration_ms": 408866,
       "name": "Radix",
       "url": "https://open.spotify.com/track/500IbSzCDw1kwSCQJTI1HO"
+    },
+    {
+      "album": {
+        "name": "Rave - Boris Brejcha Remix",
+        "url": "https://open.spotify.com/album/5ksBzi3MAsxgCx31HUst6H"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528000,
+      "name": "Rave - Boris Brejcha Remix",
+      "url": "https://open.spotify.com/track/3dKlUv9WhX0M12vQP25KO5"
     },
     {
       "album": {
@@ -7053,6 +7153,28 @@
     },
     {
       "album": {
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+    },
+    {
+      "album": {
         "name": "Sagan",
         "url": "https://open.spotify.com/album/1kLAmhksriXDrK8TX69Hga"
       },
@@ -7174,6 +7296,28 @@
       "duration_ms": 368623,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09"
+    },
+    {
+      "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK"
     },
     {
       "album": {
@@ -7359,6 +7503,24 @@
     },
     {
       "album": {
+        "name": "Bigroom Sensual",
+        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294866,
+      "name": "Siente (el Ritmo)",
+      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
       },
@@ -7422,6 +7584,36 @@
       "duration_ms": 441898,
       "name": "Silence & Secrets - Adriatique Remix",
       "url": "https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn"
+    },
+    {
+      "album": {
+        "name": "Silence of Love (Reznik Remix)",
+        "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425409,
+      "name": "Silence of Love - Reznik Remix",
+      "url": "https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx"
     },
     {
       "album": {
@@ -7578,7 +7770,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 344738,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
@@ -8046,6 +8238,32 @@
       "duration_ms": 523901,
       "name": "Tasi",
       "url": "https://open.spotify.com/track/2ydBAmSGC32VDh34Libi1G"
+    },
+    {
+      "album": {
+        "name": "Tears (with Paige Cavell) [Max Styler Remix]",
+        "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253228,
+      "name": "Tears (with Paige Cavell) - Max Styler Remix",
+      "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"
     },
     {
       "album": {

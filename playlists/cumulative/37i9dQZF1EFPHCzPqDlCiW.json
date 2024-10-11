@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "How Love Works",
+        "url": "https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk"
+      },
+      "artists": [
+        {
+          "name": "Allie Sherlock",
+          "url": "https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "How Love Works",
+      "url": "https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu"
+    },
+    {
+      "album": {
         "name": "Humans",
         "url": "https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef"
       },

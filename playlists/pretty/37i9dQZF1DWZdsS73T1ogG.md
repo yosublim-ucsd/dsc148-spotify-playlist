@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: De La Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,557 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,619 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 94 | [Bebesota](https://open.spotify.com/track/5hvy6htkXtQ4VV6ST1dUFr) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Bebesota](https://open.spotify.com/album/5eWcJIYaBeNTKD3aQNNxbz) | 2:53 |
 | 95 | [Nada Bueno](https://open.spotify.com/track/5HQfQAVopbv3mWJu0zzNG4) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Nada Bueno](https://open.spotify.com/album/78e7uv3jaTl9M5RogtWwWQ) | 3:38 |
 | 96 | [MALA](https://open.spotify.com/track/1NxuiVZB05U7lW8kwFeuSL) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [MALA](https://open.spotify.com/album/2CR1ez0u1gFz1P8QxZY5IO) | 2:20 |
-| 97 | [Travesura \(feat\. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few\)](https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq), [Chelsy](https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Travesura \(feat\. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few\)](https://open.spotify.com/album/5Z6tPU1jLZefXRvDX0T0I8) | 2:51 |
+| 97 | [Travesura \(feat\. Divino, Lenny Santos, Three Seven Music & The Chosen Few\)](https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Chelsy](https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Travesura \(feat\. Divino, Lenny Santos, Three Seven Music & The Chosen Few\)](https://open.spotify.com/album/5Z6tPU1jLZefXRvDX0T0I8) | 2:51 |
 | 98 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 |
 | 99 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 |
 

@@ -6532,7 +6532,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 217722,
       "name": "ILIKEU",
       "url": "https://open.spotify.com/track/0e2De20YDshejQNatfivQx"
@@ -8600,6 +8600,24 @@
       "duration_ms": 147718,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2qhpdMFTiAMM4ZEsFPqyzv"
+    },
+    {
+      "album": {
+        "name": "between heaven & earth",
+        "url": "https://open.spotify.com/album/1JVBqtT9HFzYQeIYn84dgx"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141175,
+      "name": "lullabye",
+      "url": "https://open.spotify.com/track/1t5ctLSbZor4RIjVwUeTrk"
     },
     {
       "album": {

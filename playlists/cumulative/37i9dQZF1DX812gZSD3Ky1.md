@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: Fyeqoodgurl
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: LISA
 
 252 songs - 13 hr 48 min
 

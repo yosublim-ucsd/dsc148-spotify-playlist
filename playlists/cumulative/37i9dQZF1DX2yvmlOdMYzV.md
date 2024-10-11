@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-815 songs - 1 day 20 hr 24 min
+816 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [IDWL](https://open.spotify.com/track/4FxIGIFx8t2KfuTInsFN0T) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [IDWL](https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP) | 3:40 | 2021-12-15 | 2022-07-29 |
 | [If This Is Love](https://open.spotify.com/track/4tPtlrjm8RxUjym8UaH2Ap) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 3:26 | 2023-10-20 |  |
 | [IJS](https://open.spotify.com/track/165JdCb1wEYmP5WfOXfBfa) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [IJS](https://open.spotify.com/album/5YkPkHK7iETIRUQh4NAeaI) | 3:47 | 2024-02-02 | 2024-07-20 |
-| [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 | 2024-08-02 |  |
+| [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 | 2024-08-02 | 2024-10-11 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-11 | 2022-04-08 |
 | [IMY](https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 2:56 | 2024-09-28 |  |
 | [In Limbo](https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [In Limbo](https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu) | 3:15 | 2024-04-05 |  |
@@ -445,6 +445,7 @@
 | [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 | 2024-07-05 |
 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 | 2023-04-28 | 2023-08-26 |
 | [Lucky Me](https://open.spotify.com/track/2qhpdMFTiAMM4ZEsFPqyzv) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 2:27 | 2024-02-17 | 2024-07-27 |
+| [lullabye](https://open.spotify.com/track/1t5ctLSbZor4RIjVwUeTrk) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [between heaven & earth](https://open.spotify.com/album/1JVBqtT9HFzYQeIYn84dgx) | 2:21 | 2024-09-28 |  |
 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 | 2024-07-09 |
 | [Luxury: Cococure \- Remastered 2018](https://open.spotify.com/track/2M8tI5gnzbtV2Cy4jejI7e) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Embrya](https://open.spotify.com/album/2yIqLIxn5gbKogYGcNdbxF) | 5:32 | 2021-12-15 | 2022-04-08 |
 | [LVE UNLIMITED](https://open.spotify.com/track/6uwtnSi60evQjZqc3h7k07) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [LVE1](https://open.spotify.com/album/7kX112UxOZPs1gidL0nKx3) | 3:02 | 2023-11-10 |  |

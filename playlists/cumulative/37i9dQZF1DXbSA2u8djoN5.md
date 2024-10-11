@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac
 
-83 songs - 3 hr 53 min
+84 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bilateral](https://open.spotify.com/track/5tsdJCTthJlYcLRpEL80qm) | [libEluLLah](https://open.spotify.com/artist/47s4jfzj4DOUP5zj53qHJv), [A.U.G.](https://open.spotify.com/artist/7lc9emmSaHSmjEKbqLtYxE) | [Bilateral](https://open.spotify.com/album/6e3RHMdj3iGViUgzm7d9d9) | 2:56 | 2024-06-27 | 2024-09-20 |
 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 | 2024-06-27 |  |
 | [Bla, Bla, Bla](https://open.spotify.com/track/40lv4CAoxlYj4QGYV6NCGz) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Bla, Bla, Bla](https://open.spotify.com/album/3AmYiPfTpQ42v2keyIjejm) | 2:49 | 2024-06-27 | 2024-07-05 |
+| [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 | 2024-10-10 |  |
 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 | 2024-09-19 |  |
 | [București](https://open.spotify.com/track/4EcRuuGCmMEhNsBstYdeUs) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [București](https://open.spotify.com/album/1RSypn6d43zURQPdz5zKJO) | 2:48 | 2024-06-27 | 2024-07-05 |
 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 | 2024-10-03 |  |
@@ -35,7 +36,7 @@
 | [CLEOPATRA](https://open.spotify.com/track/05zxU4ZY8mMfJJsiVH1Sjg) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Cleopatra](https://open.spotify.com/album/5EdywpzXePN2J6F5ZsECOH) | 3:08 | 2024-06-27 | 2024-08-16 |
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 |  |
 | [Călătorie la capătul nopții](https://open.spotify.com/track/6gPzJBlXHZ6iVDccBWoCPB) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [DOC](https://open.spotify.com/artist/29yuPsAM84rlPk1IUWu3UP) | [Călătorie la capătul nopții](https://open.spotify.com/album/6ZvTBbHpPiA8pf7I7dylLm) | 2:52 | 2024-09-19 | 2024-09-27 |
-| [Dela Dela](https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Dela Dela](https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz) | 2:47 | 2024-06-27 |  |
+| [Dela Dela](https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Dela Dela](https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz) | 2:47 | 2024-06-27 | 2024-10-11 |
 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 | 2024-07-04 |  |
 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 | 2024-06-27 |  |
 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 | 2024-06-27 |  |

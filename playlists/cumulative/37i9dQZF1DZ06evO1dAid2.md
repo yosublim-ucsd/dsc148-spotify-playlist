@@ -2,7 +2,7 @@
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This is Chuck Berry\. The essential tracks, all in one playlist.
+> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
 
 117 songs - 5 hr 15 min
 
@@ -38,7 +38,7 @@
 | [Deep Feeling](https://open.spotify.com/track/5prdcGHWUAPxipEShWCt9B) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:18 | 2022-09-19 | 2022-10-17 |
 | [Don't You Lie To Me](https://open.spotify.com/track/4swHUuuN5IDBFsBYAHBude) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:06 | 2023-05-06 | 2024-06-18 |
 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 | 2022-09-17 |  |
-| [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 | 2022-09-18 | 2024-07-23 |
+| [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 | 2022-09-18 |  |
 | [Driftin' Blues](https://open.spotify.com/track/2IU72SQcNQd668V0tWToNe) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:16 | 2022-10-02 | 2022-10-05 |
 | [Dutchman](https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 3:47 | 2022-10-07 | 2024-07-24 |
 | [Eyes Of Man](https://open.spotify.com/track/5Ct3NYsxo6hZm67Vy0kqQl) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 2:27 | 2022-09-17 | 2022-10-08 |
@@ -84,7 +84,7 @@
 | [My Mustang Ford](https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:16 | 2022-09-17 |  |
 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 | 2022-09-18 |  |
 | [Night Beat](https://open.spotify.com/track/71wEZwBWvq7M2VpC5otqwp) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 | 2024-01-13 | 2024-02-28 |
-| [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 | 2022-09-19 |  |
+| [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 | 2022-09-19 | 2024-10-11 |
 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 | 2022-09-17 |  |
 | [Oh Baby Doll](https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:36 | 2022-09-20 | 2024-07-24 |
 | [Oh Carol/Little Queenie \- Live 1988](https://open.spotify.com/track/2YgmyEnXtKdpKtLN8Yqgxj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Deep Down \(Live 1988\)](https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW) | 5:00 | 2023-08-16 | 2023-10-02 |

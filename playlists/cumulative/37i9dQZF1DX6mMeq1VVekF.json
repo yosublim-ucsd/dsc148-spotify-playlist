@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Lex Amor",
+  "description": "No tags, no labels - just free form. Cover: D7",
   "name": "Free Form",
   "tracks": [
     {
@@ -384,6 +384,24 @@
       "duration_ms": 158724,
       "name": "After The Party",
       "url": "https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6"
+    },
+    {
+      "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
     },
     {
       "album": {
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "dancing",
+        "url": "https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4"
+      },
+      "artists": [
+        {
+          "name": "tn_490",
+          "url": "https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142058,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc"
+    },
+    {
+      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS"
       },
@@ -2064,6 +2100,24 @@
       "duration_ms": 147755,
       "name": "Dora",
       "url": "https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr"
+    },
+    {
+      "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ"
+      },
+      "artists": [
+        {
+          "name": "D7",
+          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
     },
     {
       "album": {
@@ -2608,6 +2662,24 @@
       "duration_ms": 199276,
       "name": "G.O.Y.D.",
       "url": "https://open.spotify.com/track/4jueyRHAHwDovQi3Nlce8v"
+    },
+    {
+      "album": {
+        "name": "Comma, Fullstop.",
+        "url": "https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY"
+      },
+      "artists": [
+        {
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "GeorgianFlip.",
+      "url": "https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar"
     },
     {
       "album": {
@@ -3212,7 +3284,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 268693,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/3W8PXCrZ7sOav4urtpP7M4"
@@ -3740,7 +3812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 205922,
       "name": "Lena",
       "url": "https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6"
@@ -3928,7 +4000,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 215481,
       "name": "Lyrics Galore",
       "url": "https://open.spotify.com/track/2AhMDVUcUv2cNBEe5XuBkF"
@@ -4444,7 +4516,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
@@ -4582,7 +4654,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 222049,
       "name": "Near Life Experience",
       "url": "https://open.spotify.com/track/5NvkeXRumat4XN88E1psIX"
@@ -7878,6 +7950,28 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "album": {
+        "name": "Wyoming",
+        "url": "https://open.spotify.com/album/7oxTSclrHt2L9WIIjAxQHM"
+      },
+      "artists": [
+        {
+          "name": "Coults",
+          "url": "https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ"
+        },
+        {
+          "name": "venny",
+          "url": "https://open.spotify.com/artist/3BfUEQE3t4l3FXUXV77Ca3"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103750,
+      "name": "Wyoming",
+      "url": "https://open.spotify.com/track/4Iaac6Kgm98iHq75YogSk2"
     },
     {
       "album": {

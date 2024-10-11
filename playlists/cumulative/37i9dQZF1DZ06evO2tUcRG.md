@@ -2,7 +2,7 @@
 
 ### [This Is Gabriela Rocha](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tUcRG)
 
-> This is Gabriela Rocha\. Todos os maiores hits em uma só playlist.
+> This Is Gabriela Rocha\. Todas as faixas essenciais numa única playlist.
 
 70 songs - 7 hr 31 min
 

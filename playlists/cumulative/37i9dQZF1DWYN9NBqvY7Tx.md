@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-591 songs - 1 day 6 hr 43 min
+592 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Lost My Way](https://open.spotify.com/track/1RiJdChbp902jktp7mz7uV) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Lost My Way](https://open.spotify.com/album/6USDB908J7WNEWj5aMeQGu) | 3:26 | 2022-05-06 | 2022-07-28 |
 | [Lost Woods](https://open.spotify.com/track/0rE2IY6L1qLxAEQxxZkQOG) | [VGR](https://open.spotify.com/artist/3pCoHlohSNQdXBNDxuWd12) | [Lost Woods](https://open.spotify.com/album/2gTWHXzZGk9ujVIH8QmfUE) | 3:08 | 2024-02-09 | 2024-04-06 |
 | [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-07-14 | 2022-07-24 |
-| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 |  |
+| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 | 2024-10-11 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2024-01-19 |  |
 | [LSD](https://open.spotify.com/track/3Vwpo3aARHRjusbFsSlLk0) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [LSD](https://open.spotify.com/album/7ll9IBL7030mFRxrsuqkUl) | 3:08 | 2022-05-06 | 2022-05-10 |
 | [Luv Me a Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-23 | 2024-09-15 |
@@ -509,6 +509,7 @@
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-05-06 | 2024-06-25 |
 | [The Girl](https://open.spotify.com/track/4wWe3qI7pyxkNVVA3XTYoN) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [The Girl](https://open.spotify.com/album/0knxvt7eqB0N5rZaLgCBPb) | 4:25 | 2024-06-24 | 2024-08-03 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-07-14 | 2023-07-19 |
+| [the light](https://open.spotify.com/track/2riIujEITom1g8ehblpgzy) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [the light](https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g) | 2:24 | 2024-10-04 |  |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-06-10 | 2022-07-29 |
 | [The Phantom](https://open.spotify.com/track/3kxszc21jqYVcdV5bnwuCp) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Phantom](https://open.spotify.com/album/5JZC4Tg3cmJDKWJ7fMycTK) | 3:00 | 2022-05-06 | 2022-07-20 |
 | [The Point Of Living \(Omnya Remix\)](https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [The Point Of Living \(Omnya Remix\)](https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z) | 3:52 | 2024-03-08 | 2024-06-28 |

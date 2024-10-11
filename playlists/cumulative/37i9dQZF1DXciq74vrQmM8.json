@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. The Horrors",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. emily jeffri",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Ant In The Afterbirth (feat. Loathe)",
+        "url": "https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E"
+      },
+      "artists": [
+        {
+          "name": "NOWHERE2RUN",
+          "url": "https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s"
+        },
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Ant In The Afterbirth (feat. Loathe)",
+      "url": "https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D"
+    },
+    {
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
       },
@@ -972,7 +994,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 181896,
       "name": "ASHAMED [Feat. Lauren Mayberry]",
       "url": "https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU"
@@ -1770,7 +1792,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 164146,
       "name": "Blood Honey",
       "url": "https://open.spotify.com/track/4j4XDUVeOQS4IfHkS28T08"
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 114640,
       "name": "Degenerette Nation",
       "url": "https://open.spotify.com/track/0ZDnFOEx2mmPPHbTMwwBqz"
@@ -4570,7 +4592,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 172553,
       "name": "Doing It For The Country",
       "url": "https://open.spotify.com/track/09W1ATBTKRZvzRvUJuF26v"
@@ -7045,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "Halloweenie I-VI",
+        "url": "https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "Halloweenie VI: Possess Me",
+      "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
+    },
+    {
+      "album": {
         "name": "Hammer",
         "url": "https://open.spotify.com/album/7JJlJdlze6HX9MOf9KUsj1"
       },
@@ -7382,6 +7422,24 @@
       "duration_ms": 162650,
       "name": "Headbang",
       "url": "https://open.spotify.com/track/4S0rDR22A6j4W5ESiVyShM"
+    },
+    {
+      "album": {
+        "name": "HEADCASE",
+        "url": "https://open.spotify.com/album/50VUBEb1u98rlHBU7j9PaL"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201179,
+      "name": "HEADCASE",
+      "url": "https://open.spotify.com/track/4zaaH9aJmN4TRntzWuUWee"
     },
     {
       "album": {
@@ -9037,6 +9095,24 @@
     },
     {
       "album": {
+        "name": "Idle Death Gamble",
+        "url": "https://open.spotify.com/album/0t0ModUTkitP9VNXMQWCkc"
+      },
+      "artists": [
+        {
+          "name": "Filmore!",
+          "url": "https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189410,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/7iNy3yiaStLnXuXqQbYoxJ"
+    },
+    {
+      "album": {
         "name": "IT'S GONNA BE A LONG DAY",
         "url": "https://open.spotify.com/album/6dMV4edUwlEBG6dP6XJ2SO"
       },
@@ -9214,6 +9290,24 @@
       "duration_ms": 145651,
       "name": "jeLLiefish aPocaLypsE",
       "url": "https://open.spotify.com/track/5R8UCyOosnFz00nwrY5v38"
+    },
+    {
+      "album": {
+        "name": "jenna (too perfect)",
+        "url": "https://open.spotify.com/album/0J2nq8FhpaPHGalynV5H6b"
+      },
+      "artists": [
+        {
+          "name": "tmdistant",
+          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "jenna (too perfect)",
+      "url": "https://open.spotify.com/track/5STsiLTlqkOGZS7R631IsU"
     },
     {
       "album": {
@@ -10082,7 +10176,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 181386,
       "name": "Lil Miss Self Destruct Vol. 1",
       "url": "https://open.spotify.com/track/6KLarkkJYoeyQS7Yy5dIa9"
@@ -11110,6 +11204,24 @@
       "duration_ms": 228998,
       "name": "Mercy Killing",
       "url": "https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww"
+    },
+    {
+      "album": {
+        "name": "WELCOME TO MY CHURCH.",
+        "url": "https://open.spotify.com/album/6OA5KnYLSYAl9uYWL0otT2"
+      },
+      "artists": [
+        {
+          "name": "Lucy Deakin",
+          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149327,
+      "name": "MESSY",
+      "url": "https://open.spotify.com/track/6ujEaQeBN7pbSJenUQ6KaD"
     },
     {
       "album": {
@@ -12290,7 +12402,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 238545,
       "name": "Nuclear Winter",
       "url": "https://open.spotify.com/track/4SEOT5NuzSwpvEhiaYsd0t"
@@ -13024,7 +13136,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
@@ -13530,6 +13642,24 @@
       "duration_ms": 157000,
       "name": "PURGE ft. Siiickbrain",
       "url": "https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44"
+    },
+    {
+      "album": {
+        "name": "PURSUE",
+        "url": "https://open.spotify.com/album/0YJnitimCx6T3315j8Cxvw"
+      },
+      "artists": [
+        {
+          "name": "emily jeffri",
+          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232519,
+      "name": "PURSUE",
+      "url": "https://open.spotify.com/track/58Q3MgtSnrsdUanPYH37Iu"
     },
     {
       "album": {
@@ -14366,7 +14496,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 141270,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/34x99Uumq1nio3tO7ZB1Wi"
@@ -14442,6 +14572,24 @@
       "duration_ms": 110848,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/42wUK6XAnMNv3CULQZ7HMm"
+    },
+    {
+      "album": {
+        "name": "SERPENTINE",
+        "url": "https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "SERPENTINE",
+      "url": "https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq"
     },
     {
       "album": {
@@ -15840,6 +15988,24 @@
       "duration_ms": 173344,
       "name": "Taste Better",
       "url": "https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1897oDamebeoSMxQUB6Aba"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164599,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4bVl1QANpKT2KSuHaDCl9S"
     },
     {
       "album": {

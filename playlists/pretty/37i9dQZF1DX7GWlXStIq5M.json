@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372254,
+  "num_followers": 372267,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "M\u00e9nage",
-      "url": "https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "M\u00e9nage",
+      "url": "https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "A Vida De Uma Gostosa",
-        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "A Vida De Uma Gostosa",
-      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "PROFESSORA",
         "url": "https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 158321,
       "name": "PROFESSORA",
       "url": "https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "A Vida De Uma Gostosa",
+        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "A Vida De Uma Gostosa",
+      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Me Leia",
-        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 228644,
-      "name": "Me Leia",
-      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Segredos da Vida",
         "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
       },
@@ -1387,7 +1371,23 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Livramento",
+        "name": "Me Leia",
+        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 228644,
+      "name": "Me Leia",
+      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "LIVRAMENTO",
         "url": "https://open.spotify.com/album/27K4qEEOMNgSkUT583W0JN"
       },
       "artists": [
@@ -1397,7 +1397,7 @@
         }
       ],
       "duration_ms": 168040,
-      "name": "Livramento",
+      "name": "LIVRAMENTO",
       "url": "https://open.spotify.com/track/1asTXzsAuTMMPBUzEDtWdL"
     },
     {
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Noites de Papel",
+        "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Noites de Papel",
+      "url": "https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Deusa",
         "url": "https://open.spotify.com/album/2sCCmE3wj6hxouVqdYWn69"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 256008,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/1aWTQbZed8uGndsEtFNN5e"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Noites de Papel",
-        "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Noites de Papel",
-      "url": "https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9"
     },
     {
       "added_at": "2024-10-04 03:00:00",

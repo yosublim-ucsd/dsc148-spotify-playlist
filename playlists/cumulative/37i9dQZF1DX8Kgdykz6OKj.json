@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 183428,
       "name": "almost got me",
       "url": "https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 205000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz"
@@ -640,6 +640,24 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "album": {
+        "name": "bbhur",
+        "url": "https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245803,
+      "name": "bbhur",
+      "url": "https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD"
     },
     {
       "album": {
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 116756,
       "name": "Cosca",
       "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-11",
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
@@ -6671,6 +6689,28 @@
     },
     {
       "album": {
+        "name": "'Pagne Galore",
+        "url": "https://open.spotify.com/album/25uoBQk3rMb6KeYsn05l7A"
+      },
+      "artists": [
+        {
+          "name": "Reaper Mook",
+          "url": "https://open.spotify.com/artist/1v5mFaBga84l2SzddZmP8D"
+        },
+        {
+          "name": "Seafood Sam",
+          "url": "https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116178,
+      "name": "Reaper Food",
+      "url": "https://open.spotify.com/track/4tL3JhElWB5f0rW4rlMHbK"
+    },
+    {
+      "album": {
         "name": "Recalibrate",
         "url": "https://open.spotify.com/album/5JEISOxowH6j5mmTZJl5QT"
       },
@@ -7152,6 +7192,24 @@
       "duration_ms": 202638,
       "name": "Simple",
       "url": "https://open.spotify.com/track/0aHwWRN3Nd1ul6rxmHLhca"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "album": {
@@ -8676,6 +8734,24 @@
       "duration_ms": 179626,
       "name": "Trick Questions",
       "url": "https://open.spotify.com/track/4SwhF2yf6cIXOfMXJK2SEc"
+    },
+    {
+      "album": {
+        "name": "Mi Casa, Su Casa",
+        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+      },
+      "artists": [
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117933,
+      "name": "Truth Serum",
+      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
     },
     {
       "album": {

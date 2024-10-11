@@ -2,7 +2,7 @@
 
 ### [Hot Hits Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Didine Canon 16 à la une de la playlist numéro 1 en Algérie.
+> Kader Japonais et Numidia Lezoul à la une de la playlist numéro 1 en Algérie.
 
 240 songs - 14 hr 31 min
 
