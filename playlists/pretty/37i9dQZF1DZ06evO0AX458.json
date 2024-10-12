@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3655,
+  "num_followers": 3670,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAADZAU3DSstA42LU0+tf/CR4",
+  "snapshot_id": "ZwcZAAAAAAB19XbjGeCGdwzb0i0gRHiD",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+        "name": "Dead Horse X",
+        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+      "duration_ms": 99320,
+      "name": "Cadence (Anniversary Version)",
+      "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Horse X",
-        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 99320,
-      "name": "Cadence (Anniversary Version)",
-      "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,

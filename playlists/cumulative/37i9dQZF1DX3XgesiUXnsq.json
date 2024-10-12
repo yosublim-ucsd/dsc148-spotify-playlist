@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 195556,
       "name": "90FOUR",
       "url": "https://open.spotify.com/track/3zLegogrFOiGMd9oJ58V4q"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181196,
       "name": "Giants Of The Fall",
       "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
@@ -9787,6 +9787,28 @@
     },
     {
       "album": {
+        "name": "One Beer (Madlib Remix)",
+        "url": "https://open.spotify.com/album/7jE8oOSKDIYZT8Fz84i5d1"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "One Beer - Madlib Remix",
+      "url": "https://open.spotify.com/track/6S8nYezC53hSZTiM6QvSxj"
+    },
+    {
+      "album": {
         "name": "Efil4zaggin",
         "url": "https://open.spotify.com/album/3OSID3YChn6nOjfUAlSXQZ"
       },
@@ -11471,6 +11493,32 @@
     },
     {
       "album": {
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/3WTdFbCxv9cvs3Nnrx9FDT"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Pay$o",
+          "url": "https://open.spotify.com/artist/0B4xWbHVQr7PSSH5qDxXpz"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Rudimentary",
+      "url": "https://open.spotify.com/track/0wlFQ9H5E3m9oMleexOL03"
+    },
+    {
+      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
       },
@@ -12862,7 +12910,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 166686,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/62PjbA0jkzUKIE1GYyNC5j"
@@ -14754,6 +14802,28 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "album": {
+        "name": "Piece By Piece - Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128843,
+      "name": "VIRGINIA Boy (feat. Tyler, The Creator) - Remix",
+      "url": "https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s"
     },
     {
       "album": {

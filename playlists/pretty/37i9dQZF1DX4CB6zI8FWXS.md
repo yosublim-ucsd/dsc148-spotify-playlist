@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,843 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,856 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Round 'n Round](https://open.spotify.com/track/6l00DjYvvJJAPm4RHtXUuU) | [Shaynah](https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG) | [Chapter 22: NAKED](https://open.spotify.com/album/1ftnFdq2bfUhNP5zP8pil6) | 2:18 |
 | 80 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 
-Snapshot ID: `Zwfr8AAAAAC9cwAnDnSj1IGG9TmZdWsd`
+Snapshot ID: `Zwfr8AAAAACVJdZxpNIUIqHDFxrpTrU2`

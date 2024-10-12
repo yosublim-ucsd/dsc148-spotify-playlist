@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,843 likes - 53 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,849 likes - 53 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 52 | [Bless Me](https://open.spotify.com/track/0pBoHMgxGSbffE3GXHTOTw) | [Alemba](https://open.spotify.com/artist/6seiRQSfruP9bJmmLAxo9k) | [Bless Me](https://open.spotify.com/album/6kFhQl2OOFDdzxXx3NIHss) | 3:41 |
 | 53 | [Adoration](https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc) | [Dafari](https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x) | [Preacher Bwoy](https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu) | 3:57 |
 
-Snapshot ID: `Zv8wPAAAAACCggqlI8PL9qQfvlLkiCrz`
+Snapshot ID: `Zv8wPAAAAAC2GlKO+3cObgav2IgVcuVl`

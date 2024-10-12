@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: White 2115, Chivas
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,641 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,839 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [ILE LAT?](https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [ILE LAT?](https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti) | 2:30 |
 | 50 | [BOGOTA](https://open.spotify.com/track/6tw7eMHRCjgKUsHs3mtqDq) | [Wac Toja](https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv), [Gory](https://open.spotify.com/artist/7ubpSmIID5osd0LZkksfnQ) | [BOGOTA](https://open.spotify.com/album/7eAuCmvl5KuqlREIjWmyWu) | 2:17 |
 
-Snapshot ID: `ZwhOYAAAAABwqZ+F8Dd8AlEX5p1x2Fte`
+Snapshot ID: `ZwhOYAAAAACwqo4CQ0ZIt6OnIY1hmTAa`

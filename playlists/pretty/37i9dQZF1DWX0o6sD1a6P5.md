@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,797 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,884 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 | 50 | [MY BABY](https://open.spotify.com/track/6wjcmnemCQWAmuOyeWiro5) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [MY BABY](https://open.spotify.com/album/0oTyGiqlPILinR55kTaC3r) | 2:33 |
 
-Snapshot ID: `ZwhOYAAAAACrOELN40ZytClxrx53VgWE`
+Snapshot ID: `ZwhOYAAAAACONwGqXWd/4vOxG76bVa89`

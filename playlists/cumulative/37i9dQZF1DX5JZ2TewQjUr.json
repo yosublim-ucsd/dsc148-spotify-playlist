@@ -12589,6 +12589,28 @@
     },
     {
       "album": {
+        "name": "Sway Under the Sunset",
+        "url": "https://open.spotify.com/album/5wczaaKkmGOROeWd4QNgfL"
+      },
+      "artists": [
+        {
+          "name": "Chris Tong",
+          "url": "https://open.spotify.com/artist/1TSAMb57hxZezDzEujAFHb"
+        },
+        {
+          "name": "Jas Wishes",
+          "url": "https://open.spotify.com/artist/0djzRnaX4wQ8uKZviOXFmc"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Sway Under the Sunset",
+      "url": "https://open.spotify.com/track/2W1O09TSo5mGLKbH3iXM9w"
+    },
+    {
+      "album": {
         "name": "Feelings I Wish I Told You",
         "url": "https://open.spotify.com/album/5khW3QpCxtyAeVfMa1vNRD"
       },

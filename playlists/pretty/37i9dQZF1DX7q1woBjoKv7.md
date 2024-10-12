@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Curated by: <a href="spotify:artist:3QTDHixorJelOLxoxcjqGx">SiR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,475 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,486 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 59 | [Amnesia](https://open.spotify.com/track/5epc7WKFAgcqJkfwBidCOM) | [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [When Summer's Over](https://open.spotify.com/album/6r3PvzOCS8xQUfBSmrBd2e) | 3:26 |
 | 60 | [KARMA](https://open.spotify.com/track/5m5cGJxI82Qa91JELoI4pF) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:07 |
 
-Snapshot ID: `ZmH6/AAAAAC5qXvCdBj7B+JP4YeNIFoj`
+Snapshot ID: `ZmH6/AAAAAACCk1FRySJywDvUNcwDY7d`

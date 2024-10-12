@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wb3dcSPYJ6xlVpP6HG0u8">Kristen Anderson\-Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 145 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 145 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 98 | [Exit Stage Left](https://open.spotify.com/track/2XkAf8hwlCCYTKCBH0RHgc) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 1:44 |
 | 99 | [Getting There](https://open.spotify.com/track/0ehXEuv0zJW4pafMp6sgAx) | [Margo Seibert](https://open.spotify.com/artist/5EgwFadey5LSgD01cJ6DmN), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 3:10 |
 | 100 | [Giddy Up](https://open.spotify.com/track/1CfjLaygV2A21jBEXgWS9a) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 0:32 |
-| 101 | [Four Days Home](https://open.spotify.com/track/25SYxLPfrdmKo6ZNroQODJ) | [Justin Guarini](https://open.spotify.com/artist/2Yg71OU2FbCOK6zH4mGdtn), [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 5:28 |
-| 102 | [The Strangest Thing](https://open.spotify.com/track/634d9jNSkP1ffkh2lTJUhQ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 3 \(Original Soundtrack\)](https://open.spotify.com/album/130DD1WPUCsr30RKqAmiQI) | 1:17 |
+| 101 | [The Strangest Thing](https://open.spotify.com/track/634d9jNSkP1ffkh2lTJUhQ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 3 \(Original Soundtrack\)](https://open.spotify.com/album/130DD1WPUCsr30RKqAmiQI) | 1:17 |
+| 102 | [Four Days Home](https://open.spotify.com/track/25SYxLPfrdmKo6ZNroQODJ) | [Justin Guarini](https://open.spotify.com/artist/2Yg71OU2FbCOK6zH4mGdtn), [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 5:28 |
 | 103 | [Saturday Night Obsession](https://open.spotify.com/track/3fyuGpw0PARGBSQ4nPA5cn) | [Erin Mackey](https://open.spotify.com/artist/0SxpdMrawYno4Nt8vAd7zP), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 3:56 |
 | 104 | [Broke](https://open.spotify.com/track/5Z5IDmyx1yr57zquD2tHbM) | [James Snyder](https://open.spotify.com/artist/46a94UFiDvlu3vnmWuqwMQ), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 2:56 |
 | 105 | [Chile Con Carne](https://open.spotify.com/track/0iL1Ez1LngHZhHvtsrgQIM) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 6 \(Original Soundtrack\)](https://open.spotify.com/album/11ZRjWuFFT38ept1Gw5yT1) | 0:33 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 144 | [Salem's Seven](https://open.spotify.com/track/5rvidR0va32M5VSxT5iWXT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 2:48 |
 | 145 | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 |
 
-Snapshot ID: `AbecCgAAAAAxwP/39TPyrWs8Dhp6zT/3`
+Snapshot ID: `AbehqgAAAAA9HX6IE67sKsrsTb8q27rI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,100 likes - 245 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,346 likes - 245 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 244 | [Cycle](https://open.spotify.com/track/2Xsap4owF8MQp0zZGfNoOy) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Cycle](https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE) | 2:33 |
 | 245 | [Hygga](https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Hygga](https://open.spotify.com/album/3yYGBU1AIq9TgkzMG1R1ID) | 2:25 |
 
-Snapshot ID: `ZvO+/gAAAADdsIghssMRO5aCuOrl2r8B`
+Snapshot ID: `ZvO+/gAAAAAxq5PGZuAa4wSw2SL+mVtZ`

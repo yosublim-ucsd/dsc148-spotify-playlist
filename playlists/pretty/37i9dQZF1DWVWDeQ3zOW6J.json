@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 45646,
+  "num_followers": 45667,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvMpoAAAAAD5w63ao3bRIuTsQA6ze7Qa",
+  "snapshot_id": "ZvMpoAAAAADZ60I7pPyQZKcroG3xz5T0",
   "tracks": [
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "El Cantante de los Cantantes",
         "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
       },
@@ -1051,26 +1067,6 @@
       "duration_ms": 622520,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Billo's Caracas Boys vs. Dimension Latina",
-        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 225140,
-      "name": "Lloraras - Edit",
-      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
     }
   ],
   "unique_name": "Cocina con Salsa",

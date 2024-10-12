@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 14 | [LA BEAUTÉ \- Valentine Pétry](https://open.spotify.com/episode/5XtYJkshiMWm0rGq2S41oD) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 36:37 |
 | 15 | [L'APPROPRIATION CULTURELLE \- Khémaïs Ben Lakhdar](https://open.spotify.com/episode/1Et1HZ7YSEtrYO6a9GRxN5) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 35:44 |
 
-Snapshot ID: `ZwWtfwAAAADZKTyClzDXO4+QbDScJewo`
+Snapshot ID: `ZwWtfwAAAACZjyj8XeKqaeSpEDTYI8p7`

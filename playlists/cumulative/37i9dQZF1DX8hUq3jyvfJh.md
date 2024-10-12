@@ -4,7 +4,7 @@
 
 > Escute Mc Luanna e mais mulheres no volume máximo! Co\-curadoria com <a href="spotify:playlist:37i9dQZF1DZ06evO45TXx1">Mc Luanna</a>.
 
-1,214 songs - 2 day 14 hr 16 min
+1,215 songs - 2 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Ego](https://open.spotify.com/track/5L3Ly5uTbd9D1xAX1EBK5f) | [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz) | [Ego](https://open.spotify.com/album/4BgtBMQEDthZ1x1yaoIDAl) | 2:10 | 2024-10-08 |  |
 | [Elas no Topo](https://open.spotify.com/track/1ymuagnyMDlBjgaF6cuLoB) | [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe), [Helena Freitas](https://open.spotify.com/artist/1RavBnO7RbBPbfL5YAbL85), [Jade](https://open.spotify.com/artist/5eT9cyVc5tfEmaLiw06Xab), [Dj Agnes](https://open.spotify.com/artist/5aIUmuEBrdJ2u7psIMaEIK) | [Elas no Topo](https://open.spotify.com/album/3SjYlQDlKLz2RqKsdJo32r) | 2:59 | 2022-06-01 | 2022-07-07 |
 | [ele diz que me ama s2](https://open.spotify.com/track/1bSdi72OmWuFJgmgO1oDuM) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ELE DIZ QUE ME AMA](https://open.spotify.com/album/59Begox0CEkhGX66PfKGoM) | 4:01 | 2023-09-06 | 2023-10-05 |
-| [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 | 2023-11-08 |  |
+| [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 | 2023-11-08 | 2024-10-12 |
 | [Elegante Amanhecer](https://open.spotify.com/track/4kKVmcyR2N2StIfPownkha) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT) | 3:40 | 2022-05-04 | 2022-06-01 |
 | [Eles nos Chamam de Amigos](https://open.spotify.com/track/1zIdr8OSTa8nY3SpJ7XKZd) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Eles nos Chamam de Amigos](https://open.spotify.com/album/4GPRFkoDZvVE1AJjAO5mmG) | 3:08 | 2023-02-01 | 2023-03-02 |
 | [Em Qualquer Bar](https://open.spotify.com/track/5yJZDFjQwQaMhu5gx3jM6U) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [No Caminho do Samba](https://open.spotify.com/album/4rutwqoQJ5eFvjrQjf89NZ) | 3:00 | 2022-09-01 | 2022-10-06 |
@@ -689,6 +689,7 @@
 | [MEU PARAÍSO](https://open.spotify.com/track/4EUfDgJHiAS9aiSIHO2i5e) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lux & Tróia](https://open.spotify.com/artist/6Zs3uSwGgMtxNu7HKGjrgw) | [MEU PARAÍSO](https://open.spotify.com/album/3avE16jIJVIPiR5bFxroAL) | 3:47 | 2022-05-04 | 2022-06-01 |
 | [Meu Paraíso Sou Eu](https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 1:57 | 2023-11-29 | 2024-06-06 |
 | [Meu Pisêro](https://open.spotify.com/track/2vaRBe7rRW8dBszITsPzYU) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 3:19 | 2022-03-08 | 2022-08-04 |
+| [Meu Problema](https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:16 | 2024-10-11 |  |
 | [Meu Vazio \- Ao Vivo](https://open.spotify.com/track/7eSARTuHtifSgMlxPMJhfG) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3) | [Todas As Letras \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/5z9tSlU0kfkqLtN3t0VT81) | 2:29 | 2023-05-31 | 2023-07-06 |
 | [Meu Vício](https://open.spotify.com/track/1L7DbG2y4TzoMqSoTaotG0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Meu Vício](https://open.spotify.com/album/78XUWj8lXWNfT5QZsKIzV2) | 2:13 | 2022-06-01 | 2023-03-02 |
 | [Meu Vício](https://open.spotify.com/track/5raZpwJ2E26ui7WRzCuvcQ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Meu Vício](https://open.spotify.com/album/2pgZgWHtMkz45Xakt5yttF) | 2:13 | 2022-03-08 | 2022-04-07 |

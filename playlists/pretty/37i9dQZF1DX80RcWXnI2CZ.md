@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 
 > Always close at hand when a friend is in need, this character brings light, positivity, and an often underestimated strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,017 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 | 39 | [ピクニック](https://open.spotify.com/track/6GdC0YmJgLGSzXmCuZO6GA) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [銀河ムチェック](https://open.spotify.com/album/5SnaZk72TkjTWT2TOSDppK) | 2:40 |
 | 40 | [Hey my friend](https://open.spotify.com/track/2KrKUkKewg0UXfXgwJyQ3t) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV) | [Tommy heavenly6](https://open.spotify.com/album/10xaZ84PHfkA88bKzvzZNL) | 4:28 |
 
-Snapshot ID: `ZsNB0AAAAACoJsjZYq9po6IWcExYwIfo`
+Snapshot ID: `ZsNB0AAAAAAnvdNSPACRXL/j5Oo+pKIw`

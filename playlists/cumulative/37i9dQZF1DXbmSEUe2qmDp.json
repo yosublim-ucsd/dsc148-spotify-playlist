@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 206122,
       "name": "Festa dos Solteiros - Ao Vivo",
       "url": "https://open.spotify.com/track/6yeblJB7KkfXfYWXWlvjms"
@@ -1052,6 +1052,46 @@
       "duration_ms": 122234,
       "name": "Fi Da Bagaceira - Ao Vivo",
       "url": "https://open.spotify.com/track/6RGlyzgMA3kRh0dXf3P3kN"
+    },
+    {
+      "album": {
+        "name": "Fim De Carreira",
+        "url": "https://open.spotify.com/album/5T5JeRpyZYEok7fPn5JP3w"
+      },
+      "artists": [
+        {
+          "name": "Erick Lins",
+          "url": "https://open.spotify.com/artist/6p0PsWjDD41Oxp8CXTMt3R"
+        },
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178645,
+      "name": "Fim De Carreira",
+      "url": "https://open.spotify.com/track/4bsEJ0hpKgqyGUth2Dh4IB"
+    },
+    {
+      "album": {
+        "name": "Ess\u00eancia Bruta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5fFBzjmIcKh0zyW9gn1FL1"
+      },
+      "artists": [
+        {
+          "name": "Carreiro & Capataz",
+          "url": "https://open.spotify.com/artist/3JWhgnuhV4ew6C7cGJ8Khf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138549,
+      "name": "Foguete N\u00e3o Tem R\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MP9p73U0GH5fLGsKo2irF"
     },
     {
       "album": {
@@ -1524,7 +1564,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 212681,
       "name": "Mil Cora\u00e7\u00f5es / Voc\u00ea Decide - Ao Vivo",
       "url": "https://open.spotify.com/track/58fa326KdzxpvaOnIzMIMh"
@@ -1750,6 +1790,24 @@
       "duration_ms": 149047,
       "name": "N\u00e3o tem voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/1UjXpFudlor8o3HAp7436v"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o \u00e9 Por Acaso",
+        "url": "https://open.spotify.com/album/5SkPH35W9JAAasV3uIlpwC"
+      },
+      "artists": [
+        {
+          "name": "Augusto e Rafael",
+          "url": "https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152944,
+      "name": "N\u00e3o \u00e9 Por Acaso",
+      "url": "https://open.spotify.com/track/1r5JVS7jBlqE49Vmi33fA6"
     },
     {
       "album": {
@@ -2722,7 +2780,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173683,
       "name": "S\u00f3 Bebida Molha - Ao Vivo",
       "url": "https://open.spotify.com/track/3coLDO2BLp2EDM5qIHVzQs"
@@ -2809,17 +2867,13 @@
     },
     {
       "album": {
-        "name": "Tomara Que N\u00e3o Seja Eu - Ao Vivo",
+        "name": "Tomara Que N\u00e3o Seja Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jUhgRrM8jB1oK6nQMe22v"
       },
       "artists": [
         {
           "name": "Lorena Cristine",
           "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
-        },
-        {
-          "name": "Moda Music",
-          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
         }
       ],
       "date_added": "2024-09-13",
@@ -2934,6 +2988,28 @@
       "duration_ms": 158296,
       "name": "T\u00e1 Foragida",
       "url": "https://open.spotify.com/track/7qIqvK4PUghMpqkrOquBwA"
+    },
+    {
+      "album": {
+        "name": "Uma Emocionada",
+        "url": "https://open.spotify.com/album/3vUbphfNmlwZoZli4e6zDs"
+      },
+      "artists": [
+        {
+          "name": "Juliana Monteiro",
+          "url": "https://open.spotify.com/artist/3D4VVGQszGa0QPQMZJAMNh"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Uma Emocionada",
+      "url": "https://open.spotify.com/track/5QQCugk4IpTmDCwMn089KF"
     },
     {
       "album": {
@@ -3084,6 +3160,24 @@
       "duration_ms": 161930,
       "name": "V\u00ea Se Pode - V\u00ea Se Pod, Ao Vivo",
       "url": "https://open.spotify.com/track/1Venap4M7bpaMWGQpSdak4"
+    },
+    {
+      "album": {
+        "name": "V\u00edcio Emocional",
+        "url": "https://open.spotify.com/album/0F9TJyx9sdMcbqHQhGOJt2"
+      },
+      "artists": [
+        {
+          "name": "Carol Villa",
+          "url": "https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151162,
+      "name": "V\u00edcio Emocional",
+      "url": "https://open.spotify.com/track/461LedE4ECifMKZJM8ejVq"
     },
     {
       "album": {

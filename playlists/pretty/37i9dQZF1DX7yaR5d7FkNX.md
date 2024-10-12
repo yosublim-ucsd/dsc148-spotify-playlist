@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de León Larregui
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,110 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,116 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 99 | [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 |
 | 100 | [Una Historia Sin Final](https://open.spotify.com/track/3OPy2J3WaJDKmkzAvV7Kbo) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Una Historia Sin Final](https://open.spotify.com/album/00ZYICR61FOAcHsb9hK5l5) | 3:36 |
 
-Snapshot ID: `ZvZJ4AAAAADjM1jjYf3SYiQAy+kiXZVw`
+Snapshot ID: `ZvZJ4AAAAABUQr0jb3Ys63cXORNHwr/V`

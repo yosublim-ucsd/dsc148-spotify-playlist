@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=XeeVnwcDRLK\-7fn3mXNm4g">Eloff</a> en <a href="https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=vwpvgRPdQZ6B\_qW6sI0dTA">Die Piesangskille</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,966 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,065 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 | 75 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
 
-Snapshot ID: `ZwhOYAAAAAANOC0tSWFD86izOemBRxnQ`
+Snapshot ID: `ZwhOYAAAAAAK/IF04w3dGrdFXgZuOOqi`

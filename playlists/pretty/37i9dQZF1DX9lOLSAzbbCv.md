@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: kavabanga Depo kolibri
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,777 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,797 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 49 | [Воїнам](https://open.spotify.com/track/6J9KF7lAzSsQd5kFbYgVfc) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Воїнам](https://open.spotify.com/album/2jqlb16qjNhRAws4MHQ03m) | 2:40 |
 | 50 | [ЯТЛ](https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 2:38 |
 
-Snapshot ID: `ZwhAUAAAAAC1M7vmJ5uxV9VDuS80U7yU`
+Snapshot ID: `ZwhAUAAAAADYMGSbc1zZYm7AZn76ruwO`

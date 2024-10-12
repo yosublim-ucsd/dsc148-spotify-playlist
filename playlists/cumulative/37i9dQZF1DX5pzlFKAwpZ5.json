@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "June Love",
+        "url": "https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO"
+      },
+      "artists": [
+        {
+          "name": "\u677e\ufa11\u88d5\u5b50",
+          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165706,
+      "name": "June Love",
+      "url": "https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L"
+    },
+    {
+      "album": {
         "name": "Konomama",
         "url": "https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH"
       },

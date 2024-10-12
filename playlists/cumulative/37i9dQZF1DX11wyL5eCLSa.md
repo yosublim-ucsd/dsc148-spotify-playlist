@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. José Madero en Portada.
 
-521 songs - 1 day 6 hr 46 min
+522 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Dulce y Amargo](https://open.spotify.com/track/5D3CxWrRvLCKRq4r7bt27j) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Dulce y Amargo](https://open.spotify.com/album/6zA9mGPGpWnoT0jmaf3bbn) | 4:12 | 2021-12-17 | 2022-07-02 |
 | [Déjate Caer \- 2024](https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta](https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V) | 3:22 | 2024-03-08 | 2024-05-18 |
 | [Día de Mayo](https://open.spotify.com/track/2g1d6hZ6pBloIZGZD3d66O) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Día de Mayo](https://open.spotify.com/album/5fKj3CZGaVuKPRplmsJD9O) | 3:50 | 2024-03-01 | 2024-04-13 |
-| [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 | 2024-06-21 |  |
+| [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 | 2024-06-21 | 2024-10-12 |
 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2021-12-17 | 2024-02-24 |
 | [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 | 2023-05-06 |
 | [Efímera](https://open.spotify.com/track/6ghPND4VxckeuSFjOkG4XC) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Efímera](https://open.spotify.com/album/54q8TWCEtwz0eHnPKk5EHB) | 4:58 | 2021-12-17 | 2022-07-02 |
@@ -517,6 +517,7 @@
 | [Woman Sobbing](https://open.spotify.com/track/24sZJVKllZwuYRCUuntJFf) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 2:38 | 2024-09-13 |  |
 | [Ya lo sabemos](https://open.spotify.com/track/2IAERyyXkVlVB2y5fCyMEC) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [Ya lo sabemos](https://open.spotify.com/album/6Iinc2JYChVvpVELnjMZYl) | 2:37 | 2024-09-27 |  |
 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 | 2023-03-24 | 2023-04-01 |
+| [Ya no hay papel](https://open.spotify.com/track/6AMDVBI18Snm1Vsozwxs6J) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Ya no hay papel](https://open.spotify.com/album/1mNFoUH1m9jLzO6HHqybhz) | 4:01 | 2024-10-11 |  |
 | [ya no puedo más](https://open.spotify.com/track/6Bq6MB7zpKO9OrvgTHipi5) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ya no puedo más](https://open.spotify.com/album/0U8ACZXlWMYNIdIzAy8Gzb) | 4:30 | 2022-08-09 | 2022-08-19 |
 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-09-29 | 2024-06-29 |
 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 | 2024-09-20 |  |

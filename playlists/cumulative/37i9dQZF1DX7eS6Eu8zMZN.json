@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
+    },
+    {
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -1411,6 +1429,28 @@
     },
     {
       "album": {
+        "name": "Nosotras",
+        "url": "https://open.spotify.com/album/6ZznYHtZAPWkTDi8m5JV2F"
+      },
+      "artists": [
+        {
+          "name": "Lengua de Mapa",
+          "url": "https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A"
+        },
+        {
+          "name": "R\u00eda Dezner",
+          "url": "https://open.spotify.com/artist/00j4drSDKk1alFNGzlQOu3"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310115,
+      "name": "Nosotras",
+      "url": "https://open.spotify.com/track/5MwNADUq1AXBoJ2b4ytwir"
+    },
+    {
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4lCrBv0SbaUDLIWjpUpdKe"
       },
@@ -1625,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme O \u00c1ndate",
+        "url": "https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176543,
+      "name": "Qui\u00e9reme O \u00c1ndate",
+      "url": "https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY"
+    },
+    {
+      "album": {
         "name": "Rayando El Sol",
         "url": "https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe"
       },
@@ -1658,6 +1720,28 @@
       "duration_ms": 196716,
       "name": "Rub\u00e9n Dar\u00edo",
       "url": "https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ"
+    },
+    {
+      "album": {
+        "name": "Se Vale Correr (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1ER0IuYuMudleK3kB2gmJy"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        },
+        {
+          "name": "Javier Blake",
+          "url": "https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268727,
+      "name": "Se Vale Correr - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1viVRIMKYXfpqBRlq10ZTe"
     },
     {
       "album": {

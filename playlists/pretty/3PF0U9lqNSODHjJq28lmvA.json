@@ -1,150 +1,86 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2400,
+  "num_followers": 2402,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD3L7nZbPu/UcHpx99uBUkWTmBE5LO",
+  "snapshot_id": "AAAD3qHpEXUPsREkrSrGa/g5R+xvMYHU",
   "tracks": [
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "You Fooled My Heart",
-        "url": "https://open.spotify.com/album/7Jz25jULH7iCiocKFi3Cxo"
+        "name": "Terminaali vaiheessa",
+        "url": "https://open.spotify.com/album/4TDuY0RYjvsyhP0TS8AEO2"
       },
       "artists": [
         {
-          "name": "Symphony Of Sweden",
-          "url": "https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ"
-        }
-      ],
-      "duration_ms": 169177,
-      "name": "You Fooled My Heart",
-      "url": "https://open.spotify.com/track/3ncZYcNbOgGEuUSytKSmQ6"
-    },
-    {
-      "added_at": "2024-10-04 12:11:20",
-      "album": {
-        "name": "Nykkjen",
-        "url": "https://open.spotify.com/album/78OGf9RNTYFy7siy8i2zVz"
-      },
-      "artists": [
-        {
-          "name": "V\u01eblusp\u00e1",
-          "url": "https://open.spotify.com/artist/04sNuGpenIU7aYWLTycRN7"
-        }
-      ],
-      "duration_ms": 404307,
-      "name": "Nykkjen",
-      "url": "https://open.spotify.com/track/7hoqTcyxaQTWOFL5eU4AfH"
-    },
-    {
-      "added_at": "2024-10-04 12:11:20",
-      "album": {
-        "name": "Another State",
-        "url": "https://open.spotify.com/album/2qtL7SrOF14q8Ouh1Cp1Zr"
-      },
-      "artists": [
-        {
-          "name": "Seafarers",
-          "url": "https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x"
-        }
-      ],
-      "duration_ms": 220883,
-      "name": "Televangelists",
-      "url": "https://open.spotify.com/track/1FrbgPVSA43HGfsJCZRQ8Y"
-    },
-    {
-      "added_at": "2024-10-04 12:11:20",
-      "album": {
-        "name": "Master P Funk",
-        "url": "https://open.spotify.com/album/3cJPGtVYqcjZA6X1k7FbK2"
-      },
-      "artists": [
-        {
-          "name": "Cam Be",
-          "url": "https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E"
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
         },
         {
-          "name": "Simone Yael",
-          "url": "https://open.spotify.com/artist/0GG5nYs14zG89KmaxfEyEW"
+          "name": "KAKKU",
+          "url": "https://open.spotify.com/artist/2JPgBGUtlIYbnxr1PffsXD"
         }
       ],
-      "duration_ms": 257142,
-      "name": "Master P Funk",
-      "url": "https://open.spotify.com/track/5xJrVuoPqyZQq2NH1It3XJ"
+      "duration_ms": 240000,
+      "name": "Terminaali vaiheessa",
+      "url": "https://open.spotify.com/track/6VxK80FMFhSxpvh7d4bc6F"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Postwar",
-        "url": "https://open.spotify.com/album/1BaI9Ker6RW1ESQdEWTNwO"
+        "name": "Emma (C'mon Look My Way)",
+        "url": "https://open.spotify.com/album/4kcCeCBIrVbEaL62IWBCm6"
       },
       "artists": [
         {
-          "name": "Drew Hersch",
-          "url": "https://open.spotify.com/artist/1j6SbiADPFKpzAcZkoX8sE"
+          "name": "Pelican Club",
+          "url": "https://open.spotify.com/artist/0SKkdsp0HFsN6wkYgXWpWe"
         }
       ],
-      "duration_ms": 117124,
-      "name": "Postwar",
-      "url": "https://open.spotify.com/track/1ZgkKsjStQ0AOix6JkfkH9"
+      "duration_ms": 225944,
+      "name": "Emma (C'mon Look My Way)",
+      "url": "https://open.spotify.com/track/4cSZTb4bAnoCCeS9avaDQR"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3RWiFLpeXD7HIb2xIge1aW"
+        "name": "I natt \u00e9 hela stan v\u00e5r",
+        "url": "https://open.spotify.com/album/64aVFrR1zukSj9IUqxAmt0"
       },
       "artists": [
         {
-          "name": "Dikon",
-          "url": "https://open.spotify.com/artist/7FAcmXo66NIYvVXF5rmxzs"
+          "name": "Mustasch",
+          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Fancy Boy",
-      "url": "https://open.spotify.com/track/2zIRE4NTumwJ4qO07aH4R1"
+      "duration_ms": 155982,
+      "name": "I natt \u00e9 hela stan v\u00e5r",
+      "url": "https://open.spotify.com/track/2zOZVa4cyQm1AAnO6howPc"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/4kKVXTYFQnDaFPfX7KmPe4"
+        "name": "Boats Alight",
+        "url": "https://open.spotify.com/album/57dVGKGxSmWNVkikHXqK1N"
       },
       "artists": [
         {
-          "name": "Remi Miles",
-          "url": "https://open.spotify.com/artist/40IOAWGkiOk059AYcr74P1"
+          "name": "Paul Allen",
+          "url": "https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/5sm1Ib71SfdD75mDnlhWEn"
+      "duration_ms": 124784,
+      "name": "Boats Alight",
+      "url": "https://open.spotify.com/track/1jwHndax61b9szZRDZFDU8"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Another State",
-        "url": "https://open.spotify.com/album/2qtL7SrOF14q8Ouh1Cp1Zr"
-      },
-      "artists": [
-        {
-          "name": "Seafarers",
-          "url": "https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x"
-        }
-      ],
-      "duration_ms": 315197,
-      "name": "Everything I'd Do (to Get a Hold on You)",
-      "url": "https://open.spotify.com/track/4ULKyum7GiiCMdkoijlcDg"
-    },
-    {
-      "added_at": "2024-10-04 12:11:20",
-      "album": {
-        "name": "Say It Twice",
-        "url": "https://open.spotify.com/album/0iLITFO1LUR2sKVFE2Kg6x"
+        "name": "My Friend Jack",
+        "url": "https://open.spotify.com/album/26iDc5IFoEagRQQdfsP47L"
       },
       "artists": [
         {
@@ -152,125 +88,89 @@
           "url": "https://open.spotify.com/artist/5D3uLlwyBq7m6y920twZdH"
         }
       ],
-      "duration_ms": 315879,
-      "name": "Say It Twice",
-      "url": "https://open.spotify.com/track/7E0sR7E7yXLNbsKQl7ktqI"
+      "duration_ms": 268538,
+      "name": "My Friend Jack",
+      "url": "https://open.spotify.com/track/6Icp6lTm1gHCE74g52QS4H"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/5mTa5PDd1PPv9ov8RYvcM4"
+        "name": "\u00c4ta kakan",
+        "url": "https://open.spotify.com/album/7mEdUkmJtD98VsHR9H0dIe"
       },
       "artists": [
         {
-          "name": "CHIENG",
-          "url": "https://open.spotify.com/artist/3ALBxs69XUBevO8RTVvT0J"
+          "name": "Kajsa Larsson",
+          "url": "https://open.spotify.com/artist/0UsiAYIj7AE0jTnDrC3itV"
         }
       ],
-      "duration_ms": 160269,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/6fVgq4IoVlVSmJUvzMFGBT"
+      "duration_ms": 172813,
+      "name": "\u00c4ta kakan",
+      "url": "https://open.spotify.com/track/5K9jjl9bic8VghOyJl1cUq"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Halloween Night",
-        "url": "https://open.spotify.com/album/1vwnDJKHl0sqdvMz9TRgc9"
+        "name": "Echologia",
+        "url": "https://open.spotify.com/album/7kytvnM3lozyMqmStHYGHf"
       },
       "artists": [
         {
-          "name": "Gin Jupiter",
-          "url": "https://open.spotify.com/artist/5Bf6BBBhHPIyQ5kf5FIptP"
+          "name": "Olli Valtteri Aalle",
+          "url": "https://open.spotify.com/artist/1TEaRybWqwVb2PvF2vYCXa"
         }
       ],
-      "duration_ms": 160496,
-      "name": "Halloween Night",
-      "url": "https://open.spotify.com/track/4ubfmgAqxDwp2vBvBdqbhD"
+      "duration_ms": 443257,
+      "name": "Taajama",
+      "url": "https://open.spotify.com/track/3a5Loxc5WEu0sHilZqa9g0"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "D\u00e5 Nu Sen",
-        "url": "https://open.spotify.com/album/7iOCHThPfNwWHbiWcPzgtO"
+        "name": "Tropic Waste",
+        "url": "https://open.spotify.com/album/4yf7m1c3IBvkr2pDefpgKl"
       },
       "artists": [
         {
-          "name": "Mariann Eliasson",
-          "url": "https://open.spotify.com/artist/2KxQfblndd923YvtIpcwpT"
-        },
-        {
-          "name": "Torbj\u00f6rn Carlsson",
-          "url": "https://open.spotify.com/artist/26L1gn5sPDqoSsNVemtNWK"
-        },
-        {
-          "name": "Stefan Blomquist",
-          "url": "https://open.spotify.com/artist/0jEVDo37vq7HQBLOkukM3I"
-        },
-        {
-          "name": "Peter S\u00f6derlund",
-          "url": "https://open.spotify.com/artist/5UGy5c6hfGKcS9v11Zi9hY"
+          "name": "Tropic Waste",
+          "url": "https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv"
         }
       ],
-      "duration_ms": 182980,
-      "name": "Min morgon",
-      "url": "https://open.spotify.com/track/1jR6Glgukda6qwf8s44Wqw"
+      "duration_ms": 147032,
+      "name": "Interstellar Death Cult Blues",
+      "url": "https://open.spotify.com/track/1A3KsDUkhsXoX7AuOGbXBX"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Only Dreaming",
-        "url": "https://open.spotify.com/album/0ps6MpuRBPCmD9feRglvex"
+        "name": "Nobody's Watching",
+        "url": "https://open.spotify.com/album/45KN0Eo8YL8po9Mua4VrEd"
       },
       "artists": [
         {
-          "name": "Danger Clxse",
-          "url": "https://open.spotify.com/artist/3UgdISKKLWvUbOLLWX4bic"
-        },
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+          "name": "KULA",
+          "url": "https://open.spotify.com/artist/6tgfHy5F0ofAcG0x8Hty96"
         }
       ],
-      "duration_ms": 260138,
-      "name": "Only Dreaming",
-      "url": "https://open.spotify.com/track/3Kva5hxuFydsc8AmGWuqL0"
+      "duration_ms": 196875,
+      "name": "Nobody's Watching",
+      "url": "https://open.spotify.com/track/4M0woqqRVPZBSH4zxHzsC8"
     },
     {
-      "added_at": "2024-10-04 12:11:20",
+      "added_at": "2024-10-11 10:16:47",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/5wPuw8pOtuqsBVGnrnM9pI"
+        "name": "Sturehof brinner",
+        "url": "https://open.spotify.com/album/3eDipKWW4LDXZcPeR5qfs1"
       },
       "artists": [
         {
-          "name": "Wild Women Of Wongo",
-          "url": "https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ"
-        },
-        {
-          "name": "Erika",
-          "url": "https://open.spotify.com/artist/4zoUnBzcHHhQsZFDdveLzX"
+          "name": "Svenska Kulturarkivet",
+          "url": "https://open.spotify.com/artist/1zhb35WxJJexsr3kFZYAq2"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/2QXxBIbLqu05sZnbCDn1R4"
-    },
-    {
-      "added_at": "2024-10-04 12:11:20",
-      "album": {
-        "name": "Rock 'n' Roll Show",
-        "url": "https://open.spotify.com/album/5k4RcxEj3C7Ep6rFnClXBJ"
-      },
-      "artists": [
-        {
-          "name": "High Road Pilots",
-          "url": "https://open.spotify.com/artist/2szqLFKaYUuCIAJ96Hmzir"
-        }
-      ],
-      "duration_ms": 208732,
-      "name": "Rock 'n' Roll Show",
-      "url": "https://open.spotify.com/track/0S9NBLOTIugUukuJFxkJcE"
+      "duration_ms": 118850,
+      "name": "Sturehof brinner",
+      "url": "https://open.spotify.com/track/4kDLwT5jVVYOOTKBrz08uz"
     }
   ],
   "unique_name": "Independent Music Friday",

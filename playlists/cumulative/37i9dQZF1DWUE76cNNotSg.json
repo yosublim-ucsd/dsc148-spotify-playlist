@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175090,
       "name": "Fate",
       "url": "https://open.spotify.com/track/7x3pzN49JShVFPKOJBp2s3"
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
@@ -9716,6 +9738,32 @@
       "duration_ms": 216200,
       "name": "Walking Home to You (RAC Mix)",
       "url": "https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl"
+    },
+    {
+      "album": {
+        "name": "FLORA",
+        "url": "https://open.spotify.com/album/2hGSylZzIAmLqlg530iAtp"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177150,
+      "name": "WARM NIGHTS",
+      "url": "https://open.spotify.com/track/3bwKRxUkoiavDuu088mVOH"
     },
     {
       "album": {

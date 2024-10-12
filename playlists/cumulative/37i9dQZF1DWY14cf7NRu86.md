@@ -4,7 +4,7 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-64 songs - 4 hr 28 min
+65 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cradle in Bethlehem](https://open.spotify.com/track/77bgETPuadJxYCureRv6CN) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [The Christmas Message](https://open.spotify.com/album/6TwinoOixFJzTbRROlxI42) | 5:26 | 2021-11-12 |  |
 | [Deck The Halls](https://open.spotify.com/track/50tvTrOncN0bHo6GsTRuW0) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [A Soulful Christmas](https://open.spotify.com/album/4A2NfFIcZ2eK7dchd7LsOq) | 3:42 | 2021-11-12 |  |
 | [Deck the Halls](https://open.spotify.com/track/779WOFEgaTNqH7suOebmFw) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Christmas in the Air](https://open.spotify.com/album/4HrTaybeI9LV0EEKq1DvQL) | 4:21 | 2021-11-12 |  |
+| [Deck Those Halls](https://open.spotify.com/track/7oxZu24yo5DFojZgvQxVHH) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [It's Christmas](https://open.spotify.com/album/3O5A4CXBzlGpMmfRof3dtf) | 3:53 | 2024-10-11 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/7zPMPv879SSETZQ62Hxfu2) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [All I Hope For Christmas](https://open.spotify.com/album/12P7q2LLdzgjGywnw0mbab) | 4:08 | 2021-11-12 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/65aS7gLuxjak3B8ROreEDl) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Comfort and Joy](https://open.spotify.com/album/0FQ2xKEHYiBKHDBMKMnC56) | 5:04 | 2023-11-10 |  |
 | [Give Love On Christmas Day](https://open.spotify.com/track/5CBg1kk31ThEySWb6AUEG6) | [Antonio Allen](https://open.spotify.com/artist/05rspYZjHPapSedkNKUX5u) | [The Ultimate Gift](https://open.spotify.com/album/5b5rLMaXH0hq5kE7IByapQ) | 3:44 | 2021-11-12 |  |
@@ -51,7 +52,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/6T3Qc0IJ9qRx4YIsYJiZma) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [40 Years: A Charlie Brown Christmas](https://open.spotify.com/album/1YkhNOFpFKKA2oGw9NSenB) | 3:51 | 2021-11-12 |  |
 | [O Tannenbaum](https://open.spotify.com/track/34EHXTdStlw9TFxjarxKyz) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Christmas in the Air](https://open.spotify.com/album/4HrTaybeI9LV0EEKq1DvQL) | 4:51 | 2021-11-12 |  |
 | [O Tannenbaum/Sleigh Ride](https://open.spotify.com/track/35OyklDODDBiCW1X05GSwJ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [A Smooth Jazz Christmas](https://open.spotify.com/album/1O0hEutDsSishT2SkOga5X) | 4:04 | 2021-11-12 |  |
-| [Petit Papa Noël](https://open.spotify.com/track/4whBhhBkuRiM1ZepqzmCi8) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:20 | 2022-11-25 |  |
+| [Petit Papa Noël](https://open.spotify.com/track/4whBhhBkuRiM1ZepqzmCi8) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:20 | 2022-11-25 | 2024-10-12 |
 | [Santa Baby](https://open.spotify.com/track/4tV9ILQsA7RqLeacKZzSu9) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [A Warren Hill Christmas](https://open.spotify.com/album/2yXQ76ZoWaL2mdzwjBLXQM) | 3:35 | 2021-11-12 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1yV7p2Pa2O8aikHIBTyQKA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 4:07 | 2021-11-12 |  |
 | [Silent Night](https://open.spotify.com/track/0TckXJ96MJhzgTNEuhCh1Y) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:32 | 2021-11-12 |  |

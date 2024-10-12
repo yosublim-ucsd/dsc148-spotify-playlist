@@ -5085,6 +5085,32 @@
     },
     {
       "album": {
+        "name": "2:M",
+        "url": "https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        },
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg"
+    },
+    {
+      "album": {
         "name": "EMBER",
         "url": "https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky"
       },
@@ -9004,7 +9030,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 250074,
       "name": "If You Want My Loving",
       "url": "https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG"

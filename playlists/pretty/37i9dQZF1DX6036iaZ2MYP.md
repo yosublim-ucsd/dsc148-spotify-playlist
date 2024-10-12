@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,026 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,110 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 2 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 |
 | 3 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 |
-| 4 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
+| 4 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
 | 5 | [Gear](https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gear](https://open.spotify.com/album/5FcfOy05bLckasiQQHpR1X) | 2:38 |
 | 6 | [ENERGY](https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [ENERGY](https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9) | 2:13 |
 | 7 | [Ohnana \(feat\. Farruko & Nicky Jam\) \- Remix](https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ohnana \(feat\. Farruko & Nicky Jam\) \[Remix\]](https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 |
 | 50 | [Ghetto \(Pain Music 2\)](https://open.spotify.com/track/0wGkQV89pQwr3FrJeUQZoA) | [Megaski](https://open.spotify.com/artist/4YWaklpWrE7GOkmXuMKI6i) | [Ghetto \(Pain Music 2\)](https://open.spotify.com/album/6kO5hdmhyytPYE2woYk3qT) | 3:07 |
 
-Snapshot ID: `ZwhOYAAAAAAfq9ZO1mbgOClYXAblT1yP`
+Snapshot ID: `ZwhOYAAAAACcxvleMRWOvg/HH/cZct0T`

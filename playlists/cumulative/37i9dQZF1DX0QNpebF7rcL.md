@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-418 songs - 1 day 4 hr 6 min
+419 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 | 2023-02-17 |  |
 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 | 2020-12-14 | 2022-02-26 |
 | [Blues For Yesterday](https://open.spotify.com/track/42s2qNbcElKqt29lcWXapw) | [New Moon Jelly Roll Freedom Rockers](https://open.spotify.com/artist/4x6x20x5537T3IiZoRl8DO), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Blues For Yesterday](https://open.spotify.com/album/68rzkssnJO0oFdwvVAfFO0) | 4:32 | 2021-03-26 | 2022-04-23 |
-| [Blues In My DNA](https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [Blues In My DNA](https://open.spotify.com/album/2bQZbzMmuLDr6B6UPJhU7Y) | 4:48 | 2024-08-09 |  |
+| [Blues In My DNA](https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [Blues In My DNA](https://open.spotify.com/album/2bQZbzMmuLDr6B6UPJhU7Y) | 4:48 | 2024-08-09 | 2024-10-12 |
 | [Bonnie](https://open.spotify.com/track/1C0dpv9j64iD0Nmg4cwsvD) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Wrestling Me](https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC) | 4:37 | 2022-02-25 | 2022-11-13 |
 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 | 2022-02-25 | 2024-03-16 |
 | [Bonnie](https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Bonnie](https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF) | 4:37 | 2022-02-25 | 2022-07-29 |
@@ -185,6 +185,7 @@
 | [I'll Be Moving On](https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [I'll Be Moving On](https://open.spotify.com/album/6b6VYA1u7gpcGq5jPaFezV) | 3:51 | 2023-09-22 | 2023-10-28 |
 | [I'm a Drifter](https://open.spotify.com/track/1QxmgxAI66Y5Lwp1T9zxcO) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [I'm a Drifter](https://open.spotify.com/album/55caYHfIpi9Ozg2ccIFWsm) | 3:54 | 2024-09-20 | 2024-10-05 |
 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 | 2023-08-18 |  |
+| [I'm Feeling You](https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [Blues In My DNA](https://open.spotify.com/album/6sbnHnKPNk1mtR6eK33A5j) | 4:37 | 2024-10-11 |  |
 | [I'm Free](https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm Free](https://open.spotify.com/album/3IW3DJaCMBengGSULp86w8) | 4:12 | 2023-06-30 | 2023-07-29 |
 | [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 | 2022-07-01 | 2024-09-21 |
 | [I'm Just Getting Started!](https://open.spotify.com/track/5FpQfVO2jHbTtZGGR8lkN8) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 2:39 | 2022-07-01 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Ximena Sari\u00f1ana en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Alvaro Diaz y NATHY PELUSO en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/2yIAOvcunqsYZbR73J8QAr"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/2dBceH2ounuw0o8WlKmmYq"
+    },
+    {
+      "album": {
         "name": "Ben Affleck (Mi Jenny From The Block)",
         "url": "https://open.spotify.com/album/6X2hLIOSdHDa6ASE5fLJlu"
       },
@@ -1076,6 +1094,36 @@
       "duration_ms": 210000,
       "name": "Bendita Diabla - Apaga La Luz",
       "url": "https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK"
+    },
+    {
+      "album": {
+        "name": "Besitos BB 2.0 (feat. Bb trickz)",
+        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
+      },
+      "artists": [
+        {
+          "name": "El Perla",
+          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Besitos BB 2.0 (feat. Bb trickz)",
+      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
     },
     {
       "album": {
@@ -3921,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "Karate",
+        "url": "https://open.spotify.com/album/7q05oAGrO2xj815xVU1laZ"
+      },
+      "artists": [
+        {
+          "name": "Kat Dahlia",
+          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/2iE6y2ddWB7glVVZRb59Qn"
+    },
+    {
+      "album": {
         "name": "KD",
         "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
       },
@@ -4202,7 +4272,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 163252,
       "name": "LA PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc"
@@ -4300,7 +4370,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204521,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
@@ -4366,6 +4436,24 @@
       "duration_ms": 227200,
       "name": "La \u00danica",
       "url": "https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt"
+    },
+    {
+      "album": {
+        "name": "Le hac\u00e9s falta vos",
+        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167668,
+      "name": "Le hac\u00e9s falta vos",
+      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
     },
     {
       "album": {
@@ -5037,6 +5125,32 @@
     },
     {
       "album": {
+        "name": "Mi Novio Tiene Novia (W Sound 02)",
+        "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162207,
+      "name": "Mi Novio Tiene Novia - W Sound 02",
+      "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
+    },
+    {
+      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -5200,7 +5314,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204000,
       "name": "Musiquita Triste",
       "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
@@ -5822,7 +5936,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172308,
       "name": "no me dejes ir",
       "url": "https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB"
@@ -6624,7 +6738,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 154920,
       "name": "Que me quiera",
       "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
@@ -7796,7 +7910,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
@@ -8748,6 +8862,28 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
+    },
+    {
+      "album": {
+        "name": "XQ ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 林潔心 \(ddkogi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,717 likes - 33 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,720 likes - 33 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [Blame](https://open.spotify.com/track/4qb1jDE091FdfLFYeO4SDH) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:09 |
 | 33 | [沒有星星的夜晚](https://open.spotify.com/track/5cRvWXQoPrb7v8zNaxGSdP) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [沒有星星的夜晚](https://open.spotify.com/album/6poFxx2ZXIRrzjxltHcpl7) | 3:01 |
 
-Snapshot ID: `Zwf6AAAAAAB5pHPZzF2C0K33wprtQW+n`
+Snapshot ID: `Zwf6AAAAAAA1o+I0blIYeTUAGwTYP2cH`

@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-332 songs - 18 hr 42 min
+334 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hey \(feat\. Alfie Templeman\)](https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK) | 3:01 | 2021-02-05 | 2022-04-20 |
 | [Hey Good Lookin'](https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9) | [Blonde Tongues](https://open.spotify.com/artist/1WXAzKcld8b4tZIteRi14G) | [Blonde Tongues](https://open.spotify.com/album/1pzZ7uCZMJSH21sP8g7dUG) | 5:47 | 2021-02-05 | 2022-06-18 |
 | [Hey Lover](https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII) | [The Daughters Of Eve](https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On) | [Hey Lover / Stand by Me](https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE) | 2:24 | 2022-05-13 | 2022-11-30 |
+| [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-11 |  |
 | [Honestly](https://open.spotify.com/track/2XiuMeXhUSqRzbB5X8mWuv) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Honestly](https://open.spotify.com/album/0o2xbYxfg1zEhspcgNEkPQ) | 3:22 | 2021-02-05 | 2022-04-19 |
 | [How To Fly](https://open.spotify.com/track/3jAoLij05OiNndX2XlSRdS) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/1dpC5MkRXeSEwnMMWG6t2z) | 3:22 | 2024-02-16 |  |
 | [How To Fly](https://open.spotify.com/track/6I3Evf3nNhxFA5lSM37Y0v) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 3:22 | 2023-08-18 | 2024-04-19 |
@@ -179,6 +180,7 @@
 | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 | 2021-11-19 | 2022-06-27 |
 | [LIP BOMB](https://open.spotify.com/track/6tRXA3zKmqHHNFPpjtnbtX) | [Lloyd's Money](https://open.spotify.com/artist/7EGrNOOlqwaxnO1NEkJuRa) | [LIP BOMB](https://open.spotify.com/album/0A7BHjbjqOCRojpJRlCFUX) | 2:38 | 2023-07-13 | 2023-07-29 |
 | [Lonely Edinburgh](https://open.spotify.com/track/5mFwUCoZyiQ1qHvtIwfPwX) | [Gamma Ray](https://open.spotify.com/artist/2CdMQ0UoytYQZtNqiwlJRD) | [Lonely Edinburgh](https://open.spotify.com/album/7532lQ3Vsz1EeMW5cSnizc) | 2:46 | 2023-07-13 | 2023-07-29 |
+| [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 | 2024-10-11 |  |
 | [Lucky](https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Lucky](https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu) | 2:33 | 2021-02-05 | 2022-07-29 |
 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 | 2022-07-22 | 2023-03-02 |
 | [Magdalene](https://open.spotify.com/track/7MNsTjkgyA32BetybYx742) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:31 | 2023-03-01 | 2023-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=oAZSgBGCTi\-\-HQhngPtUoA">Lisie Basson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,383 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,430 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 79 | [Boskreet](https://open.spotify.com/track/2txilzH44pSNYq46y3022n) | [Wildebeest Brandewyn Vriende](https://open.spotify.com/artist/6dJljdfznbKeVJRrz6BHLw), [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj), [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Marulaboom](https://open.spotify.com/artist/2CvUjmvI4vm4pBhXjxuW4H) | [Boskreet](https://open.spotify.com/album/2ciYrbXHMd1DRzkanbfIb6) | 3:36 |
 | 80 | [Ek Sal As Jy Sal](https://open.spotify.com/track/7KTDrecKlqAUNRjhkIQ5aj) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Ek Sal As Jy Sal](https://open.spotify.com/album/32Xj2PR28FeaDWkMNlIJ3k) | 3:24 |
 
-Snapshot ID: `ZwhOYAAAAACdgCjGnlaF035sVwX5DWCd`
+Snapshot ID: `ZwhOYAAAAACjicXOtfKI9Dtc/x8wspuq`

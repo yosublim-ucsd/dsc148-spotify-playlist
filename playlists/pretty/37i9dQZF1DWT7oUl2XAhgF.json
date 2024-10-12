@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 348720,
+  "num_followers": 348814,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAC9bYO8/XG91uWK9BwU19Fc",
+  "snapshot_id": "ZwiiwAAAAABvCXdBs3TTMU3V7G2cq3w0",
   "tracks": [
     {
       "added_at": "2024-10-04 04:00:00",
@@ -75,6 +75,26 @@
       "duration_ms": 266426,
       "name": "Like a Woman",
       "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Can't Call Me Baby / Take A Chance",
+        "url": "https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Take A Chance",
+      "url": "https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -835,26 +855,6 @@
       "duration_ms": 207786,
       "name": "Mr. Weatherman",
       "url": "https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Sinseerly Yours",
-        "url": "https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        },
-        {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
-        }
-      ],
-      "duration_ms": 173776,
-      "name": "Sinseerly Yours",
-      "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
     },
     {
       "added_at": "2024-03-29 04:01:00",

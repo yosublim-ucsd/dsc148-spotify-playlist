@@ -1,12 +1,12 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Park Ki Young(\ubc15\uae30\uc601)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4198,
+  "num_followers": 4206,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwegBAAAAACtBfc0yOqjIBQM1jj/mFVu",
+  "snapshot_id": "ZwegBAAAAABzLaRvr7yfXVkY6DDhvFaX",
   "tracks": [
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 31373,
       "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
       "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
-      },
-      "artists": [
-        {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 600280,
+      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
+      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "Deep Sleep Deep",
         "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
       },
@@ -1611,22 +1631,18 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
         }
       ],
-      "duration_ms": 600280,
-      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
-      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
+      "duration_ms": 232000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1651,22 +1667,6 @@
       "duration_ms": 329653,
       "name": "Adelaide from Lieder, Op. 46 (arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1759,6 +1759,46 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Sound for Pets",
+        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
+        "name": "White Night",
+        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Myaskovsky",
+          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
+        },
+        {
+          "name": "Yoosin Park",
+          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 451346,
+      "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
+      "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1799,46 +1839,6 @@
       "duration_ms": 628546,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "Sound for Pets",
-        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "White Night",
-        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
-      },
-      "artists": [
-        {
-          "name": "Nikolai Myaskovsky",
-          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
-        },
-        {
-          "name": "Yoosin Park",
-          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 451346,
-      "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
-      "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1887,30 +1887,22 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "From Darkness To Light",
-        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
+        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
+        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
       },
       "artists": [
         {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+          "name": "Eug\u00e8ne Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
         },
         {
-          "name": "Samuel Youn",
-          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
-        },
-        {
-          "name": "Symphonic Revolution Orchestra",
-          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
-        },
-        {
-          "name": "Kwang Hyun Kim",
-          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
+          "name": "Ju-young Baek",
+          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
         }
       ],
-      "duration_ms": 836280,
-      "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind \"Wotan's Farewell\"",
-      "url": "https://open.spotify.com/track/2cUHgStuKdvZzurL5JvD2n"
+      "duration_ms": 160946,
+      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: I. Obsession: Prelude (Poco Vivace)",
+      "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1939,22 +1931,18 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+        "name": "Love Confession",
+        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
       },
       "artists": [
         {
           "name": "John Noh",
           "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        },
-        {
-          "name": "Ko Yeong Yeol",
-          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
         }
       ],
-      "duration_ms": 293409,
-      "name": "Crying for Love",
-      "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
+      "duration_ms": 237146,
+      "name": "Love Confession",
+      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -2023,22 +2011,30 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
-        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
+        "name": "From Darkness To Light",
+        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
       },
       "artists": [
         {
-          "name": "Eug\u00e8ne Ysa\u00ffe",
-          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Ju-young Baek",
-          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
+          "name": "Samuel Youn",
+          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
+        },
+        {
+          "name": "Symphonic Revolution Orchestra",
+          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
+        },
+        {
+          "name": "Kwang Hyun Kim",
+          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
         }
       ],
-      "duration_ms": 160946,
-      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: I. Obsession: Prelude (Poco Vivace)",
-      "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
+      "duration_ms": 836280,
+      "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind \"Wotan's Farewell\"",
+      "url": "https://open.spotify.com/track/2cUHgStuKdvZzurL5JvD2n"
     },
     {
       "added_at": "2024-10-10 09:36:04",

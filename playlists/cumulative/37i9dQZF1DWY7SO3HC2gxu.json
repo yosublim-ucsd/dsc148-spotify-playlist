@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music Across East Africa. Cover: Munyasya",
+  "description": "Best blends of Electronic music Across East Africa. Cover: Sofiya Nzau, Nomcebo Zekode, Fireboy DML",
   "name": "Oontz",
   "tracks": [
     {
@@ -523,6 +523,32 @@
     },
     {
       "album": {
+        "name": "Eruption",
+        "url": "https://open.spotify.com/album/05F39dJtVpcgRibMQ16ts7"
+      },
+      "artists": [
+        {
+          "name": "Kiko Navarro",
+          "url": "https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        },
+        {
+          "name": "Olivia Ambani",
+          "url": "https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499055,
+      "name": "Eruption",
+      "url": "https://open.spotify.com/track/5RxMfiHjWRh6ffNPpLvZW3"
+    },
+    {
+      "album": {
         "name": "Es Vedra",
         "url": "https://open.spotify.com/album/5SyxPG9RgHncKLldTRVoHV"
       },
@@ -688,7 +714,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 193466,
       "name": "Gongo",
       "url": "https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0"
@@ -1709,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "META (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/0xoXoiQzd1JyRoXhuf2Q0X"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "META (feat. Fireboy DML) - Edit",
+      "url": "https://open.spotify.com/track/37eGvbAJpVPvkrAryG8fBI"
+    },
+    {
+      "album": {
         "name": "Mezdeke",
         "url": "https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv"
       },
@@ -1856,7 +1908,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 178306,
       "name": "Moto - Radio Edit",
       "url": "https://open.spotify.com/track/4nKJxT9FbMsfc8CJdjzqOG"
@@ -2234,7 +2286,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 276881,
       "name": "Nyoro",
       "url": "https://open.spotify.com/track/5GdgzFPADlFrhDRBoEHq7f"
@@ -2816,6 +2868,32 @@
       "duration_ms": 240000,
       "name": "Simama",
       "url": "https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd"
+    },
+    {
+      "album": {
+        "name": "Soko Soko",
+        "url": "https://open.spotify.com/album/1ZSkVnqYPwsHshIv4oa8ch"
+      },
+      "artists": [
+        {
+          "name": "ATTALIN",
+          "url": "https://open.spotify.com/artist/5Dr8r1Nf1dpYlStHPq3kHm"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346080,
+      "name": "Soko Soko",
+      "url": "https://open.spotify.com/track/4GScCxNxa2GPNUEDsSbYWv"
     },
     {
       "album": {

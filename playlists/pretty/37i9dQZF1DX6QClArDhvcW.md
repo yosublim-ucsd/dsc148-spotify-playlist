@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,190 likes - 272 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,310 likes - 272 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 271 | [i moved yesterday](https://open.spotify.com/track/3tfgAy6ByGnENx1ioCvY8N) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [chio](https://open.spotify.com/artist/62yapIXWEg0Wx5zvYM4jLU) | [i moved yesterday](https://open.spotify.com/album/0apurRD8BbhrffPPGRDqjo) | 2:08 |
 | 272 | [Morning Routine](https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw) | 0:59 |
 
-Snapshot ID: `ZvYtwAAAAABX7O7lWlBfBRA86rBgb3O+`
+Snapshot ID: `ZvYtwAAAAADjVvocgIERBeutAjYMtPd6`

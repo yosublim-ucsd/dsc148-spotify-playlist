@@ -1,12 +1,12 @@
 {
   "description": "2024 yaz\u0131na damga vuran \u015fark\u0131lar. Kapak: Era7Capone x Batuflex x Narco",
-  "num_followers": 257236,
+  "num_followers": 257288,
   "original_name": "Yaz Hitleri 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtlpRQAAAAAKs1qnfRIWJN+ZlKyorEEd",
+  "snapshot_id": "ZtlpRQAAAADwFtY4okPg/arWiRukXg7A",
   "tracks": [
     {
       "added_at": "2024-09-05 08:18:12",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-09-05 08:18:12",
       "album": {
+        "name": "Bir Karanfil",
+        "url": "https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Bir Karanfil",
+      "url": "https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ"
+    },
+    {
+      "added_at": "2024-09-05 08:18:12",
+      "album": {
         "name": "behzat \u00e7",
         "url": "https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 126834,
       "name": "behzat \u00e7",
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
-    },
-    {
-      "added_at": "2024-09-05 08:18:12",
-      "album": {
-        "name": "Bir Karanfil",
-        "url": "https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb"
-      },
-      "artists": [
-        {
-          "name": "Emir Can \u0130\u011frek",
-          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Bir Karanfil",
-      "url": "https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ"
     },
     {
       "added_at": "2024-09-05 08:18:12",

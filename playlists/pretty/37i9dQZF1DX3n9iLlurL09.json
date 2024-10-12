@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 93451,
+  "num_followers": 93502,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zfg9xAAAAADUi1qxAIoPnrEsoBL2zdPu",
+  "snapshot_id": "Zfg9xAAAAABzGK/X+uqpD3O+7JHD+2WN",
   "tracks": [
     {
       "added_at": "2024-03-18 13:12:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "When It Was Now",
         "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Simple As This",
+      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 356946,
       "name": "Apocalypse Dreams",
       "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Simple As This",
-      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+        "name": "Young North - EP",
+        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+      "duration_ms": 191773,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "Shields",
         "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
       },
@@ -1507,38 +1523,6 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Young North - EP",
-        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Candy Bar Creep Show",
+        "url": "https://open.spotify.com/album/3haeyF5mrvhNtZvTxoIxxb"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4LidQrfqHouXmnAWlJu5vO"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "The Lumineers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 233817,
-      "name": "Ode to Viceroy",
-      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     }
   ],
   "unique_name": "Best of Indie 2012",

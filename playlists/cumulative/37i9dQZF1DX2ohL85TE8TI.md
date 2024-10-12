@@ -2,9 +2,9 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: No Gain No Love\(손해 보기 싫어서\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Pilot\(파일럿\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-936 songs - 2 day 8 hr 49 min
+937 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Flower Blooming Night](https://open.spotify.com/track/71dIBIqnqCi08KezYYks44) | [JUWONTAK](https://open.spotify.com/artist/5pREqQRffpcU0y1bBDfwnt) | [Knight Flower OST Part.6](https://open.spotify.com/album/1G7tY305SAXDTndUcGojvR) | 3:50 | 2024-02-10 | 2024-09-03 |
 | [Flower\(Long For You\)](https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Rinza Noodle House \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND) | 3:07 | 2023-06-02 | 2023-11-03 |
 | [Fly Away](https://open.spotify.com/track/1ojYrBGkyaVJMz8DrXB8Du) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [I have Not Done My Best \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/048PdUhN7Ss7wMUyLT1T2N) | 3:27 | 2022-03-22 | 2022-06-10 |
+| [FLY AWAY](https://open.spotify.com/track/1C7k8zmorBuFnZTV8f3wDQ) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Pilot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68yvFRMYmkfTVNhEZ1jt8d) | 3:14 | 2024-10-11 |  |
 | [Flying](https://open.spotify.com/track/1IBQYflyHI92aSLFNQL3tj) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Flying \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/4h9LWbaco9WKaVWlVAHD2i) | 3:54 | 2024-02-27 | 2024-09-03 |
 | [For A Long Time](https://open.spotify.com/track/3dRfH2VxbflPsmxAY0VuDn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [For A Long Time \(CURTAIN CALL OST Part.5\)](https://open.spotify.com/album/4HH8pNiWSCxwK8jDAjUDfL) | 3:45 | 2022-11-16 | 2023-02-25 |
 | [For All Time](https://open.spotify.com/track/0IUrUI3EXFOwlE1ucmeFux) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [For All Time \(Original Soundtrack\)](https://open.spotify.com/album/2bd6SY0j96NhgLM5jrmGv5) | 3:49 | 2021-12-19 | 2022-03-04 |
@@ -284,7 +285,7 @@
 | [Happy For Love](https://open.spotify.com/track/56MoHxJvpi1XJUX4fDfOqF) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.25](https://open.spotify.com/album/1cHdaXL8j9CWm8gOpiGEIT) | 3:20 | 2022-12-26 | 2023-03-28 |
 | [Happy Together](https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95) | [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:40 | 2023-08-16 | 2024-02-11 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-26 | 2023-06-03 |
-| [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 | 2024-04-23 |  |
+| [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 | 2024-04-23 | 2024-10-12 |
 | [Heart Race](https://open.spotify.com/track/60uh5g34YgIU9QIOt87Jcg) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Heartbeat \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7hEX5GwUJ01iAcbH8B1KTN) | 3:20 | 2023-07-17 | 2023-12-11 |
 | [Heigh\-ho](https://open.spotify.com/track/1NN2AltpOhdzxywllHYMrY) | [신우](https://open.spotify.com/artist/3qzGr8dVeIizPJKq6yR1xA) | [Claim Your Lottery Prize \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/7p0hfZANnTCSmbljFjgNzq) | 2:59 | 2022-06-20 | 2022-09-20 |
 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 | 2023-05-02 | 2023-09-08 |

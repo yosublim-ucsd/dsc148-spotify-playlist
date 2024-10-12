@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-2,294 songs - 5 day 0 hr 25 min
+2,296 songs - 5 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [fell asleep](https://open.spotify.com/track/4WgpseXyi7lHFrHfmd3AWf) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [fell asleep](https://open.spotify.com/album/0IyEFTiAD1YfWr5j5MyeTA) | 2:31 | 2024-05-25 | 2024-05-28 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-11 | 2023-01-16 |
 | [Fever](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 2:36 | 2021-03-27\* | 2021-05-16 |
+| [Ficha Limpa \- Ao Vivo](https://open.spotify.com/track/17QN5kFprJqHdHLMj7hz4s) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 3:14 | 2024-10-11 |  |
 | [Fighter](https://open.spotify.com/track/6ac0GZMtGXywMyyNJg7EAP) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter](https://open.spotify.com/album/2EfRFRfgepHUI1UNo6FC5r) | 2:55 | 2024-01-28 | 2024-05-19 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO) | 2:59 | 2024-05-09 | 2024-05-22 |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-25 | 2023-03-27 |
@@ -996,6 +997,7 @@
 | [Ich darf das](https://open.spotify.com/track/4txsSBdT4yVJtUj41YaQEB) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Ich darf das](https://open.spotify.com/album/1GDp8tz04TwF8eVhAlfqbY) | 2:32 | 2021-05-16 | 2021-06-12 |
 | [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2023-02-25 | 2023-03-02 |
 | [Ich mal den Himmel heute rosa an](https://open.spotify.com/track/7i8REP75WxlbjPZ1ITckDm) | [Oliver Schmidl](https://open.spotify.com/artist/48KHdRp3OlsLbV9DbO7H6t) | [Ich mal den Himmel heute rosa an](https://open.spotify.com/album/58VH6cieEwX73KN8XXZtgb) | 2:58 | 2023-09-09 | 2023-09-16 |
+| [Ich sage dir heute](https://open.spotify.com/track/6ukjhhsHsFqnwx2X95hXd9) | [Linus Lopez](https://open.spotify.com/artist/5zREydTpxggLIM4cVSxItV) | [Ich sage dir heute](https://open.spotify.com/album/4VLNd0pNy3LSFwTNnh7tmN) | 2:39 | 2024-10-11 |  |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-11-27 |
 | [If You Are My Boyfriend](https://open.spotify.com/track/3EOcW84lE01cHT0nievKOz) | [Drop & Kick](https://open.spotify.com/artist/2vO9CiKPVYAG7NCzNpY5ab) | [If You Are My Boyfriend](https://open.spotify.com/album/0wsCC3CEiKKNPJhnVfd3HI) | 2:49 | 2023-09-27 | 2023-09-29 |
 | [If You Look for Me \- Radio Edit](https://open.spotify.com/track/0qVJUluZmo6yiTWlIymC8n) | [Y\-DAPT](https://open.spotify.com/artist/5rxKxOSeV4rmOFtX4jaKQz) | [If You Look for Me / What Is Wrong](https://open.spotify.com/album/6fN0ZynLnTguF2hPr2rppS) | 3:48 | 2022-06-25 | 2022-06-28 |
@@ -1203,7 +1205,7 @@
 | [love hotel](https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL) | [leftovermax](https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj) | [love hotel](https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3) | 2:32 | 2024-05-21 | 2024-05-25 |
 | [Love is Luxembourg](https://open.spotify.com/track/7p6ZGfV5v0zh2fiTLPUul2) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [iLove the World](https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1) | 2:41 | 2024-07-10 | 2024-07-14 |
 | [Love Jones](https://open.spotify.com/track/4r3sIECKwgvwpdc6OQEoZL) | [Denequia](https://open.spotify.com/artist/40FM4DObTM5OGDcH1Q9V3m) | [House of Qode](https://open.spotify.com/album/6OwdYbJ0eSGjNUlNLtlQgm) | 3:10 | 2023-01-22 | 2023-02-03 |
-| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2024-07-18 |  |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2024-07-18 | 2024-10-12 |
 | [Love My Life](https://open.spotify.com/track/1YW369EbVyjpeLE3YbsjKQ) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [The Heavy Entertainment Show \(Deluxe\)](https://open.spotify.com/album/002H8sA77XFikjH4kbPaph) | 3:28 | 2023-07-12 | 2023-07-14 |
 | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2021-03-27\* | 2021-05-16 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-19 | 2022-06-21 |
@@ -1661,7 +1663,7 @@
 | [Rich Porter](https://open.spotify.com/track/7nLzZI0e9ngvaNDqLF7Z8c) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:23 | 2023-07-01 | 2023-07-06 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-19 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-06 | 2024-05-28 |
-| [Ride On](https://open.spotify.com/track/11qZN1Tr5KD6dSCH3QRthm) | [Ta Liebe](https://open.spotify.com/artist/7i1R0lBOzePk6u7WLKDvpe) | [Ride On](https://open.spotify.com/album/2mISzUHiRsBz38GLU4Wa4C) | 2:56 | 2024-10-10 |  |
+| [Ride On](https://open.spotify.com/track/11qZN1Tr5KD6dSCH3QRthm) | [Ta Liebe](https://open.spotify.com/artist/7i1R0lBOzePk6u7WLKDvpe) | [Ride On](https://open.spotify.com/album/2mISzUHiRsBz38GLU4Wa4C) | 2:56 | 2024-10-10 | 2024-10-12 |
 | [Rien](https://open.spotify.com/track/02hXff8I9554osUyqOwYX2) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Rien](https://open.spotify.com/album/10AW4wqFISRK1x4YXrq5p2) | 2:22 | 2023-03-05 | 2023-03-11 |
 | [Riez](https://open.spotify.com/track/4R0voYthb1112JJiUCeyBA) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:21 | 2022-03-05 | 2022-03-10 |
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/4H1r89bJ7FYeQwel997ll0) | [Max Awers](https://open.spotify.com/artist/6zgWi4dplASoZqamKcTMrn) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/3uCeqwbRQMnumDdQ6lEuuE) | 2:44 | 2024-01-11 | 2024-01-14 |

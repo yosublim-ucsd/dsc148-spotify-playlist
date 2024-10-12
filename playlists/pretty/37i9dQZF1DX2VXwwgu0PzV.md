@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L?si=sJYYM4ekTjGJJk1J0rLgRA>Dj Horphuray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,693 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,832 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 109 | [First Class](https://open.spotify.com/track/7lD28V8yH6qIw3Gnthevfi) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Copyright Infringement](https://open.spotify.com/album/7Jr5nNsYEtX0G1Ciw2Syrb) | 1:38 |
 | 110 | [Sandalili](https://open.spotify.com/track/6IsUcugTsURZJ5tZAUcBRt) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Sandalili](https://open.spotify.com/album/03yocg0eTr5QBmyOI0HWQd) | 2:35 |
 
-Snapshot ID: `ZwhqvAAAAADkyaOYJqseiOJBHBBQ14Xu`
+Snapshot ID: `ZwhqvAAAAAB3qbMCifbRao4sd0DFCS6Y`

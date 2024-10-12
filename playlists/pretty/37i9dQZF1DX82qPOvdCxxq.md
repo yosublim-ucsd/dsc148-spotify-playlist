@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:6vUiVJcOvGX0EhBr4GiMrb">METRUTH</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,923 likes - 95 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,952 likes - 95 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 94 | [If I Told You](https://open.spotify.com/track/16bXA4pmzrMYTcdYjzdo7y) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [If I Told You](https://open.spotify.com/album/0fN0NC5q7XKJr66GU8uQwZ) | 2:35 |
 | 95 | [Kingdom](https://open.spotify.com/track/5ZrVYQcBHz57P1kX7uWMe7) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Kingdom](https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df) | 3:06 |
 
-Snapshot ID: `ZwcrMQAAAAAUp0Nw1MiX9HRozJ4y3btO`
+Snapshot ID: `ZwcrMQAAAAAhtAyIZofgfTuOSrV/1IxX`

@@ -1,33 +1,13 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Mollie Collins",
-  "num_followers": 32529,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Vibe Chemistry &amp; Maduk",
+  "num_followers": 32527,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAArcOSnQORs0pzM5ZtKJ4zVTrE7qJ/J",
+  "snapshot_id": "AAArctd+F6wo3XJLBjpnnu2V/ZUjJpzI",
   "tracks": [
-    {
-      "added_at": "2024-10-10 12:14:05",
-      "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
-    },
     {
       "added_at": "2024-10-10 12:14:05",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 127500,
       "name": "When It Runs Out (feat. Felix Samuel)",
       "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
+    },
+    {
+      "added_at": "2024-10-10 12:14:05",
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
     },
     {
       "added_at": "2024-10-10 12:14:05",

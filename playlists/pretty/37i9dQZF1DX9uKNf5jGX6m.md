@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,652 likes - 288 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,854 likes - 288 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 287 | [Di Sini Dan Kini](https://open.spotify.com/track/5Z6Upi9bxSyk8jQzsF0Cka) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Di Sini Dan Kini](https://open.spotify.com/album/5A9XzJpMCg7JkYibgnfIEh) | 2:23 |
 | 288 | [Bortgjemt](https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Bortgjemt](https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM) | 2:27 |
 
-Snapshot ID: `Zv0xHwAAAAC8W7my0Qp8VYozweeEw18j`
+Snapshot ID: `Zv0xHwAAAAD/cL7rpgKgOwjpfEKuZ9RQ`

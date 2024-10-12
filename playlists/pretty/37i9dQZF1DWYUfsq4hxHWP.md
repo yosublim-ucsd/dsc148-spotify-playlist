@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Clayton Mullen, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,984 likes - 190 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,030 likes - 190 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 189 | [Smoke](https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me \(Deluxe Edition\)](https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI) | 3:15 |
 | 190 | [American Blue](https://open.spotify.com/track/2H3UwCVDUBzc6bFRcKcR8f) | [Jillian Cardarelli](https://open.spotify.com/artist/5VZQk4UsyWsh4lq9tm7fKP) | [American Blue](https://open.spotify.com/album/29NhsdjUCCFhziueX0VFhE) | 2:59 |
 
-Snapshot ID: `ZwbAIQAAAAC1QOpqwMCU2fIBDCPk06s1`
+Snapshot ID: `ZwbAIQAAAAATkEDU5PBjshzykfjN6GfI`

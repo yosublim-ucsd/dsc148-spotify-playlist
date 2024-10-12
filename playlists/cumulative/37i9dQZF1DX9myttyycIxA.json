@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Half Waif",
+  "description": "Underground indie rock gems. Cover: deeper sleeper",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 292000,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 242933,
       "name": "Beauty School",
       "url": "https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS"
@@ -10117,6 +10117,24 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195712,
+      "name": "Hell of a Life",
+      "url": "https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR"
+    },
+    {
+      "album": {
         "name": "Hello, Hi",
         "url": "https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx"
       },
@@ -17040,7 +17058,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192558,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/3NkSNn6fmai9EDwdiym2BT"
@@ -17224,7 +17242,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 234566,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/56U1pIituJfEkU0impIpYA"
@@ -17332,7 +17350,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 282506,
       "name": "Pulling Quotes",
       "url": "https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau"
@@ -17732,6 +17750,24 @@
       "duration_ms": 300000,
       "name": "reasons",
       "url": "https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC"
+    },
+    {
+      "album": {
+        "name": "Rejection",
+        "url": "https://open.spotify.com/album/5yj1oDrLds462bneqdG65U"
+      },
+      "artists": [
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250250,
+      "name": "Rejection",
+      "url": "https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC"
     },
     {
       "album": {
@@ -21390,7 +21426,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 68000,
       "name": "Thanks",
       "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
@@ -22068,6 +22104,24 @@
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5"
+    },
+    {
+      "album": {
+        "name": "deeper sleeper",
+        "url": "https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "this is red leader",
+      "url": "https://open.spotify.com/track/5Rhr7E8Nad0peXFh4QWHsZ"
     },
     {
       "album": {
@@ -22914,7 +22968,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 227626,
       "name": "Twilight Living",
       "url": "https://open.spotify.com/track/5eSJivBPBv5cJDd8rC3TZS"
@@ -23888,7 +23942,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 358226,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/2YHd2jXLdvSL6Cfnw8URHO"
@@ -24396,7 +24450,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 242438,
       "name": "Why Is It Light Out?",
       "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
@@ -25002,6 +25056,24 @@
       "duration_ms": 169549,
       "name": "you were right",
       "url": "https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r"
+    },
+    {
+      "album": {
+        "name": "you're like me",
+        "url": "https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329960,
+      "name": "you're like me",
+      "url": "https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0"
     },
     {
       "album": {

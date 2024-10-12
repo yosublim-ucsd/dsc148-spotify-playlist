@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: FINNEAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,104 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,102 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Vertigo](https://open.spotify.com/track/2FXzX7kUXBxqU62TYdheVT) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo](https://open.spotify.com/album/0gztyILyaGcja3qMyM1YFZ) | 2:28 |
 | 40 | [Nostalgia](https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [The Storyteller](https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E) | 3:31 |
 
-Snapshot ID: `ZwXGRgAAAADsEyGAHbuBOWGoQQcYfP8V`
+Snapshot ID: `ZwXGRgAAAAC6x0yS5cWgsbrAmMlUN44R`

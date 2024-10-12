@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 91606,
+  "num_followers": 91672,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAABZFxZOtHDytbhCei8iTWI4",
+  "snapshot_id": "ZwhOYAAAAAAWvgzl1TMFXxozLOYhmLkg",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sommerfl\u00f8rt",
-        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "Sommerfl\u00f8rt",
-      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 144706,
       "name": "HJERTET MITT ER HELT OK",
       "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sommerfl\u00f8rt",
+        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Sommerfl\u00f8rt",
+      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
         "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 229334,
       "name": "Meri Jaan - LePark Studio, Milan",
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sommer i Norge",
-        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn"
       },
       "artists": [
         {
@@ -872,13 +872,13 @@
           "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
         },
         {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
         }
       ],
-      "duration_ms": 169248,
-      "name": "Sommer i Norge",
-      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+      "duration_ms": 169933,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -979,8 +979,8 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn"
+        "name": "Sommer i Norge",
+        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
       "artists": [
         {
@@ -988,13 +988,13 @@
           "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
         },
         {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 169933,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca"
+      "duration_ms": 169248,
+      "name": "Sommer i Norge",
+      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "I don't want nobody but your body",
-        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "I don't want nobody but your body",
-      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Langt av sted",
         "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "The Last Sad Song",
-        "url": "https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6"
+        "name": "I don't want nobody but your body",
+        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
       },
       "artists": [
         {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
         }
       ],
-      "duration_ms": 178124,
-      "name": "The Last Sad Song",
-      "url": "https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8"
+      "duration_ms": 171733,
+      "name": "I don't want nobody but your body",
+      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1203,6 +1183,26 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "The Last Sad Song",
+        "url": "https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "The Last Sad Song",
+      "url": "https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "duration_ms": 194822,
+      "name": "Number and a Street",
+      "url": "https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Rekk opp h\u00e5nda",
         "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 194693,
       "name": "Uten d\u00e6",
       "url": "https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
-      },
-      "artists": [
-        {
-          "name": "Malin Pettersen",
-          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
-        }
-      ],
-      "duration_ms": 194822,
-      "name": "Number and a Street",
-      "url": "https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Alt jeg har dr\u00f8mt om",
-        "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Alt jeg har dr\u00f8mt om",
-      "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

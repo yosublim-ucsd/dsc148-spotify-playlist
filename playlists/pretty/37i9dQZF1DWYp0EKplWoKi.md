@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\.  Pipe Bueno, Edgardo Nuñez, Blessd en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,095 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,109 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [La Vida Loca](https://open.spotify.com/track/20kpcAWtz7Yql6nIH2P94Z) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [La Vida Loca](https://open.spotify.com/album/6Yb2puxFyhVZxzrpbV6wy1) | 3:48 |
 | 50 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 |
 
-Snapshot ID: `Zv+EYAAAAAAQ9LagFU16qmQLUOQgxQJ9`
+Snapshot ID: `Zv+EYAAAAACt1CEyaaNgti4EPW9mAdrf`

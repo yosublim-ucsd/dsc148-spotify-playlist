@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 44551,
+  "num_followers": 44579,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvbNuAAAAABP4OgsVCeNmkn/otSFCtOB",
+  "snapshot_id": "ZvbNuAAAAAAYH30SzhkD+ADty2aM8unC",
   "tracks": [
     {
       "added_at": "2024-09-27 15:22:32",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Herbst",
-        "url": "https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Hallo Herbst",
-      "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Eddi & D\u00e4n singen noch mehr Kinderlieder a cappella, Vol. 3",
         "url": "https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 98266,
       "name": "Langsam zieht der Herbst in's Land",
       "url": "https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Herbst",
+        "url": "https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Hallo Herbst",
+      "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Der Herbst ist cool!",
-        "url": "https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q"
-      },
-      "artists": [
-        {
-          "name": "Familie Sonntag",
-          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Wunderbar, der Herbst ist da",
-      "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Kinderlieder f\u00fcr die Kita - EP",
         "url": "https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v"
       },
@@ -767,22 +751,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Unfug f\u00fcr alle",
-        "url": "https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY"
-      },
-      "artists": [
-        {
-          "name": "Fug und Janina",
-          "url": "https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR"
-        }
-      ],
-      "duration_ms": 130723,
-      "name": "Matschepf\u00fctze",
-      "url": "https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Itzibitz die Liedermaus",
         "url": "https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 126413,
       "name": "Der Sommer muss gehen",
       "url": "https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Der Herbst ist cool!",
+        "url": "https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Wunderbar, der Herbst ist da",
+      "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Unfug f\u00fcr alle",
+        "url": "https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY"
+      },
+      "artists": [
+        {
+          "name": "Fug und Janina",
+          "url": "https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR"
+        }
+      ],
+      "duration_ms": 130723,
+      "name": "Matschepf\u00fctze",
+      "url": "https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Volker Rosin - Liederbox Vol. 1",
-        "url": "https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 110080,
-      "name": "Mit Kastanien und Eicheln",
-      "url": "https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Kinder dieser Welt",
         "url": "https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167889,
       "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
       "url": "https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Volker Rosin - Liederbox Vol. 1",
+        "url": "https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 110080,
+      "name": "Mit Kastanien und Eicheln",
+      "url": "https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps"
     },
     {
       "added_at": "2024-09-27 15:22:32",

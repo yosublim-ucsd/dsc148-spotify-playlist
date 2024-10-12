@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Blind Channel.",
+  "description": "n\u00fc-metal revival is happening here and now with Trash Boat and Crossfaith.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192676,
       "name": "DESERT RAP",
       "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 224715,
       "name": "Human",
       "url": "https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi"
@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/0cyHewm7uwzseWKHVaaixQ"
+      },
+      "artists": [
+        {
+          "name": "Dirty Machine",
+          "url": "https://open.spotify.com/artist/1Y21Adie8KSr85kRwGPfrA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/08OARGejNP5FQLXfJjPIUu"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 195494,
       "name": "Notion",
       "url": "https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9"
@@ -2210,6 +2228,24 @@
       "duration_ms": 163280,
       "name": "Operator",
       "url": "https://open.spotify.com/track/5p1bCl7HEcsst4eF48z0Bm"
+    },
+    {
+      "album": {
+        "name": "ENMY",
+        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190758,
+      "name": "Our Demise",
+      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
     },
     {
       "album": {
@@ -2692,6 +2728,24 @@
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
+    },
+    {
+      "album": {
+        "name": "SERPENTINE",
+        "url": "https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "SERPENTINE",
+      "url": "https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq"
     },
     {
       "album": {
@@ -3418,7 +3472,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184287,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
@@ -3566,6 +3620,24 @@
       "duration_ms": 217497,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH"
+    },
+    {
+      "album": {
+        "name": "War Machine",
+        "url": "https://open.spotify.com/album/6booYwRM3SPcjeGLCTjDhS"
+      },
+      "artists": [
+        {
+          "name": "Powerflo",
+          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "War Machine",
+      "url": "https://open.spotify.com/track/1C3TukDxObxxR4dhi0u2x7"
     },
     {
       "album": {

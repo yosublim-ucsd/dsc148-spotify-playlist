@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "MAGENTA",
+        "url": "https://open.spotify.com/album/3hStbiIg5jASSCr7kCx9ft"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95691,
+      "name": "BEM ME QUER, MAL ME QUER",
+      "url": "https://open.spotify.com/track/0Bc9dXMOeBkPMGmqWcySHg"
+    },
+    {
+      "album": {
         "name": "Bem Vinda a SP",
         "url": "https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9"
       },
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 153000,
       "name": "GIRO DE TREM",
       "url": "https://open.spotify.com/track/55Wmcl6Ky4HBTDxtCd4P0L"
@@ -5030,6 +5048,32 @@
       "duration_ms": 152000,
       "name": "HENNESSY",
       "url": "https://open.spotify.com/track/1NRcHF4O02hoVSYUexMUqT"
+    },
+    {
+      "album": {
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB"
+      },
+      "artists": [
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        },
+        {
+          "name": "Choji",
+          "url": "https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB"
+        },
+        {
+          "name": "YNC Younco",
+          "url": "https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB"
     },
     {
       "album": {
@@ -5624,7 +5668,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 162964,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/2lWUEgcKASO2jlL8Fq2JJj"
@@ -6000,6 +6044,28 @@
       "duration_ms": 254117,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/62FjYIpr0spteyDRMCvtbm"
+    },
+    {
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151797,
+      "name": "Macetinho Lento - B\u00f4nus",
+      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
     },
     {
       "album": {
@@ -8226,7 +8292,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172319,
       "name": "Olhos em Mim",
       "url": "https://open.spotify.com/track/678w7sCObg2CTMKBFUumQ5"
@@ -8300,6 +8366,28 @@
       "duration_ms": 197333,
       "name": "Outra Hora",
       "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
+    },
+    {
+      "album": {
+        "name": "PABLO",
+        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "PABLO",
+      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
     },
     {
       "album": {
@@ -9486,7 +9574,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 191753,
       "name": "RATATAT\u00c1!",
       "url": "https://open.spotify.com/track/7tOnR9C4BSirSpiWWsSqjv"
@@ -10214,10 +10302,40 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
+    },
+    {
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "BRUFAN",
+          "url": "https://open.spotify.com/artist/5ZPr4eLhiCrdOT6wuTSxD0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147809,
+      "name": "Sei o Caminho",
+      "url": "https://open.spotify.com/track/6qURIJuCcJmB9rSLv7nOGS"
     },
     {
       "album": {
@@ -10364,7 +10482,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
@@ -10917,6 +11035,28 @@
     },
     {
       "album": {
+        "name": "Sorento",
+        "url": "https://open.spotify.com/album/0cH0pjhCL9u5qJHkACqQCu"
+      },
+      "artists": [
+        {
+          "name": "Kroos",
+          "url": "https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Sorento",
+      "url": "https://open.spotify.com/track/2rOqtBzFO9jNj9PH7NV7U6"
+    },
+    {
+      "album": {
         "name": "Sorrisin de Puto",
         "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
       },
@@ -11054,6 +11194,36 @@
       "duration_ms": 220000,
       "name": "S\u00f3 Olha - Ao Vivo",
       "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Um Lance",
+        "url": "https://open.spotify.com/album/07dyB9vxPNVm2VNHfDNGmy"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232820,
+      "name": "S\u00f3 Um Lance",
+      "url": "https://open.spotify.com/track/1mE3qnQjYdZG5oCSdg1FkR"
     },
     {
       "album": {
@@ -11726,6 +11896,24 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
+    },
+    {
+      "album": {
+        "name": "Viajando no Drink",
+        "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
+      },
+      "artists": [
+        {
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "Viajando no Drink",
+      "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
     },
     {
       "album": {

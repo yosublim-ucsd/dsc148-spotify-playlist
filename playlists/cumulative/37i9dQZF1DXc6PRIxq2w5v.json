@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Big Asher",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 127079,
       "name": "Desenvolvimento",
       "url": "https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj"
@@ -3162,6 +3162,28 @@
       "duration_ms": 149972,
       "name": "Famoso: Gn 12",
       "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
+    },
+    {
+      "album": {
+        "name": "Fardo Leve",
+        "url": "https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125805,
+      "name": "Fardo Leve",
+      "url": "https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox"
     },
     {
       "album": {

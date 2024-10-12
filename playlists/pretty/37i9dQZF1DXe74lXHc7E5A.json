@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: The Weeknd",
-  "num_followers": 29064,
+  "num_followers": 29093,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwOQewAAAACjaPRmGCUdgOSODp4Tllwi",
+  "snapshot_id": "ZwOQewAAAACGkQ50OUkVG9u7YzhO1tGT",
   "tracks": [
     {
       "added_at": "2024-10-07 07:40:43",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-10-07 07:40:43",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2024-10-07 07:40:43",
+      "album": {
         "name": "Did It",
         "url": "https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt"
       },
@@ -1103,38 +1119,6 @@
       "duration_ms": 164573,
       "name": "Did It",
       "url": "https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH"
-    },
-    {
-      "added_at": "2024-10-07 07:40:43",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     }
   ],
   "unique_name": "Hype List",

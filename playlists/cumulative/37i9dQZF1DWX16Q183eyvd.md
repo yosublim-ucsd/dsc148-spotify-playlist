@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-156 songs - 7 hr 18 min
+157 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 | 2021-11-19 | 2024-01-31 |
 | [Good Vibes](https://open.spotify.com/track/1T4TCM0A22kV5Ts0MhDas9) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Good Vibes](https://open.spotify.com/album/34pHgSzZar4FBqXhB7anYU) | 3:06 | 2024-01-30 |  |
 | [Happy Mother's Day](https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Happy Mother's Day](https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA) | 1:53 | 2024-05-03 |  |
+| [Harmony](https://open.spotify.com/track/3KIQbhimKhUdiychQWegda) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Harmony](https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9) | 3:28 | 2024-10-11 |  |
 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 | 2021-11-19 | 2024-01-31 |
 | [Healthy](https://open.spotify.com/track/2y5WJhoIjEWJ9cdfd0WNmO) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/2q1qoDeoXUTFvVdPCG1MmH) | 2:44 | 2021-11-19 | 2022-07-29 |
 | [Healthy](https://open.spotify.com/track/2T1c0dyZrkWRnvG5qYN9vA) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/3D043oGlDlfcFccDwwKtX5) | 2:46 | 2022-02-04 | 2022-11-14 |
@@ -68,7 +69,7 @@
 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 | 2024-01-30 |  |
 | [Hope](https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP) | [Hope](https://open.spotify.com/album/6TyZrOw86JmHZu9TxHW794) | 2:40 | 2024-02-02 |  |
 | [I Am Love, I Am Light](https://open.spotify.com/track/4Pze9m7sM29Q4UfGrH1fox) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light](https://open.spotify.com/album/50wyClVSQJXE0MbyDmYwa2) | 3:02 | 2024-02-02 | 2024-03-09 |
-| [I Am Love, I Am Light \- Jersey Club Remix](https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light \(Jersey Club Remix\)](https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO) | 2:55 | 2024-03-08 |  |
+| [I Am Love, I Am Light \- Jersey Club Remix](https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light \(Jersey Club Remix\)](https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO) | 2:55 | 2024-03-08 | 2024-10-12 |
 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 | 2021-11-19 | 2024-01-31 |
 | [I Love Dinosaurs](https://open.spotify.com/track/0V9Yrvf9H7LNyT4QVcZYxh) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [I Love Dinosaurs](https://open.spotify.com/album/4g2hEUxtILneGHgfl3p5zf) | 3:08 | 2024-06-21 | 2024-07-27 |
 | [I Won’t Shrink](https://open.spotify.com/track/3nOqd6Ke2QPCoWV7Pyr5Ix) | [Dee & Friends](https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln) | [Magic Gemstones](https://open.spotify.com/album/0kvyjC6X4tJ3oo6jhJlBGS) | 1:44 | 2024-06-14 |  |

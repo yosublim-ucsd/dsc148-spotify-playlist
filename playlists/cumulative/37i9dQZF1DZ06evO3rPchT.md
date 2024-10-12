@@ -2,7 +2,7 @@
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. Todos os maiores hits em uma só playlist.
+> This is HARDY\. أغاني روعة في قايمة أغاني واحدة.
 
 117 songs - 6 hr 30 min
 

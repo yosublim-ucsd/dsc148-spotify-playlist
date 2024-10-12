@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 61410,
+  "num_followers": 61434,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuHG9QAAAADL4+vxI/qWq4C0PZW2wyih",
+  "snapshot_id": "ZuHG9QAAAABt+q8jqM4Rc7/tDExtKhBo",
   "tracks": [
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "Ando Sad",
         "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 158875,
       "name": "Ando Sad",
       "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Dormir No He Podido",
-        "url": "https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M"
-      },
-      "artists": [
-        {
-          "name": "Sucesi\u00f3n M",
-          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Dormir No He Podido",
-      "url": "https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "No Hay Nadie Mas",
         "url": "https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 223000,
       "name": "No Hay Nadie Mas",
       "url": "https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Dormir No He Podido",
+        "url": "https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M"
+      },
+      "artists": [
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Dormir No He Podido",
+      "url": "https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h"
     },
     {
       "added_at": "2024-09-11 16:36:05",

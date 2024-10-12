@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-03",
-  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Megan Moroney",
+  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Carin Le\u00f3n",
   "name": "OUTSIDE",
   "tracks": [
     {
@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "SPOTIFY OUTSIDE",
+        "url": "https://open.spotify.com/album/4W5Qu5GaVCuG2igJt2bKDN"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198938,
+      "name": "Por culpa de un tercero (Spotify OUTSIDE Version) - Live from Hermosillo, Sonora, MX",
+      "url": "https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg"
+    },
+    {
+      "album": {
         "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
         "url": "https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu"
       },
@@ -530,6 +548,24 @@
       "duration_ms": 203000,
       "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
       "url": "https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {

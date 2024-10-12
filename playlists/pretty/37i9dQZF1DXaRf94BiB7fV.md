@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Dhruvv Bhattacharya, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,869 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,897 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Behne Do](https://open.spotify.com/track/5TwYWjL6aHrpBgLEI1YkBk) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Behne Do](https://open.spotify.com/album/4rcZks1ed9aG4Ab8PA3l0B) | 3:00 |
 | 100 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 |
 
-Snapshot ID: `ZwYx2gAAAABEKJZUyllfJSy4fGR6RqXk`
+Snapshot ID: `ZwYx2gAAAAC+pMWK27sEkXhbDSV0sPxw`

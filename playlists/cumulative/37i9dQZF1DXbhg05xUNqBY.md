@@ -4,13 +4,13 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-188 songs - 13 hr 1 min
+189 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [06:00 Sunrise](https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:18 | 2021-10-31 | 2024-06-23 |
 | [46 \(Be Still\)](https://open.spotify.com/track/5Fst175rlfuQQxYvpyfyrv) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [46 \(Be Still\)](https://open.spotify.com/album/5fBefottJHctZtuKDQzyH6) | 4:14 | 2024-07-26 |  |
-| [All That's Within Me](https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U) | [All That's Within Me](https://open.spotify.com/album/0G540OblZR8UExYceYVkJr) | 4:15 | 2024-07-26 |  |
+| [All That's Within Me](https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U) | [All That's Within Me](https://open.spotify.com/album/0G540OblZR8UExYceYVkJr) | 4:15 | 2024-07-26 | 2024-10-12 |
 | [Almighty](https://open.spotify.com/track/7K5DgWyMTMHBFJKH43fh5u) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Almighty](https://open.spotify.com/album/7C6GwCfNBIhV8QGN4NSKlA) | 3:33 | 2024-07-26 |  |
 | [Altogether Good \- Live](https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [The Joy of Being Together \(Live\)](https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE) | 5:09 | 2024-07-26 |  |
 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 | 2023-02-07 | 2024-06-23 |
@@ -164,6 +164,7 @@
 | [Surrendered](https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Surrendered](https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj) | 9:19 | 2024-06-23 |  |
 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 | 2021-10-31 | 2024-07-27 |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2021-10-31 | 2024-04-19 |
+| [The End of It All](https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ) | [Alisha Eich](https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1) | [The End of It All](https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX) | 3:34 | 2024-07-26 |  |
 | [The Gospel is Rest](https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [The Gospel is Rest](https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q) | 4:40 | 2021-10-31 |  |
 | [the healing song](https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 4:20 | 2024-07-26 |  |
 | [The Lord's Prayer](https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [The Lord's Prayer](https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM) | 2:56 | 2024-06-23 |  |

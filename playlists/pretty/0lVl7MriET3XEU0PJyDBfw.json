@@ -1,12 +1,12 @@
 {
   "description": "Your Tech House therapy session for the dance floor | Check out Bassline Therapy Radio on SoundCloud",
-  "num_followers": 11005,
+  "num_followers": 11004,
   "original_name": "BASSLINE THERAPY",
   "owner": {
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAZaIPo+c31x6XZ14Kivw6aj8xnoz0v",
+  "snapshot_id": "AAAZae2LowxuPRaJzfkug2RpvmFk4fug",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -1351,6 +1351,22 @@
       "duration_ms": 206250,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ"
+    },
+    {
+      "added_at": "2024-10-12 01:29:50",
+      "album": {
+        "name": "Juno What I Mean EP",
+        "url": "https://open.spotify.com/album/2gFIvUqoypu1CxVg7OZtvc"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 405234,
+      "name": "OG Vibe",
+      "url": "https://open.spotify.com/track/3n0jaV61HTthld1wRfPSHk"
     }
   ],
   "unique_name": "BASSLINE THERAPY",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Sarah
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,247 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,254 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Mai Banale](https://open.spotify.com/track/2TzMBeONrRkBT0d2P05Mmv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Mai Banale](https://open.spotify.com/album/4DDZ6E8HKdBCSDuwiH2H8n) | 2:55 |
 | 55 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 |
 
-Snapshot ID: `ZwhOnAAAAAC/o3H5G3WQ94O2Z4cOeGS/`
+Snapshot ID: `ZwhOnAAAAAAoYJaetxyYbV9xv/8fB541`

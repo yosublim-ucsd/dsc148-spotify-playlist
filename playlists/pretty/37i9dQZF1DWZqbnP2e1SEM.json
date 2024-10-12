@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321229,
+  "num_followers": 321222,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuys8AAAAADUfICzRd5Bvq69DUb2f0Qk",
+  "snapshot_id": "Zuys8AAAAACkNvP2hYyUGGlODfACX/LY",
   "tracks": [
     {
       "added_at": "2024-09-19 23:00:00",
@@ -615,30 +615,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+        "name": "Closer (feat. Chenai)",
+        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Chenai",
+          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
         }
       ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
+      "duration_ms": 234728,
+      "name": "Closer (feat. Chenai)",
+      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Closer (feat. Chenai)",
-        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        },
-        {
-          "name": "Chenai",
-          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 234728,
-      "name": "Closer (feat. Chenai)",
-      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "No Time (feat. SadBoi)",
         "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 171520,
       "name": "No Time (feat. SadBoi)",
       "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Max Mylo",
-          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
-        },
-        {
-          "name": "Human Resource",
-          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
-        }
-      ],
-      "duration_ms": 171883,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        },
+        {
+          "name": "Human Resource",
+          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
+        }
+      ],
+      "duration_ms": 171883,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 187883,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Sugar Baby",
         "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "At Night EP",
+        "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        },
+        {
+          "name": "Baron Von Trax",
+          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
+        }
+      ],
+      "duration_ms": 238367,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 210000,
       "name": "The Miracle Makers - Edit",
       "url": "https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "At Night EP",
-        "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
-      },
-      "artists": [
-        {
-          "name": "Upper90",
-          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
-        },
-        {
-          "name": "Baron Von Trax",
-          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
-        }
-      ],
-      "duration_ms": 238367,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Earth Move Edit",
-        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
-      },
-      "artists": [
-        {
-          "name": "Daire",
-          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
-        }
-      ],
-      "duration_ms": 162043,
-      "name": "Earth Move Edit",
-      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 157500,
       "name": "Soul",
       "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Earth Move Edit",
+        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+      },
+      "artists": [
+        {
+          "name": "Daire",
+          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Earth Move Edit",
+      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
     },
     {
       "added_at": "2024-09-19 23:00:00",

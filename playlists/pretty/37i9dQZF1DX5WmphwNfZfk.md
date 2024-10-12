@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Claudia Bouvette
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,820 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,821 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Crimes of Passion](https://open.spotify.com/track/0VpnVQR9hn6PNYNhXesVfw) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Crimes of Passion](https://open.spotify.com/album/33h8JrJLwpY2Zvylh0EjjQ) | 3:54 |
 | 50 | [Bones & All](https://open.spotify.com/track/0d7HOxceqxmeD0gBTHPBe9) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Bones & All](https://open.spotify.com/album/6sFOeOLqesGulYADwSz9Ji) | 3:52 |
 
-Snapshot ID: `Zv9oQAAAAAC85nX8pe8+/6pdaY21F9F4`
+Snapshot ID: `Zv9oQAAAAAAqohWHnLPu0kowiFsa5zs1`

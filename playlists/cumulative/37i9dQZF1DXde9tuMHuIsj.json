@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Myke Towers",
+  "description": "The best of Latin Trap. Cover: Kris R, Blessd ",
   "name": "Trap Land",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 157161,
       "name": "12",
       "url": "https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb"
+    },
+    {
+      "album": {
+        "name": "2 Diablos",
+        "url": "https://open.spotify.com/album/39GP7GEDlY4qo6TtGOL9RZ"
+      },
+      "artists": [
+        {
+          "name": "Geo",
+          "url": "https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166578,
+      "name": "2 Diablos",
+      "url": "https://open.spotify.com/track/44fBKyLES4dNo1TDCuli6G"
     },
     {
       "album": {
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 180705,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4qTUbEQBrQOuw8fyTj4ZcX"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 224347,
       "name": "Caracol (feat. DimeWest)",
       "url": "https://open.spotify.com/track/2nGb0GKBRxHS8t5jeqgXQI"
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 293027,
       "name": "Diablos Y Angeles",
       "url": "https://open.spotify.com/track/12qerQkOOBilyJzAvuXfa8"
@@ -3054,6 +3072,28 @@
       "duration_ms": 314382,
       "name": "El de la Ca\u00f1a",
       "url": "https://open.spotify.com/track/7cn4vTsi42PPl9yJSxCG15"
+    },
+    {
+      "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
     },
     {
       "album": {
@@ -5201,6 +5241,28 @@
     },
     {
       "album": {
+        "name": "Las Piponas (Remix)",
+        "url": "https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Las Piponas (Remix)",
+      "url": "https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
       },
@@ -7215,6 +7277,28 @@
     },
     {
       "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -7366,7 +7450,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173096,
       "name": "Quiere un T\u00edtere",
       "url": "https://open.spotify.com/track/3keRJusWnAN23Bynbldw9K"
@@ -7490,6 +7574,28 @@
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
+    },
+    {
+      "album": {
+        "name": "Rito",
+        "url": "https://open.spotify.com/album/1g0Qy70daljauJeGJQrTBa"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        },
+        {
+          "name": "Yama Make Them Bounce",
+          "url": "https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162608,
+      "name": "Rito",
+      "url": "https://open.spotify.com/track/3n7pryFOcA61ZvPegaYidv"
     },
     {
       "album": {
@@ -8194,7 +8300,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155744,
       "name": "Tamo Ah\u00ed",
       "url": "https://open.spotify.com/track/5icWGgRkzdy0fNUa52zTiS"

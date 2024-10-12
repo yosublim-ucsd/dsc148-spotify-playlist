@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,158 likes - 115 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,236 likes - 115 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 68 | [Sus & Dus \(Akustisk\)](https://open.spotify.com/track/4b2fHgjtjXtguuI606Bx4e) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Sus & Dus \(Akustisk\)](https://open.spotify.com/album/0oNb3efxsLRElfrLnYrTD3) | 2:33 |
 | 69 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 |
 | 70 | [Only Love](https://open.spotify.com/track/51h4v3vtomU8VyxzBysx7i) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Only Love](https://open.spotify.com/album/1LTwwm3xrdWtRXMFTDA0Jo) | 3:25 |
-| 71 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
+| 71 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
 | 72 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 |
 | 73 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 |
 | 74 | [Mord På En Beat](https://open.spotify.com/track/0oNHVYvKbm8wj7pMMq7NdO) | [PAVNA](https://open.spotify.com/artist/3ka9pmmHvB9OkecmGhXJDf) | [Mord På En Beat](https://open.spotify.com/album/70pCLMHtMSXyVjHv1z2UYb) | 2:20 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 114 | [Fool](https://open.spotify.com/track/0Dh2HtBxdZ9JTKXhZB3qg8) | [Helene Oulie](https://open.spotify.com/artist/1jXC0IsUdDyqLBVWyeky32) | [Fool](https://open.spotify.com/album/5caXdBd3Y120RvQiu6AdH5) | 3:02 |
 | 115 | [Transition](https://open.spotify.com/track/38QOUdthiFv9J5PlcFtrnj) | [Y Is Nature](https://open.spotify.com/artist/3wuXZ5eJzdqsSaVUbsc2Mi) | [Transition](https://open.spotify.com/album/34J3UYQAOUyq7eKvCfroZI) | 3:40 |
 
-Snapshot ID: `ZwhOYAAAAACifMUFpJiVC1MsUH3TeHAw`
+Snapshot ID: `ZwhOYAAAAADg47g3uH3L7OCmeRkHXIeC`

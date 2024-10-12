@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,319 likes - 77 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,350 likes - 77 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 76 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 |
 | 77 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 |
 
-Snapshot ID: `ZveCawAAAADGhezXspXTq9CfLjtwRxLe`
+Snapshot ID: `ZveCawAAAADZQpK9ckNm60JHM7IsgSIM`

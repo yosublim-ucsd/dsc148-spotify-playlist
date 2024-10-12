@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-670 songs - 20 hr 24 min
+672 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Flufflepuff](https://open.spotify.com/track/6x5jVIB01yqxk558V1LX3f) | [Holy Day](https://open.spotify.com/artist/12LJaMYFHXueUiln6R32eD) | [Flufflepuff](https://open.spotify.com/album/5BaLE2XROidZuCl9kV5XlD) | 1:15 | 2024-09-30 |  |
 | [Fluffy clouds](https://open.spotify.com/track/5GoTxGJbXchgq0T9E4Qx3w) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Fluffy clouds](https://open.spotify.com/album/6IbE37gGj3iYOv54OlyfBq) | 1:53 | 2021-10-07 |  |
 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3apw3LIPziUL8PWtHoEibN) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 | 2024-09-30 |  |
+| [Flying At Night](https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Flying At Night](https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr) | 1:33 | 2024-10-11 |  |
 | [Follow Your Dreams](https://open.spotify.com/track/4PFMbLLAqrcvm7tTEVpqjN) | [Daniyah Wells](https://open.spotify.com/artist/5XxM10sVl9AVhGjZUYExBp) | [Follow Your Dreams](https://open.spotify.com/album/4RbAiYZAjSgg27t4HEh318) | 2:03 | 2021-10-07 |  |
 | [For He’s a Jolly good fellow](https://open.spotify.com/track/30XhU05qumP09S2Tj9CzJo) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Sing a Song of Sixpence](https://open.spotify.com/album/6wzUjEti3lVdJ52Qm3Gphb) | 1:08 | 2021-10-07 | 2022-11-26 |
 | [For My Sweetheart](https://open.spotify.com/track/3DtGLM46u1ZrZMP1Z5xqOW) | [Vic Davidson](https://open.spotify.com/artist/4rxDPoC97AdDVhtbQmqyQQ) | [For My Sweetheart](https://open.spotify.com/album/6lUHunI58WXnZH9DRHllEQ) | 1:41 | 2022-01-21 | 2023-02-10 |
@@ -225,6 +226,7 @@
 | [Half And Half](https://open.spotify.com/track/2j9pHPSs8CXyHs78jG8HHc) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Half And Half](https://open.spotify.com/album/6T6IyRoGoqEGkQXvHqx0iv) | 2:14 | 2023-12-08 |  |
 | [Hannah My Nana](https://open.spotify.com/track/1sDjxNFyypPdv3SuHb8tSB) | [Martina Beasley](https://open.spotify.com/artist/6iOLm48O5U4bvtK6igOuqK) | [Hannah My Nana](https://open.spotify.com/album/4mfBTTRG4J79mxLmEnHhc7) | 1:33 | 2021-10-07 |  |
 | [Happy Thoughts](https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [Happy Thoughts](https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq) | 1:48 | 2021-10-07 | 2024-03-29 |
+| [Happy Thoughts](https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Happy Thoughts](https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K) | 1:47 | 2024-10-11 |  |
 | [Happy Times](https://open.spotify.com/track/5ktISNmss2NX5pPIZp3tDf) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Happy Times](https://open.spotify.com/album/5rEXMXkgfwi97O2THttUPS) | 1:38 | 2022-02-10 |  |
 | [Har du sett min lilla katt?](https://open.spotify.com/track/3OqMH2afD1luc6LkPCSXL8) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Har du sett min lilla katt?](https://open.spotify.com/album/4nUkkBgCNQmnIOJDjIEWjw) | 1:12 | 2022-11-25 | 2023-02-24 |
 | [Harry the Sleepy Hippo](https://open.spotify.com/track/4qY2sC5Y7P32GWYykI7B9x) | [Haleema Andrews](https://open.spotify.com/artist/2NfeYG57SY7w0whb8XUXcm) | [Harry the Sleepy Hippo](https://open.spotify.com/album/1fLqFWn2aqIiJd45FITYDf) | 1:02 | 2021-10-07 | 2024-03-29 |
@@ -283,7 +285,7 @@
 | [Il mio bambino](https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [Il mio bambino](https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv) | 2:05 | 2022-05-13 |  |
 | [In My Fluffy Bed](https://open.spotify.com/track/0wzXd36Xgmaa7M7ZyafdHH) | [Moa Rønningen](https://open.spotify.com/artist/6l1OPs7GLE1Jy4jWSShGgt) | [In My Fluffy Bed](https://open.spotify.com/album/6XqB7eYcHyurH5idNtww6y) | 2:03 | 2021-10-07 | 2024-03-29 |
 | [In the blink of an eye](https://open.spotify.com/track/6gtLvT0JsPEF4ETEsaeNWT) | [Rachel Birkes](https://open.spotify.com/artist/46dwJ4pRnNjShZqsj3wOaD) | [In the blink of an eye](https://open.spotify.com/album/2R60yHckfCfxubdoMV5OEK) | 1:25 | 2021-10-07 | 2024-05-24 |
-| [In Your Mother's Arms](https://open.spotify.com/track/3GdjJV0Eueo5wXkmnIqmZ7) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [In Your Mother's Arms](https://open.spotify.com/album/7qmaRNuKbo0GfTU3MZ2xlY) | 1:36 | 2021-10-07 |  |
+| [In Your Mother's Arms](https://open.spotify.com/track/3GdjJV0Eueo5wXkmnIqmZ7) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [In Your Mother's Arms](https://open.spotify.com/album/7qmaRNuKbo0GfTU3MZ2xlY) | 1:36 | 2021-10-07 | 2024-10-12 |
 | [Isolde’s dream](https://open.spotify.com/track/3EbKqMFaqKVt1pSgper4xm) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Isolde’s dream](https://open.spotify.com/album/7fybKYONWHdx5KLUViY3oQ) | 1:29 | 2024-03-22 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-10-07 | 2022-05-14 |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/1WapRRJQm0zJZhKaMfJRdZ) | [Andrew Witzinger](https://open.spotify.com/artist/6TB4YN8Qg0o4CxG6OG1j61) | [Classics](https://open.spotify.com/album/73gqUj4H5eAmSENGEt5mQv) | 1:28 | 2021-10-07 | 2023-02-10 |

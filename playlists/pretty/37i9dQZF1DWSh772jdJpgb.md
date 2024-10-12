@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSh772jdJpgb.md) - [plain]
 | 32 | [Episode 77: Sleeping Plague! Strangers Things Theory, Guardians of The Galaxy Vol.3 Theory!](https://open.spotify.com/episode/2XsGDBhih7Whq4QKTgt5Xt) | [Just The Nobody's](https://open.spotify.com/show/1HGeNunxvK8oDkqFouvIUI) | [Just The Nobody's](https://open.spotify.com/album/1HGeNunxvK8oDkqFouvIUI) | 47:05 |
 | 33 | [I'll Be That Villian](https://open.spotify.com/episode/0rBdo0UFLTL0umNEotIE34) | [The Scottie & Sylvia Show](https://open.spotify.com/show/2Pe4b99SmJ3dIhOGMexeFn) | [The Scottie & Sylvia Show](https://open.spotify.com/album/2Pe4b99SmJ3dIhOGMexeFn) | 1:03:25 |
 
-Snapshot ID: `ZUvOjAAAAAA4YdMCrtw+5r+2vIaw5R5j`
+Snapshot ID: `ZUvOjAAAAABvkEVB0CWu1uZCOEMfuaQF`

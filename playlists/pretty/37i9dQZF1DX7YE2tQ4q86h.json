@@ -1,13 +1,33 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: AD\u00c9LA",
-  "num_followers": 190228,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Charli xcx & Ariana Grande",
+  "num_followers": 190664,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwWYFgAAAABxO7vwg80/oOIJwo7UDO+K",
+  "snapshot_id": "ZwiiwAAAAAD2Jtv4PR5dt9AXvoZtfPsf",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 174590,
       "name": "HOMEWRECKED",
       "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-10-04 15:01:05",
@@ -41,6 +77,42 @@
       "url": "https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Smile 2: The Skye Riley EP",
+        "url": "https://open.spotify.com/album/53i6qzqYuhIhcpVTVu0dW3"
+      },
+      "artists": [
+        {
+          "name": "Skye Riley",
+          "url": "https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL"
+        },
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "duration_ms": 165282,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/6AZKGzo7w2FPZ3Y8T4XjfQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Scantily Clad",
+        "url": "https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Scantily Clad",
+      "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Closure",
@@ -57,6 +129,26 @@
       "url": "https://open.spotify.com/track/5H5j512kqhfK9dJT3Ko8an"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "It's ok I'm ok (remixes)",
+        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "It's ok I'm ok - Ian Asher remix",
+      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Bon Voyage",
@@ -71,6 +163,22 @@
       "duration_ms": 204678,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2024-10-08 20:37:42",
@@ -103,6 +211,26 @@
       "duration_ms": 148537,
       "name": "Kiss of Death",
       "url": "https://open.spotify.com/track/4vjqNrPZZrS3EYFYhGXYig"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -169,6 +297,22 @@
       "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/1qylSFIrvQHWzKJl9ac6Do"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Alias",
+      "url": "https://open.spotify.com/track/6YI3WUU7YmDs8OnLBp77wS"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
@@ -199,6 +343,22 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "BREAKUP SEX",
+        "url": "https://open.spotify.com/album/7rOYHW0AJi4AvH2BH7vTYm"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 136996,
+      "name": "BREAKUP SEX",
+      "url": "https://open.spotify.com/track/3BITJcEONbojn6i11mNvi3"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -247,6 +407,22 @@
       "duration_ms": 211020,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
+    },
+    {
+      "added_at": "2024-08-23 04:03:40",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -403,22 +579,6 @@
       "duration_ms": 199379,
       "name": "Mercy Me",
       "url": "https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Girlie Pop: Encore",
-        "url": "https://open.spotify.com/album/1Zf8vlF2PYYCuxXhmfNSUN"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Chlapecka",
-          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "My Only Dream Is To Be Loved",
-      "url": "https://open.spotify.com/track/6z1dZbCFtcpEfxv8lQ0FW8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -593,22 +753,6 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "The Sky is Blue",
@@ -623,26 +767,6 @@
       "duration_ms": 225791,
       "name": "The Sky is Blue",
       "url": "https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Lover Online",
-        "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 167444,
-      "name": "Lover Online",
-      "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
     },
     {
       "added_at": "2024-08-18 21:26:47",
@@ -675,22 +799,6 @@
       "duration_ms": 158710,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
-    },
-    {
-      "added_at": "2024-08-23 04:03:40",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -777,22 +885,6 @@
       "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
-      "added_at": "2024-08-23 04:03:40",
-      "album": {
-        "name": "Out Of This World",
-        "url": "https://open.spotify.com/album/78R8e1C824Qo6335JT41FD"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Out Of This World",
-      "url": "https://open.spotify.com/track/0UcLSSdeAeNCn4T28S0EKO"
-    },
-    {
       "added_at": "2024-08-18 21:26:47",
       "album": {
         "name": "99% ANGEL",
@@ -809,22 +901,6 @@
       "url": "https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "TANTRUM",
-        "url": "https://open.spotify.com/album/4TWlPpIdjNG5DOKaAI7jBl"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        }
-      ],
-      "duration_ms": 172272,
-      "name": "TANTRUM",
-      "url": "https://open.spotify.com/track/4YEQmcKfNfargg2PsjEWcW"
-    },
-    {
       "added_at": "2024-08-18 21:26:47",
       "album": {
         "name": "Angel Of My Dreams",
@@ -839,22 +915,6 @@
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "BURN IT DOWN",
-        "url": "https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "BURN IT DOWN",
-      "url": "https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1043,22 +1103,6 @@
     {
       "added_at": "2024-08-18 21:26:47",
       "album": {
-        "name": "Hey Homie",
-        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189874,
-      "name": "Hey Homie",
-      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
         "name": "Sour",
         "url": "https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c"
       },
@@ -1095,26 +1139,6 @@
       "duration_ms": 187000,
       "name": "DANCE THROUGH THE NIGHT (with Norma Jean Martine)",
       "url": "https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX"
-    },
-    {
-      "added_at": "2024-08-23 04:03:40",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
-      },
-      "artists": [
-        {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
     },
     {
       "added_at": "2024-08-18 21:26:47",
@@ -1523,22 +1547,6 @@
       "duration_ms": 201333,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/27LAUdMw4o2B3nezlmwu3l"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
       "added_at": "2024-08-18 21:26:47",

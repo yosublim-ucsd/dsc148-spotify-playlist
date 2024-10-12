@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,275 likes - 83 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,282 likes - 83 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 82 | [One December Night](https://open.spotify.com/track/6xgqGs263ednVh1U69IYPt) | [Paul Van De Vlasakker](https://open.spotify.com/artist/65UwmvLXL5ZiP8fJi2UgpP) | [Christmas Without Words \(Acoustic Fingerstyle Guitar\)](https://open.spotify.com/album/6bwML2qC1rmknLNhkbfSBr) | 3:07 |
 | 83 | [Wexford Carol](https://open.spotify.com/track/0i4aWVfoN2YqUcRgDON9J7) | [Robin Bullock](https://open.spotify.com/artist/2ZKp4SlkqlTHfKIx46BvS0) | [A Guitar for Christmas](https://open.spotify.com/album/3D9Ztd1NJ9UM16HqnAI0jo) | 2:48 |
 
-Snapshot ID: `ZwZGgwAAAABJxJZ0OuJwJ6APFdEHCKDD`
+Snapshot ID: `ZwZGgwAAAAB8vMV/9p9yFjspfxnPEcIe`

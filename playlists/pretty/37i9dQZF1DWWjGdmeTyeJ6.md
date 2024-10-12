@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Haute & Freddy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,002 likes - 150 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,035 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 149 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
 | 150 | [Room to Room](https://open.spotify.com/track/5hxWDqIcQezyNiX6Udcktr) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Room to Room](https://open.spotify.com/album/6zaMmbdESvVuTVlg0EuG0H) | 2:51 |
 
-Snapshot ID: `ZwacXgAAAACrPOrMn0dSVXjMidDp81UL`
+Snapshot ID: `ZwacXgAAAAA8TBV8yWqpILkbOk7ggKl5`

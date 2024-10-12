@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-213 songs - 10 hr 37 min
+214 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,11 @@
 | [Europapa \(DJ Paul Elstak Remix\)](https://open.spotify.com/track/0dSXcpeqmi6Wdq6bZWcuGC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Europapa: Greatest Hits](https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx) | 3:01 | 2024-04-12 |  |
 | [Everytime We Touch \- Sound Rush Remix](https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Everytime We Touch \(Sound Rush Remix\)](https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj) | 3:36 | 2022-12-05 |  |
 | [Faded \- Hardstyle Remix](https://open.spotify.com/track/5Cd0dIqyb1t66bZw8vWASw) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K), [Sound Made Clearer](https://open.spotify.com/artist/5IIgNsjwbbORsV373EeBMy) | [Faded \(Hardstyle Remix\)](https://open.spotify.com/album/4BDXzHXyoFG0zuyhClsD2X) | 2:46 | 2023-02-02 | 2023-06-30 |
+| [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 | 2024-10-11 |  |
 | [Feel \- Hardstyle Remix](https://open.spotify.com/track/3gxvKQig5mhR52ypQL41iF) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Bruno Power](https://open.spotify.com/artist/6G6JlX1DE2Val7zPadVTzY), [Eggwyte](https://open.spotify.com/artist/5VzIPn6munZ3O3n29BnZI8) | [Feel \(Hardstyle Remix\)](https://open.spotify.com/album/4YyPm2yc7HQIIQxgQawOiw) | 2:57 | 2023-02-02 | 2023-02-24 |
 | [Feel Love](https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Feel Love](https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm) | 3:02 | 2023-04-06 | 2023-07-20 |
 | [Ferrari](https://open.spotify.com/track/57DABWKwZDGqx7KrDafvqq) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Ferrari](https://open.spotify.com/album/3tFbOsLArvDC4rStTFSoQ3) | 2:10 | 2023-06-01 | 2023-08-11 |
-| [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 | 2023-09-07 |  |
+| [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 | 2023-09-07 | 2024-10-12 |
 | [Fire to the Rain \- Hardstyle Remix](https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire to the Rain Hardstyle](https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8) | 2:30 | 2023-02-09 |  |
 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 | 2022-12-05 |  |
 | [Firework \- Techno Remix](https://open.spotify.com/track/2kL4T9w3fGmSMUbvqmgjwH) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [DJ Dobrel](https://open.spotify.com/artist/20I02XeYxk0PkhvLuGFEPn) | [Firework \(Techno Remix\)](https://open.spotify.com/album/61wSN1mWpwnOq6XpZJpwka) | 2:07 | 2024-02-08 | 2024-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,948 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,092 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 | 65 | [Se Me Olvida](https://open.spotify.com/track/11h8rm2aWPvPdfMc2tLaJN) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Demos y Feelings](https://open.spotify.com/album/288gjWevdtKqpsUWkTA1OI) | 3:13 |
 | 66 | [Me Estas Haciendo Mal](https://open.spotify.com/track/5MT9k2NmBXS7x061dGRUuY) | [Vinocio](https://open.spotify.com/artist/73yh69zlE05t6t0dC3C55p) | [Me Estas Haciendo Mal](https://open.spotify.com/album/560eSjVTwQdGVjtmR3O3Cr) | 2:59 |
 
-Snapshot ID: `ZwbODAAAAAAdfuJPXLRjVYx3vFQKBctJ`
+Snapshot ID: `ZwbODAAAAACk2G77AwNIArcsnOqbcg1F`

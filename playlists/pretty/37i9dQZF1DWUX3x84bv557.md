@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: FLEMMING
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,063 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,072 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Niemand voor Elkaar](https://open.spotify.com/track/5M4k2zgIC4lO7W94GD0nWv) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Sereen \(Deluxe\)](https://open.spotify.com/album/3tj7xLvpZRJ7AoEHv6GAAz) | 2:00 |
 | 70 | [Zombie](https://open.spotify.com/track/448ajdyzlu9PbPYOlsySoI) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Zombie](https://open.spotify.com/album/02439WgVLD2ns8utCIofyZ) | 2:17 |
 
-Snapshot ID: `ZwhOYAAAAAA2fdhgF3d1FyByrzp3Gz4L`
+Snapshot ID: `ZwhOYAAAAACUBOdki2dWv7ivnUb+Mpj7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,037 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,055 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 98 | [Silver Cloud](https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Silver Cloud](https://open.spotify.com/album/2RHGK1UjQVqM10Qn06Rnww) | 3:08 |
 | 99 | [No More Photos](https://open.spotify.com/track/5RVqNzSqJHTUG8GgCxgLLg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [No More Photos](https://open.spotify.com/album/4TzrLB7kyyeHiQ6cbzKdq2) | 3:13 |
 
-Snapshot ID: `ZwhccAAAAAAnwje40piS45979cO5bJKq`
+Snapshot ID: `ZwhccAAAAABnLEUY9tCq5N7bbbMT2xu2`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 255468,
       "name": "All That's Within Me",
       "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
@@ -3050,6 +3050,24 @@
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
+      "album": {
+        "name": "The End of It All",
+        "url": "https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX"
+      },
+      "artists": [
+        {
+          "name": "Alisha Eich",
+          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214521,
+      "name": "The End of It All",
+      "url": "https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ"
     },
     {
       "album": {

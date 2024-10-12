@@ -2,9 +2,9 @@
 
 ### [Rock Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5inPtxPHiuS)
 
-> ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
+> ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-225 songs - 13 hr 54 min
+227 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 | 2022-03-11 |  |
 | [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 | 2023-04-14 | 2024-03-05 |
 | [Cangrejo](https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Regular](https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ) | 2:42 | 2022-03-11 | 2023-07-30 |
+| [Canto al Fuego](https://open.spotify.com/track/6PebIhiWi1pAUVJ6BFPHtC) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Canto al Fuego](https://open.spotify.com/album/29g6er6I9r47U8tuQ9bbPG) | 2:58 | 2024-10-11 |  |
 | [Casa de Turistas](https://open.spotify.com/track/1jWPbu2iP9JAArR3uUAeID) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [Casa de Turistas](https://open.spotify.com/album/3yrjCHkh641BgVkT1oYy5A) | 3:17 | 2022-03-11 | 2022-07-16 |
 | [Cheap Universe](https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cheap Universe](https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE) | 3:14 | 2022-03-11 | 2022-10-01 |
 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 | 2022-03-11 |  |
@@ -96,7 +97,7 @@
 | [Hokha \(Remix\)](https://open.spotify.com/track/1JQXqdELlVXmimifDwZnbW) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0) | [Hokha \(Remix\)](https://open.spotify.com/album/1153fdVhaewa6wjdXgF2EA) | 5:00 | 2022-03-11 | 2022-06-10 |
 | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/track/07YsLu2GcHWybEgbQlvnXL) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0), [Red Hoop Tribe](https://open.spotify.com/artist/0WCz8oBvZpusRexGRtd0E8) | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/album/4PcXorSyOBOFPurHVY4BaZ) | 5:56 | 2022-06-24 | 2022-07-29 |
 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 | 2022-03-11 |  |
-| [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 | 2023-03-02 |  |
+| [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 | 2023-03-02 | 2024-10-12 |
 | [Huracán](https://open.spotify.com/track/565F5ZLcCzJ1IiXZZFrf6M) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Huracán](https://open.spotify.com/album/0QieTFR2K7008eXrMlPqaU) | 4:17 | 2022-03-11 | 2022-07-25 |
 | [Imperfecto](https://open.spotify.com/track/4R6DD2CkTKYbykmWhudPwT) | [LAPM](https://open.spotify.com/artist/35JXVdeNoxBKqiP2e618h3) | [Laberinto](https://open.spotify.com/album/4gBc1WuLPdxC0WP1EY8Hz4) | 2:51 | 2022-03-11 | 2022-07-27 |
 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 | 2022-06-24 | 2024-04-19 |
@@ -141,6 +142,7 @@
 | [No Se Si Volverá](https://open.spotify.com/track/3cmEKSdX30eQnzyVw0fMaZ) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sesiones 10.10](https://open.spotify.com/album/4f7u8DbZas8Pqk7WLzSJvb) | 5:06 | 2022-03-11 | 2022-07-29 |
 | [No Sé Si Volverá \(2010\) \- En Vivo](https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sesiones 10.10 \(En Vivo\)](https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4) | 5:07 | 2022-06-24 | 2024-04-19 |
 | [No Tengo Idea de Nada](https://open.spotify.com/track/0WWvdLxl8fcI4QnCNoacSI) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX), [Malestar Delicioso](https://open.spotify.com/artist/2IE8XLyID5XGE5OGl2FDQ4) | [No Tengo Idea de Nada](https://open.spotify.com/album/47Fi7F1hdszTK2t4NojIUB) | 4:19 | 2022-03-11 | 2022-07-01 |
+| [Nube Gris](https://open.spotify.com/track/0wbpgy75oAEP13Huibdiwn) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Nube Gris](https://open.spotify.com/album/7jb3VnmnKW2sqFArnvtUdu) | 3:57 | 2024-10-11 |  |
 | [Nubes Negras](https://open.spotify.com/track/4cO7TlWSvphDKXlYQVi2bl) | [Los De Adentro](https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v) | [Volver Amar](https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW) | 4:07 | 2022-03-11 |  |
 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2022-03-11 | 2023-10-30 |
 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 | 2023-10-07 | 2024-04-19 |
@@ -168,7 +170,7 @@
 | [Pronto Aún](https://open.spotify.com/track/71jIEAM5niLwEIoB29zUcW) | [Todo Niño Paga](https://open.spotify.com/artist/1iIcedI0Tb5HO2SAD1jZU6) | [Pronto Aún](https://open.spotify.com/album/50JZQ7qr2AIXGgPYZ4S1W1) | 3:02 | 2022-03-11 | 2022-07-06 |
 | [Préndela](https://open.spotify.com/track/2GlAvv3Uj3yX7HnWWAtFp6) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [Préndela](https://open.spotify.com/album/7gGYz5q95qyACKtK1XhMxs) | 2:46 | 2022-03-11 | 2022-07-29 |
 | [Pseudónimo](https://open.spotify.com/track/6Rd5Wg3dbPTd0J3iM7OnQd) | [Radio Paila](https://open.spotify.com/artist/47HKESnnseYRf0JaHZR3E1) | [Pseudónimo](https://open.spotify.com/album/0K9ZqQvwPq5w9CwEijd5dE) | 4:44 | 2022-03-11 | 2022-07-29 |
-| [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 | 2022-03-11 |  |
+| [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 | 2022-03-11 | 2024-10-12 |
 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 | 2022-10-13 |  |
 | [Puro Goce](https://open.spotify.com/track/6UBRkQejPE41oFwOm3pWtL) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Nocturna \(Premium\)](https://open.spotify.com/album/1IjpvrtKhXRv4d50occqpH) | 3:46 | 2022-03-11 | 2022-07-23 |
 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 | 2023-03-02 |  |

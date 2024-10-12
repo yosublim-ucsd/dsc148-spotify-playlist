@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3psi=rrKVOvJyTmayxgah2I2jgg">Rowena Fysx</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,077 likes - 264 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,165 likes - 264 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 263 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
 | 264 | [Love Is](https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives: The Gallery](https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh) | 2:42 |
 
-Snapshot ID: `Zv+fDgAAAAAJiP9FdHAnQOibhS9lKX4v`
+Snapshot ID: `Zv+fDgAAAAAvAt+bjY8bLM/+SO/PjmOG`

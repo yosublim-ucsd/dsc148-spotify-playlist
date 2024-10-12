@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 452830,
+  "num_followers": 452852,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtbFXgAAAADX4A2O4ULtHfE1jCstkjXZ",
+  "snapshot_id": "ZtbFXgAAAADDZBFHVjwkTl/rqlt+IIha",
   "tracks": [
     {
       "added_at": "2024-09-03 08:14:22",
@@ -275,26 +275,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
-      },
-      "artists": [
-        {
-          "name": "Twindex",
-          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
-        },
-        {
-          "name": "lov sum",
-          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
-        }
-      ],
-      "duration_ms": 115862,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
+      },
+      "artists": [
+        {
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Breakfast In Bed",
-        "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
-      },
-      "artists": [
-        {
-          "name": "Springy Dustfield",
-          "url": "https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Breakfast In Bed",
-      "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "trading places",
-        "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
+        "name": "Breakfast In Bed",
+        "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
       },
       "artists": [
         {
-          "name": "Mig Palmer",
-          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
+          "name": "Springy Dustfield",
+          "url": "https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm"
         }
       ],
-      "duration_ms": 108181,
-      "name": "trading places",
-      "url": "https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj"
+      "duration_ms": 166491,
+      "name": "Breakfast In Bed",
+      "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "trading places",
+        "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
+      },
+      "artists": [
+        {
+          "name": "Mig Palmer",
+          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
+        }
+      ],
+      "duration_ms": 108181,
+      "name": "trading places",
+      "url": "https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Cozy Nights",
-        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
-      },
-      "artists": [
-        {
-          "name": "Weekly Bagel",
-          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
-        }
-      ],
-      "duration_ms": 123290,
-      "name": "Cozy Nights",
-      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 144005,
       "name": "soft plushies",
       "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Cozy Nights",
+        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "duration_ms": 123290,
+      "name": "Cozy Nights",
+      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
+        "name": "21st Trail",
+        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
       },
       "artists": [
         {
-          "name": "Bill Snoozer",
-          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
+          "name": "Smith Village Beat Street",
+          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
         }
       ],
-      "duration_ms": 164062,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
+      "duration_ms": 107027,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "21st Trail",
-        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
       },
       "artists": [
         {
-          "name": "Smith Village Beat Street",
-          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
+          "name": "Bill Snoozer",
+          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
         }
       ],
-      "duration_ms": 107027,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
+      "duration_ms": 164062,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "time to float",
-        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
-      },
-      "artists": [
-        {
-          "name": "mutedvibes",
-          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "time to float",
-      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Tidepool",
         "url": "https://open.spotify.com/album/3LQX6vrid3do6ItoXH4Mdv"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "time to float",
+        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "time to float",
+      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "So It Falls",
         "url": "https://open.spotify.com/album/6xov2MgfMNHXdfFdCLwY3y"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 133333,
       "name": "So It Falls",
       "url": "https://open.spotify.com/track/47BSkYZ0VusQR2sKWwnhv8"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Plant Convo",
+        "url": "https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI"
+      },
+      "artists": [
+        {
+          "name": "Farmor",
+          "url": "https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63"
+        }
+      ],
+      "duration_ms": 135567,
+      "name": "Plant Convo",
+      "url": "https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1247,22 +1263,6 @@
       "duration_ms": 126000,
       "name": "Gl\u00f6da",
       "url": "https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Plant Convo",
-        "url": "https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI"
-      },
-      "artists": [
-        {
-          "name": "Farmor",
-          "url": "https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63"
-        }
-      ],
-      "duration_ms": 135567,
-      "name": "Plant Convo",
-      "url": "https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq"
     }
   ],
   "unique_name": "sad lofi",

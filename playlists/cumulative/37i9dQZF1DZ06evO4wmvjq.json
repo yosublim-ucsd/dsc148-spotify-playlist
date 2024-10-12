@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 686400,
       "name": "Chorale of the Blessed Day",
       "url": "https://open.spotify.com/track/71h21JUZxC8oO2WDpRvv5b"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 1441491,
       "name": "Keyboard Study 2 - Remastered 2021",
       "url": "https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 447063,
       "name": "The Faquir",
       "url": "https://open.spotify.com/track/4Tm5zrS91ImUe2y8HoF09d"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Footballhead (pictured), Four Year Strong, One Step Closer, Boston Manor and more.",
+  "description": "The shape of noise to come with Oversize (pictured), Trauma Ray, Fake Eyes, Boston Manor and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Bardo",
+        "url": "https://open.spotify.com/album/73El7RE5y19k6cZpJfOcBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204283,
+      "name": "Bardo",
+      "url": "https://open.spotify.com/track/05eBPrTZPj0i0p9xsIlNPI"
+    },
+    {
+      "album": {
         "name": "Bash Out",
         "url": "https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d"
       },
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 217762,
       "name": "Bishop",
       "url": "https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA"
@@ -3985,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi"
+      },
+      "artists": [
+        {
+          "name": "Oversize",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v"
+    },
+    {
+      "album": {
         "name": "Fall From Grace",
         "url": "https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG"
       },
@@ -5988,7 +6024,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 162842,
       "name": "Into Nothing",
       "url": "https://open.spotify.com/track/1qkZ5giwWuADyot5xA2TCv"
@@ -6561,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "Learned To Breathe",
+        "url": "https://open.spotify.com/album/2pTPcFK0uPiEeSZNf5TLA1"
+      },
+      "artists": [
+        {
+          "name": "Dosser",
+          "url": "https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Learned To Breathe",
+      "url": "https://open.spotify.com/track/7puOt1aWPRXs4ikDsM64U9"
+    },
+    {
+      "album": {
         "name": "Pollen",
         "url": "https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj"
       },
@@ -6846,6 +6900,24 @@
       "duration_ms": 202840,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3RIMfBYFKJK95t1PPYw18N"
+      },
+      "artists": [
+        {
+          "name": "Splitview",
+          "url": "https://open.spotify.com/artist/3ZjcTj1vxM9i0f7QDfRPuZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183994,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6BqgHmpqpH4NdOPHBIXdbX"
     },
     {
       "album": {
@@ -9140,7 +9212,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210956,
       "name": "Salt",
       "url": "https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL"
@@ -10358,7 +10430,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 176783,
       "name": "Summer All Over Again",
       "url": "https://open.spotify.com/track/3GfkS58vy0egIKKzhIcchT"

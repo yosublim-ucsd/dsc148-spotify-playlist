@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,067 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,288 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 107 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 |
 | 108 | [The Palace Garden](https://open.spotify.com/track/1tYc3NNaQxwlUbFJJvyvic) | [Yolof Palace](https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj) | [The Palace Garden](https://open.spotify.com/album/0S4nJVFGtTtQRqXPvvQxXa) | 3:14 |
 
-Snapshot ID: `ZtGA4gAAAAAWl59tYJNDAo1IZ8EdBdi/`
+Snapshot ID: `ZtGA4gAAAADDiUkhZTsbYK1D1wgJUKAD`

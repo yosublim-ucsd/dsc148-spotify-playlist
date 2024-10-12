@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 | 58 | [고백하는 거야 Confession](https://open.spotify.com/track/0AgR6mzyjICL214AXYY8sD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 4:07 |
 | 59 | [IMMATURE](https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT MOVEMENT:E \(JAPAN EDITION\)](https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b) | 3:12 |
 
-Snapshot ID: `ZIsRywAAAABLmOSwPgpOohcE4ZJHOdje`
+Snapshot ID: `ZIsRywAAAAA85VF+lRBZJnjR1IbVzOYb`

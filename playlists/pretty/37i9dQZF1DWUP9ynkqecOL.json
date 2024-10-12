@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23159,
+  "num_followers": 23165,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXRFAAAAABEwvS+k49/UYIqa7N9vAsk",
+  "snapshot_id": "ZvXRFAAAAAD1LiKYSObO/X5hUmYw4jDn",
   "tracks": [
     {
       "added_at": "2024-09-26 21:24:36",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Viaje Astral",
-        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 244408,
-      "name": "Viaje Astral",
-      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 251106,
       "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
       "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Viaje Astral",
+        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 244408,
+      "name": "Viaje Astral",
+      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
@@ -915,6 +895,42 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -955,22 +971,6 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Terrapl\u00e9n",
         "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 236986,
       "name": "Quita La Pena",
       "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
-        "url": "https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ"
-      },
-      "artists": [
-        {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
-        },
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Ruido Selecto",
-          "url": "https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
-      "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Magnetismo",
         "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
+        "url": "https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ"
+      },
+      "artists": [
+        {
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+        },
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Ruido Selecto",
+          "url": "https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
+      "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
+        "name": "Telesita",
+        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        },
+        {
+          "name": "Natalia Schvartz",
+          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
+        }
+      ],
+      "duration_ms": 264323,
+      "name": "Telesita",
+      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
         "name": "Viajante",
         "url": "https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm"
       },
@@ -1383,30 +1407,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Telesita",
-        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        },
-        {
-          "name": "Natalia Schvartz",
-          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
-        }
-      ],
-      "duration_ms": 264323,
-      "name": "Telesita",
-      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
-        }
-      ],
-      "duration_ms": 296258,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "10 A\u00f1os",
         "url": "https://open.spotify.com/album/6mrRqGRAlSKITzEOqldUeT"
       },
@@ -1483,22 +1463,38 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Que Bailen",
-        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
       },
       "artists": [
         {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
         },
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -1519,22 +1515,22 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
         },
         {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         }
       ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
     }
   ],
   "unique_name": "Electro Folklore",

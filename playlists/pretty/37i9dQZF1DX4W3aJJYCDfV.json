@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Charli xcx ft. Ariana Grande (pictured), Nao, Odeal and more!",
-  "num_followers": 862762,
+  "num_followers": 862916,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhccAAAAAB4VwAeiEt16qPuiFmnKGVJ",
+  "snapshot_id": "ZwhccAAAAADn0l3UlTBnKiP5rCOTszET",
   "tracks": [
     {
       "added_at": "2024-10-10 23:00:00",
@@ -206,6 +206,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,
@@ -567,6 +571,26 @@
       "duration_ms": 325387,
       "name": "The Burren",
       "url": "https://open.spotify.com/track/0o4rSqA5H8Y2HrMqBf6TD5"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2024-10-10 23:00:00",

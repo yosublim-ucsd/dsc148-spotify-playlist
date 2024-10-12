@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-758 songs - 1 day 4 hr 7 min
+759 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-21 |  |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO) | 2:09 | 2023-07-21 | 2024-04-19 |
 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 | 2023-06-16 | 2023-10-07 |
+| [Automotivo da Turbulencia](https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF) | [Mc Oliver](https://open.spotify.com/artist/3JFJJKilvJeLfWFA6ENhRS), [MC ZKW](https://open.spotify.com/artist/5tDcNu62DRxJ4glbImNOy2), [DJ RD DA DZ7](https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj) | [Automotivo da Turbulencia](https://open.spotify.com/album/4oBA63HKO89DopUAfIMdBH) | 2:12 | 2024-10-11 |  |
 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 | 2024-03-15 |  |
-| [Automotivo Insuficiência \- Slowed](https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d) | [MRL](https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk) | [Project Brazil \(Slowed\)](https://open.spotify.com/album/1PdOfOLuiNuvk7H0Cye1In) | 2:03 | 2024-03-08 |  |
+| [Automotivo Insuficiência \- Slowed](https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d) | [MRL](https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk) | [Project Brazil \(Slowed\)](https://open.spotify.com/album/1PdOfOLuiNuvk7H0Cye1In) | 2:03 | 2024-03-08 | 2024-10-12 |
 | [AUTOMOTIVO PA PA PAPAI \- Slowed](https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x) | [DJ RIO](https://open.spotify.com/artist/0ayuHZiwRQ5jXBaGGSEjBv), [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g) | [AUTOMOTIVO PA PA PAPAI](https://open.spotify.com/album/6jQlknQwPszOU2pYBkNmO5) | 1:10 | 2024-05-24 |  |
 | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/track/5aaV7gu7LObD7h5crmnssY) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [PHOROMANE](https://open.spotify.com/artist/0rsjzDQH2RbP6RsJk5cvz7), [MC Guto VGS](https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF) | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/album/7u2xWRhQHjvi4h947qgDAf) | 1:34 | 2024-02-09 |  |
 | [Automotivo XM, Taka Taka Taka Tá](https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C) | [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [Mc Lullu](https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD), [Mc Erikah](https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs), [Kinechan](https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF) | [Automotivo XM, Taka Taka Taka Tá](https://open.spotify.com/album/12djCPA2ISdr1H8jbU9lIY) | 2:11 | 2024-02-23 | 2024-05-18 |

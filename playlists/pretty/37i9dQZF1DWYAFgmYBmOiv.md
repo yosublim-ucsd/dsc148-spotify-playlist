@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you and your homies are getting ready for your first high school party\. Cover: Mason Thames + Loren Gray from Incoming
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,620 likes - 88 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,679 likes - 88 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 87 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
 | 88 | [Research Chemicals](https://open.spotify.com/track/37C2eshetthNcnTu59a5yy) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Consistency of Energy](https://open.spotify.com/album/5uWaN4A4OlmGGmdEx90pGX) | 6:19 |
 
-Snapshot ID: `ZsgzcAAAAADzjHgBd3HFh77GGmO9n9W2`
+Snapshot ID: `ZsgzcAAAAADvXmxhJHFQ94iB139zaqbk`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2022-05-11 |  |
+| [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2022-05-11 | 2024-10-12 |
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-07-08 | 2022-09-06 |
 | [A Rainy Night](https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [A Rainy Night](https://open.spotify.com/album/3NrgCIy6LfDqlxWaUHAbUi) | 3:57 | 2022-06-09 | 2022-07-27 |
 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-11-03 |  |
@@ -199,7 +199,7 @@
 | [sigh](https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 3:44 | 2022-05-11 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 | 2022-07-08 | 2024-04-19 |
 | [Someday](https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-05-11 | 2022-07-21 |
-| [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 | 2024-09-24 |
+| [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 |  |
 | [Something Like That](https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Something Like That](https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg) | 4:19 | 2022-06-13 | 2022-06-28 |
 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 | 2023-10-16 |  |
 | [Starlight](https://open.spotify.com/track/60qrOUUJdPwH7ofxPMRZ11) | [We Young](https://open.spotify.com/artist/2KWA8WGIcCPLNX6HnPMnS4) | [Starlight](https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX) | 3:43 | 2022-05-11 | 2022-06-02 |

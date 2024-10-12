@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: shego
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,223 likes - 126 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,258 likes - 126 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 125 | [Intact](https://open.spotify.com/track/7sc2LNfJl9HaMJRUzDGjaR) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Doggerland](https://open.spotify.com/album/5ie4Kt29AN3Fc3lsQMrqFx) | 3:09 |
 | 126 | [TNT](https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [TNT](https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI) | 2:55 |
 
-Snapshot ID: `ZwaUHgAAAABkHkEpn0BkkgrgXCw6w+qy`
+Snapshot ID: `ZwaUHgAAAACx5jI/NiIgxEEcediWblie`

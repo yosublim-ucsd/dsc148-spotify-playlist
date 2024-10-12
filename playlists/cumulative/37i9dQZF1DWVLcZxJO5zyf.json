@@ -2127,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137272,
+      "name": "ESCADA DO PR\u00c9DIO",
+      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
+    },
+    {
+      "album": {
         "name": "Eu Dou Tchau",
         "url": "https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI"
       },
@@ -2644,6 +2666,24 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "album": {
+        "name": "Futuro namorado",
+        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164017,
+      "name": "Futuro namorado",
+      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
     },
     {
       "album": {
@@ -3242,7 +3282,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 213125,
       "name": "LOVE COMMUNITY",
       "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
@@ -3530,7 +3570,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 238374,
       "name": "Mande um Sinal - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
@@ -3924,7 +3964,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 149375,
       "name": "Mulher Profissional",
       "url": "https://open.spotify.com/track/1j23qyRYsRT1tf1NnvnqOw"
@@ -6814,6 +6854,28 @@
       "duration_ms": 171760,
       "name": "T\u00e1 OK (Remix)",
       "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
+    },
+    {
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176050,
+      "name": "t\u00e3o bem",
+      "url": "https://open.spotify.com/track/7dhlm4m0UScJjJi9IWTAsT"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt?si=5x3tFQTzQ7acIMkaTkBBqA">Nomfundo Xaluva</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,748 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,767 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
-| 2 | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/track/6i6zDNV7uXaJ8Xx6MAZgh0) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa), [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Andreas Tschopp](https://open.spotify.com/artist/7jG1a4U2gfpRRx85QwoiYF), [Marc Stucki](https://open.spotify.com/artist/308i8WRYChjLk9ALZP4W8H) | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/album/3tVoyRG5DZwoJ7i0mDROCr) | 9:16 |
-| 3 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
+| 1 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
+| 2 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
+| 3 | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/track/6i6zDNV7uXaJ8Xx6MAZgh0) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa), [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Andreas Tschopp](https://open.spotify.com/artist/7jG1a4U2gfpRRx85QwoiYF), [Marc Stucki](https://open.spotify.com/artist/308i8WRYChjLk9ALZP4W8H) | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/album/3tVoyRG5DZwoJ7i0mDROCr) | 9:16 |
 | 4 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
 | 5 | [Order My Steps](https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Order My Steps](https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC) | 6:15 |
 | 6 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [The Meeting Place](https://open.spotify.com/track/3dKkSKgUL8MHjqqzPJZF0a) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Siparia Deltones](https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz) | [Siparia to Soweto](https://open.spotify.com/album/0kTFinupZwLN67sWCXvhGp) | 6:15 |
 | 50 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 |
 
-Snapshot ID: `Zv8vxwAAAABiOdaRt/MMVT3G/1+kARsQ`
+Snapshot ID: `ZwiYmwAAAAC1HP6Q+elHjVANQLoO9ZsA`

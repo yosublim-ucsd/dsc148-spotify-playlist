@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,815 songs - 1 day 13 hr 20 min
+1,819 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Dim Starlight](https://open.spotify.com/track/3LYjkM8uuEA3LU5bjV0LzU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Dimness](https://open.spotify.com/track/6EQjBM2Ku0PFKhxzTDpZzy) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dimness](https://open.spotify.com/album/7KPw4olIg7xN1e3aKxTsqG) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Dimness \- Strings Version](https://open.spotify.com/track/4cSzpXxn0yD0gRBGHhnCgl) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dimness \(Strings Version\)](https://open.spotify.com/album/7j9Az9l3knBriWCtlVH4qu) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Distance](https://open.spotify.com/track/3ERPlCfjcHjlN34WNu6T1c) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Distance](https://open.spotify.com/album/5ouTuRkKH3QBx10WtZCLSh) | 1:00 | 2024-10-11 |  |
 | [Distance](https://open.spotify.com/track/1YEclguNyJ2cCjOHc2Au4G) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:14 | 2022-01-12 |  |
 | [Distancing \- Strings Version](https://open.spotify.com/track/7mDo26UridHvuFn2Q28mCa) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Sublime Mornings Revisited \(Strings Version\)](https://open.spotify.com/album/3VDtNC64hbeRvGSUEXARd8) | 1:06 | 2022-10-19 | 2024-02-13 |
 | [Distancing Light](https://open.spotify.com/track/2JpPy9GTwwnzpf5MDTkRy1) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Distancing Light](https://open.spotify.com/album/68ySseQNOToKbvFao2fKTR) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -544,6 +545,7 @@
 | [Everything I Lost](https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Memoir Collections II \- Dream Journal](https://open.spotify.com/album/7uEPmMVoqbXy8JJ6GTDHFM) | 2:39 | 2022-01-12 | 2023-08-01 |
 | [Everything Is Fleeting](https://open.spotify.com/track/26NGo7kxvXamqiGCJtd4m0) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:39 | 2022-01-12 | 2024-01-30 |
 | [Evolve](https://open.spotify.com/track/5rib0EIdNJ2cRGIvxVXhTc) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Evolve](https://open.spotify.com/album/1JXLy3UXZF7cPsz03KvCdt) | 1:40 | 2022-01-12 | 2024-01-30 |
+| [Exhaling](https://open.spotify.com/track/0HYJk7cIjJfXyLwo5pTKxj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Exhaling](https://open.spotify.com/album/5zrBJ60RQnhqyV1Ch3M9Zw) | 1:00 | 2024-10-11 |  |
 | [Fade](https://open.spotify.com/track/2UUbA73zuApPyU47XAamim) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Fade](https://open.spotify.com/album/6T8D5tmQdBptuch5YlmcQm) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Fade \- Alternate Strings Version](https://open.spotify.com/track/7s18tYKb2ocStzyjMTVDCx) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Fade \(Alternate Strings Version\)](https://open.spotify.com/album/15MDADuTAv20imPbVpGTbU) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Fade \- Strings Version](https://open.spotify.com/track/6p1s3Q2xINhShlNuyiL3yu) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Fade \(Strings Version\)](https://open.spotify.com/album/7dwVvnKPt7zq9k3hma7S0g) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -1151,6 +1153,7 @@
 | [Our Love](https://open.spotify.com/track/1kRFLxLcYCr8NxyfQmLfjq) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Our Love](https://open.spotify.com/album/65yeCVnowVFBRZ2wAedAZG) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Our Time](https://open.spotify.com/track/1Hl9OB0Gafyd2cKMZcARfx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:20 | 2022-03-14 | 2024-01-30 |
 | [Our Years](https://open.spotify.com/track/29p3TUzToo2wSOcEjHsHxu) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:04 | 2022-03-03 |  |
+| [Ours](https://open.spotify.com/track/0c3A8ahM1g0fBgcPtfXaOB) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Ours](https://open.spotify.com/album/6OcAUt2rvkldX7xFefzWmZ) | 1:00 | 2024-10-11 |  |
 | [Outlander Theme \(Skye Boat Song\)](https://open.spotify.com/track/5TKfDj8gFLeOEvcxyIC03T) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Outlander Theme \(Skye Boat Song\)](https://open.spotify.com/album/14RxInhfFNtK17T8n4c1uR) | 1:59 | 2022-01-12 | 2022-12-28 |
 | [Pacific \- Piano Lullaby Version](https://open.spotify.com/track/0iVUwZyzFYKeurpcNwacE2) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Pacific](https://open.spotify.com/album/18Aj6ZdZ2ta4RfIJe5leHX) | 1:00 | 2024-04-18 |  |
 | [Pacific Dream](https://open.spotify.com/track/4747p4v0VF0PgWs5CPuOlj) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:07 | 2022-01-14 |  |
@@ -1527,6 +1530,7 @@
 | [Sundays With You](https://open.spotify.com/track/5FdGRd5qGqu1UrdLWzWlcg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Piano Trios, Vol\. 3](https://open.spotify.com/album/55cYmp5mnBdwtmaKbe2KlH) | 1:09 | 2024-02-09 | 2024-02-13 |
 | [Sundays With You Revisited](https://open.spotify.com/track/1X0WsjWxHnADio9x16JtYL) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soul Path](https://open.spotify.com/album/0PUgfkmtxNZ4KFNYkVfksT) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Sundown](https://open.spotify.com/track/291X0cX0jmtyN2KZyYMrwe) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sundown](https://open.spotify.com/album/4D44AkPkITjOkHI6VpORm5) | 1:02 | 2023-04-25 |  |
+| [Sunlight](https://open.spotify.com/track/0nzCufFrnXjJsJP8B747QN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Sunlight](https://open.spotify.com/album/4QIcuBgE76iLLpKrVI0ZWy) | 1:00 | 2024-10-11 |  |
 | [Sunlight Again](https://open.spotify.com/track/3BBz6sIBtj0dsjUmUBoAz9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sunlight Again](https://open.spotify.com/album/5zMy2K2zhZsorqhir1CjJb) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Sunlight Again Arr\. For Strings](https://open.spotify.com/track/3NaNthzgmTr512vODNsksv) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Strings In May](https://open.spotify.com/album/6QsgGKi3Sc4D8KgK7fXrux) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Sunlight In My Heart](https://open.spotify.com/track/3KoMMk8VEcCBFrHdD83nbd) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sunlight In My Heart](https://open.spotify.com/album/1PzU1ay4YOvVLbPPvAkWLn) | 1:01 | 2023-01-25 |  |

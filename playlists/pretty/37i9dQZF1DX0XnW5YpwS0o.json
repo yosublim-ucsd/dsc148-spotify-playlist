@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 97544,
+  "num_followers": 97625,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfhBBAAAAABbYG4ODjo5uRp1N5xG5rTm",
+  "snapshot_id": "ZfhBBAAAAAAHE5OP03T4lUnPuVqP2oVI",
   "tracks": [
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Aloha",
         "url": "https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218400,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "wannabewithu",
-        "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Lover Is a Day",
-      "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Honey Bones",
         "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 237961,
       "name": "Marinade",
       "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 233076,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Futureproof",
         "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "I Had a Dream That You Were Mine",
+        "url": "https://open.spotify.com/album/1Q1dC1ySc1S5X8XB2DDWfE"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Leithauser",
+          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
+        },
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "A 1000 Times",
+      "url": "https://open.spotify.com/track/4GkS17JdvJY5vnsYqTGPG2"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Teens of Denial",
         "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "I Had a Dream That You Were Mine",
-        "url": "https://open.spotify.com/album/1Q1dC1ySc1S5X8XB2DDWfE"
-      },
-      "artists": [
-        {
-          "name": "Hamilton Leithauser",
-          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
-        },
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "A 1000 Times",
-      "url": "https://open.spotify.com/track/4GkS17JdvJY5vnsYqTGPG2"
     }
   ],
   "unique_name": "Best of Indie 2016",

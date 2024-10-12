@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPpVRoWH9Uo.md) - [plain]
 
 > Celebrating the nominees of this year's <a href="https://caribmusicawards.com/">Caribbean Music Awards</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 37 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPpVRoWH9Uo.md) - [plain]
 | 36 | [Talk About This](https://open.spotify.com/track/4h07RDG3uF2xlIHd7phmmy) | [Faith Callender](https://open.spotify.com/artist/5p6XUkurST6rtnoYETb57o) | [Talk About This](https://open.spotify.com/album/4xy2qRLrMioggXSTJC5sky) | 2:43 |
 | 37 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 |
 
-Snapshot ID: `ZtDfXgAAAAApxpH0xBZduoX3qG+rZ93C`
+Snapshot ID: `ZtDfXgAAAABxPE8Ai6fOiWbui2p9kIBi`

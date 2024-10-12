@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="spotify:artist:6BjTMFkrQJF8cQlVsLFbUh">Mowalola</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,485 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,510 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hit & Run](https://open.spotify.com/track/6ZO2BFnWwI0CTapdJGlTJb) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [Hit & Run](https://open.spotify.com/album/2vqCQ0ksBM3Lrh3pfap5Uj) | 2:11 |
 | 2 | [GLI77ER](https://open.spotify.com/track/6c3pMOp2pJRhjTQJ6prBPt) | [Cherrie B](https://open.spotify.com/artist/5pMcy3RI5z6kYUhYs8iMRN) | [GLI77ER](https://open.spotify.com/album/4ohHVIXnu0gfN1Xng4t1xm) | 2:04 |
-| 3 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
+| 3 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 4 | [Why you kiss](https://open.spotify.com/track/5O8jL2OOQTLa5UOrueURdj) | [Pablo Skywalkin](https://open.spotify.com/artist/612OhNltlGBZCgJjF8edTo) | [Trapper flow](https://open.spotify.com/album/6aPHpxZtvXPSvgzQzAlYlu) | 1:29 |
 | 5 | [Gucci Bandanna](https://open.spotify.com/track/6MqFViHkIUQ0MOu25cdwiO) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:56 |
 | 6 | [Back It up and Dump It \(Dump Truck\)](https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7) | [GC Eternal](https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02), [Kinfolk Thugs](https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS), [Tyme Bomb](https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd), [Tre'v](https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp) | [Back It Up and Dump It \(Dump Truck\)](https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Hunnid$](https://open.spotify.com/track/2KvkCF1UfofHxmprCy05eq) | [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Hunnid$](https://open.spotify.com/album/5vaok8XsXS4TTHufFEKbgH) | 2:39 |
 | 50 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
 
-Snapshot ID: `ZusKeQAAAAAArkt87vHM7Unw+uvWnQAA`
+Snapshot ID: `ZusKeQAAAAAVSTBPCJGAxp+6T+s7TDot`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: IZO
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,887 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,905 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Butterfly](https://open.spotify.com/track/1n49Z9UoHQLsAw2GRqQ0Qb) | [⌭ IceMorph ⌬](https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z) | [Butterfly](https://open.spotify.com/album/4hTMDhL62Z6eIbQ86tvABY) | 4:04 |
 | 100 | [Want It](https://open.spotify.com/track/07VXcW0uKzdfbTKebTz9bb) | [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF) | [Want It](https://open.spotify.com/album/2963I1C5BYQRA3ZEFBHVF8) | 2:32 |
 
-Snapshot ID: `ZwW5cAAAAAAtIaoEt8hndmCJ5ZWZur2j`
+Snapshot ID: `ZwW5cAAAAAAzh7Z3WpU/i59iGzmQFXBw`

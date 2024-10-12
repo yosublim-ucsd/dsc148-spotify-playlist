@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. Ra\u00fal Beltr\u00e1n en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Clave Especial, Fuerza Regida en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "A La MB Muchas Gracias (Adi\u00f3s al Chore)",
+        "url": "https://open.spotify.com/album/0SUWpVKlKwlzsNTBNNoZ1u"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206236,
+      "name": "A La MB Muchas Gracias (Adi\u00f3s al Chore)",
+      "url": "https://open.spotify.com/track/1YVOAwXxps3HbRwJ2FjFI1"
+    },
+    {
+      "album": {
         "name": "A La Orden (El Menor)",
         "url": "https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 245306,
       "name": "Al Tiro",
       "url": "https://open.spotify.com/track/0dDZGu9Gs0ZsG8PdZ6JtES"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177519,
       "name": "Apache Para Los Amigos",
       "url": "https://open.spotify.com/track/4og2jZveOYty947rpZni9Y"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 156165,
       "name": "Bendito El Jale",
       "url": "https://open.spotify.com/track/6VDDraqswz5ygb6EepEn0f"
@@ -2590,6 +2608,28 @@
       "duration_ms": 202414,
       "name": "Buscando Al Cholo (En Vivo)",
       "url": "https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK"
+    },
+    {
+      "album": {
+        "name": "BW",
+        "url": "https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171443,
+      "name": "BW",
+      "url": "https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP"
     },
     {
       "album": {
@@ -3544,7 +3584,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170794,
       "name": "CLN",
       "url": "https://open.spotify.com/track/1wvvxrdu8PyBkImXKvFzg2"
@@ -4722,7 +4762,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 130146,
       "name": "Deluxe",
       "url": "https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE"
@@ -6171,6 +6211,24 @@
     },
     {
       "album": {
+        "name": "El Caballero \u201cMF\u201d",
+        "url": "https://open.spotify.com/album/7AZUQQXit1cGgoyzBi4Vpz"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222371,
+      "name": "El Caballero \u201cMF\u201d",
+      "url": "https://open.spotify.com/track/32AtxPAf3VCJ0OnVNQz6HC"
+    },
+    {
+      "album": {
         "name": "El Caballo",
         "url": "https://open.spotify.com/album/3foIQ5DUlBKaxywoxAxz5q"
       },
@@ -6338,7 +6396,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155162,
       "name": "El Caminito",
       "url": "https://open.spotify.com/track/4lHWPXVlSkcah5YpBrjNaR"
@@ -7264,7 +7322,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171327,
       "name": "El de los 7 Chinos (En Vivo)",
       "url": "https://open.spotify.com/track/35LrSWA4EBbB3vOcAALOZe"
@@ -8145,6 +8203,32 @@
     },
     {
       "album": {
+        "name": "El Gabacho",
+        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162617,
+      "name": "El Gabacho",
+      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
+    },
+    {
+      "album": {
         "name": "El Gabito",
         "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
       },
@@ -8444,7 +8528,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181224,
       "name": "El Guason",
       "url": "https://open.spotify.com/track/0m3hgOFvDSSoKGbm15OTEc"
@@ -9626,6 +9710,28 @@
       "duration_ms": 176334,
       "name": "El MP",
       "url": "https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq"
+    },
+    {
+      "album": {
+        "name": "El Muchachito",
+        "url": "https://open.spotify.com/album/5of6Avhd7c0p3UBlXCtiSI"
+      },
+      "artists": [
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        },
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156251,
+      "name": "El Muchachito",
+      "url": "https://open.spotify.com/track/0Sqvm5B0QtBEA1FfLGU6Q4"
     },
     {
       "album": {
@@ -12157,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Escuela Americana",
+        "url": "https://open.spotify.com/album/675UZLI1otiTuUTSNW9GvJ"
+      },
+      "artists": [
+        {
+          "name": "Los Asociados De California",
+          "url": "https://open.spotify.com/artist/7e9C8uN7ZGHncssy7XpJr8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229171,
+      "name": "Escuela Americana",
+      "url": "https://open.spotify.com/track/6dV2vyzX2iS5LHV3TOOphK"
+    },
+    {
+      "album": {
         "name": "Escuela De Grandes",
         "url": "https://open.spotify.com/album/6bQ3mn2oQP5z7bFxk1vZ6e"
       },
@@ -14470,7 +14594,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 178721,
       "name": "Juan Carlos \"Lefty SM\"",
       "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
@@ -14814,6 +14938,28 @@
       "duration_ms": 193391,
       "name": "La Aguja Marca",
       "url": "https://open.spotify.com/track/67DoQ43ne7BVA4YULcn0d3"
+    },
+    {
+      "album": {
+        "name": "La Avioneta",
+        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "La Avioneta",
+      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
     },
     {
       "album": {
@@ -16309,6 +16455,28 @@
     },
     {
       "album": {
+        "name": "La Tambora Va A Sonar",
+        "url": "https://open.spotify.com/album/2g95Xdn4llprlryyEPqTMw"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159782,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/5THowR37eGWTSo8FWhBNRd"
+    },
+    {
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -16398,7 +16566,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 144400,
       "name": "La Toyota",
       "url": "https://open.spotify.com/track/2Hrm2Mh11muqDfwaNawZAV"
@@ -17836,6 +18004,24 @@
       "duration_ms": 165013,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426"
+    },
+    {
+      "album": {
+        "name": "Los Pilares de La C\u00e1rcel",
+        "url": "https://open.spotify.com/album/3F4Blz1DArutiBACRxRi4R"
+      },
+      "artists": [
+        {
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279381,
+      "name": "Los Pilares De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6uNJ5AmEOE9aC2ePi91wFb"
     },
     {
       "album": {
@@ -20165,6 +20351,28 @@
     },
     {
       "album": {
+        "name": "No Pasa Nada",
+        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
+    },
+    {
+      "album": {
         "name": "NO PIERDO LA VIDA",
         "url": "https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2"
       },
@@ -20234,7 +20442,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184640,
       "name": "No Soy Monedita De Oro",
       "url": "https://open.spotify.com/track/2uLfDYEGLPMsAZ0O3dpzVj"
@@ -21473,6 +21681,28 @@
     },
     {
       "album": {
+        "name": "Porto un Mini Draco",
+        "url": "https://open.spotify.com/album/6muXGSXytNzN9m3ppsAu0E"
+      },
+      "artists": [
+        {
+          "name": "Diego DeLa Rosca",
+          "url": "https://open.spotify.com/artist/5sEu1N2B7Y1VCPU8R4zmx6"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161079,
+      "name": "Porto un Mini Draco",
+      "url": "https://open.spotify.com/track/2LUP42XYxuMUa4T4RnVX4s"
+    },
+    {
+      "album": {
         "name": "Positivo y Avanzando",
         "url": "https://open.spotify.com/album/6TEhIb6jPAmVz3TsKGvBDm"
       },
@@ -21668,6 +21898,28 @@
       "duration_ms": 158918,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "album": {
+        "name": "Pura Belicada",
+        "url": "https://open.spotify.com/album/4lYFVL7mFbORlVnJ2b8i3z"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pura Belicada",
+      "url": "https://open.spotify.com/track/1Kl8NIYfIVCn4RBQkziot9"
     },
     {
       "album": {
@@ -22298,7 +22550,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 163794,
       "name": "Rico Y Soltero",
       "url": "https://open.spotify.com/track/5ZgPDnDflO2fFLAuF6b4LL"
@@ -22695,6 +22947,24 @@
     },
     {
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+    },
+    {
+      "album": {
         "name": "\u00c1lbum 52 Al Estilo",
         "url": "https://open.spotify.com/album/2GbxYjsLvXg3KEXit1nioQ"
       },
@@ -23062,7 +23332,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 222226,
       "name": "Se\u00f1orita de a Caballo",
       "url": "https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X"

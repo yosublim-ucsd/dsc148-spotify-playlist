@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: fellow fellow",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Three Man Down",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203392,
       "name": "chemical",
       "url": "https://open.spotify.com/track/4gZYmq12u1dxD8USgIqbT6"
@@ -410,6 +410,24 @@
       "duration_ms": 266753,
       "name": "Galaxy (feat. Kob The X Factor)",
       "url": "https://open.spotify.com/track/7m4O2ffb7Amnk1tQGKeLEH"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224565,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3"
     },
     {
       "album": {
@@ -637,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
         "name": "Michi Teyu Ku (Overflowing)",
         "url": "https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq"
       },
@@ -710,6 +746,24 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "OH MY!",
+        "url": "https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157009,
+      "name": "OH MY!",
+      "url": "https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu"
     },
     {
       "album": {
@@ -862,6 +916,24 @@
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6kEU60ykxhb0shZMTiPWZL"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "album": {
@@ -1071,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Yours Ever",
+        "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "Q Flure",
+          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259380,
+      "name": "Yours Ever",
+      "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1a\u0e2d\u0e01\u0e25\u0e32 (JUST TO LET ME KNOW) - Single",
         "url": "https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL"
       },
@@ -1144,7 +1238,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 216000,
       "name": "\u0e01\u0e31\u0e01\u0e01\u0e31\u0e4a\u0e01 (GUGGUG) [feat. GEE]",
       "url": "https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB"
@@ -1662,7 +1756,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 291759,
       "name": "\u0e14\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/3ZCYNMzlWPNfwdP2rHKgxm"
@@ -1756,7 +1850,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 267680,
       "name": "\u0e15\u0e31\u0e27\u0e23\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/2XK9vFFlRxSiDxq7Y4J4Oz"
@@ -1894,7 +1988,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 256000,
       "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
       "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
@@ -1937,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e2d\u0e01\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21?",
+        "url": "https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238425,
+      "name": "\u0e1a\u0e2d\u0e01\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21?",
+      "url": "https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32",
         "url": "https://open.spotify.com/album/0KN3DuSt304bTCD8ze8fcY"
       },
@@ -1966,7 +2078,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 219473,
       "name": "\u0e1b\u0e25\u0e32\u0e22\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c (last weekend)",
       "url": "https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b"
@@ -2006,6 +2118,24 @@
       "duration_ms": 167079,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 - High",
       "url": "https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (\u0e0a\u0e39\u0e49\u0e23\u0e31\u0e01)",
+        "url": "https://open.spotify.com/album/75a6DSvKLy5GWEeFzHZezz"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e25\u0e47\u0e01\u0e2a\u0e40\u0e23\u0e47\u0e19",
+          "url": "https://open.spotify.com/artist/61hVICScGPBw0WmGPqWVRE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212369,
+      "name": "\u0e1c\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (\u0e0a\u0e39\u0e49\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/0mHD9bPUsI3qbKZzMpxXFh"
     },
     {
       "album": {
@@ -2386,7 +2516,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 245373,
       "name": "\u0e23\u0e35\u0e1a\u0e08\u0e31\u0e07",
       "url": "https://open.spotify.com/track/73Nos07NlAUISZXYTPOS6V"
@@ -2582,6 +2712,32 @@
       "duration_ms": 197746,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
       "url": "https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e21\u0e32\u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "Txrbo",
+          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214639,
+      "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e21\u0e32\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi"
     },
     {
       "album": {
@@ -2958,7 +3114,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 280866,
       "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e30\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/7Io7duTHbX22guoinFQpcx"
@@ -3019,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 - Single",
+        "url": "https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269016,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
         "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
       },
@@ -3066,7 +3240,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 196615,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e41\u0e25\u0e49\u0e27 (Ignore)",
       "url": "https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6"
@@ -3554,10 +3728,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 302903,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e22\u0e34\u0e49\u0e21\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49 (Glad)",
+        "url": "https://open.spotify.com/album/0PsYW5qxWeBQYUJi9t0yW1"
+      },
+      "artists": [
+        {
+          "name": "LADIIPRANG",
+          "url": "https://open.spotify.com/artist/5bAPqOCPEHPnrJWCbiA6SC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e22\u0e34\u0e49\u0e21\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49 (Glad)",
+      "url": "https://open.spotify.com/track/7vgDg9Zz5nGQ6FycmPhzvR"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Mr Eazi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Sc0Gk)
 
-> This is Mr Eazi\. The essential tracks, all in one playlist.
+> This is Mr Eazi\. Todos os maiores hits em uma só playlist.
 
 139 songs - 7 hr 0 min
 

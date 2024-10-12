@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Jenna Raine",
-  "num_followers": 937183,
+  "num_followers": 937293,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAACVlQFOFE9mnLM8KN3bZMT",
+  "snapshot_id": "ZwiiwAAAAADawYDMTBlCwBAliJZevau1",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "A-frame",
+        "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "A-frame",
+      "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Roses",
@@ -39,6 +59,38 @@
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -137,6 +189,22 @@
       "url": "https://open.spotify.com/track/3iCd9y9vq8hacv1ZEbxKrj"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "As Soon As I'm Gone",
+        "url": "https://open.spotify.com/album/0GtJHvcgZlZG9fPCEx8eQ3"
+      },
+      "artists": [
+        {
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
+        }
+      ],
+      "duration_ms": 181153,
+      "name": "As Soon As I'm Gone",
+      "url": "https://open.spotify.com/track/2nQHEShCowzlA9MssApiAW"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "The Player",
@@ -153,20 +221,20 @@
       "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "this little lighter of mine",
+        "url": "https://open.spotify.com/album/7wZwvVVUR933QvJuIvke98"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 230133,
+      "name": "this little lighter of mine",
+      "url": "https://open.spotify.com/track/7c5ItJB9cCGme65bA4ifAK"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -201,6 +269,22 @@
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Follow You",
@@ -215,6 +299,22 @@
       "duration_ms": 175562,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -311,22 +411,6 @@
       "duration_ms": 207213,
       "name": "Caves",
       "url": "https://open.spotify.com/track/6dtaAuJD7vqsNQqyOKlyLV"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Moments Like This",
-        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 164387,
-      "name": "Moments Like This",
-      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -439,6 +523,22 @@
       "duration_ms": 261088,
       "name": "Mountain Mama",
       "url": "https://open.spotify.com/track/0b2WuZiNNt7JXKKW3XRIjV"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Moments Like This",
+        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 164387,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -863,22 +963,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Alienated",
-        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Alienated",
-      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "When You Know Someone",
         "url": "https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT"
       },
@@ -1223,22 +1307,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "in your arms",
         "url": "https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ"
       },
@@ -1367,38 +1435,6 @@
       "duration_ms": 146250,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1611,22 +1647,6 @@
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 248694,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ"
     }
   ],
   "unique_name": "Folk Pop",

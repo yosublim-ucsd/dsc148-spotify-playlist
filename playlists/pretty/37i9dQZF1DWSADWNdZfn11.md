@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,583 likes - 217 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,649 likes - 217 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 216 | [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 |
 | 217 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 |
 
-Snapshot ID: `Ztr8egAAAABeLnFetlyuL/c0FF37Op5k`
+Snapshot ID: `Ztr8egAAAAA/AWvMyTXZGo3Iv0osfXNU`

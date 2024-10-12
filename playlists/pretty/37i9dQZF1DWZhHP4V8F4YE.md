@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,488 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,588 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 50 | [Bula Nthweo \(feat\. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora\)](https://open.spotify.com/track/1p77bVbZdKaMv4CgRys5Gu) | [Vetkuk](https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath), [Mahoota](https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Jelly Babie](https://open.spotify.com/artist/1W6ErVtCubk26F3vVMxm7N), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Ricky Lenyora](https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ) | [Bula Nthweo \(feat\. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora\)](https://open.spotify.com/album/7HhMEpGba0IUETuDUYHh0y) | 5:22 |
 | 51 | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Deep Saints](https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Spux](https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG) | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL) | 6:06 |
 
-Snapshot ID: `ZwPLzQAAAACI1j7bIGz+nR7aLXbm5igh`
+Snapshot ID: `ZwPLzQAAAAAiNOMcfDwQLZERxD9XSdFU`

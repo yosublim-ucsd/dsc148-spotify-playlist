@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,274,399 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,274,431 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 |
 | 50 | [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 |
 
-Snapshot ID: `ZwNNBQAAAAB8qcHdQM53OfDGw8bn4x8X`
+Snapshot ID: `ZwNNBQAAAABjWFTHwSiMlUcn7I+2GQl0`

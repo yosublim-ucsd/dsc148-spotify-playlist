@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Flying At Night",
+        "url": "https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93580,
+      "name": "Flying At Night",
+      "url": "https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh"
+    },
+    {
+      "album": {
         "name": "Follow Your Dreams",
         "url": "https://open.spotify.com/album/4RbAiYZAjSgg27t4HEh318"
       },
@@ -3908,6 +3926,24 @@
       "duration_ms": 108750,
       "name": "Happy Thoughts",
       "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
+    },
+    {
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K"
+      },
+      "artists": [
+        {
+          "name": "Peyton Malloye",
+          "url": "https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107709,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp"
     },
     {
       "album": {
@@ -4970,7 +5006,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 96351,
       "name": "In Your Mother's Arms",
       "url": "https://open.spotify.com/track/3GdjJV0Eueo5wXkmnIqmZ7"

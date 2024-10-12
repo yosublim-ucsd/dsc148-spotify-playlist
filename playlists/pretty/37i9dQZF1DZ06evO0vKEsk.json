@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bruna Karla. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 132866,
+  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 132861,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAACw60BKf3pTLXOq6D0wavfE",
+  "snapshot_id": "ZwcZAAAAAADfwNHXZoZwPcUXW1QfGA0J",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea \u00e9 Precioso",
         "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 262896,
       "name": "Voc\u00ea \u00e9 Precioso",
       "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
       "duration_ms": 315556,
       "name": "N\u00e3o Acabou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 264103,
-      "name": "Quando Eu Chorar",
-      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
     },
     {
       "added_at": null,
@@ -147,6 +131,22 @@
       "duration_ms": 352064,
       "name": "Todavia me Alegrarei (Ao Vivo)",
       "url": "https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 264103,
+      "name": "Quando Eu Chorar",
+      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288809,
-      "name": "Advogado Fiel",
-      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288809,
+      "name": "Advogado Fiel",
+      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
+      "duration_ms": 237818,
+      "name": "Ao Final",
+      "url": "https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 237818,
-      "name": "Ao Final",
-      "url": "https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh"
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 224769,
+      "name": "F\u00e9 e a Raz\u00e3o",
+      "url": "https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
       },
@@ -795,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+        "name": "Pensou em Mim",
+        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 224769,
-      "name": "F\u00e9 e a Raz\u00e3o",
-      "url": "https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP"
+      "duration_ms": 429290,
+      "name": "Pensou em Mim",
+      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 362502,
       "name": "Aviva-nos (Ao Vivo)",
       "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensou em Mim",
-        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 429290,
-      "name": "Pensou em Mim",
-      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
     },
     {
       "added_at": null,

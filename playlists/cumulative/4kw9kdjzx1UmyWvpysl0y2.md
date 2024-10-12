@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-836 songs - 1 day 23 hr 38 min
+837 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 | 2023-06-03 |
 | [Flex](https://open.spotify.com/track/1Vvkof5rm2wD0IAqy1x1XP) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Flex](https://open.spotify.com/album/0PrzlKhTCHT493lpKK8tCQ) | 3:54 | 2024-04-03 | 2024-06-21 |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 | 2023-07-11 |
+| [Flow \- VIP](https://open.spotify.com/track/3WOVZm1MMQvrQw9wbzlOg2) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow \(VIP\)](https://open.spotify.com/album/2U5naTzOW7wVMr4e5x3Zir) | 3:33 | 2024-10-11 |  |
 | [Fly](https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Fly](https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy) | 3:45 | 2022-07-29 | 2022-10-19 |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 | 2022-08-03 |
@@ -571,7 +572,7 @@
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Pursuit of Violence](https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Pursuit of Violence](https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL) | 3:53 | 2023-03-14 | 2023-06-06 |
-| [Pyroclastic](https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Pyroclastic](https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39) | 3:28 | 2024-07-22 |  |
+| [Pyroclastic](https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Pyroclastic](https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39) | 3:28 | 2024-07-22 | 2024-10-12 |
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-08 | 2023-08-01 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-01 | 2023-08-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-03 | 2022-12-04 |

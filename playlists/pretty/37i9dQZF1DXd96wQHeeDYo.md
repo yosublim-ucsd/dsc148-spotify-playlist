@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitooo Foto: Sevdaliza, Anitta, Pabllo Vittar, Yseult
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,003 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,031 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 69 | [São Paulo](https://open.spotify.com/track/7DnMM03KPW8LQhkrjyG5ED) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [São Paulo](https://open.spotify.com/album/0ecNuV7lqmzkJEtefDTZIA) | 2:10 |
 | 70 | [Wasabi](https://open.spotify.com/track/4fwAOa29QGMou9LM2ErHJ5) | [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Wasabi](https://open.spotify.com/album/3mzbKCbFEdmZNfbnDdux1t) | 2:10 |
 
-Snapshot ID: `Zv9oQAAAAAB0JnEeyv4pMk+BoG34sBWk`
+Snapshot ID: `Zv9oQAAAAACK0FVx2vHvx+wch9dQVZaa`

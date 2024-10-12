@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=fsuFDHvARveigmS3tphLFA"> Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624,103 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,257 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Amazwe \(feat\. Mawhoo\)](https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Isimo](https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21) | 7:43 |
 | 50 | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l) | 3:14 |
 
-Snapshot ID: `ZwhqvAAAAACq6sHRGUmz4z+XYabesy9R`
+Snapshot ID: `ZwhqvAAAAAC50l+Y4XB0ph+bvIlaho3U`

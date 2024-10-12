@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,525 likes - 161 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,647 likes - 161 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 160 | [black hole sun](https://open.spotify.com/track/5vuHmy1QUl4nV44TTF123r) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [black hole sun](https://open.spotify.com/album/09EIY7Lby5D1Yso9b9h5q2) | 2:24 |
 | 161 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 |
 
-Snapshot ID: `ZpeT6QAAAAAliQeZaXiyYVZKYukaGufC`
+Snapshot ID: `ZpeT6QAAAAAlncH6HMFg6SPNC7CySaYO`

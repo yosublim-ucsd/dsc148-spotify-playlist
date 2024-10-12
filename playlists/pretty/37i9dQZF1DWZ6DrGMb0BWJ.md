@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 
 > <a href="https://cityhunter\-movie.com/">劇場版シティーハンター</a>公開記念！20年の時を経て、伝説のアニメの記憶がプレイリストで甦る！\(C\)T.HOJO/N,C
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,193 likes - 42 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,198 likes - 42 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 | 41 | [Asphalt Moon](https://open.spotify.com/track/6H4VWbzspvXO5FZOHKXsDB) | [塩谷 哲](https://open.spotify.com/artist/2Wgh7SiqtxsVRz09qJMbNT) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 4:05 |
 | 42 | [MAGNUM fire](https://open.spotify.com/track/6nyU7tAj3QlWG6c89gnFao) | [SEX MACHINEGUNS](https://open.spotify.com/artist/7ryhULNX7RLDr2sAwJa2wO) | [MADE IN JAPAN](https://open.spotify.com/album/3u7YaXuTONaHrgDZPFGdwv) | 6:01 |
 
-Snapshot ID: `ZO4aNwAAAAAxKWBsaw8WCrw+sYLMXNfF`
+Snapshot ID: `ZO4aNwAAAADtEQxy8h8gCTj4I6QWLbvw`

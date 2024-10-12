@@ -4,13 +4,13 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Marilou
 
-105 songs - 5 hr 37 min
+107 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999](https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [1999](https://open.spotify.com/album/1668f4YvYOIMuUEW8lJWVP) | 2:10 | 2024-07-12 | 2024-08-24 |
 | [48H](https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Libre](https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy) | 2:59 | 2024-06-28 |  |
-| [All Night Long](https://open.spotify.com/track/1pJdV1Whbpj1yCtv68uMua) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO), [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [All Night Long](https://open.spotify.com/album/6ZwPudhybQm5ApJ5glLmQx) | 2:45 | 2024-06-28 |  |
+| [All Night Long](https://open.spotify.com/track/1pJdV1Whbpj1yCtv68uMua) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO), [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [All Night Long](https://open.spotify.com/album/6ZwPudhybQm5ApJ5glLmQx) | 2:45 | 2024-06-28 | 2024-10-12 |
 | [Ami imaginaire](https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Ami imaginaire](https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ) | 4:18 | 2024-08-30 |  |
 | [Balle Courbe](https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Balle Courbe](https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq) | 3:05 | 2024-06-28 |  |
 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 | 2024-06-28 |  |
@@ -28,7 +28,7 @@
 | [Dans mon sang](https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [Dans mon sang](https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY) | 2:25 | 2024-08-16 |  |
 | [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 | 2024-06-28 |  |
 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 | 2024-06-28 |  |
-| [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 | 2024-07-19 |  |
+| [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 | 2024-07-19 | 2024-10-12 |
 | [Dormir debout](https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Dormir debout](https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth) | 3:43 | 2024-08-23 |  |
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-06-28 |  |
 | [Fais\-moi rêver](https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Fais\-moi rêver](https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q) | 3:15 | 2024-10-04 |  |
@@ -58,6 +58,7 @@
 | [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 | 2024-09-27 |  |
 | [Le bac des objets perdus](https://open.spotify.com/track/3v04ebsMGllMReChKTAfZw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6), [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [Antigéographiquement](https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd) | 5:05 | 2024-06-28 | 2024-08-24 |
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-06-28 |  |
+| [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 |  |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 |  |
@@ -81,6 +82,7 @@
 | [Névrose \(Radio Edit\)](https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Névrose \(Radio Edit\)](https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje) | 2:50 | 2024-08-23 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
+| [Paranoïa etc.](https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa) | [Paranoïa etc.](https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37) | 2:56 | 2024-10-11 |  |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 |  |
 | [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 |  |

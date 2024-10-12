@@ -1,12 +1,12 @@
 {
   "description": "Top Christian Worship 2024 | The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>!",
-  "num_followers": 118128,
+  "num_followers": 118135,
   "original_name": "Top Christian Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "AAAf0Exb0ZYfM5cZX+FWefXjClop7Q+C",
+  "snapshot_id": "AAAf1tjLCRrH1GmQN2y+gH1nSib+4tIA",
   "tracks": [
     {
       "added_at": "2024-08-07 20:12:45",
@@ -197,10 +197,10 @@
       "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
     },
     {
-      "added_at": "2024-09-20 16:36:38",
+      "added_at": "2024-10-11 14:57:13",
       "album": {
-        "name": "Mighty Name of Jesus & This Place (Live)",
-        "url": "https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr"
+        "name": "Son of Man (Live)",
+        "url": "https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ"
       },
       "artists": [
         {
@@ -208,13 +208,13 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
         }
       ],
-      "duration_ms": 482500,
-      "name": "Mighty Name of Jesus - Live",
-      "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
+      "duration_ms": 545750,
+      "name": "Son of Man - Live",
+      "url": "https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV"
     },
     {
       "added_at": "2024-08-09 04:19:45",
@@ -319,6 +319,26 @@
       "duration_ms": 369965,
       "name": "Make Me New - Live",
       "url": "https://open.spotify.com/track/1w6zWeMq3uzIsvGF6YkrSr"
+    },
+    {
+      "added_at": "2024-09-20 16:36:38",
+      "album": {
+        "name": "Mighty Name of Jesus & This Place (Live)",
+        "url": "https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 482500,
+      "name": "Mighty Name of Jesus - Live",
+      "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
     },
     {
       "added_at": "2024-08-09 04:06:47",
@@ -541,6 +561,26 @@
       "url": "https://open.spotify.com/track/4HKVvWjzrust3gZdmBIKtH"
     },
     {
+      "added_at": "2024-10-11 15:10:08",
+      "album": {
+        "name": "Still Do Miracles",
+        "url": "https://open.spotify.com/album/0e7YFfa7APXLfoVJEihwSW"
+      },
+      "artists": [
+        {
+          "name": "Engedi Music",
+          "url": "https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V"
+        },
+        {
+          "name": "Anthony Stallion",
+          "url": "https://open.spotify.com/artist/0itRB2H80G6Hq3mIjLE5mE"
+        }
+      ],
+      "duration_ms": 393266,
+      "name": "Still Do Miracles",
+      "url": "https://open.spotify.com/track/1qvCgYSG77jqsZmHOjeF3n"
+    },
+    {
       "added_at": "2024-09-27 04:30:31",
       "album": {
         "name": "Out Of Our Minds - Live at Mosaic Conference",
@@ -611,6 +651,30 @@
       "duration_ms": 417557,
       "name": "So Much Better (I Yield) - Live",
       "url": "https://open.spotify.com/track/70ioC3B5Rd6ccYbXAaZNpA"
+    },
+    {
+      "added_at": "2024-10-11 15:10:38",
+      "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/04G4OkDXXBnCm4M1zmonQJ"
+      },
+      "artists": [
+        {
+          "name": "Campus Rush Music",
+          "url": "https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        }
+      ],
+      "duration_ms": 472715,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/6xDgwhg96xuu2Df1o3o4Nc"
     },
     {
       "added_at": "2024-10-09 17:34:12",

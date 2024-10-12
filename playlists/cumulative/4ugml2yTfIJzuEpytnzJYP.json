@@ -1488,10 +1488,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 198857,
       "name": "Flame Thrower",
       "url": "https://open.spotify.com/track/5wX03gSxpFtu3DIDGcQzOZ"
+    },
+    {
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/4MpCsYkFHrejsgP4uX9FV0"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/26fNglCeyqlZAbYdcGyg0E"
     },
     {
       "album": {
@@ -2293,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "I Am The Universe Exploding",
+        "url": "https://open.spotify.com/album/6uIcJaRQGTxGLUWWAyy4dJ"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "I Am the Universe Exploding",
+      "url": "https://open.spotify.com/track/0yvXhTAvRjijsphTcbQaS8"
+    },
+    {
+      "album": {
         "name": "I Am Tiger",
         "url": "https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd"
       },
@@ -2304,7 +2348,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 195531,
       "name": "I Am Tiger",
       "url": "https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM"

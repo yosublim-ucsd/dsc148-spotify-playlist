@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,633 likes - 205 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,715 likes - 205 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 204 | [Chill With Me](https://open.spotify.com/track/3Bt3ARiqE55W8rqRmpnsid) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [Chill With Me](https://open.spotify.com/album/5Vfa9hZn234F7bntKMvvD7) | 2:12 |
 | 205 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
 
-Snapshot ID: `ZwUtigAAAADiN6HZWbfC1lTh1N1aUR1J`
+Snapshot ID: `ZwUtigAAAAB7DyJm1Kkin5b7sFuJxWB1`

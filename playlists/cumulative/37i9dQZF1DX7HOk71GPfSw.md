@@ -4,7 +4,7 @@
 
 > featuring HARU NEMURI and Frost Children
 
-2,168 songs - 4 day 2 hr 42 min
+2,171 songs - 4 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [God Invented The Radio](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [God Invented The Radio](https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au) | 2:17 | 2023-12-08 | 2024-03-16 |
 | [goddammit.](https://open.spotify.com/track/005w7f7Ect0chkLpfGmYvx) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [goddammit.](https://open.spotify.com/album/4YQz0KegsElofuJ6A3QtFs) | 2:58 | 2023-05-05 | 2023-09-23 |
 | [Goddess](https://open.spotify.com/track/1kVRE4eqtaG8kfc8mkcnbG) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [I'm the Best!!](https://open.spotify.com/album/6w9oUGbZ82ofJcFUSM0fUA) | 3:12 | 2022-01-21 | 2022-03-19 |
+| [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2024-10-11 |  |
 | [GOLDFiiSH](https://open.spotify.com/track/7MvHXUWvAaBOsFWoDLcN4R) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVSS](https://open.spotify.com/album/5A2VPzbzuv1EpSoie07kFe) | 2:00 | 2020-10-30 | 2021-01-08 |
 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 | 2022-10-07 | 2023-02-11 |
 | [Good Ones](https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Ones](https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt) | 2:16 | 2021-09-03 | 2022-01-13 |
@@ -1661,6 +1662,7 @@
 | [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-16 |  |
 | [search party](https://open.spotify.com/track/4tYZQrEofMKE2XQ4pqCNLC) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [search party](https://open.spotify.com/album/7Manv4fQi6ewZTLpDIvEyK) | 4:58 | 2021-10-20 | 2022-01-13 |
 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-03-26 | 2023-02-18 |
+| [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Secret](https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI) | 3:41 | 2024-10-11 |  |
 | [Secretive!](https://open.spotify.com/track/6FcBDJCvcljKy0X44dexR0) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Secretive!](https://open.spotify.com/album/4g6SsqBQbmgJQSBs5PRXkD) | 2:22 | 2021-02-26 | 2021-05-19 |
 | [Secretive! \(umru Remix\)](https://open.spotify.com/track/3t2I7IXB1xiOE4jy6kSAYf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Secretive! \(umru Remix\)](https://open.spotify.com/album/5YVWKa06SIeEo9Aq7UzQou) | 2:58 | 2021-06-09 | 2021-09-09 |
 | [Security!](https://open.spotify.com/track/4XJlKNehaCUUeviadnz1Fg) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 2:35 | 2021-02-10 | 2021-02-26 |
@@ -1759,6 +1761,7 @@
 | [So Dark](https://open.spotify.com/track/3GAnHqrJp7YGnOxuHOOmiE) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [So Dark](https://open.spotify.com/album/7tUf9yRs7OfnlHjQgs0tim) | 3:24 | 2020-10-13\* | 2021-01-08 |
 | [so different](https://open.spotify.com/track/0dIdygeAOLbVX1dxYhEaJ6) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [so different](https://open.spotify.com/album/7oN0crPnZMnoZDnIR6Cf2K) | 2:37 | 2022-10-28 | 2023-02-11 |
 | [So Hot You're Hurting My Feelings \- A\. G\. Cook Remix](https://open.spotify.com/track/682y3Lfn64Uq6y7xOMdXPx) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [So Hot You're Hurting My Feelings \(A\. G\. Cook Remix\)](https://open.spotify.com/album/0chl95Nh2mR8u6g3Ly7VbA) | 3:35 | 2020-10-13\* | 2020-10-16 |
+| [So I featuring a\. g\. cook](https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:39 | 2024-10-11 |  |
 | [so perfect](https://open.spotify.com/track/4UyeDwRxWlypdGKNVu3QmG) | [stardante](https://open.spotify.com/artist/5D73Rmcxz9HEaAD3vlimsf), [Lil Soda Boi](https://open.spotify.com/artist/2yyIZli0SkJ234gHIuuPJP) | [so perfect](https://open.spotify.com/album/3YvJdcO3DPVSV7cadCB2zn) | 2:14 | 2021-09-01 | 2021-09-19 |
 | [So Proud Of U](https://open.spotify.com/track/1fmfMsvJlWzeaYstJ1xpWa) | [2gether 4ever](https://open.spotify.com/artist/4xnMRkgK5LlAefZhpqxAzv) | [So Proud Of U](https://open.spotify.com/album/40pa9jVIaDVB6gLREeJEFZ) | 3:54 | 2021-08-14 | 2021-09-24 |
 | [So Sad](https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI) | [Caleb Dusart](https://open.spotify.com/artist/4SixvIlbUqTp1t2rwu3LNq) | [So Sad](https://open.spotify.com/album/6wwYS0ioHc4aflATeHTaLG) | 1:39 | 2022-06-03 | 2022-08-27 |
@@ -1814,7 +1817,7 @@
 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away \(xs edition\)](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 | 2022-10-28 | 2023-01-25 |
 | [stay next time](https://open.spotify.com/track/4BMECaPFVXa8raSOFd2G0s) | [closet](https://open.spotify.com/artist/4JdNYS9ABcOHqK708CsGmU) | [stay next time](https://open.spotify.com/album/44CoC2Xe2rH71TJTw2lxeb) | 1:40 | 2021-01-08 | 2021-02-10 |
 | [step back](https://open.spotify.com/track/6xFDa84aiINK5ZeCn16KAm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [better luck next time.](https://open.spotify.com/album/740UBxriXWslmnRWfTRaDD) | 2:35 | 2022-03-16 | 2022-05-14 |
-| [Stereo](https://open.spotify.com/track/3DZCiOmozpc79tZI41oiet) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Stereo](https://open.spotify.com/album/5tYTNUIgT8WPkEeeRXGSEh) | 3:41 | 2024-09-20 |  |
+| [Stereo](https://open.spotify.com/track/3DZCiOmozpc79tZI41oiet) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Stereo](https://open.spotify.com/album/5tYTNUIgT8WPkEeeRXGSEh) | 3:41 | 2024-09-20 | 2024-10-12 |
 | [STFU...ur done](https://open.spotify.com/track/2V47hvJ7KTgEtfgEbwm6DN) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [STFU...ur done](https://open.spotify.com/album/3rbu3iFqJZOl9yClWNwjmD) | 2:18 | 2022-02-18 | 2022-05-14 |
 | [sticks & stones](https://open.spotify.com/track/04B8G97SPc0u69V8ZJa4Ry) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [sticks & stones](https://open.spotify.com/album/2vrr38qde096yqBWReGGE1) | 1:54 | 2020-10-13\* | 2020-10-16 |
 | [Sticky Drama](https://open.spotify.com/track/01e4KUhkyzTJC2FjBkEmsn) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Garden Of Delete](https://open.spotify.com/album/4l4tgdU69cbukMzliC4xI6) | 4:17 | 2021-05-08 | 2021-05-15 |

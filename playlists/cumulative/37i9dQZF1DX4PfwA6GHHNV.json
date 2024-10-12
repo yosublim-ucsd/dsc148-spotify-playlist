@@ -1167,6 +1167,32 @@
     },
     {
       "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
+      },
+      "artists": [
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Foto no Espelho",
+      "url": "https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8"
+    },
+    {
+      "album": {
         "name": "Glacial",
         "url": "https://open.spotify.com/album/2uGkwTWK8zgE2n0oUHTC7A"
       },
@@ -3160,7 +3186,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 165379,
       "name": "sodade",
       "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"

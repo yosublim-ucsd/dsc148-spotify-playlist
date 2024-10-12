@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: 200 Stab Wounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,246 likes - 53 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,290 likes - 53 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 52 | [Venom & Cadmium](https://open.spotify.com/track/50BIIRCIkkWA6R37v2lp3v) | [Scarcity](https://open.spotify.com/artist/46cAf9jkwRvcUWh0KsvekG) | [Venom & Cadmium](https://open.spotify.com/album/54VWB8sAerEjNmwMcXEfYv) | 7:27 |
 | 53 | [Warrior](https://open.spotify.com/track/6qk8F2IGR7nvDHOS3rDV7O) | [No Terror in the Bang](https://open.spotify.com/artist/6JucMO8FO1iC8WHtFjlb6S) | [Warrior](https://open.spotify.com/album/4MAkD36KZnHMFatNBvcD2u) | 4:34 |
 
-Snapshot ID: `Zp7BaQAAAADZblaa8LGh711S0PRmkjLC`
+Snapshot ID: `Zp7BaQAAAAAX2gbUZjapMwJUCqAQbK5E`

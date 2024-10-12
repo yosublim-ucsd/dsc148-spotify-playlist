@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 608520,
       "name": "Keyboard Sonata in C Major, Op. 79, Hob. XVI:50: I. Allegro",
       "url": "https://open.spotify.com/track/19JsOOPlPBwThQReDZ40Q1"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 502000,
       "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": I. Adagio - Allegro",
       "url": "https://open.spotify.com/track/6lvWr4Ji1wXWPUTKO3c5rD"
@@ -2908,6 +2908,32 @@
       "duration_ms": 340000,
       "name": "Symphony No. 45 in F-Sharp Minor, Hob.I:45, \"Farewell\": I. Allegro assai",
       "url": "https://open.spotify.com/track/4F2YKfoLAJfneX9LrNu6CC"
+    },
+    {
+      "album": {
+        "name": "Haydn: Symphony No. 43 in E-Flat Major, Hob. I:43 \"Mercury\" & Symphony No. 49 in F Minor, Hob. I:49 \"La passione\"",
+        "url": "https://open.spotify.com/album/4ZpFgpBD1e6RmsVBwVhXZo"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Tafelmusik Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4yscD4NQlCKXEpUvBV3nj8"
+        },
+        {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192402,
+      "name": "Symphony No. 49 in F Minor, Hob. I:49 \"La passione\": IV. Finale. Presto",
+      "url": "https://open.spotify.com/track/2zlzXxi7yOdbmF1dmW8ZPB"
     },
     {
       "album": {
@@ -3428,6 +3454,32 @@
       "duration_ms": 260666,
       "name": "Symphony No. 99 in E-Flat Major, Hob. I:99: IV. Finale. Vivace",
       "url": "https://open.spotify.com/track/0ciWtFtg7EgkbpgLt7QCXk"
+    },
+    {
+      "album": {
+        "name": "Haydn: Symphony No. 99 in E-Flat Major, Hob.I:99: III. Menuett. Allegretto - Trio",
+        "url": "https://open.spotify.com/album/1BRgQKsxVt16dRlMHt2SIK"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365990,
+      "name": "Symphony No. 99 in E-Flat Major, Hob.I:99 (\"London Symphony\" No. 7): III. Menuett. Allegretto - Trio - Live",
+      "url": "https://open.spotify.com/track/3XEjkbCQgt95AatTQF0qs2"
     },
     {
       "album": {

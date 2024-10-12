@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,477 songs - 2 day 7 hr 37 min
+1,478 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,7 +729,7 @@
 | [los beachos](https://open.spotify.com/track/3ZVLP49KrKZakJz9w55ef7) | [Lobby Lingu!n!](https://open.spotify.com/artist/3PmqglMO0kO7kkmhGHrxkv) | [los beachos](https://open.spotify.com/album/2ZzWNf6dEX51b6RHlgnFEe) | 2:12 | 2022-01-27 | 2023-04-21 |
 | [Lost In Bass](https://open.spotify.com/track/1HXDPrnTAG7h4ioqERvqBL) | [Juan Ling](https://open.spotify.com/artist/5Ar4iiLpngpY9FZRsFO2Dy) | [Lost In Bass](https://open.spotify.com/album/6SD42hydmhMgTNmlAaLDuH) | 2:48 | 2022-01-27 | 2022-12-17 |
 | [Lost Time](https://open.spotify.com/track/24HeDGq4VhfLqgxNMMtQZC) | [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Felix Deleon](https://open.spotify.com/artist/5o8YHpc8nmpN6PlAQMkaH4), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Lost Time](https://open.spotify.com/album/6Qc6tlgIxU07xFw5wsip8u) | 2:20 | 2022-09-23 | 2023-09-22 |
-| [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 | 2022-04-15 |  |
+| [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 | 2022-04-15 | 2024-10-12 |
 | [love letters](https://open.spotify.com/track/6gH5qa93MI3efakVxIC6Sw) | [Fuyu](https://open.spotify.com/artist/4p6uSzp3RTnHrfgkZEUj4O) | [love letters](https://open.spotify.com/album/0Yu8z7QTDgeNTZq43JFSws) | 2:24 | 2022-07-29 | 2022-09-17 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-01-27 | 2022-10-15 |
 | [Love Switch](https://open.spotify.com/track/4WMDzHu6tzEBhar6NYkdQ8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Effervescence](https://open.spotify.com/album/6Y7FWY7v3ZJFhZB83WPWv0) | 2:46 | 2022-01-27 | 2022-09-09 |
@@ -785,6 +785,7 @@
 | [mellow](https://open.spotify.com/track/2a4h0dv6sfDs8UN4p54RN3) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [mellow](https://open.spotify.com/album/0FNTsPW58jkxgq6X5GWGfc) | 1:57 | 2022-01-27 | 2022-05-27 |
 | [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-22 | 2024-07-10 |
 | [Mellow Soul](https://open.spotify.com/track/2PTqDoJuM3W9Z9Zn1ddJfU) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Highway](https://open.spotify.com/album/0mk205AAszddbq1ogyLECX) | 2:28 | 2022-01-27 | 2023-04-21 |
+| [Memories](https://open.spotify.com/track/5llvDpJbfpRKqMpYh8Zem6) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Memories](https://open.spotify.com/album/2O1AbZ6WJw2IpkgWVNGweR) | 2:03 | 2024-10-04 |  |
 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 | 2022-08-19 | 2023-01-13 |
 | [Mentor](https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Mentor](https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY) | 1:51 | 2023-04-27 |  |
 | [Mercury](https://open.spotify.com/track/1f3lT4OTUBGRgky9Hk6mE3) | [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Mercury](https://open.spotify.com/album/1EvYtPfc1fxyGBmgaizE6y) | 1:53 | 2024-09-13 |  |
@@ -1148,7 +1149,7 @@
 | [Since When](https://open.spotify.com/track/7d7y2JnDs6YyEF7615uW7E) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Since When](https://open.spotify.com/album/2MDTi396LFLo6phItbGW8m) | 1:32 | 2023-06-05 |  |
 | [Skiing In Italy](https://open.spotify.com/track/0q8tD3mcvAS2XlRuyBYzHb) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Skiing In Italy](https://open.spotify.com/album/5uypp3L5ADShfqOyTmR0bT) | 1:50 | 2022-11-25 | 2023-08-04 |
 | [Skulls](https://open.spotify.com/track/0M1NdFJPYlGvlhgzvaki1z) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Skulls](https://open.spotify.com/album/2hu9IGOpeQQU5ob1kl3lpf) | 1:43 | 2023-05-19 | 2023-09-29 |
-| [skyline](https://open.spotify.com/track/5cz11JPM65o0TBrm6WRiN5) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [skyline](https://open.spotify.com/album/632CFPvMfMQNb7jFQpaWZ0) | 2:07 | 2023-11-17 |  |
+| [skyline](https://open.spotify.com/track/5cz11JPM65o0TBrm6WRiN5) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [skyline](https://open.spotify.com/album/632CFPvMfMQNb7jFQpaWZ0) | 2:07 | 2023-11-17 | 2024-10-12 |
 | [Sleepy Eve](https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sleepy Eve](https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u) | 1:32 | 2023-09-22 |  |
 | [sloe](https://open.spotify.com/track/2CHP4QnEwOIPCOmtTEKZH3) | [static breather](https://open.spotify.com/artist/7Cs5V32aCaZI0kSYXSk30A) | [sloe](https://open.spotify.com/album/2lCN8iMb7UsSYkJyglOWBg) | 1:47 | 2022-07-15 | 2024-05-01 |
 | [Slow Down](https://open.spotify.com/track/1upQ0IyUimyLT91FRJ7Z9p) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/2jZBhwLmcxnwPSjQ2GHDeV) | 2:09 | 2022-07-22 | 2022-11-20 |
@@ -1337,7 +1338,7 @@
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2022-01-27 | 2022-09-03 |
 | [time to time](https://open.spotify.com/track/1Kgg2zTVznqr6Cv6jxIKcN) | [Calm Zeq](https://open.spotify.com/artist/430cEz06w8yMWvjqLwpIar) | [time to time](https://open.spotify.com/album/0XwAkpXN3w5RRNVbHqLUot) | 2:00 | 2023-03-08 | 2023-06-06 |
 | [time together](https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi) | [Peach Lotus](https://open.spotify.com/artist/7KlRU1JqR54t1nQE9dHpN8) | [time together](https://open.spotify.com/album/71RaloNOmG7PpjGvn8rmQR) | 2:12 | 2023-08-03 |  |
-| [time voyager](https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [desert wind](https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ) | 2:00 | 2023-05-19 | 2024-09-19 |
+| [time voyager](https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [desert wind](https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ) | 2:00 | 2023-05-19 |  |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-01-27 | 2022-06-03 |
 | [to the city](https://open.spotify.com/track/6ALdwHClQphnlRqt7sB4eA) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [to the city](https://open.spotify.com/album/0Eq56ltrIGtmFcNd0YOScM) | 1:42 | 2022-08-05 | 2023-01-07 |
 | [Too Late For Us](https://open.spotify.com/track/7FAqZb7YA49JxybPo6UUfq) | [Clowee](https://open.spotify.com/artist/36AmbXsbnIm9hpzWt15wS7) | [Too Late For Us](https://open.spotify.com/album/0PVWLvJk217kCb5NfPbgjx) | 2:24 | 2022-01-27 | 2022-07-08 |

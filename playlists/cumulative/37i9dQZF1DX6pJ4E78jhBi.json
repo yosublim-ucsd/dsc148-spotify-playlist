@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry, Gentlemen",
+        "url": "https://open.spotify.com/album/4q2Ky4sEzeLV3wLzYA8vNW"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "God Rest Ye Merry, Gentlemen",
+      "url": "https://open.spotify.com/track/6J2rVX96BYBIjlVIdiLxYU"
+    },
+    {
+      "album": {
         "name": "Songs of Joy & Peace",
         "url": "https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10"
       },
@@ -780,6 +802,28 @@
       "duration_ms": 251946,
       "name": "Lo How a Rose",
       "url": "https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3"
+    },
+    {
+      "album": {
+        "name": "Lonely Christmas (After Mendelssohn: Hark! The Herald Angels Sing, Arr. for Piano by Martin Stadtfeld)",
+        "url": "https://open.spotify.com/album/4pEbRYuBxCo5pOmGKrut6I"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134676,
+      "name": "Lonely Christmas (After Mendelssohn: Hark! The Herald Angels Sing, Arr. for Piano by Martin Stadtfeld)",
+      "url": "https://open.spotify.com/track/56JT1vypieGlV7NfwOKlrp"
     },
     {
       "album": {

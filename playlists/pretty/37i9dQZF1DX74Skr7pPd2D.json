@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 44842,
+  "num_followers": 44850,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxT1wAAAAC1qLeB1Wp/tZW8bhWJV961",
+  "snapshot_id": "ZIxT1wAAAADYDq5q4g6CINrUjhMgkGLv",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -979,22 +979,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Pleasures Of The Night",
-        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
       "artists": [
         {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        },
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 439866,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+      "duration_ms": 333800,
+      "name": "Moonlight (Claro de Luna)",
+      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+        "name": "Pleasures Of The Night",
+        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
       },
       "artists": [
         {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 333800,
-      "name": "Moonlight (Claro de Luna)",
-      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
+      "duration_ms": 439866,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
     },
     {
       "added_at": "2019-10-02 08:54:10",

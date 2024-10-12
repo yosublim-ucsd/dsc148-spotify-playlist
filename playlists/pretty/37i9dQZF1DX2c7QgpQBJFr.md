@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,775 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,779 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 84 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |
 | 85 | [VICOLI DI NAPOLI](https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [VICOLI DI NAPOLI](https://open.spotify.com/album/6zAL24UJp5gLtB22jpSn6d) | 2:38 |
 
-Snapshot ID: `ZwPhWwAAAAC+/GuttkTKcd99qCEaf4lH`
+Snapshot ID: `ZwPhWwAAAAC3gwOf49RQBkvq3m73gBo3`

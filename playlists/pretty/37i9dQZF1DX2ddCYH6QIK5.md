@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: ottomatisch,  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,719 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,729 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [All That Remains](https://open.spotify.com/track/4Cg0JS5nBe8Xc6OJAEj4L6) | [Nico Bleak](https://open.spotify.com/artist/3EfroYSCAxCXXS0vzbOwBM) | [All That Remains](https://open.spotify.com/album/02mnuneNux8jPLqo13oFZO) | 4:00 |
 | 80 | [Echo](https://open.spotify.com/track/0KUVoCxO7yWundhdGqoNoz) | [Pia Klein](https://open.spotify.com/artist/35KLbeS7YtH4MTBa6VfBfU) | [Echo](https://open.spotify.com/album/2OU7GrBV6WgNmkpgwJ0mnx) | 2:59 |
 
-Snapshot ID: `ZwZUIAAAAADlj2LRRlyKZerpw2PihPj0`
+Snapshot ID: `ZwZUIAAAAAASOatUzEvuLwfxQiXuM2gQ`

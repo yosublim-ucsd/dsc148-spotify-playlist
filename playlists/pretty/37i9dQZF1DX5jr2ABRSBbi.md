@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,118 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,120 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Léto](https://open.spotify.com/track/3ENiT32qly0v3WsgovEJlX) | [Anna Julie Slováčková](https://open.spotify.com/artist/45C0jb0FPI7HncTBp0eGjO) | [Léto](https://open.spotify.com/album/26y3VEkh01NEejxoWcF2Eo) | 2:19 |
 | 50 | [Fantóm Srdca](https://open.spotify.com/track/6HgWN0MT5qFAt4DUedj3so) | [Marika Gombitova](https://open.spotify.com/artist/3Tn9kQpK0Yeh3Dk0DhND4m) | [Fantóm Srdca](https://open.spotify.com/album/3z431jdWWCxjvSBoI5xv02) | 3:34 |
 
-Snapshot ID: `Zv14EQAAAAD8FVbYjEgHEkWtjY+O4JDr`
+Snapshot ID: `Zv14EQAAAAB8XvHD4XDgh418w4s/SHJg`

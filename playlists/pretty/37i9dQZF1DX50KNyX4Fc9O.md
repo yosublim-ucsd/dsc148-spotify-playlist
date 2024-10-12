@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,147 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,176 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Alright](https://open.spotify.com/track/0AazkVdlIwovoo9jWqD43C) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Alright](https://open.spotify.com/album/1vZf3dvBU8SihumKUSSzrS) | 3:06 |
 | 100 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
 
-Snapshot ID: `ZwhqvAAAAABkc8pvRK+GL9W1f5JxPimD`
+Snapshot ID: `ZwhqvAAAAAAZilJjmcwRZPbnZPTLC7CL`

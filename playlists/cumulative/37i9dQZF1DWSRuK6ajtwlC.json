@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 141786,
       "name": "Tarjeta Roja",
       "url": "https://open.spotify.com/track/7ao3kq0S5LsL6vWPj1tTM7"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 213546,
       "name": "Te Esperaba",
       "url": "https://open.spotify.com/track/4JyrzxhbHpubC0kfdYkCNy"
@@ -3289,6 +3289,28 @@
     },
     {
       "album": {
+        "name": "Ultimadamente",
+        "url": "https://open.spotify.com/album/5VU9pQh8es15ZejYaskMvE"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "Ultimadamente",
+      "url": "https://open.spotify.com/track/3RkTybs3IQ3B1hT8oF8RA5"
+    },
+    {
+      "album": {
         "name": "Trilog\u00eda, Vol. 2",
         "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
       },
@@ -3304,6 +3326,24 @@
       "duration_ms": 157645,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "album": {
+        "name": "Un Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/6ranPfsbYdUzOmArJcVYer"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de Chiwas",
+          "url": "https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "Un Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/6EdaW24zoFoIRegHCNH3WR"
     },
     {
       "album": {

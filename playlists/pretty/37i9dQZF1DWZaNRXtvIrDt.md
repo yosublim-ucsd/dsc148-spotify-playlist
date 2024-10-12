@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,430 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,426 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Guard](https://open.spotify.com/track/5yRmVMYalxdqNj5ef2EEkm) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Guard](https://open.spotify.com/album/4hr7TmzZwN2WcrNDBnlAEC) | 3:57 |
 | 80 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
 
-Snapshot ID: `ZwfP0AAAAABPpvVKnVhaCdvCiAwn6owf`
+Snapshot ID: `ZwfP0AAAAABsU07uS/Jasy5NNEVHKN9t`

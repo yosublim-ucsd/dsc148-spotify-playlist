@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Charli xcx, Ariana Grande
 
-14,408 songs - 29 day 23 hr 58 min
+14,410 songs - 30 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [24's \- German Remix](https://open.spotify.com/track/4K1dqp0VNjE2u9hB09NqoB) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [24's \(German Remix\)](https://open.spotify.com/album/2DkocVb8QF1YZEPns4qCyd) | 2:45 | 2022-12-01 | 2022-12-09 |
 | [24/7](https://open.spotify.com/track/6FXEgxFcEGcmhOmVi8ORQV) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [24/7](https://open.spotify.com/album/1ndJ8kqZCkpcTKvtGi7fcY) | 2:08 | 2023-11-30 | 2023-12-08 |
 | [24k Heart Of Gold](https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [24k Heart Of Gold](https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n) | 2:16 | 2024-03-21 | 2024-03-29 |
+| [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-10 |  |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-08 | 2023-06-16 |
 | [25 Mann](https://open.spotify.com/track/7gC8OO5ORfuqX4OrE9EQtE) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [25 Mann](https://open.spotify.com/album/2FhHVeeDMN6VB6vTBecEos) | 2:40 | 2023-02-23 | 2023-03-03 |
 | [25/8](https://open.spotify.com/track/7rWMxeDdadl299Jb7VrX5k) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [25/8](https://open.spotify.com/album/0l9NNCberex959RpdR2y02) | 2:38 | 2022-02-11 | 2022-02-18 |
@@ -10536,7 +10537,7 @@
 | [Right Here](https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6) | [Fee van Deelen](https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B) | [Right Here](https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV) | 3:43 | 2024-05-23 | 2024-06-01 |
 | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W) | 2:29 | 2023-02-16 | 2023-02-24 |
 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-17 | 2023-08-25 |
-| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
+| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-04-15 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-17 | 2022-02-25 |
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-01-19 | 2023-01-27 |
@@ -13753,6 +13754,7 @@
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-07 | 2022-04-15 |
 | [What's With The Roses](https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [What's With The Roses](https://open.spotify.com/album/0y7Me7TzBLzmBC0h5Wruns) | 2:50 | 2022-08-12 | 2022-08-19 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 | 2022-02-18 |
+| [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-10 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 | 2024-01-26 |
 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-04 | 2023-05-12 |
 | [Whatever It Takes](https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Whatever It Takes](https://open.spotify.com/album/0cgPswcsgn7OSiqsrk71TO) | 2:33 | 2023-04-27 | 2023-05-05 |

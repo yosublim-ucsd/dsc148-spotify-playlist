@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 66244,
+  "num_followers": 66362,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwOPlwAAAACWnFV5S6MlO+kNlcNZCnL4",
+  "snapshot_id": "ZwOPlwAAAABLr0RbnYpRB6h5bBFB7C/h",
   "tracks": [
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
+        "name": "HAUSAPIANO",
+        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 103507,
+      "name": "HAUSAPIANO",
+      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
+    },
+    {
+      "added_at": "2024-10-07 07:36:55",
+      "album": {
         "name": "Bad Decisions & Foreplay",
         "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
-    },
-    {
-      "added_at": "2024-10-07 07:36:55",
-      "album": {
-        "name": "HAUSAPIANO",
-        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 103507,
-      "name": "HAUSAPIANO",
-      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
     },
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-10-07 07:36:55",
-      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 224003,
       "name": "Billions",
       "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+    },
+    {
+      "added_at": "2024-10-07 07:36:55",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
     },
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
-        "name": "HEHEHE",
-        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 113720,
-      "name": "HEHEHE",
-      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
-    },
-    {
-      "added_at": "2024-10-07 07:36:55",
-      "album": {
         "name": "Rodo",
         "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
@@ -1311,26 +1295,18 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
-        "name": "Devil Wears White",
-        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
+        "name": "HEHEHE",
+        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 190488,
-      "name": "Devil Wears White",
-      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
+      "duration_ms": 113720,
+      "name": "HEHEHE",
+      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
     },
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1355,6 +1331,30 @@
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "added_at": "2024-10-07 07:36:55",
+      "album": {
+        "name": "Devil Wears White",
+        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 190488,
+      "name": "Devil Wears White",
+      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
     },
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
+        "name": "Queen N More",
+        "url": "https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Batife",
+          "url": "https://open.spotify.com/artist/0vZXn2hA5WFpwe2q88qv5B"
+        }
+      ],
+      "duration_ms": 143510,
+      "name": "Queen N More",
+      "url": "https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC"
+    },
+    {
+      "added_at": "2024-10-07 07:36:55",
+      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -1515,22 +1535,22 @@
     {
       "added_at": "2024-10-07 07:36:55",
       "album": {
-        "name": "Queen N More",
-        "url": "https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "Batife",
-          "url": "https://open.spotify.com/artist/0vZXn2hA5WFpwe2q88qv5B"
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 143510,
-      "name": "Queen N More",
-      "url": "https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC"
+      "duration_ms": 182979,
+      "name": "Men Don Show Face",
+      "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
     },
     {
       "added_at": "2024-10-07 07:36:55",
@@ -1551,26 +1571,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-10-07 07:36:55",
-      "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 182979,
-      "name": "Men Don Show Face",
-      "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
     },
     {
       "added_at": "2024-10-07 07:36:55",

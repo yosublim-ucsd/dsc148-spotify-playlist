@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,413 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,402 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 54 | [stArlight](https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [stArlight](https://open.spotify.com/album/03zxfkzxIFPaeaLTT0BgTG) | 2:22 |
 | 55 | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh) | 2:18 |
 
-Snapshot ID: `ZvwcgAAAAADm7mJ4eyYIG6Q61GIhWp/e`
+Snapshot ID: `ZvwcgAAAAAAaenUpan1+m/G4k9y/pY6A`

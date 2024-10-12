@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Mollie Collins
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Vibe Chemistry &amp; Maduk
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,529 likes - 32 songs - 1 hr 28 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,527 likes - 32 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
-| 2 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 |
+| 1 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 |
+| 2 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
 | 3 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 |
 | 4 | [Quit That Love \(feat\. Glacier Baby\)](https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Glacier Baby](https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES) | [Quit That Love \(feat\. Glacier Baby\)](https://open.spotify.com/album/3N3T4X1IZ4625VZ6GgAH76) | 2:04 |
 | 5 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 31 | [Favorite Mistakes \(feat\. Victoria Nadine\) \[HEDEGAARD VIP Mix\]](https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes \(feat\. Victoria Nadine\) \[VIP Mixes\]](https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA) | 2:30 |
 | 32 | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz) | 2:42 |
 
-Snapshot ID: `AAArcOSnQORs0pzM5ZtKJ4zVTrE7qJ/J`
+Snapshot ID: `AAArctd+F6wo3XJLBjpnnu2V/ZUjJpzI`

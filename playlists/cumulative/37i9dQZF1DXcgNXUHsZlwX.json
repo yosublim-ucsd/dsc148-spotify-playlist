@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Feu de paille",
+        "url": "https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Feu de paille",
+      "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
+    },
+    {
+      "album": {
         "name": "Antoine Lachance",
         "url": "https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP"
       },
@@ -4049,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+    },
+    {
+      "album": {
         "name": "Le jardin se meurt",
         "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
       },
@@ -5766,7 +5802,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
@@ -7950,7 +7986,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"

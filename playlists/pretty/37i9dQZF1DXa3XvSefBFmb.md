@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Irina Barros, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,044 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,046 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [26 \(I'm Drowning\)](https://open.spotify.com/track/64REKg8Q7WDwjcP3XS87ea) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [26 \(I'm Drowning\)](https://open.spotify.com/album/5FqmQnAuKP5icz2Ay0OZ4Z) | 3:19 |
 | 50 | [Perdidos e Achados](https://open.spotify.com/track/1YNdf2OnSKi4m5QwhxKfzQ) | [Mafalda Louro](https://open.spotify.com/artist/5v36QhXFy8hyCP6244ZC6x) | [Perdidos e Achados](https://open.spotify.com/album/7y955uyzyJfw1yp0sdS5id) | 3:05 |
 
-Snapshot ID: `Zv1ynAAAAADnYWkRKpO9CJSiaXfhVy4U`
+Snapshot ID: `Zv1ynAAAAADfSooIpg8xpZ7lzRydNJqB`

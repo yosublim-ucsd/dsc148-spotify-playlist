@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: Lakeview
+> Country music that rocks\. Cover: Treaty Oak Revival
 
 380 songs - 21 hr 46 min
 

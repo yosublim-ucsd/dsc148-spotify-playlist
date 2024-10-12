@@ -4,7 +4,7 @@
 
 > Charli xcx et Ariana Grande au top des nouveautés de la semaine !
 
-2,071 songs - 4 day 12 hr 53 min
+2,072 songs - 4 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,7 +1299,7 @@
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-09-06 |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-05-02 | 2024-05-10 |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-15 | 2024-08-23 |
-| [No Genius](https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [No Genius](https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5) | 2:51 | 2024-10-10 |  |
+| [No Genius](https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [No Genius](https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5) | 2:51 | 2024-10-10 |  |
 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 | 2024-08-29 | 2024-09-06 |
 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-30 | 2024-06-07 |
 | [No love](https://open.spotify.com/track/6ZmjgI33WcnLm5xOCFXQy7) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:14 | 2024-06-20 | 2024-06-28 |
@@ -1536,7 +1536,7 @@
 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 | 2024-10-10 |  |
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-05-02 | 2024-05-10 |
 | [RIDIN \(with Lil Wayne\)](https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [RIDIN](https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5) | 3:24 | 2024-08-22 | 2024-08-30 |
-| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
+| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
 | [Ring At My Door](https://open.spotify.com/track/3XheDCpd5DuXn5tfAH2tPB) | [Emergency Escape Plan](https://open.spotify.com/artist/4nVQzWqL1wtrhbZAOq5hY0), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Ring At My Door](https://open.spotify.com/album/6mfzxdh2gSRMw5mye5xY2Q) | 3:19 | 2024-08-08 | 2024-08-16 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-02 | 2024-05-10 |
 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-05-23 | 2024-06-01 |
@@ -1994,6 +1994,7 @@
 | [What Goes Around](https://open.spotify.com/track/1j15Phx90gIyFNj0ZUs5SF) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [What Goes Around](https://open.spotify.com/album/7wXtPA9IG84TWgWXQ9jrYK) | 2:36 | 2024-07-25 | 2024-08-02 |
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-03 | 2024-10-11 |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-22 | 2024-08-30 |
+| [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-10 |  |
 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-12 | 2024-09-20 |
 | [What’s This About \(La La La La\)](https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [What’s This About \(La La La La\)](https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d) | 2:10 | 2024-08-01 | 2024-08-09 |
 | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 | 2024-08-29 | 2024-09-06 |

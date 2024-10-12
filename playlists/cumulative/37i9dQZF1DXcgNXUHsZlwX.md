@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-476 songs - 1 day 4 hr 25 min
+478 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 | 2024-07-06 |
 | [Feu de forêt](https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:40 | 2021-01-03\* | 2022-07-29 |
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-06-08 |
+| [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 |  |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
 | [File d'attente](https://open.spotify.com/track/5bKR5u7anmLED2AmivuVsR) | [David Marin](https://open.spotify.com/artist/4uzgr1qYBaIRZVCilj6vcU) | [File d'attente](https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f) | 3:38 | 2021-07-19 | 2021-09-20 |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
@@ -228,6 +229,7 @@
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 |  |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
+| [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2024-10-05 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 | 2021-01-03\* |  |
@@ -321,7 +323,7 @@
 | [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-25 |  |
 | [nina](https://open.spotify.com/track/0FqFijwbC5IHuEjV5awDZQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 | 2022-02-11 |  |
-| [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 |  |
+| [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 | 2024-10-12 |
 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 | 2021-01-03\* | 2024-06-01 |
 | [Nos détours](https://open.spotify.com/track/1jMceI8njQF9cYm0Udvpla) | [Guillaume Beaulac](https://open.spotify.com/artist/69x9nmYbBPXbFNk3aEY6CG) | [Guillaume Beaulac](https://open.spotify.com/album/2i2J1pgs153PSHAZlI67uS) | 3:45 | 2021-05-08 | 2021-09-10 |
 | [Nos larmes](https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs) | [Guillaume Beauregard](https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T) | [Disparition](https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2) | 4:32 | 2021-01-15 | 2022-07-18 |
@@ -437,7 +439,7 @@
 | [Ton équilibre](https://open.spotify.com/track/2Y10L0A6jX0JmWzYZ4oU2L) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Ton équilibre](https://open.spotify.com/album/3hi8B3keG1GVEzdkKVKVyD) | 3:50 | 2021-01-15 | 2022-07-29 |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-20 |
-| [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 |  |
+| [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2024-10-12 |
 | [Transatlantic Flight \- Live at Roy Thomson Hall](https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Waves \(Live Recordings ’19\-’21\)](https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR) | 7:10 | 2022-02-18 | 2023-07-07 |
 | [Tshe minupunanu](https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu), [Scott\-Pien Picard](https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E), [Maten](https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9) | [Tshe minupunanu](https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE) | 3:50 | 2022-06-10 | 2022-06-22 |
 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 | 2022-04-15 |  |

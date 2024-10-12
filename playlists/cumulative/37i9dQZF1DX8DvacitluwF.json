@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: MAUIM\u00d8ON",
+  "description": "The best in South African and international R&B. Cover: Elaine",
   "name": "R&Beats",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
@@ -2122,6 +2122,24 @@
       "duration_ms": 144761,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR"
+    },
+    {
+      "album": {
+        "name": "Feel Everything",
+        "url": "https://open.spotify.com/album/6UiuPmxZFWTWrxFW0TcAXt"
+      },
+      "artists": [
+        {
+          "name": "Dandi Noxx",
+          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221066,
+      "name": "Feel Everything",
+      "url": "https://open.spotify.com/track/2WnuvdvPMAl8pW5Fb1iiBV"
     },
     {
       "album": {
@@ -3235,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "WAVES: Vol. 1",
+        "url": "https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn"
+      },
+      "artists": [
+        {
+          "name": "Ben September",
+          "url": "https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "INSIDE YOUR HEAD",
+      "url": "https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ"
+    },
+    {
+      "album": {
         "name": "THJ Radio Vol. 1",
         "url": "https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a"
       },
@@ -3707,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183697,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4"
       },
@@ -3874,6 +3928,24 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "album": {
+        "name": "Stone Cold Heart",
+        "url": "https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269161,
+      "name": "Love Me Slowly",
+      "url": "https://open.spotify.com/track/6TyZaUTAQqncq94k5g461a"
     },
     {
       "album": {
@@ -4909,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
       },
@@ -5182,6 +5272,24 @@
       "duration_ms": 241714,
       "name": "PURPLE SLUSHIES",
       "url": "https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z"
+    },
+    {
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "album": {
@@ -7504,6 +7612,24 @@
       "duration_ms": 162313,
       "name": "Wild Ride - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/1S8424izWJM7maB0nQfSQm"
+      },
+      "artists": [
+        {
+          "name": "Asaiow\u00e9",
+          "url": "https://open.spotify.com/artist/6S2sQGQVsc7BzhaRzCrN4W"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/08YCkJHWMhxjqBMaUzRtcj"
     },
     {
       "album": {

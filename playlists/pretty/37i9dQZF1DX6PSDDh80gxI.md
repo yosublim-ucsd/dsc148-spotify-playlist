@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > rovere sulla cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,485 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,509 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 59 | [STRANO DESERTO ᨎ \(con Cosmo, Rares\)](https://open.spotify.com/track/1YFhKr5EldFs93ywTtSzLi) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:31 |
 | 60 | [Cupido](https://open.spotify.com/track/4OFqJ6OnEYXNNcFZl2fOPJ) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Cupido](https://open.spotify.com/album/4Tr7myKPPvoxijKwuDjLdi) | 2:47 |
 
-Snapshot ID: `ZwhOnAAAAABMGVaWLQmE3Af0WzfdzwED`
+Snapshot ID: `ZwhOnAAAAABZHv0Sjy8pEleXbC2x2pZS`

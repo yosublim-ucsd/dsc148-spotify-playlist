@@ -1,12 +1,12 @@
 {
   "description": "Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!",
-  "num_followers": 59359,
+  "num_followers": 59356,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvtzwAAAAAACoUFsJq27VAQC0EyJaOYb",
+  "snapshot_id": "ZvtzwAAAAAD0Cg0qKY4JgqXcxXeeRa57",
   "tracks": [
     {
       "added_at": "2024-10-01 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "God Who Sees You",
+      "url": "https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
         "name": "Bruised Reed",
         "url": "https://open.spotify.com/album/6Qx8H4WDptZD1PAVSIEQEK"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 136708,
       "name": "Joseph",
       "url": "https://open.spotify.com/track/10tTSoJcfLphfXnpx8gxJb"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "God Who Sees You",
-      "url": "https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe"
     },
     {
       "added_at": "2024-10-01 04:00:00",

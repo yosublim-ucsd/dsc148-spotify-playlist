@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Michel Jonasz
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,860 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,890 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Celia](https://open.spotify.com/track/2xce6kP4q1FLWzOBs2NAJN) | [PianoForte](https://open.spotify.com/artist/3tgHmbdlI0Aqg9ni2Tjekg), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Bojan Z](https://open.spotify.com/artist/6kmJq6IbNvXqGBEjS61hdh), [Pierre De Bethmann](https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2) | [Celia](https://open.spotify.com/album/2HnoWqPijqF74BSAB3PeE7) | 4:41 |
 | 50 | [J.T.](https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [J.T.](https://open.spotify.com/album/6OVzFyTiT2RLo27OJALYt1) | 4:58 |
 
-Snapshot ID: `ZwhOYAAAAAAEWx71Q07vh9iUu1dVl+q9`
+Snapshot ID: `ZwhOYAAAAABimkyp5wKd+y2D1imEcXPE`

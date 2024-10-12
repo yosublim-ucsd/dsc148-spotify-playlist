@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,062 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,071 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 60 | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/track/3bNIlJBpwgwFNnFuSjH6Uh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u) | 2:57 |
 
-Snapshot ID: `ZqEINAAAAABQPETEgS6FmorizEPNtR8l`
+Snapshot ID: `ZqEINAAAAABbaqjcR0Z8rNOIaCbKlOsk`

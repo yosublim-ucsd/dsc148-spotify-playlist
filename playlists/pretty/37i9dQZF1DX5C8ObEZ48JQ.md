@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=FueqiOBhQoS3REISrR8ajQ">KindlyNxsh</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,851 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,871 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 54 | [IF I DO, IF I DON'T](https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [VISION 2020](https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy) | 3:14 |
 | 55 | [Connection](https://open.spotify.com/track/3MXjzxegYEzR3WiR7Hbsr8) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Ambroy](https://open.spotify.com/artist/2L0egU2y6jaNGuCnzVtqfj), [STANDO](https://open.spotify.com/artist/5G3V3r02GoRoBE5jZZzfUR) | [Connection](https://open.spotify.com/album/1SAbwah1ZdkBuRwtOE9iah) | 3:45 |
 
-Snapshot ID: `ZwXCmwAAAADMW33ZPJ4TzA1cQ7Due64V`
+Snapshot ID: `ZwXCmwAAAADoMNelP62s5DNLN36q7LeN`

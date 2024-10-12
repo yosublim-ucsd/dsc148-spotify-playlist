@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mustafa",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Kylie V",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 205263,
       "name": "Add Up My Love",
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 163454,
       "name": "Call Me Up High",
       "url": "https://open.spotify.com/track/3HmgyyyokSYo7iKwKObO1o"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
@@ -2002,6 +2002,24 @@
       "duration_ms": 200280,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Love Songs",
+      "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
     },
     {
       "album": {
@@ -2951,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "She Wants To Go Dancing",
+        "url": "https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188442,
+      "name": "She Wants To Go Dancing",
+      "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
+    },
+    {
+      "album": {
         "name": "She's Leaving You",
         "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
       },
@@ -2966,6 +3002,24 @@
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "album": {
+        "name": "SHELL ( OF A MAN )",
+        "url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
     },
     {
       "album": {
@@ -3262,7 +3316,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 284111,
       "name": "The River",
       "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
@@ -3656,6 +3710,24 @@
       "duration_ms": 190307,
       "name": "Wish I Was In Bed",
       "url": "https://open.spotify.com/track/1rRX7pIQwG9bBKl3sWeuPJ"
+    },
+    {
+      "album": {
+        "name": "Year of the Rabbit",
+        "url": "https://open.spotify.com/album/1PIxh2URO0rWAr8aUvZUuE"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246312,
+      "name": "Year of the Rabbit",
+      "url": "https://open.spotify.com/track/2JMdRzCGOGhtmatWgJsohW"
     }
   ],
   "url": "https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe"

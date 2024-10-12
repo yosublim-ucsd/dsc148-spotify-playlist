@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,756 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,870 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Die Abrechnung](https://open.spotify.com/track/3fGDoRUzlcfbawlW6aCXlz) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [German Dream Allstars](https://open.spotify.com/artist/4v4APTxh7SMlIW7kshRjc5) | [German Dream Allstars](https://open.spotify.com/album/0I3oXP3UnoBGzKAsyPpvxi) | 5:01 |
 | 50 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
 
-Snapshot ID: `Zwf4egAAAACidLynd9xJimkxIsiNuaRj`
+Snapshot ID: `Zwf4egAAAADDVNuz/3i0w8hnU7TIhB/h`

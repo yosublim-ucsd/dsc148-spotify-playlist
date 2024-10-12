@@ -1,12 +1,12 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 90306,
+  "num_followers": 90316,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZloPIwAAAACOwXG5Jtgw/+HZeWcjXCgh",
+  "snapshot_id": "ZloPIwAAAAAVCKnFXR+Me9vL1Ahou3Q8",
   "tracks": [
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 169731,
       "name": "I Specialise In Love",
       "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1207,26 +1207,6 @@
       "duration_ms": 179672,
       "name": "Here For It",
       "url": "https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
-        }
-      ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1291,6 +1271,26 @@
       "duration_ms": 286940,
       "name": "Ornacia",
       "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
+        }
+      ],
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",

@@ -590,6 +590,10 @@
         {
           "name": "Julianno Sosa",
           "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
         }
       ],
       "date_added": "2024-10-11",
@@ -620,6 +624,24 @@
       "duration_ms": 247093,
       "name": "La Champions y el Mundial (feat. Leiva)",
       "url": "https://open.spotify.com/track/2Ay18ni59OhcUb66nBjnYj"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
+        "url": "https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274887,
+      "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
+      "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
     },
     {
       "album": {
@@ -1079,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "ROBAME UN BESO",
+        "url": "https://open.spotify.com/album/3N2kt9ioaMGzGMBfvzhBXN"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "ROBAME UN BESO",
+      "url": "https://open.spotify.com/track/2RxJ9U2Pj7TsiocDXtjowg"
+    },
+    {
+      "album": {
         "name": "ROMA NORTE",
         "url": "https://open.spotify.com/album/7i1PRyXfcECE6FCHp3F7ty"
       },
@@ -1212,8 +1252,8 @@
           "url": "https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi"
         },
         {
-          "name": "Javi La Crema",
-          "url": "https://open.spotify.com/artist/5VMTnG2crLLSHksoCeP0MV"
+          "name": "Javi Lacrema",
+          "url": "https://open.spotify.com/artist/6AUHpQKhdpbYUcHRDX3Z2G"
         }
       ],
       "date_added": "2024-10-11",

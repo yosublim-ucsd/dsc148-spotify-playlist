@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-240 songs - 12 hr 42 min
+241 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 | 2024-05-24 | 2024-08-10 |
 | [El Amor Es Perfecto](https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [El Amor Es Perfecto](https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa) | 2:58 | 2023-02-17 | 2024-05-04 |
 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 | 2024-07-27 |
-| [El Canto Del Olvido](https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [El Canto Del Olvido](https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH) | 2:52 | 2024-09-06 |  |
+| [El Canto Del Olvido](https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [El Canto Del Olvido](https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH) | 2:52 | 2024-09-06 | 2024-10-12 |
 | [El Equivocado](https://open.spotify.com/track/25Qow1XsQiXi0v2C8cxhwL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Equivocado](https://open.spotify.com/album/0DKMuyi55HlxjQONKbt1xl) | 3:39 | 2023-02-17 |  |
 | [El Gran Teatro](https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Nueve](https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy) | 3:53 | 2023-02-17 | 2023-04-29 |
 | [El Mismo Lugar](https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [El Mismo Lugar](https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6) | 2:38 | 2023-11-10 | 2024-02-17 |
@@ -81,6 +81,7 @@
 | [Enredo](https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Enredo](https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6) | 2:40 | 2024-06-28 |  |
 | [Entre Comillas](https://open.spotify.com/track/3ypWJV6odQeCmujaWg1MBv) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Entre Comillas](https://open.spotify.com/album/2Uu89iIqcG4WVVJITBpDxM) | 2:53 | 2024-09-27 |  |
 | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/track/57lu7hXebjTcjw8QKvYzuM) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/album/4MhdAyDEfQTFG3FP1prddY) | 2:56 | 2023-09-08 | 2023-10-07 |
+| [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \- Lado B](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 | 2024-10-11 |  |
 | [Esa Bachata](https://open.spotify.com/track/2hapH2RU5LjJxJPOV9iJGW) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Esa Bachata](https://open.spotify.com/album/6qIv1tqbkxpNbiRT5aVXRz) | 2:45 | 2024-08-02 |  |
 | [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2023-02-17 |  |
 | [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 | 2023-02-17 | 2024-05-25 |

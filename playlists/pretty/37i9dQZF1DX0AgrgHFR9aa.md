@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Youssef Swatt's
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,536 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,581 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [Pistol Pit](https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng) | [Mr Kayz](https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Pistol Pit](https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE) | 2:36 |
 | 40 | [Jubilee Year](https://open.spotify.com/track/37xT591ePNYFZiEuz7Bzu8) | [Tito Prince](https://open.spotify.com/artist/0noD1tUbBty2LsLBQncdU8) | [Jubilee Year](https://open.spotify.com/album/5lka9WpJIbeiJiOQ2kl6ML) | 2:42 |
 
-Snapshot ID: `ZwhOYAAAAACoQECw1CXAsm3Fnrnza+QG`
+Snapshot ID: `ZwhOYAAAAACapBum4x1jPOjZ6BYOkG0l`

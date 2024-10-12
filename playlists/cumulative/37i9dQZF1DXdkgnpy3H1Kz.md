@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-686 songs - 2 day 10 hr 46 min
+690 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Castle Riders II](https://open.spotify.com/track/3pFWFbbgBSbxjyEWw7tlfD) | [KLAMER](https://open.spotify.com/artist/1h9Kr4VsWkCCi0rS9BCT0l), [Laura Cléry](https://open.spotify.com/artist/4W120cknVI99rOYi2fhpvv) | [Castle Riders II](https://open.spotify.com/album/0ZqHJxiX4Wh0ePbQ3EOlJA) | 7:14 | 2023-05-25 | 2023-07-01 |
 | [Cha Ching](https://open.spotify.com/track/6RFTPi5jwR7y9csTwH71i5) | [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn), [Xiao Quan](https://open.spotify.com/artist/7JEsfNuby8YWVvRyIzwsic) | [The Link Up](https://open.spotify.com/album/6EB2ZmRmDNv6LVSgGjkA6F) | 3:21 | 2024-05-17 | 2024-07-16 |
 | [Chaos](https://open.spotify.com/track/6YEKpfvvco7NbUBPrSejSb) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Infrarouge](https://open.spotify.com/album/6HvjznTfyQdDxOdjcFfiKY) | 4:44 | 2024-01-19 | 2024-03-14 |
+| [Chaos Theory](https://open.spotify.com/track/4xqoqg5vid4oW6ukGwaSko) | [madwoman](https://open.spotify.com/artist/1bNcfa2htqRsvgtzJ3Tzb6) | [Chaos Theory](https://open.spotify.com/album/0zGJ4ULhZTxruqlAtpSpNJ) | 4:46 | 2024-10-11 |  |
 | [Chaos Theory](https://open.spotify.com/track/7eaS6tNHwajiaSHMmmkMTo) | [Matasism](https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD) | [The Music Is Control Of Your Acid Mind](https://open.spotify.com/album/00hENCU8TYxplATeKONndX) | 5:56 | 2023-06-30 | 2023-08-05 |
 | [Chaos Transition](https://open.spotify.com/track/0FlAjDIkYJUKoFA8r0aeFQ) | [Adriana Lopez](https://open.spotify.com/artist/47S7xlEgButIjOYxcEUYnD) | [Chaos Transition](https://open.spotify.com/album/0nzzawTtgeqfGUPB5Gt9c8) | 5:47 | 2023-03-17 | 2023-04-15 |
 | [Chaser](https://open.spotify.com/track/2HaLTTobflvD8Ht8ZbDl8M) | [Rill](https://open.spotify.com/artist/0areJZnqMP2SAtjMud5S0o), [KLUSTER](https://open.spotify.com/artist/21WbwkcC3MJTkRFZzYnNmP) | [Chaser](https://open.spotify.com/album/4hYpEgy2Xw4J4gRzFl3FDS) | 5:11 | 2024-10-04 |  |
@@ -303,6 +304,7 @@
 | [Judith Maria \- Telefon Tel Aviv Version](https://open.spotify.com/track/60LaX0FFMpK8jkFOmP4nWe) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Judith Maria \(Telefon Tel Aviv Version\)](https://open.spotify.com/album/3qKtVyAu3PJyP3unzzm6F8) | 4:43 | 2023-06-30 | 2023-08-05 |
 | [Jugoplastika](https://open.spotify.com/track/1r6WAeoVFeQx41Uup8v0nR) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [The New Land Order](https://open.spotify.com/album/3ilsMkAAg5ylOw7p7IEUb7) | 6:27 | 2023-10-13 | 2024-01-20 |
 | [Juicy Beat](https://open.spotify.com/track/374NWxnd732Jd0lkEd9IqJ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [Juicy Beat](https://open.spotify.com/album/3Jq1Vry2U7XTMqmkj6857Q) | 4:32 | 2023-02-10 | 2023-03-18 |
+| [Just Shut the f\_\_k up](https://open.spotify.com/track/7LlfqvKCEkhFqkEi3NTveg) | [Diana May](https://open.spotify.com/artist/4I4W9HogfaZKwFF2RC1rVn) | [Just Shut the f\_\_k up](https://open.spotify.com/album/32gh757OxTjcafZlZX0xpA) | 4:28 | 2024-10-11 |  |
 | [KA2](https://open.spotify.com/track/6WnKgcMDM5LjWy7MTc9PoC) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [K](https://open.spotify.com/album/0YZP5WwCtNrD7zBGraTdIu) | 5:34 | 2023-03-17 | 2023-04-15 |
 | [Kakko Kaf](https://open.spotify.com/track/2ub6U1VLhEtEaXC8jbV0zY) | [Outtaaakeee](https://open.spotify.com/artist/6kdwzQXMKVXyk0xPMg2H1b) | [Junky Stuff](https://open.spotify.com/album/7d3KzPCLcXBW3VhsWdg9Du) | 1:03 | 2024-01-19 | 2024-03-14 |
 | [Kein Machine \- Original Mix](https://open.spotify.com/track/6s2vHI5GR1FvdBMmOPNDSM) | [Syncom Data](https://open.spotify.com/artist/67RI5CGgQWlvpT4uao58zD) | [Kein Machine](https://open.spotify.com/album/2DyKV2kyghc4RnyUNaDyBw) | 5:17 | 2023-11-30 | 2024-01-20 |
@@ -319,6 +321,7 @@
 | [Kyiv](https://open.spotify.com/track/3xcVp40SKQ6P4yc6MrnBUa) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Kyiv](https://open.spotify.com/album/6nkWdmlEYipx7HW3VAMhk7) | 4:11 | 2024-05-17 | 2024-10-05 |
 | [Kyiv](https://open.spotify.com/track/0NyRt9UsUwt4bepaohDUNv) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Better Than Going Under](https://open.spotify.com/album/7D9Bpy9EJplovHAW0K2REg) | 4:23 | 2024-01-19 | 2024-03-14 |
 | [Körpermaschine](https://open.spotify.com/track/765wtIjnSmK9ZEXlnFLFiz) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Ufo](https://open.spotify.com/album/6tJO1dAduSViLHKyZV44YY) | 8:31 | 2023-04-28 | 2023-05-26 |
+| [Küss Mich Jetzt](https://open.spotify.com/track/73mflovoDeKV2nkrvJNNpp) | [\[KRTM\]](https://open.spotify.com/artist/66ZRVdaXcImO05VGORlsK5) | [Küss Mich Jetzt](https://open.spotify.com/album/1YY7Fb2By3gfxBQQ9PQZ0z) | 4:05 | 2024-10-11 |  |
 | [La Maman et le Fantôme](https://open.spotify.com/track/7KacNrwWTid7vcbSwJVzwx) | [Sydney Valette](https://open.spotify.com/artist/2KJAUWVNVVze4aPbJdDS4I) | [La Maman et le Fantôme](https://open.spotify.com/album/6utX6LImO6A9W9i4ewv9U0) | 3:47 | 2024-05-17 | 2024-07-16 |
 | [La Música Es Dios \- Mix 2](https://open.spotify.com/track/2uGU98R9TkkAnhZLrcxc7d) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [La Música Es Dios](https://open.spotify.com/album/1wfK31izFVK0tgw9SIiVLP) | 7:06 | 2023-03-17 | 2023-04-15 |
 | [La Pendue](https://open.spotify.com/track/6ctrhr3yZAJTP2ctNfL3ze) | [Years Of Denial](https://open.spotify.com/artist/1ANXhE0bNSbSutcZx3BNSM) | [Suicide Disco Vol\. 2](https://open.spotify.com/album/0alufQADJxBVA5XDQq65nJ) | 6:53 | 2023-06-30 | 2023-08-05 |
@@ -537,6 +540,7 @@
 | [Sleep Garden](https://open.spotify.com/track/3ALd00wVvpmeIS1mFb4u8R) | [Endlec](https://open.spotify.com/artist/2hmhdVW7jKsHtxp0vrTkkA) | [Theories and Subjects of Substance EP](https://open.spotify.com/album/1L3vVnldxzlCUi8CrpZD1G) | 6:14 | 2023-02-10 | 2023-03-18 |
 | [Sleep Of Reason](https://open.spotify.com/track/6gozyKX05f9iM4BONsQotT) | [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h) | [Sleep of Reason](https://open.spotify.com/album/02s8r93uDQQ90toqgPyXwj) | 6:11 | 2023-04-14 | 2023-05-26 |
 | [Slidu \- Carlo Onda remix](https://open.spotify.com/track/5ymKMMtIvEJb8KuIwhoOVI) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9), [Roe Deers](https://open.spotify.com/artist/1dgDxUpQTq1goeeck85apa), [Carlo Onda](https://open.spotify.com/artist/6gNJmvDhoKa14iEnpt0LtA) | [SArmxRD](https://open.spotify.com/album/6pLJUhMCxaqlMC1hP8ncv8) | 4:08 | 2024-07-15 | 2024-10-05 |
+| [Snaxx](https://open.spotify.com/track/75wJ3Hnn2dlHM6TfqeXkRH) | [VUUDUU](https://open.spotify.com/artist/4yEtofnsxZbnRffSB27a63) | [Snaxx](https://open.spotify.com/album/4MR0GBn033ezAWbzmc2gTa) | 4:35 | 2024-10-11 |  |
 | [So Beautiful](https://open.spotify.com/track/5lItYHYtemdrT9bXkdAs8r) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Uncloseted](https://open.spotify.com/album/6ZudckR14EhejwSuli6fmt) | 6:22 | 2024-04-12 | 2024-05-18 |
 | [So Cute!! \- KTHONOS Remix](https://open.spotify.com/track/5PYVMfNCLQfmI9sBy8fOL6) | [Ayako Mori](https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy), [Kthonos](https://open.spotify.com/artist/3UkgmuAiHJlMcM3tmhDh6D) | [So Cute!! remixes, Vol\. 2](https://open.spotify.com/album/7w1iSoan7YZ9IHAJBzb0N9) | 5:58 | 2023-08-04 | 2023-12-14 |
 | [So Cute!! \- Schiere Remix](https://open.spotify.com/track/6Nu19YZW8KgJ5pSvQ424am) | [Ayako Mori](https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy), [Schiere](https://open.spotify.com/artist/1TRZlQz6GZva8e648Cns57) | [So Cute!!](https://open.spotify.com/album/1oryLY5stw9PY4cv9v1XTF) | 6:56 | 2024-01-19 | 2024-03-14 |

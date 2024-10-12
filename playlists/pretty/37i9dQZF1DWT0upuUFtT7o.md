@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover:  Jeff Lamb
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,354 likes - 110 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,425 likes - 110 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 109 | [Girlfriend](https://open.spotify.com/track/0mbBHDQu78jWP1rETou65s) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Girlfriend](https://open.spotify.com/album/0PnfeZqipy9CZF9FzDAx4v) | 3:17 |
 | 110 | [You Could Hate Me](https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [You Could Hate Me](https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd) | 4:11 |
 
-Snapshot ID: `ZwbGEgAAAABY5sXcnnRJ5aKPLI+FWWJX`
+Snapshot ID: `ZwbGEgAAAADpCruZRf9RXNwxxudZt7DY`

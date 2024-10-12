@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-395 songs - 21 hr 52 min
+396 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Jealousy](https://open.spotify.com/track/4pwt8iULKdutuGAPp4gxr5) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [In His Mania](https://open.spotify.com/album/2woJZoFrOoeKSHIftNknKp) | 3:10 | 2023-10-20 | 2024-09-14 |
 | [jordan](https://open.spotify.com/track/77wdEr25RcwuesF8ejXJhL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 4:01 | 2021-08-05 | 2022-01-20 |
 | [Julia](https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Julia](https://open.spotify.com/album/1X860wRKiP3e9cJmVhHV8K) | 3:31 | 2024-09-13 |  |
+| [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-11 |  |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-08-12 | 2023-02-25 |
 | [Kids](https://open.spotify.com/track/6WXjSSZztubZ65hoMqhhyA) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Kids](https://open.spotify.com/album/0G4cgwbt1mLgThWFPOTZ7v) | 2:58 | 2024-03-08 |  |
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-10-27 |  |
@@ -387,7 +388,7 @@
 | [When You’re Breaking My Heart](https://open.spotify.com/track/0D0oMP3byoKW7vOcI51LlG) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [When You’re Breaking My Heart](https://open.spotify.com/album/2MlHzvufzqaNSzLwDJAeJw) | 3:04 | 2023-05-19 | 2023-10-14 |
 | [Who's Sorry Now?](https://open.spotify.com/track/1cRYcgHyaO0lSdECO03bpN) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Who's Sorry Now?](https://open.spotify.com/album/30ITLZsbriTj333z6Ym0YA) | 3:36 | 2024-03-22 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-08-05 | 2022-01-20 |
-| [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 |  |
+| [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 | 2024-10-12 |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2021-08-05 | 2022-01-20 |
 | [wintergreen](https://open.spotify.com/track/07W2ZbawBHH3xPRJ5eD6Ih) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [wintergreen](https://open.spotify.com/album/1RHwkiA0IUm65DvpNsoNmN) | 4:01 | 2024-02-02 |  |
 | [Wishful Thinking](https://open.spotify.com/track/6YlOkcBFXxwrRm2YrimOxt) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:10 | 2021-08-05 | 2022-01-20 |

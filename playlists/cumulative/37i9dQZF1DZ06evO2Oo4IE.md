@@ -2,7 +2,7 @@
 
 ### [This Is Janis Joplin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Oo4IE)
 
-> This Is Janis Joplin\. Los temas esenciales, todos en una lista.
+> This Is Janis Joplin\. Les titres incontournables, réunis dans une seule et même playlist.
 
 65 songs - 3 hr 55 min
 

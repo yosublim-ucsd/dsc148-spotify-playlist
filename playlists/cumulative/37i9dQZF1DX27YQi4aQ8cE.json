@@ -1390,10 +1390,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 257906,
       "name": "Lully, Lulla, Lullay",
       "url": "https://open.spotify.com/track/5IH3g2BW7Jw5yRSMPyZTL4"
+    },
+    {
+      "album": {
+        "name": "Lully, Lulla, Lullay",
+        "url": "https://open.spotify.com/album/0QiluLX0Ab01sVSNieA3Da"
+      },
+      "artists": [
+        {
+          "name": "Philip Stopford",
+          "url": "https://open.spotify.com/artist/0hmhv5CTaXOilOf0hGeIvN"
+        },
+        {
+          "name": "The Choir Of St John's College, Oxford",
+          "url": "https://open.spotify.com/artist/1IP63eNDPnYutYWMy4LXFx"
+        },
+        {
+          "name": "David Bannister",
+          "url": "https://open.spotify.com/artist/6izf8AYyqTafKRCH2f2GsF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Lully, Lulla, Lullay",
+      "url": "https://open.spotify.com/track/3Ph2mf5oK7oviKdAdIKCxz"
     },
     {
       "album": {

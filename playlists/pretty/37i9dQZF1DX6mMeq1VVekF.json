@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: D7",
-  "num_followers": 178050,
+  "num_followers": 178060,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhccAAAAAAr4koG6pyr+FVurQFtNaeU",
+  "snapshot_id": "ZwhccAAAAADmVfq0NviaHqEtW9P0xn9U",
   "tracks": [
     {
       "added_at": "2024-10-10 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 161034,
-      "name": "React",
-      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "2BADGYALZ",
         "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 101500,
       "name": "2BADGYALZ",
       "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 169835,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "MASHUP",
         "url": "https://open.spotify.com/album/4Wv59sKVFaUyJESv5EW9Mj"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 137126,
       "name": "MASHUP",
       "url": "https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 169835,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k"
-      },
-      "artists": [
-        {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
-        }
-      ],
-      "duration_ms": 119097,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 117333,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 119097,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -743,26 +743,6 @@
       "duration_ms": 110571,
       "name": "luvu222",
       "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "The Curb",
-        "url": "https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "The Curb",
-      "url": "https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -803,6 +783,26 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "The Curb",
+        "url": "https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "The Curb",
+      "url": "https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "Bon App\u00e9tit",
         "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 228200,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2Sf8zOw0J5qRxxaRYGknzC"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "After The Party",
+        "url": "https://open.spotify.com/album/2hIq6zPR6MOLzjZ7GpibhU"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ave",
+          "url": "https://open.spotify.com/artist/7ew9ZidsT1WM5NJy568Ma9"
+        },
+        {
+          "name": "S.A.M",
+          "url": "https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb"
+        }
+      ],
+      "duration_ms": 158724,
+      "name": "After The Party",
+      "url": "https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -879,22 +899,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "WHAT WAS THE QUESTION",
-        "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
-      },
-      "artists": [
-        {
-          "name": "Curtisy",
-          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Landmine!",
-      "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "what it is & what it ain't",
         "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
       },
@@ -911,22 +915,18 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "After The Party",
-        "url": "https://open.spotify.com/album/2hIq6zPR6MOLzjZ7GpibhU"
+        "name": "WHAT WAS THE QUESTION",
+        "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
       },
       "artists": [
         {
-          "name": "Jamie Ave",
-          "url": "https://open.spotify.com/artist/7ew9ZidsT1WM5NJy568Ma9"
-        },
-        {
-          "name": "S.A.M",
-          "url": "https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb"
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
         }
       ],
-      "duration_ms": 158724,
-      "name": "After The Party",
-      "url": "https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6"
+      "duration_ms": 196603,
+      "name": "Landmine!",
+      "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -983,18 +983,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "southerngothic.",
-        "url": "https://open.spotify.com/album/2ZFeiHv9PkRkA0StT9L4We"
+        "name": "Off Guard",
+        "url": "https://open.spotify.com/album/406uhmvBUbpHHEcq1omyNu"
       },
       "artists": [
         {
-          "name": "David Armada",
-          "url": "https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh"
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
         }
       ],
-      "duration_ms": 143605,
-      "name": "black glass",
-      "url": "https://open.spotify.com/track/6VjbIp3AeoCO1WNPelECnf"
+      "duration_ms": 171607,
+      "name": "Off Guard",
+      "url": "https://open.spotify.com/track/5pVJ0zf2yqFYr0UbvhQDen"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Off Guard",
-        "url": "https://open.spotify.com/album/406uhmvBUbpHHEcq1omyNu"
+        "name": "southerngothic.",
+        "url": "https://open.spotify.com/album/2ZFeiHv9PkRkA0StT9L4We"
       },
       "artists": [
         {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        },
-        {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+          "name": "David Armada",
+          "url": "https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh"
         }
       ],
-      "duration_ms": 171607,
-      "name": "Off Guard",
-      "url": "https://open.spotify.com/track/5pVJ0zf2yqFYr0UbvhQDen"
+      "duration_ms": 143605,
+      "name": "black glass",
+      "url": "https://open.spotify.com/track/6VjbIp3AeoCO1WNPelECnf"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5"
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/1bjruar59aZpTGGuba0Qbl"
       },
       "artists": [
         {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+          "name": "Tenner",
+          "url": "https://open.spotify.com/artist/19MGGHQ0gD7UgBVH1YMCR4"
         }
       ],
-      "duration_ms": 185807,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU"
+      "duration_ms": 157850,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/0B8o06qQQn02XvBYdhA2TY"
     }
   ],
   "unique_name": "Free Form",

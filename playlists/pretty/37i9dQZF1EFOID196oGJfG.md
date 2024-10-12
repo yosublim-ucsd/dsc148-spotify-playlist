@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 8 | [Slip](https://open.spotify.com/track/7zQTYsNMzkF9qPx2W8E9Id) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Slip](https://open.spotify.com/album/4uYUxozATit05Y6JLBqrLK) | 3:03 |
 | 9 | [comme des garçons \(like the boys\)](https://open.spotify.com/track/2HDCf9KhsUSFbxIqj22rOq) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [isaac's insects](https://open.spotify.com/album/2HbOTgPrZbFDx84oPQ0RlO) | 3:10 |
 | 10 | [Scared to Be Happy](https://open.spotify.com/track/65iJBVVAcYGNeTnpFU8T09) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/0UshNP4GGmz8xVW9mvtXBc) | 2:37 |
-| 11 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 |
-| 12 | [Do Better](https://open.spotify.com/track/4Xm7NkqCD6Zf6jQ0urA68x) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Do Better](https://open.spotify.com/album/0dNeLG8tONsnsENlFvkDBe) | 2:09 |
+| 11 | [Do Better](https://open.spotify.com/track/4Xm7NkqCD6Zf6jQ0urA68x) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Do Better](https://open.spotify.com/album/0dNeLG8tONsnsENlFvkDBe) | 2:09 |
+| 12 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 |
 | 13 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 14 | [Stare](https://open.spotify.com/track/3qJolzSTXB91zil3ZXwspT) | [Rory Adams](https://open.spotify.com/artist/5nf5lJ3cik78BBntVGecWx) | [Stare](https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1) | 3:24 |
 | 15 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 33 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 34 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AbecCgAAAADGmK6oivKIeCtyAHOykhw1`
+Snapshot ID: `AbehqgAAAAAuts4HVULHo/ksBn5W06v0`

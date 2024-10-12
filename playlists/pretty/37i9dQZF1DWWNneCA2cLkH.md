@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Jerome Blazé
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,468 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,479 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Tanto Arriba Como Abajo](https://open.spotify.com/track/3Sj6IETNYExfVJQXQTfeOj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Tanto Arriba Como Abajo](https://open.spotify.com/album/22TgvKvFVQQ5S7zZ3dURQV) | 3:41 |
 | 100 | [Na\-kalamandjarda](https://open.spotify.com/track/28vnwZdXCz8QQ9MszDYe5U) | [Ripple Effect Band](https://open.spotify.com/artist/0GvHKh1aLNx6cbLSytKC5t) | [Na\-kalamandjarda](https://open.spotify.com/album/3TpxZIbxpCQleDuHky6KBE) | 3:38 |
 
-Snapshot ID: `ZwfP0AAAAAB+Jz8Y79ey/0T8IuFOJ7S5`
+Snapshot ID: `ZwfP0AAAAACpoJkkKxNXqMjwewAWEGJ7`

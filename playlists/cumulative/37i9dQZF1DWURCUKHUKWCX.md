@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-196 songs - 10 hr 46 min
+198 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Rewind](https://open.spotify.com/track/3n10o2TMQManm9fYQ1jcoV) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Rewind](https://open.spotify.com/album/3JpABmjFijcxbinWPWv0vK) | 3:06 | 2022-01-28 |  |
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2021-12-10 |  |
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-12 |  |
+| [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 | 2024-10-11 |  |
 | [S.A.D.](https://open.spotify.com/track/7u8V66KV1rXJtJSR9gCQ0L) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [S.A.D\. Storm and Drugs](https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM) | 3:21 | 2021-12-10 | 2023-01-04 |
 | [saman](https://open.spotify.com/track/5Gum48Pt0QSd9rAkFejduF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Peaceful Piano 2022](https://open.spotify.com/album/6cqlCqunHip9bIHuA5ir3N) | 2:11 | 2022-10-28 | 2022-11-14 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-07-22 | 2024-04-19 |
@@ -169,6 +170,7 @@
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 | 2023-01-04 |
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
 | [Some](https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 4:14 | 2021-12-10 | 2023-01-04 |
+| [Spartacus Love Theme](https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA) | [Alex North](https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 3:36 | 2024-10-11 |  |
 | [Stars Light Up The Water](https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stars Light Up The Water](https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ) | 2:16 | 2021-12-10 |  |
 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 | 2022-04-01 |  |
 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 | 2021-12-10 |  |

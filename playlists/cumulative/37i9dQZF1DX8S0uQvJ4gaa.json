@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Nate Smith",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Carter Faith",
   "name": "New Boots",
   "tracks": [
     {
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "About Gone",
+        "url": "https://open.spotify.com/album/1CvlvoQxQI6GvPMCl99E35"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208330,
+      "name": "About Gone",
+      "url": "https://open.spotify.com/track/7hmBeYpHTGaZ8OAsd0Jcjs"
+    },
+    {
+      "album": {
         "name": "About Last Night",
         "url": "https://open.spotify.com/album/2stucCb4zhkvYdtssIlGAJ"
       },
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161181,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5C7i53sJkEPv1uoTuGUxRq"
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
@@ -3219,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Gettin' Away With It",
+        "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        },
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Best of My 20's (feat. Trousdale)",
+      "url": "https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB"
+    },
+    {
+      "album": {
         "name": "Workin' Hard",
         "url": "https://open.spotify.com/album/2ARVKbtKHn7ccMDn4oFQKs"
       },
@@ -3602,7 +3660,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 200440,
       "name": "Better Year",
       "url": "https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm"
@@ -10738,7 +10796,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 194571,
       "name": "Fireside",
       "url": "https://open.spotify.com/track/2hFxyYSWmzVCAqCdnAAJ9e"
@@ -11686,7 +11744,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 160160,
       "name": "Get By",
       "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
@@ -11856,7 +11914,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 193416,
       "name": "Gettin' Old",
       "url": "https://open.spotify.com/track/2sUzNjq7TaCxNbVzP7XkVN"
@@ -16443,6 +16501,24 @@
     },
     {
       "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/52tXp2qZuoNlxtqD2QzoOx"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "How Do You Sleep At Night?",
+      "url": "https://open.spotify.com/track/7vChds6Nfc5MewhWVFohI7"
+    },
+    {
+      "album": {
         "name": "How Far Can It Go? (feat. Trisha Yearwood)",
         "url": "https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT"
       },
@@ -18517,6 +18593,24 @@
     },
     {
       "album": {
+        "name": "If I Die Before You",
+        "url": "https://open.spotify.com/album/2b338WpFETpzZMUBkEjzcK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193183,
+      "name": "If I Die Before You",
+      "url": "https://open.spotify.com/track/6imf5hHetonHqO5KWF8hMP"
+    },
+    {
+      "album": {
         "name": "If I Die Young Pt. 2",
         "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
       },
@@ -18546,7 +18640,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203077,
       "name": "If I Had a Lover",
       "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
@@ -21808,7 +21902,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210205,
       "name": "Love Your Hometown",
       "url": "https://open.spotify.com/track/6pQOyzIe0sMACxNFfEVoTy"
@@ -23108,6 +23202,24 @@
       "duration_ms": 221075,
       "name": "Middle Of Nowhere Class",
       "url": "https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc"
+    },
+    {
+      "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Middle Of The Bed",
+      "url": "https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV"
     },
     {
       "album": {
@@ -24930,7 +25042,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177123,
       "name": "New To Country",
       "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
@@ -27363,6 +27475,24 @@
     },
     {
       "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/0IlIxXI9sDcUNxIpFJOg38"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207610,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/1WtJAIc6gbgdUrjBpVL94j"
+    },
+    {
+      "album": {
         "name": "People Talk",
         "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
       },
@@ -28100,7 +28230,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
@@ -30120,7 +30250,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172206,
       "name": "Settling Things",
       "url": "https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4"
@@ -32382,7 +32512,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
@@ -34513,6 +34643,24 @@
     },
     {
       "album": {
+        "name": "The Aftermath",
+        "url": "https://open.spotify.com/album/3mxgTjJLBtCDPiv4gDIMQq"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "The Aftermath",
+      "url": "https://open.spotify.com/track/6vFoy4VyJR6reu2zvFI9Rz"
+    },
+    {
+      "album": {
         "name": "The Card You Gamble (Main Theme From Monarch)",
         "url": "https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o"
       },
@@ -35831,6 +35979,24 @@
     },
     {
       "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
+    },
+    {
+      "album": {
         "name": "Thought This Through",
         "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
       },
@@ -35904,6 +36070,24 @@
       "duration_ms": 172125,
       "name": "Thoughts of You",
       "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
+    },
+    {
+      "album": {
+        "name": "Three Car Garage",
+        "url": "https://open.spotify.com/album/3ykac4pITfQdEAYiYtV8mk"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302162,
+      "name": "Three Car Garage",
+      "url": "https://open.spotify.com/track/1IjykuxgIUMqdQsLyLmXPZ"
     },
     {
       "album": {
@@ -36092,6 +36276,28 @@
       "duration_ms": 169053,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3JYPKPQYxpHrp8YWYOF4v2"
+    },
+    {
+      "album": {
+        "name": "This Is My Dirt",
+        "url": "https://open.spotify.com/album/1itULb5WhYN3cBKplditfW"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180962,
+      "name": "Time\u2019s Ticking",
+      "url": "https://open.spotify.com/track/1lcsXjEeKLhYbnvmmqYY3l"
     },
     {
       "album": {
@@ -36464,6 +36670,24 @@
       "duration_ms": 191440,
       "name": "Travelin' On",
       "url": "https://open.spotify.com/track/3umwNil9LoIvpDOmxklhko"
+    },
+    {
+      "album": {
+        "name": "Tree Birds",
+        "url": "https://open.spotify.com/album/6PAud3gLOCgM4Mit5yaPkh"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Tree Birds",
+      "url": "https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz"
     },
     {
       "album": {
@@ -37452,7 +37676,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
@@ -39898,7 +40122,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192133,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"
@@ -40288,6 +40512,24 @@
       "duration_ms": 176597,
       "name": "Winning",
       "url": "https://open.spotify.com/track/5qEb5GTv9yy7Y7kLJCSMFN"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D"
     },
     {
       "album": {

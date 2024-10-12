@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:4b5P4Tq5loWnl139Uw853q">POGRAMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,723 likes - 10 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,725 likes - 10 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 9 | [A bizarra história do ator de Sons Of Anarchy](https://open.spotify.com/episode/742GqYTFTyQhbux4rWTngQ) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 14:48 |
 | 10 | [a vida é uma questão de tempo](https://open.spotify.com/episode/35kfoVykhStq4eFGLUwS4n) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 10:56 |
 
-Snapshot ID: `ZvvZ8QAAAAAjS1BBAs7aRbLe2p7gEu/G`
+Snapshot ID: `ZvvZ8QAAAACVg7UokEi0gyH08hDm1de+`

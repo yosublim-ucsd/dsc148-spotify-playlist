@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Goes best with small chops and party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,787 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 49 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
 | 50 | [Maria](https://open.spotify.com/track/7zFZWVCxKcql4FTqZUEGJC) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20) | [Maria](https://open.spotify.com/album/70vLH9Hfo5pPztYN6qDVWC) | 2:46 |
 
-Snapshot ID: `Zv+FRQAAAAAWk3XX5eHns/99vqdpnUEl`
+Snapshot ID: `Zv+FRQAAAACdF6XS4sSq95mGDJATGQSa`

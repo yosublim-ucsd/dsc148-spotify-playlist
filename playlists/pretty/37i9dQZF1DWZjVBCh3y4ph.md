@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,008 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,047 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Sé Pa Vou](https://open.spotify.com/track/1QEvBuSpLfy9vq6zAubQY9) | [Shanel Hill](https://open.spotify.com/artist/62ZXFmq5hbJz0M5Va4CnAn) | [Sé Pa Vou](https://open.spotify.com/album/1VHBFO8qlSejrTTTddIzfp) | 3:18 |
 | 40 | [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 |
 
-Snapshot ID: `ZwhOYAAAAAAPTVTy+pB4bBxaG6lQcgrM`
+Snapshot ID: `ZwhOYAAAAAB+XFk32KcU8+iB3ctdFSJ1`

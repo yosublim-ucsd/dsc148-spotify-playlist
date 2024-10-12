@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 651737,
+  "num_followers": 651792,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtSJnQAAAAAeMj/x5HrYE9LICwgxT72N",
+  "snapshot_id": "ZtSJnQAAAACv7V529VvvsNaCMjM+piob",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Attack of the Grey Lantern",
         "url": "https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 213533,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Gold Mother",
-        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
     },
     {
       "added_at": "2024-03-18 22:10:08",

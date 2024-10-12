@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-107 songs - 5 hr 47 min
+108 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 | 2023-11-24 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents...Wetzel's Wonderland](https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga) | 2:52 | 2023-12-01 |  |
 | [Reason To Believe](https://open.spotify.com/track/7k5zCV44bO12almDQ7sUxq) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Season's Greetings From Alex Hall](https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr) | 2:55 | 2023-11-24 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5Bma1Rcuq1eiWMYAhimZCz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/2a2w9hcUVaqEvsCg7xJ68i) | 1:54 | 2024-10-11 |  |
 | [Run Outta Mistletoe](https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Mistletoe](https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy) | 2:43 | 2023-11-24 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/4Gz6VMA8BL6Sg61hXBG5RX) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Run Rudolph Run](https://open.spotify.com/album/6e03xVNZm7zk2wMIy6SiKT) | 2:53 | 2023-12-01 |  |
 | [Run Run Rudolph \- Mason’s Version](https://open.spotify.com/track/1DigwEbyShfSMe8VU4vQK6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Run Run Rudolph \(Mason’s Version\)](https://open.spotify.com/album/6WfS0QdvRckuv4bUPRulk1) | 2:47 | 2023-11-24 |  |

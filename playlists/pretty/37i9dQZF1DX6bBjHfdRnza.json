@@ -1,13 +1,33 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Depart. Artwork by Rewina Beshue.",
-  "num_followers": 185347,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: STRAWBRY. Artwork by Rewina Beshue.",
+  "num_followers": 185409,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwdboQAAAADfJJ9sTSwjIIU4NCmGxDu0",
+  "snapshot_id": "ZwlNkwAAAAAH3DBCvx9Bhv93I7H/+c2R",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "U Know That",
+        "url": "https://open.spotify.com/album/1nlLs2UwFGPFJQwlt8ShCi"
+      },
+      "artists": [
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
+        },
+        {
+          "name": "tesh",
+          "url": "https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "U Know That",
+      "url": "https://open.spotify.com/track/2dpGpd2kJ6yNqFGGImGP0m"
+    },
     {
       "added_at": "2024-10-02 18:02:38",
       "album": {
@@ -41,36 +61,20 @@
       "url": "https://open.spotify.com/track/4ubG5aMNisOmR8IpKxL0a0"
     },
     {
-      "added_at": "2024-10-02 18:02:38",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/7mSbYxV6M20yajCMWMthnP"
+        "name": "BNP",
+        "url": "https://open.spotify.com/album/4aa7JyX7WUwk6uA28IOELp"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "NOISES",
+          "url": "https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp"
         }
       ],
-      "duration_ms": 289011,
-      "name": "Everything in Between",
-      "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
-    },
-    {
-      "added_at": "2024-10-10 04:44:17",
-      "album": {
-        "name": "Set The Mood EP",
-        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
-      },
-      "artists": [
-        {
-          "name": "Eridu",
-          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Set The Mood",
-      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
+      "duration_ms": 201514,
+      "name": "BNP",
+      "url": "https://open.spotify.com/track/0NKkJ1Eu6ePVq73UN0QCAE"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -91,18 +95,34 @@
     {
       "added_at": "2024-10-10 04:44:17",
       "album": {
-        "name": "This Trip",
-        "url": "https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9"
+        "name": "Set The Mood EP",
+        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
       },
       "artists": [
         {
-          "name": "Friendly Fire",
-          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+          "name": "Eridu",
+          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
         }
       ],
-      "duration_ms": 178125,
-      "name": "This Trip",
-      "url": "https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr"
+      "duration_ms": 187500,
+      "name": "Set The Mood",
+      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -119,6 +139,22 @@
       "duration_ms": 150468,
       "name": "Bring The Beat",
       "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+    },
+    {
+      "added_at": "2024-10-10 04:44:17",
+      "album": {
+        "name": "This Trip",
+        "url": "https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "This Trip",
+      "url": "https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -193,6 +229,22 @@
       "url": "https://open.spotify.com/track/42Z1iJEXzCqSpq78w5wZsA"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Gundam",
+        "url": "https://open.spotify.com/album/7HUD2ph11CBmesjPmCZXsp"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "duration_ms": 233043,
+      "name": "Gundam",
+      "url": "https://open.spotify.com/track/5q5KRMmj8TIIm3FNzs16Cw"
+    },
+    {
       "added_at": "2024-08-28 16:35:01",
       "album": {
         "name": "Dance With You (All Night)",
@@ -225,6 +277,42 @@
       "url": "https://open.spotify.com/track/7DkA1CzvRIsRcOyqfiFgga"
     },
     {
+      "added_at": "2024-10-11 04:13:21",
+      "album": {
+        "name": "Feelin' Low",
+        "url": "https://open.spotify.com/album/1QRJIhWUhnON894hha9Ph2"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Feelin' Low",
+      "url": "https://open.spotify.com/track/3b01fmZqNcFP18QMWQFs9O"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "SAMESAME",
+        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "SAMESAME",
+      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
       "added_at": "2024-10-04 17:15:55",
       "album": {
         "name": "Motor Hombre",
@@ -239,6 +327,26 @@
       "duration_ms": 201290,
       "name": "Motor Hombre",
       "url": "https://open.spotify.com/track/6hKknw0wDowLXXh2xehw16"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/5riIDzWB1ylPOwIYFDd9ts"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Deija",
+          "url": "https://open.spotify.com/artist/6V8OeO3acZYb6YvSEahsRu"
+        }
+      ],
+      "duration_ms": 319270,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/0h02oY1lJ4cvVLOHFxO2ET"
     },
     {
       "added_at": "2024-07-03 22:16:33",
@@ -309,6 +417,22 @@
       "url": "https://open.spotify.com/track/4fv2v6hjonmOzhzOHhUI05"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "30% OFF",
+        "url": "https://open.spotify.com/album/6fao6aEY59SYPe5v5Xm5dO"
+      },
+      "artists": [
+        {
+          "name": "Dom Dias",
+          "url": "https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "30% OFF",
+      "url": "https://open.spotify.com/track/7n2qgwgbvNMki4RCKMiJ0A"
+    },
+    {
       "added_at": "2024-09-06 17:46:41",
       "album": {
         "name": "Tainted",
@@ -355,6 +479,22 @@
       "duration_ms": 144383,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
+    },
+    {
+      "added_at": "2024-10-02 18:02:38",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/7mSbYxV6M20yajCMWMthnP"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 289011,
+      "name": "Everything in Between",
+      "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1097,54 +1237,6 @@
       "url": "https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu"
     },
     {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "Firmament / Back To Basics",
-        "url": "https://open.spotify.com/album/3eGUWFX6hTkJJN9KYwUkz9"
-      },
-      "artists": [
-        {
-          "name": "Deer Jade",
-          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
-        }
-      ],
-      "duration_ms": 330531,
-      "name": "Firmament",
-      "url": "https://open.spotify.com/track/5xO5xLmj9LpWABgmIX4zF2"
-    },
-    {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "Sound Survives",
-        "url": "https://open.spotify.com/album/21QACfomr94VIKXXWPDoUU"
-      },
-      "artists": [
-        {
-          "name": "Andre Zimmer",
-          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
-        }
-      ],
-      "duration_ms": 332782,
-      "name": "Sound Survives",
-      "url": "https://open.spotify.com/track/3H4XMadRIZV1hxnv20HuGr"
-    },
-    {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Run",
@@ -1193,22 +1285,6 @@
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "Higher (Just A Feeling)",
-        "url": "https://open.spotify.com/album/09MaSoqQAVoEdX9G0rniCT"
-      },
-      "artists": [
-        {
-          "name": "Fourth Daughter",
-          "url": "https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Higher (Just A Feeling)",
-      "url": "https://open.spotify.com/track/6iTmmUBoJkDndxMuPvFPPJ"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Affection",
@@ -1255,38 +1331,6 @@
       "duration_ms": 166701,
       "name": "BEG 4 U",
       "url": "https://open.spotify.com/track/5mP10gFra9Cry2hUMh0ihu"
-    },
-    {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "FALLING (breathing slowly)",
-        "url": "https://open.spotify.com/album/1PWbToqopI8aDJpCP2b0Ew"
-      },
-      "artists": [
-        {
-          "name": "Nanomake",
-          "url": "https://open.spotify.com/artist/5IqyGfpBzT30zaatdUkauJ"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "FALLING (breathing slowly)",
-      "url": "https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Cohete",
-        "url": "https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1"
-      },
-      "artists": [
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1437,26 +1481,6 @@
       "url": "https://open.spotify.com/track/46slubt4vsyTKfkvS2gENM"
     },
     {
-      "added_at": "2024-08-07 16:28:20",
-      "album": {
-        "name": "How You Mad at Me?",
-        "url": "https://open.spotify.com/album/7G5Bsx0hQ9ydpv8EO7m8kN"
-      },
-      "artists": [
-        {
-          "name": "Love Language",
-          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "How You Mad At Me?",
-      "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
-    },
-    {
       "added_at": "2024-08-21 17:29:31",
       "album": {
         "name": "AMO",
@@ -1523,22 +1547,6 @@
       "duration_ms": 206769,
       "name": "Luv techniques",
       "url": "https://open.spotify.com/track/7BBdmGUKUsue4uRZHryzAf"
-    },
-    {
-      "added_at": "2024-08-07 16:28:20",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/3S6WVVBXXB1aRXpiIDUqNY"
-      },
-      "artists": [
-        {
-          "name": "Kiinjo",
-          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
-        }
-      ],
-      "duration_ms": 165093,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/4p8idquHqHHlXXQ1ou3psA"
     },
     {
       "added_at": "2024-08-04 17:33:18",

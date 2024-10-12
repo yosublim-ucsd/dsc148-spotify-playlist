@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,775 likes - 85 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,778 likes - 85 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 84 | [Say Stop!](https://open.spotify.com/track/2Z3O2aGJemrtDNSP3v9GlP) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Picture: Rafael Cerato](https://open.spotify.com/album/5UBuSzoAu1c2Bw9heEV6DH) | 5:04 |
 | 85 | [Solas](https://open.spotify.com/track/75KWFcSxPOCYy6HYe2rXmY) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Solas](https://open.spotify.com/album/1B7GgTrucaQcekQypzornp) | 3:13 |
 
-Snapshot ID: `ZvdvEQAAAACqHOLUsr/6uvj816IJQL66`
+Snapshot ID: `ZvdvEQAAAACfkd98xXFiSNxkhSLYuS3q`

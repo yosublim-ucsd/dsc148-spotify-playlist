@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La Joaqui, Big One & Tiago PZK.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & La T y La M.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -5423,6 +5423,32 @@
     },
     {
       "album": {
+        "name": "Lo Mismo Que A M\u00ed",
+        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Lo Mismo Que A M\u00ed",
+      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
+    },
+    {
+      "album": {
         "name": "Lo Que Pasa en la Noche",
         "url": "https://open.spotify.com/album/2kQ9FRcU8hcr77TecMXmX3"
       },
@@ -6764,7 +6790,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
@@ -9163,6 +9189,32 @@
     },
     {
       "album": {
+        "name": "Si Alguien Me Ve",
+        "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
+      },
+      "artists": [
+        {
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176289,
+      "name": "Si Alguien Me Ve",
+      "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
+    },
+    {
+      "album": {
         "name": "Si la Ves / Perdoname / Igual Que Ayer / Voy a Olvidarte",
         "url": "https://open.spotify.com/album/4Gymqw2kwVsnZIrJA4B8O3"
       },
@@ -9760,7 +9812,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177710,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3zNKOVI1wWhfrgv6pPXAgy"

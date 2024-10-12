@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: NATAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 79 | [Fallin For U](https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Fallin For U](https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5) | 2:05 |
 | 80 | [Krobo Princess](https://open.spotify.com/track/7JuzZV5N4yqPv8FYoEhFUj) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [Krobo Princess](https://open.spotify.com/album/1wqUzzGSfsUBdZuT51tyYy) | 2:57 |
 
-Snapshot ID: `Zv+ErwAAAADIkjVtrppSVP8gSIF8HEIq`
+Snapshot ID: `Zv+ErwAAAAAvK6d/EXvZhHAePaxrU5ST`

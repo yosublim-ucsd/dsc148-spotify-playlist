@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-206 songs - 12 hr 15 min
+208 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,9 +194,11 @@
 | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb) | 4:33 | 2021-11-19 | 2023-09-30 |
 | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 | 2022-04-01 |  |
 | [Traitor \- Arr\. for String Quartet / Inspired by Bridgerton](https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \(Arr\. for String Quartet / Inspired by Bridgerton\)](https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz) | 3:42 | 2023-09-29 | 2024-04-19 |
+| [Typa Girl \- String Quartet Version](https://open.spotify.com/track/0PvPB4YkMAvqdPu27xpqHm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Typa Girl \(String Quartet Version\)](https://open.spotify.com/album/0k65v7B6jV6ugzU5NBaUka) | 3:20 | 2024-10-11 |  |
 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 | 2021-11-19 | 2023-09-30 |
 | [Unholy](https://open.spotify.com/track/5COQiZO96OTpgWPLOglz4N) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Unholy](https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5) | 3:09 | 2022-12-09 | 2023-09-30 |
 | [Vampire](https://open.spotify.com/track/5y4aQFRElzXJCJi0T6ol6C) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Vampire](https://open.spotify.com/album/2rs0qLNt0Z1itHycvLZfDE) | 3:41 | 2023-09-29 |  |
+| [Vivo Por Ella](https://open.spotify.com/track/3p1mUCqdI4rv0uNRLj4nNr) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Vivo Por Ella \(Arr\. Piano\)](https://open.spotify.com/album/4awCVea7dYxo79FUpbWSrB) | 3:06 | 2024-10-11 |  |
 | [Waiting on the World to Change \- Instrumental](https://open.spotify.com/track/4DOZYZ45UAwfx6CTuvIF2d) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Waiting on the World to Change \(Instrumental\)](https://open.spotify.com/album/1qd3fl7QXEqFFA5FoMm7pk) | 3:06 | 2021-11-19 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/3vZ5bB1uAQQsG6N78BvaIJ) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Watermelon Sugar](https://open.spotify.com/album/25ejJm7KpguIh1zBc3q7ev) | 2:55 | 2022-05-13 | 2023-09-30 |
 | [We Are the Champions \(Arr\. S\. Mulligan for Piano\)](https://open.spotify.com/track/3w2R0fwS0APnP1hKPNI2kB) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH), [Simon Mulligan](https://open.spotify.com/artist/6HOM0TW25PhhjMXcif7xQw) | [Who Wants to Live Forever: Queen on a Steinway](https://open.spotify.com/album/2VH1mSWHCYUqQMRsD3FazF) | 3:01 | 2021-11-19 | 2022-05-14 |

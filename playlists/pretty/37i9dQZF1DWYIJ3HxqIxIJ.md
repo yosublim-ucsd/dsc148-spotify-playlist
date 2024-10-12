@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Fazerdaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,979 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,980 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 58 | [Hollow](https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Hollow](https://open.spotify.com/album/4qmjNRyaVlTiOOW197MTGC) | 3:25 |
 | 59 | [Fall Apart](https://open.spotify.com/track/25dal1jwzqCrMvHBG548g1) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Fall Apart](https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P) | 2:52 |
 
-Snapshot ID: `ZvwAYAAAAADo5pbQSyIcbUxae8GhLQVs`
+Snapshot ID: `ZvwAYAAAAACV6L962CnBImeYhNT0IHKZ`

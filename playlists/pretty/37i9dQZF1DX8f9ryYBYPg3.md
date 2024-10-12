@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,642 likes - 197 songs - 1 day 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,643 likes - 197 songs - 1 day 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 196 | [\#32 イケブクロ・ディビジョン“Buster Bros!!!”のメンバー全員が登場！](https://open.spotify.com/episode/21yquYFuzoyhbDpUekhOZQ) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/album/21pTe4AXstuRqQERhZN5za) | 23:18 |
 | 197 | [\#33 ディビジョン総集編 ＜１＞ 麻天狼、どついたれ本舗、Bad Ass Templeのメンバー全員が登場](https://open.spotify.com/episode/5VsStglpggAZkq80N5E7U3) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za) | [Spotify HYPNOSIS WAVE original edition](https://open.spotify.com/album/21pTe4AXstuRqQERhZN5za) | 22:48 |
 
-Snapshot ID: `Zv7JsgAAAAAvu2zXB/rmYcpzrREcKdOD`
+Snapshot ID: `Zv7JsgAAAABW60fH4uO70TNG6iL/KQs6`

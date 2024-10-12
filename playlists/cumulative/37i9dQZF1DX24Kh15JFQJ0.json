@@ -5863,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Wide Open Heart",
+        "url": "https://open.spotify.com/album/1mLFJcaIwv5PyZxFN6qKdP"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Wide Open Heart",
+      "url": "https://open.spotify.com/track/555JbBlXXZi2z2fSK9cuM5"
+    },
+    {
+      "album": {
         "name": "Run, Rose, Run",
         "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
       },

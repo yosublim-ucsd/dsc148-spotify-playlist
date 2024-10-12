@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q">BELLA KOMBO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,623 likes - 107 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,658 likes - 107 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 106 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 |
 | 107 | [Yanashangaza](https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Yanashangaza](https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP) | 4:19 |
 
-Snapshot ID: `ZwhqvAAAAAC3WVJyj2QMWod4GDiqd+EX`
+Snapshot ID: `ZwhqvAAAAACltMc5i4gTmxTL4Vl9qf0G`

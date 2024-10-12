@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g">Manana</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV\-LkmPxCQ">Shallipopi</a> and <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA">Joshua Baraka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,337 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,401 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [Tompa](https://open.spotify.com/track/2t449BUtzwIsr0DlbTvcLJ) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [K&K](https://open.spotify.com/artist/0u1iQxzpvXUIc2U6uQttEn) | [Tompa \(Producer Edition\)](https://open.spotify.com/album/1O5PvBio1GXUQAC8c8LiB0) | 2:55 |
 | 60 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 |
 
-Snapshot ID: `Zv95CAAAAAA+hFbX2pUw0aTG6dpjQ1Vz`
+Snapshot ID: `Zv95CAAAAACslWXDEZD0s8DA6BswPchN`

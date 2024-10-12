@@ -4,7 +4,7 @@
 
 > easy and breezy
 
-263 songs - 13 hr 11 min
+264 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dollar For A Dime](https://open.spotify.com/track/5a7g0ku1G4EET2ni5iindx) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/16MDt0vtWHBsAmIoeROG71) | 2:28 | 2024-07-26 |  |
 | [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 | 2023-12-21 | 2024-06-21 |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-12-17 | 2023-02-15 |
-| [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 |  |
+| [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 | 2024-10-12 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-22 | 2023-05-27 |
 | [Downtown](https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Downtown](https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt) | 2:51 | 2022-09-15 |  |
 | [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 | 2023-06-01 |  |
@@ -257,6 +257,7 @@
 | [Turning Blind](https://open.spotify.com/track/1mPqkPH49x4jSGa4pIvqvr) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Turning Blind](https://open.spotify.com/album/4e39VrmCqVtP0N4jGocQl7) | 5:38 | 2024-07-26 |  |
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 |  |
 | [Valente](https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Kick Up The Dust EP](https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl) | 5:19 | 2023-11-30 | 2024-01-04 |
+| [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:10 | 2024-10-11 |  |
 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 | 2023-05-11 |  |
 | [Waiting in The Dark](https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [BANDANA](https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Waiting in The Dark](https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ) | 1:59 | 2023-11-30 |  |
 | [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 | 2024-03-28 |  |

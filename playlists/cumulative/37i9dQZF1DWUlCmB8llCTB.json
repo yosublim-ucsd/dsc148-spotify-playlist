@@ -2617,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "De La Zona M\u00e1s Extrema",
+        "url": "https://open.spotify.com/album/0pltYSAofttoCfgKleLKoH"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215234,
+      "name": "BUSCANDOLA",
+      "url": "https://open.spotify.com/track/3G1TjLvHrr5fkK8NNcDqXY"
+    },
+    {
+      "album": {
         "name": "BYAK",
         "url": "https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC"
       },
@@ -5014,6 +5036,10 @@
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
       "date_added": "2024-08-23",
@@ -11382,7 +11408,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170721,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/3UPBQKbMkHhXTKHFwvvCAx"
@@ -13376,7 +13402,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186893,
       "name": "PAL LIO (with Kidd Voodoo & Distobal)",
       "url": "https://open.spotify.com/track/6z8suCGMfwkO1n7DiySPac"
@@ -16300,6 +16326,36 @@
       "duration_ms": 160880,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "album": {
+        "name": "RIKISHI (feat. DJ Acres)",
+        "url": "https://open.spotify.com/album/0DA9k43EoNbyeBl6TnXlrR"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "DJ Acres",
+          "url": "https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128707,
+      "name": "RIKISHI (feat. DJ Acres)",
+      "url": "https://open.spotify.com/track/2KfxS54dSBHFvm7vo9OvMN"
     },
     {
       "album": {

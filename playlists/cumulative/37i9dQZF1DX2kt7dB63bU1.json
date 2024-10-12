@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155637,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 235531,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
@@ -5781,6 +5781,28 @@
     },
     {
       "album": {
+        "name": "I Got It Bad (And That Ain't Good)",
+        "url": "https://open.spotify.com/album/0iOzU9o8mLrApudEK8EsKr"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        },
+        {
+          "name": "NDR Bigband",
+          "url": "https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355223,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/5MQbrriNIHtgSCfQsdJWXQ"
+    },
+    {
+      "album": {
         "name": "I Have Nothing Left for You",
         "url": "https://open.spotify.com/album/4B90ZdhB4bxJ7VaVFrthmY"
       },
@@ -8695,6 +8717,28 @@
     },
     {
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        },
+        {
+          "name": "Judi Jackson",
+          "url": "https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274539,
+      "name": "Love Is Like A Movie",
+      "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
+    },
+    {
+      "album": {
         "name": "Language of Love",
         "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
@@ -10064,6 +10108,24 @@
       "duration_ms": 142587,
       "name": "No Moon At All",
       "url": "https://open.spotify.com/track/77FX7ZQDJS9p3UXqbDjPla"
+    },
+    {
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346133,
+      "name": "No More Blues",
+      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
     },
     {
       "album": {
@@ -16236,7 +16298,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 275080,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"

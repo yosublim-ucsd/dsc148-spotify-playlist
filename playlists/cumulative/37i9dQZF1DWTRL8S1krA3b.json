@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/2a2w9hcUVaqEvsCg7xJ68i"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114092,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/5Bma1Rcuq1eiWMYAhimZCz"
+    },
+    {
+      "album": {
         "name": "Run Outta Mistletoe",
         "url": "https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy"
       },

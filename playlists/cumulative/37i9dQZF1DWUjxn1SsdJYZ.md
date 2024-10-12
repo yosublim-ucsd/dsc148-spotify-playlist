@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Hooligan Heffs
 
-946 songs - 1 day 20 hr 3 min
+947 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [HARVEY DENT](https://open.spotify.com/track/3Jyc5O21H7tONGABhOasF9) | [Mitchos Da Menace](https://open.spotify.com/artist/4N9eOW77jpcMTy4qt2smkg) | [HARVEY DENT](https://open.spotify.com/album/06qEkV9pvpddKfeoCOksjI) | 3:12 | 2022-03-21 | 2022-08-26 |
 | [Have You Ever?](https://open.spotify.com/track/6IiLR5bt3cFOs8YaXe9PFn) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [Have You Ever?](https://open.spotify.com/album/6Rg3K2le7t0pj6u73CYQsX) | 1:59 | 2023-05-18 | 2023-11-17 |
 | [HBK](https://open.spotify.com/track/5BQrvs3AkPzy9bp1Jv8dDr) | [KIDLOCK](https://open.spotify.com/artist/3l9ICymWAwODq7mFWBut8s) | [HBK](https://open.spotify.com/album/5a7pUSMFNhMWGB4cDGTduT) | 2:12 | 2022-03-21 | 2022-06-17 |
+| [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Faith Sosene](https://open.spotify.com/artist/3EFpIlrlc0rNmqLF1ICSS6) | [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/album/0iieeCBSkaoVPmZGhBs6Cr) | 3:04 | 2024-10-10 |  |
 | [Heart](https://open.spotify.com/track/7gdr816Z4x5Y46YZpkBXcg) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Heart](https://open.spotify.com/album/7I6cGOjRZrVlwXz0gO6tMV) | 3:03 | 2024-05-23 | 2024-08-16 |
 | [HEARTBREAK](https://open.spotify.com/track/1gP57mFKlNNMT1DhwlN8mF) | [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [HEARTBREAK](https://open.spotify.com/album/7l6IMweJV2ZNDkfUFRfYzr) | 2:22 | 2022-03-21 | 2022-05-11 |
 | [HEARTLESS](https://open.spotify.com/track/7hBvKINP7pM0MWBBD1eXVF) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [HEARTLESS](https://open.spotify.com/album/1DEOv4NMWgsrW0SzJ9JgFj) | 3:00 | 2022-09-30 | 2023-04-07 |

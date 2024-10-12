@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Micha\u0142 Anio\u0142",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: M\u0142ody Leszcz, Molehead, PAWLACZ",
   "name": "alt rap",
   "tracks": [
     {
@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 250862,
       "name": "A co, je\u015bli si\u0119 uda? - 1989 Musical",
       "url": "https://open.spotify.com/track/24t6BlxeSZQutmFglHchu9"
@@ -454,6 +454,24 @@
       "duration_ms": 192405,
       "name": "Beef",
       "url": "https://open.spotify.com/track/1m7sJPWtQHLOEJ6aGk9iLg"
+    },
+    {
+      "album": {
+        "name": "Bejbi Blue",
+        "url": "https://open.spotify.com/album/1QXKuZZBvFRpQBfJxOgWSI"
+      },
+      "artists": [
+        {
+          "name": "tokan",
+          "url": "https://open.spotify.com/artist/4jouQFtQtmko0lD0F04aEO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193710,
+      "name": "Bejbi Blue",
+      "url": "https://open.spotify.com/track/5s8AqevzP83wWa5gWb54KS"
     },
     {
       "album": {
@@ -1000,6 +1018,32 @@
       "duration_ms": 226129,
       "name": "Danuta odbiera Nobla - 1989 Musical",
       "url": "https://open.spotify.com/track/0YxsNbQcemKZ5SKthdOvlP"
+    },
+    {
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/2YDTKA6uIOwMc4Wpq8cBll"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "Dj Kr\u00f3tki",
+          "url": "https://open.spotify.com/artist/19XQrb7SzbWzj7rWvYtiM9"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Deep Wro",
+      "url": "https://open.spotify.com/track/2nGBShY9xdGvwhiC17XieR"
     },
     {
       "album": {
@@ -2198,7 +2242,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169795,
       "name": "MANDALA SPLASH",
       "url": "https://open.spotify.com/track/4j5CpInC9VC6BKbX0RSIJm"
@@ -2316,6 +2360,36 @@
       "duration_ms": 167832,
       "name": "MUZYKA KREOLSKA",
       "url": "https://open.spotify.com/track/2skCg0SplZmCtanggIRdn1"
+    },
+    {
+      "album": {
+        "name": "NA STARCIE",
+        "url": "https://open.spotify.com/album/3BHfZ0r1JIPelgMad4mxE3"
+      },
+      "artists": [
+        {
+          "name": "Fela",
+          "url": "https://open.spotify.com/artist/0SxknZtWROGfl16PlYgGUv"
+        },
+        {
+          "name": "eryq",
+          "url": "https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6"
+        },
+        {
+          "name": "Adash",
+          "url": "https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk"
+        },
+        {
+          "name": "Eddie Block",
+          "url": "https://open.spotify.com/artist/5WEdZfOfI9kQJnwJGvLRJf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150911,
+      "name": "NA STARCIE",
+      "url": "https://open.spotify.com/track/42nOlTNEb7QkbuxyGqkMXR"
     },
     {
       "album": {
@@ -2846,7 +2920,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
@@ -2916,7 +2990,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 143138,
       "name": "przepraszam?",
       "url": "https://open.spotify.com/track/3OdimdeGxC0VqnIMKftUZW"
@@ -3030,7 +3104,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 178820,
       "name": "p\u0119tla",
       "url": "https://open.spotify.com/track/4kE2ihrSAn0dffBXQeG91x"
@@ -3254,6 +3328,32 @@
       "duration_ms": 196883,
       "name": "SETRA",
       "url": "https://open.spotify.com/track/6CKn1HQKNlxBAXc02KIwCK"
+    },
+    {
+      "album": {
+        "name": "Sex Alkohol i Dragi",
+        "url": "https://open.spotify.com/album/6qfpCqj3cqcu2hzGUBtHy8"
+      },
+      "artists": [
+        {
+          "name": "Mlody Leszcz",
+          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        },
+        {
+          "name": "PAWLACZ",
+          "url": "https://open.spotify.com/artist/2Pv5biZURORlt2m5tuouqm"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Sex Alkohol i Dragi",
+      "url": "https://open.spotify.com/track/0gO8hkbHxnM0UkC87pn9wW"
     },
     {
       "album": {
@@ -3767,6 +3867,32 @@
     },
     {
       "album": {
+        "name": "TREBUSZ",
+        "url": "https://open.spotify.com/album/3AEVJWwT4m2TIzg6MjcsX4"
+      },
+      "artists": [
+        {
+          "name": "Adi Nowak",
+          "url": "https://open.spotify.com/artist/2TyQ1OI79kcdS0CLsNb3Ax"
+        },
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        },
+        {
+          "name": "ANTISOCIAL",
+          "url": "https://open.spotify.com/artist/4kAUqgRV05jg5vkVugGar1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "TREBUSZ: RZUCAM KAMIENIE",
+      "url": "https://open.spotify.com/track/7802miaqccUHlUH659znra"
+    },
+    {
+      "album": {
         "name": "Trzymaj mnie",
         "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
       },
@@ -4049,6 +4175,46 @@
     },
     {
       "album": {
+        "name": "WOLNY",
+        "url": "https://open.spotify.com/album/5X7XOWr3sm6xu45gS50Ook"
+      },
+      "artists": [
+        {
+          "name": "Echo37",
+          "url": "https://open.spotify.com/artist/4qifB4zeruOMkx5FaiNyge"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "WOLNY",
+      "url": "https://open.spotify.com/track/0hQYN5t7UyCnuG5IQyhsnf"
+    },
+    {
+      "album": {
+        "name": "Wracam do tamtych chwil",
+        "url": "https://open.spotify.com/album/5RGIhDqVVgiI08Vwfljd4g"
+      },
+      "artists": [
+        {
+          "name": "Danteek",
+          "url": "https://open.spotify.com/artist/39RMTpjzDeytSP6Jk2DiLO"
+        },
+        {
+          "name": "Antonina Witkosz",
+          "url": "https://open.spotify.com/artist/1CLSVzk0jGqybTFJbp1Ncl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203317,
+      "name": "Wracam do tamtych chwil",
+      "url": "https://open.spotify.com/track/5eA2qsAi3ncynfOHeXmP8t"
+    },
+    {
+      "album": {
         "name": "WROOKLYN ZOO",
         "url": "https://open.spotify.com/album/7D8cPAT1GILo8dxsBfyQA6"
       },
@@ -4108,7 +4274,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 135861,
       "name": "Yamaguchi-gumi",
       "url": "https://open.spotify.com/track/4ThkflnjJZWIknyR3NymIB"
@@ -4148,7 +4314,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 234000,
       "name": "Za P\u00f3\u017ano",
       "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
@@ -4266,7 +4432,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 228655,
       "name": "ZG\u0141OWY",
       "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"
@@ -4310,6 +4476,92 @@
       "duration_ms": 158890,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
+    },
+    {
+      "album": {
+        "name": "1989 Musical",
+        "url": "https://open.spotify.com/album/2LeO9OHltJXAdXOzdyU4Pv"
+      },
+      "artists": [
+        {
+          "name": "Andrzej Mikosz",
+          "url": "https://open.spotify.com/artist/0Ehxin9eFcevTP7lRWeU2t"
+        },
+        {
+          "name": "Teatr im. Juliusza S\u0142owackiego w Krakowie",
+          "url": "https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL"
+        },
+        {
+          "name": "GDA\u0143SKI TEATR SZEKSPIROWSKI",
+          "url": "https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs"
+        },
+        {
+          "name": "Wojciech D\u0142ugosz",
+          "url": "https://open.spotify.com/artist/1t4AzJ03jdHEHRIQeVqpyS"
+        },
+        {
+          "name": "Piotr Bolanowski",
+          "url": "https://open.spotify.com/artist/5K2fZemTMvyelE92DwArU1"
+        },
+        {
+          "name": "Jasiek Kusek",
+          "url": "https://open.spotify.com/artist/72TnPuYg0MMerlE92YrdwI"
+        },
+        {
+          "name": "Rafa\u0142 Szumera",
+          "url": "https://open.spotify.com/artist/6I7cLL01VSl2E3N0J7GZtv"
+        },
+        {
+          "name": "Mateusz Bieryt",
+          "url": "https://open.spotify.com/artist/1RQvOfLpruDECfXPzqtfqV"
+        },
+        {
+          "name": "Dominika Feiglewicz",
+          "url": "https://open.spotify.com/artist/40mGYhEFTxm3olBX1B4XYF"
+        },
+        {
+          "name": "Antek Sztaba",
+          "url": "https://open.spotify.com/artist/0m3bSH2jVBtgRrgkJ5kogp"
+        },
+        {
+          "name": "Dominik Stroka",
+          "url": "https://open.spotify.com/artist/6FUrCcqGq6Ys4TgCt59Ol4"
+        },
+        {
+          "name": "Karolina Kazo\u0144",
+          "url": "https://open.spotify.com/artist/33Gv8s5vK3htvh2sB4obNV"
+        },
+        {
+          "name": "Ma\u0142gorzata Majerska",
+          "url": "https://open.spotify.com/artist/6j30zX20jYXzRHQH6Zjs2Z"
+        },
+        {
+          "name": "Julia Latosi\u0144ska",
+          "url": "https://open.spotify.com/artist/1DpZ4YhliwJ3XvYGiJskE8"
+        },
+        {
+          "name": "Magdalena Osinska",
+          "url": "https://open.spotify.com/artist/3uE8y0tUWr6A4FXXzlpltL"
+        },
+        {
+          "name": "Daniel Malchar",
+          "url": "https://open.spotify.com/artist/5XHGuIgFOlU7sIYZdleWhw"
+        },
+        {
+          "name": "Karolina Kami\u0144ska",
+          "url": "https://open.spotify.com/artist/3Ghxit31rYFjeK3R4xu4y5"
+        },
+        {
+          "name": "Wojciech Dolatowski",
+          "url": "https://open.spotify.com/artist/15ZXfStRciqpNjDRCvx0SH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250522,
+      "name": "Zr\u00f3bmy dym",
+      "url": "https://open.spotify.com/track/1NPxsoPVRggHcxXUqLovbz"
     },
     {
       "album": {

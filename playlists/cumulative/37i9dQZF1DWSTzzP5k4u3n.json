@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Indica.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Irina.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 140487,
       "name": "1998",
       "url": "https://open.spotify.com/track/2BB6iQg6uxPCaNrTkMz777"
+    },
+    {
+      "album": {
+        "name": "Kuun pime\u00e4 puoli III",
+        "url": "https://open.spotify.com/album/3fS6IsQPs7XDTLJuYYSi5J"
+      },
+      "artists": [
+        {
+          "name": "Kuun Pime\u00e4 Puoli",
+          "url": "https://open.spotify.com/artist/4OGcEkcDOIphH3A5xR8XgP"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/2MzbBswcDIRG0qSWzcVqDQ"
     },
     {
       "album": {
@@ -279,6 +297,28 @@
     },
     {
       "album": {
+        "name": "Betauros",
+        "url": "https://open.spotify.com/album/4Kp4KN2FNtCCBQZTB8X5Q1"
+      },
+      "artists": [
+        {
+          "name": "Grillijono K.O.",
+          "url": "https://open.spotify.com/artist/08QXOSGFgaJw93nk0a2Dk5"
+        },
+        {
+          "name": "Vesku Jokinen",
+          "url": "https://open.spotify.com/artist/58tsj94tcDnxNnMhHkIc2E"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "Betauros",
+      "url": "https://open.spotify.com/track/4INn4558yOHfnkYOtVFWYZ"
+    },
+    {
+      "album": {
         "name": "Big Sleep",
         "url": "https://open.spotify.com/album/7obZlqjwttYWmU5bpNN5L0"
       },
@@ -420,6 +460,24 @@
       "duration_ms": 246729,
       "name": "Elossa Viel\u00e4",
       "url": "https://open.spotify.com/track/656tNmVsfmM9TcLms3Msxn"
+    },
+    {
+      "album": {
+        "name": "El\u00e4m\u00e4\u00e4 suurempaa",
+        "url": "https://open.spotify.com/album/52aDs6f80zAWiuegRLhlXm"
+      },
+      "artists": [
+        {
+          "name": "Jyri Antero",
+          "url": "https://open.spotify.com/artist/0f5xWZxZGS19Riq8XAU1Kq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219717,
+      "name": "El\u00e4m\u00e4\u00e4 suurempaa",
+      "url": "https://open.spotify.com/track/216Peu655FignUFbqU9DEr"
     },
     {
       "album": {
@@ -1213,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Kun m\u00e4 hymysi n\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/0TfQfMBwTaSUSlS1REwKtJ"
+      },
+      "artists": [
+        {
+          "name": "Esa Eloranta",
+          "url": "https://open.spotify.com/artist/7DebIQncqcKWGJHP0Gtiee"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237421,
+      "name": "Kun m\u00e4 hymysi n\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/1O42jwAX1GL0C7YBc9SzJe"
+    },
+    {
+      "album": {
         "name": "Kun m\u00e4 olin viis",
         "url": "https://open.spotify.com/album/7Eq5e0aiq0gHMfCUEmNA8J"
       },
@@ -1224,7 +1300,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 222630,
       "name": "Kun m\u00e4 olin viis",
       "url": "https://open.spotify.com/track/4OrPTq9dAHGdQmxTdSWiPw"
@@ -1624,7 +1700,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 176996,
       "name": "Me ollaan siskot",
       "url": "https://open.spotify.com/track/4oyeTpI7bkjkpldKOk4PU2"
@@ -2373,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Se mik\u00e4 ei tapa",
+        "url": "https://open.spotify.com/album/3jCODkHw3bxWroBVN50QXV"
+      },
+      "artists": [
+        {
+          "name": "Nina Kaitaranta",
+          "url": "https://open.spotify.com/artist/2PsdnaaKgXsNDhPYsZkPpo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210866,
+      "name": "Se mik\u00e4 ei tapa",
+      "url": "https://open.spotify.com/track/6w1vP5SziTqpvFkHzVOU8D"
+    },
+    {
+      "album": {
         "name": "SEIS!",
         "url": "https://open.spotify.com/album/3nJvI9WZBSgB6sA7lfiwa6"
       },
@@ -2424,7 +2518,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 232466,
       "name": "Sinussa on meri",
       "url": "https://open.spotify.com/track/5R1lLYpBdrOgJh8vrbincI"
@@ -2831,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Tiell\u00e4 ken vaeltaa",
+        "url": "https://open.spotify.com/album/30kkGNl52gP0sx4UONnG0j"
+      },
+      "artists": [
+        {
+          "name": "Ville \u00c4s",
+          "url": "https://open.spotify.com/artist/4iXpvfg7ki5uQZm6qkWJ7x"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300375,
+      "name": "Tiell\u00e4 ken vaeltaa",
+      "url": "https://open.spotify.com/track/11Dk5iVRfWny6jtw5g9o42"
+    },
+    {
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/6DhpuvgUOwBMXT2agYWOrY"
       },
@@ -2939,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Tyynylinna",
+        "url": "https://open.spotify.com/album/16vnEbSVInNiijnpJkXvXR"
+      },
+      "artists": [
+        {
+          "name": "KIMBE",
+          "url": "https://open.spotify.com/artist/5LIMapfAf5mgfAMoMjYeFA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Tyynylinna",
+      "url": "https://open.spotify.com/track/1SumhOhn6LHywTuyRtaCU6"
+    },
+    {
+      "album": {
         "name": "T\u00e4n\u00e4\u00e4n lupaan (Radio Edit)",
         "url": "https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg"
       },
@@ -3044,6 +3174,24 @@
       "duration_ms": 175389,
       "name": "Uus normi",
       "url": "https://open.spotify.com/track/2mQQRDkKqewjrcf6SnCiwI"
+    },
+    {
+      "album": {
+        "name": "Uusi p\u00e4iv\u00e4",
+        "url": "https://open.spotify.com/album/2AmiHzuCzZr2BpNqXaANVo"
+      },
+      "artists": [
+        {
+          "name": "Ikirouta",
+          "url": "https://open.spotify.com/artist/1WVtxnETRvbUC9ZyUbJ3Ao"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Uusi p\u00e4iv\u00e4",
+      "url": "https://open.spotify.com/track/2zwM91t2i3IUjfTwhw5xJo"
     },
     {
       "album": {

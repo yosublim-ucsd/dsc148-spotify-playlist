@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160561,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he"
+    },
+    {
+      "album": {
         "name": "Anogo",
         "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
       },
@@ -5140,7 +5162,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"

@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 534703,
+  "num_followers": 534733,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsb7VwAAAAA2jIrz+8DtzVtr0YQD6TY8",
+  "snapshot_id": "Zsb7VwAAAAAxwITGP1tTwkpCgGWamlE0",
   "tracks": [
     {
       "added_at": "2024-08-22 08:48:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Our Brand",
-        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
-      },
-      "artists": [
-        {
-          "name": "Hillbilly Hellcats",
-          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
-    },
-    {
-      "added_at": "2024-08-22 08:48:23",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "added_at": "2024-08-22 08:48:23",
+      "album": {
+        "name": "Our Brand",
+        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Hellcats",
+          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
     },
     {
       "added_at": "2024-08-22 08:48:23",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
+        "name": "Rockabilly Blues",
+        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
       },
       "artists": [
         {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 161508,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
+      "duration_ms": 200146,
+      "name": "Rockabilly Blues (Texas 1955)",
+      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
     }
   ],
   "unique_name": "Rockabilly Mania",

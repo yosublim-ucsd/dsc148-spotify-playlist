@@ -4,24 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,400 likes - 15 songs - 57 min 56 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,402 likes - 10 songs - 34 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Fooled My Heart](https://open.spotify.com/track/3ncZYcNbOgGEuUSytKSmQ6) | [Symphony Of Sweden](https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ) | [You Fooled My Heart](https://open.spotify.com/album/7Jz25jULH7iCiocKFi3Cxo) | 2:49 |
-| 2 | [Nykkjen](https://open.spotify.com/track/7hoqTcyxaQTWOFL5eU4AfH) | [Vǫluspá](https://open.spotify.com/artist/04sNuGpenIU7aYWLTycRN7) | [Nykkjen](https://open.spotify.com/album/78OGf9RNTYFy7siy8i2zVz) | 6:44 |
-| 3 | [Televangelists](https://open.spotify.com/track/1FrbgPVSA43HGfsJCZRQ8Y) | [Seafarers](https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x) | [Another State](https://open.spotify.com/album/2qtL7SrOF14q8Ouh1Cp1Zr) | 3:40 |
-| 4 | [Master P Funk](https://open.spotify.com/track/5xJrVuoPqyZQq2NH1It3XJ) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E), [Simone Yael](https://open.spotify.com/artist/0GG5nYs14zG89KmaxfEyEW) | [Master P Funk](https://open.spotify.com/album/3cJPGtVYqcjZA6X1k7FbK2) | 4:17 |
-| 5 | [Postwar](https://open.spotify.com/track/1ZgkKsjStQ0AOix6JkfkH9) | [Drew Hersch](https://open.spotify.com/artist/1j6SbiADPFKpzAcZkoX8sE) | [Postwar](https://open.spotify.com/album/1BaI9Ker6RW1ESQdEWTNwO) | 1:57 |
-| 6 | [Fancy Boy](https://open.spotify.com/track/2zIRE4NTumwJ4qO07aH4R1) | [Dikon](https://open.spotify.com/artist/7FAcmXo66NIYvVXF5rmxzs) | [Cosmo](https://open.spotify.com/album/3RWiFLpeXD7HIb2xIge1aW) | 4:46 |
-| 7 | [Midas Touch](https://open.spotify.com/track/5sm1Ib71SfdD75mDnlhWEn) | [Remi Miles](https://open.spotify.com/artist/40IOAWGkiOk059AYcr74P1) | [Midas Touch](https://open.spotify.com/album/4kKVXTYFQnDaFPfX7KmPe4) | 2:56 |
-| 8 | [Everything I'd Do \(to Get a Hold on You\)](https://open.spotify.com/track/4ULKyum7GiiCMdkoijlcDg) | [Seafarers](https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x) | [Another State](https://open.spotify.com/album/2qtL7SrOF14q8Ouh1Cp1Zr) | 5:15 |
-| 9 | [Say It Twice](https://open.spotify.com/track/7E0sR7E7yXLNbsKQl7ktqI) | [Cassidy James](https://open.spotify.com/artist/5D3uLlwyBq7m6y920twZdH) | [Say It Twice](https://open.spotify.com/album/0iLITFO1LUR2sKVFE2Kg6x) | 5:15 |
-| 10 | [Reflection](https://open.spotify.com/track/6fVgq4IoVlVSmJUvzMFGBT) | [CHIENG](https://open.spotify.com/artist/3ALBxs69XUBevO8RTVvT0J) | [Reflection](https://open.spotify.com/album/5mTa5PDd1PPv9ov8RYvcM4) | 2:40 |
-| 11 | [Halloween Night](https://open.spotify.com/track/4ubfmgAqxDwp2vBvBdqbhD) | [Gin Jupiter](https://open.spotify.com/artist/5Bf6BBBhHPIyQ5kf5FIptP) | [Halloween Night](https://open.spotify.com/album/1vwnDJKHl0sqdvMz9TRgc9) | 2:40 |
-| 12 | [Min morgon](https://open.spotify.com/track/1jR6Glgukda6qwf8s44Wqw) | [Mariann Eliasson](https://open.spotify.com/artist/2KxQfblndd923YvtIpcwpT), [Torbjörn Carlsson](https://open.spotify.com/artist/26L1gn5sPDqoSsNVemtNWK), [Stefan Blomquist](https://open.spotify.com/artist/0jEVDo37vq7HQBLOkukM3I), [Peter Söderlund](https://open.spotify.com/artist/5UGy5c6hfGKcS9v11Zi9hY) | [Då Nu Sen](https://open.spotify.com/album/7iOCHThPfNwWHbiWcPzgtO) | 3:02 |
-| 13 | [Only Dreaming](https://open.spotify.com/track/3Kva5hxuFydsc8AmGWuqL0) | [Danger Clxse](https://open.spotify.com/artist/3UgdISKKLWvUbOLLWX4bic), [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Only Dreaming](https://open.spotify.com/album/0ps6MpuRBPCmD9feRglvex) | 4:20 |
-| 14 | [Compassion](https://open.spotify.com/track/2QXxBIbLqu05sZnbCDn1R4) | [Wild Women Of Wongo](https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ), [Erika](https://open.spotify.com/artist/4zoUnBzcHHhQsZFDdveLzX) | [Compassion](https://open.spotify.com/album/5wPuw8pOtuqsBVGnrnM9pI) | 4:01 |
-| 15 | [Rock 'n' Roll Show](https://open.spotify.com/track/0S9NBLOTIugUukuJFxkJcE) | [High Road Pilots](https://open.spotify.com/artist/2szqLFKaYUuCIAJ96Hmzir) | [Rock 'n' Roll Show](https://open.spotify.com/album/5k4RcxEj3C7Ep6rFnClXBJ) | 3:28 |
+| 1 | [Terminaali vaiheessa](https://open.spotify.com/track/6VxK80FMFhSxpvh7d4bc6F) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB), [KAKKU](https://open.spotify.com/artist/2JPgBGUtlIYbnxr1PffsXD) | [Terminaali vaiheessa](https://open.spotify.com/album/4TDuY0RYjvsyhP0TS8AEO2) | 4:00 |
+| 2 | [Emma \(C'mon Look My Way\)](https://open.spotify.com/track/4cSZTb4bAnoCCeS9avaDQR) | [Pelican Club](https://open.spotify.com/artist/0SKkdsp0HFsN6wkYgXWpWe) | [Emma \(C'mon Look My Way\)](https://open.spotify.com/album/4kcCeCBIrVbEaL62IWBCm6) | 3:45 |
+| 3 | [I natt é hela stan vår](https://open.spotify.com/track/2zOZVa4cyQm1AAnO6howPc) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [I natt é hela stan vår](https://open.spotify.com/album/64aVFrR1zukSj9IUqxAmt0) | 2:35 |
+| 4 | [Boats Alight](https://open.spotify.com/track/1jwHndax61b9szZRDZFDU8) | [Paul Allen](https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft) | [Boats Alight](https://open.spotify.com/album/57dVGKGxSmWNVkikHXqK1N) | 2:04 |
+| 5 | [My Friend Jack](https://open.spotify.com/track/6Icp6lTm1gHCE74g52QS4H) | [Cassidy James](https://open.spotify.com/artist/5D3uLlwyBq7m6y920twZdH) | [My Friend Jack](https://open.spotify.com/album/26iDc5IFoEagRQQdfsP47L) | 4:28 |
+| 6 | [Äta kakan](https://open.spotify.com/track/5K9jjl9bic8VghOyJl1cUq) | [Kajsa Larsson](https://open.spotify.com/artist/0UsiAYIj7AE0jTnDrC3itV) | [Äta kakan](https://open.spotify.com/album/7mEdUkmJtD98VsHR9H0dIe) | 2:52 |
+| 7 | [Taajama](https://open.spotify.com/track/3a5Loxc5WEu0sHilZqa9g0) | [Olli Valtteri Aalle](https://open.spotify.com/artist/1TEaRybWqwVb2PvF2vYCXa) | [Echologia](https://open.spotify.com/album/7kytvnM3lozyMqmStHYGHf) | 7:23 |
+| 8 | [Interstellar Death Cult Blues](https://open.spotify.com/track/1A3KsDUkhsXoX7AuOGbXBX) | [Tropic Waste](https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv) | [Tropic Waste](https://open.spotify.com/album/4yf7m1c3IBvkr2pDefpgKl) | 2:27 |
+| 9 | [Nobody's Watching](https://open.spotify.com/track/4M0woqqRVPZBSH4zxHzsC8) | [KULA](https://open.spotify.com/artist/6tgfHy5F0ofAcG0x8Hty96) | [Nobody's Watching](https://open.spotify.com/album/45KN0Eo8YL8po9Mua4VrEd) | 3:16 |
+| 10 | [Sturehof brinner](https://open.spotify.com/track/4kDLwT5jVVYOOTKBrz08uz) | [Svenska Kulturarkivet](https://open.spotify.com/artist/1zhb35WxJJexsr3kFZYAq2) | [Sturehof brinner](https://open.spotify.com/album/3eDipKWW4LDXZcPeR5qfs1) | 1:58 |
 
-Snapshot ID: `AAAD3L7nZbPu/UcHpx99uBUkWTmBE5LO`
+Snapshot ID: `AAAD3qHpEXUPsREkrSrGa/g5R+xvMYHU`

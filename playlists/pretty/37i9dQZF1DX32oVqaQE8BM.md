@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,209 likes - 245 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,437 likes - 245 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 244 | [Mind Massage](https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mind Massage](https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a) | 2:24 |
 | 245 | [A Few Hours](https://open.spotify.com/track/20rCllouidVPzTggWjTYoS) | [Ajola Dipa](https://open.spotify.com/artist/3TIcmGpg3CkztLlSXNOlqF) | [A Few Hours](https://open.spotify.com/album/1cZBHiBjw7qvv1qeKDCcsv) | 2:18 |
 
-Snapshot ID: `Zu16owAAAABV2odAYX/+pXYvTKeenfsN`
+Snapshot ID: `Zu16owAAAABQn3Cwl+KJiGMWPgV+vVDH`

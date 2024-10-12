@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: The Kid LAROI
 
-5,979 songs - 13 day 11 hr 50 min
+5,982 songs - 13 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2230,6 +2230,7 @@
 | [Haunted World](https://open.spotify.com/track/0mhRq6ZwGkt6wJigeFHZ90) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Haunted World](https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n) | 3:02 | 2024-01-18 | 2024-01-26 |
 | [Have To Be](https://open.spotify.com/track/5ivUSW6iMeiwpwh6EyKTOy) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Have To Be](https://open.spotify.com/album/2S8rKm7Q7fkF8R2NQ9eJ86) | 2:51 | 2023-07-07 | 2023-07-14 |
 | [He Is Dead](https://open.spotify.com/track/6nMm6GpqTB0xpLrQguqTZy) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [He Is Dead](https://open.spotify.com/album/25vnxoFVLWcFYdsz9aWMsG) | 3:04 | 2024-07-18 | 2024-07-27 |
+| [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Faith Sosene](https://open.spotify.com/artist/3EFpIlrlc0rNmqLF1ICSS6) | [He Is There \(feat\. Faith Sosene\)](https://open.spotify.com/album/0iieeCBSkaoVPmZGhBs6Cr) | 3:04 | 2024-10-11 |  |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 | 2024-05-17 |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-05-16 | 2024-05-24 |
 | [He's A Lad](https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I) | [Noah Dillon](https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal) | [He's A Lad](https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ) | 3:50 | 2024-07-04 | 2024-07-12 |
@@ -4541,6 +4542,7 @@
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-21 | 2024-03-29 |
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-07 | 2023-12-15 |
 | [Shoulder To Lean On](https://open.spotify.com/track/7BZZkWE188mW3ggDcVx1ol) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Shoulder To Lean On](https://open.spotify.com/album/7Kr1EzlxuV77x0d8jkLaRN) | 2:50 | 2023-07-13 | 2023-07-21 |
+| [Shouldn’t Leave It Like That](https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Last Of The Lonely Gods](https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f) | 3:29 | 2024-10-11 |  |
 | [Show Me](https://open.spotify.com/track/1EJv8ZXlfjFQdnCNeAucAe) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Show Me](https://open.spotify.com/album/2f52p1EhQFff9RlBZ4cZxy) | 3:01 | 2024-09-19 | 2024-09-27 |
 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 | 2024-01-18 | 2024-01-26 |
 | [Show Off](https://open.spotify.com/track/5yGWF4wMHuJw8CT19JeRI3) | [Zane Rosé](https://open.spotify.com/artist/5i4ZSzBW2SzQhcOFbKO3In) | [Up Till Late](https://open.spotify.com/album/0FUgGUMBWE1Q5bZkUgJZYm) | 2:12 | 2024-08-01 | 2024-08-09 |
@@ -5719,6 +5721,7 @@
 | [What's That You Say](https://open.spotify.com/track/5lIQLEIy4JzqUdapFp4Th2) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [What's That You Say](https://open.spotify.com/album/4Poi5CAXvMnahNDudjzSJQ) | 3:43 | 2024-03-28 | 2024-04-05 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-09 | 2023-11-17 |
 | [What's The Time Where You Are?](https://open.spotify.com/track/0sYM4OmgrRYaHq6DV7obq1) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:23 | 2023-10-12 | 2023-10-20 |
+| [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-11 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 | 2024-01-26 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-15 | 2024-02-23 |
 | [What’s going on?](https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF), [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [What’s going on?](https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6) | 3:43 | 2023-11-16 | 2023-11-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Apex Village, Laime  &  Psycho YP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 58 | [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 |
 | 59 | [JOHNBULL](https://open.spotify.com/track/3nJWni9IsAtHca7x9ewODS) | [YungTee](https://open.spotify.com/artist/0XKBGKz5XzRuQZJCzFqIdF) | [JOHNBULL](https://open.spotify.com/album/200TK74gk1yUs0KdLAetLT) | 2:03 |
 
-Snapshot ID: `ZwUKMwAAAADw41kDtDYxY2t0S0028kvW`
+Snapshot ID: `ZwUKMwAAAAAqZ5UylXXV3caqVwo1G69J`

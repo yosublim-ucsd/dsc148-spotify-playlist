@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,118 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Abena](https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [757](https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4) | 2:22 |
 | 80 | [Chemistry](https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Chemistry](https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag) | 3:41 |
 
-Snapshot ID: `Zv+DpgAAAACxteSKJ6YAZJfAnS3+DtYc`
+Snapshot ID: `Zv+DpgAAAAB90NelcUmW1MocH0Idr/eW`

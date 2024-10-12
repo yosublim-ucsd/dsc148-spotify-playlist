@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170879,
       "name": "24/7",
       "url": "https://open.spotify.com/track/16gX5HVzAuF4sXqFewpY69"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 135770,
       "name": "Bellaca y Bandida",
       "url": "https://open.spotify.com/track/6eAp304c3UoxY2qnQQtHmd"
@@ -4919,6 +4919,32 @@
     },
     {
       "album": {
+        "name": "Gupi",
+        "url": "https://open.spotify.com/album/3yRq74uxKgfgA2AHITbU1T"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Dj Chekesito",
+          "url": "https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Gupi",
+      "url": "https://open.spotify.com/track/7b4FKTowuVfhatZ0hDsh01"
+    },
+    {
+      "album": {
         "name": "ICE BLUE",
         "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
@@ -6401,6 +6427,32 @@
     },
     {
       "album": {
+        "name": "Las Retro Charol",
+        "url": "https://open.spotify.com/album/3xvrNBjuR0SWjq9STiKoZi"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        },
+        {
+          "name": "El Yanniick",
+          "url": "https://open.spotify.com/artist/0OrKIc0pASoM6zQl4qkXZQ"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145471,
+      "name": "Las Retro Charol",
+      "url": "https://open.spotify.com/track/4foQS9VZM26UsikHsaq94m"
+    },
+    {
+      "album": {
         "name": "LATIGAZO",
         "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
       },
@@ -7302,6 +7354,28 @@
       "duration_ms": 178581,
       "name": "Mamita Rica",
       "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
+    },
+    {
+      "album": {
+        "name": "MANGUER\u00d3N",
+        "url": "https://open.spotify.com/album/6VVx1YRQWhNBaHWlVJM4Cu"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Alexis Najera",
+          "url": "https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "MANGUER\u00d3N",
+      "url": "https://open.spotify.com/track/0GDTCu8mts6HXd52gYijFp"
     },
     {
       "album": {
@@ -9684,7 +9758,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 150900,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/0qI0J50GolEBw5ltlROG1s"
@@ -9886,7 +9960,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 158400,
       "name": "Poliamoroso",
       "url": "https://open.spotify.com/track/16BnEVem95wJmrflq2oYh1"
@@ -10326,6 +10400,28 @@
       "duration_ms": 196800,
       "name": "Putifina",
       "url": "https://open.spotify.com/track/3gUp6IANwYGseAZZIPbs3X"
+    },
+    {
+      "album": {
+        "name": "Putivuelta",
+        "url": "https://open.spotify.com/album/2Ab2ZEe5H9H9AtijOzekUA"
+      },
+      "artists": [
+        {
+          "name": "Momor\u00e1n",
+          "url": "https://open.spotify.com/artist/3spQy19QaH019mVXKyPWUT"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165844,
+      "name": "Putivuelta",
+      "url": "https://open.spotify.com/track/6APdHUi2ZbZWoIGEFD0b0C"
     },
     {
       "album": {
@@ -11062,6 +11158,28 @@
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "album": {
+        "name": "SAN TURRONA REMIX",
+        "url": "https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182155,
+      "name": "SAN TURRONA REMIX",
+      "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
     },
     {
       "album": {
@@ -12564,7 +12682,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 152352,
       "name": "Tirando Flow Sesh #15",
       "url": "https://open.spotify.com/track/4cJ1nWt7i4Wo0bHyFbHTrJ"
@@ -14004,7 +14122,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 152021,
       "name": "YO KIERO",
       "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
@@ -14174,6 +14292,28 @@
       "duration_ms": 169056,
       "name": "\u00d1ero Session 13",
       "url": "https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 14",
+        "url": "https://open.spotify.com/album/6vQdcJhjawIJHuIiKpgEP8"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Elniko Arias",
+          "url": "https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161811,
+      "name": "\u00d1ero Session 14",
+      "url": "https://open.spotify.com/track/5uSmW3S5zdibzfXPQlJ4Vo"
     },
     {
       "album": {

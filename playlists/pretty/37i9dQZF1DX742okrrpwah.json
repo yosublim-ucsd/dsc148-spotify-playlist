@@ -1,12 +1,12 @@
 {
   "description": "Charli xcx et Ariana Grande au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 352285,
+  "num_followers": 352344,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAABVPaH6B+zrApp2VxnG12+a",
+  "snapshot_id": "ZwhOYAAAAABWifh/2iA/2Cvhm9GQzFRj",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -354,6 +354,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,
@@ -1103,6 +1107,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/4v0ri08RAZlo929pXk7IYO"
       },
@@ -1314,10 +1338,6 @@
         {
           "name": "Raissa",
           "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         },
         {
           "name": "Rahim Redcar",

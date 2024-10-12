@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,519 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,533 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 |
 | 75 | [Gangulu](https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7) | [Swaraag Keerthan](https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL), [Maanas Nagulapalli](https://open.spotify.com/artist/3Z1VqKNAJK5rGo7W3KLjug) | [Gangulu](https://open.spotify.com/album/2hHcr0nl2jAghYNbqqn6cg) | 3:06 |
 
-Snapshot ID: `ZwfLuwAAAAAmFTJxaR+4XihOcLhEOI/X`
+Snapshot ID: `ZwfLuwAAAAB99qbpNf5iDgKScuG76zP4`

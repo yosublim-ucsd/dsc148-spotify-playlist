@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月9日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,335 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,476 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [好きな人がいること](https://open.spotify.com/track/15HDH9up3Imdm8KtsGv9XD) | [JY](https://open.spotify.com/artist/5vO3b6n7tKXv7S9JWmeniF) | [Many Faces \-多面性\-](https://open.spotify.com/album/5AHNRu1ibpXQAnONhcpRlB) | 4:32 |
 | 50 | [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 |
 
-Snapshot ID: `ZwiA5wAAAADGFNHNbYXmQ2Zz1+c/PO1L`
+Snapshot ID: `ZwiA5wAAAADfJ1oDPd+kHtEsD5LMS5+l`

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,254 songs - 2 day 16 hr 33 min
+1,257 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,12 @@
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29\* | 2021-02-06 |
 | [april](https://open.spotify.com/track/4fmVUMLYxJe5GJpQcAYjIn) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 1:43 | 2023-02-16 | 2023-03-18 |
 | [Architect](https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Architect](https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k) | 3:04 | 2022-08-23 | 2022-09-17 |
+| [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 |  |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-02-19 |
 | [ARIZONA](https://open.spotify.com/track/2aA86ZJwbNDQYnMLCLC8kW) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [ARIZONA](https://open.spotify.com/album/13uEXPLANR6eShZMvkxC6W) | 3:35 | 2020-10-29\* | 2021-01-21 |
 | [Arthur](https://open.spotify.com/track/1EdTbKWP1qUfrVWpEgUBCv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Arthur](https://open.spotify.com/album/21m9iSX3X6JeCJpY7l1kXr) | 3:14 | 2021-02-13 | 2021-02-27 |
 | [As a Child](https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [As a Child](https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb) | 3:10 | 2021-03-20 | 2021-04-10 |
+| [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 | 2024-10-11 |  |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-11-20 |
 | [Aunt Acid](https://open.spotify.com/track/08xW1v2sfnoZsgewow3hUU) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Blue Book](https://open.spotify.com/album/1hMBEBv58MN2cPQ4wmToiO) | 3:15 | 2021-09-25 | 2021-10-30 |
 | [Average Joe](https://open.spotify.com/track/7HKrIgAJKM57tIg19iLnUC) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Average Joe](https://open.spotify.com/album/0AyCnlXB1BMNOovGDhIzlC) | 3:17 | 2020-10-29\* | 2021-02-20 |
@@ -145,7 +147,7 @@
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 | 2022-12-02 | 2024-04-19 |
 | [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 | 2023-11-10 | 2024-06-15 |
-| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 |  |
+| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 | 2024-10-12 |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
 | [Broken Lips](https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Broken Lips](https://open.spotify.com/album/6qDqkwfYuiG4wSOP1oXM4c) | 4:42 | 2022-09-09 | 2022-10-29 |
 | [Bruise](https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:59 | 2024-01-26 | 2024-04-19 |
@@ -534,7 +536,7 @@
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-04-29 |
 | [I Eat Boys](https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Eat Boys](https://open.spotify.com/album/7pVckQv8uworjO5MOXuBUp) | 2:42 | 2021-04-03 | 2021-05-08 |
 | [I Feel Like Shit](https://open.spotify.com/track/1pqdJX0O81b31BSuaXdCO6) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Mad World](https://open.spotify.com/album/1MqtK6ggc4XnWH7y7XvUjD) | 2:20 | 2020-10-29\* | 2020-11-03 |
-| [I Feel Loss](https://open.spotify.com/track/3qSZmP5F7OJKONpw2VCelQ) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/2XfoOQ78LcSyh7PWu0yoZQ) | 2:42 | 2023-04-14 |  |
+| [I Feel Loss](https://open.spotify.com/track/3qSZmP5F7OJKONpw2VCelQ) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/2XfoOQ78LcSyh7PWu0yoZQ) | 2:42 | 2023-04-14 | 2024-10-12 |
 | [I Fell in Love Again](https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [I Fell in Love Again](https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0) | 3:38 | 2022-01-21 | 2022-02-19 |
 | [I Gotta Know](https://open.spotify.com/track/2m6DtG2YfiqheGCCcWGT5K) | [Sea of Lettuce](https://open.spotify.com/artist/1uPcEitVTkNP5QpUtTbxqq) | [I Gotta Know](https://open.spotify.com/album/09XIOO6jNTToBetpZ6smrs) | 3:15 | 2024-03-01 |  |
 | [I Guess I Miss You](https://open.spotify.com/track/1986Q6coogLr5s4ekyqgNZ) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [I Guess I Miss You](https://open.spotify.com/album/0jj0Z3KGgPSg3jhzlmrf5s) | 3:17 | 2020-11-14 | 2021-02-13 |
@@ -642,7 +644,7 @@
 | [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 | 2024-05-31 |  |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-07 | 2021-09-11 |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-26 | 2021-05-29 |
-| [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 | 2023-03-31 |  |
+| [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 | 2023-03-31 | 2024-10-12 |
 | [Last Time](https://open.spotify.com/track/7lrbSHt44BpSCOvy4oODf9) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Last Time](https://open.spotify.com/album/6H7FpjXzpiwxmH2u6M4uJ0) | 2:08 | 2021-05-22 | 2021-08-28 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 | 2023-04-15 |
 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 | 2022-05-06 | 2023-08-19 |
@@ -817,6 +819,7 @@
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-07-31 | 2021-08-14 |
 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 | 2022-08-05 | 2023-02-14 |
 | [Panic Attack](https://open.spotify.com/track/5aXqav0oqptwqmhdRrH5e8) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Panic Attack](https://open.spotify.com/album/72aADhEzG3mFn55ASNRahw) | 3:14 | 2022-02-04 | 2022-07-30 |
+| [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-11 |  |
 | [Paper Hero](https://open.spotify.com/track/7vtMYNyyVfBfYZ2ppDncmk) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [Paper Hero](https://open.spotify.com/album/2mfolriJcum79EdIydGqM3) | 2:37 | 2020-10-29\* | 2020-11-04 |
 | [paranoia](https://open.spotify.com/track/11TXeRevqYzPNw2i2qsvzT) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Motel 6...paranoia](https://open.spotify.com/album/6g6IufYpFh84awZjdjRYql) | 3:15 | 2020-11-03 | 2020-12-07 |
 | [paranoia party](https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/5kmn5lkE9iXZTcObGqtWam) | 3:05 | 2021-06-05 | 2021-07-10 |

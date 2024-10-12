@@ -4,12 +4,12 @@
 
 > Các anh Long của làng hip\-hop: Emcee L, WEAN, Rtee, Low G
 
-230 songs - 13 hr 33 min
+231 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Tối"](https://open.spotify.com/track/0rIrFq7cRTG1q8ga01cNmx) | [GoAllDay](https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg), [Dkayz](https://open.spotify.com/artist/3QBPcz2xseythnRtmXRN5G), [Brian](https://open.spotify.com/artist/0nhYBGxxGTXrYIJK93X3LZ) | ["Tối"](https://open.spotify.com/album/0s2Ov5HXGFTgR0Lc61Jvvu) | 3:03 | 2024-07-11 | 2024-07-27 |
-| [1\-800\-LOVE](https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [1\-800\-LOVE](https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC) | 4:25 | 2024-10-03 |  |
+| [1\-800\-LOVE](https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [1\-800\-LOVE](https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC) | 4:25 | 2024-10-03 | 2024-10-12 |
 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 | 2023-10-19 | 2024-10-10 |
 | [12345 \(feat\. JGKiD\)](https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW) | [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD) | [12345 \(feat\. JGKiD\)](https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb) | 3:35 | 2023-12-08 | 2024-02-12 |
 | [2014](https://open.spotify.com/track/5juq95pMEYdSzCXKYR5J69) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [2014](https://open.spotify.com/album/0yQFVTaw2VtsxsudX9JmFr) | 3:34 | 2024-05-23 | 2024-06-04 |
@@ -204,6 +204,7 @@
 | [Tiếng ca tiên cá \(feat\. Mèo & Chú 13\)](https://open.spotify.com/track/6EPyZNiMQsf8sdF9V0kYYD) | [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D), [Mèo](https://open.spotify.com/artist/0Fz5B6mVnTq7NrBwe617qF), [Chú 13](https://open.spotify.com/artist/3wFTLrkeE4xAnUwalToYV9) | [Sao Đủ Để Bao Phủ](https://open.spotify.com/album/0UxBR0MgNbCHSVofOEPuB0) | 4:36 | 2024-05-23 | 2024-06-04 |
 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 | 2023-11-26 |  |
 | [Trên Tình Bạn Dưới Tình Yêu \(with 16 Typh\)](https://open.spotify.com/track/4nsNzuB6sGMr5MHaIJaW5k) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [Trên Tình Bạn Dưới Tình Yêu \(with 16 Typh\)](https://open.spotify.com/album/5DWWc1XSAunGqH2R3lOKFk) | 3:29 | 2023-10-19 | 2023-11-16 |
+| [Trí Trá](https://open.spotify.com/track/2CjaE3LZMTi38jK9whOcUK) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [TRÁCSTAR](https://open.spotify.com/album/6fJZeGzS6omKzAKIQDC9MC) | 3:54 | 2024-10-03 |  |
 | [Trăng Hoa Mây Mưa](https://open.spotify.com/track/2BDE7KducbOuOPY4tlERyJ) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [Trăng Hoa Mây Mưa](https://open.spotify.com/album/6ru2eI8JeIf0wMh0xuXwOq) | 3:13 | 2024-01-23 | 2024-06-13 |
 | [Trầu Văn Trap](https://open.spotify.com/track/5pJ7GLhX97h4gs2yeio5yi) | [Mikelodic](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Trầu Văn Trap](https://open.spotify.com/album/742bcUqN0dUZEwwB9DO9sT) | 3:08 | 2023-10-26 | 2023-10-31 |
 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 | 2023-10-19 | 2024-04-19 |

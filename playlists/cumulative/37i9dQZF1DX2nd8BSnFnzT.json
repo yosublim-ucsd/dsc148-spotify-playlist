@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201712,
       "name": "Nada de n\u00f3s dois",
       "url": "https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9"
@@ -6010,6 +6010,28 @@
       "duration_ms": 208277,
       "name": "N\u00f3ias Normais",
       "url": "https://open.spotify.com/track/152RBkawH7f1tYkMaHZ5Ac"
+    },
+    {
+      "album": {
+        "name": "O Amor e Seus Desvios",
+        "url": "https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY"
+        },
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234702,
+      "name": "O Amor e Seus Desvios",
+      "url": "https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt"
     },
     {
       "album": {

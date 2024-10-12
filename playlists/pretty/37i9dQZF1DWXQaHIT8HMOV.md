@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Pallaso
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,416 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,420 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [BAJIGABANA](https://open.spotify.com/track/09rfAAgMmjNsdiqKttqq9O) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3) | [BAJIGABANA](https://open.spotify.com/album/7pacIY4dgghqI8nxy0TOYd) | 2:33 |
 | 60 | [Co\-Driver](https://open.spotify.com/track/0DqGxOwrd4D3UzMqkiN0pe) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Co\-Driver](https://open.spotify.com/album/42Zut1b44a5bVEZfmAvVHo) | 3:13 |
 
-Snapshot ID: `ZwhqRAAAAAAE5XFWse5BlYHU8mPpSULV`
+Snapshot ID: `ZwhqRAAAAADww6cdPMX5N2fN0gYpudIr`

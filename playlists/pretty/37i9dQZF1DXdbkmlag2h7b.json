@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 638877,
+  "num_followers": 638964,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuw8ewAAAAD6cffzMaVJjyn/XnQfhwNf",
+  "snapshot_id": "Zuw8ewAAAAA731NbtGGxgtn48iP4PMyR",
   "tracks": [
     {
       "added_at": "2024-09-19 15:00:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Jeevan",
         "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 150066,
       "name": "Jeevan",
       "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Quiet Motions",
-        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Quiet Motions",
-      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/62lJZHPyChbfdnZmaHi0jU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 142777,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/5PnkmU4jieDZwUyES85V6X"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
-      },
-      "artists": [
-        {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 192000,
       "name": "Deep Thoughts",
       "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Kadunud Taevasse",
-        "url": "https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA"
-      },
-      "artists": [
-        {
-          "name": "Kikolu",
-          "url": "https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Kadunud Taevasse",
-      "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 166500,
       "name": "Morgong\u00e5va",
       "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Kadunud Taevasse",
+        "url": "https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA"
+      },
+      "artists": [
+        {
+          "name": "Kikolu",
+          "url": "https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Kadunud Taevasse",
+      "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "String Of Light",
-        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
-      },
-      "artists": [
-        {
-          "name": "Blissful Dreams",
-          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Serum",
-        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
+        "name": "String Of Light",
+        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
       "artists": [
         {
-          "name": "Cieri",
-          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+          "name": "Blissful Dreams",
+          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Serum",
-      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
+      "duration_ms": 169411,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -791,6 +775,22 @@
       "duration_ms": 190000,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Serum",
+        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
+      },
+      "artists": [
+        {
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Serum",
+      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
-      },
-      "artists": [
-        {
-          "name": "Santiago Penitente",
-          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Evanescenza",
         "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186601,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
+      },
+      "artists": [
+        {
+          "name": "Santiago Penitente",
+          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Whispers of the forest",
         "url": "https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "The Shed",
-        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Miracone",
-          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
-        }
-      ],
-      "duration_ms": 150750,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Gotham",
         "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "The Shed",
+        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Miracone",
+          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+        }
+      ],
+      "duration_ms": 150750,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Friends for Life",
-        "url": "https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0"
-      },
-      "artists": [
-        {
-          "name": "Les Cieu",
-          "url": "https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB"
-        }
-      ],
-      "duration_ms": 136326,
-      "name": "Friends for Life",
-      "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Hope And Glory",
         "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 204870,
       "name": "Hope And Glory",
       "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Friends for Life",
+        "url": "https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0"
+      },
+      "artists": [
+        {
+          "name": "Les Cieu",
+          "url": "https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB"
+        }
+      ],
+      "duration_ms": 136326,
+      "name": "Friends for Life",
+      "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
     },
     {
       "added_at": "2024-09-19 15:00:11",

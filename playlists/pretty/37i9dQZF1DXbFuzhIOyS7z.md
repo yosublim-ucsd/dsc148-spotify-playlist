@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,680 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,677 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [Countdown \(feat\. TAKUYA∞\)](https://open.spotify.com/track/0ejkbQ3Q6JZYwSShWjJ3mV) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi), [TAKUYA∞](https://open.spotify.com/artist/21vC8LYvlwwFi4oITgNrVc) | [人生賛歌](https://open.spotify.com/album/42R6fQGHBKQBaf2ip7l5Xt) | 3:40 |
 | 40 | [Jewel](https://open.spotify.com/track/2rSEqTiael70xKZGecoej6) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Jewel](https://open.spotify.com/album/0cqOF6hV5WogMlOopS0k62) | 4:31 |
 
-Snapshot ID: `ZwauQQAAAAB9gA7d54HSVXrq6qT8UKCq`
+Snapshot ID: `ZwauQQAAAACfuRfKRdA5mnca4TUTpGdS`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW?si=zzLUoLWXTQ-1K4bkD6aCVQ\">Leomile</a>",
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN?si=8wRD_qXXT5WK9Gm5L5JXTA\">Mpho Sebina</a>",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 159708,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1UUuxm4IdF4eKrKnWz1A8E"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 103721,
       "name": "Brakence Freestyle",
       "url": "https://open.spotify.com/track/1TziDdG6XDfPyv2B7L2Q8d"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170276,
       "name": "Buya Embo",
       "url": "https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf"
@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Just My Luck/Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "album": {
         "name": "Kele Kele - Spotify Singles",
         "url": "https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c"
       },
@@ -1548,6 +1566,28 @@
       "duration_ms": 170482,
       "name": "LUV HRTS",
       "url": "https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6"
+    },
+    {
+      "album": {
+        "name": "Alkebulan",
+        "url": "https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv"
+      },
+      "artists": [
+        {
+          "name": "Mpho Sebina",
+          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Maji",
+      "url": "https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1"
     },
     {
       "album": {
@@ -1816,7 +1856,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 246487,
       "name": "No Lymyt",
       "url": "https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1"
@@ -2423,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Smash The Computers",
+        "url": "https://open.spotify.com/album/5upwMKglEiIriJOGvPFpMU"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Smash The Computers",
+      "url": "https://open.spotify.com/track/5vRerfvD5eMWzD9ygjBZzu"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm"
       },
@@ -2470,7 +2528,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
@@ -2866,6 +2924,32 @@
       "duration_ms": 204922,
       "name": "vibe again",
       "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
+    },
+    {
+      "album": {
+        "name": "Virgin Denim",
+        "url": "https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "Virgin Denim",
+      "url": "https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc"
     },
     {
       "album": {

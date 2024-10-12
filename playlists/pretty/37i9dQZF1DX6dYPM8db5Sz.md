@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt?si=AYISP\-69TmGbARslMxBPgw">Nic van Graan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,140 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,141 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 69 | [Love Is Blind](https://open.spotify.com/track/6qTZBMCIXE4M8IBt1NxlBy) | [Jordan Haj](https://open.spotify.com/artist/6bMec0OIzHrZznCkkLMwFH), [Emma Smetana](https://open.spotify.com/artist/5RGGFXcOLCDafyqIErUkYk) | [Love Is Blind](https://open.spotify.com/album/4miflfwJKqr9EJ3RjfkcRi) | 3:44 |
 | 70 | [I See the World](https://open.spotify.com/track/6df5JX0hccxo2cpazqg2oK) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [I See the World](https://open.spotify.com/album/3byhhNXrAwqtGyPOPOY2Tz) | 2:30 |
 
-Snapshot ID: `ZwhOYAAAAAAK2rL+OfxLZUQrE2Y+jiJ6`
+Snapshot ID: `ZwhOYAAAAAAXwv05WNVdPxPoJV5eI+5q`

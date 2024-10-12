@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "My Definition of...EP 4",
+        "url": "https://open.spotify.com/album/31GED63oIeNLZyxElSwJMj"
+      },
+      "artists": [
+        {
+          "name": "Frank De Wulf",
+          "url": "https://open.spotify.com/artist/2VeoWN34uTKPeFZQOxTBzD"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493579,
+      "name": "Dotted",
+      "url": "https://open.spotify.com/track/7imMxKBRGaRRTsxNFRZJNJ"
+    },
+    {
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -1702,6 +1720,28 @@
       "duration_ms": 205824,
       "name": "Hedonism - Edit",
       "url": "https://open.spotify.com/track/2NUKjixrloJdybniS27UFx"
+    },
+    {
+      "album": {
+        "name": "Solar Flare",
+        "url": "https://open.spotify.com/album/54x1liWb99WVZauV6bKMtF"
+      },
+      "artists": [
+        {
+          "name": "Al-Faris",
+          "url": "https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm"
+        },
+        {
+          "name": "Andrew Wooden",
+          "url": "https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213901,
+      "name": "Helium - Edit",
+      "url": "https://open.spotify.com/track/2iHh48DYiPFqhD0Sr7Kwll"
     },
     {
       "album": {
@@ -3198,7 +3238,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 365853,
       "name": "Orbital State",
       "url": "https://open.spotify.com/track/6dGe97YbAPSwflk8QlcNkg"
@@ -3462,7 +3502,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 374291,
       "name": "Psychodelic Boys And Girls",
       "url": "https://open.spotify.com/track/4da2CvwyMfEo0WTaxrRzlX"
@@ -3560,7 +3600,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 244687,
       "name": "Remember the Music",
       "url": "https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U"
@@ -3796,6 +3836,24 @@
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/76aEsWbH7zSLICnB1YM049"
+    },
+    {
+      "album": {
+        "name": "Sign My Way",
+        "url": "https://open.spotify.com/album/0riOJlFtRFBgYv6cEcf0BW"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389760,
+      "name": "Sign My Way",
+      "url": "https://open.spotify.com/track/0Sebfib4HlLwEYR4vgd0Q3"
     },
     {
       "album": {

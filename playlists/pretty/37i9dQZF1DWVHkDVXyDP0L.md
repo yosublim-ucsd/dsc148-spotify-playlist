@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Gut Health
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,443 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,448 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Chauffeur](https://open.spotify.com/track/04WQHNaGaWlrMuFqSoRqNK) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Chauffeur](https://open.spotify.com/album/2k3KwbsVIBw8j6v02HptXJ) | 3:04 |
 | 100 | [Ottoway](https://open.spotify.com/track/4tRkdz8e9M32RSK82CveHH) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Ottoway](https://open.spotify.com/album/3ttnYrKFL9uqGXmPBeHWue) | 3:15 |
 
-Snapshot ID: `Zwh0kgAAAACuKGSbCuAfNl6tKYUCe+4L`
+Snapshot ID: `Zwh0kgAAAADpt3PeZHSAWwEXWefUkprC`

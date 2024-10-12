@@ -2,7 +2,7 @@
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. Todos os maiores hits em uma só playlist.
+> This is Aline Barros\. Track\-track unggulan, semuanya dalam satu playlist.
 
 89 songs - 6 hr 58 min
 

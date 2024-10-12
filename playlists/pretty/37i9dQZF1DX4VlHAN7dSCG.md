@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 好樂團 \(Good Band\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,103 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,107 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 59 | [Saw You On Tinder](https://open.spotify.com/track/2ctG0PPLX67JVD8ZNqK2vY) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Saw You On Tinder](https://open.spotify.com/album/2FfVtL0AzYRMyMfzHIDCRR) | 2:55 |
 | 60 | [豬肝麵線](https://open.spotify.com/track/46hdyC1kBOxUFcdr3Ti0gt) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq), [多あ爱梦](https://open.spotify.com/artist/5mCh80WPP1yVLBqX349KeG) | [豬肝麵線](https://open.spotify.com/album/1SmUA7PZeycLin1nE5zMxw) | 3:18 |
 
-Snapshot ID: `Zwf9fgAAAAD6wCpkPrTu/z7szSND5SoZ`
+Snapshot ID: `Zwf9fgAAAAB21ywWJZZhczw3QngJBr1X`

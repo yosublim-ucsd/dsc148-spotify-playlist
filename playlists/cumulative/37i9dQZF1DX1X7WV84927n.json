@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192900,
       "name": "EMPIRICAL",
       "url": "https://open.spotify.com/track/2Rr4BteIDhvPNSntiLJerH"
@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 202000,
       "name": "FAKE!",
       "url": "https://open.spotify.com/track/6g7JPXJTlS9qxhwtxcGKJe"
@@ -5284,7 +5284,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 123508,
       "name": "Fight For The Right",
       "url": "https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO"
@@ -6311,6 +6311,28 @@
     },
     {
       "album": {
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
+    },
+    {
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -6438,7 +6460,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175573,
       "name": "Hal Ashby",
       "url": "https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP"
@@ -6778,6 +6800,24 @@
       "duration_ms": 234047,
       "name": "HEAVY RAIN",
       "url": "https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS"
+    },
+    {
+      "album": {
+        "name": "Hell Is Empty",
+        "url": "https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177676,
+      "name": "Hell Is Empty",
+      "url": "https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll"
     },
     {
       "album": {
@@ -7370,6 +7410,28 @@
       "duration_ms": 99373,
       "name": "Hurrikan",
       "url": "https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD"
+    },
+    {
+      "album": {
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221258,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe"
     },
     {
       "album": {
@@ -9318,6 +9380,24 @@
       "duration_ms": 157338,
       "name": "Lost In Doubt",
       "url": "https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7"
+    },
+    {
+      "album": {
+        "name": "Dream Machine - The Lucid Edition",
+        "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243538,
+      "name": "Love and a Smoking Gun",
+      "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
     },
     {
       "album": {
@@ -12509,6 +12589,24 @@
     },
     {
       "album": {
+        "name": "Renovate",
+        "url": "https://open.spotify.com/album/1cNDqcn6iCg1avDJLAkyLo"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Renovate",
+      "url": "https://open.spotify.com/track/2w8HehfSCazC1isrLE7AZa"
+    },
+    {
+      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -14048,7 +14146,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 229522,
       "name": "SOUL4SALE (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/5EvWLvL5xHdXKdvGPEpZyz"
@@ -14070,6 +14168,24 @@
       "duration_ms": 225189,
       "name": "Speaking of the Devil",
       "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "album": {
@@ -15696,7 +15812,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 223162,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o"
@@ -16493,6 +16609,24 @@
     },
     {
       "album": {
+        "name": "BENT",
+        "url": "https://open.spotify.com/album/2sP9aEYOaJeZl1WIAwM3vT"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198397,
+      "name": "Too Loose",
+      "url": "https://open.spotify.com/track/6DBHegQiBhFubLWBlpk621"
+    },
+    {
+      "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/1SphPPIDdtA0riBQAB3iLJ"
       },
@@ -16986,7 +17120,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 215275,
       "name": "Usurper",
       "url": "https://open.spotify.com/track/4KeKMDxuBO6hlwGIJtRpxS"
@@ -18440,6 +18574,24 @@
       "duration_ms": 169455,
       "name": "You're Gonna Get It",
       "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
+    },
+    {
+      "album": {
+        "name": "Your Master",
+        "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185008,
+      "name": "Your Master",
+      "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
     },
     {
       "album": {

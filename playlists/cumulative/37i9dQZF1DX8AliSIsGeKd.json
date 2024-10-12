@@ -32436,7 +32436,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 396661,
       "name": "Herbie Crashed The Party",
       "url": "https://open.spotify.com/track/7kx5rTd4f8Q9dNyvj5la0U"
@@ -45252,6 +45252,24 @@
       "duration_ms": 272250,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
+    },
+    {
+      "album": {
+        "name": "Loud Enough",
+        "url": "https://open.spotify.com/album/5OQpy4n7LH966i09kgKXJj"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315737,
+      "name": "Loud Enough",
+      "url": "https://open.spotify.com/track/0j7XbEOW54yqMOSzFJjxDM"
     },
     {
       "album": {

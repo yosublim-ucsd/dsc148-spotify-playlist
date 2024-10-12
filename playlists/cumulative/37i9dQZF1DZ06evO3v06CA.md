@@ -2,7 +2,7 @@
 
 ### [This Is Willie Nelson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v06CA)
 
-> This is Willie Nelson\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Willie Nelson\. The essential tracks, all in one playlist.
 
 94 songs - 5 hr 16 min
 

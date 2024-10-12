@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,539 likes - 83 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,559 likes - 83 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 82 | [WANI](https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [WANI](https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK) | 2:20 |
 | 83 | [XSCAPE](https://open.spotify.com/track/18bHS7S7ydjWDjOLlt1bkM) | [DR2](https://open.spotify.com/artist/06faa60U9pnA7EpJPoVGUW) | [XSCAPE](https://open.spotify.com/album/31Y7Hz8iUsZN3onWOo1m7h) | 2:55 |
 
-Snapshot ID: `Zwf6AAAAAADEQA2c3rEqPaovDjyzvNbm`
+Snapshot ID: `Zwf6AAAAAABqpw+hEiXljxrZP17StUeU`

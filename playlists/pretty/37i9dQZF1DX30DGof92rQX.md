@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Pakistani indie tracks on the rise\. Like this? More fresh discoveries in <a href="https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v?si=e68b04cda53a4431">Fresh Finds PK</a>\. Cover \- Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,847 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,853 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 73 | [Aik Tu](https://open.spotify.com/track/0dMNGCQKBnZWcvLjRHcIkI) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Aik Tu](https://open.spotify.com/album/7MPjzZztuO8envzob5D9cX) | 3:25 |
 | 74 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 |
 
-Snapshot ID: `Zv/klQAAAABDJF5D+IKDxD1amOlev9k/`
+Snapshot ID: `Zv/klQAAAAAFlJGrNOtBy8rdPHbOoPzk`

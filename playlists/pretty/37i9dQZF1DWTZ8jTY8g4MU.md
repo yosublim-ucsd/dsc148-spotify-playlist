@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,720 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,757 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 50 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 |
 | 51 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
 
-Snapshot ID: `ZwgxCQAAAABCpYRotPNBZ3d7w50AGhsW`
+Snapshot ID: `ZwgxCQAAAADdn60vACnpeWiOL/wNIvOt`

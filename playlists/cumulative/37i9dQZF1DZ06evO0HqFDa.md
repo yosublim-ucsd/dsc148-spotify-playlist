@@ -2,7 +2,7 @@
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This is Ramin Djawadi\. Todos os maiores hits em uma só playlist.
+> This is Ramin Djawadi\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 72 songs - 3 hr 36 min
 

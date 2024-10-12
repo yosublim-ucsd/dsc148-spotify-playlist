@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 乙女新夢
 
-1,187 songs - 2 day 19 hr 19 min
+1,188 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 | 2024-01-05 |
 | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/track/2GrPSSEbBGa5SdEK5FlzGy) | [Seasons for Change](https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT), [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [OBSESS](https://open.spotify.com/artist/1CnX88uQKiTPRNeFInBey9) | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/album/2hw4xdlpOhT8A0lXTcZ6h3) | 4:24 | 2024-05-16 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2022-09-09 |
+| [Sway Under the Sunset](https://open.spotify.com/track/2W1O09TSo5mGLKbH3iXM9w) | [Chris Tong](https://open.spotify.com/artist/1TSAMb57hxZezDzEujAFHb), [Jas Wishes](https://open.spotify.com/artist/0djzRnaX4wQ8uKZviOXFmc) | [Sway Under the Sunset](https://open.spotify.com/album/5wczaaKkmGOROeWd4QNgfL) | 3:00 | 2024-10-10 |  |
 | [Sweetest Bubble Love](https://open.spotify.com/track/1leFRbTWjH5neWNUuOSdc3) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [Feelings I Wish I Told You](https://open.spotify.com/album/5khW3QpCxtyAeVfMa1vNRD) | 3:37 | 2022-12-29 | 2023-01-06 |
 | [Swimming Upwards](https://open.spotify.com/track/7ElIakirHUE5ZtSbkTf7g7) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Swimming Upwards](https://open.spotify.com/album/3QgNI7ReRsnFzvBGCVw14h) | 3:12 | 2023-07-27 | 2023-11-03 |
 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 | 2022-12-29 | 2023-05-26 |

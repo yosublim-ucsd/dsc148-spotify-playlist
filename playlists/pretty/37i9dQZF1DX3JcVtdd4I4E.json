@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6872,
+  "num_followers": 6885,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlWOOQAAAAAIvCe4b1u6CRZlV2bkyiT4",
+  "snapshot_id": "ZlWOOQAAAACVjPccM3d5ha4twsJBb44H",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+        "name": "Hold my breath",
+        "url": "https://open.spotify.com/album/0eDkEAUHSyzQTuRuh6gKtJ"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+      "duration_ms": 144841,
+      "name": "Hold my breath",
+      "url": "https://open.spotify.com/track/0hEX2JeG6jep9hVE5mXRuR"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Hold my breath",
-        "url": "https://open.spotify.com/album/0eDkEAUHSyzQTuRuh6gKtJ"
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 144841,
-      "name": "Hold my breath",
-      "url": "https://open.spotify.com/track/0hEX2JeG6jep9hVE5mXRuR"
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Spinning Around",
-        "url": "https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Spinning Around",
+        "url": "https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 143480,
       "name": "I\u2019ll Think of You",
       "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "And Then Came You",
         "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 195909,
       "name": "And Then Came You",
       "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 137435,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Lupins In Blue",
         "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 226672,
       "name": "Lupins In Blue",
       "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 137435,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bloody Mind",
-        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
       },
       "artists": [
         {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
         }
       ],
-      "duration_ms": 259097,
-      "name": "Bloody Mind",
-      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+        "name": "Bloody Mind",
+        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
       },
       "artists": [
         {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
         }
       ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+      "duration_ms": 259097,
+      "name": "Bloody Mind",
+      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 247886,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "WEIGHTLESS",
         "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 173097,
       "name": "WEIGHTLESS",
       "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 247886,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
     },
     {
       "added_at": "2024-02-08 23:00:00",

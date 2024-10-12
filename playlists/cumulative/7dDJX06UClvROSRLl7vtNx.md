@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-603 songs - 1 day 2 hr 19 min
+604 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Only Way](https://open.spotify.com/track/5Pz7tQgDJLGp4lvBEcu0yM) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/2maCenF3IGESK8yBjd67vI) | 3:10 | 2023-09-22 | 2024-07-31 |
 | [Only You](https://open.spotify.com/track/2CP064YG2J51WCpTmn7rmu) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Tropical Tide](https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW) | [Only You](https://open.spotify.com/album/0ZUYmMNbSmAlMtEcXJnLPH) | 2:51 | 2024-08-25 | 2024-09-09 |
 | [Open My Heart](https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Open My Heart](https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL) | 2:32 | 2024-02-18 | 2024-03-18 |
+| [Open Sky](https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Open Sky](https://open.spotify.com/album/0ZGi9Q2MXp3Nj1oVo1L5Zi) | 2:38 | 2024-10-11 |  |
 | [Out Of Here](https://open.spotify.com/track/0nVuLmwrBRpwtZfYurYt9I) | [Talksick](https://open.spotify.com/artist/5c43052KF7E2jFqsrm48VY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Out Of Here](https://open.spotify.com/album/5khm1SM97siH9rc6C1Ved8) | 2:52 | 2024-06-27 | 2024-08-30 |
 | [Out Of Love](https://open.spotify.com/track/6ICTY9372FzE6kGkGIhqev) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Out Of Love](https://open.spotify.com/album/0nHreN1kHP5TNJKJSXD4mO) | 2:12 | 2024-05-20 | 2024-05-28 |
 | [Out Of Reach](https://open.spotify.com/track/2PrnX9N1vqBGIRVbWv7GCL) | [PRSM](https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9), [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL) | [Out Of Reach](https://open.spotify.com/album/6hAI1PbLBO3rLuq9kUVCVQ) | 2:30 | 2024-05-11 | 2024-08-12 |

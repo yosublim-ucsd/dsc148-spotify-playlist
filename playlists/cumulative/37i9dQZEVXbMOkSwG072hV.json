@@ -2112,10 +2112,36 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201264,
+      "name": "afrodite",
+      "url": "https://open.spotify.com/track/7ARsJNRK0SD0asnybQo2oi"
     },
     {
       "album": {
@@ -13238,7 +13264,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 111692,
       "name": "De Baixo Pra Cima",
       "url": "https://open.spotify.com/track/64kKYenLqoB53EWmtHi4DP"
@@ -17618,7 +17644,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 179580,
       "name": "Erro Favorito",
       "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
@@ -28070,6 +28096,32 @@
       "duration_ms": 893787,
       "name": "Lindo Momento",
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
+    },
+    {
+      "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Calixto",
+          "url": "https://open.spotify.com/artist/0S5k9vmNrcA89NVlmWoLvD"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Linha De Frente",
+      "url": "https://open.spotify.com/track/16FWFYPYQupfw8H8G9tHOB"
     },
     {
       "album": {
@@ -43312,7 +43364,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 137076,
       "name": "Pow Pow na Pepekinha",
       "url": "https://open.spotify.com/track/1iNb89RNRk4Lsydg4HT9cB"

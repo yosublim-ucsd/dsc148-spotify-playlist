@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 夜貓組 \(Leo王+春艷\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,887 likes - 110 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,898 likes - 110 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 109 | [GIMME MORE](https://open.spotify.com/track/1CyaNfozGO5Z8Uy25hXFNl) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [GIMME MORE](https://open.spotify.com/album/57TFzpTjaQGOtH6CMOJYJq) | 3:13 |
 | 110 | [多想給妳我的愛](https://open.spotify.com/track/6o6NQ0DUlqrSYOftBhQue1) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [多想給妳我的愛](https://open.spotify.com/album/02xGae8EuPIfeAv6XfR2pC) | 2:51 |
 
-Snapshot ID: `ZwgHjAAAAABVxM38wbxRLoUBSiSBreje`
+Snapshot ID: `ZwgHjAAAAAAPWCASevo76K1SHdlo/hPM`

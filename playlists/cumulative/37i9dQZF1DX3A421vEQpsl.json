@@ -2575,6 +2575,36 @@
     },
     {
       "album": {
+        "name": "Vicky Vidya Ka Woh Wala Video",
+        "url": "https://open.spotify.com/album/3B54p8dKa2ehcMhpOmMRcb"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        },
+        {
+          "name": "Gurdeep Mehndi",
+          "url": "https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250078,
+      "name": "Na Na Na Na Na Re",
+      "url": "https://open.spotify.com/track/2wtn3GsCYSPsr3dTWabDXf"
+    },
+    {
+      "album": {
         "name": "Hate Story Iv",
         "url": "https://open.spotify.com/album/0j4S24oduK76463zMwqy94"
       },

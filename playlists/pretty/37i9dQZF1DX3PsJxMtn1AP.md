@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,797 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,806 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Bad Kids](https://open.spotify.com/track/0gjcEL2CTKu3fT9qMVVu2w) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 3:26 |
 | 50 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence \(Selected Version\)](https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C) | 4:24 |
 
-Snapshot ID: `ZwV6VgAAAACdW2/ODI2Y8lZBw0DB3qCN`
+Snapshot ID: `ZwV6VgAAAADKDXRMFvxiIKKUIY9WYiKG`

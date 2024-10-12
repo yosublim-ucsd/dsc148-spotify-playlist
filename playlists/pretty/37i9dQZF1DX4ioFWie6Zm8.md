@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,264 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,320 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 |
 | 100 | [Leul Aswededegn](https://open.spotify.com/track/7bS0A09pkBQdXgOki4tnMn) | [Fekereaddis Nekatebeb](https://open.spotify.com/artist/4xtga7H5KyhHeL75Si6yfD) | [Leul Aswededegn \(Ethiopian Contemporary Music\)](https://open.spotify.com/album/2noWFr8sMFADoWed9oDqCY) | 5:41 |
 
-Snapshot ID: `ZvLmLgAAAACPoGw8aa4Oyz2tKo/hhc7d`
+Snapshot ID: `ZvLmLgAAAACgn9eCkYYmyE5Ki3857JM3`

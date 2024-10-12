@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-894 songs - 2 day 3 hr 42 min
+896 songs - 2 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Taste Of Honey](https://open.spotify.com/track/4TexN91wQhOWCYgdpmufFj) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [A Taste Of Honey](https://open.spotify.com/album/3eNcPUpriTk6tZ6adXPPRc) | 2:09 | 2021-08-04 | 2022-04-02 |
 | [A World So Full of Love](https://open.spotify.com/track/77OBKDqQD0tvocHP5AXDDV) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [A World So Full of Love](https://open.spotify.com/album/788jxnxEP2HC7pmIrBu8St) | 2:51 | 2021-08-04 | 2022-04-02 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-12 | 2023-11-18 |
+| [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-11 |  |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2021-11-19 | 2022-12-10 |
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-11-19 | 2022-07-29 |
 | [Adam, Check Please \(Up North Version\)](https://open.spotify.com/track/6RNNj7Le89tmgF6xogxJLi) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon Deluxe](https://open.spotify.com/album/4bZmcw0Yw0PCJvACN41kPJ) | 6:43 | 2024-03-22 |  |
@@ -455,7 +456,7 @@
 | [Leader Of The Landslide](https://open.spotify.com/track/1GobnJwog1V9M7UsITz8u5) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 5:54 | 2021-08-04 | 2022-03-31 |
 | [Learn To Live Without You](https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Learn To Live Without You / Better Than Anything](https://open.spotify.com/album/1EzOWqVvTiEDzWaWt5YLxV) | 3:10 | 2024-01-12 | 2024-06-22 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-01 | 2024-05-03 |
-| [Leave It Better Than You Found It](https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Leave It Better Than You Found It](https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8) | 4:45 | 2023-12-15 |  |
+| [Leave It Better Than You Found It](https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Leave It Better Than You Found It](https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8) | 4:45 | 2023-12-15 | 2024-10-12 |
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 | 2023-02-04 |
 | [Less Than I Do](https://open.spotify.com/track/4QMSq1uq0JgvyKhEDp8wkx) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Less Than I Do](https://open.spotify.com/album/3P2pfKYwZCylJXcGlwlh2w) | 3:31 | 2021-08-04 | 2022-04-02 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-15 |  |
@@ -626,6 +627,7 @@
 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2021-08-04 | 2022-08-13 |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-05-26 | 2024-03-23 |
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 | 2023-02-18 |
+| [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 |  |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-08-04 | 2022-08-13 |
 | [Raincatchers](https://open.spotify.com/track/6StoqrO6Hm52RQaQMUrotJ) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Raincatchers](https://open.spotify.com/album/4l4OKQn58HsPNuIdCldPfU) | 3:59 | 2023-03-03 | 2023-09-16 |
 | [Rather Be Lonely](https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Rather Be Lonely](https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB) | 2:44 | 2024-07-19 |  |
@@ -720,7 +722,7 @@
 | [Something In The Water](https://open.spotify.com/track/1mhAbQXngabXhuwxoQycNa) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 2:51 | 2024-07-09 |  |
 | [Something New](https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Something New](https://open.spotify.com/album/0WJ9MrW2T4ogWvBoH6u4iI) | 4:34 | 2022-04-22 | 2022-07-29 |
 | [Something To Hold](https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Something To Hold](https://open.spotify.com/album/58WEkFrueGp8HFOZlJKRdw) | 4:31 | 2021-10-22 | 2022-07-28 |
-| [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-10 |  |
+| [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-10 | 2024-10-12 |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2022-08-26 | 2022-09-03 |
 | [Something You Can Hold](https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Something You Can Hold](https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs) | 2:59 | 2024-04-26 |  |
 | [Song About You](https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Song About You](https://open.spotify.com/album/73zMN2VGr18vJ31eg1jWnx) | 3:56 | 2024-03-15 | 2024-07-27 |

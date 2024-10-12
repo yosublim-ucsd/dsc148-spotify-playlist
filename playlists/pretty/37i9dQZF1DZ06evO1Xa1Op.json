@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20573,
+  "num_followers": 20572,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAADp4JHZfuMwKtOaRAvMf1ij",
+  "snapshot_id": "ZwcZAAAAAAA+F3/AFjVI661OuPgqZoUm",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 256853,
       "name": "Yer Bounda Fara",
       "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Cinquante six",
+      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 295200,
       "name": "Sadjona (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Cinquante six",
-      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
     },
     {
       "added_at": null,
@@ -604,25 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+      "duration_ms": 153000,
+      "name": "Hanana",
+      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
@@ -700,9 +700,25 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Hanana",
-      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 334120,
+      "name": "La drogue",
+      "url": "https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 392226,
       "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 334120,
-      "name": "La drogue",
-      "url": "https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB"
     },
     {
       "added_at": null,

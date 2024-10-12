@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 212500,
       "name": "Chegou ao Fim",
       "url": "https://open.spotify.com/track/6wFzrcUOVKdz6KheZBRdCh"
@@ -5367,6 +5367,28 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137272,
+      "name": "ESCADA DO PR\u00c9DIO",
+      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
+    },
+    {
+      "album": {
         "name": "Escala de D\u00f3",
         "url": "https://open.spotify.com/album/4oI2poa1RjCuob6xPxE665"
       },
@@ -5680,7 +5702,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147629,
       "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/4AGnHJJX1gzFtwaAJs87iz"
@@ -5710,6 +5732,24 @@
       "duration_ms": 151058,
       "name": "Ex Mai Love - 1,99 Remix",
       "url": "https://open.spotify.com/track/1BAiq5hAOtdbo9yohjgFn9"
+    },
+    {
+      "album": {
+        "name": "EXCE\u00c7\u00c3O!",
+        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178816,
+      "name": "EXCE\u00c7\u00c3O!",
+      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
     },
     {
       "album": {
@@ -6564,10 +6604,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 153230,
       "name": "Futura Rica",
       "url": "https://open.spotify.com/track/2vjPVtkNWxfG2BB6cnPbeo"
+    },
+    {
+      "album": {
+        "name": "Futuro namorado",
+        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164017,
+      "name": "Futuro namorado",
+      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
     },
     {
       "album": {
@@ -13626,7 +13684,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192000,
       "name": "Quem Manda em Mim",
       "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
@@ -14484,6 +14542,24 @@
       "duration_ms": 293269,
       "name": "Salmo 23",
       "url": "https://open.spotify.com/track/3ZNt77s1KL5tjXhI2fVWEi"
+    },
+    {
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/1k5iPfx1mPBQP0L2ZAxRZh"
+      },
+      "artists": [
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/53qvaeHTtdkKmzXPMMaImN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198655,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/7mhvOdceNR4ntJ5dAzVaFu"
     },
     {
       "album": {
@@ -18350,6 +18426,32 @@
       "duration_ms": 149340,
       "name": "\u00d4 DESGRA\u00c7A (que \u00e9 gostar de homem)",
       "url": "https://open.spotify.com/track/2VFPklrXVuTebG21iwq3pH"
+    },
+    {
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M"

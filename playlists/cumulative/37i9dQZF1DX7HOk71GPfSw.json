@@ -15559,6 +15559,24 @@
     },
     {
       "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126988,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "album": {
         "name": "VVSS",
         "url": "https://open.spotify.com/album/5A2VPzbzuv1EpSoie07kFe"
       },
@@ -33055,6 +33073,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI"
+      },
+      "artists": [
+        {
+          "name": "Somewhere Special",
+          "url": "https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m"
+    },
+    {
+      "album": {
         "name": "Secretive!",
         "url": "https://open.spotify.com/album/4g6SsqBQbmgJQSBs5PRXkD"
       },
@@ -35063,6 +35099,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279227,
+      "name": "So I featuring a. g. cook",
+      "url": "https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3"
+    },
+    {
+      "album": {
         "name": "so perfect",
         "url": "https://open.spotify.com/album/3YvJdcO3DPVSV7cadCB2zn"
       },
@@ -36140,7 +36198,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 221280,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/3DZCiOmozpc79tZI41oiet"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,475 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,498 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 84 | [MY SOUL](https://open.spotify.com/track/6Yayz5y4EC1IyPmbTN1Ahm) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi) | 3:57 |
 | 85 | [Show Me the Way \(feat\. Kirk Franklin\)](https://open.spotify.com/track/2d2HyUFvWFXRa6houGjT96) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Faith Of A Mustard Seed](https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2) | 1:43 |
 
-Snapshot ID: `Zv+S4AAAAACL2MNfve7w9CcDqg7wms7U`
+Snapshot ID: `Zv+S4AAAAADkd2ukItPm6LAmrpT7+5Zg`

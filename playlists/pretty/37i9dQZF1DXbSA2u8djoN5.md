@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,104 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,106 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Adevaru' obscen](https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG) | [Alan](https://open.spotify.com/artist/6bed33pnmAGVK3hyip7xo4), [Cheloo](https://open.spotify.com/artist/6JK8YGmVPJR1FM7P9BSQtE) | [31 Februarie](https://open.spotify.com/album/1sy5FydU38TaXUe6dbdb1A) | 2:49 |
 | 50 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 |
 
-Snapshot ID: `ZwhAUAAAAADQOhQy+CdGokEIPvNPoFrN`
+Snapshot ID: `ZwhAUAAAAAAKF89d/9BHXb2BdVX323qR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=hLU63GlGSKGIsxdKFSPg\_Q>Omojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,634 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,669 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 109 | [Ain't Bragging \- Live](https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Ain't Bragging \(Live\)](https://open.spotify.com/album/6G67sJTPZPEosjkooWtain) | 5:26 |
 | 110 | [Victory](https://open.spotify.com/track/4RMMuBMHgKxAm1Xs3GlPgq) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Victory](https://open.spotify.com/album/73koKwG6ltykjtNxvSTMom) | 2:42 |
 
-Snapshot ID: `ZwhqvAAAAACYe7iy1/q2kmsdtlb/XPw3`
+Snapshot ID: `ZwhqvAAAAAAb4RGbFkms1h2kNi+aynzy`

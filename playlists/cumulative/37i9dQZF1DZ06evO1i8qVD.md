@@ -2,7 +2,7 @@
 
 ### [This Is Buddy Guy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1i8qVD)
 
-> This is Buddy Guy\. Todos os maiores hits em uma só playlist.
+> This Is Buddy Guy\. Los temas esenciales, todos en una lista.
 
 114 songs - 8 hr 26 min
 

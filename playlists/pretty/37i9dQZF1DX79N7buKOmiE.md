@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerőn Magyarország női hangjait! Cover: cserihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,390 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,389 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Még azt mondják](https://open.spotify.com/track/6qMNPGFjlaj5G6uGqnM1kK) | [Liana](https://open.spotify.com/artist/26MyuyMwyf5BjZPaygBl0a) | [Még azt mondják](https://open.spotify.com/album/7e3eoQ8dLITVd4EctVPAW8) | 3:33 |
 | 50 | [buda:'\(pest \- Szelektor 24](https://open.spotify.com/track/7hTq0KIwbk0ZAqwoFDtwoW) | [Ani Maxima](https://open.spotify.com/artist/6h50lx2GFUoPvgmCKLtqfj) | [buda:'\(pest \[Szelektor 24\]](https://open.spotify.com/album/3T3m4SRE0ZU8pOosGffvA0) | 2:05 |
 
-Snapshot ID: `Zv10vQAAAAAUKsl1QgiqDibawA/GGFAw`
+Snapshot ID: `Zv10vQAAAAA2w3msUZI714FA9K3W2BBd`

@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 409609,
+  "num_followers": 409677,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAAoj5uS9Ql0m+GuIwac+Lx4",
+  "snapshot_id": "Ztp+QAAAAAB06h6io/Cm/TLefNaf02l0",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "The People's House (with The War And Treaty)",
         "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Kaley / Further Away",
-        "url": "https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
       },
       "artists": [
         {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 183645,
-      "name": "Kaley",
-      "url": "https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT"
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+        "name": "Kaley / Further Away",
+        "url": "https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
         }
       ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
+      "duration_ms": 183645,
+      "name": "Kaley",
+      "url": "https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "My Dearest Darkest Neighbor",
         "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 217466,
       "name": "Fine and Mellow",
       "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Washashore Cowgirl",
-        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
-      },
-      "artists": [
-        {
-          "name": "Monica Rizzio",
-          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Washashore Cowgirl",
-      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Washashore Cowgirl",
+        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
+      },
+      "artists": [
+        {
+          "name": "Monica Rizzio",
+          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Washashore Cowgirl",
+      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "No One Gets Out Alive",
-        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 229289,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237613,
       "name": "Shine Your Light on Me - Recorded at Electric Lady Studios",
       "url": "https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "No One Gets Out Alive",
+        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 229289,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Who's Gonna Love You When I'm Gone",
         "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Wondering Why",
-        "url": "https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Waterfallin'",
         "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wondering Why",
+        "url": "https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"
     }
   ],
   "unique_name": "the new retro",

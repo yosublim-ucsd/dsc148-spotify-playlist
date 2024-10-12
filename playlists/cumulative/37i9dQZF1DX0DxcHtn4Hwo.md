@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-900 songs - 1 day 3 hr 8 min
+903 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bathtub Bubbles](https://open.spotify.com/track/1S6J09BrtlBvNrVrsCcetX) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Bathtub Bubbles](https://open.spotify.com/album/5rX74hWYklaDCznJWE40Bs) | 1:28 | 2021-10-05 | 2022-11-19 |
 | [Beautiful Dream](https://open.spotify.com/track/7pQnOZhIWpU9xjuhxDcZ12) | [David Langoster](https://open.spotify.com/artist/7hdAkFmni0yw1T5Yo1aIdP) | [Beautiful Dream](https://open.spotify.com/album/6QX90T6rnSBY30YZ5lY8DC) | 2:21 | 2022-12-16 | 2024-04-17 |
 | [Beautiful Dreamer](https://open.spotify.com/track/77m5CTzSoJAsW4HtgT0DfN) | [Cedric Long](https://open.spotify.com/artist/25FXbqN8RwLSvA7L9pF4uJ) | [Beautiful Dreamer](https://open.spotify.com/album/1HKLVkj1iPPmP55dtlFA51) | 1:44 | 2021-10-05 | 2024-03-29 |
+| [Beautiful Dreamer](https://open.spotify.com/track/07ydyq74UERUAUslSdNRoU) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [Beautiful Dreamer](https://open.spotify.com/album/1UQ83MWLvv9Yu7vHSt2GJ8) | 1:41 | 2024-10-11 |  |
 | [Beautiful Luna](https://open.spotify.com/track/2o4ISI1RgboyqzEoki8XrR) | [Stevie Martell](https://open.spotify.com/artist/6Sh69JKZfNc4gTL9oPIlk1) | [Beautiful Luna](https://open.spotify.com/album/2vWDoYYLqRJxME7jybQhiQ) | 1:20 | 2022-11-18 |  |
 | [Because You're You](https://open.spotify.com/track/6pHATH756uiHZzvPnUx9Q3) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Because You're You](https://open.spotify.com/album/5zlNx9QFGB3d3n9WP29IsZ) | 1:44 | 2022-10-07 | 2024-08-10 |
 | [Beddy Byes](https://open.spotify.com/track/6l06Tk5WSa5Ebaqx4daEMy) | [Tammy Madison](https://open.spotify.com/artist/1agrSvX42t5Gd0Poo68KcC) | [Beddy Byes](https://open.spotify.com/album/3NoF0MkTUrb0ic3suY4x04) | 1:42 | 2021-10-05 | 2024-03-29 |
@@ -243,6 +244,7 @@
 | [Fly On The Dreams](https://open.spotify.com/track/24AcnlnWcb7FAys29aqFky) | [Irvin Tatton](https://open.spotify.com/artist/2HawA0EZAHFCNaWVJ3hoX4) | [Fly On The Dreams](https://open.spotify.com/album/1etT1csdIKAp4WP79WZegD) | 1:17 | 2022-11-18 |  |
 | [Flyin' over](https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [Flyin' over](https://open.spotify.com/album/3fQk6kiVP5vfcD2MfJeU3j) | 1:23 | 2021-10-05 | 2022-12-16 |
 | [Flying](https://open.spotify.com/track/5cGRutxZnYtcwjJW8GYshL) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Flying](https://open.spotify.com/album/6y5q8NPGUWFkzx4yCPdj2u) | 1:29 | 2021-10-05 | 2024-05-24 |
+| [For My Friends](https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [For My Friends](https://open.spotify.com/album/57HFg87D0nIsRUrHWKsy01) | 1:11 | 2024-10-11 |  |
 | [For My Sweetheart](https://open.spotify.com/track/3DtGLM46u1ZrZMP1Z5xqOW) | [Vic Davidson](https://open.spotify.com/artist/4rxDPoC97AdDVhtbQmqyQQ) | [For My Sweetheart](https://open.spotify.com/album/6lUHunI58WXnZH9DRHllEQ) | 1:41 | 2022-01-21 | 2024-05-24 |
 | [Forever](https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Forever](https://open.spotify.com/album/5rG6Ec9GClUCGNZHJqB9wh) | 3:45 | 2023-12-08 | 2024-05-24 |
 | [Forever My Angel](https://open.spotify.com/track/2jxCDxDoQFDIWraoUezXvi) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Forever My Angel](https://open.spotify.com/album/62WyiYyAlpXBwaymywnAkh) | 1:32 | 2023-06-02 |  |
@@ -314,6 +316,7 @@
 | [Hiding Moon](https://open.spotify.com/track/1xq3MzEebTnmi2f2lWiUFK) | [Dan Harper](https://open.spotify.com/artist/3niyzqq9ZXx3r3G9w6CA01) | [Hiding Moon](https://open.spotify.com/album/2Jv9uRgJ3qGRVAbULGWSHx) | 1:48 | 2022-09-22 | 2023-03-25 |
 | [Ho Hey](https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [Ho Hey](https://open.spotify.com/album/6tbOClFwY3XKiGzhD4ugzU) | 1:36 | 2022-10-07 | 2023-06-16 |
 | [Hold Your Hand](https://open.spotify.com/track/3E2XQBhF15JCXjEmDiLpD3) | [Jenifer Layne](https://open.spotify.com/artist/33hBOxkn6uwTrhH5UMZ812) | [Hold Your Hand](https://open.spotify.com/album/4AvJ6gRSv0K4x3eQzFt58O) | 2:11 | 2021-10-05 | 2024-03-29 |
+| [Home Together](https://open.spotify.com/track/3tf9itZ5nFuMJuIL4hDzjc) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Home Together](https://open.spotify.com/album/49rtb7pC3q6oLuqGCidi1P) | 1:38 | 2024-10-11 |  |
 | [Honey Bee's](https://open.spotify.com/track/5ciNtGHfWpAvLs2tcO7xVe) | [Vivienne Honey](https://open.spotify.com/artist/1kvPqWs9TeD1Jbx0ZlLSJX) | [Honey Bee's](https://open.spotify.com/album/1e4KoN12nC2dGxV8wFEbzj) | 2:20 | 2024-09-13 |  |
 | [Hoppe hoppe hare](https://open.spotify.com/track/5lwKHPF8C3a0z3IrFqpCPu) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Hoppe hoppe hare](https://open.spotify.com/album/6A1xuU4rBnYpC9qNlGxxO7) | 1:16 | 2023-02-17 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/5EvSBms5sdJTxdyFMRGscp) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:04 | 2021-10-05 | 2022-04-21 |
@@ -388,7 +391,7 @@
 | [Justin the Beaver](https://open.spotify.com/track/4safcdBF55tnJAeH66jF91) | [Laryn Rose](https://open.spotify.com/artist/0EHo1BTkMpOwGrqS6wZmgU) | [Justin the Beaver](https://open.spotify.com/album/0Cp2161Vv9LU02zCfJNMUJ) | 1:29 | 2021-10-05 | 2024-03-29 |
 | [Kaninvisan](https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Kaninvisan](https://open.spotify.com/album/36l1v5tjtGzmUhuaHb2g4k) | 1:07 | 2022-11-18 | 2023-06-16 |
 | [Karen The Kangaroo](https://open.spotify.com/track/4uvQn1mLKqkGlrVNmd4Sd8) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Karen The Kangaroo](https://open.spotify.com/album/29DLEV261Y1nETEOwtiuHb) | 1:21 | 2023-09-08 |  |
-| [Keep Me Sweet](https://open.spotify.com/track/3wNLxD1ZjPC2oiw5EM8RYX) | [Marsha Wert](https://open.spotify.com/artist/1jbgOY8j0JxOoITv62DQDC) | [Keep Me Sweet](https://open.spotify.com/album/3afhPHeKfTFZmQ7xnMSGXm) | 2:09 | 2022-04-20 |  |
+| [Keep Me Sweet](https://open.spotify.com/track/3wNLxD1ZjPC2oiw5EM8RYX) | [Marsha Wert](https://open.spotify.com/artist/1jbgOY8j0JxOoITv62DQDC) | [Keep Me Sweet](https://open.spotify.com/album/3afhPHeKfTFZmQ7xnMSGXm) | 2:09 | 2022-04-20 | 2024-10-12 |
 | [Kiss me Goodnight](https://open.spotify.com/track/7r6vIjEUAMztCrjyZnbyKO) | [Eja Bergelin](https://open.spotify.com/artist/4wZnTEHFsSwqUmu8dLzD2X) | [Kiss Me Goodnight](https://open.spotify.com/album/5R6Qbo4v8pHSNJuzPkpqWE) | 1:54 | 2023-02-25 | 2024-05-04 |
 | [Kiss You Goodnight](https://open.spotify.com/track/1ZuOeqpqAIqcdxfowht9QX) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Kiss You Goodnight](https://open.spotify.com/album/6PE25BiIXgQZPL7gxFDhJR) | 2:13 | 2022-07-27 | 2024-03-29 |
 | [Kitten in My Sleeve](https://open.spotify.com/track/7rKfQXq2diOuGtazmJ2meH) | [Barnaby Jenkins](https://open.spotify.com/artist/1Hszo6VDnLJcftQAjqUwTQ) | [Little Girl Goodnight](https://open.spotify.com/album/1kzRywkdON3n0z30P7USPv) | 1:48 | 2021-10-05 | 2022-12-24 |
@@ -528,7 +531,7 @@
 | [Nalles vaggvisa](https://open.spotify.com/track/1rCBX1iRZwzrTWC5FnHaei) | [Nallegrisen](https://open.spotify.com/artist/12Fj3FKjfyCizgT4q3n2kX) | [Nalles vaggvisa](https://open.spotify.com/album/2CLoWYxj4sPSAw5g2nl5DP) | 2:12 | 2023-01-27 | 2023-02-25 |
 | [Nap with the Cat](https://open.spotify.com/track/3cT1kNbc0IY7eN5IdUksHf) | [Phyllis Lytle](https://open.spotify.com/artist/4fSyMpWH2rW4NQeQNkq2Oy) | [Nap with the Cat](https://open.spotify.com/album/1duP7vfBqf2dsYdcFBy0vm) | 1:55 | 2021-10-05 | 2022-12-16 |
 | [Napping Bell](https://open.spotify.com/track/1BYxm8eVidk1UG1eS5Afc0) | [Patch Paul](https://open.spotify.com/artist/2saxtnCsT6CCtNUEGRgWNe) | [Napping Bell](https://open.spotify.com/album/772eGWfT9xUWzp6j7R00bQ) | 2:27 | 2021-10-05 | 2022-02-11 |
-| [Napping Rabbit](https://open.spotify.com/track/16RLSMLfNH3ASyJ7NONTSv) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Napping Rabbit](https://open.spotify.com/album/5jLj8Q10nTIqH4To584bNV) | 1:15 | 2022-11-18 |  |
+| [Napping Rabbit](https://open.spotify.com/track/16RLSMLfNH3ASyJ7NONTSv) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Napping Rabbit](https://open.spotify.com/album/5jLj8Q10nTIqH4To584bNV) | 1:15 | 2022-11-18 | 2024-10-12 |
 | [Naptime](https://open.spotify.com/track/60GTvX6b3SZKJtwtZgJxkF) | [H\. Jacoby](https://open.spotify.com/artist/77xevCV69NGtqxTEZxHNd1) | [Naptime](https://open.spotify.com/album/2a185FuH6GVSKEbgiEdUd7) | 1:45 | 2024-09-30 |  |
 | [Nashville Nights](https://open.spotify.com/track/6wPznzcN6oN4ZcJAkdM3TD) | [Anna Ramirez](https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB) | [Camilla's Lullabye](https://open.spotify.com/album/6JdYVIwiBzeNSCo0E2wJgW) | 2:16 | 2021-10-05 | 2022-10-29 |
 | [Nattasang](https://open.spotify.com/track/5V7Cna2whRlJKPRDhWDqWE) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Nattasang](https://open.spotify.com/album/2Ky8VQ9jejKsB4fy0fogVf) | 1:23 | 2021-10-05 | 2022-10-29 |
@@ -895,7 +898,7 @@
 | [You and me forever](https://open.spotify.com/track/2teIsgIvvuKsFa03sWhUt0) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [You and me forever](https://open.spotify.com/album/1G0R8zfZd2E0JS94CRWEKM) | 1:41 | 2024-08-30 |  |
 | [You Are Feeling Sleepy](https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [You Are Feeling Sleepy](https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5) | 1:27 | 2024-03-01 |  |
 | [You are my light](https://open.spotify.com/track/0zDx0GsDAi9ZqI9Y80hOqk) | [Lova Carling](https://open.spotify.com/artist/7mZRGYwWF15QNqKAG9hNCI) | [Rest in my arms](https://open.spotify.com/album/6F2YEeLI953mLYFaBG32iW) | 2:03 | 2022-09-02 | 2023-06-23 |
-| [You Are My Sunshine](https://open.spotify.com/track/5eZuG8joz4MLuVD67vtqSF) | [Eliza Butler](https://open.spotify.com/artist/2lL0yNKcO6E6PMUtUQJoss) | [You Are My Sunshine](https://open.spotify.com/album/30uRRvbBZsUQBEjaiSbYXl) | 1:27 | 2022-11-18 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/5eZuG8joz4MLuVD67vtqSF) | [Eliza Butler](https://open.spotify.com/artist/2lL0yNKcO6E6PMUtUQJoss) | [You Are My Sunshine](https://open.spotify.com/album/30uRRvbBZsUQBEjaiSbYXl) | 1:27 | 2022-11-18 | 2024-10-12 |
 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 | 2023-05-05 |  |
 | [You Put A Smile On My Face](https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT) | [Judy Bartley](https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7) | [You Put A Smile On My Face](https://open.spotify.com/album/49y36aYeSGncbq74QZInNC) | 1:47 | 2023-04-07 | 2023-10-06 |
 | [Your Best Friend](https://open.spotify.com/track/7wxRcViG0DDUU0J1cgcYm1) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Your Best Friend](https://open.spotify.com/album/3iPujqVjuFxdUFUpQGtm6x) | 2:26 | 2023-06-02 | 2024-10-01 |

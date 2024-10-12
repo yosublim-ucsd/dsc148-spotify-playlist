@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/6z1uF2PNhKa6UlTHaiCaAS"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Hangin' On Your Lips",
+      "url": "https://open.spotify.com/track/43Dzeru0XgN7gZ3uyaC0y6"
+    },
+    {
+      "album": {
         "name": "Heart Monitor Riddem",
         "url": "https://open.spotify.com/album/6YHvR2anmch7i0Z4wI0uaj"
       },
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 267106,
       "name": "Voodoo Ray",
       "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"

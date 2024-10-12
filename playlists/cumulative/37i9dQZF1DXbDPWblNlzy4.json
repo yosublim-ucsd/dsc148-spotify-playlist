@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Duplat y Manuel Medrano",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Mike Bah\u00eda Y Daniel Me Est\u00e1s Matando",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -838,6 +838,28 @@
       "duration_ms": 151500,
       "name": "Boca a Boca",
       "url": "https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2"
+    },
+    {
+      "album": {
+        "name": "Bolerito (Remix)",
+        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165542,
+      "name": "Bolerito - Remix",
+      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
     },
     {
       "album": {
@@ -7034,7 +7056,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 145801,
       "name": "Vargas",
       "url": "https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp"

@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157000,
       "name": "Intui\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7i83TcjWzsS5QzFkO5Z1HP"
@@ -2800,6 +2800,24 @@
       "duration_ms": 222368,
       "name": "Muito Sou(L)",
       "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
+    },
+    {
+      "album": {
+        "name": "Mvp",
+        "url": "https://open.spotify.com/album/1ydJFlfIPIJyYpnEuv66AQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215348,
+      "name": "Mvp",
+      "url": "https://open.spotify.com/track/5xmpIZOt1gGKxPJMpfPnre"
     },
     {
       "album": {
@@ -4118,7 +4136,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
@@ -5298,6 +5316,24 @@
       "duration_ms": 240700,
       "name": "Vig\u00e9simo Andar",
       "url": "https://open.spotify.com/track/6v2AEuks4HqnGo4aiEhuxZ"
+    },
+    {
+      "album": {
+        "name": "Viu!?",
+        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
+      },
+      "artists": [
+        {
+          "name": "Cyro Sampaio",
+          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185499,
+      "name": "Viu!?",
+      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
     },
     {
       "album": {

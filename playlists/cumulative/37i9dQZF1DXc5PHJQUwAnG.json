@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Yng Lvcas y Codiciado en portada.",
+  "description": "Bienvenidx a la trampa mexa. Big Soto (Mexa de honor) en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 134262,
       "name": "AL0NE",
       "url": "https://open.spotify.com/track/54Jk6726TvuuUFrhWnTicw"
@@ -1326,10 +1326,32 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 100165,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/77XT1VtbANgAeFac7qyCsI"
+    },
+    {
+      "album": {
+        "name": "Ciniminis",
+        "url": "https://open.spotify.com/album/2lwrWvVKzobVDnirirxvlf"
+      },
+      "artists": [
+        {
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Ciniminis",
+      "url": "https://open.spotify.com/track/369yQYN9dt4jOf7MCFcL4r"
     },
     {
       "album": {
@@ -3520,6 +3542,24 @@
       "duration_ms": 183733,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
+    },
+    {
+      "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173765,
+      "name": "LAS COSAS CAMBIARON",
+      "url": "https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3"
     },
     {
       "album": {

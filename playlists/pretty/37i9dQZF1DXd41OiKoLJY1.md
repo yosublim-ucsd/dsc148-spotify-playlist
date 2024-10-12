@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Meyer Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,921 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,943 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Time Zones](https://open.spotify.com/track/2Bs9v303s5lWidiO3lS1I3) | [Kat Jaranilla](https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s) | [Time Zones](https://open.spotify.com/album/7tB2gzqRDphhPdF87rRMey) | 3:21 |
 | 100 | [Plus 63](https://open.spotify.com/track/6TrTX1wJZgtE9eQbpR9vEo) | [Please Magic](https://open.spotify.com/artist/1FplvJfJfToJaXAOgGybFO) | [Plus 63](https://open.spotify.com/album/1qcBWGlYf7k7ziSEgXaluv) | 3:13 |
 
-Snapshot ID: `Zwf6AAAAAAB9pR89F4UVBboUeCi+Dcwi`
+Snapshot ID: `Zwf6AAAAAAAsMZZn5RsWxxat58Kqv4mn`

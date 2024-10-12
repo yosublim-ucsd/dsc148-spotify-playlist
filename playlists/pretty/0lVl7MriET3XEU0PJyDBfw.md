@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,005 likes - 71 songs - 3 hr 40 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,004 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [Walk With It](https://open.spotify.com/track/5mDKgOb5CkLmtaUxOndyr9) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [Ascension](https://open.spotify.com/album/5NPtpqapsaKRf5mITbyZjs) | 4:34 |
 | 70 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 |
 | 71 | [Sunshine](https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Sunshine](https://open.spotify.com/album/59WhNZGVeVT6FFypPFU2GV) | 3:26 |
+| 72 | [OG Vibe](https://open.spotify.com/track/3n0jaV61HTthld1wRfPSHk) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Juno What I Mean EP](https://open.spotify.com/album/2gFIvUqoypu1CxVg7OZtvc) | 6:45 |
 
-Snapshot ID: `AAAZaIPo+c31x6XZ14Kivw6aj8xnoz0v`
+Snapshot ID: `AAAZae2LowxuPRaJzfkug2RpvmFk4fug`

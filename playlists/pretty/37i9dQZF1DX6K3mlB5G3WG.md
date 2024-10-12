@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: AIELLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,227 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,254 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 93 | [Jealousy \- From the Vault](https://open.spotify.com/track/44jX2MFYW9vDayWo94q6TA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds: X](https://open.spotify.com/album/0cOURyRiI1HI6BEyhH9ktH) | 3:44 |
 | 94 | [In Your Hands](https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [In Your Hands](https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW) | 3:17 |
 
-Snapshot ID: `ZwhOnAAAAACeqx64R+80OPeg1ggkB/hU`
+Snapshot ID: `ZwhOnAAAAAAENcesjtHbCSCcbL6s/lj4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: MAYonair
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,587 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,591 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Nếu Biết Trước Sẽ Buồn](https://open.spotify.com/track/4Td1yP2XmVoFJzhWQy5sj8) | [Cao Trung Hiếu](https://open.spotify.com/artist/15FSTGdPc6v6LuyK8E5mxL), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e) | [Nếu Biết Trước Sẽ Buồn](https://open.spotify.com/album/2wRBeyHojiZbKgl46beXn1) | 3:51 |
 | 100 | [sleepin pill.](https://open.spotify.com/track/0AkQ8FrfSD0K6sZk3z7xwa) | [Rvee](https://open.spotify.com/artist/4cnJzvA3j4Prp9HVryAo25) | [sleepin pill.](https://open.spotify.com/album/1XIZZUcKmiFin1qPwUxEnI) | 3:07 |
 
-Snapshot ID: `ZwgIEAAAAABg7Rof4N/wSJbtUngRfiKK`
+Snapshot ID: `ZwgIEAAAAADWpjlJeicbF/ECBNjoKd2b`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: CORTE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,032 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,033 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Cuando marche el sol](https://open.spotify.com/track/1E7ULEjMaAWyBWH761xnMy) | [Miquel Angel](https://open.spotify.com/artist/1MjAoX6mkGiGMhIQfAmbG3) | [Huele a Sal](https://open.spotify.com/album/08jly1L0gPtnpP0ZCoLEuC) | 3:29 |
 | 60 | [Todo Se Va a la Mierda](https://open.spotify.com/track/1GgJELjNXquPUDiwtSFdjQ) | [Vaho](https://open.spotify.com/artist/6JmWO5NtRuHGpSI2HfFIA9) | [Todo Se Va a la Mierda](https://open.spotify.com/album/09aOBqHFsnlZdJMHcFLIGF) | 3:22 |
 
-Snapshot ID: `ZwWrYAAAAABqSmuxGeSMkJy5Y412ZOLc`
+Snapshot ID: `ZwWrYAAAAAAQ8xZYei3YAfEz7yAv4bUj`

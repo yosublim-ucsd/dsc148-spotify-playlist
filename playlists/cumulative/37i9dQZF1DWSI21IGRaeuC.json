@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Bad City",
+        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381821,
+      "name": "Bad City",
+      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
+    },
+    {
+      "album": {
         "name": "Bass Go Boom (Collier Remix)",
         "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 481343,
       "name": "Courtyard",
       "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -4395,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365458,
+      "name": "Nutralize",
+      "url": "https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp"
+    },
+    {
+      "album": {
         "name": "Nywtf (feat. Mikhail Beltran)",
         "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
       },
@@ -4776,7 +4812,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 381395,
       "name": "Play The Music",
       "url": "https://open.spotify.com/track/56cQnHXl41WmUcJ8NJRSt2"
@@ -7518,6 +7554,24 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "album": {
+        "name": "Who Is That Guy?",
+        "url": "https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj"
+      },
+      "artists": [
+        {
+          "name": "ALISHA",
+          "url": "https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258340,
+      "name": "Who Is That Guy?",
+      "url": "https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D"
     },
     {
       "album": {

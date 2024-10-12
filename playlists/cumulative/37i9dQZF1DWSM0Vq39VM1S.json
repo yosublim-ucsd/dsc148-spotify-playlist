@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186386,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6"
@@ -1660,6 +1660,28 @@
       "duration_ms": 210329,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "album": {
+        "name": "Les Royaumes Minuscules (Augment\u00e9s)",
+        "url": "https://open.spotify.com/album/4lElScYEABPCIQNs7XZtcc"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        },
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Le Bal (feat. Vanessa Paradis)",
+      "url": "https://open.spotify.com/track/6OUFxhMqwPPqiAm2rBFckw"
     },
     {
       "album": {

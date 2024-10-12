@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Broccoli, you too?(\ube0c\ub85c\ucf5c\ub9ac\ub108\ub9c8\uc800)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Zuka(\uc8fc\uce74)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/3cA99WNBVeCWwhnVlaqnKw"
+      },
+      "artists": [
+        {
+          "name": "Zuka",
+          "url": "https://open.spotify.com/artist/7Ddps4sP2VR3dHEuZDd9r0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163752,
+      "name": "Halcyon Days",
+      "url": "https://open.spotify.com/track/2towEUSMIArsvlEjj9RWiP"
+    },
+    {
+      "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9"
       },
@@ -6088,7 +6106,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201949,
       "name": "Laundry revolution (feat. CHOILB)",
       "url": "https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A"

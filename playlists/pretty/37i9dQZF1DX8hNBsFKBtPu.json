@@ -1,12 +1,12 @@
 {
   "description": "Det bedste nye pop \ud83d\udc9c Svea S on the cover \u2728",
-  "num_followers": 109000,
+  "num_followers": 109001,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAAAMXFz5feEZPL7dGeJWUOBK",
+  "snapshot_id": "ZwhOYAAAAADeIEYg8jHes8SSZw8Z8fwb",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -607,7 +607,7 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "K\ufffdrlighed & Frygt",
+        "name": "K\u00e6rlighed & Frygt",
         "url": "https://open.spotify.com/album/0gw0kTw2memjVN5ZjUgE0U"
       },
       "artists": [
@@ -1698,10 +1698,6 @@
         {
           "name": "Lorde",
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
       "duration_ms": 205938,

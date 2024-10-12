@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,434 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,604 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [Almost Hit By A Discokugel](https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40) | [BUBE](https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN) | [BUBE](https://open.spotify.com/album/5PfHkFlPlselXKuiqPjnfX) | 4:54 |
 | 80 | [caddy](https://open.spotify.com/track/6AaXUanD29RCGcyDBvhoAP) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [caddy](https://open.spotify.com/album/6fna6U60qL09WcIwtS8eYY) | 2:47 |
 
-Snapshot ID: `ZwhOYAAAAAB7FOOoc89UvIIaC1FXaZMq`
+Snapshot ID: `ZwhOYAAAAAAvZlIG7/AyucC7Xd9vmXus`

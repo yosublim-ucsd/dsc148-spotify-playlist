@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 155909,
+  "num_followers": 155991,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAC2VguR7Eg10VZvVIThs9DF",
+  "snapshot_id": "ZqMfQAAAAAASBGEM/TWmLCw1YAkaXaRc",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
       },
       "artists": [
         {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
         }
       ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221053,
       "name": "Action Line",
       "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN"
+      },
+      "artists": [
+        {
+          "name": "Karriem",
+          "url": "https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d"
+        }
+      ],
+      "duration_ms": 415706,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN"
-      },
-      "artists": [
-        {
-          "name": "Karriem",
-          "url": "https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d"
-        }
-      ],
-      "duration_ms": 415706,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1191,34 +1191,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fair Chance (Floating Points Remix)",
-        "url": "https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lil B",
-          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 308214,
-      "name": "Fair Chance - Floating Points Remix",
-      "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "All Back To: Horse Meat Disco",
         "url": "https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon"
       },
@@ -1247,6 +1219,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Fair Chance (Floating Points Remix)",
+        "url": "https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 308214,
+      "name": "Fair Chance - Floating Points Remix",
+      "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Age Of Ascent",
         "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "DREAM SOUP",
-        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 206370,
-      "name": "Human Shape",
-      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Safe In My Arms / YourLove",
         "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "DREAM SOUP",
+        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 206370,
+      "name": "Human Shape",
+      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,708 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,710 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 50 | [HubbaBubba](https://open.spotify.com/track/3qWnKB22BGrKCTTBRAfkb3) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [HubbaBubba](https://open.spotify.com/album/5BRijH5ZOuUJ2DiSnSlZiO) | 1:59 |
 
-Snapshot ID: `ZwhqgAAAAAArS332AFThNj6gmM+mYaDX`
+Snapshot ID: `ZwhqgAAAAABB4cdg4bviiCsyXl/WufBd`

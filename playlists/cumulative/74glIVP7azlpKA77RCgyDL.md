@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sol Invicto.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Scowl.
 
-811 songs - 2 day 2 hr 56 min
+816 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 | 2023-07-15 |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 | 2023-07-15 |
 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 | 2024-08-02 |  |
+| [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 | 2024-10-11 |  |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
 | [A6 \- Meteora\|20 Demo](https://open.spotify.com/track/6xOULyOGGvUDqSNgi73CRe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:54 | 2023-04-07 | 2024-02-03 |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 | 2023-07-15 |
@@ -147,6 +148,7 @@
 | [Crack Cocaine](https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Crack Cocaine](https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF) | 4:01 | 2024-03-22 |  |
 | [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 | 2024-03-15 |  |
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
+| [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-04-12 |  |
@@ -443,6 +445,7 @@
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 |  |
 | [Night Flight](https://open.spotify.com/track/2Y0SPSerR77eRSbHDM2Rim) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Night Flight](https://open.spotify.com/album/1v5HmQMkleI2DILizLGfiV) | 3:57 | 2023-05-26 | 2024-02-03 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-22 | 2023-07-15 |
+| [Night Terror](https://open.spotify.com/track/0bFg4i9Izzpc4p9bTj4Pug) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 9:55 | 2024-10-11 |  |
 | [Nightfall \(feat\. Andy Doerner\)](https://open.spotify.com/track/4SwlfWWEpEtC0GiJVBvekl) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Andy Doerner](https://open.spotify.com/artist/5Sspaac7x9JZvvCjhgIopR) | [Nightfall](https://open.spotify.com/album/2MF7bUOAxxzHMTvNiBL5JK) | 3:42 | 2022-01-21 | 2023-07-15 |
 | [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 | 2022-09-02 | 2023-07-15 |
 | [NMP](https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [NMP](https://open.spotify.com/album/0MOfr3DoxeFA5hSGEVAfR4) | 7:45 | 2023-03-17 | 2024-02-03 |
@@ -608,6 +611,7 @@
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-05-24 |  |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-17 | 2024-02-03 |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2023-07-15 |
+| [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-11 |  |
 | [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 | 2024-02-03 |
 | [Spineless](https://open.spotify.com/track/3DyZADMXRYg3fiJfNKEIVH) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Spineless](https://open.spotify.com/album/6maK5nFaCDVU0mo0LyO0Wq) | 2:10 | 2023-11-03 | 2024-02-03 |
 | [Spineless](https://open.spotify.com/track/3humBBFUJMmniae4NmtNE6) | [Terminal Sleep](https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN) | [Spineless](https://open.spotify.com/album/1wc9aoueFnudq6b1HqvLvt) | 3:59 | 2024-05-31 |  |
@@ -652,6 +656,7 @@
 | [Tearing Down Your Reality](https://open.spotify.com/track/3n7o1RgdVLrvHs6JO0Z44N) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Lucid Noise](https://open.spotify.com/album/2Bp9hBPWjMgtY1uulgkqvP) | 3:31 | 2022-10-21 | 2023-07-15 |
 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 | 2024-07-26 |  |
 | [Tenkiller](https://open.spotify.com/track/1VyU3Uf8oS99scpVqRYwWO) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Tenkiller / Lake Time \(Mr\. Rodan\)](https://open.spotify.com/album/4HGSELCBT0TY9mBEiedgjB) | 5:13 | 2022-11-18 | 2023-07-15 |
+| [Terrible](https://open.spotify.com/track/17V4nI2x1EieJB88aY78ph) | [Spanaway](https://open.spotify.com/artist/5CZRAfYbDHouv7au1BdlB6) | [Terrible](https://open.spotify.com/album/2X19ucyv9Hl9LseDljVAzn) | 4:34 | 2024-10-11 |  |
 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 | 2023-09-15 | 2024-02-03 |
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 | 2023-07-15 |
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 | 2023-07-15 |

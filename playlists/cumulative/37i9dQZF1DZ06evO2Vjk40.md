@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2Vjk40.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2Vjk40) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2Vjk40)
 
-### [This Is Chris Stapleton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Vjk40)
+### [This Is クリス・ステイプルトン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Vjk40)
 
-> This Is Chris Stapleton\. Los temas esenciales, todos en una lista.
+> This is クリス・ステイプルトン。アーティストの代表曲をひとつのプレイリストに。
 
 68 songs - 4 hr 19 min
 

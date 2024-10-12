@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยพร้อมเพลงที่วีเลือกมาให้คุณ ที่นี่เลย\. ปก: Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,637 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,662 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ทักมั้ย?](https://open.spotify.com/track/44OzSXjZal9CcIeKhe2JBR) | [Natherine Dusita](https://open.spotify.com/artist/0WIyuN8tC1t82KD4wPP6z8) | [ทักมั้ย?](https://open.spotify.com/album/5ZLeLllFECgN39DfLSeiGx) | 3:16 |
 | 50 | [รับฉันหน่อย \(Pick Me Up\)](https://open.spotify.com/track/1D5UUVv0w4t4yQ3tPIv3gg) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [รับฉันหน่อย \(Pick Me Up\)](https://open.spotify.com/album/48POxxUuGb7Jal9dThmx3R) | 3:30 |
 
-Snapshot ID: `Zv5rVQAAAAD0IDV/AW66Wn50vzmI2j7k`
+Snapshot ID: `Zv5rVQAAAADljYPba4k53fQhVg0w0SzU`

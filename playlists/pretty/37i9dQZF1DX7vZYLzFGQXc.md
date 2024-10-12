@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: DORI\(도리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,817 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,838 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Good Morning \(feat\. It's\)](https://open.spotify.com/track/6oqYrIpZYsmlDszJ7Iht5b) | [To.S](https://open.spotify.com/artist/6jsv1cKUkhWGXyCCFYngbc), [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Good Morning](https://open.spotify.com/album/2xwuOl7F4z4frEB4CsUngh) | 3:40 |
 | 100 | [Are we happy](https://open.spotify.com/track/6b30TnsPHXo432uO6D6bIh) | [BORA B](https://open.spotify.com/artist/5AcAy366IMkphDeCRLkYgZ) | [Are we happy](https://open.spotify.com/album/2HtXFOCvwBALAhigL4qeyL) | 4:04 |
 
-Snapshot ID: `Zv/akwAAAADbfq34RBbULyaBzF1zqmjb`
+Snapshot ID: `Zv/akwAAAABMjCzTLD8LakrATyJJgZ/5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם קלינשטיין
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,052 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,054 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 59 | [DOCTOR \- Radio Edit](https://open.spotify.com/track/4klACZmMGG4qrBoKtcmOS9) | [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DOCTOR](https://open.spotify.com/album/3cVm0FnIMMu6QORjxEcQmS) | 3:32 |
 | 60 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 |
 
-Snapshot ID: `ZwhAUAAAAADRudugeaa8ZuZq/n4WVbXa`
+Snapshot ID: `ZwhAUAAAAACnLG3ky8ePZnEe877KOfPv`

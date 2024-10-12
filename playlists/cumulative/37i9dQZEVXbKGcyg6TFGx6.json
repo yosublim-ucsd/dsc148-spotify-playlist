@@ -14347,6 +14347,24 @@
     },
     {
       "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Ficha Limpa - Ao Vivo",
+      "url": "https://open.spotify.com/track/17QN5kFprJqHdHLMj7hz4s"
+    },
+    {
+      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/2EfRFRfgepHUI1UNo6FC5r"
       },
@@ -19657,6 +19675,24 @@
     },
     {
       "album": {
+        "name": "Ich sage dir heute",
+        "url": "https://open.spotify.com/album/4VLNd0pNy3LSFwTNnh7tmN"
+      },
+      "artists": [
+        {
+          "name": "Linus Lopez",
+          "url": "https://open.spotify.com/artist/5zREydTpxggLIM4cVSxItV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Ich sage dir heute",
+      "url": "https://open.spotify.com/track/6ukjhhsHsFqnwx2X95hXd9"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -23746,7 +23782,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -33058,7 +33094,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 176283,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/11qZN1Tr5KD6dSCH3QRthm"

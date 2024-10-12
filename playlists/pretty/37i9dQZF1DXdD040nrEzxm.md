@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 74 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 |
 | 75 | [Yoga](https://open.spotify.com/track/03eJdvT499w8U80bTRWfAR) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:16 |
 
-Snapshot ID: `ZWcrvAAAAADDPcG+x1jmr8QvE6POApCa`
+Snapshot ID: `ZWcrvAAAAABfXXIDQiTIklfgalFtVxD8`

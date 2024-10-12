@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:337ClCqxF9LJsLhB86Tsf0\">Elevation Espa\u00f1ol</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:6mEJxv4yQ0uvEZ023sKEPt\">SioVera</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -4675,7 +4675,7 @@
         },
         {
           "name": "Ana Clara Verneque",
-          "url": "https://open.spotify.com/artist/22975SLYDctI81iUu0yTjQ"
+          "url": "https://open.spotify.com/artist/47XA5ggnKR5glJ9ajJidQ7"
         }
       ],
       "date_added": "2024-10-04",
@@ -5971,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Guiar\u00e1s",
+        "url": "https://open.spotify.com/album/2p9TxbuNgEpns3yLxso6wR"
+      },
+      "artists": [
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Guiar\u00e1s",
+      "url": "https://open.spotify.com/track/2cUGFLEgf6cpVqeZzIPSG7"
+    },
+    {
+      "album": {
         "name": "Guiame",
         "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210690,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
@@ -9308,7 +9326,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 239272,
       "name": "Nos Toca A Nosotros - Live",
       "url": "https://open.spotify.com/track/3PX089zKluwtqcSla2gQtV"
@@ -10760,6 +10778,32 @@
       "duration_ms": 246837,
       "name": "R\u00edo",
       "url": "https://open.spotify.com/track/1rdM5dxaACz1Xn37P4zSnR"
+    },
+    {
+      "album": {
+        "name": "Salento",
+        "url": "https://open.spotify.com/album/6zimYDDblEO4RVRVvRetGL"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Salento",
+      "url": "https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui"
     },
     {
       "album": {

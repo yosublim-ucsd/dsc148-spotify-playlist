@@ -1,12 +1,12 @@
 {
   "description": "The best new AUS & NZ Rap. Cover: Hooligan Heffs",
-  "num_followers": 138660,
+  "num_followers": 138671,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwfP0AAAAABitfO91KA5ulNQGZJjy01k",
+  "snapshot_id": "ZwfP0AAAAAAJIrF/w/vO8WnY+3prAJIr",
   "tracks": [
     {
       "added_at": "2024-10-10 13:00:00",
@@ -75,6 +75,26 @@
       "duration_ms": 201290,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1HaIquoEu5tA0oW7fpsT4k"
+    },
+    {
+      "added_at": "2024-10-10 13:00:00",
+      "album": {
+        "name": "He Is There (feat. Faith Sosene)",
+        "url": "https://open.spotify.com/album/0iieeCBSkaoVPmZGhBs6Cr"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        },
+        {
+          "name": "Faith Sosene",
+          "url": "https://open.spotify.com/artist/3EFpIlrlc0rNmqLF1ICSS6"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "He Is There (feat. Faith Sosene)",
+      "url": "https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH"
     },
     {
       "added_at": "2024-10-10 13:00:00",

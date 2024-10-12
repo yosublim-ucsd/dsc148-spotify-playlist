@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL?si=jzqjskzuRUaOUiS0zWW0Wg>Minister GUC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,547 likes - 87 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,696 likes - 87 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 86 | [Reign](https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Reign](https://open.spotify.com/album/3nXzqLc7IGfMn3QfKbn7gy) | 8:22 |
 | 87 | [You found me \- Live](https://open.spotify.com/track/45JPGqqlfGH0WnGNfx6o1a) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Rejoice Eweama](https://open.spotify.com/artist/7rosDzthN2cvfKH3O9Hokg), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [You found me \(Live\)](https://open.spotify.com/album/0aPgkRpWiYigQo79LPgwZk) | 7:10 |
 
-Snapshot ID: `Zwec6gAAAAD58ApvxKe1CJnumsyWJKwy`
+Snapshot ID: `Zwec6gAAAABbLdH7Yyi+rjcaoMp4SCeP`

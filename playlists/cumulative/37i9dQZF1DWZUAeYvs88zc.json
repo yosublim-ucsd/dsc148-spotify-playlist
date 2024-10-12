@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 180819,
       "name": "Close to Dying",
       "url": "https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG"
@@ -1293,7 +1293,7 @@
     },
     {
       "album": {
-        "name": "Love. Angel. Music. Baby. - 15th Anniversary Edition (Remastered 2019)",
+        "name": "Love. Angel. Music. Baby. (15th Anniversary Edition / Remastered 2019)",
         "url": "https://open.spotify.com/album/2FCeFtMkigKLecYFX4syuH"
       },
       "artists": [
@@ -4037,6 +4037,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
+    },
+    {
+      "album": {
         "name": "I Went Too Far (MK Remix)",
         "url": "https://open.spotify.com/album/0DAitjhaRt2iMt6uCSkJcm"
       },
@@ -6718,7 +6740,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
@@ -8176,6 +8198,24 @@
       "duration_ms": 202727,
       "name": "Stable",
       "url": "https://open.spotify.com/track/3W4bQHLFTuYM8foseINMeU"
+    },
+    {
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/6MdkJBAsFZJOyfyN18Dd1S"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155514,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Charli xcx ft\. Ariana Grande \(pictured\), Nao, Odeal and more!
 
-12,865 songs - 28 day 22 hr 37 min
+12,866 songs - 28 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9267,7 +9267,7 @@
 | [Right Here All Along \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/1PviNz6DZNn3YHA0ESzNTR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Right Here All Along \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/2HMqav8HGsmC2hECzv4DUD) | 2:27 | 2024-08-22 | 2024-08-30 |
 | [Right Here Waiting](https://open.spotify.com/track/0VI9NPpNX1a3SwAIa9HaxE) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Right Here Waiting](https://open.spotify.com/album/5hy3OPrsF2pjhmFcLSN8WK) | 3:00 | 2023-02-24 | 2023-03-03 |
 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-17 | 2023-08-25 |
-| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
+| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
 | [Right Now](https://open.spotify.com/track/1UWSgtK2kUV47XK2cIqe4v) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Greatest Hits Reimagined](https://open.spotify.com/album/0Ug51qGmOpbkW59W1TSfHu) | 3:10 | 2023-06-01 | 2023-06-09 |
 | [Right Now](https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Right Now](https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF) | 3:11 | 2024-10-03 | 2024-10-11 |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-08-23 |
@@ -12298,6 +12298,7 @@
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-01 | 2023-06-07 |
 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 | 2023-06-09 |
 | [What's Up](https://open.spotify.com/track/3U3RHacN6vYSjKn2UuUI49) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [What's Up](https://open.spotify.com/album/5AcD5ytKIeuQQm0VninZWd) | 2:58 | 2024-03-22 | 2024-03-29 |
+| [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-10 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-19 | 2024-01-26 |
 | [Whatever](https://open.spotify.com/track/0AwRyZIa069aRRRfLsHdor) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [48, Pt\. 2](https://open.spotify.com/album/4SF3uSCQ8AvJxULaGVNweq) | 3:22 | 2023-05-18 | 2023-05-26 |
 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-04 | 2023-05-12 |

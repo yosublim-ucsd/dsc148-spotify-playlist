@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Batid\u0101o",
+        "url": "https://open.spotify.com/album/17fY6oYrqfdv9i99eU6Tmz"
+      },
+      "artists": [
+        {
+          "name": "MAGH",
+          "url": "https://open.spotify.com/artist/3JkbHkrWAKm7roCB5jXu5K"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155196,
+      "name": "Batid\u0101o",
+      "url": "https://open.spotify.com/track/32wnlDNCkQqeEd5DoumeQG"
+    },
+    {
+      "album": {
         "name": "Be Shy",
         "url": "https://open.spotify.com/album/4Fn8CBNCqKSHeJyW7Xw9Cu"
       },
@@ -13635,6 +13653,24 @@
     },
     {
       "album": {
+        "name": "This Trip",
+        "url": "https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "This Trip",
+      "url": "https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr"
+    },
+    {
+      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
       },
@@ -14732,6 +14768,28 @@
       "duration_ms": 127500,
       "name": "When It Runs Out (feat. Felix Samuel)",
       "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
+    },
+    {
+      "album": {
+        "name": "When The Bass Kicks In",
+        "url": "https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193139,
+      "name": "When The Bass Kicks In",
+      "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
     },
     {
       "album": {

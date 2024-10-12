@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13148,
+  "num_followers": 13162,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwPnyAAAAADcWzyRuolceNMpOZmXSsaH",
+  "snapshot_id": "ZwncywAAAAAX7kZTZ1/aXsagFaQHMazs",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -25,20 +25,48 @@
       "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
     },
     {
-      "added_at": "2024-09-13 04:45:53",
+      "added_at": "2024-08-30 06:29:43",
       "album": {
-        "name": "Thappa Lucka",
-        "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
+        "name": "AM I LOSER",
+        "url": "https://open.spotify.com/album/34CWQGVnf5rJEb0TdnnhrS"
       },
       "artists": [
         {
-          "name": "Noel-Ryan",
-          "url": "https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav"
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Roja Adithya",
+          "url": "https://open.spotify.com/artist/1sjb96FgxElV2J9AqLW8dt"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Thappa Lucka",
-      "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
+      "duration_ms": 172500,
+      "name": "AM I LOSER",
+      "url": "https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ"
+    },
+    {
+      "added_at": "2024-09-16 12:16:54",
+      "album": {
+        "name": "Toxic Kadhal",
+        "url": "https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN"
+      },
+      "artists": [
+        {
+          "name": "Arun Raj",
+          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Toxic Kadhal",
+      "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
     },
     {
       "added_at": "2024-09-18 12:03:42",
@@ -71,6 +99,26 @@
       "duration_ms": 186620,
       "name": "Kadhal Vizhi",
       "url": "https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ"
+    },
+    {
+      "added_at": "2024-10-12 01:26:07",
+      "album": {
+        "name": "Kannaattiye",
+        "url": "https://open.spotify.com/album/5endLjI2CdrxUgVJrFqedm"
+      },
+      "artists": [
+        {
+          "name": "Adam Smith",
+          "url": "https://open.spotify.com/artist/2NryD6eIY2tbzkvYocjDsk"
+        },
+        {
+          "name": "Pokkishiya Sandra",
+          "url": "https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz"
+        }
+      ],
+      "duration_ms": 277826,
+      "name": "Kannaattiye",
+      "url": "https://open.spotify.com/track/4avs3tmaqjboKR4QiEF02Y"
     },
     {
       "added_at": "2024-09-20 05:46:14",
@@ -135,6 +183,22 @@
       "duration_ms": 111627,
       "name": "ALANGATTI MAZHA",
       "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "Thappa Lucka",
+        "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
+      },
+      "artists": [
+        {
+          "name": "Noel-Ryan",
+          "url": "https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Thappa Lucka",
+      "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
     },
     {
       "added_at": "2024-09-19 11:30:22",
@@ -333,48 +397,24 @@
       "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
     },
     {
-      "added_at": "2024-09-16 12:16:54",
+      "added_at": "2024-10-12 02:19:55",
       "album": {
-        "name": "Toxic Kadhal",
-        "url": "https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN"
+        "name": "Dapparu Raaja",
+        "url": "https://open.spotify.com/album/6lyIOuHtXkTnjVd6TXtOwW"
       },
       "artists": [
         {
-          "name": "Arun Raj",
-          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
+          "name": "V3K",
+          "url": "https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe"
         },
         {
-          "name": "Archana",
-          "url": "https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH"
+          "name": "Jazir",
+          "url": "https://open.spotify.com/artist/0d1lMWHrbrstpXRWaadvhZ"
         }
       ],
-      "duration_ms": 187368,
-      "name": "Toxic Kadhal",
-      "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
-    },
-    {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "AM I LOSER",
-        "url": "https://open.spotify.com/album/34CWQGVnf5rJEb0TdnnhrS"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Roja Adithya",
-          "url": "https://open.spotify.com/artist/1sjb96FgxElV2J9AqLW8dt"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "AM I LOSER",
-      "url": "https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ"
+      "duration_ms": 277936,
+      "name": "Dapparu Raaja",
+      "url": "https://open.spotify.com/track/03nlIEXvxmpxrXjLEeVHod"
     },
     {
       "added_at": "2024-09-18 12:06:53",
@@ -1081,26 +1121,6 @@
       "url": "https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL"
     },
     {
-      "added_at": "2024-03-17 07:36:17",
-      "album": {
-        "name": "Saadal",
-        "url": "https://open.spotify.com/album/5NPiNlQ8DE9hGDKTDd906N"
-      },
-      "artists": [
-        {
-          "name": "The songs of society",
-          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
-        },
-        {
-          "name": "Caleb steven raj",
-          "url": "https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd"
-        }
-      ],
-      "duration_ms": 262300,
-      "name": "Saadal",
-      "url": "https://open.spotify.com/track/5IqJfqrZ9l07B69jGSQrE6"
-    },
-    {
       "added_at": "2024-04-04 11:48:44",
       "album": {
         "name": "KANAVINIL KANDEN",
@@ -1269,30 +1289,6 @@
       "url": "https://open.spotify.com/track/1SupxIioLGCNhveAj5akUJ"
     },
     {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Manithakaari Sevvi",
-        "url": "https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0"
-      },
-      "artists": [
-        {
-          "name": "Revaa",
-          "url": "https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc"
-        },
-        {
-          "name": "Bshaa",
-          "url": "https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh"
-        },
-        {
-          "name": "Gana Vimala",
-          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
-        }
-      ],
-      "duration_ms": 322227,
-      "name": "Manithakaari Sevvi",
-      "url": "https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5"
-    },
-    {
       "added_at": "2024-04-01 04:58:48",
       "album": {
         "name": "My Dear Maname",
@@ -1323,26 +1319,6 @@
       "duration_ms": 175200,
       "name": "Ohh baby",
       "url": "https://open.spotify.com/track/3OFcjtynBhxIo7bqicTMHI"
-    },
-    {
-      "added_at": "2024-03-17 07:36:17",
-      "album": {
-        "name": "Vetti Bandha",
-        "url": "https://open.spotify.com/album/6X7eqIR21LshdkNUYLgOGR"
-      },
-      "artists": [
-        {
-          "name": "$carce",
-          "url": "https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc"
-        },
-        {
-          "name": "Jeruson",
-          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
-        }
-      ],
-      "duration_ms": 127164,
-      "name": "Vetti Bandha",
-      "url": "https://open.spotify.com/track/6uWLo9rRdsIqDuJM5P6SR8"
     },
     {
       "added_at": "2024-05-13 06:53:15",
@@ -1389,26 +1365,6 @@
       "url": "https://open.spotify.com/track/6qLhGqkpNeCScdqW1vaXDK"
     },
     {
-      "added_at": "2024-03-12 17:00:53",
-      "album": {
-        "name": "Kadhal Senji Kolladha",
-        "url": "https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln"
-      },
-      "artists": [
-        {
-          "name": "Narendra Prasath",
-          "url": "https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD"
-        },
-        {
-          "name": "Manikandan murali",
-          "url": "https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg"
-        }
-      ],
-      "duration_ms": 124420,
-      "name": "Kadhal Senji Kolladha",
-      "url": "https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq"
-    },
-    {
       "added_at": "2024-05-03 05:40:22",
       "album": {
         "name": "Kannadi Mugam",
@@ -1423,46 +1379,6 @@
       "duration_ms": 212504,
       "name": "Kannadi Mugam",
       "url": "https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2"
-    },
-    {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Vizhi",
-        "url": "https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1"
-      },
-      "artists": [
-        {
-          "name": "Keethan",
-          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
-        },
-        {
-          "name": "Anila Rajeev",
-          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "Vizhi",
-      "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
-    },
-    {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Natarajan Naatiyam",
-        "url": "https://open.spotify.com/album/5vwsvybTHEJwPRgPhd77Ff"
-      },
-      "artists": [
-        {
-          "name": "Nixen",
-          "url": "https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb"
-        },
-        {
-          "name": "Smith Asher",
-          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
-        }
-      ],
-      "duration_ms": 210740,
-      "name": "Natarajan Naatiyam",
-      "url": "https://open.spotify.com/track/0byS4yFkICagbCKMctUdm1"
     },
     {
       "added_at": "2024-07-12 17:13:34",
@@ -1519,26 +1435,6 @@
       "duration_ms": 213409,
       "name": "Adiye",
       "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
-    },
-    {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Iraivi",
-        "url": "https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j"
-      },
-      "artists": [
-        {
-          "name": "Navneeth Sundar",
-          "url": "https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe"
-        },
-        {
-          "name": "Navya Umesh",
-          "url": "https://open.spotify.com/artist/011CU7FddyoQO8f4JJvgI8"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Iraivi",
-      "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
     },
     {
       "added_at": "2024-05-13 07:13:34",

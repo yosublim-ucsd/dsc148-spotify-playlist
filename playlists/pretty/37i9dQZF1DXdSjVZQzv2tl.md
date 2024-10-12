@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,734,854 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,735,997 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Gotejou No Celular \- Ao Vivo](https://open.spotify.com/track/1sTGINNEM4sT3H2hDdQiPe) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Gotejou No Celular \(Ao Vivo\)](https://open.spotify.com/album/1n4L1WBeL8o3NTArmtXGUr) | 2:56 |
 | 50 | [Cabelo Loiro \(F&J 10 Anos\) \- Ao Vivo](https://open.spotify.com/track/2Qx8g3zoHsi0GvtYCCAFAT) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Cabelo Loiro \(F&J 10 Anos\) \[Ao Vivo\]](https://open.spotify.com/album/3pOoU8C3ThxBi1mdnNiazx) | 2:56 |
 
-Snapshot ID: `ZwiVZAAAAAA2ZibsPdGZf0ywn7/9k9ZE`
+Snapshot ID: `ZwiVZAAAAACrtNXBIXwC+YIG9LQsb34b`

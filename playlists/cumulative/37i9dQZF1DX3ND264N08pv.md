@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-283 songs - 15 hr 47 min
+284 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [One Night Stand](https://open.spotify.com/track/7HOWys2dsGujopmih84kYW) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [One Night Stand](https://open.spotify.com/album/4aaz0aTTfX63P1sXSyjIdt) | 3:21 | 2022-12-08 | 2022-12-16 |
 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 | 2022-12-08 | 2024-06-28 |
 | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29) | 5:24 | 2022-12-08 | 2023-09-02 |
-| [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 | 2023-04-20 |  |
+| [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 | 2023-04-20 | 2024-10-12 |
 | [Overdosis](https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Overdosis](https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl) | 3:40 | 2024-01-24 | 2024-10-02 |
 | [Pac\-man 2.0](https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [Pac\-man 2.0](https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj) | 2:28 | 2022-12-08 | 2023-10-26 |
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
@@ -248,6 +248,7 @@
 | [The Boogeyman](https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [The Boogeyman](https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP) | 3:00 | 2023-11-02 | 2024-06-28 |
 | [The Chop Game](https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [The Chop Game](https://open.spotify.com/album/77fohbVi79RssB18lmWX1S) | 3:07 | 2023-03-30 | 2023-12-22 |
 | [The Deadly Fist](https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [The Deadly Fist](https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP) | 3:14 | 2022-12-15 |  |
+| [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 | 2024-10-11 |  |
 | [The Gospel \- Geck\-o's Gabber Confession Remix](https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [The Gospel \(Geck\-o's Gabber Confession Remix\)](https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo) | 3:51 | 2023-09-14 | 2024-03-05 |
 | [The Hood](https://open.spotify.com/track/2fHSUYkVn1dBWeqE2fY3rQ) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Hood](https://open.spotify.com/album/35NlVrFFOodmyJ9EWrCL94) | 3:13 | 2022-12-08 | 2022-12-22 |
 | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 | 2024-06-21 |  |

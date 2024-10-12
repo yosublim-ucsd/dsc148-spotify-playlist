@@ -2,7 +2,7 @@
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This is Kenny G\. Todos os maiores hits em uma só playlist.
+> This is Kenny G\. Tutti i brani in un'unica playlist.
 
 54 songs - 3 hr 54 min
 

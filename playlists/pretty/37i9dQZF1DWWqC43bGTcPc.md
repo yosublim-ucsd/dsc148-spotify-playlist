@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Tyson Yoshi x 派偉俊 \(Patrick Brasca \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,178 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,220 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 5 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 |
 | 6 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 |
 | 7 | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/album/6682vtcZcXjdmx9cZGQLR4) | 4:31 |
-| 8 | [租購 \- Live](https://open.spotify.com/track/6LwHEqDSPZ1klmuEn4j95a) | [音樂緣計畫](https://open.spotify.com/artist/7yKf8vhfBKkgaiSk1LOUxE), [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [音樂緣計畫 第4期 \- Live](https://open.spotify.com/album/3hqMIDWvAJizmwuiJXMMnO) | 4:15 |
+| 8 | [租購 \- Live](https://open.spotify.com/track/6LwHEqDSPZ1klmuEn4j95a) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [音樂緣計畫 第4期 \(Live\)](https://open.spotify.com/album/3hqMIDWvAJizmwuiJXMMnO) | 4:15 |
 | 9 | [愛在等待](https://open.spotify.com/track/2tbzND7MpXykGR93KhEbYx) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [愛在等待](https://open.spotify.com/album/5wij2CitZuPtVEjQvlVB2a) | 3:20 |
 | 10 | [身體會記得 \(戲劇《今夜一起為愛鼓掌》插曲\)](https://open.spotify.com/track/5grTZpZBw4JMRPxNi0yEBP) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [《今夜一起為愛鼓掌》影集原聲帶](https://open.spotify.com/album/52rKsGbcfaOX5pkeZGBYi6) | 4:20 |
 | 11 | [暮色回响 \- 电影《默杀》推广曲](https://open.spotify.com/track/34lHeTk1cdLlQLJgmqSY9y) | [张韶涵](https://open.spotify.com/artist/0nMPxtQGOjtIiaSg0LKaMX) | [暮色回响 \(电影《默杀》推广曲\)](https://open.spotify.com/album/5DS3v9OmWKA0bKb3SudXV2) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 |
 | 50 | [在爱里没有清醒](https://open.spotify.com/track/2LnXAFPadnofJ6xUcbxe9E) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [在爱里没有清醒](https://open.spotify.com/album/45YlEWSI2AweS5XfLEvA81) | 4:09 |
 
-Snapshot ID: `ZwQFgAAAAABNf0DoSFsmkSYCeGMsdA9g`
+Snapshot ID: `ZwQFgAAAAACQB+AcOi8gf89zyIdDcXEc`

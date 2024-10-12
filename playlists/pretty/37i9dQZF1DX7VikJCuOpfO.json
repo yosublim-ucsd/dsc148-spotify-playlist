@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Camila Fern\u00e1ndez",
-  "num_followers": 205792,
+  "num_followers": 205814,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwBE/gAAAACkprpZv8pAuBjoklSE8W3s",
+  "snapshot_id": "ZwBE/gAAAAAeWfvWOb+Clp0s3kp3mBCi",
   "tracks": [
     {
       "added_at": "2024-10-04 19:41:50",
@@ -399,18 +399,22 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "No Me 100to Bien",
-        "url": "https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95"
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
       "artists": [
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 202767,
-      "name": "No Me 100to Bien",
-      "url": "https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD"
+      "duration_ms": 233533,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -587,22 +591,18 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "No Me 100to Bien",
+        "url": "https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95"
       },
       "artists": [
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
+      "duration_ms": 202767,
+      "name": "No Me 100to Bien",
+      "url": "https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -943,18 +943,22 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "\u00a1Arr\u00e1nquense Muchachos!",
-        "url": "https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
       "artists": [
         {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Como Ella",
-      "url": "https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n"
+      "duration_ms": 128520,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -991,26 +995,6 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
-    },
-    {
-      "added_at": "2024-10-04 19:41:50",
-      "album": {
         "name": "Una Llamada Perdida",
         "url": "https://open.spotify.com/album/7lm4FQqOoRuTkDoSmLHKa7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 199413,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/50wcP2Qy153SJ3pP3ZTL9G"
+    },
+    {
+      "added_at": "2024-10-04 19:41:50",
+      "album": {
+        "name": "\u00a1Arr\u00e1nquense Muchachos!",
+        "url": "https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Como Ella",
+      "url": "https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "Tequila Mariachi",
-        "url": "https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw"
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 216918,
-      "name": "Tequila Mariachi",
-      "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2024-10-04 19:41:50",
-      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 221826,
       "name": "Aqu\u00ed Lo Siento",
       "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-10-04 19:41:50",
+      "album": {
+        "name": "Tequila Mariachi",
+        "url": "https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 216918,
+      "name": "Tequila Mariachi",
+      "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
-    },
-    {
-      "added_at": "2024-10-04 19:41:50",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2024-10-04 19:41:50",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
-    },
-    {
-      "added_at": "2024-10-04 19:41:50",
-      "album": {
         "name": "Los Temas de Mis Pel\u00edculas",
         "url": "https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 169026,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr"
+    },
+    {
+      "added_at": "2024-10-04 19:41:50",
+      "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2024-10-04 19:41:50",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-04 19:41:50",
       "album": {
-        "name": "H\u00e1gale",
-        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Navarrete",
-          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "H\u00e1gale",
-      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
-    },
-    {
-      "added_at": "2024-10-04 19:41:50",
-      "album": {
         "name": "No Creo Merecerte",
         "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 185853,
       "name": "No Creo Merecerte",
       "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
+    },
+    {
+      "added_at": "2024-10-04 19:41:50",
+      "album": {
+        "name": "H\u00e1gale",
+        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "H\u00e1gale",
+      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
     },
     {
       "added_at": "2024-10-04 19:41:50",

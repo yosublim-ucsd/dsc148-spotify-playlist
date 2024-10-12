@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,857 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,889 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [More Grace](https://open.spotify.com/track/01OZZ6TtohuvmWKWGYmizc) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers & Sisters](https://open.spotify.com/album/5Ys1u4T4mUIIcruYNart3T) | 2:42 |
 | 100 | [Mood For You](https://open.spotify.com/track/4n66AIKTLwt0ljPFrKCc4n) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Mood For You](https://open.spotify.com/album/7tTUyw3Tmd3PWNSwtaaZjv) | 3:55 |
 
-Snapshot ID: `Zv+6HQAAAADK0gDbs+NAJUKDYvemFbYi`
+Snapshot ID: `Zv+6HQAAAACPGyRh3LyN/FHFXYZbZtt4`

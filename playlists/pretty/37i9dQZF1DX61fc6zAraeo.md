@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,225 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,228 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 99 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 |
 | 100 | [All Night Long](https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [All Night Long](https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA) | 2:44 |
 
-Snapshot ID: `ZwhOYAAAAAAnoLwMZn8wmlU5WlzkUY0E`
+Snapshot ID: `ZwhOYAAAAADmWcoJh0lET0MVSQ1/hwrw`

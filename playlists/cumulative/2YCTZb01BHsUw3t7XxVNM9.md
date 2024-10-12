@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-486 songs - 1 day 9 hr 49 min
+487 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [The Author of Hopelessness](https://open.spotify.com/track/0kZygaGu0v5PmDH4YVUgxp) | [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [Japanese Stream Hardcore Vol.8](https://open.spotify.com/album/4B5EDWIZpxmE0UXi76bJZE) | 4:46 | 2019-01-29 |  |
 | [The Daylight](https://open.spotify.com/track/0kROEZMTWVbEhCYQWfLsij) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [HARDCORE SYNDROME 14](https://open.spotify.com/album/0kErHEeF6I9gufV6WPrfY3) | 3:09 | 2020-08-19 |  |
 | [The Depth of Furious](https://open.spotify.com/track/26Ld1YG16ISAzzbOhLLzLm) | [FALCHiON](https://open.spotify.com/artist/0AVwoTqXBWS5ONMgqfuxmT), [Dj Dynamax](https://open.spotify.com/artist/6DQGLmwxkn19CsU5gl2e91) | [Hades \-Awakening\-](https://open.spotify.com/album/2pKlBLgZimWg7T6PZDqlpD) | 3:56 | 2020-10-16 |  |
+| [The Disaster Sounds](https://open.spotify.com/track/2AdnKn7eM6GbalC1SqYEFj) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [The Disaster Sounds](https://open.spotify.com/album/4znL8KsguH4BQACygRbkRK) | 2:59 | 2024-10-11 |  |
 | [The Drown](https://open.spotify.com/track/0w3FgOnmMuYjCLNySZ0kYL) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [IRREPARABLE HARDCORE IS BACK](https://open.spotify.com/album/1Il0tUaABSrO9MRN3Iwcnf) | 4:30 | 2020-10-16 |  |
 | [The End Of Grimm](https://open.spotify.com/track/1iZFATZuxmHPvxVnjg9FOs) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Aikapin](https://open.spotify.com/artist/76eHPsoHfG6r4L66SLcEOy) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 3:31 | 2022-11-04 |  |
 | [The Executor](https://open.spotify.com/track/7EzBgoea1rvTLbSTQqbFCe) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [Japanese Stream Hardcore Vol.2 WEB](https://open.spotify.com/album/6Pqd973J67Iw8XSQZRbwIo) | 5:24 | 2020-07-10 |  |

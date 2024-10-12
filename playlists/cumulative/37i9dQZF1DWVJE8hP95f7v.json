@@ -235,6 +235,56 @@
     },
     {
       "album": {
+        "name": "Aten\u00e7\u00e3o!",
+        "url": "https://open.spotify.com/album/5336HasldqLfPAwj2Pp8Et"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Jackson Ganga",
+          "url": "https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161"
+        },
+        {
+          "name": "Nathan Morais",
+          "url": "https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu"
+        },
+        {
+          "name": "Davi Horta",
+          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
+        },
+        {
+          "name": "Daniel Souza",
+          "url": "https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B"
+        },
+        {
+          "name": "Fernanda Valadares",
+          "url": "https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR"
+        },
+        {
+          "name": "LUAR",
+          "url": "https://open.spotify.com/artist/1Xx7ZBh8sm7gy8db7xUGy3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Aten\u00e7\u00e3o!",
+      "url": "https://open.spotify.com/track/4b6MEmZBgjEqevMEiIO0BI"
+    },
+    {
+      "album": {
         "name": "Bala Doce",
         "url": "https://open.spotify.com/album/5n1z0veQcZg6s7dTxQ7hKo"
       },
@@ -1392,7 +1442,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 130066,
       "name": "N\u00e3o Quero Mais",
       "url": "https://open.spotify.com/track/5PqycyW12kd3QPhAMts0Oo"

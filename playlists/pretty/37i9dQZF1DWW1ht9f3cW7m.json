@@ -1,12 +1,12 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29313,
+  "num_followers": 29312,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu1fDwAAAAA/rUVbi+130FbG/SnwbKHp",
+  "snapshot_id": "Zu1fDwAAAABsLosfJgwK0SwBOBBXBt0C",
   "tracks": [
     {
       "added_at": "2024-09-20 11:39:59",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "crush (tom verlaine)",
         "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 197027,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Spells",
         "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 194910,
       "name": "Spells",
       "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Midnight Butterflies",
-        "url": "https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Midnight Butterflies",
-      "url": "https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Crashmat",
         "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 220908,
       "name": "Crashmat",
       "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Midnight Butterflies",
+        "url": "https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Midnight Butterflies",
+      "url": "https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "projections",
         "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 260484,
       "name": "projections",
       "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Split Lip",
-        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "Split Lip",
-      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Girls That Play",
         "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Living In A Dream",
-        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
+        "name": "Split Lip",
+        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
       },
       "artists": [
         {
-          "name": "The Flints",
-          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
         }
       ],
-      "duration_ms": 196011,
-      "name": "Living In A Dream",
-      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
+      "duration_ms": 189866,
+      "name": "Split Lip",
+      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -979,6 +963,22 @@
       "duration_ms": 206133,
       "name": "The End of the Contender",
       "url": "https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Living In A Dream",
+        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
+      },
+      "artists": [
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        }
+      ],
+      "duration_ms": 196011,
+      "name": "Living In A Dream",
+      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
-      },
-      "artists": [
-        {
-          "name": "Harry Strange",
-          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
-        }
-      ],
-      "duration_ms": 206067,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 187906,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "duration_ms": 206067,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
+        "name": "Life Is A Killer",
+        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
       },
       "artists": [
         {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
         }
       ],
-      "duration_ms": 226983,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
+      "duration_ms": 203312,
+      "name": "My Head's In A Hurricane",
+      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
     }
   ],
   "unique_name": "peach",

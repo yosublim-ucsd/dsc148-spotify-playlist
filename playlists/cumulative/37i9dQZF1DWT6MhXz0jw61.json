@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/40YsXiZgsF31qje9gt25F7"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171926,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/7xq70FRZbXnpf5B8chHNpH"
+    },
+    {
+      "album": {
         "name": "BAKERY",
         "url": "https://open.spotify.com/album/1UCjI9yKK2KQkR8InhyPmB"
       },
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj"
@@ -3660,6 +3682,24 @@
       "duration_ms": 153725,
       "name": "Cecil Fielder",
       "url": "https://open.spotify.com/track/5RVrnIt1wsYM3j4BhlIghB"
+    },
+    {
+      "album": {
+        "name": "Class of 95",
+        "url": "https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO"
+      },
+      "artists": [
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/3xioKjShqujgzsTBU8tCIm"
     },
     {
       "album": {
@@ -5766,7 +5806,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 301800,
       "name": "Double Standards (feat. Sampha)",
       "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
@@ -6264,7 +6304,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 216338,
       "name": "Euphorbia Milli",
       "url": "https://open.spotify.com/track/5kLhb56IgFVGATJ9T7g7WY"
@@ -6516,7 +6556,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 143560,
       "name": "F Nostalgia",
       "url": "https://open.spotify.com/track/4xCgocd4UT5clheL1dyf6L"
@@ -7448,7 +7488,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 125463,
       "name": "Forever Alone",
       "url": "https://open.spotify.com/track/7er838bEBPYSiVsDzdSfJV"
@@ -7736,6 +7776,24 @@
       "duration_ms": 202840,
       "name": "FWB",
       "url": "https://open.spotify.com/track/5dE1yfno7uUJW5cCylWmUE"
+    },
+    {
+      "album": {
+        "name": "Class of 95",
+        "url": "https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO"
+      },
+      "artists": [
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203529,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/0Rhzk5DxjCoC4eVYV1RVSx"
     },
     {
       "album": {
@@ -8634,7 +8692,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 251428,
       "name": "Half a Joint and Jazz",
       "url": "https://open.spotify.com/track/6MVXsBAyw7MHIRgbVAHPmb"
@@ -9176,7 +9234,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182456,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/0tyY1AfQzP4karr9c6fYfz"
@@ -9882,6 +9940,32 @@
       "duration_ms": 222600,
       "name": "I Suppose",
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
+    },
+    {
+      "album": {
+        "name": "Different Space",
+        "url": "https://open.spotify.com/album/2xIvCqgbhZGenjk9BLcueX"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236365,
+      "name": "I Thought You Loved Me",
+      "url": "https://open.spotify.com/track/2VBoEzOyOj2LS7ste20pHb"
     },
     {
       "album": {
@@ -10872,6 +10956,28 @@
       "duration_ms": 90810,
       "name": "keep my cool",
       "url": "https://open.spotify.com/track/0C7XJaaDmmrf3jJjjvaMES"
+    },
+    {
+      "album": {
+        "name": "Blog Era Is Dead",
+        "url": "https://open.spotify.com/album/4sJMHZmm3rYCLQc3VLxMOP"
+      },
+      "artists": [
+        {
+          "name": "XV",
+          "url": "https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9"
+        },
+        {
+          "name": "MIKE SUMMERS",
+          "url": "https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149671,
+      "name": "Keep Your Grin Up",
+      "url": "https://open.spotify.com/track/0ZCToNspnEjkN2Jcpi5hwX"
     },
     {
       "album": {
@@ -12198,7 +12304,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 164600,
       "name": "Major",
       "url": "https://open.spotify.com/track/25ifrQvLlPr2cDZvtyGSqI"
@@ -12626,6 +12732,28 @@
       "duration_ms": 219186,
       "name": "Midnight Oil (feat. Larry June & Jay Worthy)",
       "url": "https://open.spotify.com/track/0xkeObNA3vzp5tzpXNwbbF"
+    },
+    {
+      "album": {
+        "name": "mikealstott",
+        "url": "https://open.spotify.com/album/36CfCCvFz5FI4i48Iy72E1"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218824,
+      "name": "mikealstott",
+      "url": "https://open.spotify.com/track/2jBtuFd0Dr5Z8UQvco2FJY"
     },
     {
       "album": {
@@ -15252,7 +15380,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175485,
       "name": "Preroll (feat. theMIND)",
       "url": "https://open.spotify.com/track/1l5sU4VTjRkkT9ytWHrjYj"
@@ -15358,7 +15486,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 95545,
       "name": "PROFIT",
       "url": "https://open.spotify.com/track/4XffeXDuoL8tkBIwu9f8pp"
@@ -17109,6 +17237,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "album": {
         "name": "Lost Out Loud",
         "url": "https://open.spotify.com/album/20Y3jYbFJ441vBvYMBMrsx"
       },
@@ -17296,6 +17442,24 @@
       "duration_ms": 141613,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5LRcRagKoBPGbbmkxFJ35p"
+    },
+    {
+      "album": {
+        "name": "KAST GOT WINGS",
+        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97641,
+      "name": "SLOW MONEY",
+      "url": "https://open.spotify.com/track/4k53NT1TxClQ53PL0S323t"
     },
     {
       "album": {
@@ -20051,6 +20215,28 @@
     },
     {
       "album": {
+        "name": "The Encore",
+        "url": "https://open.spotify.com/album/11WrQPBMuYt6a2JdqpruWC"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "DJ.Fresh",
+          "url": "https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144098,
+      "name": "Top Of The Morning",
+      "url": "https://open.spotify.com/track/5dlxwBSejcXd9gxn80aSH3"
+    },
+    {
+      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -21208,6 +21394,28 @@
       "duration_ms": 166997,
       "name": "wimhof",
       "url": "https://open.spotify.com/track/4di9ZH9MTfN2Esep27kvi1"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/4DVG9rNaI7D6HkPjMYk2rx"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        },
+        {
+          "name": "bridget",
+          "url": "https://open.spotify.com/artist/0htDkaya1Ij5nVpmWNsvMR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/6NKIfw0jBDeQ99xI1XCuBc"
     },
     {
       "album": {

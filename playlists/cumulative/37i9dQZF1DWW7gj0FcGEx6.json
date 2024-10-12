@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 322902,
       "name": "A New Era",
       "url": "https://open.spotify.com/track/76xQe9hXJSoGmrZ1ruNsqv"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 97706,
       "name": "Agojie Return",
       "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 76306,
       "name": "Around The World In 80 Days Theme - From The Original TV Series Soundtrack",
       "url": "https://open.spotify.com/track/1PlMCW7YPYdvOMTHGsiQ07"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177520,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Closing (We Live in Time Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2DZsp3qLJw4LTS5u7WnHQW"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115143,
+      "name": "Closing (We Live in Time Original Soundtrack)",
+      "url": "https://open.spotify.com/track/08ojlcnkBKIdYfmMpBo0XS"
+    },
+    {
+      "album": {
         "name": "Where The Crawdads Sing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 130240,
       "name": "Crimes of the Future",
       "url": "https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL"
@@ -1176,6 +1194,24 @@
       "duration_ms": 94453,
       "name": "Dark Materials: Between the Worlds",
       "url": "https://open.spotify.com/track/3xHzVzvqtHw5KTjfGvMJjm"
+    },
+    {
+      "album": {
+        "name": "Timestalker (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0BzIuPnYKeBAfxk6DzGQ0l"
+      },
+      "artists": [
+        {
+          "name": "Toydrum",
+          "url": "https://open.spotify.com/artist/2Ge3GDP9066h1TxaU5LuCF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125365,
+      "name": "Dawning Of Time",
+      "url": "https://open.spotify.com/track/0sTG4N11iK1RSsr1Y3QL1i"
     },
     {
       "album": {
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 92368,
       "name": "Djinn Theme",
       "url": "https://open.spotify.com/track/48SFgH7DBhSJ1G4bN2uYVS"
@@ -1382,7 +1418,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 51601,
       "name": "Don't Look Up - Main Title Theme",
       "url": "https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR"
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 165565,
       "name": "Ethan\u2019s Run",
       "url": "https://open.spotify.com/track/3zi5SM4swBKDHRyUl8nZEr"
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 153079,
       "name": "Father Ghost",
       "url": "https://open.spotify.com/track/0GREywg9ilk2u04Oy22Apu"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 91500,
       "name": "Father's Daughter",
       "url": "https://open.spotify.com/track/6rwOaV5ZyudZuqNEkdAwUt"
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 149010,
       "name": "FOREST RUN",
       "url": "https://open.spotify.com/track/2hPZ0UcecOjTmovBvldFcN"
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 137973,
       "name": "Grigor And Georgina Leave",
       "url": "https://open.spotify.com/track/7ooJkW9aPrXVv9LQj045mC"
@@ -2248,7 +2284,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 55520,
       "name": "Gun Barrel - From ''No Time To Die'' Soundtrack",
       "url": "https://open.spotify.com/track/2ycHXNy1oD6Syz0pGZzVq7"
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186582,
       "name": "Home",
       "url": "https://open.spotify.com/track/52xDg0M5k738bEuyIS2gaA"
@@ -2625,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Inganno (Musiche della Serie Netflix)",
+        "url": "https://open.spotify.com/album/5hWd9wyTzK76MCxchcGxuC"
+      },
+      "artists": [
+        {
+          "name": "Andrea Guerra",
+          "url": "https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205900,
+      "name": "Inganno Suite",
+      "url": "https://open.spotify.com/track/597x0CRl3FagZpYL1YJskl"
+    },
+    {
+      "album": {
         "name": "Intentions of the Mind",
         "url": "https://open.spotify.com/album/3piMfZhOc0E3C7nmFcUeg1"
       },
@@ -2724,7 +2778,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 80727,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4qiU2MttlW4RKfV1IbjrxI"
@@ -2760,7 +2814,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 249106,
       "name": "I\u2019m Ready To Go",
       "url": "https://open.spotify.com/track/7yYl5MgfsSxg6TLVQMfXVg"
@@ -2958,7 +3012,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 150323,
       "name": "Kook In Love",
       "url": "https://open.spotify.com/track/2DOdjFBjn6mSI5NW3f6Egl"
@@ -3056,7 +3110,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 58643,
       "name": "Laughter Club - From \"Memoir of a Snail\" Soundtrack",
       "url": "https://open.spotify.com/track/2fYtqX3AfNZGMxkY42IRrC"
@@ -3128,7 +3182,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 123820,
       "name": "Leah and Bex Sleep",
       "url": "https://open.spotify.com/track/4WyjmaYIeJd2P7ySunGETm"
@@ -3381,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Sweet Bobby: My Catfish Nightmare (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2IOc87b2yNr5IBEcyGHm8f"
+      },
+      "artists": [
+        {
+          "name": "Roshan Gunga",
+          "url": "https://open.spotify.com/artist/0XayfES1TP4oDcGmHYvfRO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Lighting the Beacon",
+      "url": "https://open.spotify.com/track/2JGvfDCxZ4ME4DsTrRDszP"
+    },
+    {
+      "album": {
         "name": "Borderlands (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1msbWhz1riVEbS4xqiVGpW"
       },
@@ -3435,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Teacup (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1I44ug7AD1wMruS7koe0FW"
+      },
+      "artists": [
+        {
+          "name": "David Wingo",
+          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Look And Listen",
+      "url": "https://open.spotify.com/track/79Cc3gJEaSHk2wgexnLXYk"
+    },
+    {
+      "album": {
         "name": "The Son (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY"
       },
@@ -3464,7 +3554,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 108880,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6fQDa0Wh4niERIF1svm3Zv"
@@ -3616,7 +3706,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 80680,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/2dssT0G1eXmqLoNIzKEuxN"
@@ -3652,7 +3742,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 73258,
       "name": "Make History",
       "url": "https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr"
@@ -3724,7 +3814,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 108087,
       "name": "Maps",
       "url": "https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb"
@@ -3768,7 +3858,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 141693,
       "name": "Maya\u2019s Adoption Party",
       "url": "https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH"
@@ -3816,6 +3906,32 @@
       "duration_ms": 142163,
       "name": "Meeting Ruth",
       "url": "https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO"
+    },
+    {
+      "album": {
+        "name": "Memoir of a Snail - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL"
+      },
+      "artists": [
+        {
+          "name": "Australian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn"
+        },
+        {
+          "name": "Jane Sheldon",
+          "url": "https://open.spotify.com/artist/1DL5xJ97sRiNgi90l8FHGq"
+        },
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90498,
+      "name": "Memoir of a Snail",
+      "url": "https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz"
     },
     {
       "album": {
@@ -4017,6 +4133,28 @@
     },
     {
       "album": {
+        "name": "Mother Anne",
+        "url": "https://open.spotify.com/album/3D6KNHDn9ef9iaRtk1MybS"
+      },
+      "artists": [
+        {
+          "name": "London Music Works",
+          "url": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        {
+          "name": "Snorre Tidemand",
+          "url": "https://open.spotify.com/artist/0Xjjwa7RVnLpEqAa4kjaO5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152768,
+      "name": "Mother Anne",
+      "url": "https://open.spotify.com/track/56EnG1IF4BR7lbCuoDz9w0"
+    },
+    {
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -4050,7 +4188,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 269765,
       "name": "Ms. Marvel Suite - From \"Ms. Marvel\"",
       "url": "https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR"
@@ -4234,7 +4372,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 162492,
       "name": "Nature is Timeless - from \"The Menu\" Soundtrack",
       "url": "https://open.spotify.com/track/3m7Lq24EfeviUmmV19vuyZ"
@@ -4288,7 +4426,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 225213,
       "name": "New Dawn at Fraser's Ridge",
       "url": "https://open.spotify.com/track/28TQujqPTiHBSDO6QNcrZT"
@@ -4306,7 +4444,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 229893,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/36brKgwtrp23PHA5etAKpp"
@@ -4436,7 +4574,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 209624,
       "name": "Not All Men - From \"Women Talking\" Soundtrack",
       "url": "https://open.spotify.com/track/22YAuxChtTHX8D9so4i5R5"
@@ -4618,7 +4756,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 73998,
       "name": "Our Universe",
       "url": "https://open.spotify.com/track/35oXOy6T19a5Q3o6AsslAm"
@@ -4698,7 +4836,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 228928,
       "name": "oxygen - from \"Exception\" Soundtrack",
       "url": "https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0"
@@ -4846,7 +4984,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 78253,
       "name": "Procession",
       "url": "https://open.spotify.com/track/07tlV5B44wa5DjtRTehjaH"
@@ -4864,7 +5002,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 314981,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1FzJIsb1IIVtUQ5EVtGUF0"
@@ -4886,7 +5024,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 322160,
       "name": "Redeeming Love Theme",
       "url": "https://open.spotify.com/track/748kgCBjhP38e0XAU1cbk4"
@@ -5058,7 +5196,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 235960,
       "name": "Retribution",
       "url": "https://open.spotify.com/track/49IUOMngf0Ua7HY5BRQkxi"
@@ -5102,6 +5240,28 @@
       "duration_ms": 82813,
       "name": "Ride The Horse",
       "url": "https://open.spotify.com/track/3N9ChMXKQSlpH52I63Vum6"
+    },
+    {
+      "album": {
+        "name": "Alien: Isolation (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ"
+      },
+      "artists": [
+        {
+          "name": "The Flight",
+          "url": "https://open.spotify.com/artist/633wBWQrbgm4Tugw7MmsgA"
+        },
+        {
+          "name": "Christian Henson",
+          "url": "https://open.spotify.com/artist/43phWnHAoYFbL2Uv8hw6kU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116302,
+      "name": "Ripley's Theme (From Alien: Isolation)",
+      "url": "https://open.spotify.com/track/4a6S4pO5niekZfVeisEyRu"
     },
     {
       "album": {
@@ -5414,7 +5574,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 145360,
       "name": "She-Hulk: Attorney at Law - From \"She-Hulk: Attorney at Law\"",
       "url": "https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t"
@@ -5432,7 +5592,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 291573,
       "name": "Shield of Pain - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/6JZvhoSW7sq6OYhmxbT8o3"
@@ -5660,7 +5820,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 125746,
       "name": "Stop Right Now",
       "url": "https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj"
@@ -5808,7 +5968,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 64762,
       "name": "Super Pumped Main Theme",
       "url": "https://open.spotify.com/track/3fhdGqjknGADOomuY87BVf"
@@ -5924,7 +6084,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147261,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/6xxpRXHpaEtF0hAU5wNA9O"
@@ -6036,7 +6196,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 295760,
       "name": "The Adam Project",
       "url": "https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe"
@@ -6090,7 +6250,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161315,
       "name": "The Banished Angel - From \"The Musical Anthology of His Dark Materials\" Series 3",
       "url": "https://open.spotify.com/track/2eukTYngjYXpq61xu2b0Mn"
@@ -6188,7 +6348,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175699,
       "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
       "url": "https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC"
@@ -6282,7 +6442,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 221321,
       "name": "The Dojo",
       "url": "https://open.spotify.com/track/7g5b7Am6SLhHdK4tXppObw"
@@ -6428,7 +6588,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 92799,
       "name": "The Gilded Age (Main Title) - from \"The Gilded Age\"",
       "url": "https://open.spotify.com/track/5Q8rGIeJMxJsdaEoTvZgk9"
@@ -6482,7 +6642,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 134400,
       "name": "The Kingdom of Dreams (Main Title Theme)",
       "url": "https://open.spotify.com/track/7z5VsNMFFsAufyFUhC0UDo"
@@ -6578,6 +6738,28 @@
       "duration_ms": 256855,
       "name": "The Last Supper",
       "url": "https://open.spotify.com/track/0UxZ04Csr9AAv2Ruob7YVe"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider: The Legend of Lara Croft (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2NpaicKVrtVD1wkpzHcjFb"
+      },
+      "artists": [
+        {
+          "name": "Pinar Toprak",
+          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        },
+        {
+          "name": "Gerrit Wunder",
+          "url": "https://open.spotify.com/artist/6taotzW6M0wk6mQuUZTYyw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112880,
+      "name": "The Legend of Lara Croft",
+      "url": "https://open.spotify.com/track/0mkp9je8ttvYD3IEOt46p1"
     },
     {
       "album": {
@@ -6784,7 +6966,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 276573,
       "name": "The Outfit",
       "url": "https://open.spotify.com/track/2JiHkNF8d6JBqmxy54WYQw"
@@ -6892,7 +7074,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 274271,
       "name": "The Prince That Was Promised (from \"House of the Dragon\")",
       "url": "https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM"
@@ -7486,7 +7668,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 126427,
       "name": "Uncharted",
       "url": "https://open.spotify.com/track/403J2ArGAXfFE6H1Ip14zB"
@@ -7512,6 +7694,24 @@
       "duration_ms": 123960,
       "name": "Underneath",
       "url": "https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f"
+    },
+    {
+      "album": {
+        "name": "Uprising (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HZHK6M97lJjHWPBAhOiIX"
+      },
+      "artists": [
+        {
+          "name": "Cho Young-Wuk",
+          "url": "https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311871,
+      "name": "Uprising Ending",
+      "url": "https://open.spotify.com/track/6KACuXAi0TR3zoVXebB76J"
     },
     {
       "album": {
@@ -7588,7 +7788,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 232851,
       "name": "Video Games - from \"Westworld: Season 4\"",
       "url": "https://open.spotify.com/track/2zFhqeicX665k6vGPeTeDW"
@@ -7722,7 +7922,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 207313,
       "name": "We Will Heal",
       "url": "https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE"
@@ -7758,7 +7958,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 122565,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6"
@@ -8008,7 +8208,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 269720,
       "name": "Wrap Up",
       "url": "https://open.spotify.com/track/3FzH2Ukw68NNLsYKDkgdLW"
@@ -8070,6 +8270,24 @@
       "duration_ms": 235500,
       "name": "You Are One of Us",
       "url": "https://open.spotify.com/track/0pMuFnl4nOtuFSoC9PI0GI"
+    },
+    {
+      "album": {
+        "name": "Girl Haunts Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29pZbUCJmvKBSa6iTczKEm"
+      },
+      "artists": [
+        {
+          "name": "Keegan DeWitt",
+          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84946,
+      "name": "You Knew",
+      "url": "https://open.spotify.com/track/24OoQEToYc8mjMEyvptY6T"
     },
     {
       "album": {

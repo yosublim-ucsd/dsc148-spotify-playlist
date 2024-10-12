@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 575842,
+  "num_followers": 575885,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAAcgtJzfurHhZTQfNsOxA2x",
+  "snapshot_id": "ZwiiwAAAAACVpXy7ihPyKcfMizoqR+pz",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "EEEEEE",
+        "url": "https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "EEEEEE",
+      "url": "https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -291,34 +311,6 @@
       "duration_ms": 234026,
       "name": "Ascendence",
       "url": "https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Jellowstoned",
-        "url": "https://open.spotify.com/album/3gzVnpDE5qcrusH3UuNOZT"
-      },
-      "artists": [
-        {
-          "name": "cosmic collective",
-          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
-        },
-        {
-          "name": "DJ PRAWN",
-          "url": "https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x"
-        },
-        {
-          "name": "Trey Tarzia",
-          "url": "https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R"
-        },
-        {
-          "name": "DJ Harrison",
-          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Autophagy Master",
-      "url": "https://open.spotify.com/track/3p0bE9o9cM1sFafJUjqKDT"
     },
     {
       "added_at": "2024-03-22 04:01:00",

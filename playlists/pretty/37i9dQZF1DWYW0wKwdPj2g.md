@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,740 likes - 103 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,787 likes - 103 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 102 | [Sing For Joy](https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW) | [Ccioma](https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF) | [Sing For Joy](https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz) | 7:09 |
 | 103 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \- Live](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 |
 
-Snapshot ID: `ZwhqvAAAAACmXOM6CLUmXdmKI0rD/5aT`
+Snapshot ID: `ZwhqvAAAAABlwDlqMRwTHRdDFddhA0OQ`

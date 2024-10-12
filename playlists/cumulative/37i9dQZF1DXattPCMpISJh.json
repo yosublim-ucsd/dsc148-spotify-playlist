@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 214285,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/7sCjuA6HWsFzPt4KvM1w6J"
@@ -4918,6 +4918,24 @@
       "duration_ms": 196451,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
     },
     {
       "album": {

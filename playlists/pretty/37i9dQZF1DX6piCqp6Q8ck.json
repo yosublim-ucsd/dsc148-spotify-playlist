@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmv3PQAAAAA/eN0QVX3WhV9SsZ3ldwE9",
+  "snapshot_id": "Zmv3PQAAAAB0tlJ+247lLoEEBF13ndBe",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
-      },
-      "artists": [
-        {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        },
-        {
-          "name": "Margareta Bengtson",
-          "url": "https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "The Last Day of the Year",
-      "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+      },
+      "artists": [
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Margareta Bengtson",
+          "url": "https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "The Last Day of the Year",
+      "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"
     },
     {
       "added_at": "2023-12-19 09:14:04",

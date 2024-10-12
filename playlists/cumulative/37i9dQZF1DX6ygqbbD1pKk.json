@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Coco - Banda Sonora Original en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121670,
+      "name": "El Latido de mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1"
+    },
+    {
+      "album": {
         "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
         "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
       },

@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este, Nivel en portada.
 
-190 songs - 9 hr 44 min
+192 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,8 @@
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-03-06 |  |
 | [Sobran Motivos](https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Sobran Motivos](https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l) | 3:06 | 2023-07-14 | 2024-04-19 |
 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 | 2023-03-06 | 2023-11-09 |
-| [Tarjeta Roja](https://open.spotify.com/track/7ao3kq0S5LsL6vWPj1tTM7) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Tarjeta Roja](https://open.spotify.com/album/0DssIH6eBeziE3sX0LYjYa) | 2:21 | 2024-05-17 |  |
-| [Te Esperaba](https://open.spotify.com/track/4JyrzxhbHpubC0kfdYkCNy) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Esperaba](https://open.spotify.com/album/6SVr0PyanOVn49lTKdlwGd) | 3:33 | 2024-03-01 |  |
+| [Tarjeta Roja](https://open.spotify.com/track/7ao3kq0S5LsL6vWPj1tTM7) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Tarjeta Roja](https://open.spotify.com/album/0DssIH6eBeziE3sX0LYjYa) | 2:21 | 2024-05-17 | 2024-10-12 |
+| [Te Esperaba](https://open.spotify.com/track/4JyrzxhbHpubC0kfdYkCNy) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Esperaba](https://open.spotify.com/album/6SVr0PyanOVn49lTKdlwGd) | 3:33 | 2024-03-01 | 2024-10-12 |
 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 | 2023-03-06 |  |
 | [Te Quiero Ver](https://open.spotify.com/track/0V4weTyspxyq2AI5OuWGx8) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Quiero Ver](https://open.spotify.com/album/7x6X9chpDQnoqpt8pX9yA8) | 2:49 | 2023-09-29 | 2024-08-03 |
 | [Te Vas a Acordar de Mi](https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 3:24 | 2023-03-06 |  |
@@ -182,7 +182,9 @@
 | [Tu Forma de Ser](https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Así Somos](https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ) | 3:14 | 2023-03-06 |  |
 | [Tus Historias Mienten](https://open.spotify.com/track/6M3fUO8he626evmaoYay1a) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Tus Historias Mienten](https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d) | 2:26 | 2024-10-07 |  |
 | [Tuve Que Marcar](https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Estado Melancólico](https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq) | 2:21 | 2023-09-29 | 2024-01-13 |
+| [Ultimadamente](https://open.spotify.com/track/3RkTybs3IQ3B1hT8oF8RA5) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Ultimadamente](https://open.spotify.com/album/5VU9pQh8es15ZejYaskMvE) | 2:43 | 2024-10-11 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 | 2023-09-29 |  |
+| [Un Mujerón](https://open.spotify.com/track/6EdaW24zoFoIRegHCNH3WR) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Un Mujerón](https://open.spotify.com/album/6ranPfsbYdUzOmArJcVYer) | 2:04 | 2024-10-11 |  |
 | [Vicio](https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [Vicio](https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv) | 3:06 | 2023-11-08 | 2024-04-19 |
 | [Volvamos a Empezar](https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Entre Compas y Canciones](https://open.spotify.com/album/26fFGqPpAOyAOEd1ZcIdD7) | 3:11 | 2024-05-17 | 2024-09-28 |
 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 | 2023-03-06 | 2024-04-19 |

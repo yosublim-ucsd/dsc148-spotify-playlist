@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,889 likes - 138 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,952 likes - 138 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 137 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 | 138 | [Winds of Wonder](https://open.spotify.com/track/2prKrojFxMm6Ctp1OfyCXl) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Present Patience](https://open.spotify.com/album/0Ka3k88d56pHMtyjt7vU6n) | 3:24 |
 
-Snapshot ID: `ZsSNYwAAAABzFL+77xGFQolRnRmSdATU`
+Snapshot ID: `ZsSNYwAAAAAe1A/2lmSZqL5FRFWWcj3N`

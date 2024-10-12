@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Chezile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,193 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,235 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 89 | [The Thrill Of It](https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [The Thrill Of It](https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd) | 3:16 |
 | 90 | [What \(I Wish\) He Said](https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [What \(I Wish\) He Said](https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl) | 2:41 |
 
-Snapshot ID: `Zv/XNgAAAAALN3shP2CoKgfYdtYf/pjm`
+Snapshot ID: `Zv/XNgAAAABm6uanVZ6JuSP9703OFLmb`

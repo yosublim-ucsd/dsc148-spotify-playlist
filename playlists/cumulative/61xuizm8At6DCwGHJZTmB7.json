@@ -2437,6 +2437,32 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/04G4OkDXXBnCm4M1zmonQJ"
+      },
+      "artists": [
+        {
+          "name": "Campus Rush Music",
+          "url": "https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472715,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/6xDgwhg96xuu2Df1o3o4Nc"
+    },
+    {
+      "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
       },
@@ -8545,6 +8571,28 @@
     },
     {
       "album": {
+        "name": "Son of Man (Live)",
+        "url": "https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545750,
+      "name": "Son of Man - Live",
+      "url": "https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV"
+    },
+    {
+      "album": {
         "name": "All To Jesus (Live)",
         "url": "https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf"
       },
@@ -8772,6 +8820,28 @@
       "duration_ms": 291458,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax"
+    },
+    {
+      "album": {
+        "name": "Still Do Miracles",
+        "url": "https://open.spotify.com/album/0e7YFfa7APXLfoVJEihwSW"
+      },
+      "artists": [
+        {
+          "name": "Engedi Music",
+          "url": "https://open.spotify.com/artist/4Mc68ttSCK8Gdfef5eQM1V"
+        },
+        {
+          "name": "Anthony Stallion",
+          "url": "https://open.spotify.com/artist/0itRB2H80G6Hq3mIjLE5mE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393266,
+      "name": "Still Do Miracles",
+      "url": "https://open.spotify.com/track/1qvCgYSG77jqsZmHOjeF3n"
     },
     {
       "album": {

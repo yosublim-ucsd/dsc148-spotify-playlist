@@ -1,12 +1,12 @@
 {
-  "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 238468,
+  "description": "'Tis the season! All new holiday releases. Cover: Kelly Clarkson",
+  "num_followers": 238465,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvb/LwAAAACBLBv7wN7nZCMkNHWBILqU",
+  "snapshot_id": "Zwl0MQAAAADLav1LP8opl+85tn3qL1ob",
   "tracks": [
     {
       "added_at": "2024-09-27 18:53:35",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
     },
     {
+      "added_at": "2024-10-11 16:41:18",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 235271,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY"
+    },
+    {
+      "added_at": "2024-10-11 16:41:18",
+      "album": {
+        "name": "The Christmas Record",
+        "url": "https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 201669,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac"
+    },
+    {
       "added_at": "2024-09-27 18:53:35",
       "album": {
         "name": "Merry Christmas (Welcome to the Family)",
@@ -39,6 +71,22 @@
       "duration_ms": 273320,
       "name": "Merry Christmas (Welcome to the Family)",
       "url": "https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "Good All Year",
+        "url": "https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 133441,
+      "name": "Good All Year",
+      "url": "https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb"
     },
     {
       "added_at": "2024-08-30 16:49:56",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
+      "added_at": "2024-10-11 16:41:18",
+      "album": {
+        "name": "Silent Night (Rewrapped)",
+        "url": "https://open.spotify.com/album/7tUKF1eCLttc5JhB16RzN7"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 222118,
+      "name": "Silent Night (Rewrapped)",
+      "url": "https://open.spotify.com/track/1bf0MfdSf6Li9e1F6gkUw9"
+    },
+    {
       "added_at": "2024-08-30 16:49:56",
       "album": {
         "name": "fruitcake",
@@ -87,6 +151,102 @@
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/7AMbJ3T898Vk1coBwlQ1nI"
+      },
+      "artists": [
+        {
+          "name": "The KVB",
+          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/0J0zdHM1qVQpNmc7cx5zRZ"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "A Tyler Shaw Christmas",
+        "url": "https://open.spotify.com/album/54t92A7UnB3Y7ht3OYT5OL"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 168204,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1ZuL07UkaLYf96d6GpWJQu"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "Go Tell It",
+        "url": "https://open.spotify.com/album/27iQzu3q7Uc1iOdFIonRpU"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 360138,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/3KLba6NmXhTMfVuI3COpt4"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/2a2w9hcUVaqEvsCg7xJ68i"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 114092,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/5Bma1Rcuq1eiWMYAhimZCz"
+    },
+    {
+      "added_at": "2024-10-11 18:53:37",
+      "album": {
+        "name": "New Star Shining",
+        "url": "https://open.spotify.com/album/3LJYzeIAJ7EkDAUZzqXvZ8"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 207242,
+      "name": "Come And See What's Happenin'",
+      "url": "https://open.spotify.com/track/0w6mZ4kicxzDtIJobQ8cOx"
+    },
+    {
+      "added_at": "2024-10-11 16:41:18",
+      "album": {
+        "name": "Christmas in Love",
+        "url": "https://open.spotify.com/album/32eda4L6p5DJUwc7oPxb1I"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Christmas in Love",
+      "url": "https://open.spotify.com/track/43g6GeT4cgyxGxyUrEayzK"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -123,6 +283,22 @@
       "duration_ms": 172199,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/3040AHnjXSrUCJzmO0yhJz"
+    },
+    {
+      "added_at": "2024-10-11 16:41:18",
+      "album": {
+        "name": "Another Season Alone",
+        "url": "https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 192820,
+      "name": "Another Season Alone",
+      "url": "https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY"
     },
     {
       "added_at": "2024-09-16 15:04:15",
@@ -751,30 +927,6 @@
       "duration_ms": 200133,
       "name": "Pure Imagination / Christmas Time Is Here",
       "url": "https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "A Family Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40e9pazTAllvr1Megh30z1"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Matteo Bocelli",
-          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
-        },
-        {
-          "name": "Virginia Bocelli",
-          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/0G9OtxxIYXGfOnOz5JgLqX"
     },
     {
       "added_at": "2024-08-30 16:49:56",

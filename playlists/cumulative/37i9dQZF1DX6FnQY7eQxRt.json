@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "Bethlehem Whispers",
+        "url": "https://open.spotify.com/album/5Jh5rfiPQ3dpB4akX8sw6o"
+      },
+      "artists": [
+        {
+          "name": "Thomas Hewitt Jones",
+          "url": "https://open.spotify.com/artist/6YsinAkM0jBHU6umepGAaZ"
+        },
+        {
+          "name": "Gordon Giles",
+          "url": "https://open.spotify.com/artist/3FvgzWiOOCj1xnWppLTtf2"
+        },
+        {
+          "name": "Vivum Singers",
+          "url": "https://open.spotify.com/artist/4CZj74AVBEXGK21JxbJqcg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179714,
+      "name": "Bethlehem Whispers",
+      "url": "https://open.spotify.com/track/3BAafxCgfLbKkp0ryqlmNp"
+    },
+    {
+      "album": {
         "name": "A Danish Christmas",
         "url": "https://open.spotify.com/album/4Wgp4I3W728vIRGmjk7FPo"
       },
@@ -942,6 +968,36 @@
       "duration_ms": 78346,
       "name": "Ceremony of Carols, Op. 28: Balulalow",
       "url": "https://open.spotify.com/track/46oQBYq0GOL5qSs5zYkNjn"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Christmas Oratorio, BWV 248, Pt. 1: No. 1, Jauchzet, frohlocket, auf, preiset die Tage",
+        "url": "https://open.spotify.com/album/4qFT71u7Sgji4jJVsAOOaW"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470866,
+      "name": "Christmas Oratorio, BWV 248, Pt. 1 \"For the First Day of Christmas\": No. 1, Jauchzet, frohlocket, auf, preiset die Tage",
+      "url": "https://open.spotify.com/track/35RvzEbC2uIofNO0XtnEIe"
     },
     {
       "album": {
@@ -1389,6 +1445,36 @@
     },
     {
       "album": {
+        "name": "Huron Carol",
+        "url": "https://open.spotify.com/album/5mVZcWksTA1gFBNmogL2OA"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Windsbacher Knabenchor",
+          "url": "https://open.spotify.com/artist/60jvihLnawjn2BXOOCC9Nq"
+        },
+        {
+          "name": "Lautten Compagney",
+          "url": "https://open.spotify.com/artist/0vo2ovp2PVDLDsTExmkFpo"
+        },
+        {
+          "name": "Ludwig B\u00f6hme",
+          "url": "https://open.spotify.com/artist/7aGISaFlCZAojtkkBPqO52"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Huron Carol",
+      "url": "https://open.spotify.com/track/5xd2Cg7R9FRRdpVV9GNIfZ"
+    },
+    {
+      "album": {
         "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/2VjrGKb7neODxFYw7tSvcb"
       },
@@ -1457,6 +1543,32 @@
     },
     {
       "album": {
+        "name": "In the Bleak Midwinter",
+        "url": "https://open.spotify.com/album/5q2CzU5bnlePVWcLB4ecMO"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "The Choir Of St John's College, Oxford",
+          "url": "https://open.spotify.com/artist/1IP63eNDPnYutYWMy4LXFx"
+        },
+        {
+          "name": "David Bannister",
+          "url": "https://open.spotify.com/artist/6izf8AYyqTafKRCH2f2GsF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/2LWVKywDxEglU6X4Jo7eWw"
+    },
+    {
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/4TE1s26Ks49JwJgXtATsm4"
       },
@@ -1472,7 +1584,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 311853,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/3Qq32MdNMcHyPtO77Fhcza"
@@ -1728,10 +1840,36 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 257906,
       "name": "Lully, Lulla, Lullay",
       "url": "https://open.spotify.com/track/5IH3g2BW7Jw5yRSMPyZTL4"
+    },
+    {
+      "album": {
+        "name": "Lully, Lulla, Lullay",
+        "url": "https://open.spotify.com/album/0QiluLX0Ab01sVSNieA3Da"
+      },
+      "artists": [
+        {
+          "name": "Philip Stopford",
+          "url": "https://open.spotify.com/artist/0hmhv5CTaXOilOf0hGeIvN"
+        },
+        {
+          "name": "The Choir Of St John's College, Oxford",
+          "url": "https://open.spotify.com/artist/1IP63eNDPnYutYWMy4LXFx"
+        },
+        {
+          "name": "David Bannister",
+          "url": "https://open.spotify.com/artist/6izf8AYyqTafKRCH2f2GsF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Lully, Lulla, Lullay",
+      "url": "https://open.spotify.com/track/3Ph2mf5oK7oviKdAdIKCxz"
     },
     {
       "album": {
@@ -1776,6 +1914,36 @@
       "duration_ms": 255773,
       "name": "Lux Aurumque",
       "url": "https://open.spotify.com/track/6eYBCKmpPRcgNAflT977eh"
+    },
+    {
+      "album": {
+        "name": "Walton: Make we joy now in this fest",
+        "url": "https://open.spotify.com/album/6TfaWbdBWbNFVd9xLW1Zuo"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "Christ Church Cathedral Choir, Oxford",
+          "url": "https://open.spotify.com/artist/5QmgloMl18ljj1oOwben4T"
+        },
+        {
+          "name": "Steven Grahl",
+          "url": "https://open.spotify.com/artist/2IHSEvh2fIWiw9U0UBwHqJ"
+        },
+        {
+          "name": "Benjamin Sheen",
+          "url": "https://open.spotify.com/artist/1hppzePMBtwPWzcajx4tj5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Make we joy now in this fest",
+      "url": "https://open.spotify.com/track/5ucdnpekKHRL4OVF7ueaM5"
     },
     {
       "album": {
@@ -1970,6 +2138,32 @@
       "duration_ms": 268400,
       "name": "Nativity Carol",
       "url": "https://open.spotify.com/track/7GczKxsMlsCvDLqVpUHAtf"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Maconchy: Nowell, Nowell, Nowell",
+        "url": "https://open.spotify.com/album/0DvVwYBcLY3H2sFCydq5Fs"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Maconchy",
+          "url": "https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn"
+        },
+        {
+          "name": "The Chapel Choir of the Royal Hospital Chelsea",
+          "url": "https://open.spotify.com/artist/6Ep9eD9kFI7PRG03dTJZS0"
+        },
+        {
+          "name": "William Vann",
+          "url": "https://open.spotify.com/artist/6TpiPf483xEqalMSmFNpUT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106760,
+      "name": "Nowell, Nowell, Nowell",
+      "url": "https://open.spotify.com/track/3RIKbBmniz8KhnsPZrQEFn"
     },
     {
       "album": {

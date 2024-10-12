@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,369 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,373 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Full Package](https://open.spotify.com/track/5Hi8Eq36XjCppUkruLgWm5) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Full Package](https://open.spotify.com/album/4eN2lQZMgHdcmjuaIY2uB6) | 2:26 |
 | 60 | [Otulo](https://open.spotify.com/track/0P1NDu5JWfCXnAA0CdLf1w) | [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw) | [Otulo](https://open.spotify.com/album/6kCT9FtonNw8R8cG7Hy4yV) | 3:37 |
 
-Snapshot ID: `Zv891AAAAAATeNMtyNcj3RgdJibR58bq`
+Snapshot ID: `Zv891AAAAABnc9kFWls7/WLt8+SzXtCD`

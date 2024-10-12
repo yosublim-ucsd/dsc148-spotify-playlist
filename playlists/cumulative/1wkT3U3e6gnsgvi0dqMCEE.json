@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
       },
@@ -1569,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "Le blues d'la m\u00e9tropole (Edition Remix\u00e9e)",
+        "url": "https://open.spotify.com/album/7m8zl4j1H4mHDOsmo5ooVZ"
+      },
+      "artists": [
+        {
+          "name": "Beau Dommage",
+          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
+        },
+        {
+          "name": "Ghyslain-Luc Lavigne",
+          "url": "https://open.spotify.com/artist/7fCX4sRNEnnfHxiHQgyu6P"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "Le blues d'la m\u00e9tropole - Edition Remix\u00e9e",
+      "url": "https://open.spotify.com/track/0yRkEh3ZjjdK5Uf3yeCXIA"
+    },
+    {
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
@@ -1901,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
+        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108373,
+      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
+      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
+    },
+    {
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -2078,6 +2136,28 @@
       "duration_ms": 184506,
       "name": "No Return - Extended Version From The Original Series \u201cYellowjackets\u201d",
       "url": "https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ"
+    },
+    {
+      "album": {
+        "name": "Only Daddy That'll Walk The Line (Live)",
+        "url": "https://open.spotify.com/album/5rShS38G1jp1VtYRUSLKj5"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "The Confederates",
+          "url": "https://open.spotify.com/artist/1VQ3LT1TuReHJb4BeMD1RR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "Only Daddy That'll Walk The Line - Live",
+      "url": "https://open.spotify.com/track/3gt6EGCjd77DBJWayCjeYT"
     },
     {
       "album": {

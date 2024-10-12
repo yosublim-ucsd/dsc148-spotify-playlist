@@ -1,15 +1,15 @@
 {
   "description": "Le rap francophone est en forme. Photo: SDM",
-  "num_followers": 16729,
+  "num_followers": 16743,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAAh1Xa8v0M3Fe3K0VP2xB0q",
+  "snapshot_id": "ZwiiwAAAAAB/CdfVkclW95vcHqA4iPn6",
   "tracks": [
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
         "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
@@ -45,7 +45,79 @@
       "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "TELLEMENT",
+      "url": "https://open.spotify.com/track/2IRPBtxyymzRVZ069OkTZQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -69,83 +141,7 @@
       "url": "https://open.spotify.com/track/5B286OoIX6KAJezPQ02dgz"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Capitaine fait de l'art",
-        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "J\u2019crois qu\u2019ils ont pas compris",
-      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "DZ D\u2019AMERIQUE",
-        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        },
-        {
-          "name": "Rim'K",
-          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "TELLEMENT",
-      "url": "https://open.spotify.com/track/2IRPBtxyymzRVZ069OkTZQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Bolide Noir",
-        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Bolide Noir",
-      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "TOKA",
-        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "TOKA",
-      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Tentation (feat. Hamza)",
         "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
@@ -165,7 +161,23 @@
       "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mr Fastlife",
+        "url": "https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "duration_ms": 178656,
+      "name": "Bodies N Vvs",
+      "url": "https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
@@ -189,7 +201,7 @@
       "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -209,7 +221,27 @@
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -225,23 +257,7 @@
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Mr Fastlife",
-        "url": "https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4"
-      },
-      "artists": [
-        {
-          "name": "Zinera",
-          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
-        }
-      ],
-      "duration_ms": 178656,
-      "name": "Bodies N Vvs",
-      "url": "https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Tour",
         "url": "https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "MANON B",
         "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "\u00c7a m\u00e8ne \u00e0 rien",
         "url": "https://open.spotify.com/album/5J2yAIMQREow94vQwRahxm"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/2uUYBVQ9EPQeuox1yD5Niw"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Quill\u00e9",
         "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Maudit",
         "url": "https://open.spotify.com/album/4Q3jOM5dPofPLTSVanGVBM"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/441BFongsHOE1kQKMsVGWm"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Nothing Personal - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Dougie",
         "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "SUR LE CHEMIN - Phase 2",
         "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "DZ D\u2019AMERIQUE",
         "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
@@ -517,27 +533,7 @@
       "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "CORDILL\u00c8RE",
-        "url": "https://open.spotify.com/album/418EPRQmBowaZ83gpoFZUJ"
-      },
-      "artists": [
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "CORDILL\u00c8RE",
-      "url": "https://open.spotify.com/track/50q0GexjZcu6EeIq1alMjb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Fausse note",
         "url": "https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "LA VIE RAPIDE",
         "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "JVLIVS Prequel : Giulio",
         "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
@@ -593,7 +589,7 @@
       "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Conscious Rapper",
         "url": "https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce"
@@ -609,7 +605,7 @@
       "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
@@ -629,7 +625,7 @@
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Memory (Extended Version)",
         "url": "https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY"
@@ -649,7 +645,7 @@
       "url": "https://open.spotify.com/track/70T34qUA8otqXwxraVSbry"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
@@ -669,7 +665,7 @@
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
@@ -685,7 +681,7 @@
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -705,7 +701,7 @@
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "M\u00e9lanine",
         "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
@@ -725,7 +721,7 @@
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Plus fort.",
         "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "PRINCE",
         "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
@@ -801,7 +797,7 @@
       "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "P\u00e9roxyde",
         "url": "https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH"
@@ -869,7 +865,7 @@
       "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "\u00c7a Parait",
         "url": "https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ"
@@ -885,7 +881,7 @@
       "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP"
@@ -905,7 +901,7 @@
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "1 2 3 4",
         "url": "https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ"
@@ -925,7 +921,7 @@
       "url": "https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "MAELSTR\u00d6M",
         "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"

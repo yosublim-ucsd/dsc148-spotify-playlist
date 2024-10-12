@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Atmos",
+        "url": "https://open.spotify.com/album/7a2RhxqIcmH2DHa0ZG3OuM"
+      },
+      "artists": [
+        {
+          "name": "Flux Zone",
+          "url": "https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Atmos",
+      "url": "https://open.spotify.com/track/7KUZcM96eFDRllqP1obote"
+    },
+    {
+      "album": {
         "name": "Attenzione Pickpocket",
         "url": "https://open.spotify.com/album/4ryQvw5jS590UdAqrWPjOQ"
       },
@@ -1851,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "2Much Future",
+          "url": "https://open.spotify.com/artist/3mLmDRSfkhpaXTaCIQ16lk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221190,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe"
+    },
+    {
+      "album": {
         "name": "Dancin'",
         "url": "https://open.spotify.com/album/6XI0fO1BWw9u0cD2wMRg2c"
       },
@@ -2078,10 +2118,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171000,
       "name": "Destino",
       "url": "https://open.spotify.com/track/6Eaakw6tnG6i7Af9OYb5F4"
+    },
+    {
+      "album": {
+        "name": "Different Way",
+        "url": "https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196829,
+      "name": "Different Way",
+      "url": "https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr"
     },
     {
       "album": {
@@ -2126,7 +2188,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 236065,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/6ktJMFOkWEya3GL3nL02u9"
@@ -3220,7 +3282,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 187200,
       "name": "Four Elements",
       "url": "https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1"
@@ -5182,7 +5244,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157734,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
@@ -6160,7 +6222,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 195744,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
@@ -6182,6 +6244,32 @@
       "duration_ms": 142080,
       "name": "Never Go Home",
       "url": "https://open.spotify.com/track/3eN21IMAIuX6IXEnJQzFBR"
+    },
+    {
+      "album": {
+        "name": "Never Letting Go (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122839,
+      "name": "Never Letting Go",
+      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
     },
     {
       "album": {
@@ -7930,7 +8018,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 265161,
       "name": "SERENA",
       "url": "https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj"
@@ -8043,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "SMACK MY BITCH UP",
+        "url": "https://open.spotify.com/album/7qxB5oguYnStizAjwTB0Q8"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Amesens",
+          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "SMACK MY BITCH UP",
+      "url": "https://open.spotify.com/track/1PGjrdORlsE1vZ7aZh3gF2"
+    },
+    {
+      "album": {
         "name": "Smile (feat. Carolina Liar)",
         "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
       },
@@ -8080,6 +8190,32 @@
       "duration_ms": 162914,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "album": {
+        "name": "Song Stuck In My Head",
+        "url": "https://open.spotify.com/album/3DHPYSnWc0B2vxY4QJpIgK"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161463,
+      "name": "Song Stuck In My Head",
+      "url": "https://open.spotify.com/track/7AlcGsMJIwtZ24W2LObswT"
     },
     {
       "album": {
@@ -8333,6 +8469,28 @@
     },
     {
       "album": {
+        "name": "Still My Baby",
+        "url": "https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "Still My Baby",
+      "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
+    },
+    {
+      "album": {
         "name": "Straight Up",
         "url": "https://open.spotify.com/album/1ylvIVtXgZcmTiXZ48LEIY"
       },
@@ -8352,7 +8510,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210500,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/303qnQkhKDmtBIWr3No7XY"

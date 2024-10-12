@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Broccoli, you too?\(브로콜리너마저\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zuka\(주카\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-739 songs - 1 day 20 hr 35 min
+740 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
 | [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 | 2023-03-25 |
 | [Habit](https://open.spotify.com/track/7IxgIn4YcdJjtaE9dqw1zw) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3), [LIPNINE](https://open.spotify.com/artist/1q5u8LnvomvAmiMhg8kRDp) | [Intermission](https://open.spotify.com/album/377CA84mWXSqmnxqEwBJ6W) | 2:55 | 2024-03-21 | 2024-05-10 |
+| [Halcyon Days](https://open.spotify.com/track/2towEUSMIArsvlEjj9RWiP) | [Zuka](https://open.spotify.com/artist/7Ddps4sP2VR3dHEuZDd9r0) | [Wonderland](https://open.spotify.com/album/3cA99WNBVeCWwhnVlaqnKw) | 2:43 | 2024-10-11 |  |
 | [Hangman](https://open.spotify.com/track/4547YWizllfrQtsVPkqq8D) | [ChiVee](https://open.spotify.com/artist/3nR6kcQuqyXQAblPOAckih) | [Hangman](https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9) | 3:25 | 2024-04-30 | 2024-05-10 |
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2022-04-12 | 2022-07-26 |
 | [HAPPENING](https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/3C5U9NYko3wIPimlaCaZZz) | 3:44 | 2023-09-20 | 2023-11-10 |
@@ -334,7 +335,7 @@
 | [Landed](https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 3:55 | 2022-04-12 | 2022-07-22 |
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-06-09 | 2022-06-15 |
 | [Last Train](https://open.spotify.com/track/7Bxl2qQEPBswcSX5jnSnO1) | [Goowoolim](https://open.spotify.com/artist/1p7AbBfZ41aENPCSV67Z8q) | [Dr\. Daisy / Last Train](https://open.spotify.com/album/0dYeRPYYLqet8poebDDuWZ) | 4:52 | 2022-04-12 | 2022-04-21 |
-| [Laundry revolution \(feat\. CHOILB\)](https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 3:21 | 2024-10-04 |  |
+| [Laundry revolution \(feat\. CHOILB\)](https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 3:21 | 2024-10-04 | 2024-10-12 |
 | [Lean On Me](https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/15gBYmuSr8A938CRieIRKp) | 4:01 | 2022-04-21 | 2022-07-09 |
 | [let it be summer](https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [let it be summer](https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y) | 3:14 | 2023-08-25 | 2023-09-07 |
 | [let it be summer](https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:14 | 2023-09-04 | 2023-09-20 |

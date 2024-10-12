@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1120594,
+  "num_followers": 1120647,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuN4igAAAAASQQ36ZjnNHlE4d9WynhNm",
+  "snapshot_id": "ZuN4igAAAABFGJVs/lm5TkyzvofFzw9n",
   "tracks": [
     {
       "added_at": "2024-09-12 23:26:02",
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 188720,
-      "name": "Flor sin reto\u00f1o",
-      "url": "https://open.spotify.com/track/14B84dgQLpq7av8d62UdY9"
+      "duration_ms": 181720,
+      "name": "Amorcito coraz\u00f3n",
+      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
+      "duration_ms": 188720,
+      "name": "Flor sin reto\u00f1o",
+      "url": "https://open.spotify.com/track/14B84dgQLpq7av8d62UdY9"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "De Un Rancho A Otro",
-        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "De un Rancho a Otro",
-      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177423,
       "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
       "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "De Un Rancho A Otro",
+        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "De un Rancho a Otro",
+      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
     },
     {
       "added_at": "2024-09-12 23:26:02",

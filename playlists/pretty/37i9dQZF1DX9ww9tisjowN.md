@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,143 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,642 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [すくりぃむ！](https://open.spotify.com/track/7HkNdAaxSeDBxibDxJID0Q) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [すくりぃむ！](https://open.spotify.com/album/7nAnSF8dVNj6xEvptxyalH) | 3:02 |
 | 75 | [I want tomorrow to come](https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come](https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ) | 4:13 |
 
-Snapshot ID: `Zwfr8AAAAABdtp16WmwSWTPSxmtDFyrU`
+Snapshot ID: `Zwfr8AAAAABZ64IZG5Kwem8lYKTlg9Wv`

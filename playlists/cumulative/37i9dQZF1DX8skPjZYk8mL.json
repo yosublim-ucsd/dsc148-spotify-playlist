@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 112158,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/3XIbyKZYaKgmE4Y3gdo7d3"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 123456,
       "name": "Bonne nuit mon prince",
       "url": "https://open.spotify.com/track/5W03XGSGZLULtu0UykT4iv"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 116352,
       "name": "Cuddle Buddy",
       "url": "https://open.spotify.com/track/7nQIubktmlfzQyiGLKrdNq"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 95100,
       "name": "Dance a Baby Diddy",
       "url": "https://open.spotify.com/track/1rt2kja54OlDITKmvwFBfi"
@@ -5333,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Flying At Night",
+        "url": "https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93580,
+      "name": "Flying At Night",
+      "url": "https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh"
+    },
+    {
+      "album": {
         "name": "Flying Home",
         "url": "https://open.spotify.com/album/4ZRnVeDMOx1lp0IkHWXqSE"
       },
@@ -6572,6 +6590,24 @@
       "duration_ms": 94822,
       "name": "Happy Little Mouse",
       "url": "https://open.spotify.com/track/3CCuGcNhvZPqcFP92PqMnk"
+    },
+    {
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K"
+      },
+      "artists": [
+        {
+          "name": "Peyton Malloye",
+          "url": "https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107709,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp"
     },
     {
       "album": {
@@ -13066,7 +13102,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 119617,
       "name": "Serene Slumber",
       "url": "https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy"
@@ -16457,6 +16493,24 @@
     },
     {
       "album": {
+        "name": "The Summer Song",
+        "url": "https://open.spotify.com/album/4IDDkan328vqj516VfsBno"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jesse",
+          "url": "https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100169,
+      "name": "The Summer Song",
+      "url": "https://open.spotify.com/track/7cMiMt0PxADfw0qyJntLOw"
+    },
+    {
+      "album": {
         "name": "The Sun Has Set",
         "url": "https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1"
       },
@@ -17516,6 +17570,24 @@
       "duration_ms": 111633,
       "name": "Twilight Embrace",
       "url": "https://open.spotify.com/track/42uTb7TEMMmRfHpqMisPqg"
+    },
+    {
+      "album": {
+        "name": "Twilight Song",
+        "url": "https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2"
+      },
+      "artists": [
+        {
+          "name": "Little Miles",
+          "url": "https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Twilight Song",
+      "url": "https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS"
     },
     {
       "album": {
@@ -19114,7 +19186,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 109941,
       "name": "Your Own Bedtime Lullaby",
       "url": "https://open.spotify.com/track/3xOTmMXM9gk4BieY6VxM48"

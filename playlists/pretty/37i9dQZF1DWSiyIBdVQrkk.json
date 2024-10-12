@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2235815,
+  "num_followers": 2235893,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrE8ZgAAAADV5ff6omvXVpo5+4VSEVxB",
+  "snapshot_id": "ZrE8ZgAAAACZ7k3PZvXWXumBz5qW8FGx",
   "tracks": [
     {
       "added_at": "2024-08-05 20:56:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Don Corleon Presents - Changes Riddim",
         "url": "https://open.spotify.com/album/6SXfwsj0EgY6HvUdi0mY98"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 207908,
       "name": "Never Find",
       "url": "https://open.spotify.com/track/0lrY5x74InbSUqH93mI1K3"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "True Reflections...A New Beginning",
+        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 241600,
       "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "True Reflections...A New Beginning",
-        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Longing For",
-      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Too Long In Slavery",
-        "url": "https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ"
-      },
-      "artists": [
-        {
-          "name": "Culture",
-          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "The International Herb",
-      "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Reign Of Fire",
         "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Too Long In Slavery",
+        "url": "https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ"
+      },
+      "artists": [
+        {
+          "name": "Culture",
+          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "The International Herb",
+      "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 222953,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Most Wanted Series - Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 387306,
       "name": "Zungguzungguguzungguzeng",
       "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 222953,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Steamers a Bubble",
-        "url": "https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty"
-      },
-      "artists": [
-        {
-          "name": "Jah9",
-          "url": "https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH"
-        }
-      ],
-      "duration_ms": 257343,
-      "name": "Steamers a Bubble",
-      "url": "https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 217288,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Steamers a Bubble",
+        "url": "https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty"
+      },
+      "artists": [
+        {
+          "name": "Jah9",
+          "url": "https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH"
+        }
+      ],
+      "duration_ms": 257343,
+      "name": "Steamers a Bubble",
+      "url": "https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213977,
       "name": "The Kalling",
       "url": "https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Nathalia",
+          "url": "https://open.spotify.com/artist/0N8vin0BrXOgEZvdOtjEJ3"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/1edoALZCzhBVjdQckf2xzj"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Forward I Will Go",
         "url": "https://open.spotify.com/album/56tMQe3320UxHWkAJdYcNt"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Nathalia",
-          "url": "https://open.spotify.com/artist/0N8vin0BrXOgEZvdOtjEJ3"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/1edoALZCzhBVjdQckf2xzj"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Gunman",
         "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "If You Only Knew",
-        "url": "https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk"
-      },
-      "artists": [
-        {
-          "name": "Sevana",
-          "url": "https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS"
-        }
-      ],
-      "duration_ms": 241762,
-      "name": "If You Only Knew",
-      "url": "https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Catch A Fire",
         "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 173266,
       "name": "Slave Driver - Jamaican Version",
       "url": "https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "If You Only Knew",
+        "url": "https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk"
+      },
+      "artists": [
+        {
+          "name": "Sevana",
+          "url": "https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS"
+        }
+      ],
+      "duration_ms": 241762,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7"
     },
     {
       "added_at": "2024-08-05 20:56:06",

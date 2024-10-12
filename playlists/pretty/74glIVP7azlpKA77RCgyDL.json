@@ -1,13 +1,97 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Sol Invicto.",
-  "num_followers": 8720,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Scowl.",
+  "num_followers": 8734,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMxJu7A6nPA+RwfAKR7kin4QWhyhfV",
+  "snapshot_id": "AAAMy3fqMkJYIDIxjEAFPIZWRAjqp25v",
   "tracks": [
+    {
+      "added_at": "2024-10-11 18:50:52",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
+    },
+    {
+      "added_at": "2024-10-11 18:51:05",
+      "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
+    },
+    {
+      "added_at": "2024-10-11 18:51:22",
+      "album": {
+        "name": "Night Terror",
+        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 595160,
+      "name": "Night Terror",
+      "url": "https://open.spotify.com/track/0bFg4i9Izzpc4p9bTj4Pug"
+    },
+    {
+      "added_at": "2024-10-11 18:51:37",
+      "album": {
+        "name": "Cross To Bear",
+        "url": "https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx"
+      },
+      "artists": [
+        {
+          "name": "Aversed",
+          "url": "https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF"
+        }
+      ],
+      "duration_ms": 244736,
+      "name": "Cross To Bear",
+      "url": "https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP"
+    },
+    {
+      "added_at": "2024-10-11 18:51:51",
+      "album": {
+        "name": "Terrible",
+        "url": "https://open.spotify.com/album/2X19ucyv9Hl9LseDljVAzn"
+      },
+      "artists": [
+        {
+          "name": "Spanaway",
+          "url": "https://open.spotify.com/artist/5CZRAfYbDHouv7au1BdlB6"
+        }
+      ],
+      "duration_ms": 274893,
+      "name": "Terrible",
+      "url": "https://open.spotify.com/track/17V4nI2x1EieJB88aY78ph"
+    },
     {
       "added_at": "2024-10-04 19:30:07",
       "album": {

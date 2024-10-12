@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,577 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 4 | [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 |
 | 5 | [Oh Oh Oh](https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [DJ PMX](https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [For The Street](https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf) | 3:02 |
 | 6 | [FIT CHECK](https://open.spotify.com/track/07yz2s32BoVLrtdJ1zipEa) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [FIT CHECK](https://open.spotify.com/album/5xL9lz9Mku1HMyEuxUrxA4) | 2:14 |
-| 7 | [ベンツ](https://open.spotify.com/track/24C61kbYl9WXByQWTaOv4n) | [TeTe](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [茈](https://open.spotify.com/album/5JTRxaII7PuNB9KZkZGrml) | 3:23 |
+| 7 | [ベンツ](https://open.spotify.com/track/24C61kbYl9WXByQWTaOv4n) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [茈](https://open.spotify.com/album/5JTRxaII7PuNB9KZkZGrml) | 3:23 |
 | 8 | [壮](https://open.spotify.com/track/5v3gStz5vXX0yDsHpJuuIn) | [Ty Lee](https://open.spotify.com/artist/3krwyU6LZBM1Zh1R2RILwx) | [monologue](https://open.spotify.com/album/3w2FWEmvuLgU5JPaDCFXLl) | 3:07 |
 | 9 | [Dum Diggy Diggy Dumb](https://open.spotify.com/track/3YlrZRgo6luyFmCeWc3CWO) | [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh) | [Filtration \- EP](https://open.spotify.com/album/1gDxaVq7gsFSBM3ZuZCmpY) | 2:20 |
 | 10 | [Very Very Rare](https://open.spotify.com/track/2VYapRk2F1lbDCiA3vD8wq) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/19tG0IyvryThuOfTC8wTCk) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Conclusion](https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE) | [Conclusion](https://open.spotify.com/album/7oEhBHRIGkwc4QOBFB1iBP) | 3:14 |
 | 100 | [hotori](https://open.spotify.com/track/1DqXABInhcOmj1UDq9yman) | [daiju](https://open.spotify.com/artist/2DwtlKDOdPzRd7zabvi71h) | [hotori](https://open.spotify.com/album/6BJOYesM1tzRhUd59rxcKA) | 2:14 |
 
-Snapshot ID: `ZwXbMwAAAAD8tJeX6/qGr2IZVh6QjLkj`
+Snapshot ID: `ZwXbMwAAAABJb22yWWfHt/YPD+dkpN2Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,535 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,578 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 49 | [One Time \- Earthsuit 2000 Album Version](https://open.spotify.com/track/1Q9o5YS8sF60FpCzhG7628) | [Earthsuit](https://open.spotify.com/artist/0ues6uPY9fNQNLlpV9Qxqr) | [Kaleidoscope Superior](https://open.spotify.com/album/0t0depqHMDvV1M2Zvm4bXp) | 4:20 |
 | 50 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 
-Snapshot ID: `ZwY6HgAAAAA78PxeKN8ys1uhq5GilFTm`
+Snapshot ID: `ZwY6HgAAAADJnY30nwTLR0xCZXVPE829`

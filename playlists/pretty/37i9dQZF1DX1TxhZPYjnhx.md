@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: FINNEAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,893 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 108 | [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 |
 | 109 | [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 |
 
-Snapshot ID: `ZwZHtgAAAADNi0fckNWynIPEYFljLrYv`
+Snapshot ID: `ZwZHtgAAAAAAwVCV5pubuBsRjkyMfEzn`

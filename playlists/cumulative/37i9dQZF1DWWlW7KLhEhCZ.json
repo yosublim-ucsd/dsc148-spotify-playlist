@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Druhh e Drehh",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Niink",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 166299,
       "name": "10 NAMORADAS.",
       "url": "https://open.spotify.com/track/4vSZRM4jGhGWmjG1gXlfrU"
@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Ainda no Mesmo Bairro (freestyle)",
+        "url": "https://open.spotify.com/album/7EDbVaq6ayKVsrDAZ8TiSA"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Ainda no Mesmo Bairro (freestyle)",
+      "url": "https://open.spotify.com/track/6WJ5n9z0zXKLmmO7kH91sf"
+    },
+    {
+      "album": {
         "name": "Ainda to na base",
         "url": "https://open.spotify.com/album/3Qknj6GQNwx2okqlLjveme"
       },
@@ -2404,7 +2430,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 127537,
       "name": "Atiradores",
       "url": "https://open.spotify.com/track/6VHDsR5ALG9SqumICsLNpR"
@@ -7668,10 +7694,32 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171428,
       "name": "Daiquiri",
       "url": "https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH"
+    },
+    {
+      "album": {
+        "name": "Dama da Noite",
+        "url": "https://open.spotify.com/album/7dJJQ75J68X5sVEJvH0wOE"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "Dama da Noite",
+      "url": "https://open.spotify.com/track/0CADcThrvKA6ZV6qjlL3ui"
     },
     {
       "album": {
@@ -12298,7 +12346,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 150009,
       "name": "FIVELA",
       "url": "https://open.spotify.com/track/2wGYAQpl28vGQDwI9F7h8W"
@@ -15241,6 +15289,28 @@
     },
     {
       "album": {
+        "name": "Jogo de Azar",
+        "url": "https://open.spotify.com/album/2dn1lw3IVlYp7qeW2syK49"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/2L23K8zNKbooy6E0W0vwKu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153070,
+      "name": "Jogo de Azar",
+      "url": "https://open.spotify.com/track/1awy1YJVpm5uvTadnpiI1t"
+    },
+    {
+      "album": {
         "name": "Jogo do Bicho",
         "url": "https://open.spotify.com/album/1SowDroZuixt9Yt6k9HPGT"
       },
@@ -16454,7 +16524,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 146014,
       "name": "Lua Cheia",
       "url": "https://open.spotify.com/track/4lNb4NGdhYymsUCowmkWy9"
@@ -17344,6 +17414,24 @@
       "duration_ms": 177144,
       "name": "MANDRAKA DO MOMENTO",
       "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
+    },
+    {
+      "album": {
+        "name": "Dono de Uma Vibe",
+        "url": "https://open.spotify.com/album/730aBb3Az6nBccqNNS3jpr"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147660,
+      "name": "Manga Larga",
+      "url": "https://open.spotify.com/track/5iPo7q3H8F4rG7ke1e3Mqn"
     },
     {
       "album": {
@@ -19087,6 +19175,28 @@
     },
     {
       "album": {
+        "name": "Moltisanti",
+        "url": "https://open.spotify.com/album/3jycd8lsOuqF4rozVXtcwB"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "YOUN9 BEV",
+          "url": "https://open.spotify.com/artist/46swjO0Ply5O7GwS9WD8dX"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148793,
+      "name": "Moltisanti",
+      "url": "https://open.spotify.com/track/5zcw9ZApIzqJdVKFuBpFTM"
+    },
+    {
+      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/5yUCX67aRpSfl1oEf3p8Lg"
       },
@@ -19342,6 +19452,24 @@
       "duration_ms": 197348,
       "name": "Mulheres no Lounge",
       "url": "https://open.spotify.com/track/6EOENxbHbwJr0jnbnkMqLR"
+    },
+    {
+      "album": {
+        "name": "Mundo Dos Vetin",
+        "url": "https://open.spotify.com/album/27gofgaJSl02Yv1zjXKEVE"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mundo Dos Vetin",
+      "url": "https://open.spotify.com/track/5agR6nypBRPVuXn8UZMc2j"
     },
     {
       "album": {
@@ -20076,6 +20204,28 @@
       "duration_ms": 203075,
       "name": "Nova Mitsubishi (feat. biggie diehl & Vulggo D)",
       "url": "https://open.spotify.com/track/3vKFfSjpCIF37xgVpF7rWw"
+    },
+    {
+      "album": {
+        "name": "Novinha Cacheada",
+        "url": "https://open.spotify.com/album/4ZXmtPoQBKPfdYQsLuIWXT"
+      },
+      "artists": [
+        {
+          "name": "Ricch's",
+          "url": "https://open.spotify.com/artist/5w5f5wkwy8wRvxr0YAV1Xv"
+        },
+        {
+          "name": "ZackZin",
+          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141413,
+      "name": "Novinha Cacheada",
+      "url": "https://open.spotify.com/track/14ZbHUnB8ElTVJstoBWSU5"
     },
     {
       "album": {
@@ -20904,7 +21054,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 124527,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2KgJKrLfp07TwXSQPs4UXg"
@@ -21498,6 +21648,32 @@
       "duration_ms": 154000,
       "name": "Pai de Menina",
       "url": "https://open.spotify.com/track/1uXAncNlLShTKI6znWiZqh"
+    },
+    {
+      "album": {
+        "name": "Panacota",
+        "url": "https://open.spotify.com/album/0hmHO4SpYNGTmZNebT0J8k"
+      },
+      "artists": [
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "LADOZERO11",
+          "url": "https://open.spotify.com/artist/6Lx5XFzXmVEqbVsBTT99cs"
+        },
+        {
+          "name": "PedronesPrince",
+          "url": "https://open.spotify.com/artist/27NZjUR3kpctF8cHdYZSmU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Panacota",
+      "url": "https://open.spotify.com/track/1eVz0JXCvYsJIxypzdoPfJ"
     },
     {
       "album": {
@@ -25565,6 +25741,32 @@
     },
     {
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Rotina 2",
+      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
+    },
+    {
+      "album": {
         "name": "Rotina da RLT",
         "url": "https://open.spotify.com/album/0qjZb2Z2jcCfNdc4yobhI5"
       },
@@ -26820,7 +27022,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 197052,
       "name": "Signo",
       "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
@@ -28192,7 +28394,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 120500,
       "name": "TEMPORADA DE CA\u00c7A",
       "url": "https://open.spotify.com/track/3azbqkgx1deK6PUDGPPlRR"
@@ -28414,7 +28616,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 135111,
       "name": "Thanos",
       "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
@@ -29608,7 +29810,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175913,
       "name": "T\u00f4 Mec",
       "url": "https://open.spotify.com/track/4k01c37qLIGZ6zyRlWViUf"
@@ -29768,6 +29970,28 @@
       "duration_ms": 156000,
       "name": "UZI",
       "url": "https://open.spotify.com/track/1R0J1RL0LxVgDR5xTlunIC"
+    },
+    {
+      "album": {
+        "name": "O MUNDO \u00c9 DOS ESPERTOS",
+        "url": "https://open.spotify.com/album/0dSKMT4IKgxQAjAlePfaGN"
+      },
+      "artists": [
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "Novato Mc",
+          "url": "https://open.spotify.com/artist/2uVEAh3RP4CqkRM9ropLxu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127274,
+      "name": "VAGABUNDO VITAL\u00cdCIO",
+      "url": "https://open.spotify.com/track/2qbFnENCUW6p3Cs816c2IN"
     },
     {
       "album": {

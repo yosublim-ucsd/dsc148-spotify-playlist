@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,724 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,732 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [The Cold Song](https://open.spotify.com/track/17n7O0A3B86m0wepImtEIu) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Klaus Nomi](https://open.spotify.com/album/45nPQ2MnfspUquqmNSfVhd) | 4:04 |
 | 70 | [India And On Down to Australia \(feat\. ANOHNI\)](https://open.spotify.com/track/5YDIxFmR85C3ib8T9PijwG) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [India And On Down to Australia \(feat\. ANOHNI\)](https://open.spotify.com/album/3NE7Jqgu4tdNSKJZxp2mXt) | 3:51 |
 
-Snapshot ID: `Zuqp9wAAAAAsa7zuxhCLvtnolmYFA5rX`
+Snapshot ID: `Zuqp9wAAAAC0/pPRQIcE83mVDY6pA8MH`

@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: Jessé Alcantara
+> Entre os versos e beats, a palavra do Senhor\. Foto: Big Asher
 
-433 songs - 22 hr 15 min
+434 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 | 2024-01-05 | 2024-08-23 |
 | [Deixa Falarem](https://open.spotify.com/track/2CfJm3k7P31wkuORnFBYak) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Deixa Falarem](https://open.spotify.com/album/1h0TZwfa0mNfApgkZbHo4J) | 2:34 | 2023-03-03 | 2023-10-07 |
 | [Dependo de Ti \- Remix](https://open.spotify.com/track/4Hop1Q65T8brZjw3c4DI0j) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Dependo de Ti \(Remix\)](https://open.spotify.com/album/45mod29sjkt5TH1VPubweA) | 3:42 | 2023-04-15 | 2023-06-03 |
-| [Desenvolvimento](https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj) | [Diego Ddl](https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5) | [Desenvolvimento](https://open.spotify.com/album/7vK5vdVins3earh6Bi0BhA) | 2:07 | 2024-09-07 |  |
+| [Desenvolvimento](https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj) | [Diego Ddl](https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5) | [Desenvolvimento](https://open.spotify.com/album/7vK5vdVins3earh6Bi0BhA) | 2:07 | 2024-09-07 | 2024-10-12 |
 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 | 2022-03-22 | 2023-09-09 |
 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 | 2022-03-22 | 2023-03-18 |
 | [Deus Não Usa Rolex](https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Deus Não Usa Rolex](https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD) | 1:44 | 2023-09-01 | 2024-06-15 |
@@ -150,6 +150,7 @@
 | [Fala Que É Crente](https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W) | [Educky](https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy) | [Fala Que É Crente](https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB) | 2:51 | 2024-10-07 |  |
 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 | 2022-03-25 | 2023-09-02 |
 | [Famoso: Gn 12](https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Famoso: Gn 12](https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz) | 2:29 | 2023-03-17 | 2023-07-08 |
+| [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 | 2024-10-11 |  |
 | [Fatos & Fatos](https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Fatos & Fatos](https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh) | 3:04 | 2023-03-03 | 2023-07-29 |
 | [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 | 2023-03-04 |
 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 | 2022-06-10 | 2024-06-08 |

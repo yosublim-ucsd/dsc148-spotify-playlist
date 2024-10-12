@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=lMe2GOXCQKuIEcwAMn6WZg\">Pabi Cooper</a>, <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=SvbSAlbMTBO7l3Q7f4aJIg\">Focalistic</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=F7MBYa4bQkCwMF5D-w_uZg\">Ggoldie</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 411445,
       "name": "Amagwala (feat. Mellow & Sleazy & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/6k20SpZAK5P9juV4u0PKUc"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 377142,
       "name": "Billiato",
       "url": "https://open.spotify.com/track/2Cw1vwubaXpVggD8SW0OwU"
@@ -4978,6 +4978,48 @@
       "duration_ms": 255000,
       "name": "Boomba - Radio Edit",
       "url": "https://open.spotify.com/track/0JIrWjVupkdPJmp68qnvKR"
+    },
+    {
+      "album": {
+        "name": "Bopha",
+        "url": "https://open.spotify.com/album/3jkYIDP5mBJIyyBCmr8ISi"
+      },
+      "artists": [
+        {
+          "name": "Ggoldie",
+          "url": "https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "malume.hypeman",
+          "url": "https://open.spotify.com/artist/17IwC4QqUvRjti226YPDwm"
+        },
+        {
+          "name": "II Wise Fellas",
+          "url": "https://open.spotify.com/artist/4VlbvhKU7dpelQWdHTPpso"
+        },
+        {
+          "name": "T.M.A_Rsa",
+          "url": "https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402957,
+      "name": "Bopha",
+      "url": "https://open.spotify.com/track/4SeM58fCNYmCOZHiFOa379"
     },
     {
       "album": {
@@ -10501,6 +10543,36 @@
     },
     {
       "album": {
+        "name": "Hamba No Choppa (feat. Djy Biza)",
+        "url": "https://open.spotify.com/album/099oJmmYc7IwIavV0UNhw1"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237911,
+      "name": "Hamba No Choppa (feat. Djy Biza)",
+      "url": "https://open.spotify.com/track/0Q3L5M1D7gthDXFTzxRyP7"
+    },
+    {
+      "album": {
         "name": "Hamba Wena",
         "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
       },
@@ -13943,6 +14015,32 @@
     },
     {
       "album": {
+        "name": "Izandla",
+        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "Izandla - Radio Edit",
+      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
+    },
+    {
+      "album": {
         "name": "Izenzo",
         "url": "https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w"
       },
@@ -15406,6 +15504,32 @@
       "duration_ms": 240000,
       "name": "Khuphuka",
       "url": "https://open.spotify.com/track/4dCw4y68bhjbV2z24wKj4Y"
+    },
+    {
+      "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/0y2Vp1F5NWcpF0D8Ayk3qK"
+      },
+      "artists": [
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310864,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/2NlMopYjB6KOicGkoZHDFo"
     },
     {
       "album": {
@@ -25385,6 +25509,36 @@
     },
     {
       "album": {
+        "name": "Shaya Istina (feat. Amahle.tc & Nation Deep)",
+        "url": "https://open.spotify.com/album/4RmiuIoHspuuq2LLhYImW8"
+      },
+      "artists": [
+        {
+          "name": "Philharmonic",
+          "url": "https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Amahle.tc",
+          "url": "https://open.spotify.com/artist/2ZVCI7mGbe21hjMCuGMKmE"
+        },
+        {
+          "name": "Nation Deep",
+          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348362,
+      "name": "Shaya Istina (feat. Amahle.tc & Nation Deep)",
+      "url": "https://open.spotify.com/track/3Wly0zlNeiyGIKCGhwZs1M"
+    },
+    {
+      "album": {
         "name": "Shaya Lento",
         "url": "https://open.spotify.com/album/7fR0pN0MLiNARwSyFFPRwi"
       },
@@ -25974,7 +26128,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 422148,
       "name": "Sis Brenda (feat. Madumane & Xduppy)",
       "url": "https://open.spotify.com/track/3t5IFwdmnpAb1KeytqRz7W"
@@ -30154,7 +30308,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 443893,
       "name": "TOUCHED THE SKY - DBN GOGO & EFFECTED VS DENNIS FERRER (FEAT. TRIPLE X DA GHOST & MIA TUTTAVILLA)",
       "url": "https://open.spotify.com/track/5fdTC0zQNb1pLg3tmobQ9t"
@@ -32640,7 +32794,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 371322,
       "name": "Utshwala (feat. Lington)",
       "url": "https://open.spotify.com/track/2kBPRuHGxiSwNQnSS1xvOI"

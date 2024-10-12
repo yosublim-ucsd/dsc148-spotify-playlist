@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Bhavi",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 ODD MAMI",
   "name": "piola",
   "tracks": [
     {
@@ -966,6 +966,24 @@
       "duration_ms": 145171,
       "name": "CAEN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt"
+    },
+    {
+      "album": {
+        "name": "NUEVA SANGRE",
+        "url": "https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr"
+      },
+      "artists": [
+        {
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "CAFE NEGRO",
+      "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
     },
     {
       "album": {
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "General Paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG"
       },
@@ -2720,7 +2756,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 198000,
       "name": "Leopardos",
       "url": "https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ"
@@ -2924,6 +2960,28 @@
       "duration_ms": 210750,
       "name": "Losers' Paradise",
       "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "album": {
+        "name": "Lowa",
+        "url": "https://open.spotify.com/album/1e1MUH83nO7vrNRF3ABtx1"
+      },
+      "artists": [
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+        },
+        {
+          "name": "Soulnastyy",
+          "url": "https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159963,
+      "name": "Lowa",
+      "url": "https://open.spotify.com/track/37gGnbqD6q9KXt2xnfbvnI"
     },
     {
       "album": {
@@ -3660,10 +3718,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 229249,
       "name": "Nada para siempre",
       "url": "https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB"
+    },
+    {
+      "album": {
+        "name": "Nadena",
+        "url": "https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145089,
+      "name": "Nadena",
+      "url": "https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE"
     },
     {
       "album": {
@@ -3682,7 +3758,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 166705,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
@@ -4000,7 +4076,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
@@ -4505,6 +4581,28 @@
     },
     {
       "album": {
+        "name": "Pesar",
+        "url": "https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky"
+      },
+      "artists": [
+        {
+          "name": "Melingo",
+          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
+        },
+        {
+          "name": "Pity Alvarez",
+          "url": "https://open.spotify.com/artist/3ZM2EFVMGSXyEqn3l3HA26"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267848,
+      "name": "Pesar",
+      "url": "https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr"
+    },
+    {
+      "album": {
         "name": "Piel",
         "url": "https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2"
       },
@@ -4880,7 +4978,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 176000,
       "name": "Risa - Cover",
       "url": "https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT"
@@ -6362,7 +6460,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 174144,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"

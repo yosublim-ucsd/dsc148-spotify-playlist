@@ -1,12 +1,12 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59162,
+  "num_followers": 59168,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAADC9ZLwnvIEC4Adtr6IOsLe",
+  "snapshot_id": "ZwhOYAAAAABikksld2kfgLsrb6M9UT8N",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "8 Days",
-        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 130391,
-      "name": "8 Days",
-      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 155616,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 177428,
       "name": "Someone Was Listening (from Life is Strange)",
       "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "APTIT",
+        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168047,
+      "name": "APTIT",
+      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 200346,
       "name": "Dina \u00d6gon \u00c4r Nakna",
       "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "APTIT",
-        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168047,
-      "name": "APTIT",
-      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ce Soir?",
-        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
-      },
-      "artists": [
-        {
-          "name": "\u00c4ngie",
-          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
-        }
-      ],
-      "duration_ms": 198005,
-      "name": "Ce Soir?",
-      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "P\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 189599,
       "name": "P\u00e5 v\u00e4g",
       "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ce Soir?",
+        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
+      },
+      "artists": [
+        {
+          "name": "\u00c4ngie",
+          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
+        }
+      ],
+      "duration_ms": 198005,
+      "name": "Ce Soir?",
+      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 166741,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Passa dig",
         "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "STILL",
-        "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
       },
       "artists": [
         {
-          "name": "REX WARREN",
-          "url": "https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 122758,
-      "name": "STILL",
-      "url": "https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq"
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 191073,
       "name": "P\u00e5 sommaren",
       "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "STILL",
+        "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
+      },
+      "artists": [
+        {
+          "name": "REX WARREN",
+          "url": "https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU"
+        }
+      ],
+      "duration_ms": 122758,
+      "name": "STILL",
+      "url": "https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Havet",
-        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
-      },
-      "artists": [
-        {
-          "name": "Marcus Berggren",
-          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Havet",
-      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "HON SA",
         "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 167479,
       "name": "HON SA",
       "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Havet",
+        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
+      },
+      "artists": [
+        {
+          "name": "Marcus Berggren",
+          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Havet",
+      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
     },
     {
       "added_at": "2024-10-10 22:00:00",

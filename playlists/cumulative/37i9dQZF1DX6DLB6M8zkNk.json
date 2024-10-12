@@ -43,6 +43,24 @@
     },
     {
       "album": {
+        "name": "A Colour Field (Piano Version)",
+        "url": "https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154086,
+      "name": "A Colour Field - Piano Version",
+      "url": "https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk"
+    },
+    {
+      "album": {
         "name": "A Hidden Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
       },
@@ -1288,6 +1306,24 @@
       "duration_ms": 218631,
       "name": "TAURUS \u201cThe Tenacious\u201d",
       "url": "https://open.spotify.com/track/2NV9i08M1svidk4zvL9hz8"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/6nBVEJrqjD5jOG4ZQjl2Ua"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262328,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/0Ck7tvzXxOQtxqj2WnGvzf"
     },
     {
       "album": {

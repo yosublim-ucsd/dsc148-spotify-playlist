@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Illest Morena",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Matthaios",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -1309,6 +1309,32 @@
     },
     {
       "album": {
+        "name": "Dulo",
+        "url": "https://open.spotify.com/album/3qxYGGu2UyKKyfXOatLZQO"
+      },
+      "artists": [
+        {
+          "name": "Kylu",
+          "url": "https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5"
+        },
+        {
+          "name": "Yamada",
+          "url": "https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI"
+        },
+        {
+          "name": "Vaughn",
+          "url": "https://open.spotify.com/artist/5jy8TSg982wcBINinxTMc1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Dulo",
+      "url": "https://open.spotify.com/track/422s4sn1hQclqci1rUl78a"
+    },
+    {
+      "album": {
         "name": "EL CHAPO",
         "url": "https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q"
       },
@@ -1338,7 +1364,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 176000,
       "name": "ever",
       "url": "https://open.spotify.com/track/4U7ADjYjMEpvzrjh2i3fho"
@@ -1520,7 +1546,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148292,
       "name": "Ganon ka rin?",
       "url": "https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV"
@@ -1709,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Handa Ka Ba",
+        "url": "https://open.spotify.com/album/3rvItCAjXieA18AgSjoJhb"
+      },
+      "artists": [
+        {
+          "name": "Samsara 304",
+          "url": "https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228879,
+      "name": "Handa Ka Ba",
+      "url": "https://open.spotify.com/track/6OiJpYVW6x6l1CZTI1Ah3a"
+    },
+    {
+      "album": {
         "name": "HATDOG (ft. James Reid)",
         "url": "https://open.spotify.com/album/4tHTQhh34jaLf5KrQzeP0L"
       },
@@ -1856,7 +1900,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 190000,
       "name": "Highschool",
       "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
@@ -1878,6 +1922,28 @@
       "duration_ms": 175706,
       "name": "HINAHANAP-HANAP",
       "url": "https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7"
+    },
+    {
+      "album": {
+        "name": "HIndi Na Nga",
+        "url": "https://open.spotify.com/album/6pYELxhtoQFk45F7oWXNy5"
+      },
+      "artists": [
+        {
+          "name": "ALLURA",
+          "url": "https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC"
+        },
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "HIndi Na Nga",
+      "url": "https://open.spotify.com/track/7jirOEqNXjzsT6kXo3Pxul"
     },
     {
       "album": {
@@ -2058,7 +2124,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157860,
       "name": "I NEED YAH",
       "url": "https://open.spotify.com/track/686gseRGIq0VHF3O22EmWU"
@@ -2316,7 +2382,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155177,
       "name": "imahe",
       "url": "https://open.spotify.com/track/5CCnKOKEj1x2Y8qDu28avh"
@@ -2572,6 +2638,24 @@
       "duration_ms": 224000,
       "name": "Katabi",
       "url": "https://open.spotify.com/track/3Ey3JBGEBcGFc7zbnSZwji"
+    },
+    {
+      "album": {
+        "name": "kaya kaya",
+        "url": "https://open.spotify.com/album/1B0ZgJZhWMPFcwWgfDmy9m"
+      },
+      "artists": [
+        {
+          "name": "Jiji",
+          "url": "https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189337,
+      "name": "kaya kaya",
+      "url": "https://open.spotify.com/track/2sN1luMYIaywC0IwaoZAtL"
     },
     {
       "album": {
@@ -3202,7 +3286,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
@@ -3300,7 +3384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 189928,
       "name": "Malisya",
       "url": "https://open.spotify.com/track/2o5NkN4nNpmAx3QscFfTS2"
@@ -3542,7 +3626,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184451,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/1TbkeE5t46kxqRXzGpQ60t"
@@ -4466,7 +4550,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
@@ -4646,7 +4730,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 197000,
       "name": "Samo",
       "url": "https://open.spotify.com/track/0l8XHdlqbOUfyEgVdufvei"
@@ -4940,7 +5024,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 211653,
       "name": "Sinungaling",
       "url": "https://open.spotify.com/track/7EchZq7Pg2h9e8IhFM6kPu"
@@ -5559,6 +5643,28 @@
     },
     {
       "album": {
+        "name": "Ughwit",
+        "url": "https://open.spotify.com/album/4UmzyThOD0R6vWJBgBrBQw"
+      },
+      "artists": [
+        {
+          "name": "Elh\u00e9",
+          "url": "https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao"
+        },
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Ughwit",
+      "url": "https://open.spotify.com/track/2IWxHLlhYKtt1Dyabi8PTX"
+    },
+    {
+      "album": {
         "name": "ulan",
         "url": "https://open.spotify.com/album/30Zf1vIhmHRfKSsHnsbGef"
       },
@@ -5610,6 +5716,28 @@
       "duration_ms": 165096,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
+    },
+    {
+      "album": {
+        "name": "Wag Lang Ganon",
+        "url": "https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF"
+      },
+      "artists": [
+        {
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
+        },
+        {
+          "name": "Jiji",
+          "url": "https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Wag Lang Ganon",
+      "url": "https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z"
     },
     {
       "album": {
@@ -5740,7 +5868,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 212943,
       "name": "Yoko Na",
       "url": "https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC"

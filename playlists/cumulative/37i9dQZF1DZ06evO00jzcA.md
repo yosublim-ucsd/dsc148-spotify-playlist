@@ -2,7 +2,7 @@
 
 ### [This Is KISS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA)
 
-> This Is KISS\. Los temas esenciales, todos en una lista.
+> This is KISS\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 93 songs - 6 hr 7 min
 

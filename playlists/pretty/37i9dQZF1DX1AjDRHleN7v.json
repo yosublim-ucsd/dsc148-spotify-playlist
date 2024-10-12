@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 327720,
+  "num_followers": 327908,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvrGFgAAAAB2hyMTykXz36XTKyYMy3ho",
+  "snapshot_id": "ZvrGFgAAAABzGMZu2CpPPSvgIMcCcK+H",
   "tracks": [
     {
       "added_at": "2024-09-30 15:39:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "eu n\u00e3o queria mais nada",
         "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 148187,
       "name": "eu n\u00e3o queria mais nada",
       "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
+      },
+      "artists": [
+        {
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "TEM CORAGEM",
-        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
-      },
-      "artists": [
-        {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 244487,
-      "name": "TEM CORAGEM",
-      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
-      },
-      "artists": [
-        {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Coletivo (Remasterizado)",
         "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
       },
@@ -1019,34 +1003,18 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Manh\u00e3s Azuis",
-        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
       "artists": [
         {
-          "name": "Rafa!",
-          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
         }
       ],
-      "duration_ms": 186874,
-      "name": "Manh\u00e3s Azuis",
-      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -1067,6 +1035,38 @@
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Manh\u00e3s Azuis",
+        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+      },
+      "artists": [
+        {
+          "name": "Rafa!",
+          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Manh\u00e3s Azuis",
+      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
     }
   ],
   "unique_name": "Praiana",

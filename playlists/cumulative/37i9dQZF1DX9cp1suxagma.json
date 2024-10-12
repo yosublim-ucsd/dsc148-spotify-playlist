@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172920,
       "name": "El Canto Del Olvido",
       "url": "https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe"
@@ -1408,6 +1408,28 @@
       "duration_ms": 176397,
       "name": "ERES (Acto IV: S\u00e1lvese quien pueda)",
       "url": "https://open.spotify.com/track/57lu7hXebjTcjw8QKvYzuM"
+    },
+    {
+      "album": {
+        "name": "ERES - Lado B",
+        "url": "https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177081,
+      "name": "ERES - Lado B",
+      "url": "https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT"
     },
     {
       "album": {

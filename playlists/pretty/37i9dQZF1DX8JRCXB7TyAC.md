@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,520 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,536 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Original Gangster](https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [Original Gangster](https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE) | 3:01 |
 | 50 | [Street Fighter](https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti) | [Parv Dahiya](https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2), [Tarun Haritas](https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD) | [Street Fighter](https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp) | 2:35 |
 
-Snapshot ID: `Zwe6ZwAAAAB8N7oYihY7bQpPYhYA5AVS`
+Snapshot ID: `Zwe6ZwAAAABmqVLzu+Na0FeuUhoCqW7Z`

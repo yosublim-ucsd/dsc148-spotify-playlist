@@ -1,13 +1,33 @@
 {
-  "description": "El sonido de la nueva canci\u00f3n latinoamericana. Foto: San Pedro Bonfim",
-  "num_followers": 6272,
+  "description": "El sonido de la nueva canci\u00f3n latinoamericana. Foto: Marta G\u00f3mez",
+  "num_followers": 6277,
   "original_name": "Folk Itinerante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztt2mgAAAAAX0veQf0Z4OA9f/eMWicW2",
+  "snapshot_id": "Zwi6TgAAAABn68+G9kX/i3E9SPyH0yOF",
   "tracks": [
+    {
+      "added_at": "2024-10-11 05:40:30",
+      "album": {
+        "name": "Ser\u00e9 Guitarra",
+        "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Maria Jose Mendoza",
+          "url": "https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Ser\u00e9 Guitarra",
+      "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
+    },
     {
       "added_at": "2024-09-06 21:39:38",
       "album": {
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/4Gzh7FVoWkK6naSGUosYf0"
     },
     {
+      "added_at": "2024-10-11 05:40:30",
+      "album": {
+        "name": "Saltar al agua",
+        "url": "https://open.spotify.com/album/1A8sxlcixyEdEJFjMg6svb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 200465,
+      "name": "Saltar al agua",
+      "url": "https://open.spotify.com/track/27n8DZwNxzUzP4VN6YHy3u"
+    },
+    {
       "added_at": "2024-09-06 21:39:38",
       "album": {
         "name": "C\u00f3smosis",
@@ -63,22 +99,6 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2024-09-06 21:39:38",
-      "album": {
-        "name": "La Casa en el \u00c1rbol",
-        "url": "https://open.spotify.com/album/1AG8GE0esH6t4q25FGwYfb"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 205745,
-      "name": "La Casa en el \u00c1rbol",
-      "url": "https://open.spotify.com/track/3huABT5ivPIR1PHXqCUUvk"
     },
     {
       "added_at": "2024-09-06 21:39:38",
@@ -127,6 +147,22 @@
       "duration_ms": 160410,
       "name": "Las Cosas por Hacer",
       "url": "https://open.spotify.com/track/0M3jn8IclTVOtDpDU0xiTY"
+    },
+    {
+      "added_at": "2024-09-06 21:39:38",
+      "album": {
+        "name": "La Casa en el \u00c1rbol",
+        "url": "https://open.spotify.com/album/1AG8GE0esH6t4q25FGwYfb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 205745,
+      "name": "La Casa en el \u00c1rbol",
+      "url": "https://open.spotify.com/track/3huABT5ivPIR1PHXqCUUvk"
     },
     {
       "added_at": "2024-09-06 21:39:38",
@@ -687,22 +723,6 @@
     {
       "added_at": "2024-09-06 21:39:38",
       "album": {
-        "name": "Mi otra mitad",
-        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 229524,
-      "name": "Mi otra mitad",
-      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
-    },
-    {
-      "added_at": "2024-09-06 21:39:38",
-      "album": {
         "name": "Burofax",
         "url": "https://open.spotify.com/album/0KmsYSPBpzt0ec1yARq27M"
       },
@@ -1055,22 +1075,6 @@
       "duration_ms": 191542,
       "name": "Nelly",
       "url": "https://open.spotify.com/track/2ney4ornm9KOwjzk7J1KmN"
-    },
-    {
-      "added_at": "2024-09-06 21:39:38",
-      "album": {
-        "name": "Viento del Sur",
-        "url": "https://open.spotify.com/album/0qRn3HbTQc4gHNZf7P5Kli"
-      },
-      "artists": [
-        {
-          "name": "Nuria Saba",
-          "url": "https://open.spotify.com/artist/7FGP7oOzsmZJve5HtRZdvo"
-        }
-      ],
-      "duration_ms": 200380,
-      "name": "Viento del Sur",
-      "url": "https://open.spotify.com/track/0MM6CB03vuVnsDTdXBAXnT"
     }
   ],
   "unique_name": "Folk Itinerante",

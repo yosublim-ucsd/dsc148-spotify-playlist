@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,591 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,951 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 | 76 | [Space Between \- Instrumental](https://open.spotify.com/track/3Kz6kb8LEXGCk82KKgMvhf) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:25 |
 | 77 | [What's My Name \- Instrumental](https://open.spotify.com/track/3vjefeCdg7wuckiSZcs2KJ) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:08 |
 
-Snapshot ID: `ZuzzQAAAAACF+1G2rNav8sGtj2fLl+II`
+Snapshot ID: `ZuzzQAAAAABjsk/GbuJ++uxAj22gJE3P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gRTxU4AfAv.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,160 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,161 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gRTxU4AfAv.md) - [plain]
 | 49 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 |
 | 50 | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry) | 2:43 |
 
-Snapshot ID: `ZWcrgAAAAADPTKMauxDTZ+Ta0PdEQC+F`
+Snapshot ID: `ZWcrgAAAAAAIvMxLUxdv9uS/l3aoubBF`

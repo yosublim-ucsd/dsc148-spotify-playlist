@@ -1,12 +1,12 @@
 {
-  "description": "This Is Harry Styles. Los temas esenciales, todos en una lista.",
+  "description": "This is Harry Styles. The essential tracks, all in one playlist.",
   "num_followers": 12216,
   "original_name": "This Is Harry Styles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAAAWrGWYNU3kwQVM5Icgnzc5",
+  "snapshot_id": "ZwcZAAAAAAD7v/T9oARCtcf1Hn26B9Va",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 176386,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
+      "duration_ms": 229813,
+      "name": "Two Ghosts",
+      "url": "https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Two Ghosts",
-      "url": "https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU"
+      "duration_ms": 176386,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,759 likes - 188 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,956 likes - 188 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 187 | [Idyllical](https://open.spotify.com/track/18mMg1h2pxTKpQSLvPKzWU) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Idyllical](https://open.spotify.com/album/3JcxvzCmYNp0ts3MmQcgS9) | 2:46 |
 | 188 | [softly speaking](https://open.spotify.com/track/1xpCscadFuFfsPXFaTvyoH) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [softly speaking](https://open.spotify.com/album/0WVhhPQ7wMYVuNXQPI0HWs) | 2:04 |
 
-Snapshot ID: `ZuFmkQAAAADiJl1NHw9pfwmHsYAYRoGD`
+Snapshot ID: `ZuFmkQAAAABqXTBrbS9qFx19egvfNxiB`

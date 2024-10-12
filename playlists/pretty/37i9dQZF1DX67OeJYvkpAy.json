@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 89543,
+  "num_followers": 89536,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmm6swAAAAB9ZCI2Yhh9E2WTkSAF+uLT",
+  "snapshot_id": "Zmm6swAAAACJOmvZQgoWy6PQWYq/+Lq9",
   "tracks": [
     {
       "added_at": "2024-06-12 15:11:47",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
+      "duration_ms": 182937,
+      "name": "Just 4 Me",
+      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 182937,
-      "name": "Just 4 Me",
-      "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
+      "duration_ms": 145306,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
       },
@@ -1179,6 +1163,26 @@
       "duration_ms": 110759,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1211,22 +1231,6 @@
       "duration_ms": 214883,
       "name": "Love Don't Change",
       "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
         "name": "Berlin Luv",
         "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
       },
@@ -1283,22 +1303,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138110,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "I Wanna Start My Life Again",
         "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
       },
@@ -1311,6 +1315,22 @@
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
+      },
+      "artists": [
+        {
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
+        }
+      ],
+      "duration_ms": 138110,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1343,6 +1363,22 @@
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1383,26 +1419,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/4ea2vWlwximLGKvkvwArSr"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 159764,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1OVkxs6N32KszTbvWRftjj"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
     },
     {
       "added_at": "2024-06-12 15:11:47",

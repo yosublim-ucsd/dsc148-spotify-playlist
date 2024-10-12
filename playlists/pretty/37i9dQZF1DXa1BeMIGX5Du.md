@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,431 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,030 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 |
 | 100 | [pocket protector](https://open.spotify.com/track/0woOAqSvbjSMR8BDHxzEkw) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [pocket protector](https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo) | 3:38 |
 
-Snapshot ID: `ZwKJ0AAAAAB9ZJE9md1tzAniEk0qjf+o`
+Snapshot ID: `ZwKJ0AAAAAAz0Rae6QdVnD4RyVi+emFO`

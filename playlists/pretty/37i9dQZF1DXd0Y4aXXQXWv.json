@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Johnny Hallyday",
-  "num_followers": 480799,
+  "num_followers": 480839,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZweUDwAAAABKMUF1m+f/c+rZGbz30Yr5",
+  "snapshot_id": "ZweUDwAAAAAUu2bcXXPF0MAPEyMb5NKO",
   "tracks": [
     {
       "added_at": "2024-10-10 08:45:03",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-10-10 08:45:03",
       "album": {
-        "name": "Calog3ro",
-        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        },
-        {
-          "name": "Passi",
-          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Face \u00e0 la mer",
-      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
-    },
-    {
-      "added_at": "2024-10-10 08:45:03",
-      "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 270000,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
+    },
+    {
+      "added_at": "2024-10-10 08:45:03",
+      "album": {
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "added_at": "2024-10-10 08:45:03",

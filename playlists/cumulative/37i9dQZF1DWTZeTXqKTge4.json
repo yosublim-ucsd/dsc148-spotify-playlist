@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Americry",
+        "url": "https://open.spotify.com/album/1DrXmjHECYEQOesivVdorL"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3"
+        },
+        {
+          "name": "Coby",
+          "url": "https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208682,
+      "name": "Americry",
+      "url": "https://open.spotify.com/track/5sMDwrLHTaW8D8hdr7tplv"
+    },
+    {
+      "album": {
         "name": "Amn\u00e9sia",
         "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
       },
@@ -3438,7 +3460,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182002,
       "name": "Curry",
       "url": "https://open.spotify.com/track/5hgiBYV0STcQ0m341EZLmc"
@@ -3753,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Ph\u00e9nix",
+        "url": "https://open.spotify.com/album/5r0WDq2OcLMz4zDa5cV4hs"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Descente aux enfers",
+      "url": "https://open.spotify.com/track/1tFBUTJkx8rPa8baeObKQG"
+    },
+    {
+      "album": {
         "name": "Destin",
         "url": "https://open.spotify.com/album/1WgGHPMxp3h5Sw6lqcIXdQ"
       },
@@ -3768,7 +3808,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 220140,
       "name": "Destin",
       "url": "https://open.spotify.com/track/4TLI4XiJ7lIcZxSCn6omus"
@@ -5108,7 +5148,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 196427,
       "name": "Frank Sinatra",
       "url": "https://open.spotify.com/track/5sEzMtfOrzAKDFQnkaCkGH"
@@ -5776,6 +5816,24 @@
       "duration_ms": 204813,
       "name": "Grind",
       "url": "https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY"
+    },
+    {
+      "album": {
+        "name": "Gros Big",
+        "url": "https://open.spotify.com/album/1dF49zZt96Ht926YetJRdR"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154641,
+      "name": "Gros Big",
+      "url": "https://open.spotify.com/track/6Pwct4gc7Y9ag9vHDsXyYK"
     },
     {
       "album": {
@@ -6670,7 +6728,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 179252,
       "name": "J'suis pas Damien",
       "url": "https://open.spotify.com/track/7cRIUaS5pAotUxpdMZMgjZ"
@@ -10426,6 +10484,24 @@
     {
       "album": {
         "name": "Pickup",
+        "url": "https://open.spotify.com/album/17SQM0VornpdLSuuc4FgEY"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134462,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/6KG4QjMExxShMAlozINvae"
+    },
+    {
+      "album": {
+        "name": "Pickup",
         "url": "https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc"
       },
       "artists": [
@@ -13025,6 +13101,24 @@
     },
     {
       "album": {
+        "name": "TIK TAK",
+        "url": "https://open.spotify.com/album/6anLNLmJcfC28huG3aTmb6"
+      },
+      "artists": [
+        {
+          "name": "Tali-B",
+          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "TIK TAK",
+      "url": "https://open.spotify.com/track/0IkvITCUa64UM1YrB6msU3"
+    },
+    {
+      "album": {
         "name": "LAIT PATERNEL",
         "url": "https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF"
       },
@@ -14566,7 +14660,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 158929,
       "name": "\u00c7a shoot",
       "url": "https://open.spotify.com/track/1D3andBUzvFuTQaM57TbIf"

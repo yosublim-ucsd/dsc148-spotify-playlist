@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: The Great Gatsby
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,409 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,410 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Floating And Falling](https://open.spotify.com/track/0AknRryO2t19Y1WgBDxsru) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Wild About You \(World Premiere Recording\)](https://open.spotify.com/album/6cUSDnALTsDCfCUz7F1qi9) | 3:31 |
 | 50 | [The Sheep Chose a Wolf](https://open.spotify.com/track/2r00OW9OwUZTqY4OKvoUkc) | [Brian Belding](https://open.spotify.com/artist/66MBnWtGCjLT3tpaT8zhKL), [Natalie Brice](https://open.spotify.com/artist/2exZm7i4oNnfN8dWqwKAd5), [Mike Cefalo](https://open.spotify.com/artist/3XxBWUHr5XgD6Xvl51GAHy) | [White Rose: The Musical \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2wYNbpl9rpHwHLFmA0pwZ7) | 3:18 |
 
-Snapshot ID: `ZuzzQAAAAACv+bxWZJp2dzDEEyWrf3uo`
+Snapshot ID: `ZuzzQAAAAABLhrc0x3Hx+eEa/nYFQQpO`

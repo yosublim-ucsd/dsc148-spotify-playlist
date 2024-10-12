@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-477 songs - 1 day 5 hr 34 min
+478 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Oregon \(with phoffman of Greensky Bluegrass\)](https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [phoffman](https://open.spotify.com/artist/7kazeE2jicnplL38ucM9qb) | [Oregon \(with phoffman of Greensky Bluegrass\)](https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh) | 2:34 | 2024-06-14 |  |
 | [Orion's Waltz](https://open.spotify.com/track/2jItd4qiEH43kQjrkdN6Uu) | [Milkdrive](https://open.spotify.com/artist/2jSIlgL1YMPEcYoFQMEjj5) | [Places You've Not Been](https://open.spotify.com/album/5EA7oSmsgQctXu3UkevKZy) | 4:53 | 2021-10-01 | 2023-04-09 |
 | [Orphan Annie](https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Orphan Annie](https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv) | 5:00 | 2021-11-19 | 2022-01-15 |
+| [Out of Time \(feat\. LeAnn Rimes\)](https://open.spotify.com/track/5UxYcQsHbu97pDvuO1Ua0x) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Always Here](https://open.spotify.com/album/4XVkOwM3gU36K5K6qJzsBE) | 3:43 | 2024-10-11 |  |
 | [Palmer](https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e) | [Joe K\. Walsh](https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB) | [If Not Now, Who?](https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO) | 4:55 | 2023-01-13 |  |
 | [Parallel Lines](https://open.spotify.com/track/6siyBe5G5d4O8KiGRPPHCU) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Parallel Lines](https://open.spotify.com/album/4x5Z5IiBgZq8P47U1YSmvL) | 2:25 | 2022-12-16 | 2023-06-24 |
 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 | 2021-10-01 | 2024-02-24 |

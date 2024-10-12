@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Allie X",
-  "num_followers": 420455,
+  "description": "Dark, hard hitting pop. Cover: Neoni",
+  "num_followers": 420498,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAABuGN5I9RX9xA97GUQdoc13",
+  "snapshot_id": "ZwlovQAAAADmIClZseS5t44v8zXh5BF8",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "The Death Of Daisies",
+        "url": "https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 162212,
+      "name": "Catatonic",
+      "url": "https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 204678,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/1FtbOVjWehrdpUjFXVu67R"
+      },
+      "artists": [
+        {
+          "name": "Povi",
+          "url": "https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B"
+        }
+      ],
+      "duration_ms": 155832,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/6JMdjoMWLRwyqUm6RjyO07"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -41,6 +73,54 @@
       "url": "https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 186591,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK"
+      },
+      "artists": [
+        {
+          "name": "ILUKA",
+          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
+        }
+      ],
+      "duration_ms": 185370,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA"
+    },
+    {
+      "added_at": "2024-10-11 18:04:45",
+      "album": {
+        "name": "Falling Up -English ver.-",
+        "url": "https://open.spotify.com/album/6QPOVu0BT8kEGFFQLyB5ob"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Falling Up -English ver.-",
+      "url": "https://open.spotify.com/track/1YvGqbthhtnrTHCasoPD7b"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Tiny Screens",
@@ -55,6 +135,38 @@
       "duration_ms": 178015,
       "name": "Tiny Screens",
       "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "No Comma",
+        "url": "https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "No Comma",
+      "url": "https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "ZIP",
+        "url": "https://open.spotify.com/album/6T5zAszF9s9QWxkkw91Wwh"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "ZIP",
+      "url": "https://open.spotify.com/track/10HX3Y20m1IhRP3EwGCafL"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -105,22 +217,6 @@
       "url": "https://open.spotify.com/track/3aS7kFsjgveM02x2EM29xp"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK"
-      },
-      "artists": [
-        {
-          "name": "ILUKA",
-          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
-        }
-      ],
-      "duration_ms": 185370,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Big Mouth",
@@ -135,22 +231,6 @@
       "duration_ms": 118700,
       "name": "Super Famous",
       "url": "https://open.spotify.com/track/0Yy44jx6Qmn7gneGfJENE5"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "No Comma",
-        "url": "https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "No Comma",
-      "url": "https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -471,22 +551,6 @@
       "duration_ms": 146823,
       "name": "MEAT",
       "url": "https://open.spotify.com/track/4Fkff1QX26a62nDGv7LT7x"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Grudge",
-        "url": "https://open.spotify.com/album/3A7xkqgq6SdvrotQgLHr0K"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 167307,
-      "name": "Grudge",
-      "url": "https://open.spotify.com/track/6oNbryFTmzGA68CKRjW9pF"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -827,22 +891,6 @@
     {
       "added_at": "2024-08-26 14:52:18",
       "album": {
-        "name": "Predator",
-        "url": "https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Predator",
-      "url": "https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
         "name": "rumination as ritual",
         "url": "https://open.spotify.com/album/2Ym6McICLDy4AXP2bSxRSn"
       },
@@ -1171,22 +1219,6 @@
     {
       "added_at": "2024-08-26 14:52:18",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 221680,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6IDWkeow6kgGak83olzkuI"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
         "name": "LIQUORLIPS",
         "url": "https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1"
       },
@@ -1203,38 +1235,6 @@
       "duration_ms": 118000,
       "name": "LIQUORLIPS",
       "url": "https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "Bougie Bitch",
-        "url": "https://open.spotify.com/album/13qIfIFasLtP1VkcbKCM1g"
-      },
-      "artists": [
-        {
-          "name": "DYLN",
-          "url": "https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Bougie Bitch",
-      "url": "https://open.spotify.com/track/3vwMUcxR0V664IvIt3HhfG"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     }
   ],
   "unique_name": "SALT",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jore & Zpoppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,348 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,378 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [EIFFEL TYPE SHIT](https://open.spotify.com/track/6WkrR2jgnfiARbUyOb7rF8) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [EIFFEL TYPE SHIT](https://open.spotify.com/album/4OVMplPBhInUQbXuD8EeJ9) | 2:16 |
 | 50 | [MILJONÄÄRI](https://open.spotify.com/track/0K6Lmd36re3KZb1FdkIehh) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [MILJONÄÄRI](https://open.spotify.com/album/6nyYCDTAQRDTAOUKlFy8rT) | 3:02 |
 
-Snapshot ID: `ZwhAjAAAAACy9yxEUm6henQBx/D0i/ra`
+Snapshot ID: `ZwhAjAAAAAAHtuA5zBhi4XM/+3t23iF2`

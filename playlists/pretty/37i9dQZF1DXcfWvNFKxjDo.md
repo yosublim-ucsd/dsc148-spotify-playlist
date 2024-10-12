@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee, A7S
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,803 likes - 79 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,897 likes - 79 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Que Pasa](https://open.spotify.com/track/5o075B3g5lyTPOJFsePtNJ) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [Que Pasa](https://open.spotify.com/album/2GcwpUOu46ApbbkaHeW98G) | 4:07 |
 | 79 | [Home](https://open.spotify.com/track/720qIwg2UGaoUAUTo31RIn) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Home](https://open.spotify.com/album/7jkMHuLVLs710EfdevWhHs) | 3:17 |
 
-Snapshot ID: `ZwhOYAAAAACTLpge8UAt+ZlryZHHF8un`
+Snapshot ID: `ZwhOYAAAAAAThCLshyX4OMIL8wU1aD7X`

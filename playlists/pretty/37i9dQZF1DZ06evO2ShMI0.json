@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
-  "num_followers": 193077,
+  "num_followers": 193119,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAACr4pX6mQ6kEVsPBaN6I9f6",
+  "snapshot_id": "ZwcZAAAAAAA6GoqNar6ssggl8a+gjAgW",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 293226,
-      "name": "Luz De Dia - En Vivo",
-      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 266826,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 293226,
+      "name": "Luz De Dia - En Vivo",
+      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tracci\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 261839,
-      "name": "A\u00fan Sigo Cantando",
-      "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
+      "duration_ms": 230480,
+      "name": "No Me Ver\u00e1s",
+      "url": "https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 230480,
-      "name": "No Me Ver\u00e1s",
-      "url": "https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz"
+      "duration_ms": 261839,
+      "name": "A\u00fan Sigo Cantando",
+      "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 219826,
       "name": "Sumar Tiempo No Es Sumar Amor",
       "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 355293,
-      "name": "Lamento Boliviano - En Vivo",
-      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 160160,
       "name": "Solo Alguien Como Vos",
       "url": "https://open.spotify.com/track/7dRylKD54RbLojze30yWPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 355293,
+      "name": "Lamento Boliviano - En Vivo",
+      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "added_at": null,

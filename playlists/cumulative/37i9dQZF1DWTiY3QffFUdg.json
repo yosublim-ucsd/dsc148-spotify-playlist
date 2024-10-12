@@ -35,6 +35,32 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193855,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
+    },
+    {
+      "album": {
         "name": "3 DAYS AWAKE",
         "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
       },
@@ -432,6 +458,32 @@
       "duration_ms": 121771,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "album": {
+        "name": "Bar Song (Tipsy Techno)",
+        "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
+      },
+      "artists": [
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Norman Alexander",
+          "url": "https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135242,
+      "name": "Bar Song (Tipsy Techno)",
+      "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"
     },
     {
       "album": {
@@ -4216,7 +4268,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 197355,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH"
@@ -4374,7 +4426,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 145945,
       "name": "The Ketchup Song (Aserej\u00e9)",
       "url": "https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25"

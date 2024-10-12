@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30283,
+  "num_followers": 30288,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPi2GhHpp5+WRuJ0x54iUYR8f5glHt",
+  "snapshot_id": "AAAPkTqKtYsxRtFmf97X4Xilsh7UJGR+",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-10-11 11:07:13",
+      "album": {
+        "name": "GROWUP",
+        "url": "https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "duration_ms": 146478,
+      "name": "GROWUP",
+      "url": "https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY"
     },
     {
       "added_at": "2024-10-09 15:16:18",
@@ -139,6 +159,26 @@
       "duration_ms": 99927,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
+    },
+    {
+      "added_at": "2024-10-11 11:07:27",
+      "album": {
+        "name": "Here With You",
+        "url": "https://open.spotify.com/album/2pH84ArPiWnEspgkiBsTN6"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Dill",
+          "url": "https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld"
+        }
+      ],
+      "duration_ms": 238609,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/6tS0zfxJBZcHrgKpI9haWa"
     },
     {
       "added_at": "2024-09-18 16:20:13",
@@ -723,42 +763,6 @@
       "duration_ms": 104228,
       "name": "Who Cares 1",
       "url": "https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq"
-    },
-    {
-      "added_at": "2024-07-24 16:55:15",
-      "album": {
-        "name": "Mah\u014dgakk\u014d",
-        "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 284817,
-      "name": "Forbidden Thing (Kimmotsu)",
-      "url": "https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks"
-    },
-    {
-      "added_at": "2024-07-24 16:52:33",
-      "album": {
-        "name": "So Nice To Be In Love",
-        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 154807,
-      "name": "So Nice To Be In Love",
-      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

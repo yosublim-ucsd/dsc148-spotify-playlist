@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 De La Rose is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,025 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,043 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [no soy 2.0](https://open.spotify.com/track/6QDP2lBtdNx3MtwCSO8gTB) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [no soy 2.0](https://open.spotify.com/album/7kJFDsA9D2mivO1ut2TqNq) | 4:20 |
 | 20 | [PA NO PENSAR](https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:20 |
 
-Snapshot ID: `ZwgAHAAAAACTGafQSJ5oqrrivZm0XNQk`
+Snapshot ID: `ZwgAHAAAAACFUcXKEFlrkyn3dj3SS84X`

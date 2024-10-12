@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,645 likes - 100 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,335 likes - 100 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [LIGHTS OFF TONIGHT](https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA) | [VXJOKING](https://open.spotify.com/artist/07LIt5dV6tfrBPJhRdB1lM), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [LIGHTS OFF TONIGHT](https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v) | 1:30 |
 | 100 | [PURPLE HEART \(w/ Don Toliver\)](https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:05 |
 
-Snapshot ID: `Zv92UAAAAABuO/ufrW0JKKDpicepDFGR`
+Snapshot ID: `Zv92UAAAAACSSPmtuhx1iS3kZpKIbPCs`

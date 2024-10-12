@@ -2,9 +2,9 @@
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: L.A.B.
+> Discover the best in new music from Aotearoa\. Cover: Jon Toogood
 
-184 songs - 10 hr 22 min
+185 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Screaming In Your Driveway](https://open.spotify.com/track/6ioWmo3bnXNWJLd484Qux4) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Screaming In Your Driveway](https://open.spotify.com/album/3dBrKXxoVbd4nxPH5p6qv5) | 4:12 | 2024-05-20 | 2024-08-16 |
 | [See No Evil](https://open.spotify.com/track/6yaV16TOXIqxQaa14dZ7Sk) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [See No Evil](https://open.spotify.com/album/5b9U2aOIhQ6OBYfL7cm6Ef) | 2:21 | 2024-08-15 |  |
 | [She's Cruel](https://open.spotify.com/track/42ZVLDH2wgSPrds62KoDN7) | [Molly Rocket](https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS) | [She's Cruel](https://open.spotify.com/album/6DITEsAS2SDRhq62gQSgTX) | 3:21 | 2024-09-12 |  |
+| [Shouldn’t Leave It Like That](https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Last Of The Lonely Gods](https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f) | 3:29 | 2024-10-11 |  |
 | [Skin](https://open.spotify.com/track/0VgdX9FOT8VIJGZsHJCKeN) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Skin](https://open.spotify.com/album/64zqxByvS1cey9ERLWBfsE) | 2:55 | 2024-05-20 |  |
 | [Skinwalk](https://open.spotify.com/track/36noVZ9t81h21IRNsh5Cm8) | [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [Skinwalk](https://open.spotify.com/album/145sQ9zNrPRiM4PNDQDtme) | 2:59 | 2024-08-15 |  |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-08-15 |  |

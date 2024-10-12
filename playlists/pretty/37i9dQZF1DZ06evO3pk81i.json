@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Primos del Este. Los temas esenciales, todos en una lista.",
-  "num_followers": 6210,
+  "num_followers": 6209,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAABRwyvT6zmRC9C8ehB05HQN",
+  "snapshot_id": "ZwcZAAAAAADFwVzo2nchB97JWyUd7e87",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Soy Aquel",
-      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Sigue Igual",
         "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 208641,
       "name": "Nada Sigue Igual",
       "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Soy Aquel",
+      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 176359,
-      "name": "Solita Bailando",
-      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 260000,
       "name": "Ni\u00f1a Buena",
       "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 145471,
+      "name": "Voy por Ti",
+      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 176359,
+      "name": "Solita Bailando",
+      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 145471,
-      "name": "Voy por Ti",
-      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+      "duration_ms": 200250,
+      "name": "Yaki",
+      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,

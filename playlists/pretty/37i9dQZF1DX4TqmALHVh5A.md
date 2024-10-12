@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Rahim Redcar
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,134 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,138 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 |
 | 50 | [Dérive](https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX) | [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [Irréversible Part II](https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN) | 3:41 |
 
-Snapshot ID: `ZwhOYAAAAABDsBVkTK8d0+XLufVaPygh`
+Snapshot ID: `ZwhOYAAAAADM+ao97YKscDnJVez0NHuS`

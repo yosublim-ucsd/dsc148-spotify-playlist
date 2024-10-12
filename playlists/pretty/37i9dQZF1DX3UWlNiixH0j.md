@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,196 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,199 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 51 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 |
 | 52 | [世界に君一人だけ](https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [世界に君一人だけ](https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0) | 4:07 |
 | 53 | [Daijoubu Desu](https://open.spotify.com/track/5H5lr2tSCUgUUZHOGAh91m) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Daijoubu Desu](https://open.spotify.com/album/3pZa7BlQQabiAqEunrmaR6) | 3:19 |
-| 54 | [悪魔を飼ってる](https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN) | [Narita](https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN) | [狂ってどうにかなりそうなんだ。](https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK) | 1:58 |
-| 55 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 54 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 55 | [悪魔を飼ってる](https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN) | [Narita](https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN) | [狂ってどうにかなりそうなんだ。](https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK) | 1:58 |
 | 56 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 |
 | 57 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
 | 58 | [人のダンス](https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遊泳の音楽](https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6) | 4:45 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 60 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
 | 61 | [ブランクスペース](https://open.spotify.com/track/7AwCp788ZT1c8Uz1wWXPNJ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Extended Vol.1](https://open.spotify.com/album/4czXp8EeAmeeJtyZPUI93L) | 3:30 |
 | 62 | [あなただけが](https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe) | [Xamd](https://open.spotify.com/artist/7iru9u1tzWCEe76f7tbRzf) | [lifedrop!](https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj) | 2:45 |
-| 63 | [よか](https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [よか](https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw) | 3:09 |
+| 63 | [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 |
 | 64 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 |
-| 65 | [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 |
+| 65 | [よか](https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [よか](https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw) | 3:09 |
 | 66 | [Linda](https://open.spotify.com/track/1QcS7T8lOfPr0CC4CsyOiD) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Linda](https://open.spotify.com/album/3wSuJSoEgnr5qd30nPf9By) | 3:12 |
 | 67 | [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 |
 | 68 | [写真集](https://open.spotify.com/track/0RBiX0u3G1yXOEU4EbVx4T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [こわれもの](https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1) | 4:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 70 | [tara](https://open.spotify.com/track/2AhKGBfxxaDyWx5LrpK4kX) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [tara](https://open.spotify.com/album/5NTMAHruzyWb2wDpxx5pCt) | 2:59 |
 | 71 | [アポロン](https://open.spotify.com/track/4rvt5B4F6QGugUdMf0YSFP) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [You & I](https://open.spotify.com/album/31rNJ42JTBF3amlVwwbLDx) | 4:26 |
 | 72 | [Oyasumi na Sayang \(feat\. Zee Avi\)](https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Oyasumi na Sayang \(feat\. Zee Avi\)](https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr) | 3:23 |
-| 73 | [vector](https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [vector](https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx) | 5:03 |
-| 74 | [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 |
-| 75 | [泡になっても](https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [泡になっても](https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip) | 4:01 |
+| 73 | [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 |
+| 74 | [vector](https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [vector](https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx) | 5:03 |
+| 75 | [40℃](https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [40℃](https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B) | 2:54 |
 
-Snapshot ID: `ZwVI8AAAAACalwYbFNxQyEhb1zFQOdaM`
+Snapshot ID: `ZwVI8AAAAACIIj87wDgBTsqrzNhuSVwM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,286 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,314 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 3 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 4 | [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 |
 | 5 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
-| 6 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 7 | [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 |
-| 8 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
-| 9 | [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 |
-| 10 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
-| 11 | [Entre Comillas](https://open.spotify.com/track/3ypWJV6odQeCmujaWg1MBv) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Entre Comillas](https://open.spotify.com/album/2Uu89iIqcG4WVVJITBpDxM) | 2:53 |
-| 12 | [Cómo Los De Antes](https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR) | [Cómo Los De Antes](https://open.spotify.com/album/2lKJXgamNCOWRx3tU7JFxd) | 3:07 |
-| 13 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 |
-| 14 | [El Canto Del Olvido](https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [El Canto Del Olvido](https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH) | 2:52 |
+| 6 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \- Lado B](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
+| 7 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 8 | [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 |
+| 9 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
+| 10 | [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 |
+| 11 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
+| 12 | [Entre Comillas](https://open.spotify.com/track/3ypWJV6odQeCmujaWg1MBv) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Entre Comillas](https://open.spotify.com/album/2Uu89iIqcG4WVVJITBpDxM) | 2:53 |
+| 13 | [Cómo Los De Antes](https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR) | [Cómo Los De Antes](https://open.spotify.com/album/2lKJXgamNCOWRx3tU7JFxd) | 3:07 |
+| 14 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 |
 | 15 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 |
 | 16 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
 | 17 | [Te doy las gracias](https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Te doy las gracias](https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `Zv9mZAAAAAB5G/sPIkMgUAVv8ryZEJh3`
+Snapshot ID: `Zwi4fQAAAAAI9DZZ+DXIvPbARXKtDW3L`

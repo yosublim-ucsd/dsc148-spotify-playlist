@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MC TYSON
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,759 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,786 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 57 | [Hustle Hard](https://open.spotify.com/track/1vi7gk9Mg9AnRuFpECVanb) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Disry](https://open.spotify.com/artist/5qmW14Dd8YrKRgANRFHuAw), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [Hustle Hard](https://open.spotify.com/album/16EjQ7GDGnrlA63PL64Dj2) | 3:09 |
 | 58 | [WANI](https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [WANI](https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK) | 2:20 |
 | 59 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/3qmzi3NOEtWQsicMexzCXv) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/album/1Npo3TZAMJzq30ig64tZHv) | 1:53 |
-| 60 | [ベンツ](https://open.spotify.com/track/24C61kbYl9WXByQWTaOv4n) | [TeTe](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [茈](https://open.spotify.com/album/5JTRxaII7PuNB9KZkZGrml) | 3:23 |
+| 60 | [ベンツ](https://open.spotify.com/track/24C61kbYl9WXByQWTaOv4n) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [茈](https://open.spotify.com/album/5JTRxaII7PuNB9KZkZGrml) | 3:23 |
 | 61 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 62 | [pure](https://open.spotify.com/track/526s517eKituXVXya59e9R) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [pure](https://open.spotify.com/album/0qkIVWS6aP674wtZ5PqpKV) | 2:09 |
 | 63 | [Red Bull 64 Bars](https://open.spotify.com/track/6rO4O7IRP9I3LFupiK6iJW) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Red Bull 64 Bars](https://open.spotify.com/album/4YbeQWzKkI0uHDxbt5P7OD) | 2:06 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 |
 | 81 | [Demon](https://open.spotify.com/track/6a61ntKhW22DUQq8JxiEi8) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [Demon](https://open.spotify.com/album/7Lde6Ai1eoH8U2fPCIHgYb) | 2:59 |
 
-Snapshot ID: `Zwfr8AAAAADA5/2XixxjD2o5b1nhWVd4`
+Snapshot ID: `Zwfr8AAAAADk3eYevpoTL5XPKa0rh9dj`

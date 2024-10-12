@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,191 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,302 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 49 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 |
 | 50 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 |
 
-Snapshot ID: `ZwhOnAAAAABF9ZN/o0c+5sw/55NXF1rQ`
+Snapshot ID: `ZwhOnAAAAADv6tiTRYcD8AL7a4XnrJuW`

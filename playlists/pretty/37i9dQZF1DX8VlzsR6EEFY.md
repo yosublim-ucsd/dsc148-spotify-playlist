@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Bronco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,225 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,272 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 74 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
 | 75 | [La Negra](https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Negra](https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V) | 3:04 |
 
-Snapshot ID: `Zv+EYAAAAABqRlAnPF6ds92aL+qIj4k4`
+Snapshot ID: `Zv+EYAAAAADF5knDXQxLKNOr18ZlcjY7`

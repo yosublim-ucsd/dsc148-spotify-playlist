@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,943 likes - 82 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,952 likes - 82 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 37 | [Gag](https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk) | 3:14 |
 | 38 | [This Feeling](https://open.spotify.com/track/6lQw8YVh9sXbzcOBzyQPmK) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [This Feeling](https://open.spotify.com/album/48tb5NDXMlVci0v01LyRus) | 3:14 |
 | 39 | [Stratus](https://open.spotify.com/track/6Z0T5d90QWQdUUE0p1XMci) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [In Transit](https://open.spotify.com/album/4FE29FlcDG9ApOsP7ABh5u) | 3:32 |
-| 40 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
+| 40 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/28hTKLAxvx5tCjAKpTfPlD) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 41 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 42 | [P.L.L](https://open.spotify.com/track/3FOUf5xncQWgylXKj7Zwiz) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [RED EP](https://open.spotify.com/album/4Bp0q40RSxvjTfg8rkxl8J) | 2:19 |
 | 43 | [Forward Forever](https://open.spotify.com/track/6nP3iynkH0n2eyrQsLDKym) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Forward Forever](https://open.spotify.com/album/4W0lEnaWhcHu5jOIc3sMCY) | 3:08 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 81 | [Koo Koo Fun](https://open.spotify.com/track/5p72JhTONMuDMvDsgYAZDC) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Piano Republik](https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ) | 3:13 |
 | 82 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 
-Snapshot ID: `ZuMjJAAAAAB6Mf6NfD37xALJ6yrTKxgr`
+Snapshot ID: `ZuMjJAAAAACb65Pk2rv2IF5Ka5oGzONu`

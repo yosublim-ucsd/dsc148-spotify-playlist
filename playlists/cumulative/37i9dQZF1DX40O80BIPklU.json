@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Abran Paso",
+        "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236002,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
+    },
+    {
+      "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/738JDm3WZaOJJUqtCsdDRv"
       },
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 185333,
       "name": "Contra el Mundo",
       "url": "https://open.spotify.com/track/4MHCYnRJeSqRSl2oKmGY5q"
@@ -2742,6 +2764,32 @@
       "duration_ms": 137142,
       "name": "Efecto Domin\u00f3",
       "url": "https://open.spotify.com/track/7qAQPnpEY1PIndJHqcvTrP"
+    },
+    {
+      "album": {
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/7rOEIGOgasINOSzG5qYi6c"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg"
     },
     {
       "album": {
@@ -4446,6 +4494,24 @@
       "duration_ms": 202281,
       "name": "Laberintos",
       "url": "https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt"
+    },
+    {
+      "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173765,
+      "name": "LAS COSAS CAMBIARON",
+      "url": "https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3"
     },
     {
       "album": {
@@ -8930,7 +8996,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171440,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/27qYCP0IcRfyxs8W8AH5x4"
@@ -9364,7 +9430,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 180906,
       "name": "You Know",
       "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"

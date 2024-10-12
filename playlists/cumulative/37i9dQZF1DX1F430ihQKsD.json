@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Virginie B",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Men I Trust",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 185034,
       "name": "Ar\u00e8ne",
       "url": "https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD"
@@ -4911,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+    },
+    {
+      "album": {
         "name": "Le matin",
         "url": "https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM"
       },
@@ -7323,6 +7341,24 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN"
+    },
+    {
+      "album": {
         "name": "Prochain \u00e9pilogue",
         "url": "https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx"
       },
@@ -7912,10 +7948,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 252213,
       "name": "Sans visage",
       "url": "https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK"
+    },
+    {
+      "album": {
+        "name": "D\u00e9j\u00e0",
+        "url": "https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266276,
+      "name": "Sauf",
+      "url": "https://open.spotify.com/track/0kAJkqOGL8bYGXFHu5G1s9"
     },
     {
       "album": {
@@ -7948,7 +8002,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175131,
       "name": "Search History",
       "url": "https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2"

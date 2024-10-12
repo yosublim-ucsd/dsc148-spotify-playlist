@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: D7
 
-397 songs - 20 hr 36 min
+398 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 | 2022-06-24 | 2022-07-12 |
 | [Beg To Differ](https://open.spotify.com/track/47ZcmjStRBvBsSMov0Njxj) | [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Beg to Differ](https://open.spotify.com/album/29UMDBFJgxtkO8VHm1tuc4) | 3:06 | 2022-06-24 | 2022-07-23 |
 | [Belong Together](https://open.spotify.com/track/4upp8vxVnw35RhuZTZKMgT) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Belong Together](https://open.spotify.com/album/1D5ri0WdyU1nNOBvftkXfP) | 4:17 | 2022-06-24 | 2022-07-29 |
-| [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 | 2024-10-03 |  |
+| [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 | 2024-10-03 | 2024-10-12 |
 | [Better with the Devil](https://open.spotify.com/track/5QEnhFijS6JQmXd9DL3n5M) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Better with the Devil](https://open.spotify.com/album/1vaYQ0wD5xjAmLwJOlEh62) | 4:10 | 2022-07-17 | 2022-07-26 |
 | [Big Fat Liar](https://open.spotify.com/track/0zMulZKhUroYHauRqdp9j3) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Big Fat Liar](https://open.spotify.com/album/79Ls4iSOgSuuLoYn0wJmDt) | 2:51 | 2022-10-23 | 2023-05-16 |
 | [Big Machines](https://open.spotify.com/track/40LA6fP3JSv0gumX0MKD34) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Big Machines](https://open.spotify.com/album/4MNwenfk92ftVxxkO8QxoV) | 3:20 | 2022-07-17 | 2022-10-21 |
@@ -137,6 +137,7 @@
 | [First Little Rollie](https://open.spotify.com/track/5LSW01Xvk3N914KjsGPEm5) | [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [Free Game](https://open.spotify.com/album/4h6RKnvT7Q5RUJx0pzDX3Y) | 4:10 | 2022-06-24 | 2022-07-28 |
 | [Five Fruit](https://open.spotify.com/track/2R8H75qUKm5nCIJHXHFSr3) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO) | [Five Fruit](https://open.spotify.com/album/7iR8sBbkaBUDM1PQyh3aDU) | 6:36 | 2022-06-24 | 2022-07-29 |
 | [Fix It](https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Fix It](https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL) | 3:53 | 2022-06-24 | 2022-07-28 |
+| [For Real](https://open.spotify.com/track/0B8o06qQQn02XvBYdhA2TY) | [Tenner](https://open.spotify.com/artist/19MGGHQ0gD7UgBVH1YMCR4) | [For Real](https://open.spotify.com/album/1bjruar59aZpTGGuba0Qbl) | 2:37 | 2024-10-10 |  |
 | [Forward](https://open.spotify.com/track/5z83pxKCThXCgWfQLF2iyX) | [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Forward](https://open.spotify.com/album/51EaPRmLx0rPPykZdMiX40) | 3:39 | 2022-06-24 | 2022-07-19 |
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2022-06-24 | 2022-07-29 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-07-17 | 2024-10-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hazlett",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sam Barber",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1lrzJl5nqeFkcuK7J0IOQm"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175790,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/5GtfNJlEWahLnXsKFzZtTz"
+    },
+    {
+      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J"
       },
@@ -2954,6 +2972,24 @@
       "duration_ms": 197040,
       "name": "Babe, I'm All Yours",
       "url": "https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd"
+    },
+    {
+      "album": {
+        "name": "Baby Bright",
+        "url": "https://open.spotify.com/album/1zmDYIWkJIJfbqXTtUoY0X"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Baby Bright",
+      "url": "https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw"
     },
     {
       "album": {
@@ -6723,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "Cheers to Good Friends",
+        "url": "https://open.spotify.com/album/3AM4TFfJFGUwKKZtHVoph2"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155314,
+      "name": "Cheers to Good Friends",
+      "url": "https://open.spotify.com/track/6ShcaqMvlBcdsiZr23fDzk"
+    },
+    {
+      "album": {
         "name": "Flyte",
         "url": "https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k"
       },
@@ -8158,6 +8212,24 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142097,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
     },
     {
       "album": {
@@ -9958,7 +10030,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 138509,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI"
@@ -10584,7 +10656,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 133250,
       "name": "drive",
       "url": "https://open.spotify.com/track/34OA989SEHLVAPNNism1cC"
@@ -11452,7 +11524,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177512,
       "name": "Evergreen (feat. Caamp)",
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
@@ -15506,7 +15578,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 97839,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF"
@@ -18402,7 +18474,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 163771,
       "name": "I Hate Saying Goodbye",
       "url": "https://open.spotify.com/track/3RwYAHVsX4mSnEJc5EBqqP"
@@ -20197,6 +20269,24 @@
     },
     {
       "album": {
+        "name": "In The Living Room",
+        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "In The Living Room",
+      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+    },
+    {
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7Di07J7DApAfg39UadOuNM"
       },
@@ -20604,7 +20694,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
@@ -20976,7 +21066,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 259135,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/5CiiN0O3f48YTPui6RP94D"
@@ -23561,6 +23651,28 @@
     },
     {
       "album": {
+        "name": "Lorelei",
+        "url": "https://open.spotify.com/album/4STxlv8ToIIIOOHlqblGl6"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        },
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251360,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1d3su4rTl5WF7NHXhH6mOU"
+    },
+    {
+      "album": {
         "name": "Lorely",
         "url": "https://open.spotify.com/album/4QKq6btWHEIApLp3JO9KgP"
       },
@@ -26125,6 +26237,24 @@
     },
     {
       "album": {
+        "name": "My Beautiful Girl",
+        "url": "https://open.spotify.com/album/0tasLYViIeiNn7GfozOJ71"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133966,
+      "name": "My Beautiful Girl",
+      "url": "https://open.spotify.com/track/3tuzP0VTRq1be7QrbSmBMe"
+    },
+    {
+      "album": {
         "name": "Water's Here In You",
         "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },
@@ -26388,7 +26518,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 151038,
       "name": "My People",
       "url": "https://open.spotify.com/track/3YOoO9j3u5cQAsXhqan1Rd"
@@ -28035,6 +28165,24 @@
     },
     {
       "album": {
+        "name": "October Moon",
+        "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246624,
+      "name": "October Moon",
+      "url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9"
+    },
+    {
+      "album": {
         "name": "Of Land and Sea",
         "url": "https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD"
       },
@@ -28418,7 +28566,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
@@ -29568,7 +29716,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 215664,
       "name": "Permanently Lonely (From \"Skincare\")",
       "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
@@ -31005,6 +31153,24 @@
     },
     {
       "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "album": {
         "name": "Rain Like This",
         "url": "https://open.spotify.com/album/1bFcRbOHgyxTcmlSopHnyo"
       },
@@ -31442,7 +31608,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 225300,
       "name": "Regular Man",
       "url": "https://open.spotify.com/track/3r3RO2AcFG9SyJ2gfUfyxz"
@@ -34381,6 +34547,24 @@
     },
     {
       "album": {
+        "name": "Soft Kissing Hour",
+        "url": "https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt"
+      },
+      "artists": [
+        {
+          "name": "Nat & Alex Wolff",
+          "url": "https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242731,
+      "name": "Soft Kissing Hour",
+      "url": "https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
       },
@@ -36632,7 +36816,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 190684,
       "name": "Tacoma",
       "url": "https://open.spotify.com/track/5QmA9eApZ6vytnT9SqpiPx"
@@ -38587,6 +38771,24 @@
     },
     {
       "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/4JXb3LFfMrvC0QDVYXscMo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/1mb3OidcQFetp25sNnJ5j0"
+    },
+    {
+      "album": {
         "name": "The Mountain Is You",
         "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
       },
@@ -38976,7 +39178,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
@@ -39124,6 +39326,24 @@
       "duration_ms": 264422,
       "name": "The Way You Can",
       "url": "https://open.spotify.com/track/1WgNdsLpFXb7ycFcM9Cldk"
+    },
+    {
+      "album": {
+        "name": "It's Lovely To Have You Here",
+        "url": "https://open.spotify.com/album/7fbl6I3pogY0Wx4jujYy34"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174708,
+      "name": "The Wayside",
+      "url": "https://open.spotify.com/track/6T2PUOhpx04F50JZJ4044H"
     },
     {
       "album": {
@@ -39751,6 +39971,24 @@
     },
     {
       "album": {
+        "name": "this little lighter of mine",
+        "url": "https://open.spotify.com/album/7wZwvVVUR933QvJuIvke98"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "this little lighter of mine",
+      "url": "https://open.spotify.com/track/7c5ItJB9cCGme65bA4ifAK"
+    },
+    {
+      "album": {
         "name": "Tax Code 1: Telepathy of a Mammoth",
         "url": "https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc"
       },
@@ -39842,6 +40080,24 @@
       "duration_ms": 204065,
       "name": "Thompson's Station",
       "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
+    },
+    {
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
     },
     {
       "album": {
@@ -41356,7 +41612,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 214133,
       "name": "Una Playa En Nayarit",
       "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
@@ -44269,6 +44525,24 @@
     },
     {
       "album": {
+        "name": "Winter Wash 24",
+        "url": "https://open.spotify.com/album/1q8GMNTXAA8SPrBL5hYpug"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Winter Wash 24",
+      "url": "https://open.spotify.com/track/3JzfUMaVhGNwKA894AnPrv"
+    },
+    {
+      "album": {
         "name": "Wish for You",
         "url": "https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg"
       },
@@ -44388,7 +44662,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170084,
       "name": "Wishing well",
       "url": "https://open.spotify.com/track/5ho6v5OElgrbMLSy1WU2aG"

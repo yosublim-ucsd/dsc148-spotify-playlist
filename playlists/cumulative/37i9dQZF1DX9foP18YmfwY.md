@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Irmã Ana Paula
 
-175 songs - 13 hr 51 min
+176 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Exaltado \- Ao Vivo](https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Exaltado](https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO) | 4:40 | 2023-09-01 | 2023-11-25 |
 | [Famílias em Ordem de Batalha](https://open.spotify.com/track/3uSYa9xCnErro5Tz8Zbt0x) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Famílias em Ordem de Batalha](https://open.spotify.com/album/2KEAvFbKxawItg4FJXopXG) | 5:03 | 2024-08-16 | 2024-08-31 |
 | [Faça Um Milagre \- Ao Vivo](https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Faça Um Milagre \(Ao Vivo\)](https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6) | 4:22 | 2023-04-15 | 2024-08-17 |
-| [Faço Novas Todas As Coisas](https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni) | [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Missão Mensagem Brasil](https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F) | [Mensagens e Canções Que Transformam Vidas](https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47) | 4:28 | 2024-09-06 |  |
+| [Faço Novas Todas As Coisas](https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni) | [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Missão Mensagem Brasil](https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F) | [Mensagens e Canções Que Transformam Vidas](https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47) | 4:28 | 2024-09-06 | 2024-10-12 |
 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 | 2022-09-02 |  |
 | [Grandioso És Tu](https://open.spotify.com/track/5LkIMhyTEFyxpmfgWM2Qsf) | [Padre Jairo Silva](https://open.spotify.com/artist/4eo5bx5qx5h1RyVuQiBEQr), [Padre Antônio Maria](https://open.spotify.com/artist/5fffowYi9eGg1NsC89N4D1) | [Grandioso És Tu](https://open.spotify.com/album/41ki8G4JJZXRcjEBu12XM3) | 5:46 | 2024-04-19 | 2024-05-02 |
 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 | 2022-09-02 | 2023-03-18 |
@@ -115,6 +115,7 @@
 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 | 2022-09-02 |  |
 | [Minha Voz Te Louva](https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Minha Voz Te Louva](https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm) | 3:20 | 2023-03-11 | 2023-07-29 |
 | [Muito Mais pra Mim](https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf) | 5:34 | 2024-08-09 |  |
+| [Mãe do Céu Morena](https://open.spotify.com/track/1A7QfPZK5UuL5VdRuznRyQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Mãe do Céu Morena](https://open.spotify.com/album/5sxh3w7gLLrgUhIHkyf4nR) | 3:55 | 2024-10-11 |  |
 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 | 2023-02-10 |  |
 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 | 2022-09-02 |  |
 | [MÃEZINHA DO CÉU](https://open.spotify.com/track/5TK8lpRfRcdThiZVjzdzxo) | [Sandra Duailibe](https://open.spotify.com/artist/2DZbNBrM7YOub8oem1zpSr) | [MÃEZINHA DO CÉU](https://open.spotify.com/album/0LZsBd3npH6a86uex0vK5H) | 4:16 | 2023-10-06 | 2023-12-23 |

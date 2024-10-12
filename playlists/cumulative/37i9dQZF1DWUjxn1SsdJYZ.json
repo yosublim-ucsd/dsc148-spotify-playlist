@@ -7037,6 +7037,28 @@
     },
     {
       "album": {
+        "name": "He Is There (feat. Faith Sosene)",
+        "url": "https://open.spotify.com/album/0iieeCBSkaoVPmZGhBs6Cr"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        },
+        {
+          "name": "Faith Sosene",
+          "url": "https://open.spotify.com/artist/3EFpIlrlc0rNmqLF1ICSS6"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "He Is There (feat. Faith Sosene)",
+      "url": "https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/7I6cGOjRZrVlwXz0gO6tMV"
       },

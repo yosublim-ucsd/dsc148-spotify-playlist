@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175361,
       "name": "Badman",
       "url": "https://open.spotify.com/track/0ch6XaNmv9LYMxHokEXUWu"
@@ -2959,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "DOPE",
+        "url": "https://open.spotify.com/album/5jbQ1rCloXQra9u0G0U0AA"
+      },
+      "artists": [
+        {
+          "name": "Rickyxsan",
+          "url": "https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198233,
+      "name": "DOPE",
+      "url": "https://open.spotify.com/track/29NIoEBcZo3lNe8dl4JpiL"
+    },
+    {
+      "album": {
         "name": "Down Town Dub / Tumble",
         "url": "https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx"
       },
@@ -4000,7 +4022,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 138620,
       "name": "FRUI7Y LOOPS S7UDIO",
       "url": "https://open.spotify.com/track/1AfgsioMSu97wbnxOltPCq"
@@ -4590,7 +4612,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171509,
       "name": "Grim",
       "url": "https://open.spotify.com/track/1xu3PYvaqY2ZfJmz4KYafa"
@@ -12002,6 +12024,24 @@
       "duration_ms": 240000,
       "name": "Too Close To The Sun",
       "url": "https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky"
+    },
+    {
+      "album": {
+        "name": "TOYS",
+        "url": "https://open.spotify.com/album/3BCWCeSDwXAkehZtZhU15J"
+      },
+      "artists": [
+        {
+          "name": "RHYME",
+          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112842,
+      "name": "TOYS",
+      "url": "https://open.spotify.com/track/1vqnFCJTx9hui6N8OwXLRw"
     },
     {
       "album": {

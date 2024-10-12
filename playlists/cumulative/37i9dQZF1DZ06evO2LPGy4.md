@@ -2,7 +2,7 @@
 
 ### [This Is Gerardo Ortiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LPGy4)
 
-> This is Gerardo Ortiz\. The essential tracks, all in one playlist.
+> This is: Gerardo Ortiz\. Alle wichtigen Tracks in einer Playlist.
 
 80 songs - 3 hr 51 min
 

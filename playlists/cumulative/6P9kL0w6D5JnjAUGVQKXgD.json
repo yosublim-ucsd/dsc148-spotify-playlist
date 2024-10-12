@@ -10764,10 +10764,36 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 167317,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/0CjDmfdA5wYY3cyHc826hk"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy"
+      },
+      "artists": [
+        {
+          "name": "Coral Reef",
+          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
+        },
+        {
+          "name": "Emily Dawn",
+          "url": "https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
     },
     {
       "album": {

@@ -1,326 +1,322 @@
 {
   "description": "<a href=\"spotify:artist:3NKVm2Jedcf6ibJr6pMUVx\">Jayda G</a>'s favorite tracks. Updated regularly. Curated by Jayda G. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 66594,
+  "num_followers": 66609,
   "original_name": "Jayda G's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnQS3gAAAADd22CuBZxvZxpX74m4selT",
+  "snapshot_id": "ZwlUgQAAAACdXauU25Mw5uKPfW9AKVTN",
   "tracks": [
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Blue Lights (Major League DJz Remix)",
-        "url": "https://open.spotify.com/album/36ilkzGej6DS1vnWof1uT1"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4bhcYP62E6VxVr4yyPsdGl"
+      },
+      "artists": [
+        {
+          "name": "Ministers de la Funk",
+          "url": "https://open.spotify.com/artist/7y5eIukvu4CGjwUJpdLi2H"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 511790,
+      "name": "Believe - Ministers Vocal Mix",
+      "url": "https://open.spotify.com/track/7EURNOp2xE3d4cafQx7BOr"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/3lWtwOXZx0JW7y9ynpcVQ2"
       },
       "artists": [
         {
           "name": "Jayda G",
           "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229903,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 505277,
-      "name": "Blue Lights - Major League DJz Remix",
-      "url": "https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2"
+      "duration_ms": 312069,
+      "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/1LGHB5mAPoYy0oVg3eUUzT"
+        "name": "Baby Can You Reach",
+        "url": "https://open.spotify.com/album/4FWy3z2xJppiNTKteqVC6t"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 375600,
-      "name": "I Found My Smile Again",
-      "url": "https://open.spotify.com/track/3S4EcM2vITQtPuVRzyZegT"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
-      },
-      "artists": [
-        {
-          "name": "Joe Smooth",
-          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
-        }
-      ],
-      "duration_ms": 331706,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Piano Republik (Remixes)",
-        "url": "https://open.spotify.com/album/2RgNcT3yaxMZIGaQfNqY7p"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Rowetta",
+          "url": "https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z"
+        }
+      ],
+      "duration_ms": 166190,
+      "name": "Baby Can You Reach - Original Acetate Edit",
+      "url": "https://open.spotify.com/track/3B0JOQkbXNzL11DukVOdLL"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Most Precious Love",
+        "url": "https://open.spotify.com/album/4jhVgLHIeMNzCBqRdIYHqB"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
         },
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
         },
         {
-          "name": "Gaba Cannal",
-          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         },
         {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Ngibambe (feat. Gaba Cannal & Russell Zuma) - Jayda G Remix",
-      "url": "https://open.spotify.com/track/7sYKG8i0A2vXdBXWafltvi"
+      "duration_ms": 442630,
+      "name": "Most Precious Love - Michael Gray Dub",
+      "url": "https://open.spotify.com/track/1lqz2pKgJTFwKfD3tmhiya"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Sanctified EP",
-        "url": "https://open.spotify.com/album/3Imq0Z980HI5ukF3GvTESZ"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1LsMiShICQh2Clwo8VXWG0"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 555326,
-      "name": "We Magnify His Name",
-      "url": "https://open.spotify.com/track/1l3K4IPHiL7IHfLMbDreHW"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "When She Dance (David Ariza Club Edit)",
-        "url": "https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "AC Soul Symphony",
+          "url": "https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ"
         },
         {
-          "name": "David Ariza",
-          "url": "https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI"
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
         }
       ],
-      "duration_ms": 336393,
-      "name": "When She Dance - David Ariza Club Edit",
-      "url": "https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw"
+      "duration_ms": 385794,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/4hIbyye7E2dvsIM9LSkoXA"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Jam Experience, Pt. 1 (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5Hkd6unXtqyvEHnD1wMUP4"
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
       },
       "artists": [
         {
-          "name": "Walterino 4 L.W.S.",
-          "url": "https://open.spotify.com/artist/6udzHX1GnpIvtHrc7rT578"
-        }
-      ],
-      "duration_ms": 513950,
-      "name": "Kemut - Remastered",
-      "url": "https://open.spotify.com/track/0E0ltU5sngFangrHzveNq0"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Bang That Beat \"The Best Of\"",
-        "url": "https://open.spotify.com/album/5nMmnZzj9k9P2ltDSFW0hG"
-      },
-      "artists": [
-        {
-          "name": "Clivill\u00e9s & Cole",
-          "url": "https://open.spotify.com/artist/1Pr4kwH4jQuyc6pZ83VsC0"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "A Deeper Love",
-      "url": "https://open.spotify.com/track/7CVMGgNjOiyp0PMCxCHnPN"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Montara",
-        "url": "https://open.spotify.com/album/01GsxvwlAXZineSgxQXWR1"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Montara",
-      "url": "https://open.spotify.com/track/46qrqcOlSXd70Sa0tuSYtv"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Basement Boys Anthology",
-        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
-      },
-      "artists": [
-        {
-          "name": "Those Guys",
-          "url": "https://open.spotify.com/artist/5SoZXXHTYRjRmuDYE0HQCr"
-        }
-      ],
-      "duration_ms": 607400,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/3lrsQQ6tK4UcO164pSmHDU"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Places And Spaces",
-        "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Places And Spaces",
-      "url": "https://open.spotify.com/track/1pYPgA8XdHFQS15HPB41MH"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Don't Turn Your Back",
-        "url": "https://open.spotify.com/album/25XIrEgke1uIGgGh0m9fmf"
-      },
-      "artists": [
-        {
-          "name": "Pancake",
-          "url": "https://open.spotify.com/artist/7M6h1JhS7foMdSJenq7Fj3"
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
         },
         {
-          "name": "Olav Basoski",
-          "url": "https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi"
+          "name": "Cordell McClary",
+          "url": "https://open.spotify.com/artist/6MJ1XtNsnMpUet5kMNZih6"
+        }
+      ],
+      "duration_ms": 396853,
+      "name": "Traveling (Big Room Mix)",
+      "url": "https://open.spotify.com/track/188gcIgR2wCZ3pg1kNSNO3"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/3AiacaIdK64h6ioZZh2IrB"
+      },
+      "artists": [
+        {
+          "name": "Bimbo Jones",
+          "url": "https://open.spotify.com/artist/1zNKjWObj13QQ3IpwAtib3"
         },
         {
-          "name": "Erick E",
-          "url": "https://open.spotify.com/artist/4XBj1jBpd26X6wBk9xoFDU"
-        }
-      ],
-      "duration_ms": 401048,
-      "name": "Don't Turn Your Back",
-      "url": "https://open.spotify.com/track/4djgPDHuYQ9ieFmI5Nyoun"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Lite Up Your Life",
-        "url": "https://open.spotify.com/album/3n552RTbHseuM0Qgd1pSiV"
-      },
-      "artists": [
-        {
-          "name": "Act Of Faith",
-          "url": "https://open.spotify.com/artist/0wA2CuSor7PDqsQFjq0MiL"
-        }
-      ],
-      "duration_ms": 537866,
-      "name": "Lite Up Your Life - Joey Negro's Long Summer Mix",
-      "url": "https://open.spotify.com/track/0HFMhWa3i2Ru4X2hjebP4S"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Scars (lau.ra Remix)",
-        "url": "https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
         },
         {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+          "name": "Lee Dagger",
+          "url": "https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC"
+        },
+        {
+          "name": "Marc Jackson Burrows",
+          "url": "https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Scars - lau.ra Remix",
-      "url": "https://open.spotify.com/track/6TYYee2NtjEXoFJ1geAHw2"
+      "duration_ms": 353280,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/4vBTXrZmnEW7k5q0qC9c2B"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Joey Negro presents It's A Summer Groove Vol.1",
-        "url": "https://open.spotify.com/album/7buwT4aqiJI9PgUzLm9Jt8"
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
       "artists": [
         {
-          "name": "The Joneses",
-          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 515680,
-      "name": "Summer Groove",
-      "url": "https://open.spotify.com/track/5LcLFfjNyZPY6cxaT9GD5B"
+      "duration_ms": 174340,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7BlFirlYkSAKSq01puCNUy"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
       "artists": [
         {
-          "name": "LNR",
-          "url": "https://open.spotify.com/artist/0nKqFNALBpTYYDNzrC2LpI"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 339024,
-      "name": "Work It to the Bone",
-      "url": "https://open.spotify.com/track/7mH6hpO4UguvZPbrZhrYwR"
+      "duration_ms": 102873,
+      "name": "Dance Dance Dance Dance",
+      "url": "https://open.spotify.com/track/6qNA4oi603Kluq2CiTszvP"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Go for Your Guns",
-        "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
+        "name": "Love Divide / The Knife (Bubble Love Remixes)",
+        "url": "https://open.spotify.com/album/48a5z32orq8hPAIIyDfQzp"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        },
+        {
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+        }
+      ],
+      "duration_ms": 387123,
+      "name": "Love Divide - Bubble Love Remix",
+      "url": "https://open.spotify.com/track/77xrEjHvl3b8MEiUU5aMSn"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "BET YOU NEVER",
+        "url": "https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "duration_ms": 231195,
+      "name": "BET YOU NEVER",
+      "url": "https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Then, Now And Forever",
+        "url": "https://open.spotify.com/album/1MZBfVcbRIcYPtR9mMzdxU"
+      },
+      "artists": [
+        {
+          "name": "Skip Mahoney",
+          "url": "https://open.spotify.com/artist/0ELdtkrHfve2l4MuKoXYrh"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Janice",
+      "url": "https://open.spotify.com/track/2QuSUJTRJMzWssW9nXPGcf"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/1q1jZJmTpjgABbPbo5wzGn"
+      },
+      "artists": [
+        {
+          "name": "Vernon Burch",
+          "url": "https://open.spotify.com/artist/3KuiajCUJzq47n2LGvtkFj"
+        }
+      ],
+      "duration_ms": 360760,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5wq7C6YQUqeMMrIteHhHCs"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "It Must Be Love",
+        "url": "https://open.spotify.com/album/7js2ttKK2GGRWLbLpuyLDF"
+      },
+      "artists": [
+        {
+          "name": "Alton McClain & Destiny",
+          "url": "https://open.spotify.com/artist/7ERhQyRZQpfYARqiv4L9Dh"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/6chVKHXzoRvEuWwq5Wq4UQ"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
       "artists": [
         {
@@ -328,477 +324,201 @@
           "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 303560,
-      "name": "Tell Me When You Need It Again, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2KtgNbGMTwF9mvyTBM4PUT"
+      "duration_ms": 334386,
+      "name": "That Lady, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Testify 2014",
-        "url": "https://open.spotify.com/album/7yb60XatQq3KSafrxcMHI0"
+        "name": "DJ Meme Presents Disco II Disco",
+        "url": "https://open.spotify.com/album/4BTWGtgz9uSapFVtN3Ma5M"
       },
       "artists": [
         {
-          "name": "Romanthony",
-          "url": "https://open.spotify.com/artist/1xKryNto8SDKl2E6lBs23J"
+          "name": "Fonda Rae",
+          "url": "https://open.spotify.com/artist/2BNbzGI8Feq7yrv0SmC3Ji"
         },
         {
-          "name": "Waifs",
-          "url": "https://open.spotify.com/artist/5ByXS7e1s0rmjNXihqFhdU"
+          "name": "Jazz N Groove",
+          "url": "https://open.spotify.com/artist/5qNWZfVzh34W6PCtrLZwWa"
+        }
+      ],
+      "duration_ms": 426333,
+      "name": "Over Like a Fat Rat - Jazz n Groove Classic Mix",
+      "url": "https://open.spotify.com/track/2Ra6sLKyrkvVhNLMvWC0S8"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "He Is The Joy",
+        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
+      },
+      "artists": [
+        {
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
         },
         {
-          "name": "Strays",
-          "url": "https://open.spotify.com/artist/2WucRztiTediAzItlfAQfo"
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
         }
       ],
-      "duration_ms": 401311,
-      "name": "Testify - Waifs & Strays Tribute Edit",
-      "url": "https://open.spotify.com/track/2KshkVv8AwyEZ6O5E43RtB"
+      "duration_ms": 546000,
+      "name": "He Is The Joy - U.B.P. Classic Mix",
+      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
+        "name": "Got 2 Be Loved (Extended Mix)",
+        "url": "https://open.spotify.com/album/25pYn9HYW6S5eupzoLRlhV"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "Soul Reductions",
+          "url": "https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj"
         }
       ],
-      "duration_ms": 474560,
-      "name": "Zulu (Change Mix)",
-      "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+      "duration_ms": 436235,
+      "name": "Got 2 Be Loved - Extended Mix",
+      "url": "https://open.spotify.com/track/5RARH5zRjfHWxnKKg3ZUy1"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "The Soul Of Capitol Records: Rare & Well-Done",
-        "url": "https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb"
+        "name": "Our Beats",
+        "url": "https://open.spotify.com/album/7ea0ORUmANmJFYAjfiffjG"
       },
       "artists": [
         {
-          "name": "Mark Capanni",
-          "url": "https://open.spotify.com/artist/4BeNR2T3ZlSEdeVQTYlhG4"
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
         }
       ],
-      "duration_ms": 182773,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/2yXjbTKV40XLX2oCbyWz9k"
+      "duration_ms": 284506,
+      "name": "F The Disco",
+      "url": "https://open.spotify.com/track/7elX5HalbHX0ce1dql4ckd"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG"
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "It's Yours (feat. E-Man) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4KRy5T4ncs8f5fA5EwYA1b"
+      },
+      "artists": [
+        {
+          "name": "Jon Cutler",
+          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
         },
         {
-          "name": "David Cole",
-          "url": "https://open.spotify.com/artist/3g0V90wvKDRsZY8aOZZVic"
+          "name": "E-man",
+          "url": "https://open.spotify.com/artist/0jt9lz5fKtYJQAewHvdM7P"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "It's Yours (feat. E-Man) - Radio Edit",
+      "url": "https://open.spotify.com/track/321AKj6ab2UGtfdwVPfBZg"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Overdose of the Holy Ghost compiled by David Hill",
+        "url": "https://open.spotify.com/album/7amxUtloDd7v7uEbq2AuQn"
+      },
+      "artists": [
+        {
+          "name": "Twinkie Clark",
+          "url": "https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH"
+        }
+      ],
+      "duration_ms": 354537,
+      "name": "Awake O Zion",
+      "url": "https://open.spotify.com/track/7waa7seiVD4TWXWA6bO6Xx"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Sugar Honey Iced Tea!",
+        "url": "https://open.spotify.com/album/71hzJFdi64i7BcgfRfRkoy"
+      },
+      "artists": [
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        }
+      ],
+      "duration_ms": 438973,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/46jyVuJoPouM7u1QBJMGgf"
+    },
+    {
+      "added_at": "2024-10-11 16:38:25",
+      "album": {
+        "name": "Ubomi Abumanga",
+        "url": "https://open.spotify.com/album/4G3ordhXIF250USyNtUusu"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
         },
         {
-          "name": "Robert Clivill\u00e9s",
-          "url": "https://open.spotify.com/artist/3OnLbqYMUXobDapREwXLdo"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         }
       ],
-      "duration_ms": 652400,
-      "name": "Anytime You Need a Friend - C&C Club Version",
-      "url": "https://open.spotify.com/track/6cX9MpErVkNXYowPY7K0mL"
+      "duration_ms": 332533,
+      "name": "Ubomi Abumanga",
+      "url": "https://open.spotify.com/track/1Eum24tziiY0sRBRx7hWBb"
     },
     {
-      "added_at": "2024-06-20 11:30:38",
+      "added_at": "2024-10-11 16:38:25",
       "album": {
-        "name": "Circle Back Around",
-        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
         }
       ],
-      "duration_ms": 195408,
-      "name": "Circle Back Around",
-      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Hip To Be Disillusioned Vol. 1",
-        "url": "https://open.spotify.com/album/3GVsXtNXCZPyjOO9DnqTbs"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "M.D",
-          "url": "https://open.spotify.com/artist/0ihYFeJe0agoprOtNB5P4A"
-        }
-      ],
-      "duration_ms": 350371,
-      "name": "A1PRES107 - Original Mix",
-      "url": "https://open.spotify.com/track/3fCh9DjM8GqDGsS3KIHSss"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Sizzlin' Hot",
-        "url": "https://open.spotify.com/album/2pHW0fPmXbix5FoRPAkFFE"
-      },
-      "artists": [
-        {
-          "name": "Paradise",
-          "url": "https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl"
-        }
-      ],
-      "duration_ms": 396520,
-      "name": "Sizzlin' Hot",
-      "url": "https://open.spotify.com/track/0Ogw5liDubTHEUgvScD9J2"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 224287,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/6QPA0xHqefqGqyEfcPQ7Ao"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 404160,
-      "name": "Peace Piece",
-      "url": "https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Come Get It! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 486026,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/5Mhf6GA6G6ugP2x7mnAGyY"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Mix the Vibe: Joe Claussell, Pt. 1 - DJ Mix",
-        "url": "https://open.spotify.com/album/3EKocoe8iH7MxWfIbRFKki"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Friends",
-          "url": "https://open.spotify.com/artist/1l3lsO92gFVv3AA55ogsWZ"
-        },
-        {
-          "name": "David Morales",
-          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Philadelphia - Original Demo (Mixed)",
-      "url": "https://open.spotify.com/track/4ICEvEAdjnJkymla2rYOwf"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Maze (Remastered)",
-        "url": "https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 516933,
-      "name": "You - Remastered",
-      "url": "https://open.spotify.com/track/11si3OzSN9TCndyKeHPbB3"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/2MikTvhXISsHxX4Lr8xroL"
-      },
-      "artists": [
-        {
-          "name": "Ananda Project",
-          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
-        }
-      ],
-      "duration_ms": 402933,
-      "name": "Cascades Of Colour",
-      "url": "https://open.spotify.com/track/1XD7jLGDvGptKEfeHH6bM3"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Anything Goes!",
-        "url": "https://open.spotify.com/album/62PIrgTZUBFvlkvajYmVIN"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        },
-        {
-          "name": "Zelma Davis",
-          "url": "https://open.spotify.com/artist/33oXt1tHISa5u77wpQqbKP"
-        }
-      ],
-      "duration_ms": 361933,
-      "name": "I Found Love (feat. Zelma Davis)",
-      "url": "https://open.spotify.com/track/7HOjWbj6rmqaSByjiWtoqI"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "I Ain't Got Time (feat. Helen Bruner & Terry Jones) [The Grant Nelson Remixes]",
-        "url": "https://open.spotify.com/album/20vBPoqtcRdnZabZuDqz3f"
-      },
-      "artists": [
-        {
-          "name": "Next Phase",
-          "url": "https://open.spotify.com/artist/0wDd4Z6kj5TS6srBtgq6ui"
-        },
-        {
-          "name": "HELEN BRUNER",
-          "url": "https://open.spotify.com/artist/0DeNcNQF8keEh1n2rawBQ5"
-        },
-        {
-          "name": "Terry Jones",
-          "url": "https://open.spotify.com/artist/76FEqIxXbkrSyoIEnWGbJu"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        }
-      ],
-      "duration_ms": 469447,
-      "name": "I Ain't Got Time (feat. Helen Bruner & Terry Jones) - Grant's Euphoric Club Mix",
-      "url": "https://open.spotify.com/track/2nw8IdGoGAZ4hDdvEIEvqW"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "I Surrender (Disco Soul Radio Mix)",
-        "url": "https://open.spotify.com/album/0OVzksUvoC6HwYGoBIxI7f"
-      },
-      "artists": [
-        {
-          "name": "Funk Deluxe",
-          "url": "https://open.spotify.com/artist/0vJpKzm0vaMfA2V9cnjt6G"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "I Surrender (Disco Soul Radio Mix)",
-      "url": "https://open.spotify.com/track/2NHue5cQJNV5xOSWvno8lh"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Who Dares To Believe In Me",
-        "url": "https://open.spotify.com/album/3eSr8cPt8StvlBLGCnJDkA"
-      },
-      "artists": [
-        {
-          "name": "The Believers",
-          "url": "https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP"
-        }
-      ],
-      "duration_ms": 491746,
-      "name": "Who Dares to Believe in Me?",
-      "url": "https://open.spotify.com/track/0kj7OHPi09gnUKek4o3ZHD"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/3sBIVm6KbaEbJHmPHfjc4w"
-      },
-      "artists": [
-        {
-          "name": "France Joli",
-          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "Gonna Get Over You",
-      "url": "https://open.spotify.com/track/3Kbh7QUQvNEBVNB7xzVZJM"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Twice As Sweet",
-        "url": "https://open.spotify.com/album/1mcETo27dXibXub2zWh8LS"
-      },
-      "artists": [
-        {
-          "name": "A Taste Of Honey",
-          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "Ain't Nothin' But A Party - Remastered",
-      "url": "https://open.spotify.com/track/3eQKfsKwpeW4JYhwAB9UDw"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "DJ-Kicks: Jayda G",
-        "url": "https://open.spotify.com/album/454VGat5iW01CvFYy8FCIZ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Daniel",
-          "url": "https://open.spotify.com/artist/67iolTAbhae0JGf2zmSEdV"
-        },
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
-        }
-      ],
-      "duration_ms": 211624,
-      "name": "Stars (Dos Cult Mix) - Mixed",
-      "url": "https://open.spotify.com/track/1wsr9rwP2lHiMmnG96jQmB"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Keep On Pushing",
-        "url": "https://open.spotify.com/album/0L1jTkX24GS4gHP4Silxr8"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "I've Been Trying",
-      "url": "https://open.spotify.com/track/7bjuTLzZ5fG4TRU8ZHWBOz"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Twice As Sweet",
-        "url": "https://open.spotify.com/album/1mcETo27dXibXub2zWh8LS"
-      },
-      "artists": [
-        {
-          "name": "A Taste Of Honey",
-          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Rescue Me - Remastered",
-      "url": "https://open.spotify.com/track/3Pz5n4OKelwY3xpmsLhMNe"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Silence In The Secret Garden",
-        "url": "https://open.spotify.com/album/37z6C0yEkeOzbIYR17kRqg"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "People",
-      "url": "https://open.spotify.com/track/6XxJvG70zuktjFNyDxzLJ5"
-    },
-    {
-      "added_at": "2024-06-20 11:30:38",
-      "album": {
-        "name": "Bustin' Out of L Seven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4EsbzWIeUYpEF5Sv0yH8Ig"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 469546,
-      "name": "Fool On The Street",
-      "url": "https://open.spotify.com/track/0unXRZP4a8LrcXQGBCOPg9"
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     }
   ],
   "unique_name": "Jayda G's track IDs",

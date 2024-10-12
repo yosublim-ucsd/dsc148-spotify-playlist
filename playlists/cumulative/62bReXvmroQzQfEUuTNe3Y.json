@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-09-13",
-  "description": "Summer chill tracks to vibe or dance to in 2024. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
-  "name": "Chill House Summer 2024",
+  "description": "Chill tracks to vibe or dance to in 2024. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
+  "name": "Chill House 2024",
   "tracks": [
     {
       "album": {
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 179034,
       "name": "Got Time For Me (with Channel Tres)",
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
@@ -4148,6 +4148,28 @@
       "duration_ms": 155076,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240030,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE"
     },
     {
       "album": {

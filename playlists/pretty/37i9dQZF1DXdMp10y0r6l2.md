@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Festival Candelabrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,253 likes - 125 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,269 likes - 125 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 124 | [The Great Throne Of Morgoth](https://open.spotify.com/track/2ZwKUAcutOC2l5Hd3cZMN5) | [Ash Nazg Burz](https://open.spotify.com/artist/5kdTWkrdZpOmpkIJo83r72) | [Úr Gar Noun In Ir Cofn](https://open.spotify.com/album/1HTu9lnwLEfN7yTAXelFWY) | 6:37 |
 | 125 | [Ignis Spiritus Morte](https://open.spotify.com/track/5xDq8a4Uns46zXia0Lv5X8) | [Matalobos](https://open.spotify.com/artist/17ljH1H0YKjh1EYDuvJZDB) | [The Grand Splendour of Death](https://open.spotify.com/album/62oCK9GykHwIYw4ml9Ach4) | 4:48 |
 
-Snapshot ID: `ZsQBAQAAAADr1XmIBBj4uHUFg0g30KPO`
+Snapshot ID: `ZsQBAQAAAAATy4qaTUYNEYgC/CyHoz/m`

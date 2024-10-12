@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 154285,
       "name": "All I Own",
       "url": "https://open.spotify.com/track/50ePFYXFGh5AszAs7TJ3Sj"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 188679,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 174571,
       "name": "Back To Us",
       "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
@@ -4275,6 +4275,28 @@
     },
     {
       "album": {
+        "name": "CAVE (with Tove Lo)",
+        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180409,
+      "name": "CAVE (with Tove Lo)",
+      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+    },
+    {
+      "album": {
         "name": "Center of the World",
         "url": "https://open.spotify.com/album/6ySVT6WO73DZzPGOZ3Zi8t"
       },
@@ -4839,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Coin Toss",
+        "url": "https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133233,
+      "name": "Coin Toss",
+      "url": "https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE"
+    },
+    {
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/5s7IzPerZMYrbcyAwpu4WH"
       },
@@ -5166,7 +5206,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 212812,
       "name": "Coming Home (feat. John Martin)",
       "url": "https://open.spotify.com/track/7ydQgqQNPbKNoIJa7A2G08"
@@ -5644,7 +5684,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 147146,
       "name": "Dancing in the Moonlight (feat. NEIMY) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5XNNskkpE46QcgyWjPHUZd"
@@ -6028,7 +6068,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 141120,
       "name": "Dollar",
       "url": "https://open.spotify.com/track/6rOh3UDyN4Jz9PUxkHjMvh"
@@ -8108,7 +8148,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173882,
       "name": "Fighting For You",
       "url": "https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D"
@@ -8995,6 +9035,24 @@
     },
     {
       "album": {
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/3dqnY0JWemyIboJQlUafHd"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Give It Time",
+      "url": "https://open.spotify.com/track/3zOztmXibeiXkuxVeLg77a"
+    },
+    {
+      "album": {
         "name": "Give Me Your Love",
         "url": "https://open.spotify.com/album/6cfQUtHW3tzca3BeQ1Kofu"
       },
@@ -9214,7 +9272,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172307,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/5iLKAHXJN67BVStneEDo7t"
@@ -9936,7 +9994,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Heart on Fire",
       "url": "https://open.spotify.com/track/5ll2yG4LWHSI0FPMtPQ6c8"
@@ -11122,7 +11180,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 257430,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
@@ -11750,7 +11808,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182421,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq"
@@ -12276,7 +12334,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 228094,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
@@ -14235,6 +14293,24 @@
     },
     {
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "album": {
         "name": "Liberate",
         "url": "https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47"
       },
@@ -15208,7 +15284,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170568,
       "name": "Love",
       "url": "https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd"
@@ -17104,7 +17180,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 201023,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf"
@@ -18482,7 +18558,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
@@ -19608,7 +19684,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 165714,
       "name": "Promise You",
       "url": "https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t"
@@ -22017,6 +22093,32 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs"
+    },
+    {
+      "album": {
         "name": "Solitude (with BIA & Lucky Daye)",
         "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
       },
@@ -23912,7 +24014,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 264208,
       "name": "Take A Chance",
       "url": "https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN"

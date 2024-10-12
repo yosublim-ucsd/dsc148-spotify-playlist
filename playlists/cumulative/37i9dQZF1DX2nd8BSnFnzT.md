@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-507 songs - 1 day 4 hr 20 min
+508 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 | 2023-12-09 |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
-| [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 |  |
+| [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 | 2023-11-24 | 2023-12-09 |
 | [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 | 2023-06-23 | 2023-12-06 |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 | 2023-07-01 |
@@ -322,6 +322,7 @@
 | [Não É Só Existir](https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Não É Só Existir](https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn) | 3:49 | 2022-01-14 | 2022-12-17 |
 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 | 2022-05-20 | 2022-07-16 |
 | [Nóias Normais](https://open.spotify.com/track/152RBkawH7f1tYkMaHZ5Ac) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Nóias Normais](https://open.spotify.com/album/5LEpx272eqxABbGxbYDLxL) | 3:28 | 2022-01-14 | 2022-02-05 |
+| [O Amor e Seus Desvios](https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Leoni](https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL) | [O Amor e Seus Desvios](https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65) | 3:54 | 2024-10-11 |  |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2022-01-14 | 2023-04-01 |
 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 | 2022-11-25 | 2023-02-04 |
 | [O Deserto](https://open.spotify.com/track/0jY5AGKcDDZrxMM0Qhc5Y9) | [Tom Stracke](https://open.spotify.com/artist/01amAKKi7P0TRAf0tC0Ert) | [O Deserto](https://open.spotify.com/album/6M6p08pN0zbXQO03GrIEXh) | 4:24 | 2022-01-14 | 2022-05-14 |

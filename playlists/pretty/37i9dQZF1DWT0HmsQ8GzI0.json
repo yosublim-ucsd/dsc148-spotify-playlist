@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Belau",
-  "num_followers": 13743,
+  "num_followers": 13744,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+7UQAAAAAiEi3TLOGdsqvypCfGounj",
+  "snapshot_id": "Zv+7UQAAAAB4fQSL/yLJ0jjL/N4pFEkX",
   "tracks": [
     {
       "added_at": "2024-10-04 09:54:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "F\u00c9NY",
-        "url": "https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "F\u00c9NY",
-      "url": "https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 153000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "F\u00c9NY",
+        "url": "https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "F\u00c9NY",
+      "url": "https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "024",
-        "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
-      },
-      "artists": [
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
-        },
-        {
-          "name": "Lil Frakk",
-          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "024",
-      "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Holnapt\u00f3l",
         "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+        "name": "024",
+        "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        },
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
         }
       ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+      "duration_ms": 211636,
+      "name": "024",
+      "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "S\u00f6t\u00e9t vill\u00e1m",
         "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
       },
@@ -655,38 +655,6 @@
       "duration_ms": 219000,
       "name": "Nem volt \u00fagy m\u00e9g",
       "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -711,6 +679,58 @@
       "duration_ms": 201000,
       "name": "n\u00e9ha-n\u00e9ha",
       "url": "https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Sehovaval\u00f3",
+        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 174529,
+      "name": "Sehovaval\u00f3",
+      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -747,26 +767,6 @@
       "duration_ms": 198947,
       "name": "Hull\u00f3csillag",
       "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Sehovaval\u00f3",
-        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
-      },
-      "artists": [
-        {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 174529,
-      "name": "Sehovaval\u00f3",
-      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Zenekar (5 f\u0151re)",
-        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
       "artists": [
         {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
         }
       ],
-      "duration_ms": 197844,
-      "name": "Zenekar - 5 f\u0151re",
-      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -895,34 +895,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+        "name": "Zenekar (5 f\u0151re)",
+        "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
       },
       "artists": [
         {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
         }
       ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Sz\u00f6rny vagyok",
-        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Sz\u00f6rny vagyok",
-      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
+      "duration_ms": 197844,
+      "name": "Zenekar - 5 f\u0151re",
+      "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -939,6 +923,22 @@
       "duration_ms": 141666,
       "name": "OK",
       "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Sz\u00f6rny vagyok",
+        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Sz\u00f6rny vagyok",
+      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 302538,
       "name": "Bez\u00e1rul",
       "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
-      },
-      "artists": [
-        {
-          "name": "NOIRA",
-          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
-        }
-      ],
-      "duration_ms": 221062,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "RENDEZ\u0150I V\u00c1LTOZAT",
         "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 202400,
       "name": "RENDEZ\u0150I V\u00c1LTOZAT",
       "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "duration_ms": 221062,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+        "name": "Egy popzen\u00e9sz nyara",
+        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+      "duration_ms": 105000,
+      "name": "Egy popzen\u00e9sz nyara",
+      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1231,22 +1247,6 @@
       "duration_ms": 181840,
       "name": "Boldogok vagyunk-e",
       "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Egy popzen\u00e9sz nyara",
-        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Egy popzen\u00e9sz nyara",
-      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
     },
     {
       "added_at": "2024-10-04 09:54:25",

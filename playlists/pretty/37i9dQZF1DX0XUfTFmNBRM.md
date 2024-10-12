@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,401,871 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403,674 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Dil Haareya](https://open.spotify.com/track/4vrpvlcDM3uze5PoOgZpoV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vivian Richard](https://open.spotify.com/artist/3sR271VJyaakVXllBttyl6), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Dil Haareya](https://open.spotify.com/album/1H8GL20MLKD7SwymXBFnZG) | 3:59 |
 | 50 | [Lutt Putt Gaya](https://open.spotify.com/track/2pIoyDWZV5OSW0xd6n41xV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Dunki](https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J) | 3:42 |
 
-Snapshot ID: `ZwekhAAAAACpORj0HG/MpXqOyycNscqq`
+Snapshot ID: `ZwekhAAAAAAX3lmnb2E6FDTJghoHEK6g`

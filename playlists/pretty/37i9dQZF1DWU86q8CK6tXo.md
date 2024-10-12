@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,359 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,356 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 64 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 65 | [Sirens](https://open.spotify.com/track/3PNjH4Jcodq0m1V7PtQMFB) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Sirens](https://open.spotify.com/album/6nC3sa24KRjmd3HHLfx8Re) | 5:00 |
 | 66 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
-| 67 | [Joseph](https://open.spotify.com/track/10tTSoJcfLphfXnpx8gxJb) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [Bruised Reed](https://open.spotify.com/album/6Qx8H4WDptZD1PAVSIEQEK) | 2:16 |
-| 68 | [God Who Sees You](https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt) | 3:50 |
+| 67 | [God Who Sees You](https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt) | 3:50 |
+| 68 | [Joseph](https://open.spotify.com/track/10tTSoJcfLphfXnpx8gxJb) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [Bruised Reed](https://open.spotify.com/album/6Qx8H4WDptZD1PAVSIEQEK) | 2:16 |
 | 69 | [Steamy Windows](https://open.spotify.com/track/5z0srT8Ehqad5PDrtA0BLt) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:05 |
 | 70 | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/3xePjad1SGw3noniehfKRe) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/1bnTtiLFHJbx0kvhLeDibN) | 6:27 |
 | 71 | [Reach Out I'll Be There](https://open.spotify.com/track/1Nx75KLsrsELLpEqJrbSpG) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 5:35 |
 | 72 | [feel like home](https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:40 |
 
-Snapshot ID: `ZvtzwAAAAAACoUFsJq27VAQC0EyJaOYb`
+Snapshot ID: `ZvtzwAAAAAD0Cg0qKY4JgqXcxXeeRa57`

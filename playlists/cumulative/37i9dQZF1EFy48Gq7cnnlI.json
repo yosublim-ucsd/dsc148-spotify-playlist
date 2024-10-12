@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196003,
+      "name": "How To Be Human",
+      "url": "https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU"
+    },
+    {
+      "album": {
         "name": "Palo Santo (Deluxe)",
         "url": "https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v"
       },

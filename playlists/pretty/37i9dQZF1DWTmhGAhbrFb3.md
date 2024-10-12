@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,069 likes - 139 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,055 likes - 139 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 138 | [Feelstora](https://open.spotify.com/track/03XAiZp5HVuwqxafhc2LCC) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Feelstora](https://open.spotify.com/album/7aHse6DPzmFYPAe4Om6MFW) | 3:26 |
 | 139 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 |
 
-Snapshot ID: `ZtlrqAAAAABGsta+BUnsd5RCYHw2lkHv`
+Snapshot ID: `ZtlrqAAAAAA9YUgYrO39FEELDewIl42w`

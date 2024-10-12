@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 59 | [Лампада](https://open.spotify.com/track/0EfA5yNfDyv3jxUanBu3hX) | [SMAL KATE](https://open.spotify.com/artist/5wS0LOvDfubCwDTmuUPMEc) | [Лампада](https://open.spotify.com/album/0jmjcr91qmDoe1XmpuMEMY) | 3:27 |
 | 60 | [Blooms at Night](https://open.spotify.com/track/4u4wMfynjWElqRIgG35eje) | [ZHURBA](https://open.spotify.com/artist/4vHCzIewsVNTIBJhMrn02H) | [Blooms at Night](https://open.spotify.com/album/2FmaeWK4hTmrq4tyGzYdmW) | 3:18 |
 
-Snapshot ID: `Zvxi0AAAAAAp9xgdpad0/CfYyWOc8b+U`
+Snapshot ID: `Zvxi0AAAAAB7/OSLw2AYrObkBpO8BZkI`

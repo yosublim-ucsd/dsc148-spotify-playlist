@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:kiiko\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,947 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,951 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Manatif](https://open.spotify.com/track/1UUgysWr7I3cRodH7mFmHM) | [Ajgoat](https://open.spotify.com/artist/5wat9FAmCNq5vFCSrfseB2) | [Manatif](https://open.spotify.com/album/324UmpBfqiZAcEuPfzYGWB) | 3:49 |
 | 50 | [Khatwa L’Wara](https://open.spotify.com/track/0K4MwuLFgOKuKKyQ1M545t) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [Khatwa L’Wara](https://open.spotify.com/album/4EM54jqs5a7MBPvPDuOBE4) | 2:35 |
 
-Snapshot ID: `Zv0GsgAAAAByVaCUdolUesKa2pJhFNRv`
+Snapshot ID: `Zv0GsgAAAADrzXT3byuU5QthY38Ez7V7`

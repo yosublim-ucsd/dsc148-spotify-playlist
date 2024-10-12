@@ -3213,6 +3213,36 @@
     },
     {
       "album": {
+        "name": "LUX\u00daRIA",
+        "url": "https://open.spotify.com/album/1mCUbkEnpEhMIl6D2tSiu3"
+      },
+      "artists": [
+        {
+          "name": "Ryxn Pablo",
+          "url": "https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "LUX\u00daRIA",
+      "url": "https://open.spotify.com/track/5FoRyQCEoXdNbZryDGwiPZ"
+    },
+    {
+      "album": {
         "name": "Pecado Capital",
         "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },

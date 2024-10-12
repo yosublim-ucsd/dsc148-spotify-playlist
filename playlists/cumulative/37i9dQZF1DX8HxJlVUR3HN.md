@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : SEX SHOP MUSHROOMS
 
-273 songs - 16 hr 40 min
+276 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Green Eye](https://open.spotify.com/track/1P521PM4q6wIl25tAw4Ehq) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [2024 : Année du Dragon](https://open.spotify.com/album/356fhi2vFtb63eyu6AkxMK) | 2:49 | 2024-03-07 | 2024-04-26 |
 | [Guess Who's Back](https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi) | [The Big Idea](https://open.spotify.com/artist/3pXrb8c666Unh7CI7coovt) | [Guess Who's Back](https://open.spotify.com/album/67kQJAVLDFZqF2auxwolVv) | 3:19 | 2023-11-16 | 2024-03-01 |
 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-01 | 2024-03-01 |
+| [Hear Me Out](https://open.spotify.com/track/1Sh0phQGheIJBeEiNrdYjD) | [AFTER GEOGRAPHY](https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI) | [Hear Me Out](https://open.spotify.com/album/7FWAslvZJ9C8Xcv6tKEiA4) | 4:17 | 2024-10-11 |  |
 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-06 |  |
 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-09-30 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 | 2024-02-09 |
@@ -121,7 +122,7 @@
 | [It’s not the end](https://open.spotify.com/track/4w6UY7JZIF75TgLWPybfUm) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [It’s not the end](https://open.spotify.com/album/3W9KQvrIlQ44f9PGuAx0ac) | 3:10 | 2024-02-15 | 2024-03-22 |
 | [JACK IS A SOCIOPATH](https://open.spotify.com/track/780GSelCfBHsMGof0SiPvm) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [JACK IS A SOCIOPATH](https://open.spotify.com/album/6j04zM167yp6INtUTKHdej) | 3:58 | 2024-02-08 | 2024-03-22 |
 | [Jaded](https://open.spotify.com/track/7Mo2zhkWeVUb9ijJoITHNQ) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Jaded](https://open.spotify.com/album/6HnzYhHRAY1aUYwbNd8r6b) | 3:08 | 2024-02-29 | 2024-04-19 |
-| [Je m'avance](https://open.spotify.com/track/6tGyyYDL2rzsHMQLY1yvlB) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:38 | 2024-07-04 |  |
+| [Je m'avance](https://open.spotify.com/track/6tGyyYDL2rzsHMQLY1yvlB) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:38 | 2024-07-04 | 2024-10-12 |
 | [Joy Brings Me Down](https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Joy Brings Me Down](https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc) | 3:29 | 2023-09-28 | 2023-11-10 |
 | [Julia](https://open.spotify.com/track/7aK97PCxMNqp6XJHCPo03Q) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Julia](https://open.spotify.com/album/2R6iiNXY1zs1XkZ3WLZ2jI) | 3:40 | 2023-11-30 | 2023-12-15 |
 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 | 2023-09-28 | 2023-10-06 |
@@ -140,11 +141,13 @@
 | [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 | 2024-03-14 | 2024-09-06 |
 | [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-14 |  |
 | [Limousine](https://open.spotify.com/track/5Iatj6CbK0AjL90wZZMCY0) | [The Late Speakers...!](https://open.spotify.com/artist/524hQV3Jv9I3Ozep6dBR0r) | [Limousine](https://open.spotify.com/album/61FOACCkZkHVZdOLPFlhSf) | 3:15 | 2024-09-05 | 2024-09-20 |
-| [Lona](https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Lona](https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ) | 4:16 | 2024-08-29 |  |
+| [Lona](https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Lona](https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ) | 4:16 | 2024-08-29 | 2024-10-12 |
 | [Lust](https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 3:01 | 2024-09-19 |  |
 | [Lésinight](https://open.spotify.com/track/0kSs8D9jHyK9JLwMLb37Ru) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Lésinight](https://open.spotify.com/album/3Yx0rlQDcQGgDg3pmYSKca) | 2:36 | 2024-01-11 | 2024-02-16 |
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 | 2024-05-24 |
+| [Magnetic](https://open.spotify.com/track/2fqmP6cuTPi6gqPZo5Grxn) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Magnetic](https://open.spotify.com/album/3PrU7zOQLexzywPeRfFvxr) | 3:19 | 2024-10-11 |  |
 | [Me Me and Mine](https://open.spotify.com/track/3Ddpsbd5xVSWZUYKdiKPj0) | [Perfecto](https://open.spotify.com/artist/3DNSdKcse6RBNtXhSAC7nz) | [Quasar of Love](https://open.spotify.com/album/0D6LKEOlGw6DyaRoc0z0FR) | 4:28 | 2023-09-28 | 2023-10-06 |
+| [Menthe fraise](https://open.spotify.com/track/4IBOzpMnEbEtWchVwKDClU) | [Monochrome](https://open.spotify.com/artist/1OceV4sNEVgG9xUDQb70Ie) | [Menthe fraise](https://open.spotify.com/album/65Mih2cmshmQZfHxUW0IrB) | 4:36 | 2024-10-11 |  |
 | [Millennial Gray](https://open.spotify.com/track/3uQBNtvR6j0QnKRNuxBbbQ) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Millennial Gray](https://open.spotify.com/album/6ffRRvrOEAybtnhy6CR1xN) | 3:25 | 2024-06-27 |  |
 | [Model](https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 4:09 | 2023-09-28 | 2023-10-06 |
 | [mon amour](https://open.spotify.com/track/0vofjntlF86cB5drIaSohe) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mon amour](https://open.spotify.com/album/4a7qaAyGAGED2P6ZniTxOS) | 2:35 | 2023-11-09 | 2024-02-16 |
@@ -270,7 +273,7 @@
 | [Wasted](https://open.spotify.com/track/1v7EnFmEQkRFj3ilzUElwq) | [GRENADE](https://open.spotify.com/artist/3iA64D60HnedIfGDqHmKYW) | [Wasted](https://open.spotify.com/album/34VGAwtVtYRtvwD27nynjX) | 2:29 | 2024-06-20 |  |
 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 | 2024-02-15 | 2024-03-22 |
 | [Way Out](https://open.spotify.com/track/4cXCGpq7YnBvu1bvhfXml2) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Way Out](https://open.spotify.com/album/6ZdRCRrFYUPx5mVc5FtLpW) | 4:03 | 2024-05-23 | 2024-09-13 |
-| [Way Out \(Bonus Track, OMPS Version\)](https://open.spotify.com/track/3gCw4Cs3Try7p0WNmVkpe9) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Original Motion Picture Soundtrack](https://open.spotify.com/album/2CpTPFpP1BYhVJhAQnzCR0) | 4:19 | 2024-05-16 |  |
+| [Way Out \(Bonus Track, OMPS Version\)](https://open.spotify.com/track/3gCw4Cs3Try7p0WNmVkpe9) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Original Motion Picture Soundtrack](https://open.spotify.com/album/2CpTPFpP1BYhVJhAQnzCR0) | 4:19 | 2024-05-16 | 2024-10-12 |
 | [We Want Some Rock'n'Roll](https://open.spotify.com/track/6G6JwN19YV5NEeLovloTY5) | [The Red Goes Black](https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR) | [We Want Some Rock'n'Roll](https://open.spotify.com/album/6wh5q40X8vJvPRK7BkoS1I) | 3:25 | 2024-06-20 |  |
 | [Welcome Back \- First Edit](https://open.spotify.com/track/4pLiJIhQYqKBmYukO7qVdU) | [EllSide](https://open.spotify.com/artist/6PxSIYmViSAALyISijBrW7) | [Welcome Back \(First Edit\)](https://open.spotify.com/album/595ts2ZuIpCoNaWNMdlRQQ) | 3:56 | 2024-01-18 | 2024-03-15 |
 | [WELCOME TO AMERICA](https://open.spotify.com/track/3zgrOmeYSZsn3K6WKjr7ih) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [WELCOME TO AMERICA](https://open.spotify.com/album/50P9M5GO9hBM28cDDnMXcq) | 2:41 | 2023-09-28 | 2023-10-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
+  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
   "name": "Rock Colombia",
   "tracks": [
     {
@@ -546,6 +546,24 @@
       "duration_ms": 162000,
       "name": "Cangrejo",
       "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
+    },
+    {
+      "album": {
+        "name": "Canto al Fuego",
+        "url": "https://open.spotify.com/album/29g6er6I9r47U8tuQ9bbPG"
+      },
+      "artists": [
+        {
+          "name": "Pirineos En Llamas",
+          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "Canto al Fuego",
+      "url": "https://open.spotify.com/track/6PebIhiWi1pAUVJ6BFPHtC"
     },
     {
       "album": {
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 189702,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
@@ -2483,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Nube Gris",
+        "url": "https://open.spotify.com/album/7jb3VnmnKW2sqFArnvtUdu"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Nube Gris",
+      "url": "https://open.spotify.com/track/0wbpgy75oAEP13Huibdiwn"
+    },
+    {
+      "album": {
         "name": "Volver Amar",
         "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
       },
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 291140,
       "name": "Puede Que",
       "url": "https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv"

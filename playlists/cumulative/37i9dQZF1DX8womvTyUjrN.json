@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Ela Taubert",
+  "description": "Fresh Latin pop on the rise. Cover: Yami Safdie & Lasso",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -4427,6 +4427,28 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+    },
+    {
+      "album": {
         "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
       },
@@ -4663,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "Escudo",
+        "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Escudo",
+      "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
+    },
+    {
+      "album": {
         "name": "Ese Final Ya Me Lo S\u00e9",
         "url": "https://open.spotify.com/album/0KUsUaDnrxjBI8K4MuE3WD"
       },
@@ -4674,7 +4718,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 154226,
       "name": "Ese Final Ya Me Lo S\u00e9",
       "url": "https://open.spotify.com/track/5I7hlK0h9KYP1zAIFgzMq8"
@@ -6400,7 +6444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 188035,
       "name": "K\u00e9 MaL",
       "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
@@ -6720,6 +6764,24 @@
       "duration_ms": 153394,
       "name": "La Ouija",
       "url": "https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK"
+    },
+    {
+      "album": {
+        "name": "La Pregunta",
+        "url": "https://open.spotify.com/album/4XenFFvgsV5nrSQGMluyCP"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180105,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5cphXEmAoBoEDvXnUZ34Je"
     },
     {
       "album": {
@@ -7610,7 +7672,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 139393,
       "name": "mami let go",
       "url": "https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I"
@@ -8420,7 +8482,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 216426,
       "name": "mil procedimientos",
       "url": "https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s"
@@ -10084,7 +10146,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 190463,
       "name": "Paciencia (Arial 6)",
       "url": "https://open.spotify.com/track/5bCVgSGP4VKDyyY5xUFHpZ"
@@ -13527,6 +13589,24 @@
     },
     {
       "album": {
+        "name": "Trailer",
+        "url": "https://open.spotify.com/album/0o2qgb4mqnDjoaspZsgRXN"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171746,
+      "name": "Trailer",
+      "url": "https://open.spotify.com/track/1Xo00Mhz7PP0lMM92sDFYw"
+    },
+    {
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/45tKdzbI2oiQSygVPOtIZC"
       },
@@ -14029,6 +14109,28 @@
     },
     {
       "album": {
+        "name": "Ur Gangsta",
+        "url": "https://open.spotify.com/album/7CxPQMza0weA68e959zPRc"
+      },
+      "artists": [
+        {
+          "name": "JAVVI ELIAS",
+          "url": "https://open.spotify.com/artist/0wdQR6Qd64uSVhNJy7M2F0"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159712,
+      "name": "Ur Gangsta",
+      "url": "https://open.spotify.com/track/0LQCeCxHd5iPLEmntDdAlk"
+    },
+    {
+      "album": {
         "name": "German vs DAAZ",
         "url": "https://open.spotify.com/album/0oGkL1AWwuioRXM1YLrpN5"
       },
@@ -14469,6 +14571,28 @@
     },
     {
       "album": {
+        "name": "X si acaso quieres regresar",
+        "url": "https://open.spotify.com/album/6fHcrGdPaJ0H2N1kWM7lqP"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        },
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139674,
+      "name": "X si acaso quieres regresar",
+      "url": "https://open.spotify.com/track/3jaaUIKt4oJgLyDPl0bmSq"
+    },
+    {
+      "album": {
         "name": "x ti (Remix)",
         "url": "https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW"
       },
@@ -14882,7 +15006,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182000,
       "name": "\u00c1NGEL CA\u00cdDO",
       "url": "https://open.spotify.com/track/4vODmN1z5jjUpHgMfx3McV"

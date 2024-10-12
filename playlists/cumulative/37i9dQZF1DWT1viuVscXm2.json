@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 277000,
       "name": "Amor de Chat - En vivo",
       "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 197119,
       "name": "Deja de Llorar - Remix",
       "url": "https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m"
@@ -2530,6 +2530,28 @@
       "duration_ms": 177435,
       "name": "La Barca (feat. Kapanga)",
       "url": "https://open.spotify.com/track/5sXwOkjF8KDJLSJU2SbPf9"
+    },
+    {
+      "album": {
+        "name": "La Chevecha",
+        "url": "https://open.spotify.com/album/6RAm5Xu4OXtLOw8ipOhq68"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Zillertal Orchester",
+          "url": "https://open.spotify.com/artist/3QFXO42LJqEnoEmlZ3eb9y"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "La Chevecha",
+      "url": "https://open.spotify.com/track/3gQt1AZ6wwIZAOgEpenyUA"
     },
     {
       "album": {
@@ -4678,7 +4700,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 196914,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/3ff8LOItlxi0S7J0XmxjF4"
@@ -4824,6 +4846,24 @@
       "duration_ms": 208000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
+    },
+    {
+      "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/5Es5LYoZJpBrTlYq4D9JwF"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/6bhCQBkTEsQZewNPPbIi31"
     },
     {
       "album": {
@@ -5442,6 +5482,24 @@
       "duration_ms": 193846,
       "name": "Soy Favela",
       "url": "https://open.spotify.com/track/0XxzweqYFUrK0bEzrNaQwI"
+    },
+    {
+      "album": {
+        "name": "Soy Favela (En Vivo)",
+        "url": "https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177629,
+      "name": "Soy Favela - En Vivo",
+      "url": "https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp"
     },
     {
       "album": {

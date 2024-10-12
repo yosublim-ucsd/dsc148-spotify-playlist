@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Minz
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,422 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,455 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 84 | [Shout](https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Shout](https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H) | 2:24 |
 | 85 | [Hardest Babe](https://open.spotify.com/track/645fiSovmhWhotSv00WcHT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Hardest Babe](https://open.spotify.com/album/4ads4crCwlT9BU7Jvgfdoo) | 2:06 |
 
-Snapshot ID: `ZwOPtQAAAAAar/oOohLMyo9MVU7bDdJz`
+Snapshot ID: `ZwOPtQAAAADhD6w6u0w0Gmtan5N4j1XE`

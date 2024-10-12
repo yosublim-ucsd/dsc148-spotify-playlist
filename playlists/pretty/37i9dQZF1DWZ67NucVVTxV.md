@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,196 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,234 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Insanity](https://open.spotify.com/track/0R1Z20amcclgAd4WRztJR8) | [Celo](https://open.spotify.com/artist/57jnGVKiJf3uOsUuw7UB5c) | [Insanity](https://open.spotify.com/album/6wCzfiFO1uuGgISGuhHeUR) | 2:37 |
 | 80 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 |
 
-Snapshot ID: `ZwOQzgAAAAD4nDLNKQOcPEjZcGU1pb9e`
+Snapshot ID: `ZwOQzgAAAAAYN2NHbi4niNHl2/I+wQZ/`

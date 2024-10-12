@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-202 songs - 9 hr 32 min
+204 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Ethics](https://open.spotify.com/track/12E4jsyDeC5PcEumWw1JIc) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y) | [Ethics](https://open.spotify.com/album/6labR4YvasIwdmdUHrzWKd) | 2:05 | 2024-09-19 |  |
 | [Everyone Asks](https://open.spotify.com/track/3nc7YQhWdDfv8CwerxuE3J) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:49 | 2024-10-10 |  |
 | [F.D.P](https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0) | [F.D.P](https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB) | 2:54 | 2024-09-28 |  |
+| [Face Value](https://open.spotify.com/track/0PiQb1xuNqzeIHrSEwH3Cm) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Face Value](https://open.spotify.com/album/0y1aCJA9RFbnbY5syjshH9) | 2:56 | 2024-10-11 |  |
 | [Flex Talk](https://open.spotify.com/track/2J48PmzsSxcvfp9wPrGILu) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2) | [Flex Talk](https://open.spotify.com/album/0igZNGk8crrnAhEDa655LE) | 2:12 | 2024-09-13 |  |
 | [Foreign](https://open.spotify.com/track/5fEv6mzKXsDoZUQaR4Bu3m) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Foreign](https://open.spotify.com/album/0QQU0Md6kgxRrZ2sDINkOC) | 2:44 | 2024-03-08 | 2024-06-18 |
 | [Freestyle](https://open.spotify.com/track/3TbxASwEHPGuSWh7eZDjHB) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Freestyle](https://open.spotify.com/album/3NQgwqRiApcEdpuwFyFNxV) | 2:30 | 2023-03-18 | 2023-10-12 |
@@ -99,6 +100,7 @@
 | [Hop In](https://open.spotify.com/track/4cCdHyMpezQ9ELWrUB54yC) | [Manraj](https://open.spotify.com/artist/0uaJu6JTp4Nv508PWFLrgn), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Hop In](https://open.spotify.com/album/3pIqVKzemDyocL9k0nH5SM) | 2:44 | 2024-10-03 |  |
 | [Howdy Hommies](https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:22 | 2024-10-10 |  |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
+| [I Know A Guy](https://open.spotify.com/track/1DFFzCDrgZRkRL4noqE6xd) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [LXSH](https://open.spotify.com/artist/4xoF0p9MrhB4Qxh9sIwPaz) | [I Know A Guy](https://open.spotify.com/album/0GyPi7lYfWvD1SJwkjdRhc) | 4:31 | 2024-10-11 |  |
 | [I.D.G.A.F](https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Mani Sidhu](https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN) | [I.D.G.A.F](https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz) | 4:29 | 2024-08-05 | 2024-09-21 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 | 2024-09-19 |
 | [In Case](https://open.spotify.com/track/3XNdtAldN7TeHWv1vFORY8) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [In Case](https://open.spotify.com/album/100gHhW5AZT9yGMajJMtoY) | 4:55 | 2024-09-10 | 2024-10-02 |

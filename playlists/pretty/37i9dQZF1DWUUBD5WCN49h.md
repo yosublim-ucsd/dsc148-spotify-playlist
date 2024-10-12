@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: MAUIMOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,043 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,046 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Stay Real](https://open.spotify.com/track/6PNRhwTmlllt9PpwdTTeUH) | [Wakayna](https://open.spotify.com/artist/2EBDxWF1HabOhhHbJDTVo4) | [Stay Real](https://open.spotify.com/album/4tLBelbEf00cVT0D8L4ZU3) | 2:55 |
 | 80 | [PAST MYSELF](https://open.spotify.com/track/1oSAd3Ta3gSAwxNjGja125) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 2:40 |
 
-Snapshot ID: `Zv9+bwAAAAAq9DR/NjK7CbnzG9BTzyES`
+Snapshot ID: `Zv9+bwAAAADjDPQ6tdO62pq88MLDUVXW`

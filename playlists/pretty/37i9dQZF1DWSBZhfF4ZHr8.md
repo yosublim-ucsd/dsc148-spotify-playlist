@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Maheva
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,754 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,775 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Finalement](https://open.spotify.com/track/0ZSWlkAkmp2fQsRfikrBox) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Finalement](https://open.spotify.com/album/7hLQmNDbh9eSbBpjrqV1Gq) | 2:46 |
 | 50 | [Tant pis](https://open.spotify.com/track/6n7hzVFg5Xn7VCthjITRsW) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Tant pis](https://open.spotify.com/album/0ZiQ50GgM9ZJ7xBTDCcJ1L) | 3:07 |
 
-Snapshot ID: `ZwhOYAAAAAC3z58ujm1/1fu+SgmOQS/T`
+Snapshot ID: `ZwhOYAAAAABm1PQAbovveVteS5CgfwVu`

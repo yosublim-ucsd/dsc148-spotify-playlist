@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-116 songs - 4 hr 28 min
+119 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 | 2023-10-27 | 2023-12-14 |
 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 | 2023-10-27 |  |
 | [Drinking Taste](https://open.spotify.com/track/4s2rZQ0Hgn0RKA1vag5mhG) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Drinking Taste](https://open.spotify.com/album/7As8IO9HREQigUv7BJeA9D) | 2:06 | 2023-10-27 |  |
-| [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-10-27 |  |
+| [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-10-27 | 2024-10-12 |
 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 | 2024-10-07 |  |
 | [Evelyn Walk](https://open.spotify.com/track/2pWEy7ChzrcnPYJHATnXq3) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Evelyn Walk](https://open.spotify.com/album/0ichHI0kN9SDEbqJtGxxVq) | 2:37 | 2023-10-27 |  |
 | [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 | 2024-06-13 |  |
@@ -55,6 +55,8 @@
 | [frosty haze](https://open.spotify.com/track/5C7f7HJ1RhwU9ou9JjvznH) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [frosty haze](https://open.spotify.com/album/5gLdHeQNfBmKrncIl6o76L) | 2:10 | 2024-01-05 |  |
 | [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 | 2024-02-02 |  |
 | [gentle breath](https://open.spotify.com/track/511fGyUV4I1zfaH77bsElF) | [anton suede](https://open.spotify.com/artist/7CVmC6cx5X5250x68y8AaN) | [gentle breath](https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER) | 2:21 | 2024-01-05 |  |
+| [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 | 2024-10-11 |  |
+| [Glowing Tears](https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Glowing Tears](https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD) | 2:20 | 2024-10-11 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2023-10-27 | 2023-12-14 |
 | [Hidden In The Mist](https://open.spotify.com/track/3Zd5yGjs0Zavnc9Eekh6qc) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Dreamcatcher](https://open.spotify.com/album/3KTmEVClSrOaATXcocRUPP) | 1:53 | 2023-10-27 |  |
 | [High](https://open.spotify.com/track/3VSybG2nJeJ2NSi6j9ZknY) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [High](https://open.spotify.com/album/0GdMlmRTp1S3arrygvJeE8) | 2:46 | 2023-10-27 | 2024-06-14 |
@@ -78,7 +80,7 @@
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-10-07 |  |
 | [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 | 2024-01-05 |  |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
-| [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2023-10-27 |  |
+| [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2023-10-27 | 2024-10-12 |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |
 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-07 |  |
 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 | 2023-10-27 |  |
@@ -88,10 +90,11 @@
 | [promised you](https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [promised you](https://open.spotify.com/album/4y1qZp2i3lKxfWxrMlMeHb) | 2:06 | 2023-10-27 |  |
 | [Quartal](https://open.spotify.com/track/6HouroGZSnriefu6Rg53AK) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Quartal](https://open.spotify.com/album/4GwJnWsXhLb7jDO4o9yHV8) | 2:24 | 2024-10-07 |  |
 | [rainclouds](https://open.spotify.com/track/13vQBrsVfdgkRwoPJ1Kniq) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [rainclouds](https://open.spotify.com/album/6T0tFcQXo5JXbmLtfXpcef) | 2:03 | 2024-02-23 |  |
-| [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 | 2024-01-19 |  |
+| [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 | 2024-01-19 | 2024-10-12 |
 | [rainy days](https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [rainy days](https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N) | 2:05 | 2024-01-12 |  |
 | [rainy daze](https://open.spotify.com/track/6GLC6GbqXXDMLGZe8IQek3) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [rainy daze](https://open.spotify.com/album/6tM8VMv8gMJB2cmQzOMs28) | 2:21 | 2024-06-13 | 2024-10-08 |
 | [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-13 |  |
+| [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-11 |  |
 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 | 2023-10-27 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2023-10-27 |  |
 | [roaming roads](https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [roaming roads](https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0) | 2:36 | 2024-06-13 |  |

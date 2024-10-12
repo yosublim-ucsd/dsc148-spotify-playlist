@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sertab Erener
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,427 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,430 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 48 | [Yel Senin Yelken Senin](https://open.spotify.com/track/6QVGJXttIyLllNSXRXjOPF) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Yel Senin Yelken Senin](https://open.spotify.com/album/0UVXIzJZ9TbwZXlpKIcJSR) | 3:09 |
 | 49 | [Mutlak Akıl](https://open.spotify.com/track/5qYgF21GpSv6b7th2vFzkf) | [Özge Arslan](https://open.spotify.com/artist/7rzLq3I3srzi4TCyJ9vCHo) | [Mutlak Akıl](https://open.spotify.com/album/1pZOX0s8MoV4nbtPqoiCff) | 5:17 |
 
-Snapshot ID: `ZwUQugAAAABC86n/GkEbU7iT9W06kmXS`
+Snapshot ID: `ZwUQugAAAABX2d/Ap+1fNOISiRb/Xg+E`

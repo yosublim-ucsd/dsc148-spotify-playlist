@@ -1,12 +1,12 @@
 {
   "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Binomio de Oro de Am\u00e9rica",
-  "num_followers": 361083,
+  "num_followers": 361106,
   "original_name": "Lo + del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv6y5AAAAAAxaFhHGO8YSEV7c9rR5G6g",
+  "snapshot_id": "Zwi32AAAAAAw+A7i4fijYIhWGI3K5tT6",
   "tracks": [
     {
       "added_at": "2024-10-03 15:06:12",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c"
     },
     {
+      "added_at": "2024-10-11 05:30:00",
+      "album": {
+        "name": "El Que No Bebe Se Muere",
+        "url": "https://open.spotify.com/album/5OPA2GrcXBKGG0xvWZIM2k"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Luis Jose Villa",
+          "url": "https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "El Que No Bebe Se Muere",
+      "url": "https://open.spotify.com/track/7ws2k8irXAxlItFvTj9ZCg"
+    },
+    {
       "added_at": "2024-10-03 15:06:12",
       "album": {
         "name": "INALCANZABLE",
@@ -71,6 +91,26 @@
       "duration_ms": 218884,
       "name": "INALCANZABLE",
       "url": "https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ"
+    },
+    {
+      "added_at": "2024-10-11 05:30:00",
+      "album": {
+        "name": "Amor Incomparable",
+        "url": "https://open.spotify.com/album/3hHJc7PAbBMhgkuCHpW2Ly"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        },
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Amor Incomparable",
+      "url": "https://open.spotify.com/track/3UTUu8Y3bx7wYygEw29MTn"
     },
     {
       "added_at": "2024-10-03 15:06:12",
@@ -243,22 +283,6 @@
     {
       "added_at": "2024-10-03 15:06:12",
       "album": {
-        "name": "Mil Noches",
-        "url": "https://open.spotify.com/album/6K4JohP3PjRZOuClEqW5mn"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 243259,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/2rPZ8bqFlc6vrK9yqxdzyv"
-    },
-    {
-      "added_at": "2024-10-03 15:06:12",
-      "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/3rH6YMIS5KlgGrFRKumNrN"
       },
@@ -295,26 +319,6 @@
       "duration_ms": 272866,
       "name": "Ilusiones",
       "url": "https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER"
-    },
-    {
-      "added_at": "2024-10-03 15:06:12",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS"
-      },
-      "artists": [
-        {
-          "name": "La Banda del 5",
-          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
-        },
-        {
-          "name": "Alberto Kammerer",
-          "url": "https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl"
-        }
-      ],
-      "duration_ms": 251105,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T"
     },
     {
       "added_at": "2024-10-03 15:06:12",

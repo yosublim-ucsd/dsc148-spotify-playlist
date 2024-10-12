@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-880 songs - 2 day 4 hr 33 min
+881 songs - 2 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 | 2024-08-29 |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-23 | 2024-05-19 |
 | [BLESS](https://open.spotify.com/track/1n7KmMGSUJPpNrywGB2XK2) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLESS](https://open.spotify.com/album/1xdhzuA7RZyNauCUu5dIN9) | 2:21 | 2023-11-07 | 2024-01-17 |
-| [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-10-02 |  |
+| [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-10-02 | 2024-10-12 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-10-20 | 2024-03-04 |
 | [BOLD \(feat\. reina\)](https://open.spotify.com/track/3GJszdk6pDqqHN1XZJla8Z) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/014D3rCQX8K9Hqqj9dYEl6) | 2:23 | 2023-05-30 | 2023-06-09 |
 | [BOLD \- feat\. reina](https://open.spotify.com/track/0ysitHytpmV4P83IKMxxdF) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG) | 2:23 | 2023-05-30 | 2023-06-01 |
@@ -327,6 +327,7 @@
 | [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 | 2022-10-27 | 2022-11-30 |
 | [it's al\-LIGHT](https://open.spotify.com/track/6qKV6fQE2vTKYH9KtLepxu) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [it's al\-LIGHT](https://open.spotify.com/album/3TRRPJkQCA4VZ91ZiwoYYr) | 3:04 | 2022-12-22 | 2023-02-24 |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-04-11 | 2023-04-13 |
+| [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 |  |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-10-20 | 2023-01-13 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-17 |  |
 | [jelly](https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [jelly](https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT) | 2:46 | 2024-08-14 | 2024-09-19 |

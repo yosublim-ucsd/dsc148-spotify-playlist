@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,778 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,785 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 79 | [Down In My Hometown](https://open.spotify.com/track/2sIg5xHYoAOFLMEI0MED32) | [Paceshifters](https://open.spotify.com/artist/7maCRjdG5xFuQZ7AxINpAN) | [Down In My Hometown](https://open.spotify.com/album/5drfD6csj8c4QUwwnOCPec) | 3:18 |
 | 80 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 |
 
-Snapshot ID: `ZwhOYAAAAAAEGLdcWX/5zFvfQWeUmmx+`
+Snapshot ID: `ZwhOYAAAAACHlbnsskS/wTNlc0/x2x5l`

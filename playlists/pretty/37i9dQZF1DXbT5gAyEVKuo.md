@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances\. Cover: <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,277 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,310 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 49 | [Ooh Wee Another Blessing](https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc) | [Melvin Williams](https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 4:13 |
 | 50 | [Faithful You Are \- Live](https://open.spotify.com/track/2tU3bE9LQStyHhrDmu3Ams) | [Montrae Tisdale and The Friends Chorale](https://open.spotify.com/artist/6coWqEDygWVo2aVKcN8Ep2), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [The Faith Journey \(Live\)](https://open.spotify.com/album/50IACast23ezf8MlYV2ayt) | 5:43 |
 
-Snapshot ID: `Znkn3gAAAAAU4uJWfvyKPlPEiKuwcIbH`
+Snapshot ID: `Znkn3gAAAAB8kL/szwCU4RbKFVLok7ei`

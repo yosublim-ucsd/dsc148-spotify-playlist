@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,828 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,889 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 102 | [Sad Girl Era](https://open.spotify.com/track/1xgBezvfQi39j9KWhg9lya) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Sad Girl Era](https://open.spotify.com/album/2FHLOAMBVJ1AuHZYWERM6K) | 2:58 |
 | 103 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 
-Snapshot ID: `ZwhOYAAAAAA2vFbt4sb3scPuysfSLZgr`
+Snapshot ID: `ZwhOYAAAAAD70ocGm44kDHglaADLD63R`

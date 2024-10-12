@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,652 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,859 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 59 | [Part 852 Hz](https://open.spotify.com/track/3KCUxBFbJcXoLMkUNcXufP) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Part 852 Hz](https://open.spotify.com/album/7okGLirwKtD2vyZyukvXJX) | 2:51 |
 | 60 | [Intuition 852 Hz](https://open.spotify.com/track/1nWNBqMuAlCruU0eEJPszl) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Intuition 852 Hz](https://open.spotify.com/album/2Z2sgcQhQAeQVBFamMFO3X) | 2:59 |
 
-Snapshot ID: `Zs3n2gAAAAD3QEpPW/49oaNXptaKqfM4`
+Snapshot ID: `Zs3n2gAAAADj/ASjYPKScD9eucdY5KpE`

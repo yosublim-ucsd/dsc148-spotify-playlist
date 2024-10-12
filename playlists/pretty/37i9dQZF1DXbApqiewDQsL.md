@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring SpliffHappy\. Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,939 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 79 | [La Lámpara](https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [La Lámpara](https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK) | 3:40 |
 | 80 | [Gator Boots](https://open.spotify.com/track/27LuE9Uol2JzarYIanO9gO) | [Vinny Tovar](https://open.spotify.com/artist/0SdfAIPqjuj8pPmO0mJqWV) | [Gator Boots](https://open.spotify.com/album/79KZzCP8RnL7aVOq6bw4Ls) | 2:54 |
 
-Snapshot ID: `ZwcxhQAAAADBkXL599UkeERvb2ixraey`
+Snapshot ID: `ZwcxhQAAAAAK95MCy+3TgDVwUsh0l2xQ`

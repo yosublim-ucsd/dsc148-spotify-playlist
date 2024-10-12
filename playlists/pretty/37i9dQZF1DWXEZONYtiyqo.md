@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: The Motans
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,140 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,161 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Vreau](https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Vreau](https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs) | 2:59 |
 | 50 | [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 |
 
-Snapshot ID: `ZwhAUAAAAADpH5ChlltW3bd54vEJrz8/`
+Snapshot ID: `ZwhAUAAAAACQ7d5DjSVPex76cwZ88voG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de octubre 2024\. Cover: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,502,599 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,502,555 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Palíndromo](https://open.spotify.com/track/1nCidg1Hrskh7gL9Wz5Uj0) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Palíndromo](https://open.spotify.com/album/4H0lTGq5KsU1U8kYGLPl3t) | 2:36 |
 | 50 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 
-Snapshot ID: `Zv7S9AAAAABAL5aIoinzVC4C8kh5eil7`
+Snapshot ID: `Zv7S9AAAAACVSPwD8tQH8r3pGYWg8KBZ`

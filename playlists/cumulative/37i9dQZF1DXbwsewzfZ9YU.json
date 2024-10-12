@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ Skullpresser",
+  "description": "the best in hardcore. open the pit w/ SPEED",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 100102,
       "name": "Avenge",
       "url": "https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5"
+    },
+    {
+      "album": {
+        "name": "Baptism of Fire",
+        "url": "https://open.spotify.com/album/5TleQ7jv24XhAyvmtqpFuE"
+      },
+      "artists": [
+        {
+          "name": "Punitive Damage",
+          "url": "https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88920,
+      "name": "Baptism of Fire",
+      "url": "https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z"
     },
     {
       "album": {
@@ -712,10 +730,28 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169929,
       "name": "Chow",
       "url": "https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm"
+    },
+    {
+      "album": {
+        "name": "PRUDE",
+        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "Chow",
+      "url": "https://open.spotify.com/track/7d3QKHtYZDo5ggNxLif82l"
     },
     {
       "album": {
@@ -1275,6 +1311,28 @@
     },
     {
       "album": {
+        "name": "Two Options",
+        "url": "https://open.spotify.com/album/2BwD1dmIVz0FBGFlsb2nrD"
+      },
+      "artists": [
+        {
+          "name": "HONEY WORLD",
+          "url": "https://open.spotify.com/artist/6nI0Ctp9zzKzFrf9cvneul"
+        },
+        {
+          "name": "WIDI DETRUDE",
+          "url": "https://open.spotify.com/artist/0AdlR1nsOgDKNkgZCUrCUB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Double - B",
+      "url": "https://open.spotify.com/track/1gejGIzAQdMubvpShoMuy0"
+    },
+    {
+      "album": {
         "name": "E.O.S.",
         "url": "https://open.spotify.com/album/6fbbgAVHHq0DhLmqxDPI1N"
       },
@@ -1430,7 +1488,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 81933,
       "name": "eXistenZ",
       "url": "https://open.spotify.com/track/2JXeFGQ3WzDBZqctS9EYte"
@@ -1618,6 +1676,24 @@
       "duration_ms": 127853,
       "name": "Fool",
       "url": "https://open.spotify.com/track/3uYxIcmISekmOBE9uwMGtp"
+    },
+    {
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/3lQRX73Gu4I6RtNWgOiOlJ"
+      },
+      "artists": [
+        {
+          "name": "CANDY",
+          "url": "https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58655,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/1iF8qHqSLqfEFQKOoRaDTu"
     },
     {
       "album": {
@@ -1920,7 +1996,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 131146,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv"
@@ -2046,7 +2122,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 144276,
       "name": "Human Offense",
       "url": "https://open.spotify.com/track/6k7vSzPJY4oZrd9VP4aXhE"
@@ -2493,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Living Less",
+        "url": "https://open.spotify.com/album/3rVXlK56UyRhBP042AdMrw"
+      },
+      "artists": [
+        {
+          "name": "Secret World",
+          "url": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163489,
+      "name": "Living Less",
+      "url": "https://open.spotify.com/track/3pJ49gTiEDhoOCOHsJuICg"
+    },
+    {
+      "album": {
         "name": "Low Tech",
         "url": "https://open.spotify.com/album/38zTXgENqaRonHeghToNje"
       },
@@ -2565,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Masc",
+        "url": "https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "Masc",
+      "url": "https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze"
+    },
+    {
+      "album": {
         "name": "Memories - Never Die",
         "url": "https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn"
       },
@@ -2601,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Midian",
+        "url": "https://open.spotify.com/album/4YuZwM2WGBVPD7HvOPOsU3"
+      },
+      "artists": [
+        {
+          "name": "Thirdface",
+          "url": "https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81682,
+      "name": "Midian",
+      "url": "https://open.spotify.com/track/6tAdsCuS26pGw807OvQQdg"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -2612,7 +2742,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172687,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
@@ -3026,7 +3156,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161760,
       "name": "Nothin' But",
       "url": "https://open.spotify.com/track/1PpNOuHkaYAP9s9A0PR4ZV"
@@ -3188,7 +3318,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 32741,
       "name": "Or So I Thought",
       "url": "https://open.spotify.com/track/0YfYMCgnraTxOXl8QLe2WJ"
@@ -3314,7 +3444,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 134400,
       "name": "Permanent Dark",
       "url": "https://open.spotify.com/track/32ZFuOcwM6fwHSPcWykX3f"
@@ -3811,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Severed Forever",
+        "url": "https://open.spotify.com/album/3ZHKoJ8rJwMM1EenKoRgSP"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Severed Forever",
+      "url": "https://open.spotify.com/track/0opv38sJj2Tul2Z8C4dBoz"
+    },
+    {
+      "album": {
         "name": "Consume Me",
         "url": "https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN"
       },
@@ -3894,7 +4042,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 109159,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b"
@@ -4078,6 +4226,24 @@
       "duration_ms": 113586,
       "name": "Spades",
       "url": "https://open.spotify.com/track/5wVtNySae4qFfcmgXfEbhG"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "album": {
@@ -4398,10 +4564,28 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "album": {
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/3TI58Mbxj0oRj9kFQFEAYR"
     },
     {
       "album": {

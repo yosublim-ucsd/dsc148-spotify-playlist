@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=U5Haf3QpRZSeoqd9RjU\-UQ>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,193 likes - 82 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,214 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 81 | [We pray](https://open.spotify.com/track/6OrMt0RxChib9k7qv3aNaa) | [Raymond Okeke\-Macauley](https://open.spotify.com/artist/5HDazkxMmffXy5c26A1cSL) | [We pray](https://open.spotify.com/album/65dmU0kFxFbWOxLh8lkmxB) | 3:32 |
 | 82 | [Thixo Ulilanga Lethu](https://open.spotify.com/track/34TNK0tT2GK9UOIc8N8nqJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Thixo Ulilanga Lethu](https://open.spotify.com/album/6Gq19szQBVskLm6BgF6NgT) | 11:06 |
 
-Snapshot ID: `ZwhqvAAAAADVPl1xeDDemlgmgMhkNfBt`
+Snapshot ID: `ZwhqvAAAAAAsE9P7tnfDMGMaEtjii6pI`

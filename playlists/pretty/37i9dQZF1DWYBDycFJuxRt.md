@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: B'z \*👉 <a href="https://spice.eplus.jp/articles/332522?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,096 likes - 89 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,100 likes - 89 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 88 | [Countdown \(feat\. TAKUYA∞\)](https://open.spotify.com/track/0ejkbQ3Q6JZYwSShWjJ3mV) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi), [TAKUYA∞](https://open.spotify.com/artist/21vC8LYvlwwFi4oITgNrVc) | [人生賛歌](https://open.spotify.com/album/42R6fQGHBKQBaf2ip7l5Xt) | 3:40 |
 | 89 | [GUITARHOLIC](https://open.spotify.com/track/33LzNzv6WxzNAXyUaE7FGs) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [XINGS](https://open.spotify.com/album/7LVhc4efnShfDzX4FMK2ax) | 3:20 |
 
-Snapshot ID: `ZwZ+UAAAAABY7vySLpW0AFIiedlieQBi`
+Snapshot ID: `ZwZ+UAAAAABh0l9YQJA/MFUKPzjrxN9i`

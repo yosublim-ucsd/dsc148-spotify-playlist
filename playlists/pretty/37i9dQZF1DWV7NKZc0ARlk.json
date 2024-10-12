@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 213157,
+  "num_followers": 213316,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwG1wAAAACU3x7DombcGPywQtaK1QgY",
+  "snapshot_id": "ZqwG1wAAAACKvPcl4gjn0SOtaRaP000C",
   "tracks": [
     {
       "added_at": "2024-08-01 22:06:14",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+      },
+      "artists": [
+        {
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
+      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
         "name": "+ Es + - El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 316080,
       "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
       "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
-      },
-      "artists": [
-        {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
-      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
     },
     {
       "added_at": "2024-08-01 22:06:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > 2hollis\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,670 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,578 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [FLOWIN](https://open.spotify.com/track/0dOxlxZIOkXb9Ni0DsiU1V) | [3weeksin](https://open.spotify.com/artist/1l5gvmBcnW4xwsxGzXvCu2), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [FLOWIN](https://open.spotify.com/album/0cIUucxmviwfTaXy1Sndjq) | 2:05 |
 | 100 | [One Eyed Willy](https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/33VNlbyJDsvlYwglDsldXo) | 2:36 |
 
-Snapshot ID: `Zwgm2gAAAABrjBvgQ+3oWC7dAyjFZ5p9`
+Snapshot ID: `Zwgm2gAAAAAq+VkCkh+Ethdnb6UaVQZH`

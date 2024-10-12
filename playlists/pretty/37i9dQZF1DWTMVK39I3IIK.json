@@ -1,12 +1,12 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C?si=6p1M5o_yTJ2WuklEB_DL8Q\">Emma Sehested H\u00f8eg</a>",
-  "num_followers": 45405,
+  "num_followers": 45407,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAABQRsCoXqqtcDb7EbQfc6/i",
+  "snapshot_id": "ZwhOYAAAAADeRegi0gbTvvdRkQs0lAUo",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Under Din Sne",
+        "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 264335,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 192783,
       "name": "Dans I Morgen (feat. Wads.png)",
       "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Under Din Sne",
-        "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 264335,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -583,34 +567,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ambulance",
-        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
       },
       "artists": [
         {
-          "name": "Gunge",
-          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
         }
       ],
-      "duration_ms": 183607,
-      "name": "Ambulance",
-      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -631,6 +599,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Lige s\u00e5 fucked som mig",
         "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
@@ -643,22 +627,6 @@
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 188460,
-      "name": "Br\u00e6nder Stadig",
-      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -679,18 +647,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
       },
       "artists": [
         {
-          "name": "Dopha",
-          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         }
       ],
-      "duration_ms": 185729,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+      "duration_ms": 188460,
+      "name": "Br\u00e6nder Stadig",
+      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ambulance",
+        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "Ambulance",
+      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
+      },
+      "artists": [
+        {
+          "name": "Dopha",
+          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Great Doubt (EDITS)",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 145125,
       "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Keep Forgetting",
+        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 173028,
+      "name": "Keep Forgetting",
+      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "dagdr\u00f8mmer (akustisk version)",
-        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
         }
       ],
-      "duration_ms": 162573,
-      "name": "l\u00e6s mig (akustisk version)",
-      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -927,6 +927,38 @@
       "duration_ms": 290291,
       "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
       "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 314708,
+      "name": "Cursing and Lying!",
+      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "dagdr\u00f8mmer (akustisk version)",
+        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "l\u00e6s mig (akustisk version)",
+      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -979,38 +1011,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 314708,
-      "name": "Cursing and Lying!",
-      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
         }
       ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+      "duration_ms": 190200,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+        "name": "Uvejr - Del 1",
+        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
       "artists": [
         {
@@ -1152,25 +1152,25 @@
           "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+      "duration_ms": 215625,
+      "name": "Krystalklart Kaos",
+      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
     },
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Syreregn",
-        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
       "artists": [
         {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
         }
       ],
-      "duration_ms": 170192,
-      "name": "Syreregn",
-      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
+      "duration_ms": 248813,
+      "name": "Fra Wien Til Rom",
+      "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
     }
   ],
   "unique_name": "ung kniv ",

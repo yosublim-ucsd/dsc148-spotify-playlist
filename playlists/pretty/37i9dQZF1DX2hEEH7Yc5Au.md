@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 梁文音 \(Rachel Liang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,491 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,492 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我不是你該愛的那個人 \- 電視劇《終極一班4》片尾曲](https://open.spotify.com/track/5Qgp1n8qhVMCqwHIHNjCWu) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我愛你 以上](https://open.spotify.com/album/1t32ggCKlknripHKDeGf9n) | 4:41 |
 | 50 | [別說出](https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [如果你愛我](https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH) | 4:31 |
 
-Snapshot ID: `Zvwf/AAAAADxH7q90H3cyEadMDs5SZDN`
+Snapshot ID: `Zvwf/AAAAADdLRh6ObXP5jNf6tS1lNw8`

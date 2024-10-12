@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Yukimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,106 likes - 119 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,133 likes - 119 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 118 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
 | 119 | [Seasons](https://open.spotify.com/track/4FMWjjXiJttRPvnmflfani) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/7DrzMnIkJsr84RAQehsjfZ) | 2:48 |
 
-Snapshot ID: `ZwhOYAAAAACy4+1ct5qILAzqCnMmEuxG`
+Snapshot ID: `ZwhOYAAAAACW3ajQ6cOmzY7hdDjONfGI`

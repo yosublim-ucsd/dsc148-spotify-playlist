@@ -4,7 +4,7 @@
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-167 songs - 9 hr 41 min
+168 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Mundiyan](https://open.spotify.com/track/1gzbyTeCNZkgicRGX9TXl6) | [Navraj Hans](https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Baaghi 2](https://open.spotify.com/album/2zVzYeNSylXPUUungjtXz4) | 3:30 | 2023-05-25 | 2023-07-28 |
 | [Mungda \(From "Total Dhamaal"\)](https://open.spotify.com/track/4wc8pPkSIxAirW2FNGp6Pd) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Subhro Ganguly](https://open.spotify.com/artist/1VwpVESJ283CkBcM4IeCBo), [Gourov\-Roshin](https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC) | [Mungda \(From "Total Dhamaal"\) \- Single](https://open.spotify.com/album/1J5l9f5rxw0PnaJ8jjNmc9) | 3:16 | 2022-05-24 |  |
 | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW) | 2:56 | 2022-05-24 |  |
+| [Na Na Na Na Na Re](https://open.spotify.com/track/2wtn3GsCYSPsr3dTWabDXf) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Vicky Vidya Ka Woh Wala Video](https://open.spotify.com/album/3B54p8dKa2ehcMhpOmMRcb) | 4:10 | 2024-10-11 |  |
 | [Naam Hai Mera](https://open.spotify.com/track/1O3OJgr9agQKZCSwKXTw6P) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Hate Story Iv](https://open.spotify.com/album/0j4S24oduK76463zMwqy94) | 3:12 | 2023-05-25 | 2023-07-13 |
 | [Najaa](https://open.spotify.com/track/48pqU7LtIkxefpFZJRrNe4) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Sooryavanshi](https://open.spotify.com/album/0YByaovkfVAZ9V9XEaIMdT) | 3:11 | 2023-05-25 |  |
 | [Nasha \(Badshah Version\)](https://open.spotify.com/track/5qf24Lwp6smv5Oouzl1gOT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Sukhee](https://open.spotify.com/album/55PCdVTvqL3XCkZgdMGJ5V) | 3:33 | 2023-09-22 | 2023-09-26 |

@@ -2,9 +2,9 @@
 
 ### [Folk Itinerante](https://open.spotify.com/playlist/37i9dQZF1DX5Ha7zJp2sn2)
 
-> El sonido de la nueva canción latinoamericana\. Foto: San Pedro Bonfim
+> El sonido de la nueva canción latinoamericana\. Foto: Marta Gómez
 
-95 songs - 5 hr 32 min
+97 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/track/5sPyYzdKLMjWeGSB3ZKVlT) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/album/3Xq3Zg46E7TG71GZbg1lgX) | 3:42 | 2023-09-29 |  |
 | [Mba'e pa' Doña Froilana](https://open.spotify.com/track/1Lobn6i0a408P7fYWJTmMb) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mba'e pa' Doña Froilana](https://open.spotify.com/album/56sqC93aecg1ykFuBFF2Kx) | 2:30 | 2023-09-29 | 2023-11-18 |
 | [Me Voy Llorando](https://open.spotify.com/track/12f30bCCPaRbVeGNgOZ5b2) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 4:36 | 2023-09-29 |  |
-| [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-09-29 |  |
+| [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-09-29 | 2024-10-12 |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2023-09-29 |  |
 | [Mis Hijos](https://open.spotify.com/track/7mkgFb0fr5w8pH7RJmmgQI) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1), [Micorriza](https://open.spotify.com/artist/1R6yci68ME6gkTPEtTee8U) | [Mis Hijos](https://open.spotify.com/album/43xhrCppfKm3cKjkigaRJy) | 2:51 | 2023-09-29 |  |
 | [Moscas En La Casa \- En Vivo](https://open.spotify.com/track/1X7uS4Zwc10OAUbShjd9Dr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:52 | 2023-09-29 | 2023-11-18 |
@@ -84,7 +84,9 @@
 | [Quiero Que Seas Tú \(Remix\)](https://open.spotify.com/track/4QhOsi6XJMPuslhD2ltlro) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Quiero Que Seas Tú \(Remix\)](https://open.spotify.com/album/2FtdAZMEPgtBlSDtJUABcg) | 2:35 | 2023-09-29 |  |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-09-29 | 2024-08-17 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-09-29 |  |
+| [Saltar al agua](https://open.spotify.com/track/27n8DZwNxzUzP4VN6YHy3u) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Saltar al agua](https://open.spotify.com/album/1A8sxlcixyEdEJFjMg6svb) | 3:20 | 2024-10-11 |  |
 | [Se Dice por Ahí](https://open.spotify.com/track/6dPL2Yntho5OE8u7pJGJ3S) | [Victoria Sur](https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0) | [Hasta el Nuevo Sol](https://open.spotify.com/album/0bZyMRsPPZI8Zw4tmBDjzf) | 3:35 | 2023-09-29 |  |
+| [Seré Guitarra](https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Maria Jose Mendoza](https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki) | [Seré Guitarra](https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5) | 3:35 | 2024-10-11 |  |
 | [Señor Tiempo](https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Señor Tiempo](https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U) | 5:40 | 2024-08-16 |  |
 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 | 2023-09-29 |  |
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2023-09-29 |  |
@@ -100,7 +102,7 @@
 | [Una Pena](https://open.spotify.com/track/233sOyp5tJF8avlCrzvsOn) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Una Pena](https://open.spotify.com/album/5nCqolx9Kqn06MDStkG9VP) | 4:25 | 2023-09-29 |  |
 | [Vaivén](https://open.spotify.com/track/1hX7DwiZ3QZKg3ZtKpIK7e) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Vaivén](https://open.spotify.com/album/4hAbr4FXXv5AcsUyazXteo) | 3:18 | 2023-09-29 | 2023-11-18 |
 | [Venezuela](https://open.spotify.com/track/0I2Uh0q80nrSCfGs3Xsujy) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Venezuela](https://open.spotify.com/album/1iAmsae29xHGez7zSD1tXC) | 3:50 | 2023-11-17 |  |
-| [Viento del Sur](https://open.spotify.com/track/0MM6CB03vuVnsDTdXBAXnT) | [Nuria Saba](https://open.spotify.com/artist/7FGP7oOzsmZJve5HtRZdvo) | [Viento del Sur](https://open.spotify.com/album/0qRn3HbTQc4gHNZf7P5Kli) | 3:20 | 2023-11-17 |  |
+| [Viento del Sur](https://open.spotify.com/track/0MM6CB03vuVnsDTdXBAXnT) | [Nuria Saba](https://open.spotify.com/artist/7FGP7oOzsmZJve5HtRZdvo) | [Viento del Sur](https://open.spotify.com/album/0qRn3HbTQc4gHNZf7P5Kli) | 3:20 | 2023-11-17 | 2024-10-12 |
 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 | 2023-11-17 |  |
 | [¿Cuándo Será?](https://open.spotify.com/track/0U4ZSDbWAW6EAxEzDqwFJ3) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [¿Cuándo Será?](https://open.spotify.com/album/64xHoQCDAVvKLihVtG2Q0z) | 3:34 | 2023-12-08 | 2024-08-17 |
 

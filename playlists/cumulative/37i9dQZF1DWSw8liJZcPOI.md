@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-520 songs - 1 day 11 hr 35 min
+521 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/track/6UonjQJl4bd6V9D6ukyPkk) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/album/1QuZ4mXB5Ya01m9KQwRvxn) | 2:27 | 2022-07-01 |  |
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-03-25 |  |
 | [Haar over Hamnavoe \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Haar over Hamnavoe \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb) | 3:53 | 2021-04-19 |  |
+| [Habibi \(Love\)](https://open.spotify.com/track/1zCKLcKtH0yIAIsoVpV6Ll) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 66 \(Daily Meditations\)](https://open.spotify.com/album/6Gc1At9pD5PQ98Iy5bP81e) | 2:24 | 2024-10-11 |  |
 | [HABU \(Hunting Hunters\)](https://open.spotify.com/track/036lUCkO84OSIZuS7tvzby) | [beGun](https://open.spotify.com/artist/1vzYJgLcl3TBUhdQFrBjJb), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [OKEANÍDES \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/4c6m4gy4gc9Sjz8FAPbz2R) | 4:50 | 2020-10-20\* | 2024-09-05 |
 | [Habu \(Hunting Hunters\)](https://open.spotify.com/track/437Wjihx3lkiJWSuro30tz) | [beGun](https://open.spotify.com/artist/1vzYJgLcl3TBUhdQFrBjJb), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [OKEANÍDES \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/4QsjXKskJdNWRVG31KAiV1) | 4:50 | 2024-03-01 | 2024-04-19 |
 | [Hallonlandet](https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Hallonlandet](https://open.spotify.com/album/3JCdeKnV0QHIPq6sivWb6j) | 3:14 | 2020-10-20\* | 2022-07-01 |
@@ -477,7 +478,7 @@
 | [Tramlines](https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tramlines](https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r) | 3:46 | 2020-11-27 |  |
 | [Tranquillant](https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Tranquillant](https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs) | 2:53 | 2023-05-05 |  |
 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2021-09-14 |  |
-| [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 | 2020-10-20\* |  |
+| [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 | 2020-10-20\* | 2024-10-12 |
 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 | 2022-07-22 | 2024-04-19 |
 | [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-20 |  |
 | [Try](https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Try](https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ) | 4:02 | 2024-04-12 |  |

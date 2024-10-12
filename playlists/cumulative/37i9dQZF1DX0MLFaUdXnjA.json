@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Winona Oak",
+  "description": "Sit back and relax to the chillest pop.  Cover: mxmtoon",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 179876,
       "name": "100,000 Flowers",
       "url": "https://open.spotify.com/track/0tdAKUdWvtOYg9O0KLIGf1"
+    },
+    {
+      "album": {
+        "name": "15%",
+        "url": "https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "15%",
+      "url": "https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m"
     },
     {
       "album": {
@@ -760,6 +778,28 @@
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
+    },
+    {
+      "album": {
+        "name": "A-frame",
+        "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "A-frame",
+      "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
     },
     {
       "album": {
@@ -3380,7 +3420,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4298,7 +4338,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 188572,
       "name": "Built To Be Bad (with Alex Sampson)",
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
@@ -5246,7 +5286,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 190800,
       "name": "charlie",
       "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
@@ -5578,6 +5618,24 @@
       "duration_ms": 226847,
       "name": "Chosen Last",
       "url": "https://open.spotify.com/track/3NDgV66iYYySIgo5RSvQ5d"
+    },
+    {
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/4ysbboeBiB8NltSyh4ZIWA"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/4tWoC47CmUsMzzJmI3CgpT"
     },
     {
       "album": {
@@ -6622,7 +6680,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192000,
       "name": "Cowboys Cry",
       "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
@@ -10391,6 +10449,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD"
+    },
+    {
+      "album": {
         "name": "for a night like this",
         "url": "https://open.spotify.com/album/1Dz91gDbnfGioJZCnLkGmu"
       },
@@ -11346,7 +11422,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147086,
       "name": "girlfriend ..",
       "url": "https://open.spotify.com/track/4YoLlQtpwBQpoRGF3j2wPp"
@@ -11624,7 +11700,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 324666,
       "name": "Go With The Flow",
       "url": "https://open.spotify.com/track/3BvtlSkkNVIqrh2zHcbBJV"
@@ -13684,7 +13760,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 163043,
       "name": "How Far Is Your Love (with Los Lonely Boys)",
       "url": "https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR"
@@ -14998,6 +15074,24 @@
       "duration_ms": 257790,
       "name": "I Wanna Love You (But I Don't)",
       "url": "https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc"
+    },
+    {
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218766,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/141hcjVM8lNPxi4wjNLgdX"
     },
     {
       "album": {
@@ -20508,7 +20602,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 183829,
       "name": "MIRACLE WORKER",
       "url": "https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm"
@@ -22352,7 +22446,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
@@ -22374,6 +22468,24 @@
       "duration_ms": 199851,
       "name": "Not Usually Like This",
       "url": "https://open.spotify.com/track/6jFzlVYVaGUUBbkZtMPxWh"
+    },
+    {
+      "album": {
+        "name": "NOTE TO SELF",
+        "url": "https://open.spotify.com/album/3fR9kFhlM5Vdh4Vvjn7Kgc"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174518,
+      "name": "NOTE TO SELF",
+      "url": "https://open.spotify.com/track/1U1C2tC4E2ASmG5MO61bEm"
     },
     {
       "album": {
@@ -24808,7 +24920,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
@@ -24826,7 +24938,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 129677,
       "name": "Price of Love",
       "url": "https://open.spotify.com/track/6oaq5nf9bMqGkByNDiGTnD"
@@ -25180,6 +25292,24 @@
       "duration_ms": 172688,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
       "album": {
@@ -26931,6 +27061,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/5CiR2Jm9EBTNTbLDkqxtlE"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207145,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7zUSOBWsRO6AD7mRT0lEW7"
+    },
+    {
+      "album": {
         "name": "Senopati in the Rain",
         "url": "https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31"
       },
@@ -28106,7 +28254,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169407,
       "name": "Sober Up",
       "url": "https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3"
@@ -28146,6 +28294,24 @@
       "duration_ms": 221899,
       "name": "SOCIETY",
       "url": "https://open.spotify.com/track/0UR9BwltUjyKIXdmoVsdNj"
+    },
+    {
+      "album": {
+        "name": "Soft Kissing Hour",
+        "url": "https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt"
+      },
+      "artists": [
+        {
+          "name": "Nat & Alex Wolff",
+          "url": "https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242731,
+      "name": "Soft Kissing Hour",
+      "url": "https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H"
     },
     {
       "album": {
@@ -31319,6 +31485,24 @@
     },
     {
       "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175466,
+      "name": "The Karate Kid",
+      "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
+    },
+    {
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM"
       },
@@ -34105,6 +34289,24 @@
     },
     {
       "album": {
+        "name": "We Both Smoke Again",
+        "url": "https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV"
+      },
+      "artists": [
+        {
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "We Both Smoke Again",
+      "url": "https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g"
+    },
+    {
+      "album": {
         "name": "we can't be friends (wait for your love) - Spotify Singles",
         "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
       },
@@ -35386,6 +35588,24 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "album": {

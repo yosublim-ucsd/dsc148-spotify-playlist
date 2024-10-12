@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 379533,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
@@ -10756,7 +10756,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 168856,
       "name": "do i ever cross your mind",
       "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
@@ -19372,7 +19372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -34366,7 +34366,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -40769,6 +40769,28 @@
     },
     {
       "album": {
+        "name": "Tenkr\u00e1t na lehk\u00fdch drog\u00e1ch",
+        "url": "https://open.spotify.com/album/2STVKOwIedfEWOtGAgsjNI"
+      },
+      "artists": [
+        {
+          "name": "Steve Sniff",
+          "url": "https://open.spotify.com/artist/2lp8P0t4VLRv2Uk9MYD8MG"
+        },
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156143,
+      "name": "Sp\u00e1ry",
+      "url": "https://open.spotify.com/track/3Dd9hh9NxGhXN5uHuhDhqZ"
+    },
+    {
+      "album": {
         "name": "SRDCE",
         "url": "https://open.spotify.com/album/0GNvHsH1dXqAcr7mNYZqX4"
       },
@@ -41460,7 +41482,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 84807,
       "name": "Subway McFrappe Skibidi Mbappe",
       "url": "https://open.spotify.com/track/6BNiG9VldRD7rzT8IdErSZ"
@@ -43348,7 +43370,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -48956,6 +48978,24 @@
       "duration_ms": 195365,
       "name": "you were there for me",
       "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+    },
+    {
+      "album": {
+        "name": "You Will Never Know It",
+        "url": "https://open.spotify.com/album/3zrqBnt5xITljy434Df3u6"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169951,
+      "name": "You Will Never Know It",
+      "url": "https://open.spotify.com/track/75GhyGaBPZnFnCHIYo3mvQ"
     },
     {
       "album": {

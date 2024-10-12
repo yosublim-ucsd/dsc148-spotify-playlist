@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ano
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,514 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,539 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 |
 | 70 | [一難](https://open.spotify.com/track/5g1NQMBXXtH0LAw63aXECL) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [一難](https://open.spotify.com/album/6ntXhDOJp2qQ4gzf1KDiWW) | 3:35 |
 
-Snapshot ID: `ZwVI8AAAAABkJ3YspPg2nYGBttZTvWLi`
+Snapshot ID: `ZwVI8AAAAADan+IcGIeeanSTWMeBDax6`

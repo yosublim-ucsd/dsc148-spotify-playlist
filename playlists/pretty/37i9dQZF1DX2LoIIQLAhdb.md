@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,892 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,908 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [No](https://open.spotify.com/track/6tHxflNONnyE2AgVdOnimc) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok), [8ruki](https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2) | [No](https://open.spotify.com/album/1OmdtMW2FIqrtMqy8ryfnw) | 2:44 |
 | 40 | [Saison des pluies](https://open.spotify.com/track/6AUmKnJD1X3b73p0CuXsBE) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS) | [Saison des pluies](https://open.spotify.com/album/2WdH6bgzdLszSKCsZ4vEdZ) | 2:44 |
 
-Snapshot ID: `ZwhOYAAAAADNlax4RUe0zEm3PNaqFiyU`
+Snapshot ID: `ZwhOYAAAAABzvC1/tpKabHaAF04gyZba`

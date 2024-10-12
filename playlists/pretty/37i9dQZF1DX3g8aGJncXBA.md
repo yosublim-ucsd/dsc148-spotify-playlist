@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3g8aGJncXBA.md) - [plain]
 
 > Prepare for the upcoming fan concert by listening to PLAVE's best songs! \(플레이브의 베스트 곡들을 들으며 다가오는 팬 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 13 songs - 40 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 13 songs - 40 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3g8aGJncXBA.md) - [plain]
 | 12 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
 | 13 | [Pixel world](https://open.spotify.com/track/0TU3HvHsqJyKVBP8eFIUFQ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:05 |
 
-Snapshot ID: `Zv/WmAAAAAAtTKzXyKX22B87gRo6uKqx`
+Snapshot ID: `Zv/WmAAAAACSbBwqJ6W+2NXLbqSUXs/J`

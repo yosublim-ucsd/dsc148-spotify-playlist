@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,627 songs - 2 day 22 hr 50 min
+1,628 songs - 2 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Casper](https://open.spotify.com/track/4GVHYARaXgEY4MsM1h3Ank) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Älskar dig hatar dig](https://open.spotify.com/album/5txxX7l49EJTKjndxt4VGs) | 2:57 | 2023-03-16 | 2023-03-31 |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-08-18 | 2022-10-21 |
 | [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 | 2023-05-19 | 2023-09-22 |
+| [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 | 2024-10-11 |  |
 | [CEO](https://open.spotify.com/track/4ZxNVN1ho8jCTklpEvkhwy) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [CEO](https://open.spotify.com/album/6Zpl9w47VYqErTZ64d9Ybw) | 2:57 | 2023-06-15 | 2023-09-01 |
 | [CERTIFIED](https://open.spotify.com/track/0EFtToC9idjsqfK0TMgCTv) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [CERTIFIED](https://open.spotify.com/album/2ayIy2hshIcg1VefJ9SDlX) | 2:40 | 2024-05-30 | 2024-09-27 |
 | [Cette](https://open.spotify.com/track/7weKhZ91X1VomupmVxzRfT) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [Raees](https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ) | [Cette](https://open.spotify.com/album/4btMWCWwDIcAFepciyJvxG) | 2:38 | 2022-06-17 | 2022-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: AKASAKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,282 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,389 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 50 | [大ちゃん](https://open.spotify.com/track/4XZWE3Wwis8Sml6kV216Xy) | [ちゃんぴおんず](https://open.spotify.com/artist/4x5vhtkvb28ZFnA8L3e9JV) | [大ちゃん](https://open.spotify.com/album/7pOmlwfy3Kh71aJkrEYPz2) | 2:22 |
 
-Snapshot ID: `Zwfr8AAAAAC9ntprenaq8HvpeJEcGjHc`
+Snapshot ID: `Zwfr8AAAAAAvdjTeAd67DQ+Lu8fGILsu`

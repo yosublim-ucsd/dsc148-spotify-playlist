@@ -1,12 +1,12 @@
 {
   "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
-  "num_followers": 467305,
+  "num_followers": 467296,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAAAzCtcQFcLlCi6A7sYLWt9M",
+  "snapshot_id": "ZwcZAAAAAADo2OvYQVmZo/MNv3HvXPYd",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chegaste",
-        "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 236057,
-      "name": "Chegaste",
-      "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno Agosto",
         "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 188093,
       "name": "El Mismo Sol",
       "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chegaste",
+        "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 236057,
+      "name": "Chegaste",
+      "url": "https://open.spotify.com/track/4qQCkzpkOPvbgbcy3fHwxK"
     },
     {
       "added_at": null,
@@ -615,6 +615,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Try Me (feat. Jennifer Lopez and Matoma)",
+      "url": "https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 172240,
       "name": "I'm Gonna Be Alright (feat. Nas)",
       "url": "https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Try Me (feat. Jennifer Lopez and Matoma)",
-      "url": "https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5"
     },
     {
       "added_at": null,

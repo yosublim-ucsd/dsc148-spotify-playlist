@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y)
 
-### [Chill House Summer 2024](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
+### [Chill House 2024](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-450 songs - 1 day 1 hr 22 min
+451 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/album/7CwDbwqPjE0Ik2c5C0MSAw) | 2:47 | 2023-06-30 | 2023-12-14 |
 | [Good Times](https://open.spotify.com/track/3j96Wizdhvo0CWaD51lYbP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Times](https://open.spotify.com/album/6mnI3V3wRo7JkkpWs4NBDd) | 3:14 | 2021-10-02 | 2021-11-11 |
 | [Goosebumps](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Goosebumps](https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX) | 3:59 | 2024-01-19 |  |
-| [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 | 2024-02-23 |  |
+| [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 | 2024-02-23 | 2024-10-12 |
 | [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/track/6TFYkactQoCeDb7qRYR3Cd) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/album/34bH6U9z4aebG0cybq3HQy) | 2:49 | 2022-05-06 | 2022-07-23 |
 | [Hands \(feat\. Denai Moore\) \- Samaran Remix](https://open.spotify.com/track/54bjvhHv2ThqFtK9PACFhf) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN), [Samaran](https://open.spotify.com/artist/2heZX3F8ubVQgQ7gyPx0qe) | [Hands \(Remixes\) \(feat\. Denai Moore\)](https://open.spotify.com/album/30tDURuli6ZpmK5ZF3YZDR) | 4:14 | 2021-03-06 | 2021-03-23 |
 | [Harder We Fall](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Austin Tate](https://open.spotify.com/artist/3Y0jgmHMAPgxpjuiEloPEJ) | [Harder We Fall](https://open.spotify.com/album/2mfGad0YRMJpNhi79pERvn) | 2:30 | 2022-07-08 |  |
@@ -201,6 +201,7 @@
 | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/track/6aVXogDmwqAJCrFguyWbKj) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti) | 3:30 | 2022-03-04 | 2022-06-18 |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2021-07-31 | 2021-09-18 |
 | [Inner Light](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Inner Light](https://open.spotify.com/album/4BVK4kMN8JXRdFbBUpgoGh) | 2:35 | 2024-08-30 |  |
+| [Inside Out](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Inside Out](https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD) | 4:00 | 2024-10-11 |  |
 | [Into You](https://open.spotify.com/track/6mSvPv99eglwMQB0gypeGI) | [Sylow](https://open.spotify.com/artist/4EviTlMaY400FfDijNqzaK), [Steve RGA](https://open.spotify.com/artist/1moCa3rEpOn2cNzv3GdKBN) | [Into You](https://open.spotify.com/album/04uw8O9c0uxp2yy6b9UJp9) | 3:00 | 2021-09-04 | 2021-10-16 |
 | [Isla \- Radio Edit](https://open.spotify.com/track/1s6Ur2LBUGzbAHd935MUw9) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC) | [Isla \(Radio Edit\)](https://open.spotify.com/album/5clwJtMkeaSIRGYYoMhnaN) | 3:12 | 2020-09-13\* | 2021-03-06 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-18 | 2024-05-18 |

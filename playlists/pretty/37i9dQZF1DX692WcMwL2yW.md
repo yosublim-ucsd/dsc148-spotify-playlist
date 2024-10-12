@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,211 likes - 163 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,586 likes - 163 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 162 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 |
 | 163 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `ZtHZ9wAAAAAwhQG3N6KGSFGyxjvZXYlr`
+Snapshot ID: `ZtHZ9wAAAAAo6vj5SbtxV0yTgBq8ZBRX`

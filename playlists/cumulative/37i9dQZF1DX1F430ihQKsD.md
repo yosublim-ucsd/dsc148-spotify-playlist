@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Virginie B
+> La scène musicale montréalaise au premier plan\. Photo: Men I Trust
 
-521 songs - 1 day 6 hr 1 min
+524 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2022-03-25 | 2022-08-06 |
 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 | 2023-10-27 | 2024-05-04 |
 | [Artificial Genuine](https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:36 | 2024-04-05 |  |
-| [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 | 2024-04-26 |  |
+| [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 | 2024-04-26 | 2024-10-12 |
 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 | 2023-09-22 | 2024-08-31 |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-09-23 |
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 |  |
@@ -265,6 +265,7 @@
 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 | 2023-10-20 | 2024-03-02 |
 | [Le Fleuve](https://open.spotify.com/track/7muEnAc7ijPmWwmYCM7iAG) | [le.Panda](https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn) | [Air Molo](https://open.spotify.com/album/2QLSf8BMWjrEun5lhmVjj4) | 4:03 | 2023-06-02 | 2024-06-08 |
 | [Le gouffre](https://open.spotify.com/track/2udy1WxxtjQm2tQv57Ncv6) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Si pour une fois](https://open.spotify.com/album/0cK0Nc717KWtsKb7LCM1mx) | 3:43 | 2022-03-25 | 2022-05-28 |
+| [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 | 2022-08-26 | 2023-10-14 |
 | [Le p'tit fou](https://open.spotify.com/track/7DEZSbFnPI4r8uli6rNQ5w) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'aimais mieux les maquettes](https://open.spotify.com/album/0O02fy8CyneFsi7DcFp1OK) | 2:23 | 2022-10-21 | 2023-03-18 |
 | [Le temps fait bien les choses](https://open.spotify.com/track/0yytZtr5NI3vzM0KK3KEOM) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le temps fait bien les choses](https://open.spotify.com/album/4ClswQtnkH4uj0nHS3jhrH) | 2:57 | 2024-08-16 |  |
@@ -393,6 +394,7 @@
 | [Pression](https://open.spotify.com/track/0cdBQBYEY5lsIwaPGwdddS) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Pression](https://open.spotify.com/album/7IFOtfIzgmjHesMapo2AwP) | 3:22 | 2023-10-13 | 2024-09-21 |
 | [Prettier Things](https://open.spotify.com/track/1jFAREzr20dvAfkegfEbTV) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Prettier Things](https://open.spotify.com/album/6gmX0VR24fi5eVPf2fg7sW) | 3:52 | 2023-02-24 | 2023-06-03 |
 | [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 | 2022-08-26 | 2023-01-14 |
+| [Problems](https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB) | 3:03 | 2024-10-11 |  |
 | [Prochain épilogue](https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Prochain épilogue](https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx) | 3:31 | 2022-09-30 | 2022-10-22 |
 | [Ps and Qs](https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Ps and Qs](https://open.spotify.com/album/6LeSdivNwiztFmvNTpQZGe) | 2:10 | 2024-08-23 |  |
 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 | 2023-08-25 | 2023-09-30 |
@@ -424,9 +426,10 @@
 | [SABOTAGE](https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc) | [Oliver Forest](https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7) | [SABOTAGE](https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ) | 2:50 | 2024-05-17 |  |
 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 | 2022-09-30 | 2023-11-11 |
 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 | 2023-10-13 |  |
-| [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 | 2024-08-30 |  |
+| [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 | 2024-08-30 | 2024-10-12 |
+| [Sauf](https://open.spotify.com/track/0kAJkqOGL8bYGXFHu5G1s9) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 4:26 | 2024-10-11 |  |
 | [Se baigner](https://open.spotify.com/track/2Vj2nFYoQh6AkEqqR2llP0) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Se baigner](https://open.spotify.com/album/2nbX0mMcbetaibMZN4EY7a) | 4:34 | 2024-09-13 |  |
-| [Search History](https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Search History](https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j) | 2:55 | 2023-08-25 |  |
+| [Search History](https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Search History](https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j) | 2:55 | 2023-08-25 | 2024-10-12 |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-10 | 2023-08-19 |
 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 | 2023-07-28 | 2024-09-21 |
 | [Settle & Fly](https://open.spotify.com/track/1VyX1Z2y7TGiJ5Qs4ehn0R) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/4yVa6yzBNN2n4s53PeXGqI) | 3:16 | 2024-03-15 | 2024-04-19 |

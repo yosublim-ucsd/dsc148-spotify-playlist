@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
+    },
+    {
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/0o2xbYxfg1zEhspcgNEkPQ"
       },
@@ -3100,6 +3118,24 @@
       "duration_ms": 166950,
       "name": "Lonely Edinburgh",
       "url": "https://open.spotify.com/track/5mFwUCoZyiQ1qHvtIwfPwX"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE THE WILDERNESS",
+        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286209,
+      "name": "LONG LIVE THE WILDERNESS",
+      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
       "album": {

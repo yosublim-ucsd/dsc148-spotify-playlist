@@ -2,7 +2,7 @@
 
 ### [This Is Paulo Londra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22B8T3)
 
-> This Is Paulo Londra\. Los temas esenciales, todos en una lista.
+> This is Paulo Londra\. The essential tracks, all in one playlist.
 
 48 songs - 2 hr 40 min
 

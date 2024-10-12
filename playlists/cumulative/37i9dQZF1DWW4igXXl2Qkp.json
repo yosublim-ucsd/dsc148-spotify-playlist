@@ -5976,7 +5976,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 125054,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/5XlTNfXj1MdnrOXyBdRMj6"
@@ -11966,7 +11966,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147368,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
@@ -13104,7 +13104,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147002,
       "name": "KING OF THE HILL",
       "url": "https://open.spotify.com/track/6gW6gESSUQ2h6Mnrn2iSmZ"
@@ -25601,6 +25601,24 @@
     },
     {
       "album": {
+        "name": "U my drug",
+        "url": "https://open.spotify.com/album/6joHWyT6DPqgQ6aMAjalEi"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96909,
+      "name": "U my drug",
+      "url": "https://open.spotify.com/track/5f4NZL4xurwVhGjafGVIic"
+    },
+    {
+      "album": {
         "name": "ugly as fuck fr",
         "url": "https://open.spotify.com/album/3b8F4SKEIl4hiEf20pbi6i"
       },
@@ -25822,6 +25840,24 @@
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
+      "album": {
+        "name": "KAST GOT WINGS",
+        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116009,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/0VQCLyLm4Rchf7ZV1YMAUJ"
     },
     {
       "album": {

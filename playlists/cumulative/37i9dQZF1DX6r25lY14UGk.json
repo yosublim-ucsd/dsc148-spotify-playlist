@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Lisa Loeb",
+  "description": "New releases for the kids. Cover: The Wiggles",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -876,6 +876,24 @@
       "duration_ms": 152423,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2tSuMrCGuLmFlhbco6AQYx"
+    },
+    {
+      "album": {
+        "name": "Big Red Ute",
+        "url": "https://open.spotify.com/album/1HqaEKusGhe7DBbqqdJuN4"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162814,
+      "name": "Big Red Ute",
+      "url": "https://open.spotify.com/track/0bkiSDHL1ZuQ8bPZRQ5vFI"
     },
     {
       "album": {
@@ -3813,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Pinkfong & Hogi Halloween Sing Along",
+        "url": "https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU"
+    },
+    {
+      "album": {
         "name": "Hola, Amigo: Songs of Friendship",
         "url": "https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza"
       },
@@ -4136,6 +4172,28 @@
       "duration_ms": 100519,
       "name": "Happy Whale (Shake Your Tail)",
       "url": "https://open.spotify.com/track/4PdUr73v2I1rLJIV9qEURu"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
     },
     {
       "album": {
@@ -4763,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/50TXQU2HIBdII7vExsqUpA"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77903,
+      "name": "I Like How You Think",
+      "url": "https://open.spotify.com/track/3YGZI41Qm5cX8o2qQtC7FH"
+    },
+    {
+      "album": {
         "name": "I Like to Draw",
         "url": "https://open.spotify.com/album/5Ufkpxj1zB3GYxiNWhFWSJ"
       },
@@ -5020,6 +5096,24 @@
       "duration_ms": 137812,
       "name": "I've Got the Look",
       "url": "https://open.spotify.com/track/4okadNJiMVWaSyoQtDQ6U4"
+    },
+    {
+      "album": {
+        "name": "I've Got You (From Barney's World: Vol. 1)",
+        "url": "https://open.spotify.com/album/4hFbvmKvvsRgHxIbZyf2Is"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "I've Got You",
+      "url": "https://open.spotify.com/track/0j9oLqBINAOh82kdylXILK"
     },
     {
       "album": {
@@ -11075,6 +11169,28 @@
     },
     {
       "album": {
+        "name": "What Will You Be for Halloween?",
+        "url": "https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "What Will You Be for Halloween?",
+      "url": "https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8"
+    },
+    {
+      "album": {
         "name": "Wheels on the Bus",
         "url": "https://open.spotify.com/album/37Rl83Pas7aX8Xs8eAqFvM"
       },
@@ -11188,6 +11304,24 @@
       "duration_ms": 195296,
       "name": "Why Do We Sing?",
       "url": "https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx"
+    },
+    {
+      "album": {
+        "name": "Paw-fect Party",
+        "url": "https://open.spotify.com/album/0EXdYE1gk2dgpHQlZQDnMs"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41158,
+      "name": "Wiggle and Shake",
+      "url": "https://open.spotify.com/track/34DbBP5KsyG4e85b7acmnr"
     },
     {
       "album": {
@@ -11430,6 +11564,24 @@
       "duration_ms": 174295,
       "name": "You're the Best at Being You",
       "url": "https://open.spotify.com/track/5UxiECmQSbwj5Kv648gXAa"
+    },
+    {
+      "album": {
+        "name": "Your Time is Now",
+        "url": "https://open.spotify.com/album/0yL0Y3XfkjdeILADgFwIjo"
+      },
+      "artists": [
+        {
+          "name": "American Girl",
+          "url": "https://open.spotify.com/artist/5uHa58dlzYkc3Yb0WiFhVL"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Your Time is Now",
+      "url": "https://open.spotify.com/track/6kaze9chSg22pYotxYdFro"
     },
     {
       "album": {

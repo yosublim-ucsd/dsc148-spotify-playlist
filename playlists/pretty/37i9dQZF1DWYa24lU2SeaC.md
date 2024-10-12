@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Chantez sur tous vos titres Disney préférés tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne étoile, Vaiana: la légende du bout du monde, Tarzan, Aladdin, Élémentaire, Mulan, Le Roi lion et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,860 likes - 88 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,007 likes - 88 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 | 87 | [Embrasse\-la \- De "La Petite Sirène"/Bande Originale Française du Film](https://open.spotify.com/track/1hazhYskZ7mqEV1G5uCup1) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [La Petite Sirène \(Bande originale française du Film\)](https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m) | 2:42 |
 | 88 | [He Mele No Lilo](https://open.spotify.com/track/3G9ZnSjGYyHx7e221v0qse) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 2:28 |
 
-Snapshot ID: `Zu2yqgAAAADUoSVrcGj0JDYX4PY/3U+X`
+Snapshot ID: `Zu2yqgAAAADJ+jWa7eVysB/bRhIzD8K6`

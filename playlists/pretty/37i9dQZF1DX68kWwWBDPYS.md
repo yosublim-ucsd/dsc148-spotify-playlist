@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Yoëls & Joaquina Mertz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,970 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,958 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [Último Intento](https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Último Intento](https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d) | 2:54 |
 | 50 | [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 |
 
-Snapshot ID: `Zv+EYAAAAADznBEQnOBPV1DDrFMB5sFh`
+Snapshot ID: `Zv+EYAAAAABpTZwm/srWCVYA3IENA+P5`

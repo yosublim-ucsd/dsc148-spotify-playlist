@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 CIMINI in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,326 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,337 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 98 | [Gigante](https://open.spotify.com/track/2YGGGRBXYoYSnswzInUgNK) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Gigante](https://open.spotify.com/album/7z3Hl4qW6YjQF0D2cQEDAP) | 3:02 |
 | 99 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 |
 
-Snapshot ID: `ZwhOnAAAAADW2MsjEHdh/fUu8QY4lD43`
+Snapshot ID: `ZwhOnAAAAACKfuQe+eq/Ed5OQuiphFJ+`

@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 160941,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
@@ -8644,6 +8644,24 @@
       "duration_ms": 241600,
       "name": "The Death of Peace of Mind",
       "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
+    },
+    {
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     },
     {
       "album": {

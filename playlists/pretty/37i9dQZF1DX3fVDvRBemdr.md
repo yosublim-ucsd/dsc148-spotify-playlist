@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,545 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,564 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Je Bent Hier Nooit Alleen](https://open.spotify.com/track/2TyGIyrjaXrKbOTXR6RXQG) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Je Bent Hier Nooit Alleen](https://open.spotify.com/album/2ehEspTQwWCFpvXjzw1KHH) | 2:30 |
 | 80 | [Verliefd, Verloofd, Getrouwd](https://open.spotify.com/track/5SuMvsdeGAXZGvwUaqGlRX) | [Rudy de Wit](https://open.spotify.com/artist/39dlRB5uIsJsdUDGSj74AH) | [Verliefd, Verloofd, Getrouwd](https://open.spotify.com/album/4qT3cXHAkPO56wxdHjlkWn) | 3:08 |
 
-Snapshot ID: `ZwhOYAAAAAD3WqWfED7GnkMRsN7Jk2ME`
+Snapshot ID: `ZwhOYAAAAABgzSCd8hIdzq3YyJYC+HxR`

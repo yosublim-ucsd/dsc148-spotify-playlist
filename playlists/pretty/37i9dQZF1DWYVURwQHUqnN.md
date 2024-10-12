@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Guy2Bezbar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,175 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,666 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |
 | 40 | [Dans ta fête](https://open.spotify.com/track/7bXtqWW2eGzMfigXBa9UTI) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Dans ta fête](https://open.spotify.com/album/6RlJCTguLBUN4EkXBWME2b) | 2:27 |
 
-Snapshot ID: `ZwhOYAAAAAAOynoHHqhIC0Ikc2bK/46l`
+Snapshot ID: `ZwhOYAAAAAC/6xAjM1kOE3/Hm3m4NXzY`

@@ -42,10 +42,32 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170879,
       "name": "24/7",
       "url": "https://open.spotify.com/track/16gX5HVzAuF4sXqFewpY69"
+    },
+    {
+      "album": {
+        "name": "24Hrs",
+        "url": "https://open.spotify.com/album/3ViZYgCjma6pV45cnOmAZD"
+      },
+      "artists": [
+        {
+          "name": "Claudy-O",
+          "url": "https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148834,
+      "name": "24Hrs",
+      "url": "https://open.spotify.com/track/2ezaZrLBCkPJXHOaKPBH6p"
     },
     {
       "album": {
@@ -2822,7 +2844,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 168851,
       "name": "Estupideces",
       "url": "https://open.spotify.com/track/1tJOfdNisn99x83Xnp8Ccs"
@@ -4943,28 +4965,6 @@
     },
     {
       "album": {
-        "name": "Mirame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "date_added": "2024-07-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157453,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
-    },
-    {
-      "album": {
         "name": "Mis Pasos",
         "url": "https://open.spotify.com/album/6Ge2VMExrSMBnYCdLWA62t"
       },
@@ -5092,6 +5092,28 @@
       "duration_ms": 154520,
       "name": "Mxfix G5",
       "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157453,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "album": {
@@ -5357,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "NOMEVOY",
+        "url": "https://open.spotify.com/album/1FGsFJjH3esGA7sGj49TfU"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158802,
+      "name": "NOMEVOY",
+      "url": "https://open.spotify.com/track/1lYgibYocdGNmsjyNHoaUe"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -5466,7 +5506,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148000,
       "name": "Obvio",
       "url": "https://open.spotify.com/track/2zWXAu6j8r1afr1f4uq62P"
@@ -7447,6 +7487,24 @@
     },
     {
       "album": {
+        "name": "TBC (KARMA)",
+        "url": "https://open.spotify.com/album/7s0eWl6syb8IFCR2HQUCZG"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "TBC (KARMA)",
+      "url": "https://open.spotify.com/track/5PDXWKryvv1SRcmSozUdTZ"
+    },
+    {
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/5AyNEA9eAoyuJy4wKXgDKm"
       },
@@ -8208,7 +8266,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 160052,
       "name": "x las nubes",
       "url": "https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF"
@@ -8296,6 +8354,28 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Te Pas\u00f3?",
+        "url": "https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "\u00bfQue Te Pas\u00f3?",
+      "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
     },
     {
       "album": {

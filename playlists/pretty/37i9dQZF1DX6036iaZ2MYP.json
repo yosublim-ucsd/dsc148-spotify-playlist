@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover: Tyla",
-  "num_followers": 99026,
+  "num_followers": 99110,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAAAfq9ZO1mbgOClYXAblT1yP",
+  "snapshot_id": "ZwhOYAAAAACcxvleMRWOvg/HH/cZct0T",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -70,6 +70,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,

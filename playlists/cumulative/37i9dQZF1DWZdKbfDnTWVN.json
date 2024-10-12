@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 245208,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/5jP8QCZmOtmxVZIS23WZUH"
@@ -4819,6 +4819,32 @@
     },
     {
       "album": {
+        "name": "Stylistic",
+        "url": "https://open.spotify.com/album/7zYgzGRQIBYsCuS7VtB4oL"
+      },
+      "artists": [
+        {
+          "name": "Wahenga",
+          "url": "https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194194,
+      "name": "Stylistic",
+      "url": "https://open.spotify.com/track/4bYlN2c4w0PcAkCYdt8of2"
+    },
+    {
+      "album": {
         "name": "Uptown Chokoraa",
         "url": "https://open.spotify.com/album/6HA8OwSGgnbqhr0Hiy6zZm"
       },
@@ -5696,6 +5722,28 @@
       "duration_ms": 120805,
       "name": "Woo",
       "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"
+    },
+    {
+      "album": {
+        "name": "Wrong Number",
+        "url": "https://open.spotify.com/album/5q5POBPDjToiYiLLyaKCbG"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212558,
+      "name": "Wrong Number",
+      "url": "https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-468 songs - 1 day 4 hr 15 min
+469 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-09 | 2022-07-26 |
 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2022-06-17 | 2023-02-18 |
 | [Singing My Prayer](https://open.spotify.com/track/53yCEFwLoYWQianhQImYMD) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Singing My Prayer](https://open.spotify.com/album/0A5WFSQNf5PbEaigP4U0OZ) | 4:08 | 2024-04-26 | 2024-05-25 |
-| [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 | 2024-03-22 |  |
+| [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 | 2024-03-22 | 2024-10-12 |
 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 | 2022-03-04 | 2023-02-18 |
 | [Slippin](https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj) | [Danni Baylor](https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK) | [Slippin](https://open.spotify.com/album/1MApiUpsUOOlidcLOAjLbq) | 3:16 | 2023-06-23 | 2024-05-04 |
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2021-07-09 | 2022-07-29 |
@@ -390,6 +390,7 @@
 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 | 2021-07-09 | 2022-07-28 |
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-07-09 | 2022-11-13 |
 | [Słońce](https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb) | [Udoo](https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Słońce](https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb) | 4:13 | 2022-07-29 | 2023-11-11 |
+| [Take A Chance](https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Can't Call Me Baby / Take A Chance](https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG) | 3:47 | 2024-10-11 |  |
 | [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 | 2024-06-28 |  |
 | [Take Me to the Good Times](https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Take Me to the Good Times](https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh) | 4:24 | 2021-07-09 | 2022-07-29 |
 | [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 | 2023-10-07 |

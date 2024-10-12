@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Blasterjaxx &amp; Timmy Trumpet
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Cheat Codes
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,253 likes - 16 songs - 43 min 21 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,260 likes - 16 songs - 43 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 15 | [Move Your Feet](https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Move Your Feet](https://open.spotify.com/album/1h3Yj4y5ImmCOpDagP7JYe) | 2:59 |
 | 16 | [Toccata](https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Toccata](https://open.spotify.com/album/3H53Y8XFX5XdomiCJ31Wzu) | 2:59 |
 
-Snapshot ID: `AAAeRBmOnY3h3u0/zmdU6efFEAYN5NiH`
+Snapshot ID: `AAAeRauLD0bMsUm0HIUFxlZanVriQNJ0`

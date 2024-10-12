@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Sona Walia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,569 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,575 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Memories](https://open.spotify.com/track/54ADSaOtLUZtES2IvDAm0u) | [Roshan Prince](https://open.spotify.com/artist/43Tz67xdL3Y2OjpPuMrzld), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi), [Gagan Deep](https://open.spotify.com/artist/3GnvsfUK9sLJJ8TcK2MMMZ) | [Memories](https://open.spotify.com/album/6t1YnsTiZ6lKkEftch3UUa) | 2:59 |
 | 50 | [Miss Me?](https://open.spotify.com/track/4Q1JtqEb1S0cmRItv4z5pK) | [Sahij Hothi](https://open.spotify.com/artist/7sgsLlXW0EuH981GfOS1Ri), [Garry on the Track](https://open.spotify.com/artist/43twEeStPpK0Q0sir8xoRw), [Deep Varn](https://open.spotify.com/artist/5y9NFdyMuph2diUhtvboh0) | [Miss Me?](https://open.spotify.com/album/5sqBZyEwQSY4N6e7tmX4yI) | 4:11 |
 
-Snapshot ID: `ZwfVeAAAAABthyY/5QaJac+YzC2jQHun`
+Snapshot ID: `ZwfVeAAAAAA+PNONTI6WmUSEtHxB9pbH`

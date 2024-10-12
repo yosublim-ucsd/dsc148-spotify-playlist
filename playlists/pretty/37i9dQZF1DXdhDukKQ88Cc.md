@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap var ventet på det her track  🥵  <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>  /<a href="spotify:track:2bFgjHMqGThTzlv6V94V5v">Har Hørt Dig</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,298 likes - 68 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,321 likes - 68 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 67 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 |
 | 68 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 |
 
-Snapshot ID: `ZwhOYAAAAACiRn4gdMkIiwAbBaPLJA8m`
+Snapshot ID: `ZwhOYAAAAADTTfm2mZr9yDzJNLBlnPkG`

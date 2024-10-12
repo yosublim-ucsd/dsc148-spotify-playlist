@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,844 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,850 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kuunnellaanko merisää](https://open.spotify.com/track/5uzW28gfJpdFooq7K9Z8li) | [Keidas](https://open.spotify.com/artist/2ESvglqbkUzxRiTB0nJH00) | [Kuunnellaanko merisää](https://open.spotify.com/album/5c391ewNJmmCdyN1P9SAOC) | 3:23 |
 | 80 | [Kauheuden katedraali](https://open.spotify.com/track/4pfD2WMbGXusfhukv6M4WZ) | [Sina Viola](https://open.spotify.com/artist/0uamzS40yIyInF9D7D6Yla) | [Kauheuden katedraali](https://open.spotify.com/album/44frJgUss5dfAr0XZ0q3DG) | 3:10 |
 
-Snapshot ID: `ZwhAjAAAAADbeq5wm90AfFazr1Rje2de`
+Snapshot ID: `ZwhAjAAAAAA6sVVJQRDXGcc0zoyoqnjS`

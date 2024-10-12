@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "5 to 9",
+        "url": "https://open.spotify.com/album/5k3g2l41N1cZPruGe7NW50"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176025,
+      "name": "5 to 9",
+      "url": "https://open.spotify.com/track/3T2cgkmIn3Iz597IYybCkw"
+    },
+    {
+      "album": {
         "name": "8 to infinity",
         "url": "https://open.spotify.com/album/6liiN1A45ihA3KD3DVe3FT"
       },
@@ -924,6 +942,28 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Cowboy",
+        "url": "https://open.spotify.com/album/5yu1avpoo3znhpc5aeTo8P"
+      },
+      "artists": [
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177831,
+      "name": "Better (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/7L5yUAQfKSm5ydJRjPx5Ok"
     },
     {
       "album": {

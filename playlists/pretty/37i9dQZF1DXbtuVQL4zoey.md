@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,750 likes - 254 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,884 likes - 254 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 253 | [Park Swing](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Park Swing](https://open.spotify.com/album/55Ej3cy2XsbtqVj4aTAVd4) | 2:17 |
 | 254 | [Velvet Morning](https://open.spotify.com/track/0lTc2usMMsijfucFVzS9gP) | [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA) | [Velvet Morning](https://open.spotify.com/album/62un6QqyX7F8QM5SuVIqTq) | 2:04 |
 
-Snapshot ID: `ZuO4wAAAAAC8nwZUwUiDiWezCAy4ZE1V`
+Snapshot ID: `ZuO4wAAAAAC9Nv/CK1XzKSyJlpcACakS`

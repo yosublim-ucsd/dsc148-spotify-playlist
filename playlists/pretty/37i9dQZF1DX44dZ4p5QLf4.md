@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,695 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,731 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [You](https://open.spotify.com/track/5PR0Bz0a1YwlwEuDdJxzvI) | [Hatoon](https://open.spotify.com/artist/1EpikLgslGBzjeSb48JaHs), [Timtimma](https://open.spotify.com/artist/1jccyiau3xDQBglB7cduT6) | [Super\-Sonic Family Vol\. 2 \- Part 4](https://open.spotify.com/album/25khyIhDEFGXtBN00d9fVi) | 3:40 |
 | 80 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
 
-Snapshot ID: `Zv+7WwAAAADhNi9m7xDCj+vuN8jEFOr4`
+Snapshot ID: `Zv+7WwAAAAAdZ3nKTX00M2HaQ8mXF+Vv`

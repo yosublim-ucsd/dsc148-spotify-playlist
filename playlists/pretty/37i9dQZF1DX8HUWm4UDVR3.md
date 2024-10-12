@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Mauvaise Bouche
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,039 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 |
 | 50 | [La Bonne](https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [La Bonne](https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l) | 3:06 |
 
-Snapshot ID: `ZwhOYAAAAADnKFA1RRj12Mg7aDDfmA4Q`
+Snapshot ID: `ZwhOYAAAAACm31sl2OzVmbr+9H1Vt8G5`

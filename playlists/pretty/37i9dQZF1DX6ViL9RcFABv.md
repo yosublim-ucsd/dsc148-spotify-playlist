@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mickael Carreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,405 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,434 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 74 | [Juntar Estrelas](https://open.spotify.com/track/0OS0JI6vlxidLQnrZQ2G3m) | [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Juntar Estrelas](https://open.spotify.com/album/3Zcv7hf4aVLPbDiIy19p7t) | 3:38 |
 | 75 | [Se Não Houvesse Amor](https://open.spotify.com/track/2TzA35bQJ6S2etM3fVuEcw) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Se Não Houvesse Amor](https://open.spotify.com/album/34unpI0GpqY3gyd4xCgRxe) | 3:32 |
 
-Snapshot ID: `ZwhccAAAAADCechXXrbZd5TS0suynNLE`
+Snapshot ID: `ZwhccAAAAACzpZ3bs6FjoO1tG+KQUs7B`

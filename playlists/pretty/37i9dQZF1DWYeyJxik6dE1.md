@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYeyJxik6dE1.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: Lov3less
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,081 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,082 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYeyJxik6dE1.md) - [plain]
 | 44 | [Creeping Through My Head](https://open.spotify.com/track/7GUuRxDcmihZblp7j9Nijy) | [RHEA](https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD) | [Creeping Through My Head](https://open.spotify.com/album/50XUn0vLkpUivqOKokcg1Z) | 3:27 |
 | 45 | [Weekends and Workdays](https://open.spotify.com/track/37wgmPpMdwVNwd5epyDM0d) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Weekends and Workdays](https://open.spotify.com/album/01upLunCsuoMYUqbzIHdZQ) | 3:26 |
 
-Snapshot ID: `ZWcrgAAAAAB/udmIbLgFQ66gp2+cq3Cd`
+Snapshot ID: `ZWcrgAAAAADGXCmEH5kAHoW3w2r2Ci3S`

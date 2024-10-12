@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,677 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,691 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 49 | [Ya Mama](https://open.spotify.com/track/70s6tDFJzgQsncTTYiaZJh) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between the Gutter and the Stars](https://open.spotify.com/album/68e2LAsyBqsXHu8QlA7mAp) | 5:38 |
 | 50 | [Confidence](https://open.spotify.com/track/7fLxL7TxAT0FR5XgdWRvb0) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Confidence](https://open.spotify.com/album/1oXZwNXkcpYtbgwZyf3pVP) | 3:14 |
 
-Snapshot ID: `ZRWG4AAAAACOCdAo3IWhbkNta1ui+M0b`
+Snapshot ID: `ZRWG4AAAAAC1mVkh8Q7qUzvfrPiuYLzh`

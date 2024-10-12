@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot\_HNbA>Solly Moholo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,494 likes - 107 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,617 likes - 107 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 106 | [Ekujuleni \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/639batqvLenaQp4sh5Jov7) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 1 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C) | 10:35 |
 | 107 | [Isinqumo](https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Isinqumo](https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg) | 6:07 |
 
-Snapshot ID: `ZwhqvAAAAADE5rZ6TkwFXUtXhfauGdrU`
+Snapshot ID: `ZwhqvAAAAAASa0jqGDJQ2JApG0NA4BxN`

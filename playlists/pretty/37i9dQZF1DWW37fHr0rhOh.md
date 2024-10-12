@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: <a href="spotify:artist:4B43yyRlfQgDEhDPq35wUc">The Nelons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,767 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,783 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 48 | [Sweeter As The Days Go By](https://open.spotify.com/track/1JQUWd3mO8X9juFK9Nzn2H) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/3cO5SSGv1DEnnGTyDQ1YYc) | 5:32 |
 | 49 | [Until It Was Me](https://open.spotify.com/track/53jE9nJt7SDFTJPEWd2rGC) | [Doug Anderson](https://open.spotify.com/artist/34vrhPShaVozJS4tTRtA8u) | [Until It Was Me](https://open.spotify.com/album/1mJai7zg3E1jmfpOXKKpIz) | 3:49 |
 
-Snapshot ID: `ZtGUuAAAAABnvxx+zPW+zEU3i8ixWOeB`
+Snapshot ID: `ZtGUuAAAAADaBgluWzCquXt1Wo3yv4Wl`

@@ -1,13 +1,149 @@
 {
-  "description": "New releases for the kids. Cover: Lisa Loeb",
-  "num_followers": 33119,
+  "description": "New releases for the kids. Cover: The Wiggles",
+  "num_followers": 33201,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwVHPwAAAAAYxaUZaXxvkk8iGPBwlPAp",
+  "snapshot_id": "ZwiiwAAAAABsqIlqBECTg5ncbnMAf9Wv",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Big Red Ute",
+        "url": "https://open.spotify.com/album/1HqaEKusGhe7DBbqqdJuN4"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 162814,
+      "name": "Big Red Ute",
+      "url": "https://open.spotify.com/track/0bkiSDHL1ZuQ8bPZRQ5vFI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/50TXQU2HIBdII7vExsqUpA"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "duration_ms": 77903,
+      "name": "I Like How You Think",
+      "url": "https://open.spotify.com/track/3YGZI41Qm5cX8o2qQtC7FH"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "What Will You Be for Halloween?",
+        "url": "https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "What Will You Be for Halloween?",
+      "url": "https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Paw-fect Party",
+        "url": "https://open.spotify.com/album/0EXdYE1gk2dgpHQlZQDnMs"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 41158,
+      "name": "Wiggle and Shake",
+      "url": "https://open.spotify.com/track/34DbBP5KsyG4e85b7acmnr"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "I've Got You (From Barney's World: Vol. 1)",
+        "url": "https://open.spotify.com/album/4hFbvmKvvsRgHxIbZyf2Is"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 123800,
+      "name": "I've Got You",
+      "url": "https://open.spotify.com/track/0j9oLqBINAOh82kdylXILK"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Your Time is Now",
+        "url": "https://open.spotify.com/album/0yL0Y3XfkjdeILADgFwIjo"
+      },
+      "artists": [
+        {
+          "name": "American Girl",
+          "url": "https://open.spotify.com/artist/5uHa58dlzYkc3Yb0WiFhVL"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Your Time is Now",
+      "url": "https://open.spotify.com/track/6kaze9chSg22pYotxYdFro"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Pinkfong & Hogi Halloween Sing Along",
+        "url": "https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {

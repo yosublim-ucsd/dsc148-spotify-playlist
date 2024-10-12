@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey and Connecticut music breaking waves\. Curated by: <a href="spotify:artist:1WcZXhILKBJktTKnqfjWMT">Kitty Ca$h</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,900 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 59 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 60 | [Can't Shut Us Down](https://open.spotify.com/track/6pWiVeWJ0PFRRv8y9ndKTU) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 3:12 |
 
-Snapshot ID: `ZmH63wAAAABIbo1ii5WWEyRP3I/MHh65`
+Snapshot ID: `ZmH63wAAAABdOm3LEs3aKEiMiZ9rlVsM`

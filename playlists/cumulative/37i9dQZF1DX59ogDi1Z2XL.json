@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: The Weeknd",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake \ud83e\udd89 ",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181608,
       "name": "1800-GRASSWAYS",
       "url": "https://open.spotify.com/track/3ijY1FStYw0rShkS7qIIGw"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 159541,
       "name": "All Facts (feat. Smiley)",
       "url": "https://open.spotify.com/track/4Hvt6TcipKAyvI59crC6mQ"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 183428,
       "name": "almost got me",
       "url": "https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w"
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "B-Real",
+        "url": "https://open.spotify.com/album/3clblLa1tjwPkwA4qIfgGD"
+      },
+      "artists": [
+        {
+          "name": "Quake Matthews",
+          "url": "https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "B-Real",
+      "url": "https://open.spotify.com/track/1bv2WittadoBXvtU1iMXbw"
+    },
+    {
+      "album": {
         "name": "B.G.A",
         "url": "https://open.spotify.com/album/6Z3PqPEQsp7bWiFGr0gtNf"
       },
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 136666,
       "name": "BACK ON GO",
       "url": "https://open.spotify.com/track/5HVOOyXMXrWbmcOQi27iIR"
@@ -2988,6 +3006,24 @@
       "duration_ms": 162580,
       "name": "BBE",
       "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
+    },
+    {
+      "album": {
+        "name": "bbhur",
+        "url": "https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245803,
+      "name": "bbhur",
+      "url": "https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD"
     },
     {
       "album": {
@@ -3734,7 +3770,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155547,
       "name": "Big Money",
       "url": "https://open.spotify.com/track/2UTCZiKbnYP53FAsu5Rrt0"
@@ -4054,7 +4090,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 108332,
       "name": "BLACK OPS",
       "url": "https://open.spotify.com/track/4U2tjCMDeSmhKPJ1A3V4jB"
@@ -5018,6 +5054,28 @@
       "duration_ms": 140459,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1ghHnjy79m7R5QrUeIZAdH"
+    },
+    {
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "DUUO",
+          "url": "https://open.spotify.com/artist/3nCdkxgZDPK61iR5OeBatJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Came a Long Way",
+      "url": "https://open.spotify.com/track/3jTxlL5NVBu8iwrIuCko7l"
     },
     {
       "album": {
@@ -8114,7 +8172,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 179284,
       "name": "Down",
       "url": "https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj"
@@ -8424,7 +8482,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 154971,
       "name": "DWTD",
       "url": "https://open.spotify.com/track/55Nt8AUYziz5UqJn2LHXJW"
@@ -8610,6 +8668,28 @@
       "duration_ms": 176706,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me"
+    },
+    {
+      "album": {
+        "name": "EASY!",
+        "url": "https://open.spotify.com/album/0GJdja9kQ2Z1V3TtDSa1q2"
+      },
+      "artists": [
+        {
+          "name": "King Cruff",
+          "url": "https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115531,
+      "name": "EASY!",
+      "url": "https://open.spotify.com/track/1ZePJy3P8Xgzh54C5JfUXr"
     },
     {
       "album": {
@@ -16187,6 +16267,32 @@
     },
     {
       "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/2HBOShBOO4dQT763bdQ3TO"
+      },
+      "artists": [
+        {
+          "name": "a4",
+          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
+        },
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        },
+        {
+          "name": "4TheWorld",
+          "url": "https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/1sJTBjpd2dAUwaJchh61bW"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6eKgzdfGQiDDeXAGGc7Mn8"
       },
@@ -16620,7 +16726,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 126024,
       "name": "LIVE",
       "url": "https://open.spotify.com/track/67azexYEXRdBvNnkAZuZY1"
@@ -19132,7 +19238,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 145280,
       "name": "Nappy Roots (feat. TOBi)",
       "url": "https://open.spotify.com/track/6QWr2pNVvwYZ1ufDP3ItFd"
@@ -22503,6 +22609,32 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/76X9Y0e32Lv3Z7XZlQF0i7"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "TallupTwinz",
+          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
+        },
+        {
+          "name": "Tim Neat",
+          "url": "https://open.spotify.com/artist/0fkmnaEaXh1FPtVkMEm6x0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215690,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0WJpnxEpOwKbo3dqZ2qG1C"
+    },
+    {
+      "album": {
         "name": "Pigeons",
         "url": "https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr"
       },
@@ -24984,7 +25116,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 135372,
       "name": "Running Game",
       "url": "https://open.spotify.com/track/2yiKli1cZvAxNjltJDF6xh"
@@ -25060,7 +25192,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 150186,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5fV9i1hWdDc4s2ZIlXwO4U"
@@ -25118,7 +25250,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173176,
       "name": "SALAD",
       "url": "https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby"
@@ -26218,7 +26350,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 244072,
       "name": "Sober Sunday",
       "url": "https://open.spotify.com/track/3EXe52s0EdRao29JYefCTE"
@@ -27492,7 +27624,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177931,
       "name": "Summer In The CIty",
       "url": "https://open.spotify.com/track/2L2bCQOUcVt4kwHypMOg1h"
@@ -32191,6 +32323,28 @@
     },
     {
       "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/4DVG9rNaI7D6HkPjMYk2rx"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        },
+        {
+          "name": "bridget",
+          "url": "https://open.spotify.com/artist/0htDkaya1Ij5nVpmWNsvMR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/6NKIfw0jBDeQ99xI1XCuBc"
+    },
+    {
+      "album": {
         "name": "Wiz (feat. Vayda & SadBoi)",
         "url": "https://open.spotify.com/album/4EJiGP8d3LadxE7kRLU5l6"
       },
@@ -32210,7 +32364,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 119280,
       "name": "Wiz (feat. Vayda & SadBoi)",
       "url": "https://open.spotify.com/track/3KntGJUglEx3TM4ZCeyCYT"
@@ -32426,7 +32580,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147924,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/0yPpQjiCQ7g61XoEezaIER"

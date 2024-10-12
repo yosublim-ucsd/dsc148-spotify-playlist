@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Haute & Freddy\.  Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,147 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,184 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [red white & me](https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5) | [Mae Mae](https://open.spotify.com/artist/53ZthSp6EXqpBgOKrS5EsL) | [red white & me](https://open.spotify.com/album/5RLVZJNNtKoGhgXScdA87i) | 3:09 |
 | 100 | [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 |
 
-Snapshot ID: `ZwX/wAAAAABdvQSJBVLvXys41xTw6OPQ`
+Snapshot ID: `ZwX/wAAAAAD3KQ2m1RjTh53qZfJj4eO2`

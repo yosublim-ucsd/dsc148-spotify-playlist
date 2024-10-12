@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "cabelinho, tt e os fantasmas se divertem",
+  "description": "correndo SEMPRE atr\u00e1s do som",
   "name": "creme",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 223298,
       "name": "BBL",
       "url": "https://open.spotify.com/track/6DsIkJERJY1IOS7LfM7jDK"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186461,
       "name": "BrusaDaNike e GShock",
       "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
@@ -6217,6 +6217,32 @@
     },
     {
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136703,
+      "name": "Meu Problema",
+      "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
+    },
+    {
+      "album": {
         "name": "Mil Motivos",
         "url": "https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim"
       },
@@ -7328,6 +7354,24 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312480,
+      "name": "O Som",
+      "url": "https://open.spotify.com/track/4v0VOuuaZSQHjnjzkC3cnk"
     },
     {
       "album": {
@@ -10177,6 +10221,36 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Um Lance",
+        "url": "https://open.spotify.com/album/07dyB9vxPNVm2VNHfDNGmy"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232820,
+      "name": "S\u00f3 Um Lance",
+      "url": "https://open.spotify.com/track/1mE3qnQjYdZG5oCSdg1FkR"
+    },
+    {
+      "album": {
         "name": "TANG",
         "url": "https://open.spotify.com/album/3y2F1qXjIsQJIcgMN9FfLM"
       },
@@ -10560,7 +10634,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 146160,
       "name": "V de Vil\u00e3o",
       "url": "https://open.spotify.com/track/7pMfMzfYSTbNxj5lJEbQIp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTJwoZ7Hrwg.md) - [plain]
 
 > Les plus grands hits et nos coups de cœur francophones de 2023\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,340 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,341 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTJwoZ7Hrwg.md) - [plain]
 | 49 | [Sandwich aux tomates](https://open.spotify.com/track/2VwlnN54f4H2ZOaDfKaRO4) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Antigéographiquement](https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd) | 2:46 |
 | 50 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 |
 
-Snapshot ID: `ZWcrgAAAAABUOzfKIsWL+hOvZ0/tu4ig`
+Snapshot ID: `ZWcrgAAAAADT8BGCL+0no1rRl0+0XPyj`

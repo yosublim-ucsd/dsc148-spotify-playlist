@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Najlepsze polskie przeboje 2023 roku\. Cover: Daria Zawiałow \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,213 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,207 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 49 | [SHADOWBAN](https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH) | [SHADOWBAN](https://open.spotify.com/album/1jYvNSXDHiD5UIFCu9AFdT) | 2:30 |
 | 50 | [Pocałunek lata](https://open.spotify.com/track/4gMSffrUcoMXCCYNpqrlzy) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Michał Szczygieł](https://open.spotify.com/album/2ygAgvG0PlexP6dubTSmLQ) | 3:07 |
 
-Snapshot ID: `ZWcrvAAAAABjZ6oMm5TUveXd6JsB+LjJ`
+Snapshot ID: `ZWcrvAAAAABAU16ifob/CWE94xqe6gnv`

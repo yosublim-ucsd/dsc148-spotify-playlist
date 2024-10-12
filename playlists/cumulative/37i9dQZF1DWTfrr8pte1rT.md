@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-456 songs - 1 day 1 hr 49 min
+457 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-02 |  |
 | [hand crushed by a mallet \(Remix\) \[feat\. Fall Out Boy, Craig Owens, Nicole Dollanganger\]](https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv), [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 2:55 | 2021-12-10 | 2024-03-09 |
 | [Happier By Now](https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Happier By Now](https://open.spotify.com/album/61WvoZ2SDiN5PpxPbkOcov) | 3:47 | 2024-02-23 |  |
-| [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 | 2023-01-30 |  |
+| [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 | 2023-01-30 | 2024-10-12 |
 | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 | 2022-05-06 | 2023-02-10 |
 | [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-24 | 2024-05-21 |
 | [Hearteater](https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [Hearteater](https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa) | 3:37 | 2022-03-04 | 2024-06-01 |
@@ -401,6 +401,7 @@
 | [The Change \(feat\. DMA’S\)](https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Change \(feat\. DMA’S\)](https://open.spotify.com/album/5Vtl2h8FGEaXymFYnJp2Z8) | 4:37 | 2022-06-24 | 2022-08-12 |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-07 | 2023-10-22 |
 | [The Death of Peace of Mind](https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Death of Peace of Mind](https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9) | 4:01 | 2024-05-24 |  |
+| [The Kill](https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq) | [HOWL](https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8) | [The Kill](https://open.spotify.com/album/764f9swzz54KpN2v9jgieq) | 3:41 | 2024-10-11 |  |
 | [The Real You](https://open.spotify.com/track/4XHTPl7nE6TO2XyUBMmluw) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [The Real You](https://open.spotify.com/album/39KJvXLSyc7itwR6svigHY) | 3:01 | 2021-12-10 | 2022-06-25 |
 | [The Same \(feat\. neverwaves\)](https://open.spotify.com/track/6YHoMGskZLBjLYDRqCJCGX) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [The Same \(feat\. neverwaves\)](https://open.spotify.com/album/4FaxYOyIEqNrVIZD0WXmNO) | 4:39 | 2021-12-10 | 2022-06-25 |
 | [The Sickness](https://open.spotify.com/track/0ydJxPQlsSTaABAQuYn3q9) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [The Sickness](https://open.spotify.com/album/05FU57RYm1lzR9TKEDGQ05) | 4:00 | 2022-01-18 | 2022-06-25 |

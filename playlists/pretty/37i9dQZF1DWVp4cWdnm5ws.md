@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: dwta
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,338 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,385 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 45 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 |
 | 46 | [Sunday Morning](https://open.spotify.com/track/7iil6fgXBgJcSqbKOKI4dx) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5eQqnyOrLCKl2ptVYevOAL) | 3:44 |
 
-Snapshot ID: `Zv+B7AAAAAD2gROBcKaFMk9xGK5mgzen`
+Snapshot ID: `Zv+B7AAAAAApU66BuwUqErJyPwItqyjA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,646 likes - 102 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,695 likes - 102 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 101 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 |
 | 102 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 |
 
-Snapshot ID: `ZpnkwAAAAAD6YQPgjV+YmmjNdgzwLyo2`
+Snapshot ID: `ZpnkwAAAAAARXoc2cAVuKEdxv8svrSPt`

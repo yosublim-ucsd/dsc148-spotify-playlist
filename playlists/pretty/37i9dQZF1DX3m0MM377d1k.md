@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 
 > Music from "【OSHI NO KO】" /アニメ【推しの子】の楽曲を1つのプレイリストで。©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,795 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,921 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 | 59 | [Honest Feeling \- II](https://open.spotify.com/track/2jlhPVqBYivgZnseKoB1S9) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:11 |
 | 60 | [Impatience](https://open.spotify.com/track/60kXBqpnQMSjr0nWlV58G8) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:07 |
 
-Snapshot ID: `ZwVI8AAAAAAYtDCQtr/OKJD2FwHbDPRW`
+Snapshot ID: `ZwVI8AAAAACIg6bRQnJvSNM7MP+0ihpT`

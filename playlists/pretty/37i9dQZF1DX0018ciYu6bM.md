@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,709 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,823 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 84 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 |
 | 85 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 |
 
-Snapshot ID: `Zv6kngAAAACWWQVdXXuOzlaKgdDyVVAL`
+Snapshot ID: `Zv6kngAAAACrph2lwnKGWnt0DnYZTLXF`

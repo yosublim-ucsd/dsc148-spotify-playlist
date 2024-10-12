@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,278 likes - 76 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,296 likes - 76 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 75 | [ARP](https://open.spotify.com/track/4r9hgdBecPticgJExLog92) | [Ammonite](https://open.spotify.com/artist/1E61rOTk5Qqalvbes6rual) | [Blueprints](https://open.spotify.com/album/58Pr1AMRgeZh5oYuCHdhUW) | 4:13 |
 | 76 | [Miroirs \- Chloé Remix](https://open.spotify.com/track/2gqFi1tTpSQnF41rkdT2Tu) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Miroirs \(Chloé Remix\)](https://open.spotify.com/album/11vXM0ESR8dpTXnwU9YDc1) | 6:05 |
 
-Snapshot ID: `Zs8lXQAAAADltawCryfZbdPHGPTSJekJ`
+Snapshot ID: `Zs8lXQAAAAATC5V7NAj0BgAiLFotYCjA`

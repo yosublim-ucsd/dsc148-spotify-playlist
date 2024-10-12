@@ -2,7 +2,7 @@
 
 ### [This Is FLOW](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV)
 
-> This Is FLOW\. Los temas esenciales, todos en una lista.
+> This Is FLOW\. Les titres incontournables, réunis dans une seule et même playlist.
 
 110 songs - 7 hr 7 min
 

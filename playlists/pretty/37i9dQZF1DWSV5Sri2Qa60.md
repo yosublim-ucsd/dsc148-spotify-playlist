@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Esme Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,891 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,902 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Selling Shovels](https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Selling Shovels](https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9) | 4:22 |
 | 50 | [Falling Behind](https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Falling Behind](https://open.spotify.com/album/7dWVkkH0NcD2gE3qNSAPhY) | 2:44 |
 
-Snapshot ID: `ZwKP6QAAAABAyPVydlKI6cIfPkOw0H0c`
+Snapshot ID: `ZwKP6QAAAADmsvC/Iu5E/WDk2xC0PGbX`

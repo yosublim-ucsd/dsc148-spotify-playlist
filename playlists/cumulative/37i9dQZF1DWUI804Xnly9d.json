@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192328,
       "name": "Barf",
       "url": "https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 238875,
       "name": "Khuda Ne",
       "url": "https://open.spotify.com/track/6nd3abvd5z9eTbluyYIyjP"
@@ -4970,6 +4970,28 @@
       "duration_ms": 234444,
       "name": "Manmaani",
       "url": "https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc"
+    },
+    {
+      "album": {
+        "name": "Mann Tou Jaanay Na",
+        "url": "https://open.spotify.com/album/3jL45Im5JON57pxveyF0yi"
+      },
+      "artists": [
+        {
+          "name": "Schumaila Rehmat Hussain",
+          "url": "https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8"
+        },
+        {
+          "name": "Nivedita Bhargava",
+          "url": "https://open.spotify.com/artist/4CDYuIl8Pz3WwHkUcr9AiB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Mann Tou Jaanay Na",
+      "url": "https://open.spotify.com/track/1BHrUB3Gr81oKcGaTCtMq2"
     },
     {
       "album": {
@@ -5952,6 +5974,32 @@
       "duration_ms": 216062,
       "name": "Pehli Sharam",
       "url": "https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU"
+    },
+    {
+      "album": {
+        "name": "Piya (From \"Midnight Melodies\")",
+        "url": "https://open.spotify.com/album/6Lqyiczvk4j6vMowV4Zbwi"
+      },
+      "artists": [
+        {
+          "name": "Suddipta Borthakur",
+          "url": "https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D"
+        },
+        {
+          "name": "Aryan Singh",
+          "url": "https://open.spotify.com/artist/6PaD0ifGlywMOX0OVehxXR"
+        },
+        {
+          "name": "Yasir Nadim",
+          "url": "https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Piya (From \"Midnight Melodies\")",
+      "url": "https://open.spotify.com/track/5WbXYWeo4OjfVM2ByPztQW"
     },
     {
       "album": {

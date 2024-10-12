@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Ela Taubert
+> Country music with a Latin flair\. Cover: Kat Luna
 
-184 songs - 10 hr 7 min
+185 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2021-12-10 |  |
 | [Never Have I Ever \- Yo Nunca He..\. / Spanish Version](https://open.spotify.com/track/4UwGBrXXpGWXdBWuvtU5hZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Never Have I Ever \(Yo Nunca He..\. / Spanish Version\)](https://open.spotify.com/album/41pi8PQFunXaqPy3xuVUlM) | 3:09 | 2021-12-10 | 2024-04-10 |
 | [No Rompas Mi Corazon](https://open.spotify.com/track/50kX2IurNXtSQZG5e4z9VP) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Leyendas del Pueblo Con Caballo Dorado](https://open.spotify.com/album/19LluRsD0BLJNqcs5ryzuA) | 4:34 | 2021-12-10 | 2024-06-18 |
+| [No Soy Yo \- That Girl \- Spanish Version](https://open.spotify.com/track/4dZdl2cOAPZBTltbb7BWJc) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [That Girl](https://open.spotify.com/album/73sY5IrItdFAzqqiGMwKEN) | 3:11 | 2024-10-11 |  |
 | [OBVIOUS \- Español](https://open.spotify.com/track/39jEIuozQLWe7cwD650tgK) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:51 | 2023-12-01 | 2024-04-10 |
 | [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 | 2021-12-10 | 2023-12-15 |
 | [Once Upon a Time \(feat\. Martina McBride\)](https://open.spotify.com/track/4gE9TM6eai2wzYbCga0WmD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Play the Hits](https://open.spotify.com/album/3aAtwgAJcKzXVsxDsotriL) | 2:59 | 2021-12-10 | 2024-04-10 |

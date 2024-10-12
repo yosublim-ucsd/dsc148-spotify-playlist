@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,620 likes - 390 songs - 19 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,756 likes - 390 songs - 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 389 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 |
 | 390 | [Nancy With The Laughing Face](https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Nancy With The Laughing Face](https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq) | 4:21 |
 
-Snapshot ID: `ZwUaKgAAAAC3UabS9YUL/zeNXriz3Zhz`
+Snapshot ID: `ZwUaKgAAAAD9ZBgo+v+u2AZ+482lnSz9`

@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 288448,
       "name": "Blues In My DNA",
       "url": "https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp"
@@ -3416,6 +3416,24 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
+    },
+    {
+      "album": {
+        "name": "Blues In My DNA",
+        "url": "https://open.spotify.com/album/6sbnHnKPNk1mtR6eK33A5j"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277474,
+      "name": "I'm Feeling You",
+      "url": "https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq"
     },
     {
       "album": {

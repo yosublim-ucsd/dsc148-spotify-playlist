@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Aline Barros",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Gisele Nascimento, Sued Silva",
   "name": "Louvores Pentecostais",
   "tracks": [
     {
@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Deus Est\u00e1 Cuidando",
+        "url": "https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242824,
+      "name": "Deus Est\u00e1 Cuidando",
+      "url": "https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO"
+    },
+    {
+      "album": {
         "name": "Deus Est\u00e1 Te Ensinando",
         "url": "https://open.spotify.com/album/3HpJF8iPtOu6Gitthnyqjs"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 352533,
       "name": "Est\u00e1 Tudo Bem",
       "url": "https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF"
@@ -3063,6 +3081,28 @@
     },
     {
       "album": {
+        "name": "Pra Que Temer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271720,
+      "name": "Pra Que Temer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud"
+    },
+    {
+      "album": {
         "name": "Prepare o Culto",
         "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
       },
@@ -4270,7 +4310,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 233406,
       "name": "Volte a Sonhar",
       "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"

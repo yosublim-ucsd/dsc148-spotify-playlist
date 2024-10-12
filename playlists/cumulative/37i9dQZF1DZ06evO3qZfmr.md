@@ -2,7 +2,7 @@
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. The essential tracks, all in one playlist.
+> This is Megan Moroney\. أغاني روعة في قايمة أغاني واحدة.
 
 40 songs - 2 hr 12 min
 

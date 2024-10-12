@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-64 songs - 16 hr 29 min
+66 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,11 @@
 | [Raga Mishra Khamal: Thumri in Teentaal](https://open.spotify.com/track/6jli7CztvkqT31IxYGtHPe) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Dilshad Khan](https://open.spotify.com/artist/2MGldsFMFcnboBIAD1okNS), [Anita Narayan](https://open.spotify.com/artist/5d8UIfE4DtivsTxqjNn1K9) | [Pt\. Ram Narayan: Sarangee Wadan](https://open.spotify.com/album/73xpfGlBt3y7UHe0YKPLI1) | 9:45 | 2021-12-07 |  |
 | [Raga Mishra Shivaranjani](https://open.spotify.com/track/3YLqvI4mIynHBm5oZd3kcp) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 7:32 | 2021-12-07 |  |
 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 | 2021-12-07 |  |
+| [Raga Prachin Khamaj](https://open.spotify.com/track/4ja1Jx5SzX65R6jHb14qOz) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:16 | 2024-10-11 |  |
 | [Raga Purvi](https://open.spotify.com/track/3MggyCyjiU4wxbKtrgV6kn) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 9:46 | 2021-12-07 |  |
 | [RAGA SAHASRADEEP](https://open.spotify.com/track/0QVnKg0o0rceJG6DaOnjfp) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shikhar Naad Qureshi](https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Joy Sengupta](https://open.spotify.com/artist/2a4TZ9HR1I5wMxxNGNTZZN) | [RAGA SAHASRADEEP](https://open.spotify.com/album/11BgWZ6i0LLInRlx5hg94N) | 10:40 | 2021-12-07 |  |
 | [Raga Shuddha Todi: Alap](https://open.spotify.com/track/28p3AUitPD7fiJP56kFIZY) | [Zia Mohiuddin Dagar](https://open.spotify.com/artist/2vHem6PNwo85W01g17IRbG), [Uday Bhawalkar](https://open.spotify.com/artist/6TOIUtOeUwfFiYiaEqtVWf), [Yvan Trunzler](https://open.spotify.com/artist/0bcLW0cPCgjAnGMz0zR8hC) | [Raga Shuddha Todi](https://open.spotify.com/album/3BC7ziX2OG2oUJy8fr7gUT) | 34:21 | 2021-12-07 | 2023-04-20 |
+| [Raga Shudh Nat](https://open.spotify.com/track/1owwIPlqMsGKfmtJjop4s5) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:10 | 2024-10-11 |  |
 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 | 2021-12-07 |  |
 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 | 2021-12-07 |  |
 | [Raga: Pahari](https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s) | [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Sweet Melodies](https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ) | 8:14 | 2021-12-07 |  |

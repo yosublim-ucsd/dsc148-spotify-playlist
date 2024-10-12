@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Chaque seconde" de Pierre Garnier avec M\. Pokora est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,946 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,979 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
 | 40 | [Inoubliable \(feat\. RR\)](https://open.spotify.com/track/6Vso65vZMkqEdzv8zXgQR6) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [RR](https://open.spotify.com/artist/2i9asRz56fjYM4tUlm4PnQ) | [Eclect!que \(Deluxe Edition\)](https://open.spotify.com/album/4RCWRu23stF0sWEf4nwtfl) | 3:13 |
 
-Snapshot ID: `ZwhOYAAAAADZBvz6cEeeXUbpEmNyUoY8`
+Snapshot ID: `ZwhOYAAAAAB939QEzq7YymVsSQ2prg4B`

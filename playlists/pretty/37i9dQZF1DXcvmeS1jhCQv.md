@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Ahmed, With Love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,447 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,463 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 89 | [Drive](https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Drive](https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn) | 4:38 |
 | 90 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 |
 
-Snapshot ID: `ZwhccAAAAAD9vIjHo+dsA+CREbrTV1Yi`
+Snapshot ID: `ZwhccAAAAAC2Nmk/vurQqgw20QlzvOJN`

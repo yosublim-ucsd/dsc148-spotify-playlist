@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
@@ -4594,6 +4594,32 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "album": {
+        "name": "ME DUELE TU TRAICI\u00d3N",
+        "url": "https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212027,
+      "name": "ME DUELE TU TRAICI\u00d3N",
+      "url": "https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta"
     },
     {
       "album": {
@@ -5538,7 +5564,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192103,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
@@ -5720,7 +5746,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
@@ -7347,6 +7373,24 @@
     },
     {
       "album": {
+        "name": "ROBAME UN BESO",
+        "url": "https://open.spotify.com/album/3N2kt9ioaMGzGMBfvzhBXN"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "ROBAME UN BESO",
+      "url": "https://open.spotify.com/track/2RxJ9U2Pj7TsiocDXtjowg"
+    },
+    {
+      "album": {
         "name": "Se Me Olvida",
         "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
       },
@@ -7420,6 +7464,28 @@
       "duration_ms": 218967,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/6QhePdHMNM4772Muezdb30"
+    },
+    {
+      "album": {
+        "name": "Serie Favorita",
+        "url": "https://open.spotify.com/album/0qbal3vHPOsoeKgmjxecuo"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182598,
+      "name": "Serie Favorita",
+      "url": "https://open.spotify.com/track/67oCrZB3vxm8A65HId2WVT"
     },
     {
       "album": {
@@ -7852,7 +7918,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Son De Amores",
       "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
@@ -9376,7 +9442,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

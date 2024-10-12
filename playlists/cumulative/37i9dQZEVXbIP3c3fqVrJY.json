@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 143030,
       "name": "a\u017e bude ho\u0159et",
       "url": "https://open.spotify.com/track/58fJfG0hk0vdapXWxljz20"
@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Chupito Mixtape",
+        "url": "https://open.spotify.com/album/1Sd0QhUiX0SJ8WkRDC1nkl"
+      },
+      "artists": [
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180871,
+      "name": "Chupito",
+      "url": "https://open.spotify.com/track/2NPn6igDIAp74xUosdSmi3"
+    },
+    {
+      "album": {
         "name": "v gastru nejsou lidi",
         "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
       },
@@ -5308,6 +5326,28 @@
       "duration_ms": 181523,
       "name": "Co Ty O\u010di??",
       "url": "https://open.spotify.com/track/34glv1y1WLPdKbJK28ky5u"
+    },
+    {
+      "album": {
+        "name": "Chupito Mixtape",
+        "url": "https://open.spotify.com/album/1Sd0QhUiX0SJ8WkRDC1nkl"
+      },
+      "artists": [
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        },
+        {
+          "name": "Psycho Rhyme",
+          "url": "https://open.spotify.com/artist/40pdpBqmzrhobrnKocs4uA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133799,
+      "name": "Coke N Koule",
+      "url": "https://open.spotify.com/track/4MxhgJ9tqhHLOAZK65VsnY"
     },
     {
       "album": {
@@ -10499,6 +10539,24 @@
     },
     {
       "album": {
+        "name": "Addiction Lord",
+        "url": "https://open.spotify.com/album/7jlwOLfRiBr18199RMpxyr"
+      },
+      "artists": [
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173096,
+      "name": "Happysong 4",
+      "url": "https://open.spotify.com/track/6T4tk9d0Bp7WgVCYJD2XVM"
+    },
+    {
+      "album": {
         "name": "HRA1",
         "url": "https://open.spotify.com/album/5dvyybxV1Inueqg9XSSMXw"
       },
@@ -13714,7 +13772,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
@@ -13834,7 +13892,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -16194,7 +16252,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -18228,6 +18286,24 @@
       "duration_ms": 199000,
       "name": "NA SKAL\u00c1CH FREESTYLE",
       "url": "https://open.spotify.com/track/3DrqE4QiUbnHj9GVqTWlvu"
+    },
+    {
+      "album": {
+        "name": "1718 Mixtape",
+        "url": "https://open.spotify.com/album/4L1mHuGEPEq3KgHWGg2Y5H"
+      },
+      "artists": [
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222140,
+      "name": "Na vlastn\u00ed k\u016f\u017ei",
+      "url": "https://open.spotify.com/track/12HTN8E5QBJyQXNP6jfZ5U"
     },
     {
       "album": {
@@ -21406,6 +21482,24 @@
       "duration_ms": 167441,
       "name": "Pl\u00e1n B",
       "url": "https://open.spotify.com/track/0EaSPogtxTeJl1xxrdIAqS"
+    },
+    {
+      "album": {
+        "name": "Sickology",
+        "url": "https://open.spotify.com/album/1R6jZVlsyI9oUKu1Yypumw"
+      },
+      "artists": [
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186044,
+      "name": "Po Betonu",
+      "url": "https://open.spotify.com/track/6F8eDkuREFBUinXecDCsX6"
     },
     {
       "album": {
@@ -25713,6 +25807,28 @@
     },
     {
       "album": {
+        "name": "Tenkr\u00e1t na lehk\u00fdch drog\u00e1ch",
+        "url": "https://open.spotify.com/album/2STVKOwIedfEWOtGAgsjNI"
+      },
+      "artists": [
+        {
+          "name": "Steve Sniff",
+          "url": "https://open.spotify.com/artist/2lp8P0t4VLRv2Uk9MYD8MG"
+        },
+        {
+          "name": "Protiva",
+          "url": "https://open.spotify.com/artist/2Bu87vdMT0plbktpNoHBr7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156143,
+      "name": "Sp\u00e1ry",
+      "url": "https://open.spotify.com/track/3Dd9hh9NxGhXN5uHuhDhqZ"
+    },
+    {
+      "album": {
         "name": "S \u00dactou",
         "url": "https://open.spotify.com/album/50OkoSv5gSYapwOsAspmus"
       },
@@ -26646,7 +26762,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -26664,7 +26780,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -27516,7 +27632,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -27534,7 +27650,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -27574,7 +27690,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -28044,7 +28160,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -28080,7 +28196,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -29016,7 +29132,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 231193,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"

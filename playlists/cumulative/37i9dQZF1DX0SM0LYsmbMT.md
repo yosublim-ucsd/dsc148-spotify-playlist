@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,254 songs - 6 day 18 hr 20 min
+4,255 songs - 6 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1419,6 +1419,7 @@
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Good Morning](https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n) | 2:13 | 2023-01-19 | 2023-04-21 |
 | [Good Morning](https://open.spotify.com/track/6kC8ai0O06mARQHn8dcGDc) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Good Morning](https://open.spotify.com/album/4AhOqkfz5NzF1X5rKUgNKr) | 2:45 | 2021-05-14 | 2021-07-02 |
+| [Good Old Times](https://open.spotify.com/track/1FFCmXqLs53T06swpsJJYo) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Good Old Times](https://open.spotify.com/album/5jOArFuP1WIUfe86ofZvaS) | 1:54 | 2024-10-10 |  |
 | [Good Only Knows](https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Good Only Knows](https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV) | 2:03 | 2024-05-30 |  |
 | [Good Times](https://open.spotify.com/track/0RL6hEYE3Hz3l6kne5WrII) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Raw Collective](https://open.spotify.com/artist/1yB33Zc5paP6MeBlMK6HS0) | [Good Times](https://open.spotify.com/album/7xrlLTq1IbnBQyADQHqsY2) | 2:24 | 2020-11-20 | 2021-06-04 |
 | [Good Times](https://open.spotify.com/track/70JPgmdrLkDJrWBC8wObP6) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Good Times](https://open.spotify.com/album/0FKmShXueFJVKLVuIbtoba) | 2:25 | 2020-10-03 | 2021-03-14 |
@@ -1584,7 +1585,7 @@
 | [Homesick](https://open.spotify.com/track/07PnRpdo0I4sEKahf0Os8l) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Homesick](https://open.spotify.com/album/2nZoK7IgGB5D85Fm3encZL) | 2:21 | 2019-12-20 | 2020-04-24 |
 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 | 2023-03-09 | 2023-04-14 |
 | [Honda Date](https://open.spotify.com/track/3rEqUbhLnATGr4zA1dKYwp) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Honda Date](https://open.spotify.com/album/73B72PGDCHP2h8q9NRylPV) | 2:07 | 2022-03-17 | 2022-05-12 |
-| [Honda Jazz](https://open.spotify.com/track/6C84Tfxcg6dIDmUo9EauVh) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Honda Jazz](https://open.spotify.com/album/7JDQnUoKim03g1e8OhJpLK) | 1:19 | 2024-10-10 |  |
+| [Honda Jazz](https://open.spotify.com/track/6C84Tfxcg6dIDmUo9EauVh) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Honda Jazz](https://open.spotify.com/album/7JDQnUoKim03g1e8OhJpLK) | 1:19 | 2024-10-10 | 2024-10-12 |
 | [Honey](https://open.spotify.com/track/2sKOR97teUvnFpiG3HE08D) | [mowtif](https://open.spotify.com/artist/5eY6Vl9jYEjpH5ZeKne0ZT), [Andrea Stefano](https://open.spotify.com/artist/7hyroNuGeG9kBa5aQVJVzL) | [Life From The Stu'](https://open.spotify.com/album/5RzAcEUVo9UIc32BQkelCv) | 3:21 | 2020-08-08 | 2021-02-12 |
 | [Honey](https://open.spotify.com/track/10y6ACyIT28QCEWoJJfQrl) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Washed Away](https://open.spotify.com/album/38aJHJuwRI12tW7rJdWJXG) | 1:58 | 2021-07-27 | 2021-09-17 |
 | [Honey](https://open.spotify.com/track/3J5TOfdapr7qhtHBTVyVkv) | [V.Raeter](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ), [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Honey](https://open.spotify.com/album/5i6E5I06eaXT4zZ6qsFckK) | 2:28 | 2021-12-12 | 2021-12-26 |

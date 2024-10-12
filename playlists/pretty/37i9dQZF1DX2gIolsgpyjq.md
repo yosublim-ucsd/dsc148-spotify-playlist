@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: DJ Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,544 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,552 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [codepending](https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [codepending](https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna) | 3:14 |
 | 100 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 |
 
-Snapshot ID: `ZwhOYAAAAACWS+Tb/13KWdJEVs6ejNCm`
+Snapshot ID: `ZwhOYAAAAAD17CnT2rsGfY/pGnYbr6Fr`

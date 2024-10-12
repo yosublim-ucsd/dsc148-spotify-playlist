@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6247,
+  "num_followers": 6249,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAADt2wKSjw8DXISUuFL0XVkZ",
+  "snapshot_id": "ZwcZAAAAAADvUInTGi4NRYPKCVI0TAEJ",
   "tracks": [
     {
       "added_at": null,
@@ -771,30 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Over Hills",
-        "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
       "artists": [
         {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "The Kabal",
-          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 154529,
-      "name": "Mad Over Hills",
-      "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -819,22 +811,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+        "name": "Mad Over Hills",
+        "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
       "artists": [
         {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "The Kabal",
+          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+      "duration_ms": 154529,
+      "name": "Mad Over Hills",
+      "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
     },
     {
       "added_at": null,

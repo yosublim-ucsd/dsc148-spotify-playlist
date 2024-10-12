@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Parlez moi d'amour](https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Midnight in Paris \- French Classics](https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0) | 2:55 |
 | 85 | [La chanson de Prévert](https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'Etonnant Serge Gainsbourg](https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T) | 2:59 |
 
-Snapshot ID: `ZqSeBAAAAABXytyHK8Gw/HEyiU9XiiJy`
+Snapshot ID: `ZqSeBAAAAACTu7SLIRvzPk4N8Q4EfQWm`

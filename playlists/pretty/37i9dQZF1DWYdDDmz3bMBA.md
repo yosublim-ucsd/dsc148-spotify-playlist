@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313 likes - 25 songs - 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,790 likes - 25 songs - 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 24 | [Botox & Filler: Right or Wrong?](https://open.spotify.com/episode/5V5CBuXgxgdVpYaDrrpvaO) | [Sounds Like A Cult](https://open.spotify.com/show/0podj5AKLOFvJAS1raltmw) | [Sounds Like A Cult](https://open.spotify.com/album/0podj5AKLOFvJAS1raltmw) | 49:17 |
 | 25 | [Are NBA Fans Too Eager To "Blow It Up"?](https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 52:11 |
 
-Snapshot ID: `Zv6+BwAAAAAtIUHYN9HRId9biiYvCrL5`
+Snapshot ID: `Zv6+BwAAAADcgCE5T+/I0Ohix5QgPd+f`

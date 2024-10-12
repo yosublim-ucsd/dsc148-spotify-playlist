@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-124 songs - 6 hr 29 min
+125 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 | 2024-09-03 |  |
 | [Badmashi](https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Badmashi](https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM) | 3:19 | 2023-03-18 |  |
 | [Badmashi](https://open.spotify.com/track/17Y6SPjudPpRrZNcZCheeY) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Badmashi](https://open.spotify.com/album/7hRhubP59NtYPYTVqQM9uG) | 2:01 | 2024-09-09 |  |
+| [Bajre Da Sita](https://open.spotify.com/track/3eTu6nWvilfwbFDtH1F7eH) | [Khyati Sharma](https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Bajre Da Sita](https://open.spotify.com/album/0h4Dv5YVxWQFD3PYxQXkal) | 2:29 | 2024-10-11 |  |
 | [Be Aware](https://open.spotify.com/track/1QsojV2MruriPEFHh249kF) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/59APTUJ5kzD9oqOGAaHlSR) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Be Aware \(feat\. Kaater\)](https://open.spotify.com/track/63y0bDChOJ5rSd7PsxvTun) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:08 | 2023-03-18 | 2024-09-06 |
 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 | 2024-10-10 |  |
@@ -52,7 +53,7 @@
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2023-03-18 |  |
 | [Ik Munda](https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI), [Parneet Kaur](https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd) | [Ik Munda](https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd) | 3:31 | 2024-09-02 |  |
 | [In Love](https://open.spotify.com/track/2m7RdjSUzqVDfS5wSf2Ckq) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [In Love](https://open.spotify.com/album/1jh9RQ2RaDa8YUyKveMeke) | 2:58 | 2024-09-18 |  |
-| [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 |  |
+| [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 | 2024-10-12 |
 | [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 | 2024-09-21 |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 | 2024-09-14 |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |

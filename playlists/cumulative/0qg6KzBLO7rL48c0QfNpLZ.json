@@ -2801,6 +2801,32 @@
     },
     {
       "album": {
+        "name": "Coming Over",
+        "url": "https://open.spotify.com/album/37vsEXYYPaKD0qczQGfUXF"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        },
+        {
+          "name": "Jethro",
+          "url": "https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163642,
+      "name": "Coming Over",
+      "url": "https://open.spotify.com/track/0HcG8yZiw7loDmAVT3oUSN"
+    },
+    {
+      "album": {
         "name": "Talking Dreams - Deluxe Edition",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -3280,6 +3306,28 @@
       "duration_ms": 165365,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/5rcAOianEEgI0FDFwqOLxU"
+      },
+      "artists": [
+        {
+          "name": "John Skyfield",
+          "url": "https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp"
+        },
+        {
+          "name": "Room 333",
+          "url": "https://open.spotify.com/artist/4ScN27DS9DWc3bJREIWVoB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142955,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2Bt6tHmXB5JHJjG7mMZIt9"
     },
     {
       "album": {
@@ -3942,7 +3990,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M"
@@ -4778,6 +4826,28 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/4Xu4oVTnwn4pzEu1o3Lilm"
+      },
+      "artists": [
+        {
+          "name": "LUKUS",
+          "url": "https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi"
+        },
+        {
+          "name": "FN Chill",
+          "url": "https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155478,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0HTHr6OP4UXl9k7xA006mE"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/4sb0QNMufj4ZyRJZnsuwtw"
       },
       "artists": [
@@ -5552,6 +5622,28 @@
       "duration_ms": 126982,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/347z1KBX5APmqm8UBaTti4"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/19V9spxcU6OOzdqQq63q0F"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Jessi G",
+          "url": "https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115573,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/55WP69Nc3TLamqr4laTPjK"
     },
     {
       "album": {
@@ -11027,6 +11119,32 @@
     },
     {
       "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/54bi9wUX9UR19v6b3tLYhi"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/7oIOijXjeWBBqbuEB0yp06"
+    },
+    {
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5k722C0FunB4YlNtz1m8c3"
       },
@@ -11232,7 +11350,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -12745,6 +12863,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/1PRCO6wRoGDqbmhTUzWawM"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND"
+    },
+    {
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/762YlWavBCiEq2ogwVYztC"
       },
@@ -13078,6 +13214,28 @@
       "duration_ms": 152000,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/5K1TYB2NvGDJ0aWabAXlzc"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1w5JEnU6s8LGUdQP3hh5aI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        },
+        {
+          "name": "sleepy dude",
+          "url": "https://open.spotify.com/artist/3IIgBMK6g6AltNT8iPPJsI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5"
     },
     {
       "album": {
@@ -14162,6 +14320,24 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "album": {
+        "name": "Waves Of Love",
+        "url": "https://open.spotify.com/album/6mef2j88XNSjsBLYr3zt5y"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129591,
+      "name": "Waves Of Love",
+      "url": "https://open.spotify.com/track/2SmmeqdB7uwfimshgLYKqC"
     },
     {
       "album": {

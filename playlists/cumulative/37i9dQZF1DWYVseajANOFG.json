@@ -859,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/7x1dXZX20dTJZuGPShXW4o"
+      },
+      "artists": [
+        {
+          "name": "Meldo",
+          "url": "https://open.spotify.com/artist/2WKB0zZwYLkbbAftnceiEA"
+        },
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172830,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/6FVOY6GSHXB3XlY3AIfMXf"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln"
       },
@@ -1418,7 +1440,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 150577,
       "name": "Cuarentena",
       "url": "https://open.spotify.com/track/5xISuVLHn3eobzZUsyzIDZ"
@@ -1568,6 +1590,24 @@
       "duration_ms": 211802,
       "name": "Dame Break",
       "url": "https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc"
+    },
+    {
+      "album": {
+        "name": "DE PARTY X TI",
+        "url": "https://open.spotify.com/album/0MlQNRFhEfOehAbLu7ao3N"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "DE PARTY X TI",
+      "url": "https://open.spotify.com/track/72acHoAGS9ffGIVPdabc9H"
     },
     {
       "album": {
@@ -2150,7 +2190,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204435,
       "name": "Errores",
       "url": "https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv"
@@ -2330,7 +2370,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 168445,
       "name": "Fans",
       "url": "https://open.spotify.com/track/16QsGYythDEi35Pr2I7uLC"
@@ -3440,7 +3480,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
@@ -4307,6 +4347,28 @@
     },
     {
       "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5TFzkkoiTkBzVXYGwzytNB"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Monthy",
+          "url": "https://open.spotify.com/artist/305jSmqgkIaovQoBCcATWl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158234,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/7cRs7IIWuhDoMHwN8lzSr7"
+    },
+    {
+      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -4754,6 +4816,44 @@
       "duration_ms": 170875,
       "name": "No Me Callo (Remix)",
       "url": "https://open.spotify.com/track/6BsQw4JnCzZITTi5GDtGAy"
+    },
+    {
+      "album": {
+        "name": "No Me Llore",
+        "url": "https://open.spotify.com/album/4sQzfeWk8NxrnfsnAEufhF"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Bin$ho",
+          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
+        },
+        {
+          "name": "Alexito OTB",
+          "url": "https://open.spotify.com/artist/401ecmR8ImKSXueRLk9MwT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286530,
+      "name": "No Me Llore",
+      "url": "https://open.spotify.com/track/6wVwNV3dm999v7XTeINoAE"
     },
     {
       "album": {
@@ -7599,6 +7699,40 @@
     },
     {
       "album": {
+        "name": "Tus Demonios",
+        "url": "https://open.spotify.com/album/3mYAT2n6mEDuNi80D2q5Jm"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Roazter",
+          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321882,
+      "name": "Tus Demonios",
+      "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"
+    },
+    {
+      "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x"
       },
@@ -7772,7 +7906,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 198506,
       "name": "Un Like",
       "url": "https://open.spotify.com/track/348J6PE2ZgHpE7dFQj9aQc"

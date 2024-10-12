@@ -1,13 +1,53 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 272502,
+  "num_followers": 272501,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAACl9XOcrvByYZs4hsGyUv8b",
+  "snapshot_id": "ZwiiwAAAAAA1IMbURA4IMu3MPeVGWZQd",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "No Genius",
+        "url": "https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5"
+      },
+      "artists": [
+        {
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
+        },
+        {
+          "name": "Rahim Redcar",
+          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "No Genius",
+      "url": "https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -23,6 +63,22 @@
       "duration_ms": 204678,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -93,6 +149,22 @@
       "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Scantily Clad",
+        "url": "https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Scantily Clad",
+      "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "For Your Consideration (Deluxe)",
@@ -107,6 +179,22 @@
       "duration_ms": 139000,
       "name": "Loud",
       "url": "https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI"
+      },
+      "artists": [
+        {
+          "name": "Somewhere Special",
+          "url": "https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -195,22 +283,6 @@
       "duration_ms": 234883,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/3kllpCSz33i8TKTAdARRFz"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Blazing",
-        "url": "https://open.spotify.com/album/4p9944B6u6mcLY5E5z6Usp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Saint",
-          "url": "https://open.spotify.com/artist/21SbAgLQ2SteuYiKXTBDns"
-        }
-      ],
-      "duration_ms": 194432,
-      "name": "Blazing",
-      "url": "https://open.spotify.com/track/6HenhbQgTiRmpF3Ha7UKAz"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -475,26 +547,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Stuff I Don't Need",
-        "url": "https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe"
-      },
-      "artists": [
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Stuff I Don't Need",
-      "url": "https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/19TjD0BJcRrNMMoIbPwyto"
       },
@@ -695,22 +747,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Beep Beep Repeat",
-        "url": "https://open.spotify.com/album/5UpFCX4FXDQ6WhKIVRYBVY"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 119400,
-      "name": "I Love To Dance",
-      "url": "https://open.spotify.com/track/3IbT4cFEQYLz1P9MFnRmYu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -771,22 +807,6 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "A Pretty Fucking Cool EP",
-        "url": "https://open.spotify.com/album/2qQVcpL4zqbuU7H54DomDT"
-      },
-      "artists": [
-        {
-          "name": "MaKenzie",
-          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
-        }
-      ],
-      "duration_ms": 195221,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/2skcRwQ3LnHovesawqOO89"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1407,22 +1427,6 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Treat Me Right",
-        "url": "https://open.spotify.com/album/03hafzXxELqD67fD1siVhS"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Treat Me Right",
-      "url": "https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6"
     }
   ],
   "unique_name": "night pop",

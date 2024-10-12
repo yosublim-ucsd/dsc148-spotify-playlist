@@ -1,12 +1,12 @@
 {
   "description": "\u8611\u83c7\u6fc3\u6e6f\u4f86\u4e86\uff01\u5feb\u9ede\u5feb\u9ede\u5feb\u9ede\u5466\uff01\u548c\u5bf6\u8c9d\u4e00\u8d77\u5feb\u6a02\u5531\u5531\u8df3\u8df3\u5427\uff01",
-  "num_followers": 7846,
+  "num_followers": 7861,
   "original_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuxmSAAAAADRJzugf6sjZ4m4WqcsrxUM",
+  "snapshot_id": "ZuxmSAAAAACaHqUd+AuGaTxjckcSFgB4",
   "tracks": [
     {
       "added_at": "2024-09-19 17:58:32",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-09-19 17:58:32",
       "album": {
-        "name": "\u611b\u4f60\u611b\u6211",
-        "url": "https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1"
+        "name": "\u5bf6\u8c9d \u6211\u7684\u5bb6",
+        "url": "https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw"
         }
       ],
-      "duration_ms": 179200,
-      "name": "\u96de\u86cb\u6416\u6efe\u6a02",
-      "url": "https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz"
+      "duration_ms": 170493,
+      "name": "\u62cd\u62cd\u624b",
+      "url": "https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM"
     },
     {
       "added_at": "2024-09-19 17:58:32",
@@ -567,8 +567,8 @@
     {
       "added_at": "2024-09-19 17:58:32",
       "album": {
-        "name": "\u5bf6\u8c9d \u6211\u7684\u5bb6",
-        "url": "https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR"
+        "name": "\u611b\u4f60\u611b\u6211",
+        "url": "https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw"
         }
       ],
-      "duration_ms": 170493,
-      "name": "\u62cd\u62cd\u624b",
-      "url": "https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM"
+      "duration_ms": 179200,
+      "name": "\u96de\u86cb\u6416\u6efe\u6a02",
+      "url": "https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz"
     },
     {
       "added_at": "2024-09-19 17:58:32",

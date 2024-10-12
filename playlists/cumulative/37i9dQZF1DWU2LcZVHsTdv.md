@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-255 songs - 15 hr 34 min
+256 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Better Days](https://open.spotify.com/track/0WEHSfymu7ryky59E22bJz) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Better Days](https://open.spotify.com/album/70umCWqlsQuPj6FycKZLFg) | 2:48 | 2021-12-10 |  |
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-12-10 |  |
 | [Big Prayers](https://open.spotify.com/track/0bZRv3Vh13qKj6E2OpNDwV) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Big Prayers](https://open.spotify.com/album/4AOd6TGN4Rqx3E1ZvgBtMF) | 3:27 | 2023-04-07 |  |
-| [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-20 |  |
+| [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-20 | 2024-10-12 |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8) | 3:49 | 2022-08-01 | 2024-04-19 |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 |  |
 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 | 2021-12-10 |  |
@@ -38,7 +38,7 @@
 | [Can I See My Dog?](https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Can I See My Dog?](https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM) | 3:15 | 2023-01-06 |  |
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-12-10 |  |
 | [Carry Me \(feat\. Switchfoot\)](https://open.spotify.com/track/2hDgOchSSSELBtW9IPQ4GW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/album/3amWVVXhWGGVIprSg6CkEY) | 3:40 | 2021-12-10 |  |
-| [Chain Breaker](https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/5otw1Dx92TaJdItLOQ2TTj) | 3:15 | 2021-12-10 |  |
+| [Chain Breaker](https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/5otw1Dx92TaJdItLOQ2TTj) | 3:15 | 2021-12-10 | 2024-10-12 |
 | [Chain Breaker](https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:16 | 2022-07-15 | 2024-04-19 |
 | [Changed](https://open.spotify.com/track/2okSGgTW6hfriJ00RS4q98) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Changed](https://open.spotify.com/album/6zMFzSb5pvRzOSoSj3AMBJ) | 3:37 | 2024-02-09 |  |
 | [Changed](https://open.spotify.com/track/7HjyNZNvFn57Hday6qieCH) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Sunday Gospel Brunch](https://open.spotify.com/album/0d4xUCzYQRGFi1FmhJ2MEL) | 4:21 | 2022-11-04 | 2022-11-13 |
@@ -67,6 +67,7 @@
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 | 2022-07-15 |  |
 | [Forever Home \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:27 | 2021-12-10 |  |
+| [Friend in High Places](https://open.spotify.com/track/4igavBpduLQqg7GviGAyEe) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Friend in High Places](https://open.spotify.com/album/02TKrtw9EhjijCjcXt6qEJ) | 3:22 | 2024-10-11 |  |
 | [Go Rest High On That Mountain](https://open.spotify.com/track/2JP2H4Hj0imQxqw4ce4UWQ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Take Me Home: Covers](https://open.spotify.com/album/2ATLhcb3X7xYULIgTZbqfo) | 3:43 | 2024-02-09 |  |
 | [God & Country](https://open.spotify.com/track/7LJuvRQRJOyTAxBKk6xJbG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God & Country](https://open.spotify.com/album/0hsCH0eDI9mq7wcuyWRqIU) | 3:19 | 2024-04-19 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-10-20 |  |

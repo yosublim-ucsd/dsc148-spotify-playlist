@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:4UH11YIdiHkl8rCyRdSR0P">Lucy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,787 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,785 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ypsilon](https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM) | [Doansai](https://open.spotify.com/artist/5G1PslLmI7j8q46A7re4tM) | [Ypsilon](https://open.spotify.com/album/5KbBQK3LjqthXlyDsVCXAr) | 3:43 |
 | 50 | [Sulla cresta dell'ombra](https://open.spotify.com/track/3hC8q6SN1WvHQVMAVNTXjt) | [Melli](https://open.spotify.com/artist/37BpthbBCQS5I9Btu6hZqR) | [Sulla cresta dell'ombra](https://open.spotify.com/album/40ix8YGqLjWXpmGs6XS9QN) | 2:36 |
 
-Snapshot ID: `ZsXCIAAAAAC3q6lVDkn6MKIcqYCYpI3p`
+Snapshot ID: `ZsXCIAAAAABktlWWWakjXM5TQ3TJpLgB`

@@ -2,9 +2,9 @@
 
 ### [Fusion Finds](https://open.spotify.com/playlist/37i9dQZF1DX5P7I5ymjBC0)
 
-> Fusion music for the soul\.  Cover\- Sona Mohapatra
+> Fusion music for the soul\.  Cover\- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers
 
-135 songs - 11 hr 32 min
+136 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Bachpan Ki Galiyan](https://open.spotify.com/track/4a4r7j3ZUCEup1EwgT7rm2) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:34 | 2023-08-24 | 2023-09-12 |
 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 | 2023-05-11 | 2023-06-19 |
 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 | 2023-05-11 | 2024-06-17 |
+| [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 | 2024-10-11 |  |
 | [Bending the Rules](https://open.spotify.com/track/5vatektse7X51NxS0g5Y32) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Selvaganesh Vinayakram](https://open.spotify.com/artist/3zaDf0SFrXRErPR9pQUtup), [Ganesh Rajagopalan](https://open.spotify.com/artist/5KyY7vbel5AZeTCe7sH2tM) | [This Moment](https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI) | 7:11 | 2024-02-01 | 2024-08-10 |
 | [Bewajah \- Coke Studio Season 8](https://open.spotify.com/track/3EzqUvtr993ok47KHLveON) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Bewajah \(Coke Studio Season 8\)](https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI) | 5:52 | 2024-08-09 |  |
 | [Bhagirathi](https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ambi Subramaniam](https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 4:13 | 2023-05-11 | 2024-02-17 |
-| [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
+| [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 | 2024-10-12 |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-05-11 |  |
 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 | 2024-08-09 |  |
 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 | 2023-05-11 |  |

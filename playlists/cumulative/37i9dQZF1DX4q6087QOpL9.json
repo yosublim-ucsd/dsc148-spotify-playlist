@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 544146,
       "name": "It's Alright (Felix Dickinson Remix)",
       "url": "https://open.spotify.com/track/2VhsxUaKEWxM7rD1ZaB3gB"
@@ -4560,6 +4560,32 @@
       "duration_ms": 453386,
       "name": "Outta Love - Alix Alvarez Sole Channel Remix",
       "url": "https://open.spotify.com/track/4sUdysO4MnWWwWhc72xOhv"
+    },
+    {
+      "album": {
+        "name": "Playground - Groove Assassin Remix",
+        "url": "https://open.spotify.com/album/03ZJEUyecCE4P9VyAnW3B7"
+      },
+      "artists": [
+        {
+          "name": "Peacey",
+          "url": "https://open.spotify.com/artist/1fFZyKjSlcFb6JhhVwLZGo"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Groove Assassin",
+          "url": "https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368780,
+      "name": "Playground - Groove Assassin Remix",
+      "url": "https://open.spotify.com/track/2DcwtxmTJuYe83NIjLOrjz"
     },
     {
       "album": {

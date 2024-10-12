@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Bagas Ran
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,772 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,797 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 |
 | 100 | [Baik Adanya](https://open.spotify.com/track/4VByqnUukW7PbNcsNt9R9A) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Baik Adanya](https://open.spotify.com/album/4Io9u4BIIsnDofyihVIZnF) | 3:20 |
 
-Snapshot ID: `ZwgIEAAAAABtKQhDPn97bpesopIIu9vg`
+Snapshot ID: `ZwgIEAAAAABGYF+nvz8um6k7vfwiWrLT`

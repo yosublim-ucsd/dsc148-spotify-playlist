@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -9785,6 +9785,32 @@
     },
     {
       "album": {
+        "name": "\u0160irdis",
+        "url": "https://open.spotify.com/album/2Rj96lJemk50CFHf7azksI"
+      },
+      "artists": [
+        {
+          "name": "Rokas Yan",
+          "url": "https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs"
+        },
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+        },
+        {
+          "name": "Vaidas Baumila",
+          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Gegu\u017eis",
+      "url": "https://open.spotify.com/track/46GIpYTmWhr5MEiwE02pYL"
+    },
+    {
+      "album": {
         "name": "Gegu\u017eis",
         "url": "https://open.spotify.com/album/1ZdznPJ51xk3GE9V92kXIu"
       },
@@ -9804,7 +9830,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155000,
       "name": "Gegu\u017eis",
       "url": "https://open.spotify.com/track/5AhgANntiBospadlrAKcxz"
@@ -19496,7 +19522,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 156521,
       "name": "NBA",
       "url": "https://open.spotify.com/track/231tKrviTP9K4vl0Gqa0QN"
@@ -22508,7 +22534,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -25449,6 +25475,24 @@
     },
     {
       "album": {
+        "name": "\u0160irdis",
+        "url": "https://open.spotify.com/album/2Rj96lJemk50CFHf7azksI"
+      },
+      "artists": [
+        {
+          "name": "Rokas Yan",
+          "url": "https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160767,
+      "name": "Seniai Seniai",
+      "url": "https://open.spotify.com/track/2b7fifOlRxngkV3rwdqv7y"
+    },
+    {
+      "album": {
         "name": "Seniai Seniai",
         "url": "https://open.spotify.com/album/0kQXtuXkLG5KWVMPE1TNgV"
       },
@@ -25460,7 +25504,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161000,
       "name": "Seniai Seniai",
       "url": "https://open.spotify.com/track/2CCTtCCbVv3SjJwaTF31LA"
@@ -27994,7 +28038,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -28012,7 +28056,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -30000,7 +30044,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -30054,7 +30098,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -31660,7 +31704,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 173261,
       "name": "Viskas K\u0105 Turiu",
       "url": "https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq"

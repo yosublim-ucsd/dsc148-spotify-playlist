@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain]
 | 49 | [LOCO](https://open.spotify.com/track/5FGzol67m5qVoE7iPutMab) | [Tinze](https://open.spotify.com/artist/4qJvgIwFCBKz0kTfi2B0S9), [Slani](https://open.spotify.com/artist/10IOGgDlKbNWPitsbWSfU4) | [LOCO](https://open.spotify.com/album/05nQdAcxeoojb9i0Vp3t5N) | 2:17 |
 | 50 | [Amorin nuolia](https://open.spotify.com/track/0Tt4HlIiftL0zR0Q1Sw6mj) | [Helmi Valkee](https://open.spotify.com/artist/54lgsfFqW1bD0fLbdszhlm) | [Purkka](https://open.spotify.com/album/7HrVLl0LWxCzGPaXTBxKoi) | 2:40 |
 
-Snapshot ID: `ZdzLTQAAAACip7xRoCDR8npoepQOh1No`
+Snapshot ID: `ZdzLTQAAAAAlV3WIklAA49vZl8+L+oNc`

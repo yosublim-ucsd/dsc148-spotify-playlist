@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Sabrina Carpenter
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,505 likes - 87 songs - 4 hr 32 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,512 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

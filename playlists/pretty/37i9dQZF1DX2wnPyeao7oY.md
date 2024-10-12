@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Stray View \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,194 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,329 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 79 | [Family](https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Family](https://open.spotify.com/album/4P1v9rqKPHcXm6M2meMugW) | 3:25 |
 | 80 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 |
 
-Snapshot ID: `ZwX/wAAAAAAQxxeMgwqBaYiP8bva6QvT`
+Snapshot ID: `ZwX/wAAAAACCHq4L3CM8faSTa5gVu3KA`

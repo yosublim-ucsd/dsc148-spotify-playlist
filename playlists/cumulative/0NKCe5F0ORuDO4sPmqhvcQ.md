@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-642 songs - 1 day 12 hr 4 min
+644 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Desire](https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Desire](https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ) | 4:53 | 2022-06-23 |  |
 | [Desire](https://open.spotify.com/track/4nVU75orKPTzRsKWFE9Fh1) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:53 | 2022-07-21 | 2022-07-23 |
 | [Devotion](https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:51 | 2022-07-21 | 2023-01-30 |
+| [Different Way](https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Different Way](https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S) | 3:16 | 2024-10-11 |  |
 | [Distant Lands](https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Labyrinth of the Subconscious](https://open.spotify.com/album/0Hj5xbQWBeWOMwoOqsqk4F) | 3:33 | 2022-02-11 | 2022-03-10 |
 | [Do It Again](https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy) | [Frison](https://open.spotify.com/artist/6rdBjC3pWmC5dKZkqgUOrP), [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [Daydream](https://open.spotify.com/album/6qVMdlnLSvSZr9o8WK4uN9) | 3:05 | 2022-07-24 | 2024-03-23 |
 | [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 | 2022-08-19 | 2023-01-30 |
@@ -333,6 +334,7 @@
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-21 | 2022-02-16 |
 | [Lights Out](https://open.spotify.com/track/6rwhrp7xkm8xTSZOBwIyyv) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [Lights Out](https://open.spotify.com/album/0duIqbe3fyPBpDFDMr2zMv) | 2:06 | 2022-06-24 | 2023-07-20 |
 | [Like A Boulder](https://open.spotify.com/track/5nXj09XZiJCvuw973BVD3q) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Road To Grapeness](https://open.spotify.com/album/4uSVMn4SUFy1Jns7A9cJbS) | 2:24 | 2021-11-19 | 2022-01-08 |
+| [Like I Said \- CHROMEBODIED](https://open.spotify.com/track/2ckXnHXoecAhSgmLWP4mNP) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [Like I Said \(CHROMEBODIED\)](https://open.spotify.com/album/7nkDEtlQncBRQLfa8aXqnn) | 5:04 | 2024-10-11 |  |
 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 | 2022-10-09 | 2023-01-20 |
 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 | 2022-07-15 | 2022-11-23 |
 | [Liminal Spaces](https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:52 | 2022-07-21 | 2022-07-23 |

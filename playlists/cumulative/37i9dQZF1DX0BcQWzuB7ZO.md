@@ -2,7 +2,7 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with nimino
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Sonny Fodera, D.O.D and Jazzy
 
 412 songs - 21 hr 39 min
 

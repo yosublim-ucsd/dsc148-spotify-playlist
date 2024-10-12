@@ -4,7 +4,7 @@
 
 > Creators you need to have on your RADAR: Big Small Talk, Relatables, Far East Confessions and I'm Wigging Out.
 
-82 songs - 2 day 23 hr 6 min
+85 songs - 3 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,8 @@
 | [everyone's favourite english teacher](https://open.spotify.com/episode/7Lhs4uGwpLF7hM9AdcB6V3) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | 39:10 | 2022-06-27 | 2023-01-20 |
 | [Fall of a Midwest Princess, SA Abortion Ban & Menendez Brothers](https://open.spotify.com/episode/6NHloIKgUoLBHexutJ59PC) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 49:20 | 2024-10-10 |  |
 | [HANNAH FERGUSON P1: "You're The Lightning Rod For Sexism In Australia"](https://open.spotify.com/episode/0tFdUehZicRNVmDgvvEd99) | [It's A Lot with Abbie Chatfield](https://open.spotify.com/show/3OG5SmzCHgJZKLcammfJ1K) | [It's A Lot with Abbie Chatfield](https://open.spotify.com/album/3OG5SmzCHgJZKLcammfJ1K) | 40:16 | 2024-04-30 | 2024-06-05 |
+| [HOW TO FIGHT IN A RELATIONSHIP!!](https://open.spotify.com/episode/5KhknYnSG6K97q5zpts9Zk) | [Relatables ](https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk) | [Relatables ](https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk) | 32:55 | 2024-10-11 |  |
+| [HOW TO TELL A BOY YOU LIKE HIM!!](https://open.spotify.com/episode/1UxgYUSgSdIsnIvtqUMFkh) | [Relatables ](https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk) | [Relatables ](https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk) | 33:32 | 2024-10-11 |  |
 | [Imagine Just Existing](https://open.spotify.com/episode/0fBfhrFbiQnNtYiq991Znb) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 58:56 | 2023-10-04 | 2024-05-01 |
 | [Kate Middleton Diagnosis, Quiet on Set & HECS](https://open.spotify.com/episode/7wrfU215ND17R9sF3s5qZ1) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 54:09 | 2024-04-30 | 2024-06-05 |
 | [Lehrmann Loses, Bondi Killings & OJ Simpson Dies](https://open.spotify.com/episode/3MLlwjL9gqbjeX2OEev3rw) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 1:02:22 | 2024-04-30 | 2024-06-05 |
@@ -74,6 +76,7 @@
 | [Presidential Debate, The VMA's & Barry Keoghan](https://open.spotify.com/episode/6DVeoc9AOH73UckV1TnaTX) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:51 | 2024-10-10 |  |
 | [Seeing Red](https://open.spotify.com/episode/181XSHpJNnwIvOqesGZBKr) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | 43:01 | 2022-06-27 | 2023-01-20 |
 | [SOS! I Haven't Had Sex Since My Ex](https://open.spotify.com/episode/10AcCyIQR45uh2zwhI3U6g) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 25:34 | 2024-08-31 |  |
+| [STIMULATED: REDFLAG GREENFLAG](https://open.spotify.com/episode/37oga6sbpZ0d9EGhxV2p9r) | [Relatables ](https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk) | [Relatables ](https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk) | 22:37 | 2024-10-11 |  |
 | [Talking shit, like, literally.](https://open.spotify.com/episode/5WdU6BofTfpvf0GcKN5SqX) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 40:50 | 2023-10-04 | 2024-05-01 |
 | [That's An Expensive Full Moon](https://open.spotify.com/episode/3Lxoox5y0YCKCblgkNErUH) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 56:26 | 2023-10-04 | 2024-05-01 |
 | [THE BARE MINIMUM FOR MEN](https://open.spotify.com/episode/5UHVwpDejnD0sbs2n9ior6) | [Relatables ](https://open.spotify.com/show/7sZzcHWtrtlmdry3b2B0Uk) | [Relatables ](https://open.spotify.com/album/7sZzcHWtrtlmdry3b2B0Uk) | 35:49 | 2024-06-04 | 2024-07-01 |

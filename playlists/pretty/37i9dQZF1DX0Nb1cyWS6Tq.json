@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 824350,
+  "num_followers": 824728,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsO0hAAAAABn07TN+i/ynVudec3fvBwC",
+  "snapshot_id": "ZsO0hAAAAAChbNSs+9UnVHqa+S1Ap7LD",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Wolfheart",
-        "url": "https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7"
-      },
-      "artists": [
-        {
-          "name": "Moonspell",
-          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
-        }
-      ],
-      "duration_ms": 335893,
-      "name": "Vampiria",
-      "url": "https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "It Will Come to You",
         "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 216750,
       "name": "Face Meets Glass",
       "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Wolfheart",
+        "url": "https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "duration_ms": 335893,
+      "name": "Vampiria",
+      "url": "https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
     },
     {
-      "added_at": "2022-08-09 01:37:48",
-      "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Muscoviet Mosquito",
-      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Starfish",
@@ -1047,6 +1031,22 @@
       "duration_ms": 289173,
       "name": "North, South, East and West",
       "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
+    },
+    {
+      "added_at": "2022-08-09 01:37:48",
+      "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Muscoviet Mosquito",
+      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
     },
     {
       "added_at": "2021-10-15 04:04:50",

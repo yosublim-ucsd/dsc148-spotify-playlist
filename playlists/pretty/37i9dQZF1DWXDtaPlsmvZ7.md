@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,600 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,628 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 57 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
 | 58 | [Simplemente Amigos \- Electrocumbia Remix](https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU) | [BXS](https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO) | [Simplemente Amigos](https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM) | 3:44 |
 | 59 | [Con Calma](https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Con Calma](https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre) | 3:05 |
-| 60 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
-| 61 | [No Pares Hasta Tener lo Suficiente \- Don't Stop 'til You Get Enough](https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 2:54 |
-| 62 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
-| 63 | [La Chica De Humo](https://open.spotify.com/track/34PGaH3Ps2I3Tp3nAIOEGG) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Pura Sabrosura](https://open.spotify.com/album/7pYXOhusm68rW81SdYuekC) | 4:05 |
-| 64 | [Amnesia](https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Amnesia](https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5) | 4:52 |
+| 60 | [Amnesia](https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Amnesia](https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5) | 4:52 |
+| 61 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
+| 62 | [No Pares Hasta Tener lo Suficiente \- Don't Stop 'til You Get Enough](https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 2:54 |
+| 63 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
+| 64 | [La Chica De Humo](https://open.spotify.com/track/34PGaH3Ps2I3Tp3nAIOEGG) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Pura Sabrosura](https://open.spotify.com/album/7pYXOhusm68rW81SdYuekC) | 4:05 |
 | 65 | [Mil Horas](https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj) | 3:45 |
 | 66 | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs) | 2:36 |
-| 67 | [Me Rehúso](https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:07 |
-| 68 | [Otro Muerde el Polvo \- Another One Bites the Dust](https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 3:32 |
+| 67 | [Otro Muerde el Polvo \- Another One Bites the Dust](https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 3:32 |
+| 68 | [Me Rehúso](https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:07 |
 | 69 | [Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta](https://open.spotify.com/track/47siYyTMuaUswYaxHeA7Jg) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta](https://open.spotify.com/album/61Q9YdMwrcG4HumInagTys) | 4:32 |
 | 70 | [Escapate Conmigo](https://open.spotify.com/track/0J3QMzqYv4RgaJ5KuJwNvh) | [Cumbias Para Bailar](https://open.spotify.com/artist/3RG133b54fN5qW6soMSN0Q) | [Escapate Conmigo](https://open.spotify.com/album/0NkYH6Y00QR1Cds5nRZIHZ) | 2:19 |
 | 71 | [Insoportablemente Bella](https://open.spotify.com/track/2QebKAsE19YlK3AIMw0wHQ) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/5YBjf5sQcHafLtAeTKLizv) | 4:09 |
 | 72 | [Ya No Tiene Novio](https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o) | [Ya No Tiene Novio](https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp) | 3:00 |
 | 73 | [Te Hubieras Ido Antes](https://open.spotify.com/track/4O1oayNY92BuYHpG8RObhl) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Huguito Flores: Sin Miedo Session \#31](https://open.spotify.com/album/2U4Y09cYHFKWAjxAc85G23) | 2:04 |
 | 74 | [Sexo en Fuego](https://open.spotify.com/track/2R77a6R33wXYmqGkzcnnyV) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Puro Cumbión Legendario](https://open.spotify.com/album/3axQ66u4Yd3mcv3OUS1Ru2) | 3:05 |
-| 75 | [Una Lady Como Tú](https://open.spotify.com/track/3pMbfN9l3T4gfUH3UPGPvE) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:20 |
+| 75 | [Y como es el](https://open.spotify.com/track/1yBWVlFXC1AJ24UwuL147W) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Grandes Exitos](https://open.spotify.com/album/2C4CoZHH6lJfkS347Rhnov) | 3:16 |
 
-Snapshot ID: `ZIxajAAAAAAN6Rg0DV1WIw9alG1xEZlH`
+Snapshot ID: `ZIxajAAAAACTTYAqk/XeNNoarhxtSfll`

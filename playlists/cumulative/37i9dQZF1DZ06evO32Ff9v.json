@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184350,
       "name": "El Mejor del Mundo - En Vivo",
       "url": "https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt"
@@ -936,6 +936,28 @@
       "duration_ms": 159061,
       "name": "La Pluma De Wax",
       "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
+    },
+    {
+      "album": {
+        "name": "La Torre Eiffel",
+        "url": "https://open.spotify.com/album/7zkdFW7q3ASZDMewQSV4Ab"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "La Torre Eiffel",
+      "url": "https://open.spotify.com/track/3PBCGgKFkuJmyYUHtqxsKQ"
     },
     {
       "album": {

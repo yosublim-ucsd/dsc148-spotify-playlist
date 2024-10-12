@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,906 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,924 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Reminds Me of Us](https://open.spotify.com/track/6CsCSKTczSZPLvryoKpoLT) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL), [Davis Naish](https://open.spotify.com/artist/1rcqpe7jZB4NdUpyRq8im9) | [Reminds Me of Us](https://open.spotify.com/album/5Gjdbi4VdIb3IcctyUAPPD) | 4:20 |
 | 50 | [Dime](https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Dime](https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE) | 3:17 |
 
-Snapshot ID: `Zv/YmwAAAADmAeZOtmB3v0NZ5y8/ngSs`
+Snapshot ID: `Zv/YmwAAAAAcND3U5X8u825UzJsR3HoI`

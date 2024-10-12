@@ -2,7 +2,7 @@
 
 ### [Top México](https://open.spotify.com/playlist/37i9dQZF1DWZKpHIbfDI1i)
 
-> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Yuridia en portada.
+> La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. José José en portada.
 
 1,141 songs - 2 day 13 hr 11 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Toyé
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,033 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,063 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 |
 | 80 | [Lele](https://open.spotify.com/track/5KEySaLmNVT2DjB7qgKsHX) | [Clayrocksu](https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y) | [Hate It Here](https://open.spotify.com/album/29MTZbaYdLzR29gL1pKjst) | 2:55 |
 
-Snapshot ID: `Zv8wPAAAAACTCihlQFQos9gNsLO1V3T/`
+Snapshot ID: `Zv8wPAAAAAAKCX775KppdfGILiyUmG6R`

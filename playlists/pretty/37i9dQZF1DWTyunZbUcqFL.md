@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,710 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,728 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 49 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
 | 50 | [still have us MIDORI](https://open.spotify.com/track/3yPjYNSASD761VTR2HaRMB) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [night](https://open.spotify.com/album/6egjqhktHfCbiPIdjsYana) | 4:12 |
 
-Snapshot ID: `Zo4MAAAAAACJ2w8D4n4TGIw3Cve+LG5B`
+Snapshot ID: `Zo4MAAAAAADbra5z3qG3ft0yKFMpoc1/`

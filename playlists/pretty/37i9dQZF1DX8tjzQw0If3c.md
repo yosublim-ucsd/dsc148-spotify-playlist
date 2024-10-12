@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,773 likes - 84 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,771 likes - 84 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 83 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 |
 | 84 | [Takkan Mengalah \- From "Legenda Puteri Qaseh" Original Soundtrack](https://open.spotify.com/track/3tAYElgGNEf4LoxNdsW6G5) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Takkan Mengalah \(From "Legenda Puteri Qaseh" Original Soundtrack\)](https://open.spotify.com/album/1fNughGowl1BH0mOKrYfni) | 3:26 |
 
-Snapshot ID: `Zwho9gAAAACxeFdMQM0rHrIznes8vULv`
+Snapshot ID: `Zwho9gAAAACy55wj6DzKl/O5zLP9KgMb`

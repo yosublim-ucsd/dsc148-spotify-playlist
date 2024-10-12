@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Biig Piig
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,468 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,462 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [White Room](https://open.spotify.com/track/6SERFBbkl8JPfQDEwhrVFN) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54), [Eddington Again](https://open.spotify.com/artist/1qx1wjImNcB4QRgT6OQceR) | [White Room](https://open.spotify.com/album/2R32WZmkLybt35yygxkQjq) | 4:11 |
 | 75 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 |
 
-Snapshot ID: `ZwhOYAAAAAAOr6n7r4yrELa/Fv0jAy92`
+Snapshot ID: `ZwhOYAAAAACs6+5c7OzIb/Eg5kVEU/Cd`

@@ -1,12 +1,12 @@
 {
   "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. Cover: Charli xcx, Ariana Grande",
-  "num_followers": 821201,
+  "num_followers": 821485,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAAByJ8rljc1Tudus7h8OWjjp",
+  "snapshot_id": "ZwhOYAAAAADmlToyMhbkzEDQm5O2f5WA",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Electronic Babies",
         "url": "https://open.spotify.com/album/3VVJXfT16q26szSOueAgRt"
       },
@@ -1319,6 +1339,22 @@
       "duration_ms": 230941,
       "name": "Kabelmann 1",
       "url": "https://open.spotify.com/track/2YcdQMjyp5k6CVhK3qp3nS"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     },
     {
       "added_at": "2024-10-10 22:00:00",

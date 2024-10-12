@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-17",
-  "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
+  "description": "This is Los inquietos del vallenato. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Los inquietos del vallenato",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 213834,
       "name": "Dile",
       "url": "https://open.spotify.com/track/47VC5BRjUYrQkd8JaWr021"
+    },
+    {
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "album": {

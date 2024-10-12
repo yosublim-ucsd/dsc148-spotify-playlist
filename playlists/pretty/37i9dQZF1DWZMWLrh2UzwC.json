@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: JENNIE",
-  "num_followers": 61797,
+  "num_followers": 61826,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhvFAAAAABHdx/g1MFXI5nxXL0hB2rX",
+  "snapshot_id": "ZwiV1wAAAAA7qqKrhzBbuHcd+tsdmqpT",
   "tracks": [
     {
       "added_at": "2024-10-11 00:19:32",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
+        "name": "play with earth! 0.03 (extended)",
+        "url": "https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 200943,
+      "name": "annie. (clean)",
+      "url": "https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
         "name": "I Never Loved You",
         "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
       },
@@ -247,6 +263,26 @@
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
     },
     {
       "added_at": "2024-10-10 16:00:00",
@@ -643,26 +679,6 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 154126,
-      "name": "Sympathy is a knife featuring ariana grande",
-      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
-    },
-    {
-      "added_at": "2024-10-10 16:00:00",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB"
       },
@@ -791,6 +807,26 @@
       "duration_ms": 189130,
       "name": "In My Vein",
       "url": "https://open.spotify.com/track/4mYBFTsABvQtmm2l1l65QB"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
+        "url": "https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
+      "url": "https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL"
     },
     {
       "added_at": "2024-10-10 16:00:00",
@@ -1559,7 +1595,7 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "She Flows Like H20 / The Monster In My Closet",
+        "name": "She Flows Like H20 / The Monster in My Closet",
         "url": "https://open.spotify.com/album/7FCihMh1Cacooi62wK72l7"
       },
       "artists": [
@@ -1711,6 +1747,42 @@
       "duration_ms": 239480,
       "name": "Magic (feat. Emily King)",
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     },
     {
       "added_at": "2024-10-10 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Tiberius b
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,966 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 84 | [You!](https://open.spotify.com/track/5OIn9FHpJKAn6ZbX1y8Y46) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Heaven Knows!](https://open.spotify.com/album/3bK8WVeP0mMupP2d53LNWA) | 3:37 |
 | 85 | [Hammers](https://open.spotify.com/track/1PcT3ItaCAVwS1teagc8x1) | [Kessoncoda](https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ) | [Hammers](https://open.spotify.com/album/0i2J52TgfHgluFoGQ55aP6) | 3:18 |
 
-Snapshot ID: `ZwhgZgAAAACJkEsMPcCKGphtfkNr12Xb`
+Snapshot ID: `ZwhgZgAAAACv7ZbZABtUxgtcxTS1URuc`

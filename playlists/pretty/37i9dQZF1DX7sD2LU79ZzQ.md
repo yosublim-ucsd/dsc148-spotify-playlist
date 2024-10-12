@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Changcuters
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,985 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,007 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 98 | [Tak Ingin Lagi](https://open.spotify.com/track/5xqfAyA4isdnwpwZrUFGKY) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Head Head Head](https://open.spotify.com/album/33FyjsUxmurzCXDwfqaZdG) | 3:34 |
 | 99 | [Selesai](https://open.spotify.com/track/3V7Br8sR2JdSXkLgGtPYDz) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Selesai](https://open.spotify.com/album/1gwNHxgYWZLoPi2K9aWcaQ) | 4:19 |
 
-Snapshot ID: `ZwgIEAAAAACEEVcaYFl5xIGup8vVSJ+H`
+Snapshot ID: `ZwgIEAAAAAAzNmFsHrpI9g+tTX0rdUV9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,597 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,692 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Trucs de choses](https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Trucs de choses](https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm) | 2:54 |
 | 40 | [Olala \(feat\. Naza\)](https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Olala \(feat\. Naza\)](https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w) | 2:51 |
 
-Snapshot ID: `Zv/qfAAAAACa6+/xAokfIU1aV2n1UU+8`
+Snapshot ID: `Zv/qfAAAAABgaONF6C4RFWSrYE3DHdCC`

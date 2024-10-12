@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,664 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,694 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [Keyboard Partita No\. 5 in G Major, BWV 829: II\. Allemande](https://open.spotify.com/track/3LPEiAwJkMi3AT9hOrtfr4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu) | 4:12 |
 | 43 | [Concerto for 2 Keyboards in C Minor, BWV 1060: I\. Allegro](https://open.spotify.com/track/3vdM9Ob6K2hFoYBD2vikkl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Michael Behringer](https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM), [Robert Hill](https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS), [Kolner Kammerorchester](https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug), [Helmut Müller\-Brühl](https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7) | [Bach, J.S.: Harpsichord Concertos, Vol\. 3](https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6) | 4:45 |
 
-Snapshot ID: `ZlCKjQAAAADGDTQO23NHNu/xPcJCtB17`
+Snapshot ID: `ZlCKjQAAAAD6XILf2ssYmeeWDxunm4QU`

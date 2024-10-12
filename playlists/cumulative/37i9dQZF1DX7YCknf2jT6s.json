@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kokoroko",
+  "description": "New jazz for open minds. Cover: Immanuel Wilkins",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2260,6 +2260,36 @@
       "duration_ms": 171896,
       "name": "Asha",
       "url": "https://open.spotify.com/track/3rxEix5emZiBfdNIuXskXm"
+    },
+    {
+      "album": {
+        "name": "Ashes to Gold",
+        "url": "https://open.spotify.com/album/6fI5mkMgCIHlF8NCoWSDL8"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        },
+        {
+          "name": "Yonathan Avishai",
+          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
+        },
+        {
+          "name": "Barak Mori",
+          "url": "https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP"
+        },
+        {
+          "name": "Ziv Ravitz",
+          "url": "https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404240,
+      "name": "Ashes to Gold - Pt. 2",
+      "url": "https://open.spotify.com/track/2TUumOIclVLf1F6CltFJQl"
     },
     {
       "album": {
@@ -4552,7 +4582,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 208552,
       "name": "Brightlight",
       "url": "https://open.spotify.com/track/6bbrT0pWJJXgyDnQQN0064"
@@ -5058,6 +5088,24 @@
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
+    },
+    {
+      "album": {
+        "name": "Casa Ben",
+        "url": "https://open.spotify.com/album/2MFHpXwN4dy8s8ihuyrFaS"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380120,
+      "name": "Casa Ben",
+      "url": "https://open.spotify.com/track/7sWa5QMIFbTAHjAj1bGGAf"
     },
     {
       "album": {
@@ -6812,7 +6860,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 363800,
       "name": "DARK EYES SMILE (feat. C\u00e9cile McLorin Salvant)",
       "url": "https://open.spotify.com/track/2zUTGJVApznhuZgsibfEQQ"
@@ -8518,6 +8566,32 @@
       "duration_ms": 236985,
       "name": "early",
       "url": "https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY"
+    },
+    {
+      "album": {
+        "name": "Early America",
+        "url": "https://open.spotify.com/album/6KFs45cU8vjNZuslNsPL2y"
+      },
+      "artists": [
+        {
+          "name": "Brian Charette",
+          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        },
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310373,
+      "name": "Early America",
+      "url": "https://open.spotify.com/track/47UW8ILxgNLihpIvKtv6gX"
     },
     {
       "album": {
@@ -10660,7 +10734,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 230760,
       "name": "French Horns",
       "url": "https://open.spotify.com/track/3ZUvVOCj7KGLZZC9nCuYhQ"
@@ -15559,6 +15633,40 @@
     },
     {
       "album": {
+        "name": "Late Autumn (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+        "url": "https://open.spotify.com/album/47ZFJAQIHQLDX63z2YEU3W"
+      },
+      "artists": [
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "ETA IVtet",
+          "url": "https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        },
+        {
+          "name": "Jay Bellerose",
+          "url": "https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1041494,
+      "name": "Late Autumn (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+      "url": "https://open.spotify.com/track/2VFwP0MlT17BsyepAnwB8R"
+    },
+    {
+      "album": {
         "name": "Late Night Rendezvous",
         "url": "https://open.spotify.com/album/7HtbimMr4j8e4OqgB0MiK6"
       },
@@ -16070,7 +16178,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 256374,
       "name": "Life",
       "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
@@ -17209,6 +17317,28 @@
     },
     {
       "album": {
+        "name": "Djesse Vol. 4 (Deluxe)",
+        "url": "https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Magic (feat. Emily King)",
+      "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
+    },
+    {
+      "album": {
         "name": "Magnolia II",
         "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
       },
@@ -17588,6 +17718,24 @@
       "duration_ms": 352784,
       "name": "Matchsticks",
       "url": "https://open.spotify.com/track/7lRuwXziFBbPZTYtzDTOAe"
+    },
+    {
+      "album": {
+        "name": "Blues Blood",
+        "url": "https://open.spotify.com/album/06soS30HJn1VxcuucuWydD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "MATTE GLAZE",
+      "url": "https://open.spotify.com/track/6n2KR1LDTDOvb6mFhgA4p0"
     },
     {
       "album": {
@@ -18510,6 +18658,24 @@
       "duration_ms": 271167,
       "name": "MOON (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355973,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
     },
     {
       "album": {
@@ -24609,6 +24775,24 @@
     },
     {
       "album": {
+        "name": "Black Seeds",
+        "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sanz",
+          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "Sea",
+      "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
+    },
+    {
+      "album": {
         "name": "Search for Peace",
         "url": "https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN"
       },
@@ -26230,7 +26414,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 282232,
       "name": "Soul Journey",
       "url": "https://open.spotify.com/track/0H1zabAPVUnyG7jaEzGLya"
@@ -30832,7 +31016,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173333,
       "name": "Timekeepers",
       "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
@@ -31742,7 +31926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 265480,
       "name": "Un Poco Loco",
       "url": "https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED"
@@ -33366,7 +33550,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 242333,
       "name": "Why I Came to California",
       "url": "https://open.spotify.com/track/1uA8MjQlodjkGmeXaq0XVv"

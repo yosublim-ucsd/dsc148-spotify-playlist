@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 243000,
       "name": "Guzzle Blood",
       "url": "https://open.spotify.com/track/61cUK4RBgKkbBnRD9TvElW"
@@ -5030,7 +5030,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
@@ -5611,6 +5611,24 @@
     },
     {
       "album": {
+        "name": "...They're Just Like Us",
+        "url": "https://open.spotify.com/album/1eTHV7oC89Y0wJKICTwEX1"
+      },
+      "artists": [
+        {
+          "name": "Celebrity Sighting",
+          "url": "https://open.spotify.com/artist/1oK8ZGSUkLNP1WADzLSJe4"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139041,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/5Hbsyi33p4eptpcTAqNHm8"
+    },
+    {
+      "album": {
         "name": "Hourglass",
         "url": "https://open.spotify.com/album/6YN3jTgx4d03QBgLgeSBPu"
       },
@@ -5954,6 +5972,24 @@
       "duration_ms": 207340,
       "name": "I Saw",
       "url": "https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN"
+    },
+    {
+      "album": {
+        "name": "I Saw Another Bird",
+        "url": "https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132920,
+      "name": "I Saw Another Bird",
+      "url": "https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s"
     },
     {
       "album": {
@@ -7232,7 +7268,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
@@ -9252,7 +9288,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 101791,
       "name": "Pod",
       "url": "https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr"
@@ -9274,6 +9310,24 @@
       "duration_ms": 101791,
       "name": "Pod",
       "url": "https://open.spotify.com/track/5ROwIm7XDygIgVH6hcGdPF"
+    },
+    {
+      "album": {
+        "name": "pomegranate tree",
+        "url": "https://open.spotify.com/album/7BEPlCqgbQ55PAr2aKmbTo"
+      },
+      "artists": [
+        {
+          "name": "Ekko Astral",
+          "url": "https://open.spotify.com/artist/5YaWzI756w0pw1DkJkun5u"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375077,
+      "name": "pomegranate tree",
+      "url": "https://open.spotify.com/track/4dxwnW8sEq8cdu1O0ZPAa6"
     },
     {
       "album": {
@@ -9476,7 +9530,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169962,
       "name": "Psychic Dance Routine",
       "url": "https://open.spotify.com/track/79jxS5Li1Xm8VfwmgUiAAC"
@@ -9534,6 +9588,24 @@
       "duration_ms": 257920,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz"
+    },
+    {
+      "album": {
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
     },
     {
       "album": {
@@ -10924,6 +10996,24 @@
       "duration_ms": 98479,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/136Q0eeThQ5XXdZugchB1S"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "album": {

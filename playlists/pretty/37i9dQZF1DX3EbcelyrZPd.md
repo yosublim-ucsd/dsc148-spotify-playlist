@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny & King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,614 likes - 81 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,666 likes - 81 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 80 | [Sio Kisa Pombe](https://open.spotify.com/track/50TnO3mDqN235GLTPgxFVk) | [Mwasiti](https://open.spotify.com/artist/6NXpDbD5hTkG9WHb6YzMYu), [Quick Rocka](https://open.spotify.com/artist/3qogOcNS2ddykurQd7LjDR) | [Kamili](https://open.spotify.com/album/7AV9XtcUhyDjbrhAcI8rwB) | 4:48 |
 | 81 | [Mchuchu](https://open.spotify.com/track/4yDggExRPsd917Kewd2bP1) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Mchuchu](https://open.spotify.com/album/2wlhplBGSd8wewG9gPD5Ux) | 3:11 |
 
-Snapshot ID: `ZwhcNAAAAAAEL3T5WRM7y5wvYwg8quD3`
+Snapshot ID: `ZwhcNAAAAACfsorGLbciZdOrgHLax2S5`

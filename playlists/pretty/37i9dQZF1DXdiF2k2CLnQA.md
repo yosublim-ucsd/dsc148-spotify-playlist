@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,369 likes - 83 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,362 likes - 83 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 82 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 | 83 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 |
 
-Snapshot ID: `ZwhOnAAAAAB3tiNbBhL5F3kzZctyh1Y6`
+Snapshot ID: `ZwhOnAAAAABGGndLAvvFhKC57pUU9PYU`

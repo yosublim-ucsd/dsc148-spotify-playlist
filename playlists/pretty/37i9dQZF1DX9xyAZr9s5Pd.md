@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,263 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,276 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [No es culpa tuya](https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM) | [yumhji](https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx) | [No es culpa tuya](https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV) | 2:40 |
 | 60 | [Heart of Thunder](https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z), [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Heart of Thunder](https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX) | 3:31 |
 
-Snapshot ID: `ZsgXFAAAAABOpfuinfGLzyMn3RVg4y+8`
+Snapshot ID: `ZsgXFAAAAAA5DXie6tpwWKAhmSn4AQMo`

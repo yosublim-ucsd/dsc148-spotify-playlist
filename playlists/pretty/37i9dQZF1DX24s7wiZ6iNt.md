@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 49 | [dazies](https://open.spotify.com/track/0qNRoqAohqJefbeZiTV1xF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:24 |
 | 50 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 
-Snapshot ID: `ZWcrvAAAAACSGs8ty76Da8FePspCFurj`
+Snapshot ID: `ZWcrvAAAAADpiC0uxHAKDwPhXn0FDlRW`

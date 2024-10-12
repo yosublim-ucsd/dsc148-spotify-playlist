@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Le meilleur de la chanson française actuelle\. Photo : Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,684 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,711 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [La souterraine](https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La souterraine](https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv) | 4:29 |
 | 50 | [sapon](https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [contrebande 02\. le disque de l'été](https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG) | 3:10 |
 
-Snapshot ID: `ZwhOYAAAAABkkHr7Z3Tvz4KDC2uwsHCP`
+Snapshot ID: `ZwhOYAAAAABnQ+B994odYR98i8GBGGp7`

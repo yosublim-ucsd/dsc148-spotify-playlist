@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 3792,
+  "num_followers": 3810,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwedqgAAAABN5s/p6ugf5mkScQrepG8P",
+  "snapshot_id": "ZwedqgAAAABhDR/Q4K/Zhdi/Myo5IXYH",
   "tracks": [
     {
       "added_at": "2024-10-10 09:26:02",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "\u6d6e\u4e16\u64ca",
-        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
-      },
-      "artists": [
-        {
-          "name": "YELLOW\u9ec3\u5ba3",
-          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "\u7f8a\u76ae\u5148\u751f",
-      "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 193494,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "\u6d6e\u4e16\u64ca",
+        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
+      },
+      "artists": [
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "\u7f8a\u76ae\u5148\u751f",
+      "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Party Forever",
-        "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Party Forever",
-      "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 173946,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "Party Forever",
+        "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Party Forever",
+      "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -635,30 +635,22 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
       "artists": [
         {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         },
         {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 240520,
-      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
-      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -703,22 +695,30 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         },
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+      "duration_ms": 240520,
+      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
+      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "ZOO",
-        "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 234202,
-      "name": "3 GUINEAS",
-      "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "Ladidadi",
         "url": "https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 123228,
       "name": "Ladidadi!",
       "url": "https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "ZOO",
+        "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 234202,
+      "name": "3 GUINEAS",
+      "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
     },
     {
       "added_at": "2024-10-10 09:26:02",

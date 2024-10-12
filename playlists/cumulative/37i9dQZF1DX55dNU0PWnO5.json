@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172500,
       "name": "Autophagy Master",
       "url": "https://open.spotify.com/track/3p0bE9o9cM1sFafJUjqKDT"
@@ -2522,6 +2522,28 @@
       "duration_ms": 194204,
       "name": "EAV (Elia Bishara Remix)",
       "url": "https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG"
+    },
+    {
+      "album": {
+        "name": "EEEEEE",
+        "url": "https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "EEEEEE",
+      "url": "https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR"
     },
     {
       "album": {

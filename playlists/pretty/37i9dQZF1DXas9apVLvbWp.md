@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,371 likes - 30 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,391 likes - 30 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 |
 | 30 | [La vie en rose \- Single Version](https://open.spotify.com/track/4iRg6I6c0CpX0GGSnHDgb7) | [Louis Armstrong And His Orchestra](https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf) | [La Vie En Rose](https://open.spotify.com/album/4rii2OLIasjb8JnzA0Ylel) | 3:25 |
 
-Snapshot ID: `Zn1+cQAAAAAhUpuhC686XC6yKV4rIDfL`
+Snapshot ID: `Zn1+cQAAAABWl8kIIm4oa4TV+C7SbeuQ`

@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
+    },
+    {
+      "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
       },
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210777,
       "name": "El Chapul\u00edn",
       "url": "https://open.spotify.com/track/0CPzztZQhgwvLy1X5acoG6"
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 258441,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
@@ -2793,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "Mari y Rosa",
+        "url": "https://open.spotify.com/album/08O0Usk2lfI8A3i4zQxbxv"
+      },
+      "artists": [
+        {
+          "name": "Manchego",
+          "url": "https://open.spotify.com/artist/0MSGn6VcJyBG6G7NhWvY3d"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189383,
+      "name": "Mari y Rosa",
+      "url": "https://open.spotify.com/track/0NIyKzh4jfODflFBOD2t5Y"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -3320,6 +3360,24 @@
       "duration_ms": 183811,
       "name": "Nada Serio",
       "url": "https://open.spotify.com/track/72zR7RrTDSybIJV1Fdz79i"
+    },
+    {
+      "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7"
     },
     {
       "album": {
@@ -4076,7 +4134,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 191960,
       "name": "Que Se Vaya",
       "url": "https://open.spotify.com/track/232uGqbZ9NjVZt8zZLR8kj"

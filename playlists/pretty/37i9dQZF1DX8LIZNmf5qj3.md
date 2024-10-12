@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,650 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,654 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 |
 | 50 | [Nothing Like Your Lips](https://open.spotify.com/track/6FjK9PyElrJc41nhsboIpZ) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Nothing Like Your Lips](https://open.spotify.com/album/4I9YFfdmu1KFWFsE50bk3v) | 3:28 |
 
-Snapshot ID: `ZwhOYAAAAAD67jlhUp/bj5EZZvSr6sVN`
+Snapshot ID: `ZwhOYAAAAADGyWig1sPqWZyvIP3L2ddl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,513 likes - 225 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,625 likes - 225 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 224 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 | 225 | [Sleep Under The Stars](https://open.spotify.com/track/6HSkMIBullPJkgOO0c4pWX) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Sleep Under The Stars](https://open.spotify.com/album/71CXx9D1fV8T4a0xzB8037) | 2:57 |
 
-Snapshot ID: `ZwUtWgAAAABWpUxwdP8i6w2ooXSn8r6Y`
+Snapshot ID: `ZwUtWgAAAAAWxMEYkY0i8bdD8BN5snGd`

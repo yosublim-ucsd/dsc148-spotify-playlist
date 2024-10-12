@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Astro in cover della playlist con il top dello street rap italiano 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,125 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,274 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [NA/RM \(feat\. Yung Snapp, MV Killa\)](https://open.spotify.com/track/3BO6xH8rcVVNCzQUpV8UAt) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:59 |
 | 50 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
 
-Snapshot ID: `ZwhOnAAAAACbDzggXdh6C8f11uZzBayA`
+Snapshot ID: `ZwhOnAAAAAA4w8fBAraj84JoLJMG5b2b`

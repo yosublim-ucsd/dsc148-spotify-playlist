@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,718 likes - 48 songs - 2 hr 48 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,721 likes - 47 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,24 +37,23 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 27 | [Routiner](https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Routiner / Postcard](https://open.spotify.com/album/76F53xQ0kSoAd9tgNFOg2o) | 3:22 |
 | 28 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 |
 | 29 | [Impractical Joke](https://open.spotify.com/track/2sMEXl84bb1RaF92M8UrEI) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 2:16 |
-| 30 | [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 |
-| 31 | [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 |
-| 32 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 |
-| 33 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 |
-| 34 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 |
-| 35 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 |
-| 36 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 |
-| 37 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 |
-| 38 | [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 |
-| 39 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 |
-| 40 | [The Good Humor Man He Sees Everything Like This \- 2015 Remaster](https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:08 |
-| 41 | [Ingrown](https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 3:11 |
-| 42 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 |
-| 43 | [Happy](https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Happy](https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA) | 2:19 |
-| 44 | [Pretty Saro](https://open.spotify.com/track/4jmdZCEsv3TOcfqlm5uuWz) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 2:53 |
-| 45 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 |
-| 46 | [Rounded](https://open.spotify.com/track/1nmvQPoa895Ix8DLtvM0W7) | [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Rounded](https://open.spotify.com/album/7teCjVkvFEvhnLBp2V2AfO) | 5:43 |
-| 47 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 |
-| 48 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 |
+| 30 | [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 |
+| 31 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 |
+| 32 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 |
+| 33 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 |
+| 34 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 |
+| 35 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 |
+| 36 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 |
+| 37 | [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 |
+| 38 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 |
+| 39 | [The Good Humor Man He Sees Everything Like This \- 2015 Remaster](https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:08 |
+| 40 | [Ingrown](https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 3:11 |
+| 41 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 |
+| 42 | [Happy](https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Happy](https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA) | 2:19 |
+| 43 | [Pretty Saro](https://open.spotify.com/track/4jmdZCEsv3TOcfqlm5uuWz) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 2:53 |
+| 44 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 |
+| 45 | [Rounded](https://open.spotify.com/track/1nmvQPoa895Ix8DLtvM0W7) | [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Rounded](https://open.spotify.com/album/7teCjVkvFEvhnLBp2V2AfO) | 5:43 |
+| 46 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 |
+| 47 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 |
 
-Snapshot ID: `AAALK6VCnl5sSVo2cjmGqgXkGNrKrH4L`
+Snapshot ID: `AAALLMZBDv4OOHIhExjPoZuFCmOOf4Zf`

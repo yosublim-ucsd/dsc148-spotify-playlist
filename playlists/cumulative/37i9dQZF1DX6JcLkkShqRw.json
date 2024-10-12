@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Bhavi.",
+  "description": "Flow sudamericano con Alejo & Easykid",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -723,6 +723,50 @@
     },
     {
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3vbA2POr11bQtThbsmzTVY"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246967,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6tvD0dWxzqPREms83vU4Ci"
+    },
+    {
+      "album": {
+        "name": "5 Minutos",
+        "url": "https://open.spotify.com/album/2GqwR7gz64t2BQmwSG9SvZ"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/6I910Y4bD5pLYoI6T2ev1v"
+    },
+    {
+      "album": {
         "name": "5strellas",
         "url": "https://open.spotify.com/album/0qREmzcbAbuSSsT1SOlUQF"
       },
@@ -822,7 +866,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 215666,
       "name": "777",
       "url": "https://open.spotify.com/track/2YfZe1Eicnm2JbHHjRvd8n"
@@ -5260,7 +5304,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157307,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr"
@@ -5366,7 +5410,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169146,
       "name": "CEO",
       "url": "https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO"
@@ -5524,6 +5568,32 @@
       "duration_ms": 122307,
       "name": "Cheto Mal",
       "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
+    },
+    {
+      "album": {
+        "name": "Chica Asintomatica",
+        "url": "https://open.spotify.com/album/7Lem3NZF4JCPkAELa2FXm2"
+      },
+      "artists": [
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        },
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        },
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Chica Asintomatica",
+      "url": "https://open.spotify.com/track/2dZBFO8mec0ZKKhAjyXBeU"
     },
     {
       "album": {
@@ -7551,6 +7621,40 @@
     },
     {
       "album": {
+        "name": "DAILY - Remix",
+        "url": "https://open.spotify.com/album/0d5KhIPfwfTD7Synt3y0Wd"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Davus",
+          "url": "https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252250,
+      "name": "DAILY - Remix",
+      "url": "https://open.spotify.com/track/1a29aoCEYqKfwB2RfgZXWw"
+    },
+    {
+      "album": {
         "name": "DAKAR",
         "url": "https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP"
       },
@@ -8991,6 +9095,28 @@
     },
     {
       "album": {
+        "name": "DRABARDAR",
+        "url": "https://open.spotify.com/album/1x3X5oGBYydxtQD8eFoBZD"
+      },
+      "artists": [
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        },
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "DRABARDAR",
+      "url": "https://open.spotify.com/track/7E0rqD66LpjU79iIkRtBtq"
+    },
+    {
+      "album": {
         "name": "Dreams & Love",
         "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
       },
@@ -9322,7 +9448,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 147916,
       "name": "D\u00edas Grises",
       "url": "https://open.spotify.com/track/2L5MPR0mh4GueqUALaYTOP"
@@ -13592,7 +13718,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 161045,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/02O86APIgp7Jo95nH8HdGr"
@@ -13960,6 +14086,40 @@
       "duration_ms": 184200,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4ftH6O3bvfEB4EO04K2xIM"
+    },
+    {
+      "album": {
+        "name": "Jimmy Choo",
+        "url": "https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211221,
+      "name": "Jimmy Choo",
+      "url": "https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD"
     },
     {
       "album": {
@@ -19412,7 +19572,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 116210,
       "name": "Muchas P",
       "url": "https://open.spotify.com/track/6kJVHML2pJWYbKS3v4Jvu7"
@@ -28842,7 +29002,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 230857,
       "name": "Thal\u00eda - Remix",
       "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
@@ -29704,6 +29864,24 @@
       "duration_ms": 120944,
       "name": "TRYHARD",
       "url": "https://open.spotify.com/track/7vUpvwHlTdb7lrE3WwfVgS"
+    },
+    {
+      "album": {
+        "name": "Tu #n\u00famero",
+        "url": "https://open.spotify.com/album/3JIu5pKkw7eNhHmKehL7I0"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Tu #n\u00famero",
+      "url": "https://open.spotify.com/track/3Wvaqs2ZCV1HTN0LhRuRa9"
     },
     {
       "album": {
@@ -31794,7 +31972,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157037,
       "name": "V\u00edbora",
       "url": "https://open.spotify.com/track/6TpgOeWXxIOaKF7uI3Omxm"
@@ -32138,6 +32316,28 @@
       "duration_ms": 194500,
       "name": "Xinga",
       "url": "https://open.spotify.com/track/17LoyD06c7hSZAGfj3Mybp"
+    },
+    {
+      "album": {
+        "name": "XQ ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
     },
     {
       "album": {

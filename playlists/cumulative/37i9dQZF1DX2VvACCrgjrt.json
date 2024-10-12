@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring NITTI",
+  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring BIJOU",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 130681,
       "name": "BACK IT UP",
       "url": "https://open.spotify.com/track/5vKSIdnjFFnXX32usUzM4C"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 158059,
       "name": "Craving More",
       "url": "https://open.spotify.com/track/6nw6eKfaOflPGbICed4ACR"
@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 180000,
       "name": "Drinks & Pills",
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
@@ -6428,7 +6428,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 157160,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/305Ji055GbtNECtcBig3Fc"
@@ -7248,7 +7248,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172025,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/5zH6f163eZM7Iwm9I5L5Si"
@@ -7306,7 +7306,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 172380,
       "name": "Gua Gua",
       "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
@@ -7742,6 +7742,24 @@
       "duration_ms": 126532,
       "name": "Hit the Breaks",
       "url": "https://open.spotify.com/track/7fFhhfuz6Qch7l2K8Mequ4"
+    },
+    {
+      "album": {
+        "name": "Hit The Wax",
+        "url": "https://open.spotify.com/album/5eSHQ0zrATkKijBQKzHMrS"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Hit The Wax",
+      "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
     },
     {
       "album": {
@@ -10148,7 +10166,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 183997,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/3T808KZtBzAJTtZMNQR82g"
@@ -13939,6 +13957,24 @@
     },
     {
       "album": {
+        "name": "Sarge",
+        "url": "https://open.spotify.com/album/0PAJVUbo8OnLysfUmAideK"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Sarge",
+      "url": "https://open.spotify.com/track/4NF54VKbvLbKWTFMxmdqiz"
+    },
+    {
+      "album": {
         "name": "Sassy",
         "url": "https://open.spotify.com/album/3DuUq2we8IjXKE6NdpHMFO"
       },
@@ -14001,6 +14037,28 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy"
       },
@@ -14045,6 +14103,28 @@
     },
     {
       "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/3kDp06NY6s7diMNHMN6mMF"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "JENNY VOSS",
+          "url": "https://open.spotify.com/artist/4Dm0GLofT1SXf6N3g4UAvM"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251355,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/4cga9ylIVzS6n0Hs1OGv1u"
+    },
+    {
+      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -14086,7 +14166,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 151846,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6JYFNzWzXX4JwppMki3Y8q"
@@ -14166,6 +14246,28 @@
       "duration_ms": 179200,
       "name": "Sequence 999",
       "url": "https://open.spotify.com/track/5PVDrXJ2N6bpKrxLyyFa4Y"
+    },
+    {
+      "album": {
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169777,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
     },
     {
       "album": {
@@ -17638,6 +17740,32 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/2uSn3D50io4hcQAOzWl03d"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
     },
     {
       "album": {

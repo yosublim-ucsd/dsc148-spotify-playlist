@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and Bailrigg FM at Lancaster University ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,093 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,098 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 | 49 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 50 | [When It Comes To Love](https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf) | [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Pressure](https://open.spotify.com/album/2lGuyCKc6O3dDteX2GO5ZK) | 2:51 |
 
-Snapshot ID: `Zt7v8QAAAAAupcVOQ6oAdI0VZf4eEsnG`
+Snapshot ID: `Zt7v8QAAAAD+k8IHO9wIZ9dP7JDpzwJH`

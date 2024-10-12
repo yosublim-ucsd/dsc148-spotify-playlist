@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Dom Dolla, Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,396 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,422 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Boost Up](https://open.spotify.com/track/5qDawntZqMqDKJdM5QVSdC) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/76u0teJxmuTXfNZLNws7Ub) | 3:31 |
 | 100 | [Big Dipper](https://open.spotify.com/track/4E8eYfbzYKaNtKw6UFRFfl) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Big Dipper](https://open.spotify.com/album/2giYfbVZOLVQgDmLopL5pQ) | 4:20 |
 
-Snapshot ID: `ZwfQDAAAAAAmePUYkIJ/WnbzqYwWvGpS`
+Snapshot ID: `ZwfQDAAAAAAUqtub2HX/N/eNonGc1Bt9`

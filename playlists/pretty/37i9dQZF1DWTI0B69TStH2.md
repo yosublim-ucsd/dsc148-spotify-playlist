@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6lBBKOkpTnfVKIP0e0CrOQ">LINA</a>\. Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,260 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,259 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Silent Disco](https://open.spotify.com/track/5zcPizK7jTE4tJuiVADKZ7) | [Zodiak](https://open.spotify.com/artist/1gD6VYgg6GtnDQEVPQEo1A) | [Silent Disco](https://open.spotify.com/album/7r1JMksSeLA0LVvZb8HRDQ) | 2:14 |
 | 100 | [Od Nowa](https://open.spotify.com/track/1Lecxhd7DbbROyMlFgx825) | [Michał Sieńkowski](https://open.spotify.com/artist/4BaVIKHnJfYgrfiAkXKAXN) | [Od Nowa](https://open.spotify.com/album/60aqsv30w0gg1ymKXm2gyP) | 2:53 |
 
-Snapshot ID: `ZwWrYAAAAACZGCZYLIEnKbdFtFqzhmQD`
+Snapshot ID: `ZwWrYAAAAACBPCOpM72zRn3lGPJbl3fn`

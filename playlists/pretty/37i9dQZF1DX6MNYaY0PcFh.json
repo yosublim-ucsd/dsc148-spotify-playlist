@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80552,
+  "num_followers": 80594,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXncAAAAAAEe/+EzetoBhISkbPebJHO",
+  "snapshot_id": "ZvXncAAAAADnE6bTuO/tPzAtHgXLRJbw",
   "tracks": [
     {
       "added_at": "2024-09-26 23:00:00",
@@ -895,18 +895,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+        "name": "Without U",
+        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
         }
       ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+      "duration_ms": 169000,
+      "name": "Without U - Radio Edit",
+      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -931,22 +935,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Without U",
-        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Without U - Radio Edit",
-      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Ooh",
-        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
-      },
-      "artists": [
-        {
-          "name": "Dan be",
-          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
-        },
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "Ooh",
-      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Wild (bullet tooth Remix)",
         "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
       },
@@ -1119,22 +1099,42 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Higher (Prozak Remix)",
-        "url": "https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp"
+        "name": "Ooh",
+        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
         },
         {
-          "name": "Prozak",
-          "url": "https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel"
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
         }
       ],
-      "duration_ms": 269999,
-      "name": "Higher - Prozak Remix",
-      "url": "https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER"
+      "duration_ms": 192724,
+      "name": "Ooh",
+      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "PASSION - VIP",
+        "url": "https://open.spotify.com/album/3W74zsPQTF9P6hI6i67mvq"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Guy Mac",
+          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "PASSION - VIP",
+      "url": "https://open.spotify.com/track/72sGTK4uLQvW7n73nG2Kw6"
     },
     {
       "added_at": "2024-09-26 23:00:00",

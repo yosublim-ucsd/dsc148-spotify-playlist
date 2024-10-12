@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,635 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,655 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 |
 | 52 | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/track/3GUcwsSSt0kGzNbKr6PAHR) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [Cosmograph](https://open.spotify.com/artist/4en0H7iE6PqEnZnWGmtWuK), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/3Gni8Kq2mlijC5Im1LNkr7) | 3:54 |
 
-Snapshot ID: `ZwUQBgAAAACZCsVMwJeWJY5NGD98T3RD`
+Snapshot ID: `ZwUQBgAAAACCYcNSM1CBStj/5mCFOvlY`

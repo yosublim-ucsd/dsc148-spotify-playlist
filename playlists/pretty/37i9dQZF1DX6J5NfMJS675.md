@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,524,583 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,525,063 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 79 | [Endless Nights](https://open.spotify.com/track/1ZWyPPye3BUmtxwEOxQA9v) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Endless Nights](https://open.spotify.com/album/7zL1rbXjcjS8DRbIlSICTC) | 3:09 |
 | 80 | [Let the Music](https://open.spotify.com/track/0K39LXoHYlmW0dsoRmu3gi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Let the Music](https://open.spotify.com/album/7IEyuJoH8q2WFdHfLYYQpH) | 5:00 |
 
-Snapshot ID: `ZwhOYAAAAAAK3mfIIFHxwtmt2o38b+/W`
+Snapshot ID: `ZwhOYAAAAABOKEWSnS+2iLHh4vsXhdDp`

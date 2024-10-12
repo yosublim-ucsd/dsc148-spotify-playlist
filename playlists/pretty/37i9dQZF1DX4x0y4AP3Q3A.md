@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Rejsel
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,463 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,466 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 | 99 | [Manifesto](https://open.spotify.com/track/27v0pS3ltAPPn3M9On8gjx) | [Big Cyc](https://open.spotify.com/artist/6zKeUUQLwOtJf15g1OovdE) | [Manifesto](https://open.spotify.com/album/7Jt9hePNuA5ZKmfsvBSUVW) | 3:16 |
 | 100 | [w innym czasie](https://open.spotify.com/track/5X9LXRc5XKXAuODjU0RyqO) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [w innym czasie](https://open.spotify.com/album/74I1RgGzn6KtnXLjCH94I3) | 3:34 |
 
-Snapshot ID: `ZwhOYAAAAAAINrzB/qZ9g0w6ubyelDeg`
+Snapshot ID: `ZwhOYAAAAABKqX/wPCBKupQhleo4ewaF`

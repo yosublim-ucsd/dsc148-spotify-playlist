@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Ghali, CoCo, Il Ghost, Marte e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,379 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,412 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 70 | [DE PUTA MADRE 2](https://open.spotify.com/track/1kJ3mzPpluIXxbR79mBdVI) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DE PUTA MADRE 2](https://open.spotify.com/album/1qJnSVKoceZYnW4aCEcSlY) | 3:00 |
 | 71 | [WARZONE](https://open.spotify.com/track/0zM8dJ9NnHQQszkwy85kkh) | [The Luxe](https://open.spotify.com/artist/3zhhnmtw4IO0PsXlzLbuLd) | [WARZONE](https://open.spotify.com/album/5SbeJgCaohojxf57NsD7DD) | 1:53 |
 | 72 | [VRP](https://open.spotify.com/track/39aVVheaIKKIbd3iBPYcn3) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [VRP](https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5) | 2:28 |
-| 73 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/23gqupUFx2oS0a4kh4J7Wd), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
+| 73 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
 | 74 | [Wa Zina \(feat\. Willie Peyote\)](https://open.spotify.com/track/5CSmXf8CqvbgE3fLqh1oH9) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Wa Zina \(feat\. Willie Peyote\)](https://open.spotify.com/album/07xgfzoSPQg8XNSs6ua3W8) | 4:47 |
 | 75 | [2024](https://open.spotify.com/track/0I8PMi6ikpjC6D6F3IDqUM) | [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq) | [2024](https://open.spotify.com/album/3SUwlzc2EUnY6HSwbtuQeT) | 2:28 |
 | 76 | [Bugia](https://open.spotify.com/track/6L8c1t1NumAB9TyWNZYZVT) | [MACO](https://open.spotify.com/artist/2sNh3ElkkBXenarDv2TfiM) | [Bugia](https://open.spotify.com/album/7bYGWEyKn3JufhAawcEVuF) | 2:53 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 93 | [VIEN](https://open.spotify.com/track/4HeOiMGIHqTbknru5JDOT2) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [VIEN](https://open.spotify.com/album/07lUE05Kpe2i0K7u8jgZm5) | 2:06 |
 | 94 | [Ancora lunedì](https://open.spotify.com/track/0g6Mzl2iSnKcFeH1XK8zsO) | [DJ Skizo](https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Ancora lunedì](https://open.spotify.com/album/0TZ0NEyaWKUJF0cgc3hoSP) | 4:06 |
 
-Snapshot ID: `ZwhcrAAAAACs7eQimJafN3LwUeFr0rkM`
+Snapshot ID: `ZwhcrAAAAABFYpzsQb4Fx0Xh2WBRs3bc`

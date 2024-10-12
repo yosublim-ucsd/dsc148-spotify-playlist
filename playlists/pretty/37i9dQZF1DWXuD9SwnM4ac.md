@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Biig Piig
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,038 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,064 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 |
 | 100 | [Flowers](https://open.spotify.com/track/55qMAQxnxF1chuekaqOwoJ) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Flowers](https://open.spotify.com/album/3me9thHbtjc4oj9nKmNYHG) | 3:53 |
 
-Snapshot ID: `ZwfP0AAAAACriXm89BzWT8/Yq0FUhzXx`
+Snapshot ID: `ZwfP0AAAAABCH4FSTYMKFlfyBieWm/pM`

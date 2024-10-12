@@ -2,7 +2,7 @@
 
 ### [This Is The Intruders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA)
 
-> This is The Intruders\. Todos os maiores hits em uma só playlist.
+> This is The Intruders\. The essential tracks, all in one playlist.
 
 75 songs - 4 hr 3 min
 

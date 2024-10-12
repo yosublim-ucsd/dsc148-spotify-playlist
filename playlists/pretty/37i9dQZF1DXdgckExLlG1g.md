@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: <a href="spotify:artist:6pRi6EIPXz4QJEOEsBaA0m">Chris Tomlin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,540 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,502 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 50 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `ZphoRQAAAAAEcZAK3V9lS+h3ODy/bT67`
+Snapshot ID: `ZphoRQAAAACoicpGkI6JSax/nRKXDzAf`

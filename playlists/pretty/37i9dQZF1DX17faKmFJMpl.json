@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 3878,
+  "num_followers": 3880,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZNTt8gAAAAD6xEXntBhoBUyzGtLqSI9g",
+  "snapshot_id": "ZNTt8gAAAACxA9yYiFQ8BzcjQIocVzmw",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Last Days",
-        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
       },
       "artists": [
         {
           "name": "Dynamicduo",
           "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 302773,
-      "name": "Gilmak",
-      "url": "https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY"
+      "duration_ms": 256693,
+      "name": "U-turn (Feat. Verbal Jint)",
+      "url": "https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
       },
       "artists": [
         {
           "name": "Dynamicduo",
           "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 256693,
-      "name": "U-turn (Feat. Verbal Jint)",
-      "url": "https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP"
+      "duration_ms": 302773,
+      "name": "Gilmak",
+      "url": "https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -755,26 +755,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+        "name": "Handalas",
+        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
       "artists": [
         {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
         },
         {
-          "name": "T'ache",
-          "url": "https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r"
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
         },
         {
-          "name": "Mithra Jin",
-          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 282586,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
+      "duration_ms": 216821,
+      "name": "Handalas",
+      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -799,26 +799,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Handalas",
-        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
       "artists": [
         {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
         },
         {
-          "name": "MC Meta",
-          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+          "name": "T'ache",
+          "url": "https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r"
         },
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Mithra Jin",
+          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
         }
       ],
-      "duration_ms": 216821,
-      "name": "Handalas",
-      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+      "duration_ms": 282586,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Bulldozer",
-        "url": "https://open.spotify.com/album/01fJjO7rrzQ8mn6Efrkbbe"
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
       },
       "artists": [
         {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+          "name": "Outsider",
+          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy"
+      "duration_ms": 191360,
+      "name": "\uc678\ud1a8\uc774",
+      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MAESTRO",
-        "url": "https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7"
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/01fJjO7rrzQ8mn6Efrkbbe"
       },
       "artists": [
         {
-          "name": "Outsider",
-          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
         }
       ],
-      "duration_ms": 191360,
-      "name": "\uc678\ud1a8\uc774",
-      "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
+      "duration_ms": 204800,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy"
     },
     {
       "added_at": "2023-08-10 14:02:26",

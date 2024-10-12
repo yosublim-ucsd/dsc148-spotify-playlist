@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Caribou",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Tourist",
   "name": "Altar JP",
   "tracks": [
     {
@@ -166,6 +166,28 @@
       "duration_ms": 352472,
       "name": "31 Bloom",
       "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121273,
+      "name": "365 featuring shygirl",
+      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
     },
     {
       "album": {
@@ -2117,6 +2139,32 @@
     },
     {
       "album": {
+        "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+        "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308946,
+      "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+      "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
+    },
+    {
+      "album": {
         "name": "Breathe (Qrion Remix)",
         "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
       },
@@ -2360,7 +2408,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 427083,
       "name": "Can Imagination Transcend Distance?",
       "url": "https://open.spotify.com/track/1qujYjBgCAaXhG5VcVy1Ec"
@@ -2717,6 +2765,32 @@
     },
     {
       "album": {
+        "name": "CHROMA 002",
+        "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
+      },
+      "artists": [
+        {
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249894,
+      "name": "CHROMA 002 L.A.V.A",
+      "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
+    },
+    {
+      "album": {
         "name": "CHROMA 003",
         "url": "https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk"
       },
@@ -2780,6 +2854,28 @@
       "duration_ms": 310066,
       "name": "CHROMA 005 A.L.O.E",
       "url": "https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if"
+    },
+    {
+      "album": {
+        "name": "CHROMA 007",
+        "url": "https://open.spotify.com/album/2HSmpeyuel16OScotn2RDF"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Hammer",
+          "url": "https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340540,
+      "name": "CHROMA 007 STEALL",
+      "url": "https://open.spotify.com/track/4O6j6Dzz2M7Y0qf6hDMWrt"
     },
     {
       "album": {
@@ -3056,7 +3152,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 236332,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
@@ -7209,6 +7305,28 @@
     },
     {
       "album": {
+        "name": "GROWUP",
+        "url": "https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146478,
+      "name": "GROWUP",
+      "url": "https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY"
+    },
+    {
+      "album": {
         "name": "Guidance to the Sennou",
         "url": "https://open.spotify.com/album/7xFlTctnZVdqNEvDBuKXSW"
       },
@@ -8447,6 +8565,24 @@
     },
     {
       "album": {
+        "name": "Ingo Swann",
+        "url": "https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217513,
+      "name": "Ingo Swann",
+      "url": "https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE"
+    },
+    {
+      "album": {
         "name": "Intelligent Bad Bwoy",
         "url": "https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9"
       },
@@ -9636,6 +9772,32 @@
       "duration_ms": 332000,
       "name": "Likshot",
       "url": "https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        },
+        {
+          "name": "Oliver River",
+          "url": "https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Lily Garden",
+      "url": "https://open.spotify.com/track/17I33j20zFqadanTwnyO6M"
     },
     {
       "album": {
@@ -11410,6 +11572,28 @@
       "duration_ms": 252000,
       "name": "Naarm's Sunset",
       "url": "https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr"
+    },
+    {
+      "album": {
+        "name": "Nagareru (SidiRum Remix)",
+        "url": "https://open.spotify.com/album/20ZHlsnZEjhVCDtOr5wEaG"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Inoue",
+          "url": "https://open.spotify.com/artist/5fr4WRZR59VYttwBALTLUo"
+        },
+        {
+          "name": "SidiRum",
+          "url": "https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326489,
+      "name": "Nagareru - SidiRum Remix",
+      "url": "https://open.spotify.com/track/60uhqu9h6xIMCGqGUrIxim"
     },
     {
       "album": {
@@ -14518,7 +14702,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 191250,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
@@ -14898,7 +15082,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 320624,
       "name": "Signs - Zed Bias Remix",
       "url": "https://open.spotify.com/track/3RChusS6n0ExBmym2SS8pL"
@@ -14960,7 +15144,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 227333,
       "name": "Sima Agua (feat. Mayra Andrade)",
       "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
@@ -15218,7 +15402,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 166443,
       "name": "Sorry (Digital Underground)",
       "url": "https://open.spotify.com/track/4DXCVd7CIfnCtCtQZspNBy"
@@ -15294,7 +15478,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201204,
       "name": "Spillage",
       "url": "https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb"
@@ -15602,6 +15786,28 @@
       "duration_ms": 269995,
       "name": "Strong - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po"
+    },
+    {
+      "album": {
+        "name": "Stunt Like This",
+        "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166774,
+      "name": "Stunt Like This",
+      "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
     },
     {
       "album": {
@@ -16874,6 +17080,28 @@
       "duration_ms": 150967,
       "name": "Tombolero",
       "url": "https://open.spotify.com/track/0pX5b8YNppjahDrYt0VDAR"
+    },
+    {
+      "album": {
+        "name": "Us Two",
+        "url": "https://open.spotify.com/album/53KeCWH79dIEetwOjFcupt"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252676,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN"
     },
     {
       "album": {
@@ -18508,7 +18736,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 279428,
       "name": "WHERE'S MY VAPE?",
       "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"
@@ -19106,7 +19334,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 495000,
       "name": "Z\u00e9l\u00e9 - Palms Trax Remix",
       "url": "https://open.spotify.com/track/6U77Knjl2iJLdwodnemxLP"

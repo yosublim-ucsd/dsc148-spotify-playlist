@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "BTD",
+        "url": "https://open.spotify.com/album/33Vks6vtJic7YtGpT17Lbz"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125111,
+      "name": "BTD",
+      "url": "https://open.spotify.com/track/2cQQMnWN62QPeSNHf6djXb"
+    },
+    {
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 303000,
       "name": "Grape Trees (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 190243,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/3rlHUJINS5opvbNgDTF4Y6"
@@ -5704,6 +5722,28 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
     },
     {
       "album": {
@@ -7710,7 +7750,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 157192,
       "name": "Neva (feat. Monaleo)",
       "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
@@ -13230,6 +13270,24 @@
       "duration_ms": 110916,
       "name": "Young And Turnt",
       "url": "https://open.spotify.com/track/6J5bbXGG1GdDxIYex4tSg5"
+    },
+    {
+      "album": {
+        "name": "MERCZONE",
+        "url": "https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125843,
+      "name": "ZONE",
+      "url": "https://open.spotify.com/track/5UfFkT3i5V20VrvjQkLJHx"
     },
     {
       "album": {

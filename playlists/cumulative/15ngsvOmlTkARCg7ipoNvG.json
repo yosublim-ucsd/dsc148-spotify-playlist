@@ -7895,6 +7895,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5ouTuRkKH3QBx10WtZCLSh"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60371,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/3ERPlCfjcHjlN34WNu6T1c"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm"
       },
@@ -9686,6 +9704,24 @@
       "duration_ms": 100116,
       "name": "Evolve",
       "url": "https://open.spotify.com/track/5rib0EIdNJ2cRGIvxVXhTc"
+    },
+    {
+      "album": {
+        "name": "Exhaling",
+        "url": "https://open.spotify.com/album/5zrBJ60RQnhqyV1Ch3M9Zw"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60291,
+      "name": "Exhaling",
+      "url": "https://open.spotify.com/track/0HYJk7cIjJfXyLwo5pTKxj"
     },
     {
       "album": {
@@ -20631,6 +20667,24 @@
     },
     {
       "album": {
+        "name": "Ours",
+        "url": "https://open.spotify.com/album/6OcAUt2rvkldX7xFefzWmZ"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60432,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/0c3A8ahM1g0fBgcPtfXaOB"
+    },
+    {
+      "album": {
         "name": "Outlander Theme (Skye Boat Song)",
         "url": "https://open.spotify.com/album/14RxInhfFNtK17T8n4c1uR"
       },
@@ -27420,6 +27474,24 @@
       "duration_ms": 62385,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/291X0cX0jmtyN2KZyYMrwe"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4QIcuBgE76iLLpKrVI0ZWy"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60351,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/0nzCufFrnXjJsJP8B747QN"
     },
     {
       "album": {

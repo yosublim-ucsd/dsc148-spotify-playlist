@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,068 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,217 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 58 | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/track/6pB1rlj3t9CyyQ39LETvnc) | [Mayor Deseo](https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g) | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi) | 2:14 |
 | 59 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 |
 
-Snapshot ID: `Zt642AAAAAASLPPLyt9I/ODnSuqsSj0o`
+Snapshot ID: `Zt642AAAAACMhCRmhwXC+9O+n0RdiG3v`

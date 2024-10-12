@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Ant In The Afterbirth (feat. Loathe)",
+        "url": "https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E"
+      },
+      "artists": [
+        {
+          "name": "NOWHERE2RUN",
+          "url": "https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s"
+        },
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Ant In The Afterbirth (feat. Loathe)",
+      "url": "https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D"
+    },
+    {
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
       },
@@ -354,7 +376,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 167834,
       "name": "Believe the Hype",
       "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"

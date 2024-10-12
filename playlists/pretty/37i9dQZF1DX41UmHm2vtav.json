@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 471362,
+  "num_followers": 471399,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuzl5AAAAACLF0hRNWq0R2m0XXmn0OcV",
+  "snapshot_id": "Zuzl5AAAAAAzQXHY99zY4Lb8/9jb51Lr",
   "tracks": [
     {
       "added_at": "2024-09-20 03:03:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "La Belle De Jour (Remix)",
-        "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
-      },
-      "artists": [
-        {
-          "name": "Ronald DJ",
-          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 155393,
-      "name": "La Belle De Jour (Remix)",
-      "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
       },
@@ -1227,6 +1203,30 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "La Belle De Jour (Remix)",
+        "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
+      },
+      "artists": [
+        {
+          "name": "Ronald DJ",
+          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 155393,
+      "name": "La Belle De Jour (Remix)",
+      "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "Presente do Mar",
         "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
       },
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 172876,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2024-09-20 03:03:00",

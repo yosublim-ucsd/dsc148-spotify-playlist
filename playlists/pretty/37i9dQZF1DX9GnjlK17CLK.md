@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,270 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,358 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [I Was Coming Home](https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Addressing The Nation With The Blues](https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt) | 6:00 |
 | 60 | [Thelma](https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Lost A Good Girl](https://open.spotify.com/album/0eYqgedY7hE1bkeZbUAKms) | 3:32 |
 
-Snapshot ID: `ZlygzwAAAAACvQTe2cKZGXZeeVxcLxTy`
+Snapshot ID: `ZlygzwAAAABdyjzuoNrdrVNtVPp16TgD`

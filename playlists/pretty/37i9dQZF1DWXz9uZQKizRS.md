@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Jann
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,748 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,769 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 |
 | 100 | [Romanza](https://open.spotify.com/track/3yDe2h7ZDYJEhrZ7OI4fJO) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO), [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Romanza](https://open.spotify.com/album/3rYF62TyjzJ1pdm8CBIhrs) | 2:26 |
 
-Snapshot ID: `ZwhOYAAAAABlfFSgw9wnFr83VkBQgJZm`
+Snapshot ID: `ZwhOYAAAAACz4I0syZirA8//Pe92Uu2a`

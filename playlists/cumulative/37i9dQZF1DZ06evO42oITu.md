@@ -2,7 +2,7 @@
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This Is Eric Clapton\. Los temas esenciales, todos en una lista.
+> This is Eric Clapton\. The essential tracks, all in one playlist.
 
 153 songs - 11 hr 39 min
 

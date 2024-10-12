@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,647 songs - 3 day 13 hr 31 min
+1,648 songs - 3 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [All Day](https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [All Day](https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO) | 2:37 | 2024-06-27 | 2024-10-11 |
 | [All I Need](https://open.spotify.com/track/7n6xuA1IywJ8AskTmQAfRj) | [Linéa](https://open.spotify.com/artist/2hywbSL8p7zNftO3bFd7SP) | [All I Need](https://open.spotify.com/album/0KI0Iaev1AYzzHMvueiU9g) | 3:52 | 2024-06-06 | 2024-06-28 |
 | [All I Need](https://open.spotify.com/track/1p3b4nDHxGxm3K0nBuFrdR) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [All I Need](https://open.spotify.com/album/6Y5zC3epMcAeNGs5lrcpaW) | 2:30 | 2024-02-29 | 2024-04-19 |
+| [ALL IN](https://open.spotify.com/track/0kIqMQt2VtC0bxcnOU9iGf) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [ALL IN](https://open.spotify.com/album/1ixHyQnaN9WXJP66W4HvbK) | 2:05 | 2024-10-10 |  |
 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 | 2023-02-23 | 2023-10-06 |
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 |  |
@@ -1303,7 +1304,7 @@
 | [Sommartider hej!](https://open.spotify.com/track/1rUd5snXKfQ5TpCLvhBzGM) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Sommartider hej!](https://open.spotify.com/album/2THySII2sobcnUQRPVFgMT) | 3:17 | 2021-12-16 | 2022-02-10 |
 | [Sommartårar](https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Sommartårar](https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY) | 3:20 | 2022-09-15 | 2022-10-07 |
 | [Sophie](https://open.spotify.com/track/156PB5oBdbdXSsJQS2yYzH) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Sophie](https://open.spotify.com/album/24kGpZRahvBugJGZDhyf75) | 2:23 | 2023-11-09 | 2024-02-09 |
-| [Sorgetornets spejare](https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Sorgetornets spejare](https://open.spotify.com/album/5d7FRhQCWZA2w7imnObJR3) | 4:04 | 2024-09-05 |  |
+| [Sorgetornets spejare](https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Sorgetornets spejare](https://open.spotify.com/album/5d7FRhQCWZA2w7imnObJR3) | 4:04 | 2024-09-05 | 2024-10-12 |
 | [SOVA ME NÅN ANNAN](https://open.spotify.com/track/7nXfkFG6fNIPwE8DcAw5PT) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOVA ME NÅN ANNAN](https://open.spotify.com/album/6MUzMkt675hx5r08JPuqpx) | 2:17 | 2024-04-19 | 2024-05-24 |
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 | 2023-10-06 |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |

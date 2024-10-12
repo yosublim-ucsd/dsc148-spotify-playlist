@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: 2DEEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,616 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,942,546 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 59 | [Hueso](https://open.spotify.com/track/4ghBopBP7XwIiqdnkH7hUv) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Hueso](https://open.spotify.com/album/3slBqlYuBO49cney0hb3hk) | 5:12 |
 | 60 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
 
-Snapshot ID: `ZvYtwAAAAACRRJoKOI1uF4zmp+IKAmEq`
+Snapshot ID: `ZvYtwAAAAACZxIMg5xJi42v207mFCwUQ`

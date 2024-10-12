@@ -1,12 +1,12 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 180652,
+  "num_followers": 180740,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwRGVwAAAACyoYY+6SPAP64W1v/6QZTf",
+  "snapshot_id": "ZwRGVwAAAABrePS4yPusY3J4AiSnSVfR",
   "tracks": [
     {
       "added_at": "2024-10-07 20:36:39",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth (Remastered)",
-        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
+        "name": "Desperate, Scared, but Social",
+        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
       "artists": [
         {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+          "name": "Emily's Sassy Lime",
+          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
         }
       ],
-      "duration_ms": 99880,
-      "name": "Love Thing",
-      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
+      "duration_ms": 111266,
+      "name": "Mr. Moneybag$",
+      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Desperate, Scared, but Social",
-        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
+        "name": "Pottymouth (Remastered)",
+        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
       },
       "artists": [
         {
-          "name": "Emily's Sassy Lime",
-          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
         }
       ],
-      "duration_ms": 111266,
-      "name": "Mr. Moneybag$",
-      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+      "duration_ms": 99880,
+      "name": "Love Thing",
+      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Feel Your Feelings Fool!",
-        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
         }
       ],
-      "duration_ms": 157933,
-      "name": "A Living Human Girl",
-      "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
+      "duration_ms": 231920,
+      "name": "Just My Kind",
+      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+        "name": "Feel Your Feelings Fool!",
+        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
       "artists": [
         {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Just My Kind",
-      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
+      "duration_ms": 157933,
+      "name": "A Living Human Girl",
+      "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 104600,
       "name": "Where the Girls Are",
       "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
-      },
-      "artists": [
-        {
-          "name": "Bacchae",
-          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Cold Cold Hearts",
         "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 124800,
       "name": "Any Resemblance...",
       "url": "https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
+      },
+      "artists": [
+        {
+          "name": "Bacchae",
+          "url": "https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Cold Cold Hearts",
+        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
+      },
+      "artists": [
+        {
+          "name": "Cold Cold Hearts",
+          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Cute Boy Discount",
+      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 190160,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Cold Cold Hearts",
-        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
-      },
-      "artists": [
-        {
-          "name": "Cold Cold Hearts",
-          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Cute Boy Discount",
-      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-10-07 20:36:39",

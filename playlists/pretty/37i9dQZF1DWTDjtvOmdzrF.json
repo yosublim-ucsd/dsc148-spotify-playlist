@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556444,
+  "num_followers": 556453,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv0SKwAAAAAOL77J1BxJqOfcXi+06I0I",
+  "snapshot_id": "Zv0SKwAAAADRpK79H12z1h7y9CC0mVTv",
   "tracks": [
     {
       "added_at": "2024-09-02 04:34:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
-      },
-      "artists": [
-        {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
-    },
-    {
-      "added_at": "2024-09-02 04:34:18",
-      "album": {
         "name": "Riuh",
         "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 311496,
       "name": "Usik",
       "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
+    },
+    {
+      "added_at": "2024-09-02 04:34:18",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-09-02 04:34:18",
@@ -743,18 +743,22 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "8 Tahun",
-        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
+        "name": "Tresno liyane",
+        "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
       "artists": [
         {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
         }
       ],
-      "duration_ms": 287453,
-      "name": "Sesuatu Di Jogja",
-      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+      "duration_ms": 290000,
+      "name": "Tresno liyane",
+      "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
     },
     {
       "added_at": "2024-09-02 04:34:18",
@@ -775,22 +779,18 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "Tresno liyane",
-        "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
+        "name": "8 Tahun",
+        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
       "artists": [
         {
-          "name": "Northsle",
-          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
-        },
-        {
-          "name": "Agiff",
-          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Tresno liyane",
-      "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
+      "duration_ms": 287453,
+      "name": "Sesuatu Di Jogja",
+      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2024-09-02 04:34:18",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2024-09-02 04:34:18",
-      "album": {
         "name": "Lihatlah Lebih Dekat",
         "url": "https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 264738,
       "name": "Lihatlah Lebih Dekat",
       "url": "https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z"
+    },
+    {
+      "added_at": "2024-09-02 04:34:18",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2024-09-02 04:34:18",

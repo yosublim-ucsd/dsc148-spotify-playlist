@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Mattyeux
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,016 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,020 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Never Be The Same Again](https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Never Be The Same Again](https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl) | 2:11 |
 | 50 | [Hello Hello](https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Hello Hello](https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs) | 2:36 |
 
-Snapshot ID: `ZwhOYAAAAAB1vtu9RKccsJGdTKQ7n8Pn`
+Snapshot ID: `ZwhOYAAAAABgV7AtlsLAlEtnvzV5DVGI`

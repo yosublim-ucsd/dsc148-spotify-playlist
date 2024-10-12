@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170251,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 152640,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 210065,
       "name": "I Can Lie (The Truth Is)",
       "url": "https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "I Met a Girl",
       "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 182840,
       "name": "Lay Down With You",
       "url": "https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 214266,
       "name": "Not That Strong",
       "url": "https://open.spotify.com/track/6KXedLg5MW4iai1LfIpQ7l"
@@ -3003,6 +3003,28 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211991,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
+    },
+    {
+      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -3464,7 +3486,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 189240,
       "name": "What A View",
       "url": "https://open.spotify.com/track/1NgiY4X2wnypPdke76W4Ed"

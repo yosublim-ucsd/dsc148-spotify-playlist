@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 332750,
+  "num_followers": 332837,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAA/mvu/E5/YcvfeUTT/FSty",
+  "snapshot_id": "ZwiiwAAAAADJ2uX0Ft9oTFSM+jkinXn/",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "NEVER CATCH A BREAK",
+        "url": "https://open.spotify.com/album/0nxG0va2QKT4HDx4HfD6Zl"
+      },
+      "artists": [
+        {
+          "name": "Adam Pastel",
+          "url": "https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 174331,
+      "name": "NEVER CATCH A BREAK",
+      "url": "https://open.spotify.com/track/2546nqsIcRLi51Lqp851fy"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -71,6 +91,22 @@
       "duration_ms": 196488,
       "name": "Something",
       "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Cake",
+        "url": "https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1477,30 +1513,6 @@
       "url": "https://open.spotify.com/track/4ZTejOswcSHkbPfiQi1DVR"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Same Song",
-        "url": "https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B"
-      },
-      "artists": [
-        {
-          "name": "falcxne",
-          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
-        },
-        {
-          "name": "ev\u00e4n",
-          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
-        },
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "Same Song",
-      "url": "https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS"
-    },
-    {
       "added_at": "2023-09-01 04:01:00",
       "album": {
         "name": "Body Weak (Diamond Cut)",
@@ -1795,30 +1807,6 @@
       "duration_ms": 214226,
       "name": "Lost And Found",
       "url": "https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Fixations",
-        "url": "https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t"
-      },
-      "artists": [
-        {
-          "name": "JOS",
-          "url": "https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a"
-        },
-        {
-          "name": "Ashdown",
-          "url": "https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE"
-        },
-        {
-          "name": "Spijk",
-          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
-        }
-      ],
-      "duration_ms": 193090,
-      "name": "Fixations",
-      "url": "https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt"
     },
     {
       "added_at": "2024-01-12 05:01:00",

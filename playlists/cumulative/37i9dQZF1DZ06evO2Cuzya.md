@@ -2,7 +2,7 @@
 
 ### [This Is Gracie Abrams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Cuzya)
 
-> This is Gracie Abrams\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Gracie Abrams\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 47 min
 
@@ -42,7 +42,7 @@
 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 | 2023-07-17 |  |
 | [I know it won't work](https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:05 | 2023-03-17 | 2023-07-18 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-06-23 |  |
-| [i love you, i'm sorry \(gracie abrams\) \- sped up version](https://open.spotify.com/track/3GrmAc2Gi0XMEwi3Scx6w9) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [i love you, i'm sorry \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/1CR9fymG325FMJhVfKVpqe) | 2:10 | 2024-10-04 |  |
+| [i love you, i'm sorry \(gracie abrams\) \- sped up version](https://open.spotify.com/track/3GrmAc2Gi0XMEwi3Scx6w9) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [i love you, i'm sorry \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/1CR9fymG325FMJhVfKVpqe) | 2:10 | 2024-10-04 | 2024-10-12 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2023-03-17 |  |
 | [I should hate you](https://open.spotify.com/track/1PV9R2n7xM53Nz3BOyJ973) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:18 | 2023-03-17 | 2023-07-19 |
 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 | 2023-07-18 |  |

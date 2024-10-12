@@ -1,12 +1,12 @@
 {
   "description": "Endelig fredag og masse ny musikk! \ud83c\udfb5",
-  "num_followers": 189158,
+  "num_followers": 189236,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAACifMUFpJiVC1MsUH3TeHAw",
+  "snapshot_id": "ZwhOYAAAAADg47g3uH3L7OCmeRkHXIeC",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1278,6 +1278,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,

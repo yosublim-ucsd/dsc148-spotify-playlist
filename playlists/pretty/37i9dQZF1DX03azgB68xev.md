@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover: <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,991 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,996 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [Satisfied](https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Satisfied](https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0) | 4:09 |
 | 100 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 
-Snapshot ID: `ZwCnZgAAAAAoQpHCCyGnn5z0SrhjlDQt`
+Snapshot ID: `ZwCnZgAAAAA6BgV+l49VuxdKUwcr2MQs`

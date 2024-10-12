@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Conton Candy",
-  "num_followers": 15618,
+  "num_followers": 15631,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwckxgAAAAAizuHwcEgpM9ERfecpOsgl",
+  "snapshot_id": "ZwckxgAAAADIxTYSfMJBtaz5tGyhbB5/",
   "tracks": [
     {
       "added_at": "2024-10-10 00:50:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-10 00:50:14",
       "album": {
-        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
-    },
-    {
-      "added_at": "2024-10-10 00:50:14",
-      "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/22Ch3wBTwzaMgWKqIertI6"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 233265,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4fmX6sOptsXNY1V3l0N6pd"
+    },
+    {
+      "added_at": "2024-10-10 00:50:14",
+      "album": {
+        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
     },
     {
       "added_at": "2024-10-10 00:50:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-10 00:50:14",
       "album": {
-        "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
-        "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
-      },
-      "artists": [
-        {
-          "name": "This is LAST",
-          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
-        }
-      ],
-      "duration_ms": 222352,
-      "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
-      "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
-    },
-    {
-      "added_at": "2024-10-10 00:50:14",
-      "album": {
         "name": "\u60b2\u3057\u307f\u306f\u30d0\u30b9\u306b\u4e57\u3063\u3066",
         "url": "https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 235351,
       "name": "\u60b2\u3057\u307f\u306f\u30d0\u30b9\u306b\u4e57\u3063\u3066",
       "url": "https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi"
+    },
+    {
+      "added_at": "2024-10-10 00:50:14",
+      "album": {
+        "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
+        "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "duration_ms": 222352,
+      "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
+      "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
     },
     {
       "added_at": "2024-10-10 00:50:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-10 00:50:14",
       "album": {
-        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
-      },
-      "artists": [
-        {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
-        }
-      ],
-      "duration_ms": 181170,
-      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
-    },
-    {
-      "added_at": "2024-10-10 00:50:14",
-      "album": {
         "name": "\u9762\u5f71",
         "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 221466,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
+    },
+    {
+      "added_at": "2024-10-10 00:50:14",
+      "album": {
+        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "duration_ms": 181170,
+      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
     },
     {
       "added_at": "2024-10-10 00:50:14",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-10 00:50:14",
       "album": {
-        "name": "\u671d\u9732\u306f\u6728\u6f0f\u308c\u65e5\u306b\u6eb6\u3051\u3066",
-        "url": "https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 229392,
-      "name": "\u541b\u3068",
-      "url": "https://open.spotify.com/track/63WA25WfYdOGJWSKW9g2NG"
-    },
-    {
-      "added_at": "2024-10-10 00:50:14",
-      "album": {
         "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
         "url": "https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 201280,
       "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
       "url": "https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq"
+    },
+    {
+      "added_at": "2024-10-10 00:50:14",
+      "album": {
+        "name": "\u671d\u9732\u306f\u6728\u6f0f\u308c\u65e5\u306b\u6eb6\u3051\u3066",
+        "url": "https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 229392,
+      "name": "\u541b\u3068",
+      "url": "https://open.spotify.com/track/63WA25WfYdOGJWSKW9g2NG"
     },
     {
       "added_at": "2024-10-10 00:50:14",

@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 664047,
+  "num_followers": 664390,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo2ptgAAAABEmS8uYihR3x3npcoM1axW",
+  "snapshot_id": "Zo2ptgAAAABSZG2np11WnAQ6wFqVflJU",
   "tracks": [
     {
       "added_at": "2024-07-09 21:20:54",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Anastasio Pacheco",
+      "url": "https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud"
+    },
+    {
+      "added_at": "2024-07-09 21:20:54",
+      "album": {
         "name": "Me Traes de un Ala",
         "url": "https://open.spotify.com/album/01jUgz4sKHuQlIEI8kzBDv"
       },
@@ -1207,22 +1227,6 @@
       "duration_ms": 151133,
       "name": "El Panam\u00e1 West",
       "url": "https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta"
-    },
-    {
-      "added_at": "2024-07-09 21:20:54",
-      "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/5pfpRIBionnRJanroz9TM0"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 203592,
-      "name": "Corrido Del Gallito",
-      "url": "https://open.spotify.com/track/7eCJOPL885QiV1DiJ6v3CS"
     }
   ],
   "unique_name": "Corridos de Anta\u00f1o",

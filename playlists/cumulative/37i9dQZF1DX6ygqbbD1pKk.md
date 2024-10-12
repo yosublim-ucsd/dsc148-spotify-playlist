@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney.
 
-136 songs - 6 hr 56 min
+137 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2024-04-30 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2023-09-15 | 2024-05-01 |
 | [El Latido de mi Corazón](https://open.spotify.com/track/2qZ9pgLM4mJ1hy4lfe8Zi9) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:01 | 2023-12-06 |  |
+| [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 | 2024-10-11 |  |
 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 | 2023-09-15 |  |
 | [El Mundo es mi Familia](https://open.spotify.com/track/0W4UPlbJs8lgX1bAKxzavM) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2023-09-15 |  |
 | [El Reino de Rosas](https://open.spotify.com/track/7rG7na8ZzhhopBlbirpxuZ) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Elenco de Wish](https://open.spotify.com/artist/3cIjHsZRKDs0AiZbd462y6) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:27 | 2024-04-30 | 2024-09-12 |

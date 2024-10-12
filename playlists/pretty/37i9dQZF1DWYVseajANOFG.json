@@ -1,44 +1,32 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 121014,
+  "num_followers": 121048,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAABJ+MskvPIFMoQMxhDUVE97",
+  "snapshot_id": "ZwiiwAAAAACYoK8+i7X/PSARxWH0alDr",
   "tracks": [
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Coexistencia",
-        "url": "https://open.spotify.com/album/2rFhnxpo2YKEyUnqo5REIX"
+        "name": "Baby Gangster",
+        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
       },
       "artists": [
         {
           "name": "BARBEL",
           "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 150577,
-      "name": "Cuarentena",
-      "url": "https://open.spotify.com/track/5xISuVLHn3eobzZUsyzIDZ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Campana",
-        "url": "https://open.spotify.com/album/3lUj4RtVOEEyvTm9A4NffE"
-      },
-      "artists": [
+        },
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
         }
       ],
-      "duration_ms": 288932,
-      "name": "Campana",
-      "url": "https://open.spotify.com/track/7xGzAyF9H4h8CCUbWCzBqt"
+      "duration_ms": 239016,
+      "name": "Baby Gangster",
+      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -61,6 +49,22 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "DE PARTY X TI",
+        "url": "https://open.spotify.com/album/0MlQNRFhEfOehAbLu7ao3N"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "DE PARTY X TI",
+      "url": "https://open.spotify.com/track/72acHoAGS9ffGIVPdabc9H"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Orion",
@@ -79,26 +83,6 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2024-09-30 02:55:30",
-      "album": {
-        "name": "Fans",
-        "url": "https://open.spotify.com/album/6wwCLmkL1FglW591bh1KL1"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
-        }
-      ],
-      "duration_ms": 168445,
-      "name": "Fans",
-      "url": "https://open.spotify.com/track/16QsGYythDEi35Pr2I7uLC"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -127,26 +111,6 @@
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Baby Gangster",
-        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
-        }
-      ],
-      "duration_ms": 239016,
-      "name": "Baby Gangster",
-      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -205,30 +169,6 @@
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
     },
     {
-      "added_at": "2024-09-30 02:55:30",
-      "album": {
-        "name": "Un Like",
-        "url": "https://open.spotify.com/album/4PDGRObNT5p5wgxgsXa5Qr"
-      },
-      "artists": [
-        {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Kenny Man",
-          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
-        },
-        {
-          "name": "Max Perry",
-          "url": "https://open.spotify.com/artist/3g5anBLg3bhR2jwkiTOmYM"
-        }
-      ],
-      "duration_ms": 198506,
-      "name": "Un Like",
-      "url": "https://open.spotify.com/track/348J6PE2ZgHpE7dFQj9aQc"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Chacal",
@@ -251,6 +191,38 @@
       "duration_ms": 171812,
       "name": "Tu Chacal",
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tus Demonios",
+        "url": "https://open.spotify.com/album/3mYAT2n6mEDuNi80D2q5Jm"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Roazter",
+          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "duration_ms": 321882,
+      "name": "Tus Demonios",
+      "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -523,22 +495,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Errores",
-        "url": "https://open.spotify.com/album/1mzynOfZmXhXPiUqvjuReT"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 204435,
-      "name": "Errores",
-      "url": "https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/2yJfdgd8Y38uK5PgukSnpB"
       },
@@ -607,22 +563,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "TOP MODEL",
         "url": "https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij"
       },
@@ -643,6 +583,26 @@
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/7x1dXZX20dTJZuGPShXW4o"
+      },
+      "artists": [
+        {
+          "name": "Meldo",
+          "url": "https://open.spotify.com/artist/2WKB0zZwYLkbbAftnceiEA"
+        },
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        }
+      ],
+      "duration_ms": 172830,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/6FVOY6GSHXB3XlY3AIfMXf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -739,6 +699,42 @@
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "No Me Llore",
+        "url": "https://open.spotify.com/album/4sQzfeWk8NxrnfsnAEufhF"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Bin$ho",
+          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
+        },
+        {
+          "name": "Alexito OTB",
+          "url": "https://open.spotify.com/artist/401ecmR8ImKSXueRLk9MwT"
+        }
+      ],
+      "duration_ms": 286530,
+      "name": "No Me Llore",
+      "url": "https://open.spotify.com/track/6wVwNV3dm999v7XTeINoAE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -901,6 +897,22 @@
       "url": "https://open.spotify.com/track/0jYb9kx7BNJTJQIQQdffdN"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Campana",
+        "url": "https://open.spotify.com/album/3lUj4RtVOEEyvTm9A4NffE"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 288932,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/7xGzAyF9H4h8CCUbWCzBqt"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tus Labios",
@@ -947,6 +959,26 @@
       "duration_ms": 340480,
       "name": "Dragona Rmix",
       "url": "https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5TFzkkoiTkBzVXYGwzytNB"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Monthy",
+          "url": "https://open.spotify.com/artist/305jSmqgkIaovQoBCcATWl"
+        }
+      ],
+      "duration_ms": 158234,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/7cRs7IIWuhDoMHwN8lzSr7"
     },
     {
       "added_at": "2024-02-02 05:00:00",

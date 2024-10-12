@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,229 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,228 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 | 59 | [Best Day Of My Life \- Gazzo Remix](https://open.spotify.com/track/1eiXLANaZCSKIfDmwTorg5) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Day Of My Life \(Gazzo Remix\)](https://open.spotify.com/album/68A4hh0NUuBib9xhCqG6ec) | 3:17 |
 | 60 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 61 | [Ghost](https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:33 |
-| 62 | [Can't Hold Us](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
+| 62 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 63 | [Trumpsta \(feat\. Treyy G\) \- Djuro Remix](https://open.spotify.com/track/6w2A10HCO5nhBCaNLk4aS2) | [Contiez](https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG) | [Trumpsta \(Remixes\) \(feat\. Treyy G\)](https://open.spotify.com/album/1GA87QBTzwfN33QAkFqCWK) | 4:18 |
 | 64 | [Trumpets](https://open.spotify.com/track/6jizk5lOUnfpaZXYMdfeC6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:37 |
 | 65 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |

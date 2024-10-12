@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: داليا
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,557 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,574 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Ala Ghaflah](https://open.spotify.com/track/6MQkV8WjlZJMjfh3GUDB3V) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [Ala Ghaflah](https://open.spotify.com/album/4fdtOaqPxzO2zHVZBBPRpI) | 3:57 |
 | 50 | [Laylat Wasalik](https://open.spotify.com/track/25mXaT1xhfpNLIxzGuZuMM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [Laylat Wasalik](https://open.spotify.com/album/0dq5lcujNRomZmQF9x4aLk) | 5:40 |
 
-Snapshot ID: `ZwgwAQAAAABqMxxs8PHhoUCC0tr1C67l`
+Snapshot ID: `ZwgwAQAAAAD2xyuiCK/wymEObWbAvvY/`

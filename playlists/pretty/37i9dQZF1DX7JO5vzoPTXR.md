@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: Yseult
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,539 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,558 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 40 | [Not So Different](https://open.spotify.com/track/0JYh5zmUdO79lyzo8E06LK) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Jabs](https://open.spotify.com/artist/2fvjhbcMip4jMPt8W9EZbi) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:13 |
 | 41 | [Bad Body Double](https://open.spotify.com/track/2rkQtnknRZivK7saBryrjm) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Ellipse](https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO) | 4:06 |
 
-Snapshot ID: `ZwbxvgAAAAAk+AqFE4ucZJ+/JeydlJbx`
+Snapshot ID: `ZwbxvgAAAAAAlyOgdYHRNqTidnk4fZnx`

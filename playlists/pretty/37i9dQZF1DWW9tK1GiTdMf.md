@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ NASKA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,542 likes - 96 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,557 likes - 96 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 95 | [COSÌ NON VA \(soppalco\)](https://open.spotify.com/track/01XXlIzKyljHcsIatmA0J4) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [COSÌ NON VA \(soppalco\)](https://open.spotify.com/album/2H7gfyChEP0dFmqgEtF6Cc) | 2:44 |
 | 96 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP), [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 |
 
-Snapshot ID: `ZwhOnAAAAAA5FZBNw8EeFS0V/j9C/DCW`
+Snapshot ID: `ZwhOnAAAAACfxWoTFYNAuS9YYAjBUq/r`

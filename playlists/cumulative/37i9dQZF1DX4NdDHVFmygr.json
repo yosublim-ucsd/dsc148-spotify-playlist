@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "AGHARAS",
+        "url": "https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207761,
+      "name": "AGHARAS",
+      "url": "https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn"
+    },
+    {
+      "album": {
         "name": "Ahlam",
         "url": "https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN"
       },
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 227826,
       "name": "KIF KIF",
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"

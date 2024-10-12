@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: RÜFÜS DU SOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,073 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,084 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 79 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
 | 80 | [All I Need](https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [All I Need](https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI) | 2:58 |
 
-Snapshot ID: `ZwfQDAAAAACZ0gWZ/AYeTL/ihhriTWJV`
+Snapshot ID: `ZwfQDAAAAADMenzLkrHiBCgNMEiFAYh5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,636 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,651 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 59 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 60 | [Set Me Free](https://open.spotify.com/track/6idYm6kt2C1ZuW9ZL53o4g) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Set me free](https://open.spotify.com/album/3u6HkVsfrWF56eVEj73uE1) | 3:05 |
 
-Snapshot ID: `ZwhOYAAAAABUsKGCvMKCkXZ14OIKnBrk`
+Snapshot ID: `ZwhOYAAAAAAMYXHglW2/7BjQR3kSM8Mh`

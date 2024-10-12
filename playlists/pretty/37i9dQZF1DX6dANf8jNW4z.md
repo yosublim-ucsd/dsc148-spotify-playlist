@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ainoa Buitrago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,131 likes - 59 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,130 likes - 59 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 58 | [canciones de amor](https://open.spotify.com/track/1ioyv3wHSI16qJTgAHJ0QR) | [Elena Mesa](https://open.spotify.com/artist/3TuPoyrn7qfq9rMfgTk2hi) | [canciones de amor](https://open.spotify.com/album/1557VAYV8WVr0hJkl8ERBB) | 3:12 |
 | 59 | [Chica Ejemplar](https://open.spotify.com/track/3ZLcEP0GlymhZAcQ4UpazB) | [Elem](https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT) | [Chica Ejemplar](https://open.spotify.com/album/61EX9FSvnCOLYKRwaE3AcR) | 3:01 |
 
-Snapshot ID: `ZwUOdQAAAAAHLPKRVszT4zaOLcM6oUiC`
+Snapshot ID: `ZwUOdQAAAACPW9mx9U1Fa+8dCqDDKCWi`

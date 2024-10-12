@@ -941,6 +941,32 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/1ixHyQnaN9WXJP66W4HvbK"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/0kIqMQt2VtC0bxcnOU9iGf"
+    },
+    {
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -24246,7 +24272,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 244653,
       "name": "Sorgetornets spejare",
       "url": "https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC"

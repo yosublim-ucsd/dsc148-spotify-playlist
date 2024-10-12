@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. CoCo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,849 likes - 54 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,972 likes - 54 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 53 | [CORAGGIO](https://open.spotify.com/track/2l9Rb59UAkpSkX7QEuk2jz) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [CORAGGIO](https://open.spotify.com/album/6fw2a0dx22ngRpJrPOkwie) | 2:27 |
 | 54 | [Antiproiettile](https://open.spotify.com/track/4BJFcW9kap7twC9fFqItxu) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Antiproiettile](https://open.spotify.com/album/27aINAwVGkZ6bdJfDgmJeo) | 2:12 |
 
-Snapshot ID: `ZwhOnAAAAABlI4ZONHzFiexWS8B2NunP`
+Snapshot ID: `ZwhOnAAAAAAea9jACJpVTXE4iaBTHVnb`

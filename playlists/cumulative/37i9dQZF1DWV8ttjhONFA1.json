@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Carolina Donati.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Luciana Tagliapietra.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 205511,
       "name": "100PRE",
       "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Cargo P\u00fablico",
+        "url": "https://open.spotify.com/album/22LZYMvyOmuc0kZujHrxwb"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Cargo P\u00fablico",
+      "url": "https://open.spotify.com/track/2TvxfdNmcqQGeUzFbGYQgc"
+    },
+    {
+      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 274048,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD"
@@ -1476,6 +1498,28 @@
       "duration_ms": 181845,
       "name": "Desprogramado",
       "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
+    },
+    {
+      "album": {
+        "name": "Destruyo Mi Guitarra",
+        "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
+      },
+      "artists": [
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117087,
+      "name": "Destruyo Mi Guitarra",
+      "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
     },
     {
       "album": {
@@ -1754,6 +1798,24 @@
       "duration_ms": 259605,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B"
+    },
+    {
+      "album": {
+        "name": "Vivo La Plata",
+        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
+      },
+      "artists": [
+        {
+          "name": "Viva El\u00e1stico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216770,
+      "name": "El Dato - Vivo La Plata",
+      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
     },
     {
       "album": {
@@ -2079,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Sean Felices",
+        "url": "https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6"
+      },
+      "artists": [
+        {
+          "name": "Luciana Tagliapietra",
+          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201352,
+      "name": "Es Hora",
+      "url": "https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE"
+    },
+    {
+      "album": {
         "name": "Es una pena",
         "url": "https://open.spotify.com/album/5Ee4OCvjPRz2fgINz0CASF"
       },
@@ -2094,6 +2174,28 @@
       "duration_ms": 177828,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/4Ryztl0ef7GeUfcpzcSqla"
+    },
+    {
+      "album": {
+        "name": "Escudo",
+        "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Escudo",
+      "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
     },
     {
       "album": {
@@ -2719,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "LA SE\u00d1AL",
+        "url": "https://open.spotify.com/album/3z1oVqrUyQdwpGeDvTHGM9"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235250,
+      "name": "LA SE\u00d1AL",
+      "url": "https://open.spotify.com/track/77Ju9SRpHc9cB0cNJCRHCB"
+    },
+    {
+      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -2827,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Libros y Gente",
+        "url": "https://open.spotify.com/album/2KGr8C1Z3DiMAZdiiKPfSh"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215947,
+      "name": "Libros y Gente",
+      "url": "https://open.spotify.com/track/0NVvNt05tdDca2BO80gHMy"
+    },
+    {
+      "album": {
         "name": "lo \u00fanico que quer\u00eda este verano",
         "url": "https://open.spotify.com/album/4Oh1JcGS5Ws13ZXVGxtXO4"
       },
@@ -2838,7 +2976,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204404,
       "name": "lo \u00fanico que quer\u00eda este verano",
       "url": "https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79"
@@ -3124,7 +3262,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 235456,
       "name": "Mate Cocido",
       "url": "https://open.spotify.com/track/7pzaXobuXJswLGP90nJoLd"
@@ -3462,6 +3600,24 @@
       "duration_ms": 208695,
       "name": "Nada Que Decir",
       "url": "https://open.spotify.com/track/7n6Judorbmi3LyykG9AcYP"
+    },
+    {
+      "album": {
+        "name": "Nadena",
+        "url": "https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145089,
+      "name": "Nadena",
+      "url": "https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE"
     },
     {
       "album": {
@@ -4532,7 +4688,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
@@ -4816,7 +4972,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
@@ -5186,7 +5342,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/1xCD7ccEtiylN6BBJ4ogXF"

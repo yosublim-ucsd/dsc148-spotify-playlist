@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Blxckie, 25K, A$AP Ferg, and more...",
+  "description": "Only the hottest Hip Hop from DJ Slique, KindlyNxsh, A$AP Ferg, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -126,6 +126,24 @@
       "duration_ms": 260530,
       "name": "23",
       "url": "https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc"
+    },
+    {
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     },
     {
       "album": {
@@ -482,7 +500,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 162646,
       "name": "Back Into It",
       "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
@@ -1707,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Eish Chief (Remix)",
+        "url": "https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220327,
+      "name": "Eish Chief - Remix",
+      "url": "https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4"
+    },
+    {
+      "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
@@ -1780,7 +1820,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -4453,6 +4493,28 @@
     },
     {
       "album": {
+        "name": "Platinum (feat. Frank Casino)",
+        "url": "https://open.spotify.com/album/44mgzWsvqEfFDUm1v8ZCf7"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "Platinum (feat. Frank Casino)",
+      "url": "https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67"
+    },
+    {
+      "album": {
         "name": "THE4MULA",
         "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
       },
@@ -4762,7 +4824,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -5074,7 +5136,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155102,
       "name": "SHEIN CART",
       "url": "https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn"
@@ -5374,6 +5436,24 @@
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
+    },
+    {
+      "album": {
+        "name": "SOULLESS",
+        "url": "https://open.spotify.com/album/0gsirrJcV3wOGm79FzHapK"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217056,
+      "name": "SOULLESS",
+      "url": "https://open.spotify.com/track/57sUoOeMObVoDOyyalnpUh"
     },
     {
       "album": {
@@ -6456,7 +6536,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -6853,6 +6933,28 @@
     },
     {
       "album": {
+        "name": "Why Lie?",
+        "url": "https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Why Lie?",
+      "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
+    },
+    {
+      "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
@@ -6904,7 +7006,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
@@ -6926,6 +7028,24 @@
       "duration_ms": 210931,
       "name": "Yes - vinyl version",
       "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
+    },
+    {
+      "album": {
+        "name": "Teen Revolution",
+        "url": "https://open.spotify.com/album/2GMA0txzGTDB2MZiKTPx6H"
+      },
+      "artists": [
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167707,
+      "name": "YOUNG KUPA",
+      "url": "https://open.spotify.com/track/6IewC22nvipNsUwGP9gfya"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg"

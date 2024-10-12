@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: JOPLYN
 
-4,306 songs - 15 day 11 hr 49 min
+4,307 songs - 15 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1642,7 +1642,7 @@
 | [Hell Or Heaven](https://open.spotify.com/track/7DvL6EIGUSajp8qJSDgiEu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Hell Or Heaven](https://open.spotify.com/album/2CVepRrDlY2Fieqxze7L4J) | 4:13 | 2023-09-28 | 2023-10-20 |
 | [Her \(Unafraid\)](https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Her \(Unafraid\)](https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC) | 3:33 | 2024-03-07 | 2024-03-29 |
 | [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-10-12 | 2023-11-03 |
-| [Herbie Crashed The Party](https://open.spotify.com/track/7kx5rTd4f8Q9dNyvj5la0U) | [Franz Matthews](https://open.spotify.com/artist/0BIEy45aaKCjwertpSGy4K) | [Symmetric Dance](https://open.spotify.com/album/3nimYZkPhuu2RCD7OSJBoD) | 6:36 | 2024-09-19 |  |
+| [Herbie Crashed The Party](https://open.spotify.com/track/7kx5rTd4f8Q9dNyvj5la0U) | [Franz Matthews](https://open.spotify.com/artist/0BIEy45aaKCjwertpSGy4K) | [Symmetric Dance](https://open.spotify.com/album/3nimYZkPhuu2RCD7OSJBoD) | 6:36 | 2024-09-19 | 2024-10-12 |
 | [Here Again](https://open.spotify.com/track/5tjKn1vs9VXuiX1oQn4zzK) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Here Again](https://open.spotify.com/album/0IlNCKUSISscfx38FhKD27) | 3:29 | 2024-07-11 | 2024-08-02 |
 | [here and now](https://open.spotify.com/track/78w4b0a7r01JPR3tIH6Gkd) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [here and now](https://open.spotify.com/album/2kh5WzTitRztGwuDxSEDSW) | 5:04 | 2024-01-18 | 2024-02-03 |
 | [Here I Am](https://open.spotify.com/track/2hkfBFxsLNP9sGNTtaQeoU) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Here I Am](https://open.spotify.com/album/1tlgtsDhkOOvfmm0Y5BFTb) | 6:00 | 2023-06-22 | 2023-07-14 |
@@ -2277,6 +2277,7 @@
 | [Lost Soul](https://open.spotify.com/track/4zwCdIhg6S7cGwjiteIV4K) | [Ben Spalding](https://open.spotify.com/artist/493xTJQVGRYiCWfVo9Stmc), [Ronald Christoph](https://open.spotify.com/artist/694Mu9TpePnihtyxVNHBW2) | [Lost Soul](https://open.spotify.com/album/5yvYGc6HwjHehlzBpxIkji) | 7:07 | 2022-04-14 | 2022-04-22 |
 | [Losterdam \- Ivan Masa Remix](https://open.spotify.com/track/3kFOBGmllELq7eRvf486iH) | [Yost Koen](https://open.spotify.com/artist/3qdr0h0e2XHJSOsEyktYdZ), [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Losterdam \(Ivan Masa Remix\)](https://open.spotify.com/album/4ajQ139eWziTPYKzArILds) | 6:32 | 2024-06-13 | 2024-06-21 |
 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 | 2022-07-28 | 2022-08-12 |
+| [Loud Enough](https://open.spotify.com/track/0j7XbEOW54yqMOSzFJjxDM) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Loud Enough](https://open.spotify.com/album/5OQpy4n7LH966i09kgKXJj) | 5:15 | 2024-10-11 |  |
 | [Love](https://open.spotify.com/track/5DMsxlTI9ltk7sN46fd065) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Love](https://open.spotify.com/album/4Cp6bzlYbEmkcdwzhuZfTs) | 4:19 | 2024-02-02 | 2024-03-01 |
 | [Love](https://open.spotify.com/track/2dijKTdhStDrjSzkqGEfpm) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [RainboWarriors, Vol\. 1](https://open.spotify.com/album/5z0cpCSHz236cGJVxxNKXH) | 3:42 | 2024-04-25 | 2024-05-17 |
 | [Love](https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Love](https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse) | 3:13 | 2023-11-09 | 2023-12-01 |

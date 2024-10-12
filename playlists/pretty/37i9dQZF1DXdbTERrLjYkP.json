@@ -1,13 +1,141 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Samantha Ebert",
-  "num_followers": 98147,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Solya",
+  "num_followers": 98179,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAADYKzJ/OzwSUFwH7Yhppnfs",
+  "snapshot_id": "ZwiiwAAAAADTf2pCAA5JpZyYnlooyCyH",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/5CiR2Jm9EBTNTbLDkqxtlE"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7zUSOBWsRO6AD7mRT0lEW7"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1tAXnxI5LkZPc2NuGHTW2u"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5p3EiMypl7QejayVenmLEM"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "15%",
+        "url": "https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "15%",
+      "url": "https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "99 and counting",
+        "url": "https://open.spotify.com/album/18CxNkOBD4IfYtoEZ6kPZE"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "99 and counting",
+      "url": "https://open.spotify.com/track/1njBCJqiWrgMr8p6iFplVN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "As Soon As I'm Gone",
+        "url": "https://open.spotify.com/album/0GtJHvcgZlZG9fPCEx8eQ3"
+      },
+      "artists": [
+        {
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
+        }
+      ],
+      "duration_ms": 181153,
+      "name": "As Soon As I'm Gone",
+      "url": "https://open.spotify.com/track/2nQHEShCowzlA9MssApiAW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2VuST67lANIbEPX13rzCTp"
+      },
+      "artists": [
+        {
+          "name": "Nicolina",
+          "url": "https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb"
+        }
+      ],
+      "duration_ms": 192405,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/2wsvrOWiTvfFMxp3QEVIOT"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/740ZfWRY6fQuysBFuzWDwu"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Bourg",
+          "url": "https://open.spotify.com/artist/3pg4cfNfPC0ehk912YtXe9"
+        }
+      ],
+      "duration_ms": 205018,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/4oSywTRBD1TCpvWehg4cxp"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -57,6 +185,22 @@
       "url": "https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Copy Paste",
+        "url": "https://open.spotify.com/album/0ABkG7Us2D7La7plEig2ir"
+      },
+      "artists": [
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        }
+      ],
+      "duration_ms": 174694,
+      "name": "Copy Paste",
+      "url": "https://open.spotify.com/track/0zOiWjLmortIZJiPM8MU9T"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Boysober",
@@ -87,22 +231,6 @@
       "duration_ms": 166912,
       "name": "If You Were A Person (Ruby's Song)",
       "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 236210,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -667,22 +795,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "We Say Goodbye",
-        "url": "https://open.spotify.com/album/7x1odOgxt7VRV2Tj4XQYU2"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 143267,
-      "name": "We Say Goodbye",
-      "url": "https://open.spotify.com/track/5YhYzgnAgRj1sKXLqcaM6N"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "paris",
         "url": "https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak"
       },
@@ -1023,22 +1135,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "i don't feel safe in my body",
-        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 163859,
-      "name": "i don't feel safe in my body",
-      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Hope Is a Scary Thing",
         "url": "https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu"
       },
@@ -1083,22 +1179,6 @@
       "duration_ms": 212800,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Let It Burn",
-        "url": "https://open.spotify.com/album/7JW7Kt0eVdp5rcOe9dBPfZ"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 154469,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2gipHbAjxMrggRmKEP7Qic"
     },
     {
       "added_at": "2024-08-30 04:00:00",

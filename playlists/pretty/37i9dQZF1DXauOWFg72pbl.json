@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 586601,
+  "num_followers": 586652,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnmoOwAAAAC9oPtImpRj8bkihppO21/X",
+  "snapshot_id": "ZnmoOwAAAADYyxB+PiDpOlpK+x2JBk8D",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Wanting and Waiting",
-        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 232933,
       "name": "Nowhere Generation",
       "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Blak and Blu",
+        "url": "https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Blak and Blu",
-        "url": "https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Alvarado",
-        "url": "https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT"
-      },
-      "artists": [
-        {
-          "name": "The Wild Feathers",
-          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Ain\u2019t Lookin\u2019",
-      "url": "https://open.spotify.com/track/21cyIowSvYSPaqeUyTaIpX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Cage The Elephant",
         "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Alvarado",
+        "url": "https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT"
+      },
+      "artists": [
+        {
+          "name": "The Wild Feathers",
+          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Ain\u2019t Lookin\u2019",
+      "url": "https://open.spotify.com/track/21cyIowSvYSPaqeUyTaIpX"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Shakin' Off The Rust",
-        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Shakin' Off The Rust",
-      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 262733,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Shakin' Off The Rust",
+        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Shakin' Off The Rust",
+      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Don't Miss",
-        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
+        "name": "Walk On Water",
+        "url": "https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 186156,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+      "duration_ms": 188227,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3"
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 188227,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q"
+      "duration_ms": 186156,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
     }
   ],
   "unique_name": "Beer & Wings",

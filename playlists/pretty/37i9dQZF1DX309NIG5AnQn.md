@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Mora y los Metegoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,619 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,618 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 |
 | 100 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 |
 
-Snapshot ID: `Zv7+7QAAAADDcavRLsDPasTnuHdeT6+L`
+Snapshot ID: `Zv7+7QAAAACd06YSwFteA/qnbTxn4zBK`

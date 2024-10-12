@@ -1,12 +1,12 @@
 {
   "description": "Night Skinny in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
-  "num_followers": 972422,
+  "num_followers": 972552,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhcrAAAAADUrKRIgx0+kdOhFb8BgG6W",
+  "snapshot_id": "ZwkByAAAAAD9SxYEVlRc8bRTo8O8BkwX",
   "tracks": [
     {
       "added_at": "2024-10-10 23:01:00",
@@ -199,42 +199,6 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
-        "name": "Cerchio",
-        "url": "https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Cerchio",
-      "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
-        "name": "40 GRADI",
-        "url": "https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "40 GRADI",
-      "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -259,6 +223,26 @@
       "duration_ms": 179545,
       "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
       "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
+        "name": "40 GRADI",
+        "url": "https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "40 GRADI",
+      "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
     },
     {
       "added_at": "2024-10-10 23:01:00",
@@ -315,6 +299,22 @@
       "duration_ms": 149091,
       "name": "HELLO KITTY (feat. Sillyelly)",
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
+        "name": "Cerchio",
+        "url": "https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Cerchio",
+      "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
     },
     {
       "added_at": "2024-10-10 23:01:00",

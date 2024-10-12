@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DET GÅR UPP O NER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,032 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,061 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 |
 | 100 | [EN GÅNG TILL](https://open.spotify.com/track/2Yx3zbKVkim7W19MWm06Up) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [EN GÅNG TILL](https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A) | 2:21 |
 
-Snapshot ID: `ZwhOYAAAAAAkEJ3jrT8LeuPFyvEeoK55`
+Snapshot ID: `ZwhOYAAAAAAep/K2tLUeKVBcIUupngyk`

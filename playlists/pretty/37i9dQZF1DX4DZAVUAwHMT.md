@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,453 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,438 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Me](https://open.spotify.com/track/2g1N53haeJ7YuSHVilxUnG) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Soft](https://open.spotify.com/album/632m6v8Y3OStcJabOmAEYR) | 2:42 |
 | 80 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 
-Snapshot ID: `ZwhccAAAAACKUw5ZHcr8jynkF/hHNqBa`
+Snapshot ID: `ZwhccAAAAABnTpmm5BJIXFv+PRVyqbeR`

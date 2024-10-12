@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: FLY LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,857 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,862 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [TSUNAMI](https://open.spotify.com/track/7nqgLwE4IdKVQs6XrFBZU0) | [KSF](https://open.spotify.com/artist/6PR7GwuKj5ZCuHsNslHcC9) | [TSUNAMI](https://open.spotify.com/album/4azmL5qm7njwTHJZmxOx5S) | 2:38 |
 | 60 | [Sto telos](https://open.spotify.com/track/18FXt9Cm9h16e02nyozL8o) | [Salvador](https://open.spotify.com/artist/4YLQod77tdVkjNRFL47JsI), [Kazal](https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR) | [Sto telos](https://open.spotify.com/album/31yohvXelB8vZXvPm8HS20) | 2:31 |
 
-Snapshot ID: `ZwhAUAAAAAAG+7GZhpFH/9szKpk5xu0/`
+Snapshot ID: `ZwhAUAAAAACU45unaX43ZGZ8f0zDdR9J`

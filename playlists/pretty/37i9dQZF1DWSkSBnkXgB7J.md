@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Sultan Al Murshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,859 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,861 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 44 | [Sahraya](https://open.spotify.com/track/10ygQHP8JTic3iXGiLM2To) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k) | [Sahraya](https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf) | 2:46 |
 | 45 | [Sibtiny](https://open.spotify.com/track/6vqgukgBvRUIUvuM8fuv4k) | [ARRA](https://open.spotify.com/artist/6mlFti6E8OuJhJslyZhFn7) | [Sibtiny](https://open.spotify.com/album/0B1qIzqos6ajSnuXYB0x8Y) | 2:59 |
 
-Snapshot ID: `ZoPVXQAAAAA+89frtM1gSu1JurxPqSbM`
+Snapshot ID: `ZoPVXQAAAACJ90KPEA03wHYrrM9MLoMM`

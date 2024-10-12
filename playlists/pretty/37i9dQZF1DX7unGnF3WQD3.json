@@ -1,12 +1,12 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 559,
+  "num_followers": 642,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvsp0gAAAACQT66v70PyvmygLqhFMrxr",
+  "snapshot_id": "Zvsp0gAAAABoF5NG5K1w87wmmjyY1Fww",
   "tracks": [
     {
       "added_at": "2024-09-30 22:44:34",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 198545,
       "name": "En El Audi",
       "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 200370,
       "name": "LAST SONG",
       "url": "https://open.spotify.com/track/1uR70Wokz35V2Jv75za2lx"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Infarto",
         "url": "https://open.spotify.com/album/1Whvjbd1ElCTFMC2VYV6r4"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 166217,
       "name": "MTG Infarto",
       "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "TENHO MEDO - VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
-      },
-      "artists": [
-        {
-          "name": "DJPEJOTA",
-          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
-        },
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Drop Records",
-          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "TENHO MEDO - VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "El Incomprendido",
         "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
       },
@@ -1815,6 +1791,30 @@
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "TENHO MEDO - VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
+      },
+      "artists": [
+        {
+          "name": "DJPEJOTA",
+          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Drop Records",
+          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "TENHO MEDO - VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1959,6 +1959,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG Puxo seu cabelinho",
+        "url": "https://open.spotify.com/album/0erwZWDFK9pltr66sFNuqb"
+      },
+      "artists": [
+        {
+          "name": "DJ GUIZIN DA SERRA",
+          "url": "https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "name": "Mc Durrony",
+          "url": "https://open.spotify.com/artist/1dpu8ZroSHycuUszHZvE5O"
+        }
+      ],
+      "duration_ms": 135317,
+      "name": "MTG Puxo seu cabelinho",
+      "url": "https://open.spotify.com/track/3yD3gpXl5jQkwumhWYa5Ap"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Cora\u00e7\u00e3o de Vaqueiro",
         "url": "https://open.spotify.com/album/0PD0NHGf0gSg0ke1Xivof4"
       },
@@ -1983,30 +2007,6 @@
       "duration_ms": 136615,
       "name": "MTG Cora\u00e7\u00e3o de Vaqueiro",
       "url": "https://open.spotify.com/track/10FMXXD6DQPbywJkePNYB1"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG Puxo seu cabelinho",
-        "url": "https://open.spotify.com/album/0erwZWDFK9pltr66sFNuqb"
-      },
-      "artists": [
-        {
-          "name": "DJ GUIZIN DA SERRA",
-          "url": "https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7"
-        },
-        {
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        },
-        {
-          "name": "Mc Durrony",
-          "url": "https://open.spotify.com/artist/1dpu8ZroSHycuUszHZvE5O"
-        }
-      ],
-      "duration_ms": 135317,
-      "name": "MTG Puxo seu cabelinho",
-      "url": "https://open.spotify.com/track/3yD3gpXl5jQkwumhWYa5Ap"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2071,6 +2071,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG At\u00e9 De Manh\u00e3",
+        "url": "https://open.spotify.com/album/4JMfbaflbA6gGgPlm3hQNR"
+      },
+      "artists": [
+        {
+          "name": "DJ Braga Oficial",
+          "url": "https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG"
+        },
+        {
+          "name": "DJ Lucas Bemix",
+          "url": "https://open.spotify.com/artist/5obSIFnQ6Dzxh0kLC7JUel"
+        },
+        {
+          "name": "Jackarezin",
+          "url": "https://open.spotify.com/artist/0zPc7uGoxVStRKxhZxrZrs"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        }
+      ],
+      "duration_ms": 130740,
+      "name": "MTG At\u00e9 De Manh\u00e3",
+      "url": "https://open.spotify.com/track/4JBLP76ai1eYCSxLRwnVYs"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "WHAT IS LOVE (MTG)",
         "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
       },
@@ -2103,34 +2131,6 @@
       "duration_ms": 228200,
       "name": "PROVENZA - Sistek Remix",
       "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG At\u00e9 De Manh\u00e3",
-        "url": "https://open.spotify.com/album/4JMfbaflbA6gGgPlm3hQNR"
-      },
-      "artists": [
-        {
-          "name": "DJ Braga Oficial",
-          "url": "https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG"
-        },
-        {
-          "name": "DJ Lucas Bemix",
-          "url": "https://open.spotify.com/artist/5obSIFnQ6Dzxh0kLC7JUel"
-        },
-        {
-          "name": "Jackarezin",
-          "url": "https://open.spotify.com/artist/0zPc7uGoxVStRKxhZxrZrs"
-        },
-        {
-          "name": "MC P\u00e2nico",
-          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
-        }
-      ],
-      "duration_ms": 130740,
-      "name": "MTG At\u00e9 De Manh\u00e3",
-      "url": "https://open.spotify.com/track/4JBLP76ai1eYCSxLRwnVYs"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2179,6 +2179,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
+        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "MTG Sagrado Profano",
+      "url": "https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -2203,30 +2227,6 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
-        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "MTG Sagrado Profano",
-      "url": "https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
-        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Ryder",
-          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
-        },
-        {
-          "name": "Yan Pablo DJ",
-          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
-        }
-      ],
-      "duration_ms": 147361,
-      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
-      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -2319,6 +2299,26 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
+        "url": "https://open.spotify.com/album/6iBMWFBRdu7pWY1jRAdgkJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryder",
+          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
+        },
+        {
+          "name": "Yan Pablo DJ",
+          "url": "https://open.spotify.com/artist/3e6l2P2dALZKy0TQtsn6Oj"
+        }
+      ],
+      "duration_ms": 147361,
+      "name": "Mtg S\u00f3 F\u00e9 - Funk BH",
+      "url": "https://open.spotify.com/track/7mXv8GBDWWlB2RPWWWDNzh"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
-        "url": "https://open.spotify.com/album/1vXmq1QOpQZYDTNUYHGK4N"
-      },
-      "artists": [
-        {
-          "name": "Davi Lemos DJ",
-          "url": "https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL"
-        }
-      ],
-      "duration_ms": 105250,
-      "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
-      "url": "https://open.spotify.com/track/1SraAD8Z3lqvwpF0j1Vq1i"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PLYBOY",
         "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 192658,
       "name": "PLYBOY",
       "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
+        "url": "https://open.spotify.com/album/1vXmq1QOpQZYDTNUYHGK4N"
+      },
+      "artists": [
+        {
+          "name": "Davi Lemos DJ",
+          "url": "https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL"
+        }
+      ],
+      "duration_ms": 105250,
+      "name": "MTG - HOW DEEP IS YOUR LOVE - MOVIMENTA x JOGA",
+      "url": "https://open.spotify.com/track/1SraAD8Z3lqvwpF0j1Vq1i"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2607,6 +2607,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Vem Ni Mim Dodge Ram",
         "url": "https://open.spotify.com/album/2DDoUUCBYW50xvx9MST0SQ"
       },
@@ -2627,26 +2647,6 @@
       "duration_ms": 145846,
       "name": "Mtg Vem Ni Mim Dodge Ram",
       "url": "https://open.spotify.com/track/1C3pBHC1XlFbZNUpgxBFI5"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Sax To Me",
-        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Joseph Qas",
-          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
-        }
-      ],
-      "duration_ms": 364971,
-      "name": "Sax To Me",
-      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2751,6 +2751,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Guisao",
+        "url": "https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Rod Contreras",
+          "url": "https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Jay Silva",
+          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Guisao",
+      "url": "https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "De Volta Ao Game",
         "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
       },
@@ -2779,34 +2807,6 @@
       "duration_ms": 147692,
       "name": "MTG Ela s\u00f3 Quer",
       "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Guisao",
-        "url": "https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Rod Contreras",
-          "url": "https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Jay Silva",
-          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "Guisao",
-      "url": "https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2851,34 +2851,46 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Subcategoria",
-        "url": "https://open.spotify.com/album/4kSNqlWHQrjV6DoobkADe3"
+        "name": "Quemando Papel",
+        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
       "artists": [
         {
-          "name": "Dj Aguilar",
-          "url": "https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE"
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
         },
         {
-          "name": "DIRETO DO ALTO",
-          "url": "https://open.spotify.com/artist/35WZxoqrn0KEUfUsySXPAL"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         },
         {
-          "name": "Mc CAITAN",
-          "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
-        },
-        {
-          "name": "Dj Danny Albuquerque",
-          "url": "https://open.spotify.com/artist/3GYCBfQpevAfvIoZbOvW8r"
-        },
-        {
-          "name": "MC Du Red",
-          "url": "https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo"
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
         }
       ],
-      "duration_ms": 107076,
-      "name": "Mtg Pique American Pie",
-      "url": "https://open.spotify.com/track/1zK5zXJMqLvHGhS5UFm3Hi"
+      "duration_ms": 194645,
+      "name": "Quemando Papel",
+      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Bailar Contigo (Leeb Remix)",
+        "url": "https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "LEEB",
+          "url": "https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "Bailar Contigo - Leeb Remix",
+      "url": "https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2931,46 +2943,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Quemando Papel",
-        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
+        "name": "Subcategoria",
+        "url": "https://open.spotify.com/album/4kSNqlWHQrjV6DoobkADe3"
       },
       "artists": [
         {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+          "name": "Dj Aguilar",
+          "url": "https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE"
         },
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "DIRETO DO ALTO",
+          "url": "https://open.spotify.com/artist/35WZxoqrn0KEUfUsySXPAL"
         },
         {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+          "name": "Mc CAITAN",
+          "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
+        },
+        {
+          "name": "Dj Danny Albuquerque",
+          "url": "https://open.spotify.com/artist/3GYCBfQpevAfvIoZbOvW8r"
+        },
+        {
+          "name": "MC Du Red",
+          "url": "https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo"
         }
       ],
-      "duration_ms": 194645,
-      "name": "Quemando Papel",
-      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Bailar Contigo (Leeb Remix)",
-        "url": "https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "LEEB",
-          "url": "https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "Bailar Contigo - Leeb Remix",
-      "url": "https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk"
+      "duration_ms": 107076,
+      "name": "Mtg Pique American Pie",
+      "url": "https://open.spotify.com/track/1zK5zXJMqLvHGhS5UFm3Hi"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3107,8 +3107,8 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
       },
       "artists": [
         {
@@ -3116,15 +3116,15 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "PARIS HILTON",
-        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
+        "name": "Humo Trankilizante",
+        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
       },
       "artists": [
         {
@@ -3134,11 +3134,15 @@
         {
           "name": "Joe Parra",
           "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        },
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
         }
       ],
-      "duration_ms": 185995,
-      "name": "PARIS HILTON",
-      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
+      "duration_ms": 152380,
+      "name": "Humo Trankilizante",
+      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3187,34 +3191,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg Morena",
-        "url": "https://open.spotify.com/album/2dne2D8EHcIrjoAj57XhXp"
-      },
-      "artists": [
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "Mc CAITAN",
-          "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
-        },
-        {
-          "name": "P4SOLI",
-          "url": "https://open.spotify.com/artist/2KjYpHm0dKEkqpFwEfkXjh"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 149581,
-      "name": "Mtg Morena",
-      "url": "https://open.spotify.com/track/0xLBltIpukHi4fljFsCpf6"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG N\u00e3o Fala N\u00e3o Pra Mim",
         "url": "https://open.spotify.com/album/2sUXtuqDauIsJNSlIXS8DJ"
       },
@@ -3243,6 +3219,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Mtg Morena",
+        "url": "https://open.spotify.com/album/2dne2D8EHcIrjoAj57XhXp"
+      },
+      "artists": [
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "Mc CAITAN",
+          "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
+        },
+        {
+          "name": "P4SOLI",
+          "url": "https://open.spotify.com/artist/2KjYpHm0dKEkqpFwEfkXjh"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 149581,
+      "name": "Mtg Morena",
+      "url": "https://open.spotify.com/track/0xLBltIpukHi4fljFsCpf6"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Qu\u00e9 Chimba",
         "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
       },
@@ -3259,8 +3263,8 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
       },
       "artists": [
         {
@@ -3268,9 +3272,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3291,26 +3295,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg Seu Batom Vermelho",
-        "url": "https://open.spotify.com/album/1LMqyFdbDYoK96Gip9zBGF"
+        "name": "Vallenato Parrandero",
+        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
       },
       "artists": [
         {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        },
-        {
-          "name": "MC GH",
-          "url": "https://open.spotify.com/artist/6wmNbS3KRKUjPBIM70WeOj"
-        },
-        {
-          "name": "DJ MARKIN BEAT",
-          "url": "https://open.spotify.com/artist/4wbsExrsHfjoqN9DRarfsP"
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
         }
       ],
-      "duration_ms": 139235,
-      "name": "Mtg Seu Batom Vermelho",
-      "url": "https://open.spotify.com/track/2Lre1QtwxZYgG6lggcAU9M"
+      "duration_ms": 179141,
+      "name": "Vallenato Parrandero",
+      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
     }
   ],
   "unique_name": "los prohibidos",

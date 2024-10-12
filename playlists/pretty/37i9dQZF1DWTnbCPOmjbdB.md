@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,055 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,108 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Nad Morze](https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Nad Morze](https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h) | 2:20 |
 | 60 | [Ile Dać Mam](https://open.spotify.com/track/3gvJeMSwp2UUnibGpmdIhh) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Ile Dać Mam](https://open.spotify.com/album/3FOwkmBHiI1FpgMhrNsJW1) | 2:48 |
 
-Snapshot ID: `ZwhOYAAAAAAKozMTUviZQO6h+izajmyl`
+Snapshot ID: `ZwhOYAAAAAA7QwlpRJi5oIUPLs5Erezn`

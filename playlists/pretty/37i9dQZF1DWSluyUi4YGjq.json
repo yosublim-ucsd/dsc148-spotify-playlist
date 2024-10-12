@@ -1,13 +1,61 @@
 {
   "description": "Gazing at pedals, soaring celestially high. cover: They Are Gutting A Body Of Water",
-  "num_followers": 181441,
+  "num_followers": 181568,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4/AAAAADzAkloXKC2dXDaKqACee6M",
+  "snapshot_id": "ZwiiwAAAAADEffc3x7NVzPG3ORrxquGB",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "you're like me",
+        "url": "https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "duration_ms": 329960,
+      "name": "you're like me",
+      "url": "https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bottlebrush Tree",
+        "url": "https://open.spotify.com/album/0uICcGi4pEV8ZLzi1kp2qT"
+      },
+      "artists": [
+        {
+          "name": "Starling",
+          "url": "https://open.spotify.com/artist/1CD5G3Yqzu1TpkqpxWFGFC"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bottlebrush Tree",
+      "url": "https://open.spotify.com/track/0jJxSU4nZyCyGN8TivK0Z3"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bardo",
+        "url": "https://open.spotify.com/album/73El7RE5y19k6cZpJfOcBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Bardo",
+      "url": "https://open.spotify.com/track/05eBPrTZPj0i0p9xsIlNPI"
+    },
     {
       "added_at": "2024-08-20 03:45:39",
       "album": {
@@ -41,26 +89,6 @@
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
     },
     {
-      "added_at": "2024-08-23 00:35:54",
-      "album": {
-        "name": "ana orint (feat. Sword II)",
-        "url": "https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        },
-        {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
-        }
-      ],
-      "duration_ms": 188024,
-      "name": "ana orint (feat. Sword II)",
-      "url": "https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X"
-    },
-    {
       "added_at": "2024-08-20 03:45:39",
       "album": {
         "name": "Sky Hundred",
@@ -91,6 +119,54 @@
       "duration_ms": 135880,
       "name": "icantbelieveiletyougetaway",
       "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Something Becomes You",
+        "url": "https://open.spotify.com/album/3oqVmp3SJXVz318ZAHYH8h"
+      },
+      "artists": [
+        {
+          "name": "voyeur",
+          "url": "https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n"
+        }
+      ],
+      "duration_ms": 189873,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/7DENTjJX2qGicOpgsNHo3y"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Pond",
+        "url": "https://open.spotify.com/album/51GloB4XLeFvNH9liwgouy"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 147581,
+      "name": "Pond",
+      "url": "https://open.spotify.com/track/3nnOsPUwXUa4lbV6Ybtqig"
     },
     {
       "added_at": "2024-08-23 00:35:54",
@@ -127,6 +203,26 @@
       "duration_ms": 366946,
       "name": "Ecig",
       "url": "https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX"
+    },
+    {
+      "added_at": "2024-08-23 00:35:54",
+      "album": {
+        "name": "ana orint (feat. Sword II)",
+        "url": "https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 188024,
+      "name": "ana orint (feat. Sword II)",
+      "url": "https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X"
     },
     {
       "added_at": "2024-07-05 16:59:27",

@@ -1,12 +1,12 @@
 {
   "description": "Praise and Worship your way with the best South African Gospel music.  Cover: \"<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>",
-  "num_followers": 490,
+  "num_followers": 557,
   "original_name": "South African Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqvAAAAADxakrSUHdimL9GjHFeo6w3",
+  "snapshot_id": "ZwhqvAAAAABo35+O8ifeq2AoU6bDvqc4",
   "tracks": [
     {
       "added_at": "2024-10-04 00:02:00",
@@ -503,18 +503,22 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "Nginguthandiwe",
-        "url": "https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR"
+        "name": "Miracle Child",
+        "url": "https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V"
       },
       "artists": [
         {
-          "name": "Thinah Zungu",
-          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
         }
       ],
-      "duration_ms": 379000,
-      "name": "Nginguthandiwe",
-      "url": "https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J"
+      "duration_ms": 374808,
+      "name": "Intro (Mudzimu Uyavhuya) [feat. Lebo Sekgobela]",
+      "url": "https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN"
     },
     {
       "added_at": "2024-10-04 00:02:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "Miracle Child",
-        "url": "https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V"
+        "name": "Nginguthandiwe",
+        "url": "https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR"
       },
       "artists": [
         {
-          "name": "Makhadzi Entertainment",
-          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
-        },
-        {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
         }
       ],
-      "duration_ms": 374808,
-      "name": "Intro (Mudzimu Uyavhuya) [feat. Lebo Sekgobela]",
-      "url": "https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN"
+      "duration_ms": 379000,
+      "name": "Nginguthandiwe",
+      "url": "https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J"
     },
     {
       "added_at": "2024-10-04 00:02:00",

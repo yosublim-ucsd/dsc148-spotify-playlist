@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > I protagonisti più freschi della nuova pop wave del 2023 🌊 Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,470 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,475 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 74 | [SOBRIO](https://open.spotify.com/track/3TS9XiebsjfW2hIxOF6Dwp) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/album/0BEUay4OiO1kmxSfhqREQQ) | 2:15 |
 | 75 | [Ci pensi mai?](https://open.spotify.com/track/4vir2LGu3hdVNbzJqdEago) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Ci pensi mai?](https://open.spotify.com/album/5ee4xYz1FK0VDC4bTARTiD) | 1:44 |
 
-Snapshot ID: `ZkyVrgAAAADyy/YyhSxrGoXXvrb3Oz46`
+Snapshot ID: `ZkyVrgAAAABNGCxlqzww7YnmJ66xt5Po`

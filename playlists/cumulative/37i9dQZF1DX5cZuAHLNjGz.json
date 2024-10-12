@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Navaan Sandhu",
+  "description": "Ultimate 101 Punjabi Hits with AP Dhillon",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 204507,
       "name": "12 Bande",
       "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 200658,
       "name": "ELEVATED",
       "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
@@ -2617,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "Fly Karke",
+        "url": "https://open.spotify.com/album/5KU161bc0CN9vn0LmpVMki"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Fly Karke",
+      "url": "https://open.spotify.com/track/4Y53zT0Mxm33wJiqLThfQa"
+    },
+    {
+      "album": {
         "name": "Moodscape",
         "url": "https://open.spotify.com/album/7rPnXr9hZ5KoVMWiED1ZWY"
       },
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 127200,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D"
@@ -3628,6 +3650,24 @@
       "duration_ms": 195714,
       "name": "Jatt Flex",
       "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195115,
+      "name": "Jatt Mehkma",
+      "url": "https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ"
     },
     {
       "album": {
@@ -4938,7 +4978,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 185113,
       "name": "Mombattiye",
       "url": "https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB"
@@ -5044,7 +5084,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 138919,
       "name": "Muhammad Ali",
       "url": "https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3"
@@ -6412,7 +6452,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181401,
       "name": "Rhyme Ain\u2019t Done",
       "url": "https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous"
@@ -6438,6 +6478,28 @@
       "duration_ms": 182378,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV"
+    },
+    {
+      "album": {
+        "name": "Rollin Loud",
+        "url": "https://open.spotify.com/album/6YfxQmZXimBQLy6XL4YvQz"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "INDERZY",
+          "url": "https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "Rollin Loud",
+      "url": "https://open.spotify.com/track/5dHES7RU9sX30MxgIuHi1h"
     },
     {
       "album": {
@@ -7018,6 +7080,28 @@
       "duration_ms": 156292,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz"
+    },
+    {
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar\. Kapak: Mert Demir
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,165 likes - 25 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,161 likes - 25 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 | 24 | [Bu Şehirden Götürün Beni](https://open.spotify.com/track/5kPEALrGRV6ca41XAmTbXq) | [Ömer Öz](https://open.spotify.com/artist/3bw3IL3B9fbUsMezrk7tOO) | [Bu Şehirden Götürün Beni](https://open.spotify.com/album/040kmbJtYWcNb6Peaa7pxq) | 3:34 |
 | 25 | [ORYNTL](https://open.spotify.com/track/4L0nEhuXuyQqOOahOITOg8) | [kefo](https://open.spotify.com/artist/0Z3JwMejHZc82MMubb3iPE), [Amentu](https://open.spotify.com/artist/1DoViijiLgIvYxypbq0sCS) | [ORYNTL](https://open.spotify.com/album/3ELVjm6hZxXqZ8LX4FmiIr) | 2:18 |
 
-Snapshot ID: `ZWcrgAAAAABMnyoJ8rQUYZK8qHQlUARS`
+Snapshot ID: `ZWcrgAAAAAAKBHnLc3SAyu8iDJwpxGxX`

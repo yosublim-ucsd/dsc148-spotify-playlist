@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Anastasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,807 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,846 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 |
 | 50 | [XANA](https://open.spotify.com/track/70WlqksyNuh668wCoKD7zn) | [DJ PaCo](https://open.spotify.com/artist/6YxjAAOm4MVd55JQM8ijbG), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [XANA](https://open.spotify.com/album/6Bcx9bdDTMszmgSPcbeKzT) | 2:45 |
 
-Snapshot ID: `ZwhAUAAAAADFRKS1cK/G0kFG33oMYZ8N`
+Snapshot ID: `ZwhAUAAAAABO0WSQD5rxN759chfuX/cM`

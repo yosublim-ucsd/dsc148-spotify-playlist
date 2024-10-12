@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,089 likes - 84 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,105 likes - 84 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 83 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 |
 | 84 | [Kadi Kadi](https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Indiedanish](https://open.spotify.com/artist/5lUo8Dl9AEOYsPfvHhSCnI), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Kadi Kadi](https://open.spotify.com/album/6GUKecLQQ6bflSmP7nKNsS) | 3:39 |
 
-Snapshot ID: `Zv/jbwAAAABZrKP6Y1Nt+5e+TPxwo8CD`
+Snapshot ID: `Zv/jbwAAAAD9/zVSbhzL4FJ5ktJFX684`

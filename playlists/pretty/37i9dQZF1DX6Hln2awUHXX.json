@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 102026,
+  "num_followers": 102042,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxXQgAAAACwB3xgIZg7UFOWHL7R0EJa",
+  "snapshot_id": "ZIxXQgAAAAD2gHbcIUZrKuTIzOFFCJYJ",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -411,30 +411,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Overtures",
-        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 532000,
-      "name": "Das Liebesverbot: Overture",
-      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 602266,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Morgenlich leuchtend\"",
       "url": "https://open.spotify.com/track/001eyxfoYptAWzvF4ewLrR"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Overtures",
+        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 532000,
+      "name": "Das Liebesverbot: Overture",
+      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -567,8 +567,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Overtures - Marches - Symphony in E - Siegfried Idyll",
-        "url": "https://open.spotify.com/album/0BUSvjw6zfhn0kPri8A32R"
+        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
+        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
       },
       "artists": [
         {
@@ -576,17 +576,17 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
         },
         {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
         }
       ],
-      "duration_ms": 763226,
-      "name": "Wagner: Eine Faust-Ouvert\u00fcre",
-      "url": "https://open.spotify.com/track/26zgOGJ3HqyB7klpPGE4kb"
+      "duration_ms": 846253,
+      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
+      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -635,8 +635,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
-        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
+        "name": "Wagner: Overtures - Marches - Symphony in E - Siegfried Idyll",
+        "url": "https://open.spotify.com/album/0BUSvjw6zfhn0kPri8A32R"
       },
       "artists": [
         {
@@ -644,17 +644,17 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Netherlands Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
         },
         {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
         }
       ],
-      "duration_ms": 846253,
-      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
-      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
+      "duration_ms": 763226,
+      "name": "Wagner: Eine Faust-Ouvert\u00fcre",
+      "url": "https://open.spotify.com/track/26zgOGJ3HqyB7klpPGE4kb"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -783,30 +783,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
-      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 394093,
       "name": "Lohengrin, WWV 75 / Act 3: \"In fernem Land, unnahbar euren Schritten\"",
       "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
+      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Lohengrin (Highlights)",
-        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Lohengrin, WWV 75 / Act 3: \"Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?\"",
-      "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 249265,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Lohengrin (Highlights)",
+        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Lohengrin, WWV 75 / Act 3: \"Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?\"",
+      "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
     },
     {
       "added_at": "2022-06-28 08:58:25",

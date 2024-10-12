@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
-  "num_followers": 120286,
+  "num_followers": 120314,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9mZAAAAAB5G/sPIkMgUAVv8ryZEJh3",
+  "snapshot_id": "Zwi4fQAAAAAI9DZZ+DXIvPbARXKtDW3L",
   "tracks": [
     {
       "added_at": "2024-09-13 07:34:00",
@@ -87,6 +87,26 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2024-10-11 05:32:45",
+      "album": {
+        "name": "ERES - Lado B",
+        "url": "https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 177081,
+      "name": "ERES - Lado B",
+      "url": "https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT"
     },
     {
       "added_at": "2024-09-13 07:34:00",
@@ -227,22 +247,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5"
-    },
-    {
-      "added_at": "2024-09-13 07:34:00",
-      "album": {
-        "name": "El Canto Del Olvido",
-        "url": "https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "El Canto Del Olvido",
-      "url": "https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe"
     },
     {
       "added_at": "2024-09-13 07:34:00",

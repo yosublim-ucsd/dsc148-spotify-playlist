@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: De La Rose",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Caleb Calloway",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -1730,6 +1730,24 @@
       "duration_ms": 209032,
       "name": "Amor De Una Noche",
       "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
+    },
+    {
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/3p3nAszb8NHT2JaUjuSl6R"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203562,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/08TKFr2WUqTkPMmvzvKu3D"
     },
     {
       "album": {
@@ -3551,6 +3569,36 @@
     },
     {
       "album": {
+        "name": "Besitos BB 2.0 (feat. Bb trickz)",
+        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
+      },
+      "artists": [
+        {
+          "name": "El Perla",
+          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Besitos BB 2.0 (feat. Bb trickz)",
+      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -4260,6 +4308,24 @@
       "duration_ms": 192954,
       "name": "Buenas",
       "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
+        "name": "Burlao",
+        "url": "https://open.spotify.com/album/4BgGgj93b3drOLbSc241oC"
+      },
+      "artists": [
+        {
+          "name": "25stack",
+          "url": "https://open.spotify.com/artist/4xnxLczmG4CpRbi9lQiEyR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137809,
+      "name": "Burlao",
+      "url": "https://open.spotify.com/track/5eZ8E0qvmOJ3YSso6tU5oB"
     },
     {
       "album": {
@@ -8337,6 +8403,28 @@
     },
     {
       "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -8630,7 +8718,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 217226,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4w1BvkFkhmut5l5yYSvIz0"
@@ -9244,7 +9332,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169200,
       "name": "ESA SE\u00d1ORA",
       "url": "https://open.spotify.com/track/6TakRkJbqdcSWXNOS05QAq"
@@ -9657,6 +9745,28 @@
     },
     {
       "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
+    },
+    {
+      "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
       },
@@ -10024,7 +10134,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 166441,
       "name": "For Life",
       "url": "https://open.spotify.com/track/0MOYSYYEjaVjbbSFiTCo80"
@@ -10546,7 +10656,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 141473,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/5FQHbG0js5ld2l3XZ5ncN6"
@@ -12040,7 +12150,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 187346,
       "name": "HULA",
       "url": "https://open.spotify.com/track/3NPlbFQa7N26HK8mVQF0NG"
@@ -12329,6 +12439,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD IS YOURS",
+        "url": "https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "INSTINTO ANIMAL",
+      "url": "https://open.spotify.com/track/5dzsEEl3PO4aHxx34Le8XT"
+    },
+    {
+      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -12458,6 +12586,24 @@
       "duration_ms": 212727,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj"
+    },
+    {
+      "album": {
+        "name": "Jaque",
+        "url": "https://open.spotify.com/album/43c5fkcnLGDsKXmC4dR0qq"
+      },
+      "artists": [
+        {
+          "name": "Henao",
+          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Jaque",
+      "url": "https://open.spotify.com/track/0jMKQiuo49hiAaSTCZwG5f"
     },
     {
       "album": {
@@ -14324,7 +14470,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 167668,
       "name": "Le hac\u00e9s falta vos",
       "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
@@ -15002,7 +15148,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 140850,
       "name": "MALA",
       "url": "https://open.spotify.com/track/1NxuiVZB05U7lW8kwFeuSL"
@@ -15196,6 +15342,28 @@
       "duration_ms": 116635,
       "name": "Malory",
       "url": "https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw"
+    },
+    {
+      "album": {
+        "name": "Malos H\u00e1bitos",
+        "url": "https://open.spotify.com/album/6rvi78Dmgp5uCMWJ9FQ5gh"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Malos H\u00e1bitos",
+      "url": "https://open.spotify.com/track/0C4npmxPsvvELHYlZBnlKU"
     },
     {
       "album": {
@@ -16538,6 +16706,32 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "album": {
+        "name": "Mi Novio Tiene Novia (W Sound 02)",
+        "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162207,
+      "name": "Mi Novio Tiene Novia - W Sound 02",
+      "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
     },
     {
       "album": {
@@ -19092,7 +19286,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148000,
       "name": "Obvio",
       "url": "https://open.spotify.com/track/2zWXAu6j8r1afr1f4uq62P"
@@ -20802,7 +20996,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 149189,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/3lO6VOQXp0aNUQzuGmbbDh"
@@ -21621,6 +21815,28 @@
     },
     {
       "album": {
+        "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
+        "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
+      "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
+    },
+    {
+      "album": {
         "name": "Polvo de tu Vida",
         "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
       },
@@ -22280,6 +22496,28 @@
       "duration_ms": 218933,
       "name": "PU\u00d1AL",
       "url": "https://open.spotify.com/track/46qsJtMCmrD2uzYZdRzfXI"
+    },
+    {
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
       "album": {
@@ -23133,6 +23371,28 @@
     },
     {
       "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175523,
+      "name": "REGGAETON MALANDRO",
+      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
+    },
+    {
+      "album": {
         "name": "RELAX CON MAX - Spotify Singles",
         "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
       },
@@ -23814,6 +24074,32 @@
       "duration_ms": 252923,
       "name": "Santorini (feat. Lil Geniuz)",
       "url": "https://open.spotify.com/track/7ebgZiI7EZ3VWQIvOQS0G6"
+    },
+    {
+      "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169526,
+      "name": "Sata",
+      "url": "https://open.spotify.com/track/62Ivi1ONWg0DU125ZeOk5k"
     },
     {
       "album": {
@@ -25590,7 +25876,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 142275,
       "name": "SugarDaddy",
       "url": "https://open.spotify.com/track/2smpQKz9cYXAgNPez0lqZW"
@@ -25752,7 +26038,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 165874,
       "name": "t hice gay :$",
       "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
@@ -27224,7 +27510,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171880,
       "name": "Travesura (feat. Divino, Lenny Santos, Three Seven Music & The Chosen Few)",
       "url": "https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB"
@@ -28254,7 +28540,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 213480,
       "name": "Un Zippy",
       "url": "https://open.spotify.com/track/0sIcCQxN1yOUSXyRZ1FPGY"
@@ -29832,6 +30118,32 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
+    },
+    {
+      "album": {
+        "name": "yasuni Pt.2",
+        "url": "https://open.spotify.com/album/2o4uQ8tlyLEuSFIYeqDEof"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243225,
+      "name": "yasuni Pt.2",
+      "url": "https://open.spotify.com/track/4HvFBMoE1XuUSguhw9I8b9"
     },
     {
       "album": {

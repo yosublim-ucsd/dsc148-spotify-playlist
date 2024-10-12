@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Höre dir jetzt die Deutschrap Songs des Jahres an\. Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,864 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,865 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 74 | [on my way](https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [on my way](https://open.spotify.com/album/53QtBl3qgJHO18Qim2o1YF) | 3:35 |
 | 75 | [Doktor](https://open.spotify.com/track/7uBtn1rEaB9ikUGeNBgb2C) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [LIFE IS PAIN](https://open.spotify.com/album/16RLZkmkbIZndcpAV7jRTF) | 3:18 |
 
-Snapshot ID: `ZWctUQAAAAAVTgm3sw+POE006ghMak/B`
+Snapshot ID: `ZWctUQAAAABvA1hxk9Va7RUeU21mD2BA`

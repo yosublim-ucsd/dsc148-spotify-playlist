@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 柯智棠 \(Kowen Ko\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,165 likes - 69 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,185 likes - 69 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 68 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 |
 | 69 | [This is My World](https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [This is My World](https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX) | 4:41 |
 
-Snapshot ID: `Zwf6AAAAAAAO9kX/d8+lpzgs24N7XfAn`
+Snapshot ID: `Zwf6AAAAAAB5eCN7ZaQh/OyFHbZaCxDi`

@@ -1,12 +1,12 @@
 {
   "description": "La nuova scena indie italiana! Cover: PUGNI",
-  "num_followers": 33676,
+  "num_followers": 33679,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOnAAAAADa1KeA+cisFMfFDFIsoLie",
+  "snapshot_id": "ZwhOnAAAAACXs+ogqObgSWDutJr5UO5b",
   "tracks": [
     {
       "added_at": "2024-10-10 22:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Posto Nuovo",
-        "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
-      },
-      "artists": [
-        {
-          "name": "Casadilego",
-          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
-        }
-      ],
-      "duration_ms": 343138,
-      "name": "Posto Nuovo",
-      "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Ragazza del Mare",
         "url": "https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 165143,
       "name": "Ragazza del Mare",
       "url": "https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Posto Nuovo",
+        "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
+      },
+      "artists": [
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "duration_ms": 343138,
+      "name": "Posto Nuovo",
+      "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "ora che \u00e8 tutto ok",
         "url": "https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 167451,
       "name": "Fratello",
       "url": "https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Mosche",
-        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Mosche",
-      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Se non passasse aria",
         "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202793,
       "name": "Se non passasse aria",
       "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "fuori dalla stanza",
-        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
+        "name": "Occhi Blu",
+        "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
       },
       "artists": [
         {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+          "name": "Martina Attili",
+          "url": "https://open.spotify.com/artist/6Pm0wbsCPotfoZ7tdNO6Or"
         }
       ],
-      "duration_ms": 182908,
-      "name": "Fare finta",
-      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
+      "duration_ms": 222087,
+      "name": "Occhi Blu",
+      "url": "https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "ROCCASECCA",
-        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+        "name": "fuori dalla stanza",
+        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
       },
       "artists": [
         {
-          "name": "Teseghella",
-          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
         }
       ],
-      "duration_ms": 157624,
-      "name": "Penso Penso Penso",
-      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+      "duration_ms": 182908,
+      "name": "Fare finta",
+      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Manifesto Egoista (feat. Carlo Amleto)",
         "url": "https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 173586,
       "name": "Manifesto Egoista (feat. Carlo Amleto)",
       "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Occhi Blu",
-        "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
-      },
-      "artists": [
-        {
-          "name": "Martina Attili",
-          "url": "https://open.spotify.com/artist/6Pm0wbsCPotfoZ7tdNO6Or"
-        }
-      ],
-      "duration_ms": 222087,
-      "name": "Occhi Blu",
-      "url": "https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
-      },
-      "artists": [
-        {
-          "name": "Lucrezia",
-          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
-        }
-      ],
-      "duration_ms": 205758,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Cu'mme",
         "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 162011,
       "name": "Cu'mme",
       "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
+      },
+      "artists": [
+        {
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Bagno",
+        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
+      },
+      "artists": [
+        {
+          "name": "Tutto Piange",
+          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
+        }
+      ],
+      "duration_ms": 276521,
+      "name": "Bagno",
+      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Rigacuore",
         "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
       },
@@ -839,6 +855,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Pennette alla vodka",
+        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+      },
+      "artists": [
+        {
+          "name": "L'operazione Camarillo",
+          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+        }
+      ],
+      "duration_ms": 181191,
+      "name": "Pennette alla vodka",
+      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 150000,
       "name": "Colleghi borghesi",
       "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "La ricompensa della mangusta",
-        "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
-      },
-      "artists": [
-        {
-          "name": "Missey",
-          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "La ricompensa",
-      "url": "https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Bagno",
-        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
-      },
-      "artists": [
-        {
-          "name": "Tutto Piange",
-          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Bagno",
-      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "La ricompensa della mangusta",
+        "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
+      },
+      "artists": [
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "La ricompensa",
+      "url": "https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "zagara",
         "url": "https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35"
       },
@@ -935,38 +951,6 @@
       "duration_ms": 159567,
       "name": "zagara",
       "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Pennette alla vodka",
-        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
-      },
-      "artists": [
-        {
-          "name": "L'operazione Camarillo",
-          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
-        }
-      ],
-      "duration_ms": 181191,
-      "name": "Pennette alla vodka",
-      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "CAPELLI CORTI CALIFORNIA",
-        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
-      },
-      "artists": [
-        {
-          "name": "Cartapesta",
-          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "CAPELLI CORTI CALIFORNIA",
-      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "CAPELLI CORTI CALIFORNIA",
+        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
+      },
+      "artists": [
+        {
+          "name": "Cartapesta",
+          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "CAPELLI CORTI CALIFORNIA",
+      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
     }
   ],
   "unique_name": "Scuola Indie",

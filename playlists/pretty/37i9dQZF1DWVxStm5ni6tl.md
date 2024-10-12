@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,343 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,388 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [I Know](https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [I Know](https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln) | 1:56 |
 | 75 | [PLEASE](https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [PLEASE](https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz) | 4:25 |
 
-Snapshot ID: `ZwhNuQAAAAAzOla7l9bxja8pvxZiEK57`
+Snapshot ID: `ZwhNuQAAAADM2H6XGw6YfCa3stBZM/e9`

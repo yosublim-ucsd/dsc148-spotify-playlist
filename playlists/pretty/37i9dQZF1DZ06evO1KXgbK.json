@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249100,
+  "num_followers": 249122,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAAB8Qq/C/HXWYYsNIIthJH69",
+  "snapshot_id": "ZwcZAAAAAACGhJF2GHiYOWCEwB5aeas2",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure & Simple",
-        "url": "https://open.spotify.com/album/0Qk5ItMuEF2zYoHN8J1sKT"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/6apPqjW8ezpKEicAkkBlvO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
     },
     {
       "added_at": null,
@@ -875,6 +875,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Possession Gets Too Strong",
+        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Louis Owens",
+          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
+        }
+      ],
+      "duration_ms": 129364,
+      "name": "When Possession Gets Too Strong",
+      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Possession Gets Too Strong",
-        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
-        },
-        {
-          "name": "Louis Owens",
-          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
-        }
-      ],
-      "duration_ms": 129364,
-      "name": "When Possession Gets Too Strong",
-      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
     },
     {
       "added_at": null,

@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Butterfly In A Jar (II-IV)",
+        "url": "https://open.spotify.com/album/4kNKtfx5tAPS4TBYDnk8vJ"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418859,
+      "name": "Butterfly In A Jar (II-IV)",
+      "url": "https://open.spotify.com/track/0l8zN8ActPHjTikyG2zZOc"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 305000,
       "name": "Inner (for Jen)",
       "url": "https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 281904,
       "name": "IZUMO",
       "url": "https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 145767,
       "name": "Persevere - An Evening With Wife's Piano Playing",
       "url": "https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu"
@@ -2739,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "Unrequited Love",
+        "url": "https://open.spotify.com/album/03bvkfgknPzot5XmqUE8nV"
+      },
+      "artists": [
+        {
+          "name": "Jannik Jivung",
+          "url": "https://open.spotify.com/artist/7dZCDCVWIcs4XL3QMZCcvP"
+        },
+        {
+          "name": "Hiyasu Cuts",
+          "url": "https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/6qBNDqTyJMtBlBAa0tPQbh"
+    },
+    {
+      "album": {
         "name": "XY/YX",
         "url": "https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2"
       },
@@ -2844,6 +2884,28 @@
       "duration_ms": 89775,
       "name": "With Hope",
       "url": "https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206463,
+      "name": "You (feat. Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
     },
     {
       "album": {

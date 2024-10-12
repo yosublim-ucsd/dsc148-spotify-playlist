@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Ernie Zakri is co\-curating EQUAL Singapore & Malaysia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,554 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [will you](https://open.spotify.com/track/3K21y81lZCx5ynElQUeAbG) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [will you](https://open.spotify.com/album/5Zcza657lulFAofDNMtFxE) | 3:48 |
 | 50 | [Leave You On Read](https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Leave You On Read](https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK) | 3:09 |
 
-Snapshot ID: `ZvylGwAAAABs53r8l8ny+vQPjciEWj9M`
+Snapshot ID: `ZvylGwAAAAATpSjLeRCVcK6lk6w0kzrZ`

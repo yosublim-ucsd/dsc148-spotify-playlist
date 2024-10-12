@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,862 likes - 130 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,098 likes - 130 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 129 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 | 130 | [Khoobsurat \(From "Stree 2"\)](https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Khoobsurat \(From "Stree 2"\)](https://open.spotify.com/album/6YuaX9U59YS0P7Jcel6BA6) | 4:04 |
 
-Snapshot ID: `ZwZhqwAAAAClNP6+DOtb+yxsJsUg7UiG`
+Snapshot ID: `ZwZhqwAAAADqsIW/eXUS4FZm6jlef1J5`

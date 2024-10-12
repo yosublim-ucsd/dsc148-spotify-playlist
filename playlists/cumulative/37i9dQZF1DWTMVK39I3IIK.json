@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 248813,
       "name": "Fra Wien Til Rom",
       "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
@@ -1184,6 +1184,24 @@
       "duration_ms": 171918,
       "name": "Klubben (i Klubben) (feat. Choir Of Young Believers)",
       "url": "https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG"
+    },
+    {
+      "album": {
+        "name": "Uvejr - Del 1",
+        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Krystalklart Kaos",
+      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
     },
     {
       "album": {
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170192,
       "name": "Syreregn",
       "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"

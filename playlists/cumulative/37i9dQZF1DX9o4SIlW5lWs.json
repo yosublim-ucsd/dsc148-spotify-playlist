@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n M\u00e1gico",
+        "url": "https://open.spotify.com/album/15Kdx8AF6fkQp6o94Vsbvv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171492,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/3D7rbDpHX6xbvYxKs3vzBw"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Partido",
         "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 174158,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi"
@@ -6442,6 +6460,24 @@
       "duration_ms": 163252,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI"
+    },
+    {
+      "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/5Es5LYoZJpBrTlYq4D9JwF"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/6bhCQBkTEsQZewNPPbIi31"
     },
     {
       "album": {
@@ -8188,6 +8224,24 @@
       "duration_ms": 160750,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
+    },
+    {
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas",
+        "url": "https://open.spotify.com/album/3AMyNoEvLQ7uwvxLNp3EpN"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169262,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/3initBCj2OvmlCOuUyoP5R"
     },
     {
       "album": {

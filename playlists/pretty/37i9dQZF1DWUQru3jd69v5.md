@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Marte in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,124 likes - 56 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,133 likes - 56 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 35 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
 | 36 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
 | 37 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
-| 38 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/23gqupUFx2oS0a4kh4J7Wd), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
+| 38 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
 | 39 | [LUPIN](https://open.spotify.com/track/4wkrH42Rv41bxIm3dGcy3z) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [LUPIN](https://open.spotify.com/album/2G9RK9Phy2iZchsfGDle18) | 2:22 |
 | 40 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
 | 41 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 55 | [STESSI PARERI](https://open.spotify.com/track/4G7vNBkivXS1yIqWBrYSom) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [STESSI PARERI](https://open.spotify.com/album/5h4RTUvsQjjCf3jdC4GoHv) | 2:33 |
 | 56 | [Nun Spartì a Furtun](https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Nun Spartì a Furtun](https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd) | 3:05 |
 
-Snapshot ID: `ZwhOnAAAAAAWu6OWWjTTHJ6JOlab94Bl`
+Snapshot ID: `ZwhOnAAAAACHLjHvUlzl283Pwe+7vs5Z`

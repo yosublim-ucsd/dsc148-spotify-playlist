@@ -877,6 +877,36 @@
     },
     {
       "album": {
+        "name": "Young: Nosferatu - A Symphony of Horror: Overture",
+        "url": "https://open.spotify.com/album/6iIGxVe69xjg7sHmeiYrUc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Young",
+          "url": "https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC"
+        },
+        {
+          "name": "Saya Hashino",
+          "url": "https://open.spotify.com/artist/1koWdRu5rSdDOg3me1SHhz"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "Frank Strobel",
+          "url": "https://open.spotify.com/artist/64nR5LwShrqA2MH1G4fwzl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/10PSnO8GhuWrzDqwrphgkH"
+    },
+    {
+      "album": {
         "name": "Us (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gkLMuAnI8U5z2yhyhhRQk"
       },

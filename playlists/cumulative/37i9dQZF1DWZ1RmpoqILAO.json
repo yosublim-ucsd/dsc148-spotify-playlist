@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "SHELL ( OF A MAN )",
+        "url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
+    },
+    {
+      "album": {
         "name": "Shirley",
         "url": "https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I"
       },
@@ -4242,6 +4260,24 @@
       "duration_ms": 230680,
       "name": "The Natural",
       "url": "https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i"
+    },
+    {
+      "album": {
+        "name": "the real deal",
+        "url": "https://open.spotify.com/album/4RStY3dfOtZFp1x1rqVxOt"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150371,
+      "name": "the real deal",
+      "url": "https://open.spotify.com/track/3zfwaCUZLnssBxfJg6E2n9"
     },
     {
       "album": {

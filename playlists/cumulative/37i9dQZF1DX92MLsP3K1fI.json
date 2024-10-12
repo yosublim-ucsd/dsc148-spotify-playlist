@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148677,
       "name": "(sola)",
       "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 292500,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/2dBceH2ounuw0o8WlKmmYq"
@@ -1339,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/0l9lmQj4hJcVyV6nTVCNkK"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184649,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/2g56bZASIQjgfwQ0O3fvb5"
+    },
+    {
+      "album": {
         "name": "CHTM",
         "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
       },
@@ -1585,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
+    },
+    {
+      "album": {
         "name": "Cuenta Hasta Diez",
         "url": "https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN"
       },
@@ -1684,6 +1724,28 @@
       "duration_ms": 194773,
       "name": "Dame",
       "url": "https://open.spotify.com/track/7HYbGDEDUGNA4BBgwJdCfv"
+    },
+    {
+      "album": {
+        "name": "Dame Tu Amor",
+        "url": "https://open.spotify.com/album/4XNMKxJJbBvcgg3ml5S5Ou"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Dame Tu Amor",
+      "url": "https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix"
     },
     {
       "album": {
@@ -1814,7 +1876,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203272,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/5Gkgw6THQivBbb6KdIsbZF"
@@ -1872,7 +1934,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 187317,
       "name": "dEsANiMaO :(",
       "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
@@ -2559,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/6weAvHZk1RgwzGKWYYmOk3"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200320,
+      "name": "Fama Mundial",
+      "url": "https://open.spotify.com/track/7lXvcJi3nGs2NKcaaO78lS"
+    },
+    {
+      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
       },
@@ -3014,7 +3098,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 205779,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
@@ -3576,7 +3660,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175479,
       "name": "Lovelove U",
       "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
@@ -4890,6 +4974,24 @@
       "duration_ms": 185751,
       "name": "Oportunidad",
       "url": "https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R"
+    },
+    {
+      "album": {
+        "name": "Otro Mood",
+        "url": "https://open.spotify.com/album/02kufg8vQsGs63dvpyKYcX"
+      },
+      "artists": [
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170241,
+      "name": "Otro Mood",
+      "url": "https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v"
     },
     {
       "album": {
@@ -6736,7 +6838,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186346,
       "name": "TQ",
       "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"

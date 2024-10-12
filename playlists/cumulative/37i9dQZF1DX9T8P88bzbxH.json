@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Get ready to spill your GUTS. Cover: Olivia Rodrigo",
+  "description": "Take a glimpse into the future before you see him on October 18. Cover: Josh Makazo",
   "name": "GO Live",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/6dhWwPex5g1B1hg7ezGj2b"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203369,
       "name": "ballad of a homeschooled girl",
       "url": "https://open.spotify.com/track/5lfHlUT9WtSGw12jw7dSkk"
@@ -438,6 +438,24 @@
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196587,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw"
     },
     {
       "album": {
@@ -549,6 +567,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -560,7 +596,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 143746,
       "name": "brutal",
       "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
@@ -791,6 +827,24 @@
     },
     {
       "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178103,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/0DokETHZlncyL1KZZ8uAvV"
+    },
+    {
+      "album": {
         "name": "confidence in me",
         "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
@@ -928,7 +982,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
@@ -1054,10 +1108,46 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
+        "name": "GRADIENT (Deluxe)",
+        "url": "https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170864,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "Empty Seat",
+      "url": "https://open.spotify.com/track/5SWI4mExFgJYxc3lmKqhHe"
     },
     {
       "album": {
@@ -1090,7 +1180,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 202826,
       "name": "enough for you",
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
@@ -1184,7 +1274,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
@@ -1476,7 +1566,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/5D27wJnVQwYD7fAKaODHgs"
@@ -1584,7 +1674,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -1717,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218260,
+      "name": "half of my heart",
+      "url": "https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -1728,7 +1836,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 175933,
       "name": "happier",
       "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
@@ -1915,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/0VibEYS0NHzR76zvg7c5w1"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/4aaeCfnNc21IRpL7SsQexE"
+    },
+    {
+      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi"
       },
@@ -1948,6 +2074,24 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
     },
     {
       "album": {
@@ -1988,6 +2132,24 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "i just want to hear your voice",
+      "url": "https://open.spotify.com/track/1EoUT9L2s9pEL2dd1cCE42"
     },
     {
       "album": {
@@ -2218,7 +2380,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
@@ -2326,7 +2488,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177212,
       "name": "lacy",
       "url": "https://open.spotify.com/track/5SShKhLCYFydCsO4L7ULMr"
@@ -2400,6 +2562,24 @@
       "duration_ms": 271893,
       "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124066,
+      "name": "LET IT BURN",
+      "url": "https://open.spotify.com/track/3aDIzZUZKFMCE9QWsktnw8"
     },
     {
       "album": {
@@ -2530,7 +2710,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/7E35A3DD14DVoE3rpCBmQj"
@@ -2566,7 +2746,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 154516,
       "name": "love is embarrassing",
       "url": "https://open.spotify.com/track/3jhlwdu8nU7hFTEGHUomN3"
@@ -2656,10 +2836,28 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 198866,
       "name": "making the bed",
       "url": "https://open.spotify.com/track/4HOWCLfKRlHhbsCCBsquSE"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "MANIA",
+      "url": "https://open.spotify.com/track/2Bu7Rkj0b6F4QibamVFhVo"
     },
     {
       "album": {
@@ -2714,6 +2912,24 @@
       "duration_ms": 208173,
       "name": "Midnight Butterflies",
       "url": "https://open.spotify.com/track/4QYrGUVVK5CnkoadDjfU3r"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139464,
+      "name": "MIDNIGHT PSYCHO",
+      "url": "https://open.spotify.com/track/3fNWBxEYAyUmrb6hdkoEF8"
     },
     {
       "album": {
@@ -2772,6 +2988,24 @@
       "duration_ms": 163886,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
+    },
+    {
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220665,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/69jAd3fVyKO9rhbQDmw08v"
     },
     {
       "album": {
@@ -2883,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199838,
+      "name": "NIGHTCRAWLER",
+      "url": "https://open.spotify.com/track/4EPqUOzSj94AFzRezWGwde"
+    },
+    {
+      "album": {
         "name": "Come Callin' / No Pretense",
         "url": "https://open.spotify.com/album/53okyzRLnTTPAmTitcQDC5"
       },
@@ -2919,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4lTtKlS7hD4n1WcRoWZ3wo"
+    },
+    {
+      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
@@ -2930,7 +3200,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
@@ -3056,7 +3326,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 199422,
       "name": "pretty isn\u2019t pretty",
       "url": "https://open.spotify.com/track/7IiOhvduGa8urDPC6l3CWo"
@@ -3362,7 +3632,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
@@ -3640,7 +3910,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 222358,
       "name": "teenage dream",
       "url": "https://open.spotify.com/track/1dyfBMMklpbqRbuvjnVwap"
@@ -3694,7 +3964,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/6e5fsRfVK3jvrpUXJpG9mB"
@@ -3838,7 +4108,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -3950,7 +4220,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/6gPOwGszseqYL7w02opoy1"

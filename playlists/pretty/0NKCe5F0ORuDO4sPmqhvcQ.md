@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,664 likes - 114 songs - 6 hr 35 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,662 likes - 116 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 112 | [Closer](https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Angela Krüsi](https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1) | [How To Run Away \- 10 Year Bonus Disk](https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq) | 4:10 |
 | 113 | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB) | 2:28 |
 | 114 | [Say My Name](https://open.spotify.com/track/6QsDAv7zJO62zgtG10qyPO) | [PASSPORT](https://open.spotify.com/artist/5F8uZfcb8vSjCAtsLSVWOL) | [Say My Name](https://open.spotify.com/album/5uWHA7bkYPLcyMZsC8nTwn) | 3:31 |
+| 115 | [Different Way](https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Different Way](https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S) | 3:16 |
+| 116 | [Like I Said \- CHROMEBODIED](https://open.spotify.com/track/2ckXnHXoecAhSgmLWP4mNP) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [Like I Said \(CHROMEBODIED\)](https://open.spotify.com/album/7nkDEtlQncBRQLfa8aXqnn) | 5:04 |
 
-Snapshot ID: `AAAqMqbes05NAzmRkJYassXD43dqaai1`
+Snapshot ID: `AAAqNMY4IrtT2fxKYNalRZnseG0OHNI7`

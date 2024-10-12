@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Memphis LK",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Charli xcx",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -164,6 +164,28 @@
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121273,
+      "name": "365 featuring shygirl",
+      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
     },
     {
       "album": {
@@ -512,6 +534,28 @@
       "duration_ms": 201707,
       "name": "Ayana",
       "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153387,
+      "name": "B2b featuring tinashe",
+      "url": "https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra"
     },
     {
       "album": {
@@ -1246,6 +1290,46 @@
       "duration_ms": 172026,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe"
+    },
+    {
+      "album": {
+        "name": "Beyond Physics",
+        "url": "https://open.spotify.com/album/67H1LhhFdyYflclhcWKZ7z"
+      },
+      "artists": [
+        {
+          "name": "Pina Tesla",
+          "url": "https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/6A0V9bTkmRYCsGtbg1MuN9"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
     },
     {
       "album": {
@@ -2078,6 +2162,24 @@
       "duration_ms": 212221,
       "name": "Fall Into Place",
       "url": "https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "album": {
@@ -5000,7 +5102,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 221975,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN"
@@ -5058,7 +5160,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169460,
       "name": "Monkey Madness",
       "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
@@ -7254,7 +7356,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 333913,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
@@ -7720,7 +7822,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 219664,
       "name": "turn this car around",
       "url": "https://open.spotify.com/track/04KDlJC2willTjllZ6J1dw"
@@ -8396,7 +8498,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 219375,
       "name": "You Don't Want This",
       "url": "https://open.spotify.com/track/3edzwG1cecnBkGXbGXdCYT"

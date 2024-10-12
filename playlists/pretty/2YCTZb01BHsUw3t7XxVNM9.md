@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 601 likes - 486 songs - 1 day 9 hr 49 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 601 likes - 487 songs - 1 day 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -494,5 +494,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 484 | [Megaton Kids](https://open.spotify.com/track/3S0GJlstXzT58xBkWHg9Bp) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Kids](https://open.spotify.com/album/1cQ7dyCnSWbsaOpu289kK3) | 3:14 |
 | 485 | [Break the Chains](https://open.spotify.com/track/4qRPdvtLWnnVSOsBXeO7U1) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Break the Chains](https://open.spotify.com/album/0xAfOT87r2RR6zaVyTPOjv) | 2:55 |
 | 486 | [Sacrifice of Fools](https://open.spotify.com/track/6hU3mMCVT0w3GgSwC9dibK) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [tug](https://open.spotify.com/artist/3R2Ax8KjYjOZ7DGqdMlSUq) | [Sacrifice of Fools](https://open.spotify.com/album/3xepL1E9bcFdZpLigcAHvh) | 2:10 |
+| 487 | [The Disaster Sounds](https://open.spotify.com/track/2AdnKn7eM6GbalC1SqYEFj) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [The Disaster Sounds](https://open.spotify.com/album/4znL8KsguH4BQACygRbkRK) | 2:59 |
 
-Snapshot ID: `AAACRKrn37xJK01Za1RLs1IWqw6srkpj`
+Snapshot ID: `AAACRUju0LbGPgpKlYLxhtVmvgl8MDHH`

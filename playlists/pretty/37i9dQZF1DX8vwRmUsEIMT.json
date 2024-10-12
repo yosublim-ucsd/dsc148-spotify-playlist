@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Nao",
-  "num_followers": 547497,
+  "num_followers": 547555,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhccAAAAAAGx6e1A3bYXTM6rwyx0afk",
+  "snapshot_id": "ZwhccAAAAABWoyhNQMa6C5zKjp7yTkhJ",
   "tracks": [
     {
       "added_at": "2024-10-10 23:00:00",
@@ -210,6 +210,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,

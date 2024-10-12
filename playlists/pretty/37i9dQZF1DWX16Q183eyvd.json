@@ -1,13 +1,33 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 73660,
+  "num_followers": 73792,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAARX7Ft0Fv44drQpY9lB7/d",
+  "snapshot_id": "ZwiiwAAAAACu3ZmMckXW2ZbdrZ3ubh4y",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -427,26 +447,6 @@
       "duration_ms": 154680,
       "name": "Dance in the Playroom",
       "url": "https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "I Am Love, I Am Light (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO"
-      },
-      "artists": [
-        {
-          "name": "FY\u00dcTCH",
-          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
-        },
-        {
-          "name": "Aura V",
-          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "I Am Love, I Am Light - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6"
     },
     {
       "added_at": "2024-01-30 16:42:16",

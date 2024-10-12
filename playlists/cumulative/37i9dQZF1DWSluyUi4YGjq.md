@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-688 songs - 1 day 20 hr 43 min
+694 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 | 2024-01-12 |  |
 | [Baldpate Driver](https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 4:13 | 2023-02-09 | 2023-05-23 |
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-03-10 | 2023-09-30 |
+| [Bardo](https://open.spotify.com/track/05eBPrTZPj0i0p9xsIlNPI) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Bardo](https://open.spotify.com/album/73El7RE5y19k6cZpJfOcBn) | 3:24 | 2024-10-11 |  |
 | [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 | 2023-02-27 | 2023-08-24 |
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-27 | 2023-06-07 |
 | [bb](https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [bb](https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h) | 2:41 | 2023-02-09 | 2023-08-05 |
@@ -94,6 +95,7 @@
 | [blurry](https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [the way night falls](https://open.spotify.com/album/5y5JOeRipEP9JfKhQFDp8J) | 3:49 | 2023-10-13 | 2023-12-12 |
 | [Bong World](https://open.spotify.com/track/3rwbJQFlqjMoNpwhU0gESR) | [Buff Ginger](https://open.spotify.com/artist/51ZnoZJmnms7hdHKJrRLtL) | [New Jokes](https://open.spotify.com/album/05we1XCetqkE0s740C5rdn) | 3:26 | 2023-12-01 | 2024-05-25 |
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2021-10-19 | 2022-07-29 |
+| [Bottlebrush Tree](https://open.spotify.com/track/0jJxSU4nZyCyGN8TivK0Z3) | [Starling](https://open.spotify.com/artist/1CD5G3Yqzu1TpkqpxWFGFC) | [Bottlebrush Tree](https://open.spotify.com/album/0uICcGi4pEV8ZLzi1kp2qT) | 2:50 | 2024-10-11 |  |
 | [bottlerocket](https://open.spotify.com/track/2kNcfAL3AdkHFDmFlfE09f) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [crush](https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I) | 3:14 | 2024-02-23 | 2024-05-25 |
 | [Bottlerocket](https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 3:14 | 2021-10-19 | 2022-07-29 |
 | [bottlerocket](https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 3:14 | 2021-10-19 | 2022-12-13 |
@@ -491,6 +493,7 @@
 | [Plague X](https://open.spotify.com/track/7caVWx4BPpENLeZWrVr8T5) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [Plague X](https://open.spotify.com/album/49ctalPko0phMivIeqY7D0) | 4:14 | 2023-05-19 | 2023-08-05 |
 | [Play Ground](https://open.spotify.com/track/36nLNoWO8DiBKVQgW6PELj) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Sterling Murmuration](https://open.spotify.com/album/35wNrUFFysfWtprYwpAZTA) | 4:53 | 2022-09-29 | 2022-10-28 |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2022-12-15 | 2023-01-14 |
+| [Pond](https://open.spotify.com/track/3nnOsPUwXUa4lbV6Ybtqig) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [Pond](https://open.spotify.com/album/51GloB4XLeFvNH9liwgouy) | 2:27 | 2024-10-11 |  |
 | [Portland Rocks](https://open.spotify.com/track/19ovzUYZToyFVtAU9qL2rZ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1rbccis9sgHx4uxWseWez3) | 5:02 | 2024-03-29 |  |
 | [Portland Rocks](https://open.spotify.com/track/28z4ex2Y5VJpY7vbjiOEdj) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 5:02 | 2024-03-29 | 2024-04-19 |
 | [Press](https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 3:31 | 2021-10-19 | 2022-12-01 |
@@ -506,6 +509,7 @@
 | [Pulling Our Weight](https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/4vIEzWfChYUpciMNXdfHwZ) | 3:21 | 2021-10-19 | 2022-07-29 |
 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 | 2021-10-19 | 2022-10-07 |
 | [Pulling Stitches](https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi) | 4:12 | 2023-06-01 | 2023-07-01 |
+| [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 | 2024-10-11 |  |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-08-03 | 2022-12-13 |
 | [Rdo](https://open.spotify.com/track/5uPwj0ULJrOIhCzJHt6hhz) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 1:46 | 2023-11-06 | 2023-12-12 |
 | [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 | 2024-06-09 |  |
@@ -567,6 +571,7 @@
 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-11-08 | 2023-12-12 |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-01 | 2024-04-06 |
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 |  |
+| [Spirit](https://open.spotify.com/track/7DENTjJX2qGicOpgsNHo3y) | [voyeur](https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n) | [Something Becomes You](https://open.spotify.com/album/3oqVmp3SJXVz318ZAHYH8h) | 3:09 | 2024-10-11 |  |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-08-11 | 2024-04-30 |
 | [Spright](https://open.spotify.com/track/430XHExQ9MA1ol3R2OIlb7) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 2:40 | 2024-04-05 | 2024-04-19 |
 | [Spright](https://open.spotify.com/track/50ik2uCjIy2vaX4A9EIWOE) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Spright](https://open.spotify.com/album/2tB1pl53w7KZOliL4ETNJA) | 2:40 | 2024-04-05 |  |
@@ -686,6 +691,7 @@
 | [You Can't Have Your Cake and Ego Too \(Happy Birthday\) \- Audiotree Live version](https://open.spotify.com/track/3uF3pwjo99lnmOcFy3Ve1w) | [Seafoam Walls](https://open.spotify.com/artist/38sXpZuO83ogEnlGr3zC90), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Seafoam Walls on Audiotree Live](https://open.spotify.com/album/0ZDABzfMWnxiBxem8S1Eac) | 4:41 | 2023-08-04 | 2023-09-02 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2021-10-19 | 2023-05-26 |
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-10-19 | 2022-07-29 |
+| [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 | 2024-10-11 |  |
 | [Young Adult Friction](https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 4:03 | 2021-10-19 | 2023-02-10 |
 | [Young Adult Friction](https://open.spotify.com/track/1FsvfszJ09tqBcino2JfCb) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains Of Being Pure At Heart](https://open.spotify.com/album/5uWuwlHON5texRWxdgtiS2) | 4:07 | 2021-10-19 | 2022-07-28 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-19 | 2024-04-30 |

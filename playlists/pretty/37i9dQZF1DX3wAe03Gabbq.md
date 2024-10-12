@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Rock Rotation presents..\. Die besten Rock Songs aus 2023\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,733 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,732 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 | 49 | [Perfect Match](https://open.spotify.com/track/2IDzBL1s7i2V8rOWcsdHhu) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg), [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Perfect Match](https://open.spotify.com/album/3rP8J88O3wbcreHJcDbZwm) | 2:29 |
 | 50 | [Better Times Will Come](https://open.spotify.com/track/18S0HtHx6toLbw86U5UEvG) | [Fury In The Slaughterhouse](https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT) | [HOPE](https://open.spotify.com/album/5E3iMxvStV64ATl4bDoEcD) | 3:00 |
 
-Snapshot ID: `ZWcrgAAAAABZKuM6A4C/+jWntYk95s68`
+Snapshot ID: `ZWcrgAAAAAB5j5qvCnbsTUNaA7mIzdJ6`

@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-253 songs - 12 hr 24 min
+254 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Longe do Fim](https://open.spotify.com/track/6X4ntr6n9t16zy47pZRe03) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Longe do Fim](https://open.spotify.com/album/7xLloQRD5GqWvyC2joeyAH) | 2:31 | 2024-05-31 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 | 2022-08-22 | 2024-04-19 |
 | [Louis V, Menina Linda](https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Louis V, Menina Linda](https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ) | 3:35 | 2022-03-18 |  |
+| [LUXÚRIA](https://open.spotify.com/track/5FoRyQCEoXdNbZryDGwiPZ) | [Ryxn Pablo](https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [LUXÚRIA](https://open.spotify.com/album/1mCUbkEnpEhMIl6D2tSiu3) | 2:48 | 2024-10-11 |  |
 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 | 2022-03-18 | 2023-09-02 |
 | [Luxúria](https://open.spotify.com/track/7bH4a6hrLW8jUZHGQsi0Fs) | [Yunk Drey](https://open.spotify.com/artist/0XcOtCLUZ9C4eLazOKyWMU), [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Luxúria](https://open.spotify.com/album/5lOrUR8mzRNcUbpLuqSKpi) | 2:50 | 2023-09-01 | 2023-10-21 |
 | [Mais Uma Noite](https://open.spotify.com/track/2HhlfSdtyJHAzLOVcATPnF) | [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P) | [Relatos De 7 Noites, Vol\. 2](https://open.spotify.com/album/5E0Guh5pTyLPBZmsEEStqk) | 2:57 | 2024-08-30 |  |

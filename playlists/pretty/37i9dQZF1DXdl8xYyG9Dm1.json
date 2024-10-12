@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Phyno",
-  "num_followers": 159187,
+  "num_followers": 159252,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwUKBgAAAAA9nJqAt8AeTVaoApo3epLk",
+  "snapshot_id": "ZwUKBgAAAADJm3DTIf5Ye3JH93Bqbg0t",
   "tracks": [
     {
       "added_at": "2024-10-08 10:31:34",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-10-08 10:31:34",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-10-08 10:31:34",
-      "album": {
         "name": "Honne - Remix",
         "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 176684,
       "name": "Honne - Remix",
       "url": "https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q"
+    },
+    {
+      "added_at": "2024-10-08 10:31:34",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2024-10-08 10:31:34",

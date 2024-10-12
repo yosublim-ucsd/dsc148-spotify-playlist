@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: the small town kids, Lotta",
+  "description": "nasze brzmienie \u2728 Cover: Zale\u015b",
   "name": "gen z ",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 126101,
       "name": "babcia sprzeda\u0142a sie za propozycje fotowoltaiki",
       "url": "https://open.spotify.com/track/0BvrkxIZfPZ3JrAVH5bCFi"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Instalacja IV",
+        "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Dla Ciebie",
+      "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
+    },
+    {
+      "album": {
         "name": "Droga na szczyt",
         "url": "https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF"
       },
@@ -934,6 +952,24 @@
       "duration_ms": 165040,
       "name": "Dwa Tygodnie",
       "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
+    },
+    {
+      "album": {
+        "name": "DZIEWCZYNA Z PLAKATU",
+        "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159789,
+      "name": "DZIEWCZYNA Z PLAKATU",
+      "url": "https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM"
     },
     {
       "album": {
@@ -1587,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "kropelki",
+        "url": "https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150943,
+      "name": "kropelki",
+      "url": "https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z"
+    },
+    {
+      "album": {
         "name": "Kr\u00f3lowa i Kr\u00f3l",
         "url": "https://open.spotify.com/album/48gfoj9ZDGraMyTKJHLCzD"
       },
@@ -1970,6 +2024,24 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
     },
     {
       "album": {
@@ -2762,7 +2834,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 146086,
       "name": "Poszukam",
       "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
@@ -2890,6 +2962,24 @@
       "duration_ms": 183881,
       "name": "przypadkiem",
       "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186591,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
     },
     {
       "album": {
@@ -3564,7 +3654,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 177250,
       "name": "What do you want from me?",
       "url": "https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej"
@@ -3702,6 +3792,24 @@
       "duration_ms": 190967,
       "name": "Wsch\u00f3d",
       "url": "https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x"
+    },
+    {
+      "album": {
+        "name": "wspomnienie o",
+        "url": "https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA"
+      },
+      "artists": [
+        {
+          "name": "ada\u015b.",
+          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204155,
+      "name": "wspomnienie o",
+      "url": "https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB"
     },
     {
       "album": {
@@ -3860,7 +3968,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"

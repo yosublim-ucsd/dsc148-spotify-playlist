@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Caribou
 
-1,060 songs - 3 day 1 hr 34 min
+1,061 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-19 | 2022-11-09 |
 | [Elder Garden](https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf) | 5:29 | 2022-11-04 | 2023-01-27 |
 | [Elder Garden](https://open.spotify.com/track/6UJBTAGVxGhqg2053gzyvI) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 5:29 | 2022-11-11 | 2022-11-13 |
+| [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [2:M](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 | 2024-10-11 |  |
 | [EMBER](https://open.spotify.com/track/3TEvSR6IiKJOnZyDY7Zfs7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [EMBER](https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky) | 3:46 | 2022-03-08 | 2022-03-10 |
 | [EMOTIONAL INTELLIGENCE](https://open.spotify.com/track/2VGzWYCwuJrUXSb3sKAhWc) | [808Charmer](https://open.spotify.com/artist/6UVkc7bPScP0qTQE5dDaEX), [808INK](https://open.spotify.com/artist/1eSFjbv86usit5ZF5ywtLf) | [NOTHING MADE SENSE](https://open.spotify.com/album/4Ptah9ieLZ5DVEtgrRHFDQ) | 2:33 | 2023-11-17 | 2024-04-12 |
 | [End Credits](https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [End Credits](https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0) | 3:33 | 2023-09-22 | 2023-10-06 |
@@ -462,7 +463,7 @@
 | [Idols Fall](https://open.spotify.com/track/4rmOb88oPfFnhfpGelSHFc) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Seyaa](https://open.spotify.com/artist/4ay2t35lKdmHo3EpFNcS18) | [Idols Fall / Snap 101](https://open.spotify.com/album/1SCNer2SI2V9z360h8ybs6) | 3:59 | 2024-01-05 | 2024-06-07 |
 | [If It's True](https://open.spotify.com/track/116liDXqS5DIzlnkBz1sWp) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [If It's True](https://open.spotify.com/album/3C6DtnVk1LKcnrgO4XLhvz) | 4:14 | 2022-06-30 | 2022-08-20 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-05-10 |  |
-| [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 | 2024-04-12 |  |
+| [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 | 2024-04-12 | 2024-10-12 |
 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-29 | 2024-09-20 |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 | 2024-07-12 |
 | [Imagination](https://open.spotify.com/track/6hBHMrdoQP3VmtvCvbhKOX) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Imagination](https://open.spotify.com/album/61HRvYXfolP76RcNBejDV6) | 6:52 | 2021-12-03 | 2022-05-06 |

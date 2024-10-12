@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,415 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,451 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Cantinho Pra Nós](https://open.spotify.com/track/129FWnr5JyDxiC4BnVEgmk) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Cantinho Pra Nós](https://open.spotify.com/album/5heAB6yR0875GifkzqrCE4) | 3:04 |
 | 75 | [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 |
 
-Snapshot ID: `ZwhccAAAAACFF6TthLFZE63lvq5wR1oF`
+Snapshot ID: `ZwhccAAAAADY9LC/hR7fmq9K7y+2FxqJ`

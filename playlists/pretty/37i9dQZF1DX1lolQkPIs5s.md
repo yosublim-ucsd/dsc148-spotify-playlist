@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪　ディズニー最新楽曲から、『モアナと伝説の海』、『アナと雪の女王』、『アラジン』、『ライオン・キング』等の名曲、パークの大人気曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,565 likes - 114 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,593 likes - 114 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 113 | [Winnie the Pooh](https://open.spotify.com/track/1BXKzjmrLDWBcwkLsNodD5) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Winnie the Pooh 80th Anniversary Album](https://open.spotify.com/album/6GuR8bSNDEducyRg4269D4) | 1:28 |
 | 114 | [You Can Fly! You Can Fly! You Can Fly!](https://open.spotify.com/track/1HTqoEMp8bRSfPDM7c5xIm) | [Bobby Driscoll](https://open.spotify.com/artist/4CkLcamYYOTtKnLWjuUDyr), [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Paul Collins](https://open.spotify.com/artist/1aL3c8BNATMQEsauxJoYn7), [Tommy Luske](https://open.spotify.com/artist/51AV2GURH2q9LqgBcUsUJf), [The Jud Conlon Chorus](https://open.spotify.com/artist/5s5jvj5TkkMkQDR28awRsA) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob) | 4:24 |
 
-Snapshot ID: `ZtGArwAAAACQGvyJXKGbZk37YLux1iVj`
+Snapshot ID: `ZtGArwAAAACBmZTL4qVc98uaV7QRzxfK`

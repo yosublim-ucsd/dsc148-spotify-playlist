@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,552 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,594 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 44 | [take your vibes and go \- Preditah Remix](https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go \(Preditah Remix\)](https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN) | 4:52 |
 | 45 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
 | 46 | [How It Is](https://open.spotify.com/track/7wetBN8fYQGEQyozI7fZMM) | [Lavito](https://open.spotify.com/artist/2f1ROIxC1XQB9beDbRhMzB), [Charlie Aylesbury](https://open.spotify.com/artist/1GR1GcuHbCWPMjN3cesPMp) | [How It Is](https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o) | 2:29 |
-| 47 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
+| 47 | [Without U \- Radio Edit](https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [Without U](https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN) | 2:49 |
 | 48 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 |
-| 49 | [Without U \- Radio Edit](https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [Without U](https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN) | 2:49 |
+| 49 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
 | 50 | [Tunes Since '89](https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y) | [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9) | [Tunes Since '89](https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La) | 3:40 |
 | 51 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 |
 | 52 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 54 | [Want Me](https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI), [Sophia Violet](https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV) | [Want Me](https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ) | 2:41 |
 | 55 | [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 |
 | 56 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
-| 57 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
-| 58 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
-| 59 | [Higher \- Prozak Remix](https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Higher \(Prozak Remix\)](https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp) | 4:29 |
+| 57 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
+| 58 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
+| 59 | [PASSION \- VIP](https://open.spotify.com/track/72sGTK4uLQvW7n73nG2Kw6) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Guy Mac](https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk) | [PASSION \- VIP](https://open.spotify.com/album/3W74zsPQTF9P6hI6i67mvq) | 2:32 |
 | 60 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
 
-Snapshot ID: `ZvXncAAAAAAEe/+EzetoBhISkbPebJHO`
+Snapshot ID: `ZvXncAAAAADnE6bTuO/tPzAtHgXLRJbw`

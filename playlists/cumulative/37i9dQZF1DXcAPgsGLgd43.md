@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-319 songs - 17 hr 1 min
+320 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |
 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 | 2023-12-15 | 2024-03-16 |
 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 | 2024-01-05 | 2024-04-11 |
+| [Groove Con Clase](https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Groove Con Clase](https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz) | 3:02 | 2024-10-11 |  |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
 | [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 | 2024-08-17 |
@@ -324,7 +325,7 @@
 | [XTC](https://open.spotify.com/track/7oPB4kg8YwmofthqXzSFIB) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [Jesse Bravo](https://open.spotify.com/artist/5c5YvfauJzP169EcIQV0SD) | [XTC](https://open.spotify.com/album/4dmo2awJxwiuQtprqvhiLf) | 3:04 | 2023-11-10 |  |
 | [Ya Me Voy](https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Fuzzy Cufflinxxx](https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19) | [Ya Me Voy](https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt) | 3:25 | 2024-05-03 |  |
 | [Yabisa \- Radio Mix](https://open.spotify.com/track/7w8gLFcrHRBB6xkkrLcvd6) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Cris Ruiz](https://open.spotify.com/artist/6l5n5zDtpeQ9Xqop5aAFWB) | [Yabisa](https://open.spotify.com/album/4nrc2kGqaLyNyK0Acg6CDF) | 2:56 | 2021-10-08 | 2022-07-28 |
-| [Yo Contigo](https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI) | [ATALE](https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut), [Lion](https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk), [donatello.](https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7) | [Yo Contigo](https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8) | 2:42 | 2024-08-23 |  |
+| [Yo Contigo](https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI) | [ATALE](https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut), [Lion](https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk), [donatello.](https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7) | [Yo Contigo](https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8) | 2:42 | 2024-08-23 | 2024-10-12 |
 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 | 2023-11-10 | 2024-08-04 |
 | [¡Date Prisa!](https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [¡Date Prisa!](https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe) | 3:19 | 2024-02-16 | 2024-08-25 |
 

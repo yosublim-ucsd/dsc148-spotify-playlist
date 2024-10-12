@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 188999,
+  "num_followers": 189093,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwA2nwAAAADONpeOKBo97Jk72wwYxhYX",
+  "snapshot_id": "ZwA2nwAAAACUHUg5BCIyDdBGYt3oEnKr",
   "tracks": [
     {
       "added_at": "2024-04-11 18:13:13",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+    },
+    {
       "added_at": "2023-05-25 23:48:57",
       "album": {
         "name": "Amatssou",
@@ -557,20 +573,20 @@
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-12-29 18:51:03",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "Tayyara Warak (Habibi Funk 023)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
         }
       ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2022-09-15 12:52:37",
@@ -587,22 +603,6 @@
       "duration_ms": 228200,
       "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
       "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
-    },
-    {
-      "added_at": "2022-12-29 18:51:03",
-      "album": {
-        "name": "Tayyara Warak (Habibi Funk 023)",
-        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 168097,
-      "name": "Tayyara Warak",
-      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2024-02-10 20:45:47",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+    },
+    {
       "added_at": "2024-04-30 04:28:31",
       "album": {
         "name": "La Bomba",
@@ -675,18 +691,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
       "artists": [
         {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -723,22 +739,6 @@
       "duration_ms": 186173,
       "name": "Worldly World (Ohaa Uha Uha)",
       "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2024-06-18 16:36:09",
@@ -825,6 +825,38 @@
       "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
     },
     {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+    },
+    {
+      "added_at": "2023-12-05 16:22:29",
+      "album": {
+        "name": "East of Any Place (Habibi Funk 025)",
+        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "East Of Any Place",
+      "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
+    },
+    {
       "added_at": "2024-09-09 15:09:32",
       "album": {
         "name": "Me Sem Rom",
@@ -845,26 +877,10 @@
       "url": "https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk"
     },
     {
-      "added_at": "2023-12-05 16:22:29",
+      "added_at": "2022-04-06 01:47:33",
       "album": {
-        "name": "East of Any Place (Habibi Funk 025)",
-        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "East Of Any Place",
-      "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
-    },
-    {
-      "added_at": "2024-09-11 00:20:58",
-      "album": {
-        "name": "Bul Bul Bul",
-        "url": "https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8"
+        "name": "\u015einanay / French Disko (Lagniappe Session)",
+        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
       },
       "artists": [
         {
@@ -872,25 +888,9 @@
           "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Bul Bul Bul",
-      "url": "https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE"
-    },
-    {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "Racines",
-        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 73880,
-      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
-      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+      "duration_ms": 236578,
+      "name": "\u015einanay",
+      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
       "added_at": "2024-08-21 02:38:50",
@@ -907,6 +907,38 @@
       "duration_ms": 223063,
       "name": "M\u00e3o na M\u00e3o",
       "url": "https://open.spotify.com/track/1Zv6mhftaA2CRYjiPHZnhB"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+    },
+    {
+      "added_at": "2023-12-12 21:18:55",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
     },
     {
       "added_at": "2024-04-23 00:54:49",
@@ -929,36 +961,20 @@
       "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
     },
     {
-      "added_at": "2023-12-12 21:18:55",
+      "added_at": "2024-09-11 00:20:58",
       "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+        "name": "Bul Bul Bul",
+        "url": "https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8"
       },
       "artists": [
         {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
         }
       ],
-      "duration_ms": 343000,
-      "name": "Newcastle",
-      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+      "duration_ms": 208280,
+      "name": "Bul Bul Bul",
+      "url": "https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE"
     },
     {
       "added_at": "2024-03-05 03:13:14",
@@ -1017,22 +1033,6 @@
       "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
-      "added_at": "2022-04-06 01:47:33",
-      "album": {
-        "name": "\u015einanay / French Disko (Lagniappe Session)",
-        "url": "https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "\u015einanay",
-      "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
-    },
-    {
       "added_at": "2022-02-18 03:47:28",
       "album": {
         "name": "Solst\u00edcio",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
+      "added_at": "2024-08-16 20:12:56",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
+    },
+    {
       "added_at": "2024-08-23 01:32:57",
       "album": {
         "name": "Mundos",
@@ -1117,26 +1133,6 @@
       "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
-      "added_at": "2024-08-21 02:36:12",
-      "album": {
-        "name": "NO ME DABA CUENTA",
-        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Luna",
-          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
-        }
-      ],
-      "duration_ms": 209304,
-      "name": "NO ME DABA CUENTA",
-      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Black To The Future",
@@ -1157,20 +1153,24 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
-      "added_at": "2024-08-16 20:12:56",
+      "added_at": "2024-08-21 02:36:12",
       "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
+        "name": "NO ME DABA CUENTA",
+        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
       },
       "artists": [
         {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Luna",
+          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
+      "duration_ms": 209304,
+      "name": "NO ME DABA CUENTA",
+      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
+      "added_at": "2024-02-02 05:27:19",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Unconscious Collective",
@@ -1437,20 +1453,20 @@
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
-      "added_at": "2024-02-02 05:27:19",
+      "added_at": "2022-03-04 21:17:03",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 275253,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+      "duration_ms": 241157,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
       "added_at": "2024-05-03 14:18:47",
@@ -1471,22 +1487,6 @@
       "duration_ms": 228250,
       "name": "Setan Dolbon",
       "url": "https://open.spotify.com/track/5CJsMppFOvs7NNOZWreNdd"
-    },
-    {
-      "added_at": "2022-03-04 21:17:03",
-      "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 241157,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     },
     {
-      "added_at": "2024-06-21 15:01:38",
-      "album": {
-        "name": "Faust",
-        "url": "https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "Faust",
-      "url": "https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs"
-    },
-    {
       "added_at": "2022-04-01 06:00:00",
       "album": {
         "name": "Solpor",
@@ -1575,6 +1559,22 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-06-21 15:01:38",
+      "album": {
+        "name": "Faust",
+        "url": "https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1653,6 +1653,26 @@
       "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
     },
     {
+      "added_at": "2022-02-18 06:00:35",
+      "album": {
+        "name": "Remotely Close: Silkyway",
+        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Elif \u00c7a\u011flar",
+          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
+        }
+      ],
+      "duration_ms": 230998,
+      "name": "Remotely Close: Silkyway",
+      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+    },
+    {
       "added_at": "2022-03-28 18:17:41",
       "album": {
         "name": "Udhero Na",
@@ -1703,26 +1723,6 @@
       "duration_ms": 357552,
       "name": "Lam Phu Thai # 1",
       "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
-    },
-    {
-      "added_at": "2022-02-18 06:00:35",
-      "album": {
-        "name": "Remotely Close: Silkyway",
-        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Elif \u00c7a\u011flar",
-          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
-        }
-      ],
-      "duration_ms": 230998,
-      "name": "Remotely Close: Silkyway",
-      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     }
   ],
   "unique_name": "Folk Fabrique",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,625 likes - 114 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,750 likes - 114 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 113 | [Bowie](https://open.spotify.com/track/2Rr5PghSBFo5xXx1WqFLua) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Peace](https://open.spotify.com/album/6wOfQboyYEwNX3j23XUUPV) | 4:18 |
 | 114 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
 
-Snapshot ID: `Zv9oQAAAAAAynynymq4TOHg6us60ePXw`
+Snapshot ID: `Zv9oQAAAAADxOS2AZrsoQnlIk9MfRQoQ`

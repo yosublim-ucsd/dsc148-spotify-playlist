@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Snotty Nose Rez Kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,523 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,530 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 24 | [Light of the Moon](https://open.spotify.com/track/74dmKWgT6SNsY2mxPwcBP6) | [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Light of the Moon](https://open.spotify.com/album/3Se6SFj9pGjgJ2j27BFKNH) | 3:21 |
 | 25 | [Solo](https://open.spotify.com/track/78pS6tyVVJjRfHOWiNX0R2) | [Hayley Wallis](https://open.spotify.com/artist/3oz5416NViDyRVxarOd9Fz), [Jeremy Parkin](https://open.spotify.com/artist/5m4xrkVmJeWV97JpTXkra8) | [Solo](https://open.spotify.com/album/5JOKTDNwoOiai5YOfmoF59) | 2:42 |
 
-Snapshot ID: `ZwX/wAAAAADvQrVCKNsKI5/WvoYx8ckI`
+Snapshot ID: `ZwX/wAAAAAABQfIlbIpP/qzeUVMv2fsu`

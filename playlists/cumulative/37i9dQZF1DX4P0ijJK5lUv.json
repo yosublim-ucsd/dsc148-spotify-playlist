@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Works for Symphonic Wind Orchestra, Vol. 2",
+        "url": "https://open.spotify.com/album/1QsVsGNQDgnjCWvKHnhVTS"
+      },
+      "artists": [
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Central Band Of The Royal Air Force",
+          "url": "https://open.spotify.com/artist/567yyqMgfguFnuqLGi3geD"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452166,
+      "name": "A Christmas Overture",
+      "url": "https://open.spotify.com/track/4Bmk6k7U65JHgxNphi0eMW"
+    },
+    {
+      "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/0RqXNvldA4k444jpai59He"
       },
@@ -4625,6 +4647,36 @@
     },
     {
       "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/3pC60ANbO80LkNEsyFeDG7"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Gavin Sutherland",
+          "url": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235882,
+      "name": "Somewhere in My Memory (From \"Home Alone\")",
+      "url": "https://open.spotify.com/track/4w4FSLGwt7PDpZvmcsD0vz"
+    },
+    {
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) - Anniversary Edition",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -4640,6 +4692,28 @@
       "duration_ms": 63973,
       "name": "Somewhere in My Memory - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
+    },
+    {
+      "album": {
+        "name": "Sound the Bells! (Version for Full Orchestra)",
+        "url": "https://open.spotify.com/album/1hnHZtwCkiyGLpSQN2VVjM"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180653,
+      "name": "Sound the Bells! (Version for Full Orchestra)",
+      "url": "https://open.spotify.com/track/79Xn5we9hOh0zGSm40jPD5"
     },
     {
       "album": {

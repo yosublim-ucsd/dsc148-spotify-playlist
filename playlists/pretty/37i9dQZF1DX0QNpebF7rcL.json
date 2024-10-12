@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 58673,
+  "num_followers": 58680,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAADh5VYCtLPHZoUxhgVbhy8x",
+  "snapshot_id": "ZwiiwAAAAADJeUKZO9si1bspiL+znJ0B",
   "tracks": [
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Blues In My DNA",
+        "url": "https://open.spotify.com/album/6sbnHnKPNk1mtR6eK33A5j"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "duration_ms": 277474,
+      "name": "I'm Feeling You",
+      "url": "https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -215,22 +231,6 @@
       "duration_ms": 281214,
       "name": "Better The Devil You Know",
       "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Blues In My DNA",
-        "url": "https://open.spotify.com/album/2bQZbzMmuLDr6B6UPJhU7Y"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Baker Brooks",
-          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
-        }
-      ],
-      "duration_ms": 288448,
-      "name": "Blues In My DNA",
-      "url": "https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp"
     },
     {
       "added_at": "2024-08-09 04:00:00",

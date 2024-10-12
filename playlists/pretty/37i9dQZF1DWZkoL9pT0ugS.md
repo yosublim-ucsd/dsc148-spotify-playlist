@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editor’s picks for the biggest songs from The Rock List in 2023\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,477 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,476 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 | 49 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 50 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
 
-Snapshot ID: `ZWcrRAAAAAAKsOhtIMzQrtM5rRLTXTOq`
+Snapshot ID: `ZWcrRAAAAABZeBz1MI3SrhVcRoRKMCVA`

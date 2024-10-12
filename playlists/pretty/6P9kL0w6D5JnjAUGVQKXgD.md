@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,470 likes - 100 songs - 5 hr 5 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,471 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 33 | [Nights Like This](https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Nights Like This](https://open.spotify.com/album/585ajeBSlpnK7KkILaRFpk) | 2:53 |
 | 34 | [Jungle](https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op) | [Dualhï](https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6), [JandB](https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA) | [Jungle](https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg) | 2:30 |
 | 35 | [How Do You Love](https://open.spotify.com/track/63GqGqWStpNXV6ucxlLbHi) | [Kenan Waters](https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv), [CROSSLEY](https://open.spotify.com/artist/3vK6ebjqWolsmiQZpF9B8q) | [How Do You Love](https://open.spotify.com/album/1Sr1TbA4wArxejxsB4SOye) | 2:24 |
-| 36 | [Forever Young](https://open.spotify.com/track/0CjDmfdA5wYY3cyHc826hk) | [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Forever Young](https://open.spotify.com/album/24WinYEBXb7ItgBLkWVw9g) | 2:47 |
+| 36 | [Forever Young](https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t) | [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Emily Dawn](https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Forever Young](https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy) | 2:53 |
 | 37 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 |
 | 38 | [Toxic For Me](https://open.spotify.com/track/0oqVmN4beHMazlNhGbJIgg) | [Jakblauz](https://open.spotify.com/artist/0jBf3A4p8Cv5UovH9LPDvg), [IAXI](https://open.spotify.com/artist/6eBQmbnZTqhseznsitNgXu) | [Toxic For Me](https://open.spotify.com/album/3EoYX8GIn0eH9LWPIMLr77) | 3:33 |
 | 39 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [Lucky Ones \- Farzin Salehi Remix](https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0) | [Bassanova](https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Farzin Salehi](https://open.spotify.com/artist/2bOYi40lviElkE1aywiyw7) | [Lucky Ones \(Farzin Salehi Remix\)](https://open.spotify.com/album/5cP40uBsVxP4YNHlSFktiZ) | 2:46 |
 | 100 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
 
-Snapshot ID: `AAAHxFq+IygIsO43cOERzXgRY617SvIE`
+Snapshot ID: `AAAHxeTipg9dxRHOkQCiAxzfTxDWFzxy`

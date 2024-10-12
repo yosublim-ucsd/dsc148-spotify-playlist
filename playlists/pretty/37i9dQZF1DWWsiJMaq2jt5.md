@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4E8L0A5xtDhcMaeBO7p0eg">Bovska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,033 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,050 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Lato nie wakacje](https://open.spotify.com/track/6SvatD0574vnEPAYM0SFMR) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr) | [Lato nie wakacje](https://open.spotify.com/album/7q0AMRroEUkZwfsFwoIhQi) | 2:16 |
 | 50 | [4:27](https://open.spotify.com/track/7iZVC0q8ZjrE04HIw9qhfj) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [4:27](https://open.spotify.com/album/0nYGder2OiClwyt6y6sxmB) | 4:12 |
 
-Snapshot ID: `Zvxw4AAAAADS30fcbajqK4VotnkpUe2j`
+Snapshot ID: `Zvxw4AAAAAAqwn+kq0imKtrBzfOEbKbN`

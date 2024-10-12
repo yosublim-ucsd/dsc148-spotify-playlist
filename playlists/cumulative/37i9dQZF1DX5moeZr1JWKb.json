@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Abran Paso",
+        "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236002,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
+    },
+    {
+      "album": {
         "name": "Agradezco",
         "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
       },
@@ -86,7 +108,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 167686,
       "name": "Ahora Qu\u00e9",
       "url": "https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B"
@@ -789,6 +811,32 @@
     },
     {
       "album": {
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/7rOEIGOgasINOSzG5qYi6c"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg"
+    },
+    {
+      "album": {
         "name": "El Amar",
         "url": "https://open.spotify.com/album/58LsSodkuhqaIV4Q2DlEr2"
       },
@@ -872,7 +920,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181744,
       "name": "Embrujo",
       "url": "https://open.spotify.com/track/1nfgedLEIR61luO1vkeKo3"
@@ -1936,7 +1984,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/3FXGe1es7PX9UgBQvLGk2r"
@@ -2393,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "Raza Brava",
+        "url": "https://open.spotify.com/album/07081Oiiu4Nm5aIIoRJBtX"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "La Cosa Mostra",
+          "url": "https://open.spotify.com/artist/6G2vSyUEdGYpN5eP6lx4JT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223616,
+      "name": "Raza Brava",
+      "url": "https://open.spotify.com/track/5LQek02qLbkou8wBEgwVLv"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
@@ -2642,7 +2712,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 181379,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3XwqbCIwHKFqTO5uSDdlRd"
@@ -3246,6 +3316,24 @@
       "duration_ms": 219093,
       "name": "\u00c9ter",
       "url": "https://open.spotify.com/track/1Y7S7m70dK0sHtjT0iR18W"
+    },
+    {
+      "album": {
+        "name": "LUZ",
+        "url": "https://open.spotify.com/album/1SB2kEI4gLhi16NPgX3PhK"
+      },
+      "artists": [
+        {
+          "name": "Flako Gallego",
+          "url": "https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140683,
+      "name": "\u2060Twitter",
+      "url": "https://open.spotify.com/track/4CiMqATzgykKJKZqvRbXrY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb"

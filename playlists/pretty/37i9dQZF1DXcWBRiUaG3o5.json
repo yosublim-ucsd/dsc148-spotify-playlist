@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1239786,
+  "num_followers": 1239738,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsimzgAAAAA67dctGLzNLp+lW85KDBPw",
+  "snapshot_id": "ZsimzgAAAAB6gyC8UEGhkmBQfUA7su7o",
   "tracks": [
     {
       "added_at": "2024-08-23 15:12:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "I Wish I Knew",
-        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Sub Rosa",
         "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 244570,
       "name": "Should I",
       "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "I Wish I Knew",
+        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Ballroom",
-      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "White Frost (Acoustic)",
         "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205821,
       "name": "White Frost (Acoustic)",
       "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Ballroom",
+      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "duration_ms": 256681,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa"
-      },
-      "artists": [
-        {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
-        }
-      ],
-      "duration_ms": 256681,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Fickle Heart",
         "url": "https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/5W6TxvIqACEfnxm0VgPhv7"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/7f3xVpWfp3FPursBSrIEMJ"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1619,22 +1635,6 @@
       "duration_ms": 193936,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Fortune - Acoustic",
-      "url": "https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV"
     }
   ],
   "unique_name": "Evening Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🌪️ <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">7</a> på repeat 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,730 likes - 103 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,078 likes - 103 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 42 | [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 |
 | 43 | [Hvor Er Du Nu](https://open.spotify.com/track/4gzE3s3gWflm3cUHYwPXz0) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [DINE VENNER](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 3:08 |
 | 44 | [Beyond](https://open.spotify.com/track/403148TUPp12k2la4i045F) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 4:13 |
-| 45 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
+| 45 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
 | 46 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |
 | 47 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 |
 | 48 | [So Guilty](https://open.spotify.com/track/2TZJpHhgmYq0r0lkChkJdm) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [So Guilty](https://open.spotify.com/album/3xSwBflY5bY0wNVJvQlSsI) | 1:32 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Gay CLub](https://open.spotify.com/track/5tPRaJW7SgzPFxELlbCzSC) | [Betty Bitschlap](https://open.spotify.com/artist/2hFtYze5XP9ckcmqCHheuf) | [GAY CLUBBING](https://open.spotify.com/album/3wHHa3FRGAeZvTwwYZRdOe) | 2:58 |
 | 103 | [Alive](https://open.spotify.com/track/1lvP3DcLSxpfakcQSbuSLo) | [RIBOE](https://open.spotify.com/artist/0H1jZLyGbur9vHWyUbKgw1), [ACTFILL](https://open.spotify.com/artist/6Fwf3rnHeQCcgAhMMYrRNG) | [Alive](https://open.spotify.com/album/0Oa9gg25S5t6rP5eO9r2O5) | 2:53 |
 
-Snapshot ID: `ZwhOYAAAAABNRy1N7g/bGl48R/ZYNUAA`
+Snapshot ID: `ZwhOYAAAAABk+xUPAUmP53CA1tyQBe5H`

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 14102,
+  "num_followers": 14168,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvMirAAAAABP1+2Qu4fzYP90HeyYHH5K",
+  "snapshot_id": "ZvMirAAAAADNOjW8zOHSE9jqgA9ywtdZ",
   "tracks": [
     {
       "added_at": "2024-09-24 20:35:55",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
       "artists": [
         {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 489480,
-      "name": "Tu Cari\u00f1ito - Live",
-      "url": "https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ"
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+      "duration_ms": 489480,
+      "name": "Tu Cari\u00f1ito - Live",
+      "url": "https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 361133,
+      "name": "Quimbara - Live",
+      "url": "https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 423235,
       "name": "Idilio - Live",
       "url": "https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 361133,
-      "name": "Quimbara - Live",
-      "url": "https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -747,22 +747,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+      "duration_ms": 218773,
+      "name": "Llorar\u00e1s - En Vivo Desde Nueva York/2000",
+      "url": "https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -795,22 +791,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Llorar\u00e1s - En Vivo Desde Nueva York/2000",
-      "url": "https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Un Sonido Bestial El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 301573,
       "name": "Mia - En Vivo",
       "url": "https://open.spotify.com/track/5ksUdmgzCsePF8zTyCCiXm"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Dos Soneros... Una Historia",
-        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Que Manera De Quererte - Live Version",
-      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
     }
   ],
   "unique_name": "Vivo de Salsa",

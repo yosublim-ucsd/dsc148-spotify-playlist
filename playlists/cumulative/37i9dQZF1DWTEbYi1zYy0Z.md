@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-480 songs - 1 day 9 hr 57 min
+481 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Sassified](https://open.spotify.com/track/1n202pWxQmYLuCtfpfFB8M) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Sassified](https://open.spotify.com/album/7cSySel65LwdFj7ZzUwLyt) | 4:22 | 2023-06-23 |  |
 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 | 2022-05-13 | 2023-10-14 |
 | [Say You Will](https://open.spotify.com/track/4TQRDpyL9qCEzEAjApeN7k) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Say You Will](https://open.spotify.com/album/6ecDlIabqvgoTIn90WUBYa) | 4:45 | 2020-10-30 | 2022-03-16 |
+| [Seaside Story](https://open.spotify.com/track/5XlpBi3GwS2HaOCwfePIDs) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Seaside Story](https://open.spotify.com/album/5NPaHe3MUibgOmV5bRakwj) | 4:19 | 2024-10-11 |  |
 | [Secret Sauce](https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 4:00 | 2022-07-15 | 2024-02-17 |
 | [Serotonin](https://open.spotify.com/track/5Kazc4UgJPMY19BVhzYxQQ) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Serotonin](https://open.spotify.com/album/3k5FIrdaaPdRQVnMV4uIrX) | 4:02 | 2021-07-30 | 2022-07-17 |
 | [Set It Off](https://open.spotify.com/track/6Ztnz8b2q0huMn9QO1S6K7) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Cocktails & Jazz](https://open.spotify.com/album/32p5LY4nR9YHUDVnsEkXqT) | 3:58 | 2021-04-09 | 2022-03-07 |
@@ -413,7 +414,7 @@
 | [Sundowner](https://open.spotify.com/track/4XarW9VWXpmX9LAKtYxaRd) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Sundowner](https://open.spotify.com/album/65O7xJcZe4HAQQmT9nQH8b) | 3:23 | 2023-05-12 | 2023-07-22 |
 | [Sunrise Boulevard](https://open.spotify.com/track/2DU4A4bsnRYrf5xcKn1Hbo) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [Sunrise Boulevard](https://open.spotify.com/album/2hm4iYJitW9v3WmO34rIN8) | 4:16 | 2023-06-16 | 2024-02-17 |
 | [Sunset Marquee](https://open.spotify.com/track/23OXuc7JE3vV0SYHlgLdd5) | [Eddie Bullen](https://open.spotify.com/artist/3RE9o60AME1cyg4RZSDTtW) | [Kaleidoscope](https://open.spotify.com/album/7eBOe923W3WbI9RuSTFavS) | 4:11 | 2020-10-30 | 2022-03-13 |
-| [Sunshine Yellow](https://open.spotify.com/track/3edR7f5Na4A3yqo57mtzuQ) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Sunshine Yellow](https://open.spotify.com/album/01uww2D76rOmTnVJzz7A85) | 4:26 | 2024-01-26 |  |
+| [Sunshine Yellow](https://open.spotify.com/track/3edR7f5Na4A3yqo57mtzuQ) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Sunshine Yellow](https://open.spotify.com/album/01uww2D76rOmTnVJzz7A85) | 4:26 | 2024-01-26 | 2024-10-12 |
 | [Sway](https://open.spotify.com/track/3Wt1iQzO6S022vb5Sng71P) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Donald Hayes](https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk) | [Sway](https://open.spotify.com/album/41WFQEOrWZqhO1uKPMTbZH) | 4:29 | 2021-01-29 | 2022-03-18 |
 | [Sweet Talk](https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Sweet Talk](https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2) | 4:04 | 2022-05-06 | 2023-06-03 |
 | [Sweetness](https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Sweetness](https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW) | 6:50 | 2020-10-30 | 2022-03-17 |

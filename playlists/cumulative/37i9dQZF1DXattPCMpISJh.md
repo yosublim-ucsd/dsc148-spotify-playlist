@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-290 songs - 17 hr 59 min
+291 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 | 2022-07-01 | 2023-05-20 |
 | [All Eyes On You \- Edit](https://open.spotify.com/track/0GY5zHmNNeJ78UWp8Q5MBC) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL) | [All Eyes On You \(Edit\)](https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C) | 3:45 | 2022-02-25 | 2024-03-30 |
 | [All My Love \(feat\. Olivera\)](https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All My Love \(feat\. Olivera\)](https://open.spotify.com/album/4p875FDTzVTHQ3PGmxURJU) | 2:53 | 2022-07-29 |  |
-| [All This Time](https://open.spotify.com/track/7sCjuA6HWsFzPt4KvM1w6J) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [All This Time](https://open.spotify.com/album/2x0tgivEmpZRjEI2F3NQt9) | 3:34 | 2024-05-17 |  |
+| [All This Time](https://open.spotify.com/track/7sCjuA6HWsFzPt4KvM1w6J) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [All This Time](https://open.spotify.com/album/2x0tgivEmpZRjEI2F3NQt9) | 3:34 | 2024-05-17 | 2024-10-12 |
 | [Alright](https://open.spotify.com/track/7eesGl3Q4HJrPQ6j6DGob9) | [LUXXURY](https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z) | [Alright](https://open.spotify.com/album/4orSRxzSk8phgNzUvXhR22) | 3:26 | 2022-07-08 | 2023-03-04 |
 | [Another Day Gone](https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [Another Day Gone](https://open.spotify.com/album/70aBKFu1NTqccXTHPVr682) | 3:37 | 2022-09-30 | 2024-03-23 |
 | [Back On The Market](https://open.spotify.com/track/101VG9VldAUT9IBb5HmZkK) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Diva Of The People](https://open.spotify.com/album/3YtYblPnkxihBxr4hjDjhk) | 4:30 | 2024-09-06 |  |
@@ -244,6 +244,7 @@
 | [studio 54](https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L) | [Khwezi](https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F) | [XCIII](https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm) | 3:50 | 2022-03-04 | 2023-02-04 |
 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 | 2022-07-29 |  |
 | [Sunshine](https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Sunshine](https://open.spotify.com/album/1ATx0b2ZqFx0RRFMdRBRgV) | 3:16 | 2022-07-01 | 2022-10-22 |
+| [Supernova](https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Supernova](https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd) | 3:39 | 2024-10-11 |  |
 | [Sure Know Something \- Ladies on Mars Remix](https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9) | [Javier Penna](https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV), [DiscoRocks](https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [Sure Know Something \(Ladies on Mars Remix\)](https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ) | 3:54 | 2023-06-16 |  |
 | [Survive \[Feat\. Walk Off The Earth\]](https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Duality](https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa) | 3:17 | 2024-06-14 |  |
 | [Take A Bite](https://open.spotify.com/track/2gvc8fKa2ELYbAiMfOb8th) | [LOYD](https://open.spotify.com/artist/4W3LY6UUKv4HYj40P52RE2), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Take A Bite](https://open.spotify.com/album/7wAIiKgXJm1ybhi9kIcGGu) | 3:12 | 2024-03-22 |  |

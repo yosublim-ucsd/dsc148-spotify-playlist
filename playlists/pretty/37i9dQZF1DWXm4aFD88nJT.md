@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Топ українських поп пісень у 2023 році\. Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,689 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,706 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 | 49 | [Голос країни](https://open.spotify.com/track/5fzv0nyEpJ2SqFrCKZrpnN) | [Julia Sanina](https://open.spotify.com/artist/0efc3nE6FItdogB7HGWlst), [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Голос країни](https://open.spotify.com/album/6dRa4Rm5uPXvjQxbIFDUeT) | 2:16 |
 | 50 | [Не стій під вікном](https://open.spotify.com/track/2TvSiNIgsirNOslUoluBIW) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Не стій під вікном](https://open.spotify.com/album/0bapHkeFqllpbkciADq03C) | 2:23 |
 
-Snapshot ID: `ZWcrgAAAAAAXcdjIi8oOT1knQ6reXYnq`
+Snapshot ID: `ZWcrgAAAAAD8TEYO68GMtSdjh29M0XxZ`

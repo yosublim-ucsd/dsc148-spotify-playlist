@@ -8833,6 +8833,32 @@
     },
     {
       "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/0ZGi9Q2MXp3Nj1oVo1L5Zi"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "terro",
+          "url": "https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158581,
+      "name": "Open Sky",
+      "url": "https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U"
+    },
+    {
+      "album": {
         "name": "Out Of Here",
         "url": "https://open.spotify.com/album/5khm1SM97siH9rc6C1Ved8"
       },

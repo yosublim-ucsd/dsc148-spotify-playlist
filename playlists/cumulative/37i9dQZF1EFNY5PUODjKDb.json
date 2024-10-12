@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Popular Movie Soundtracks on Harp",
+        "url": "https://open.spotify.com/album/7M5he4AZSdv5hGhCwJ5KIC"
+      },
+      "artists": [
+        {
+          "name": "Ivy Ravenwood",
+          "url": "https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "Any Dream Will Do (Instrumental)",
+      "url": "https://open.spotify.com/track/7tNdiLHuB2QSYAWXKV3xUL"
+    },
+    {
+      "album": {
         "name": "Sarah Brightman Sings The Music Of Andrew Lloyd Webber",
         "url": "https://open.spotify.com/album/50K8UfkBAs07AeowshVkWL"
       },
@@ -13016,7 +13034,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 13933,
       "name": "The Wedding Fanfare",
       "url": "https://open.spotify.com/track/3RWYHLtPt53dFAWePNyrk0"

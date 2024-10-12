@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 ### [This Is Gracie Abrams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Cuzya)
 
-> This is Gracie Abrams\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,285 likes - 34 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,590 likes - 33 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,6 +41,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 31 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 32 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
 | 33 | [close to you \(gracie abrams\) \- sped up version](https://open.spotify.com/track/7lpuiqpbSTpxIW2mOuwKtl) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [close to you \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/4pHrDlzJYWrssa00LT8dP3) | 3:07 |
-| 34 | [i love you, i'm sorry \(gracie abrams\) \- sped up version](https://open.spotify.com/track/3GrmAc2Gi0XMEwi3Scx6w9) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [i love you, i'm sorry \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/1CR9fymG325FMJhVfKVpqe) | 2:10 |
 
-Snapshot ID: `ZwXHgAAAAABF3oSq1ocWGoXTCFv8cNyU`
+Snapshot ID: `ZwcZAAAAAAAFfpU0Pb7rwcLKskaRVTtA`

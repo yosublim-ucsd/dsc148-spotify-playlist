@@ -1,12 +1,12 @@
 {
-  "description": "This is The Cure. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 549114,
+  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "num_followers": 549258,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwXHgAAAAADDFBQCU/n/qdA3LeBqqPDw",
+  "snapshot_id": "ZwcZAAAAAAB6x2BRBh9iA8YEsC+e09HW",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 153040,
-      "name": "Perfect Girl",
-      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys",
+      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Three Imaginary Boys",
-      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head on the Door (Deluxed Edition)",
-        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Six Different Ways - 2006 Remaster",
-      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+      "duration_ms": 163600,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
       "duration_ms": 261959,
       "name": "Doing The Unstuck",
       "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Six Different Ways - 2006 Remaster",
+      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
     },
     {
       "added_at": null,

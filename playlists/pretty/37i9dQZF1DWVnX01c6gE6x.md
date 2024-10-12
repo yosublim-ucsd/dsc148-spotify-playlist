@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb?si=f879e1af96ed4d5d">Se regalan sustos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 12 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,934 likes - 12 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 11 | [Capítulo 29: Terremotos](https://open.spotify.com/episode/2yXWY1MM2pDLHuvCz2bgGv) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:17:12 |
 | 12 | [Episodio 123 / Pack por error](https://open.spotify.com/episode/4JoqCVNgtWHpZ3mhfsFXl7) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:05:54 |
 
-Snapshot ID: `ZvroYQAAAADI9zIAxbHuKPtPVCuxs7qv`
+Snapshot ID: `ZvroYQAAAACxtBBiKPShDYLM0TzM9Ews`

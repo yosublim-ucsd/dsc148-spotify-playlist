@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-230 songs - 9 hr 18 min
+231 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Se Mantenha Original](https://open.spotify.com/track/6ApBQ3NHwPQoBQ0VwU6kDN) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb), [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Se Mantenha Original](https://open.spotify.com/album/6fM0Wxm6piFAIzEGQvhRMD) | 2:17 | 2024-06-14 |  |
 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 | 2023-09-15 |  |
 | [Se tu me ama tatua o meu nome](https://open.spotify.com/track/42rvxn262DHdKqWJQOLIr8) | [D$ Luqi](https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt) | [Como alugar um triplex na cabeça dela](https://open.spotify.com/album/5KsT0MJfD14i0Hcjidwj8a) | 1:48 | 2024-03-01 | 2024-03-23 |
+| [Sei o Caminho](https://open.spotify.com/track/6qURIJuCcJmB9rSLv7nOGS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [BRUFAN](https://open.spotify.com/artist/5ZPr4eLhiCrdOT6wuTSxD0) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:27 | 2024-10-11 |  |
 | [Sem Leme](https://open.spotify.com/track/5x6ZT8ZG8TMIEAz4yDlihw) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Felipe Vaz](https://open.spotify.com/artist/5vbNumMx06TDEoT2vHZVob), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [Buzu](https://open.spotify.com/artist/2njD5Z8sdFcJxFqbPJdYcF) | [Sem Leme](https://open.spotify.com/album/1UM4kOtKoTWwSoNpnvM2yQ) | 3:15 | 2023-09-22 | 2023-10-07 |
 | [Sem Medo](https://open.spotify.com/track/0e0CZnMjOgUPm0u8y2dkIH) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:19 | 2024-01-12 | 2024-03-30 |
 | [Sempre Fumando](https://open.spotify.com/track/2C3oUgLzA1pIIMdhoDvPKx) | [SJCGANG](https://open.spotify.com/artist/1QiydI5RXDKHunVl9bA0di), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv), [Young Bard](https://open.spotify.com/artist/4TmYqVjCRpQPUj2Iv4Tosx) | [Sempre Fumando](https://open.spotify.com/album/7KuOhwLTELoBXFB59PXvXZ) | 2:21 | 2024-01-05 | 2024-01-27 |

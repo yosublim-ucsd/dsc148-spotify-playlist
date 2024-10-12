@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums... welcome to the function. Cover: Shenseea \ud83c\uddef\ud83c\uddf2 ",
+  "description": "Inspired by African drums... welcome to the function. Cover: Tyla \ud83c\uddff\ud83c\udde6 ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 192000,
       "name": "Active",
       "url": "https://open.spotify.com/track/2kel51HJtw6ynq4n8hOAwT"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 210972,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3JB1l8OXsivYjF4fEeg49L"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 171529,
       "name": "Blessing Me (with Coutain)",
       "url": "https://open.spotify.com/track/1mrXjSwtVW7sQKUSDeyCYh"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 126397,
       "name": "Bounce Pan It",
       "url": "https://open.spotify.com/track/2etHJto3sJ0OQbK6al2NLT"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 155840,
       "name": "Bum Bum (Jogodo)",
       "url": "https://open.spotify.com/track/72fb0638PLInu0WJtQn4uo"
@@ -3924,6 +3924,24 @@
       "duration_ms": 153253,
       "name": "Candy",
       "url": "https://open.spotify.com/track/26AeH9oiQ33DNLUP6r24ma"
+    },
+    {
+      "album": {
+        "name": "Cant Pretend",
+        "url": "https://open.spotify.com/album/6rR2bIFDq8XYp2SERYWy4V"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176345,
+      "name": "Cant Pretend",
+      "url": "https://open.spotify.com/track/4HE1R17tgBpBosclYcgDEr"
     },
     {
       "album": {
@@ -5472,7 +5490,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 144001,
       "name": "Double appel",
       "url": "https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl"
@@ -6985,6 +7003,24 @@
     },
     {
       "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ"
       },
@@ -8340,7 +8376,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 139477,
       "name": "Hesitate (feat. Sarz)",
       "url": "https://open.spotify.com/track/7yt0Ztij2cYSDilBj9R9qb"
@@ -8548,6 +8584,28 @@
       "duration_ms": 230671,
       "name": "Hit This",
       "url": "https://open.spotify.com/track/07AMcxHstpAsZ3SoFGl5wB"
+    },
+    {
+      "album": {
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
       "album": {
@@ -9934,6 +9992,32 @@
       "duration_ms": 193190,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
       "album": {
@@ -11894,7 +11978,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 164589,
       "name": "Makaveli",
       "url": "https://open.spotify.com/track/2gJqEnpvN9tBzZKwO1LETo"
@@ -12342,6 +12426,32 @@
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "album": {
+        "name": "META (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/0xoXoiQzd1JyRoXhuf2Q0X"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "META (feat. Fireboy DML) - Edit",
+      "url": "https://open.spotify.com/track/37eGvbAJpVPvkrAryG8fBI"
     },
     {
       "album": {
@@ -12826,7 +12936,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 201025,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0LWFx5XeJcyVIl5pT7YpB6"
@@ -13124,7 +13234,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 283157,
       "name": "Nasty (Match My Heat Remix)",
       "url": "https://open.spotify.com/track/46ZmwtyO7mtZyhXC0KQA64"
@@ -13570,7 +13680,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 186360,
       "name": "No mix with b*tch",
       "url": "https://open.spotify.com/track/7owgVdKse0lkf1CwdVbNQr"
@@ -13710,6 +13820,28 @@
       "duration_ms": 266960,
       "name": "No Way - Poirier Remix",
       "url": "https://open.spotify.com/track/0URxsbixZ698SUHcyRZQpv"
+    },
+    {
+      "album": {
+        "name": "Nobody Move",
+        "url": "https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121635,
+      "name": "Nobody Move",
+      "url": "https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc"
     },
     {
       "album": {
@@ -15084,7 +15216,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 158851,
       "name": "Peanie Peanie Riddim - Brawta Mini Mix - 2024 Remaster",
       "url": "https://open.spotify.com/track/5RXvCWtOCUFKo7MSRGrDIA"
@@ -15995,6 +16127,24 @@
     },
     {
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "album": {
         "name": "Queen of the Dancehall",
         "url": "https://open.spotify.com/album/0BAUGuQ5pbGkBBWfIZOEbW"
       },
@@ -16359,6 +16509,32 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "album": {
         "name": "Rihanna (Umbrella)",
         "url": "https://open.spotify.com/album/6xAsrhQF5IkIXsiozfWP3J"
       },
@@ -16450,7 +16626,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
@@ -18569,6 +18745,28 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/5y2XDloprllNNTKsd3ucwI"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198237,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/7IHiW3e1H1o6bV7aWtkL3p"
+    },
+    {
+      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/76ikYeo9YM9PNnZCvgswiG"
       },
@@ -18732,6 +18930,32 @@
       "duration_ms": 125753,
       "name": "Step Out",
       "url": "https://open.spotify.com/track/27eb6UbDxVBoRF56nmUlyS"
+    },
+    {
+      "album": {
+        "name": "Still a Rock",
+        "url": "https://open.spotify.com/album/48JEppFgelasQweqHeKm2h"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        },
+        {
+          "name": "Pablo YG",
+          "url": "https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K"
+        },
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "Still a Rock",
+      "url": "https://open.spotify.com/track/1MMfvY4jVe8nx3VGTg48xY"
     },
     {
       "album": {
@@ -19000,7 +19224,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -20108,7 +20332,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 168448,
       "name": "Tip (London Bridge)",
       "url": "https://open.spotify.com/track/3KgTZZGXsZ4CVlfikGqtkW"
@@ -21241,6 +21465,28 @@
     },
     {
       "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/78H8ghn0YR39sWt9S2TLHV"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134468,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/3PhS3smKRMPBuk7MvdjmQg"
+    },
+    {
+      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -21502,7 +21748,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 168000,
       "name": "wap",
       "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"

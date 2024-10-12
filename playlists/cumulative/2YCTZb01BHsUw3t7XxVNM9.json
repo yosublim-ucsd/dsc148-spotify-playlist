@@ -7983,6 +7983,28 @@
     },
     {
       "album": {
+        "name": "The Disaster Sounds",
+        "url": "https://open.spotify.com/album/4znL8KsguH4BQACygRbkRK"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Laur",
+          "url": "https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179660,
+      "name": "The Disaster Sounds",
+      "url": "https://open.spotify.com/track/2AdnKn7eM6GbalC1SqYEFj"
+    },
+    {
+      "album": {
         "name": "IRREPARABLE HARDCORE IS BACK",
         "url": "https://open.spotify.com/album/1Il0tUaABSrO9MRN3Iwcnf"
       },

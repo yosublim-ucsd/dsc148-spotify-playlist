@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Lindsay Ell",
+  "description": "make it pop! cover: ROLE MODEL",
   "name": "soda",
   "tracks": [
     {
@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Chameleon Lover",
+        "url": "https://open.spotify.com/album/3s1TqGIRD59nGuxmx2tUfO"
+      },
+      "artists": [
+        {
+          "name": "Lilianna Wilde",
+          "url": "https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148088,
+      "name": "Chameleon Lover",
+      "url": "https://open.spotify.com/track/0HmRwEiMZhcNssbJ6g9crf"
+    },
+    {
+      "album": {
         "name": "CHAMPAGNE",
         "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
       },
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 199218,
       "name": "CRUSH (with ASTN & Bren Joy)",
       "url": "https://open.spotify.com/track/1IMkI7PMzU2Cq6qnGePJ2D"
@@ -12057,6 +12075,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226705,
+      "name": "Mean girls featuring julian casablancas",
+      "url": "https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt"
+    },
+    {
+      "album": {
         "name": "Medical Attention",
         "url": "https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe"
       },
@@ -14449,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "PLANS*HANDLEBARS",
+        "url": "https://open.spotify.com/album/2ugIFN8shtYMyVAX0iFHmg"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184554,
+      "name": "PLANS",
+      "url": "https://open.spotify.com/track/2aMsrMn7krkRtArl39lMxz"
+    },
+    {
+      "album": {
         "name": "Plant the Garden",
         "url": "https://open.spotify.com/album/7w7e20MxsahktWNpsyYpXZ"
       },
@@ -14688,6 +14746,24 @@
       "duration_ms": 182320,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/1Hiv5tY45rjzifOAzNWfnD"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214592,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/7KJ15MddLLwg0AvVcrgRbT"
     },
     {
       "album": {
@@ -14966,6 +15042,24 @@
       "duration_ms": 154466,
       "name": "Ribbon Around The Bomb",
       "url": "https://open.spotify.com/track/1xeUlQsm3i9aAry71kXbhY"
+    },
+    {
+      "album": {
+        "name": "RICOCHET",
+        "url": "https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197671,
+      "name": "RICOCHET",
+      "url": "https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1"
     },
     {
       "album": {
@@ -16291,6 +16385,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "album": {
         "name": "somebody that's not me",
         "url": "https://open.spotify.com/album/6BjK75nxur486Ac1AZam3E"
       },
@@ -16726,6 +16838,24 @@
       "duration_ms": 171428,
       "name": "start again",
       "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
+    },
+    {
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/6MdkJBAsFZJOyfyN18Dd1S"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155514,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR"
     },
     {
       "album": {

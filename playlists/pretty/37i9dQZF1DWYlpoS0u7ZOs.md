@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Humane The Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,359 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,368 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [going numb](https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:25 |
 | 80 | [Tangerine](https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Where You'll Find Me](https://open.spotify.com/album/5uriQhRrYZbapUWJhsI0yg) | 4:39 |
 
-Snapshot ID: `ZwhKVwAAAAAtkKErTsJXcLpA7cB1PPN0`
+Snapshot ID: `ZwhKVwAAAABeNLUohGdOCTLEuu4F3tsS`

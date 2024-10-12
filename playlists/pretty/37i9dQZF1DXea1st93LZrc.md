@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2023\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,513 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,530 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 49 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
 | 50 | [Victoriam In F Minor](https://open.spotify.com/track/2S9F35tyc3rAmAjDKWFI5N) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 3:13 |
 
-Snapshot ID: `ZWcrgAAAAACgxFDqp2nVLqH5hfUQlizv`
+Snapshot ID: `ZWcrgAAAAACEK0J3rmyN6NgUfraoHhTO`

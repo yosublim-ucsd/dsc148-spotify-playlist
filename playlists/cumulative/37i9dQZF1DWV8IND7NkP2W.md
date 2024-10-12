@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-757 songs - 1 day 10 hr 2 min
+758 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Halo](https://open.spotify.com/track/1a0rqWQEjBPsYwADY6nPDF) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Halo](https://open.spotify.com/album/6nViH3LlPLcZLqfDv2DDWA) | 3:13 | 2022-06-02 | 2022-06-09 |
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
 | [haneda](https://open.spotify.com/track/6sdgXmN5ZiCQKxYxvCYgf0) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [all of this music was produced on the airplane](https://open.spotify.com/album/3Afy6UInF0JzKJBVuKZjOf) | 2:00 | 2023-11-23 | 2023-12-22 |
-| [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 |  |
+| [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 | 2024-10-12 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 | 2023-12-08 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 | 2024-10-05 |
@@ -724,6 +724,7 @@
 | [Warm Day of Winter](https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p) | [Auto&mst](https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz) | [Sometime Somewhere](https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC) | 4:49 | 2021-12-23 | 2023-03-22 |
 | [Water Circles](https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Water Circles](https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD) | 1:57 | 2022-01-13 | 2024-07-27 |
 | [Water lily](https://open.spotify.com/track/1uYPMrxNN1SaB6sRjdWBYL) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [SHAMROCK vol1](https://open.spotify.com/album/00M1JNgdlJOYjgz1p68lCY) | 1:30 | 2021-12-23 | 2022-07-27 |
+| [Waterfilm](https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Waterfilm](https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs) | 4:17 | 2024-10-11 |  |
 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 | 2022-11-13 |
 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-10-13 | 2024-04-19 |
 | [Waves](https://open.spotify.com/track/6eW8UXV98NOJsh8GCHYgnh) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Waves](https://open.spotify.com/album/21YqhQilkmREX9RKUCCPSs) | 2:13 | 2023-09-07 | 2023-10-03 |

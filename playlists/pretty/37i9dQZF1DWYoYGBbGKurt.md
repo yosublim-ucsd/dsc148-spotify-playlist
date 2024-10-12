@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,018 likes - 396 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,336 likes - 396 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -405,4 +405,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 395 | [Home](https://open.spotify.com/track/7zIEqiK0DSmS7bjoiyntJh) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Home](https://open.spotify.com/album/0wL4FOj1hNQ9sQmajfuEJO) | 1:47 |
 | 396 | [Exquisite](https://open.spotify.com/track/0gIa4EWTmzD2apzA7skttP) | [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Exquisite](https://open.spotify.com/album/6CJbsSbcu6gRpGCjaYhFdD) | 1:52 |
 
-Snapshot ID: `ZwUs6wAAAAAXe5Mr5eqhkyYKE4Dy0j8q`
+Snapshot ID: `ZwUs6wAAAAC2Gm3p7b5IwI5NttxlgJyd`

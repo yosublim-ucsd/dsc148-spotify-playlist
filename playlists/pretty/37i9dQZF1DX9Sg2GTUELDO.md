@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Marf 邱彥筒
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,322 likes - 383 songs - 23 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,324 likes - 383 songs - 23 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -392,4 +392,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 382 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 |
 | 383 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 |
 
-Snapshot ID: `Zwf6AAAAAAAPVfZXOLqHb8C4TGjBXFxO`
+Snapshot ID: `Zwf6AAAAAACVqntTjk6B5l1PHwSWwgkc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,230 likes - 100 songs - 5 hr 7 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,231 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,8 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 98 | [Dudu \(Goes Like This\)](https://open.spotify.com/track/5hp4pGZ3S45m7UCSqlaxJK) | [Alejandro Diego](https://open.spotify.com/artist/15zf3JdbSo0Q2um3mFkm3D), [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET) | [Dudu \(Goes Like This\)](https://open.spotify.com/album/2bmsBnjYFrfLfEKK67ouLR) | 3:01 |
 | 99 | [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 |
 | 100 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \[Max Styler Remix\]](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 |
+| 101 | [Batidāo](https://open.spotify.com/track/32wnlDNCkQqeEd5DoumeQG) | [MAGH](https://open.spotify.com/artist/3JkbHkrWAKm7roCB5jXu5K) | [Batidāo](https://open.spotify.com/album/17fY6oYrqfdv9i99eU6Tmz) | 2:35 |
+| 102 | [This Trip](https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [This Trip](https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9) | 2:58 |
+| 103 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
 
-Snapshot ID: `AAAPdwftalITp8IXMpsGcrive3/bScPx`
+Snapshot ID: `AAAPemIhc+1S4kK6P/rIvQ/UNZjgIfzP`

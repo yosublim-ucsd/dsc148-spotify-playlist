@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,984 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,127 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 18 | [Yaayum](https://open.spotify.com/track/4Uh41d7PlFHP2gCinJEWlr) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Sagaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A8kNj0R9KzqK0JzAStSbL) | 4:46 |
 | 19 | [Kangal Irandal](https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3) | [James Vasanthan](https://open.spotify.com/artist/0a4PNswQHfm1lfnOCTjVeh), [Bellie Raj](https://open.spotify.com/artist/4578gOJB66pNtL4Oqi09uI), [Deepa Miriam](https://open.spotify.com/artist/3adwCIFf97kIoMi42TCP5y) | [Subramaniapuram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/047Ehzf1hblhLG5g4kuOEF) | 5:22 |
 | 20 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
-| 21 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 |
+| 21 | [En Rojaa Neeye](https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi \(Tamil\)](https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU) | 4:03 |
 | 22 | [Kangal Edho \- From "Chithha"](https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kangal Edho \(From "Chithha"\)](https://open.spotify.com/album/4TZVYX8n31dqSAN8FUDBrZ) | 4:02 |
-| 23 | [En Rojaa Neeye](https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi \(Tamil\)](https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU) | 4:03 |
+| 23 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 |
 | 24 | [Yaen Ennai Pirindhaai](https://open.spotify.com/track/2GYzXSeNa3Y0BfIfS1VJj3) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Adithya Varma](https://open.spotify.com/album/3IvKduSq7d2SnZiwxA7hJK) | 3:18 |
 | 25 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 |
 | 26 | [Seramal Ponal](https://open.spotify.com/track/0FTPiuMAGuvXVjeXh7g8ot) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Gulaebaghavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6hIef0WDHP7AuYPVnOslXG) | 5:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 74 | [Life of Pazham](https://open.spotify.com/track/0gDwLf7vBAX7470lXfkYpp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thiruchitrambalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ExIcsujDv181OmUEWFMmu) | 3:54 |
 | 75 | [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 |
 
-Snapshot ID: `ZwY56AAAAAA2Gx/XGNSYoJ/E1Urbic9v`
+Snapshot ID: `ZwY56AAAAAAQEw3zSeXW+zEjDcMdLQk/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain]
 
 > Music from "Blue Exorcist" /アニメ「青の祓魔師」シリーズの楽曲を1つのプレイリストで。<br/>©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain]
 | 59 | [アッシャー幻saw曲 第一楽章: Call me later](https://open.spotify.com/track/4Ubtpg1kZYDfc2S2UhwW54) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:19 |
 | 60 | [攻響組曲 DEVIL 第二楽章: i\-AM](https://open.spotify.com/track/3sZxzO6LEl2jmAYXnoN1Yn) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 5:35 |
 
-Snapshot ID: `ZwFUcAAAAABCMtf2g+bnLfnZwNsB+TTi`
+Snapshot ID: `ZwFUcAAAAADp8aSrJ7xrZ1oqs6jB0BrQ`

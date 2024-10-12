@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=ef\_99M3JRxe5YPG0o9U3og"> حمزة نمرة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,048 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,169 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 |
 | 50 | [يا نهار أبيض](https://open.spotify.com/track/2an88boj0ZLFW2fuR8rU62) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [يا نهار أبيض](https://open.spotify.com/album/5djktdDUUImWkep7ffYj9v) | 2:24 |
 
-Snapshot ID: `ZwPkDQAAAAD29mAbB7dD/Pyu/r+ktoyT`
+Snapshot ID: `ZwPkDQAAAADouLDS82Pq28AGCUUZk8LL`

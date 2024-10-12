@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Milthinho e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,094 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,104 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Dependente / Pirata e Tesouro / Fala \- Ao Vivo](https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 4:57 |
 | 50 | [Fuga No Radar](https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Fuga No Radar](https://open.spotify.com/album/2IAqtFNQpGeIv7NQfAm5bP) | 5:48 |
 
-Snapshot ID: `ZwACNAAAAACTHIrr4Chke2fUCjndCcoy`
+Snapshot ID: `ZwmYiwAAAABM4C7+LXmqLN2HsU3eTOfM`

@@ -356,6 +356,28 @@
     {
       "album": {
         "name": "Bien Guerrero - En Vivo",
+        "url": "https://open.spotify.com/album/7yWJEyGI8np0d7cuCPQATG"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Bien Guerrero - En Vivo",
+      "url": "https://open.spotify.com/track/4gs5pXylnZPLUYCMYFS2d8"
+    },
+    {
+      "album": {
+        "name": "Bien Guerrero - En Vivo",
         "url": "https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF"
       },
       "artists": [
@@ -1372,7 +1394,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 191688,
       "name": "La Careada",
       "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"

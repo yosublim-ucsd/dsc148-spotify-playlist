@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,368 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,396 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Le Mambo Du Décalco](https://open.spotify.com/track/10hnzFqOkWifT35HfvbaNc) | [Richard Gotainer](https://open.spotify.com/artist/5ogTAPKFGN5rgfLIN7m6zh) | [Chants Zazous](https://open.spotify.com/album/7vllOK3picQpSw8KriYmyF) | 3:34 |
 | 60 | [L'Aziza](https://open.spotify.com/track/4YNig3AVQEPUjhJ7EcdTqH) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver L'Amour](https://open.spotify.com/album/6j0ljIcSqlWGARW0CdrYMw) | 4:20 |
 
-Snapshot ID: `ZlXakQAAAADjUBiNjQBMKnx//aAR8bs9`
+Snapshot ID: `ZlXakQAAAACMnd6EaKIY7WzOXiG4FlrP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,593,230 likes - 200 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,593,931 likes - 200 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 199 | [Remembrance](https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Remembrance](https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce) | 3:11 |
 | 200 | [sweetheart](https://open.spotify.com/track/7d5LYgI4nXAQD0UdxMr8iE) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [sweetheart](https://open.spotify.com/album/3Ig6GMMPyBQb1wcIWNZwTf) | 3:23 |
 
-Snapshot ID: `ZwPACQAAAABh6c5lPjps+yHtXOyhWojo`
+Snapshot ID: `ZwPACQAAAAAa9O+HmWPiBbHYlQh4zUWq`

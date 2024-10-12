@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Charli xcx, Ariana Grande
 
-2,222 songs - 4 day 13 hr 27 min
+2,224 songs - 4 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [21st Century Girl](https://open.spotify.com/track/1rxikWvEBU3Q11BSEbClGv) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [21st Century Girl](https://open.spotify.com/album/5ESW5jTjAESBc1E2XwBObn) | 2:24 | 2024-09-05 | 2024-09-13 |
 | [22 Uhr](https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [22 Uhr](https://open.spotify.com/album/3IVfhWdEgtgUWZs9u5H7W8) | 2:18 | 2024-08-15 | 2024-08-23 |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-09-26 | 2024-10-04 |
+| [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-10 |  |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 | 2024-07-12 |
 | [3 Worte](https://open.spotify.com/track/6VogAe87ZjZjgjLpTJWCAG) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [3 Worte](https://open.spotify.com/album/1rA9JP5of8x3TabXdcbu0p) | 1:50 | 2024-05-09 | 2024-05-17 |
 | [300g](https://open.spotify.com/track/47wrpWUKellZqQwzjQkUE0) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [300g](https://open.spotify.com/album/2eGwQrn5O75IEDNBvd7QcS) | 2:33 | 2024-06-13 | 2024-06-21 |
@@ -2112,6 +2113,7 @@
 | [What Lovers Do](https://open.spotify.com/track/2RYn22DOInD8RwPE41xEuV) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [What Lovers Do](https://open.spotify.com/album/1CuyyyV12THOAVoBAKiRTM) | 2:06 | 2024-05-02 | 2024-05-10 |
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-03 | 2024-10-11 |
 | [what we were](https://open.spotify.com/track/2RikltFcMnQiQSIxVyBgpT) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [what we were](https://open.spotify.com/album/79dGKv8oPSLVMBWayk8BeV) | 3:41 | 2024-09-05 | 2024-09-13 |
+| [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-10 |  |
 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-12 | 2024-09-20 |
 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 | 2024-10-10 |  |
 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 | 2024-07-04 | 2024-07-12 |

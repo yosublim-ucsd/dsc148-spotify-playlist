@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 199527,
       "name": "4MOTION",
       "url": "https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r"
@@ -104,6 +104,24 @@
       "duration_ms": 164737,
       "name": "Agent secret",
       "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "album": {
+        "name": "AGHARAS",
+        "url": "https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207761,
+      "name": "AGHARAS",
+      "url": "https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn"
     },
     {
       "album": {
@@ -278,7 +296,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 376493,
       "name": "Bande organis\u00e9e 2",
       "url": "https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA"
@@ -300,6 +318,52 @@
       "duration_ms": 193200,
       "name": "Bene",
       "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
+    },
+    {
+      "album": {
+        "name": "13 Organis\u00e9 2",
+        "url": "https://open.spotify.com/album/5ijEA7Uw0jSWlGJcqEqoEs"
+      },
+      "artists": [
+        {
+          "name": "13 Organis\u00e9",
+          "url": "https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Kenza Farah",
+          "url": "https://open.spotify.com/artist/4rTdS9tFQO6ueiWoeHzvGq"
+        },
+        {
+          "name": "Moubarak",
+          "url": "https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1"
+        },
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "L\u00e9a Castel",
+          "url": "https://open.spotify.com/artist/53ZDw5ZHldHJgaUjcJhdGc"
+        },
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343760,
+      "name": "Besoin de toi",
+      "url": "https://open.spotify.com/track/0cgLFVFmLuKH8DKHlIjke7"
     },
     {
       "album": {
@@ -336,7 +400,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 156000,
       "name": "Blaka",
       "url": "https://open.spotify.com/track/5lffk2bgHBfnNtAYbEQveZ"
@@ -514,7 +578,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -784,7 +848,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 164400,
       "name": "ELISA",
       "url": "https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW"
@@ -853,6 +917,28 @@
     },
     {
       "album": {
+        "name": "Fi Derbi (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp"
+      },
+      "artists": [
+        {
+          "name": "SKY",
+          "url": "https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Fi Derbi (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
+    },
+    {
+      "album": {
         "name": "FORREAL",
         "url": "https://open.spotify.com/album/6IESrnsuzO1UJhJQTju7mA"
       },
@@ -894,10 +980,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 135680,
       "name": "FREE (feat. ELENA ROSE)",
       "url": "https://open.spotify.com/track/46IWgPVnOcfeGAB8bp8L93"
+    },
+    {
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
     },
     {
       "album": {
@@ -920,6 +1028,28 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
       "album": {
@@ -1384,7 +1514,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 230080,
       "name": "Liki Liki",
       "url": "https://open.spotify.com/track/0CiHaNolq5XcceAqWu8Gbw"
@@ -1406,7 +1536,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 207229,
       "name": "Liyam",
       "url": "https://open.spotify.com/track/4X65va9u0NHvsjbjMs6E4R"
@@ -1614,7 +1744,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/0blLWKTDrz6pgtmfR4z12k"
@@ -1650,7 +1780,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 143187,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
@@ -1868,7 +1998,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 203225,
       "name": "NDAM!",
       "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"
@@ -2227,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179034,
+      "name": "POUR ELLE",
+      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+    },
+    {
+      "album": {
         "name": "Pyramide",
         "url": "https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF"
       },
@@ -2315,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "RBI M3ANA",
+      "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
+    },
+    {
+      "album": {
         "name": "Rom\u00e9o",
         "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
       },
@@ -2366,7 +2532,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 215840,
       "name": "SABAR",
       "url": "https://open.spotify.com/track/7j5y0T4cRmYLdr8kZNR56W"

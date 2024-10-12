@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,449 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,476 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 64 | [就算了](https://open.spotify.com/track/7gGvYeHnzuKNxxULHFfXPo) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [就算了](https://open.spotify.com/album/6vdOcCgIPLDOlN5O2g0MF4) | 3:53 |
 | 65 | [普通朋友](https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [I'm O.K.](https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN) | 4:15 |
 
-Snapshot ID: `ZweUlgAAAADNxlcbK7/DUxmgwHEENVvQ`
+Snapshot ID: `ZweUlgAAAAATc9e2+LmZ8Btce1XCzUSj`

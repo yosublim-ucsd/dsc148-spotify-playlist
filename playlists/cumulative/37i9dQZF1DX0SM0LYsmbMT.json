@@ -28455,6 +28455,28 @@
     },
     {
       "album": {
+        "name": "Good Old Times",
+        "url": "https://open.spotify.com/album/5jOArFuP1WIUfe86ofZvaS"
+      },
+      "artists": [
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114093,
+      "name": "Good Old Times",
+      "url": "https://open.spotify.com/track/1FFCmXqLs53T06swpsJJYo"
+    },
+    {
+      "album": {
         "name": "Good Only Knows",
         "url": "https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV"
       },
@@ -31828,7 +31850,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 79090,
       "name": "Honda Jazz",
       "url": "https://open.spotify.com/track/6C84Tfxcg6dIDmUo9EauVh"

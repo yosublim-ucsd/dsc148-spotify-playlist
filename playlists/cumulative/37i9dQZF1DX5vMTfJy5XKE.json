@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Cher",
+  "description": "'Tis the season! All new holiday releases. Cover: Kelly Clarkson",
   "name": "New Music Holiday",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 196222,
       "name": "Another Christmas",
       "url": "https://open.spotify.com/track/1Og6LRjGIWWb3kQIT7POsI"
+    },
+    {
+      "album": {
+        "name": "Another Season Alone",
+        "url": "https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192820,
+      "name": "Another Season Alone",
+      "url": "https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY"
     },
     {
       "album": {
@@ -1927,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Christmas in Love",
+        "url": "https://open.spotify.com/album/32eda4L6p5DJUwc7oPxb1I"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Christmas in Love",
+      "url": "https://open.spotify.com/track/43g6GeT4cgyxGxyUrEayzK"
+    },
+    {
+      "album": {
         "name": "A Very Backstreet Christmas",
         "url": "https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T"
       },
@@ -2618,6 +2654,24 @@
       "duration_ms": 192180,
       "name": "Closer To Christmas",
       "url": "https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt"
+    },
+    {
+      "album": {
+        "name": "New Star Shining",
+        "url": "https://open.spotify.com/album/3LJYzeIAJ7EkDAUZzqXvZ8"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207242,
+      "name": "Come And See What's Happenin'",
+      "url": "https://open.spotify.com/track/0w6mZ4kicxzDtIJobQ8cOx"
     },
     {
       "album": {
@@ -3585,6 +3639,42 @@
     },
     {
       "album": {
+        "name": "The Christmas Record",
+        "url": "https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201669,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac"
+    },
+    {
+      "album": {
+        "name": "Go Tell It",
+        "url": "https://open.spotify.com/album/27iQzu3q7Uc1iOdFIonRpU"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360138,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/3KLba6NmXhTMfVuI3COpt4"
+    },
+    {
+      "album": {
         "name": "Go Tell It On The Mountain (Rewrapped)",
         "url": "https://open.spotify.com/album/5Rk1kinVPd0BPcAH8cjkuG"
       },
@@ -3684,6 +3774,24 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
+    },
+    {
+      "album": {
+        "name": "Good All Year",
+        "url": "https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133441,
+      "name": "Good All Year",
+      "url": "https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb"
     },
     {
       "album": {
@@ -4009,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/7AMbJ3T898Vk1coBwlQ1nI"
+      },
+      "artists": [
+        {
+          "name": "The KVB",
+          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/0J0zdHM1qVQpNmc7cx5zRZ"
+    },
+    {
+      "album": {
         "name": "Hard Candy Christmas (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/2rnJ0VBNmS5pdFrbY9p8YI"
       },
@@ -4242,6 +4368,24 @@
       "duration_ms": 151000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0IyG7WLQATXdS5o5Tk3ZXO"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235271,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY"
     },
     {
       "album": {
@@ -8059,6 +8203,24 @@
     },
     {
       "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/2a2w9hcUVaqEvsCg7xJ68i"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114092,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/5Bma1Rcuq1eiWMYAhimZCz"
+    },
+    {
+      "album": {
         "name": "Brett Young & Friends Sing The Christmas Classics",
         "url": "https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla"
       },
@@ -8624,6 +8786,24 @@
       "duration_ms": 152480,
       "name": "Silent Night (Piano Solo) - Spotify Singles",
       "url": "https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp"
+    },
+    {
+      "album": {
+        "name": "Silent Night (Rewrapped)",
+        "url": "https://open.spotify.com/album/7tUKF1eCLttc5JhB16RzN7"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222118,
+      "name": "Silent Night (Rewrapped)",
+      "url": "https://open.spotify.com/track/1bf0MfdSf6Li9e1F6gkUw9"
     },
     {
       "album": {
@@ -10519,6 +10699,24 @@
     },
     {
       "album": {
+        "name": "A Tyler Shaw Christmas",
+        "url": "https://open.spotify.com/album/54t92A7UnB3Y7ht3OYT5OL"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168204,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1ZuL07UkaLYf96d6GpWJQu"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
@@ -10820,7 +11018,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 152906,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0G9OtxxIYXGfOnOz5JgLqX"

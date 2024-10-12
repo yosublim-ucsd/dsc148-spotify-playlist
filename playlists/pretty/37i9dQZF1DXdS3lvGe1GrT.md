@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Caroline Says
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,127 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,160 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Colorado](https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Colorado](https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN) | 4:27 |
 | 100 | [down the falls](https://open.spotify.com/track/4uD3YUPqv2iqwz5puK7xru) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [down the falls](https://open.spotify.com/album/1SZljZSRYNXAfMy1vi7Atq) | 2:25 |
 
-Snapshot ID: `ZwaogAAAAAAiqBhMnp00Cs19iiqxn6vP`
+Snapshot ID: `ZwaogAAAAAC6CEInAHBKHKxtDLAhwy1Q`

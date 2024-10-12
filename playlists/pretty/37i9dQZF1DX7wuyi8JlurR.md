@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,218 likes - 166 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,297 likes - 166 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 44 | [Candy Walls](https://open.spotify.com/track/3OiIlQHfvw4cwTYzNH7O6m) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 4:37 |
 | 45 | [Blue Water](https://open.spotify.com/track/17m5LgM2qyo8ZPsZ9pY8OQ) | [Sally Oldfield](https://open.spotify.com/artist/1bHrcCJoUjoMbJ8ZBUNJqg) | [Mirrors: The Bronze Anthology](https://open.spotify.com/album/5h9ijlA15CfzNHWr713PXG) | 8:09 |
 | 46 | [The Vibration](https://open.spotify.com/track/6npNHXhW2dbxlJWDCS2rKG) | [Sonny Harris & The Soul Reflections](https://open.spotify.com/artist/7lYuBGMGPGKlAWVULWA6aF) | [Eccentric Funk](https://open.spotify.com/album/7rOiAfi0SBqWzxqXgIemYC) | 2:56 |
-| 47 | [Feel the Drive \- Vocal Extended](https://open.spotify.com/track/7vlJovhHSJlbh7dUu34sKM) | [Doctor's Cat](https://open.spotify.com/artist/6yj9f1KH5rzmmRbj72PtVc), [Gatto](https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa), [Martinelli](https://open.spotify.com/artist/060HjFyNLKYu6Kw2Fx0KTR) | [Feel the Drive](https://open.spotify.com/album/5qVQSPp3IVYWRed3XPsnK7) | 6:21 |
+| 47 | [Feel the Drive \- Vocal Extended](https://open.spotify.com/track/7vlJovhHSJlbh7dUu34sKM) | [Doctor's Cat](https://open.spotify.com/artist/6yj9f1KH5rzmmRbj72PtVc) | [Feel the Drive](https://open.spotify.com/album/5qVQSPp3IVYWRed3XPsnK7) | 6:21 |
 | 48 | [Opportunities \(Let's Make Lots of Money\)](https://open.spotify.com/track/0apB2QDN7ZrE91yDmw5JsY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Essential Pet Shop Boys](https://open.spotify.com/album/1dNxWO6WfRzo8Vsre6GcPZ) | 3:38 |
 | 49 | [Yawn](https://open.spotify.com/track/2eLFER6tM2IjnWVJaB3V8C) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Yawn](https://open.spotify.com/album/5BmdW2fHno1Dy1mxFmriYk) | 3:45 |
 | 50 | [Industry \- Green Light/Fun Night Breaks Mix \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 165 | [Grad Walk](https://open.spotify.com/track/2bTG74nhMXbRz5FfeQ9e1M) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry OST](https://open.spotify.com/album/7mCl94xKJvDxCsU8vtclOR) | 2:14 |
 | 166 | [End Credits \- Let's Go Make Some Money](https://open.spotify.com/track/7c2diSYy7CGhfdwGA8byir) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry OST](https://open.spotify.com/album/7mCl94xKJvDxCsU8vtclOR) | 1:40 |
 
-Snapshot ID: `ZvoGIAAAAABTc+KqAm4LvGEt4iEfKCwR`
+Snapshot ID: `ZvoGIAAAAADaqxdql3VW/A2w9yekE0Vn`

@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7FWAslvZJ9C8Xcv6tKEiA4"
+      },
+      "artists": [
+        {
+          "name": "AFTER GEOGRAPHY",
+          "url": "https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257609,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/1Sh0phQGheIJBeEiNrdYjD"
+    },
+    {
+      "album": {
         "name": "Seas Of Static",
         "url": "https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu"
       },
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 218133,
       "name": "Je m'avance",
       "url": "https://open.spotify.com/track/6tGyyYDL2rzsHMQLY1yvlB"
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 256588,
       "name": "Lona",
       "url": "https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9"
@@ -2469,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/3PrU7zOQLexzywPeRfFvxr"
+      },
+      "artists": [
+        {
+          "name": "Klone",
+          "url": "https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/2fqmP6cuTPi6gqPZo5Grxn"
+    },
+    {
+      "album": {
         "name": "Quasar of Love",
         "url": "https://open.spotify.com/album/0D6LKEOlGw6DyaRoc0z0FR"
       },
@@ -2484,6 +2520,24 @@
       "duration_ms": 268720,
       "name": "Me Me and Mine",
       "url": "https://open.spotify.com/track/3Ddpsbd5xVSWZUYKdiKPj0"
+    },
+    {
+      "album": {
+        "name": "Menthe fraise",
+        "url": "https://open.spotify.com/album/65Mih2cmshmQZfHxUW0IrB"
+      },
+      "artists": [
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/1OceV4sNEVgG9xUDQb70Ie"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276342,
+      "name": "Menthe fraise",
+      "url": "https://open.spotify.com/track/4IBOzpMnEbEtWchVwKDClU"
     },
     {
       "album": {
@@ -4768,7 +4822,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 259026,
       "name": "Way Out (Bonus Track, OMPS Version)",
       "url": "https://open.spotify.com/track/3gCw4Cs3Try7p0WNmVkpe9"

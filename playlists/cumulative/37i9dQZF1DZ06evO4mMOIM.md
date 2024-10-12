@@ -2,7 +2,7 @@
 
 ### [This Is Glassjaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mMOIM)
 
-> This is Glassjaw\. The essential tracks, all in one playlist.
+> This is: Glassjaw\. Alle wichtigen Tracks in einer Playlist.
 
 38 songs - 2 hr 23 min
 

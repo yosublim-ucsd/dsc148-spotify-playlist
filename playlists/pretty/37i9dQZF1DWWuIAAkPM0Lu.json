@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf2a\ufe0f <a href=\"spotify:artist:5RaTuqY7SJHvh6MNzMagut\">D1MA</a> <a href=\"spotify:artist:2dfY7zXIP61MKHtD175hFp\">7</a> p\u00e5 repeat \ud83c\udf2a\ufe0f",
-  "num_followers": 115730,
+  "num_followers": 116078,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAABNRy1N7g/bGl48R/ZYNUAA",
+  "snapshot_id": "ZwhOYAAAAABk+xUPAUmP53CA1tyQBe5H",
   "tracks": [
     {
       "added_at": "2024-10-10 22:00:00",
@@ -790,6 +790,10 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
       "duration_ms": 170666,

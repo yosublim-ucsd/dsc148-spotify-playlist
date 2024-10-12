@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Your future favourite pop stars, fresh for the UK\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,873 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,883 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 59 | [August](https://open.spotify.com/track/0bMcyfjZK0Ohpshoy2QXp2) | [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [August](https://open.spotify.com/album/5xgTyiYj6SKB2taNZn4p3r) | 2:50 |
 | 60 | [Don't Come To My Show](https://open.spotify.com/track/5zHUE4o1luklrJ6qkpyzmj) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Pulverise](https://open.spotify.com/album/4E530gmLhANJ9Gr8niP3n2) | 3:53 |
 
-Snapshot ID: `ZwhccAAAAADuVxS20FMDzBTWPLHgf7Hz`
+Snapshot ID: `ZwhccAAAAAC6E83buxN3Gn91TSpEPf6J`

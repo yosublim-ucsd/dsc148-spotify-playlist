@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-154 songs - 9 hr 10 min
+155 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 | 2021-11-26 |  |
 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 | 2021-11-26 |  |
 | [Encanto](https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb) | [Isaac Magalhães](https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2) | [Encanto](https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX) | 3:29 | 2021-11-26 |  |
+| [entre o mar e o céu](https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX) | [Yantó](https://open.spotify.com/artist/7AWzwadReIV5rSGll9bIcw), [Chicão](https://open.spotify.com/artist/6JnJLHs6aNcGE473u29cXP), [Guilherme Kafé](https://open.spotify.com/artist/13DLx8ABOqhcqKuM9lU1QG) | [entre o mar e o céu](https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ) | 3:42 | 2024-10-11 |  |
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2021-11-26 |  |
 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 | 2021-11-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2021-11-26 |  |
@@ -103,7 +104,7 @@
 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 | 2021-11-26 |  |
 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 5:06 | 2021-11-26 | 2024-05-11 |
 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 | 2021-11-26 |  |
-| [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/track/39KEdiy2de9r2jYLd445zO) | [Arthur Diniz](https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7), [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/album/0iXmxGT4NeYiThombsRqPy) | 2:19 | 2024-07-26 |  |
+| [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/track/39KEdiy2de9r2jYLd445zO) | [Arthur Diniz](https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7), [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/album/0iXmxGT4NeYiThombsRqPy) | 2:19 | 2024-07-26 | 2024-10-12 |
 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 | 2021-11-26 |  |
 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 | 2021-11-26 |  |
 | [Por Aí](https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [O Estrangeiro](https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d) | 2:51 | 2021-11-26 | 2024-05-11 |

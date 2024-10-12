@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『ENHYPEN WORLD TOUR 'FATE PLUS' IN JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,601 likes - 26 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,585 likes - 26 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 25 | [Orange Flower \(You Complete Me\)](https://open.spotify.com/track/5Cb3JSisvjlZhjSfYD6d7C) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:00 |
 | 26 | [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 |
 
-Snapshot ID: `ZtUAAAAAAACfwUcwJ/5RN02HMbJQJ1FJ`
+Snapshot ID: `ZtUAAAAAAAAIOPCfTYkq2wAo4OB4cGpc`

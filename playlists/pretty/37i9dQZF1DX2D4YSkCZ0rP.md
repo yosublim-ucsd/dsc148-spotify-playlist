@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Nicky Doll
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,460 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,462 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 |
 | 40 | [Show Me Love](https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Everything Tasteful](https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o) | 2:41 |
 
-Snapshot ID: `ZoVUWgAAAAA0wtAXymkS45vR7rkRWVIj`
+Snapshot ID: `ZoVUWgAAAACIA+choMeozmO61NKlLwSB`

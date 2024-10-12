@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Julien Doré et Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,508 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,532 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 | 49 | [Petit jeu](https://open.spotify.com/track/0e8egATGvJTvGLteAKqDcN) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Mitsouko](https://open.spotify.com/album/0t7wzTgJrobMB7rXPubrMT) | 3:17 |
 | 50 | [Le pire de nous deux \(feat\. Dani Terreur\)](https://open.spotify.com/track/6KTYSQkmMJPxnLy905uXbV) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3), [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [DRAMA](https://open.spotify.com/album/07Vv8jai6rYMEj7eL0MZTy) | 3:14 |
 
-Snapshot ID: `ZochcwAAAADmRQsA7cz9oiMphwwfkBaS`
+Snapshot ID: `ZochcwAAAAAn6Yl2eAQsTBE3suIhXKYh`

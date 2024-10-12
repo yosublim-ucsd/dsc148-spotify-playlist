@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Jujulipps
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,912 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,921 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Getting Older](https://open.spotify.com/track/0NeIfXldQGGHhpbKNfeJcS) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Getting Older](https://open.spotify.com/album/5abo2OwuN3GmxTWG7ITJ8Y) | 3:22 |
 | 100 | [Birds](https://open.spotify.com/track/6lTmjnqBQYyqiu7EAbxVtE) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Birds](https://open.spotify.com/album/02IubQRHTCQ7QbDawkqeqR) | 2:44 |
 
-Snapshot ID: `ZwUs0AAAAAB3tfyYP32QnmGy10k8Qv9N`
+Snapshot ID: `ZwUs0AAAAADf1pVGljOUkdHiTuW9A77G`

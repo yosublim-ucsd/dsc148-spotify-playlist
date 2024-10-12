@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
+  "description": "This Is Carlos Y Jose. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Carlos Y Jose",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-12",
       "duration_ms": 168320,
       "name": "El Jardin De Las Flores",
       "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
@@ -1298,6 +1298,24 @@
       "duration_ms": 226786,
       "name": "Luis Mart\u00ednez De La Campana",
       "url": "https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8"
+    },
+    {
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
     },
     {
       "album": {

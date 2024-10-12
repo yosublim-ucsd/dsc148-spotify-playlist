@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <LINKIN PARK : From Zero World Tour> 2024년 9월 28일\(토\) 오후 7시 30분 @인스파이어 아레나
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,850 likes - 26 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,084 likes - 26 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 25 | [Keys to the Kingdom](https://open.spotify.com/track/2cZXlLwkRmDww37tbEygXl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:38 |
 | 26 | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:44 |
 
-Snapshot ID: `ZvEv/QAAAAC/MJ+d/yZNdp4fE0XMcLUl`
+Snapshot ID: `ZvEv/QAAAAAVXij5V2TDaKDFO5yu3IqI`
