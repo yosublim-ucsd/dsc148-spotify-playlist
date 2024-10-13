@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Jann
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,769 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,772 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 24 | [Muszę dać ci odejść](https://open.spotify.com/track/06nFgKdL7ddzp2PSdqIp4D) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Muszę dać ci odejść](https://open.spotify.com/album/5406E4SYO3qo4gx7YS714W) | 4:16 |
 | 25 | [PIF\-PAF](https://open.spotify.com/track/1cYXCE7GEUWIeqAwbmLVUf) | [PYCORKA](https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE) | [PIF\-PAF](https://open.spotify.com/album/4A9etC18vOG8XsyBfmpMg5) | 2:18 |
 | 26 | [Ciao Amore](https://open.spotify.com/track/52qyUYT5WCo1ENskgZnTww) | [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Spróbuję, potańczę, nie wiem](https://open.spotify.com/album/31xDfRgJPxY0DWJSeVJhRo) | 2:25 |
-| 27 | [Kołysz](https://open.spotify.com/track/37qxPGh480WMg2o7eST2tn) | [Wishlake](https://open.spotify.com/artist/3oEXMAInmcKoggPiSIxsSx), [WASILEWSKI](https://open.spotify.com/artist/1Kede7dhODygxBDvVdkXuf) | [Popiół i Dym](https://open.spotify.com/album/1P1aUeS6y0R5RI3PXzfFsI) | 4:42 |
+| 27 | [Kołysz](https://open.spotify.com/track/37qxPGh480WMg2o7eST2tn) | [Wishlake](https://open.spotify.com/artist/3oEXMAInmcKoggPiSIxsSx), [WASILEWSKI](https://open.spotify.com/artist/1Kede7dhODygxBDvVdkXuf) | [Popiół i Dym \(Beksiński.Live\)](https://open.spotify.com/album/1P1aUeS6y0R5RI3PXzfFsI) | 4:42 |
 | 28 | [Silent Disco](https://open.spotify.com/track/1VDCUHLXa4kD7H4P0y3lpJ) | [M!ka](https://open.spotify.com/artist/1PU2QmArAkuOgEXXRJhYl0), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Silent Disco](https://open.spotify.com/album/1IYoPoY7GKFdQULaeqRtIO) | 2:57 |
 | 29 | [Miód \(rework 10 lat albumu Prąd\)](https://open.spotify.com/track/5MHtB0PaoVkbmx3zkh49mY) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Miód \(rework 10 lat albumu Prąd\)](https://open.spotify.com/album/0Bicjsp8Cq6P4FwGVDgVfz) | 3:50 |
 | 30 | [Antylopy & Lwy](https://open.spotify.com/track/3mZSN65mRWoGXDvF9O7X4H) | [Terrific Sunday](https://open.spotify.com/artist/5jponzXxXIzb5bA5mO9BX1) | [Wzloty Bez Upadków](https://open.spotify.com/album/1q9xyeG3RgJtw20P31WbIr) | 3:01 |

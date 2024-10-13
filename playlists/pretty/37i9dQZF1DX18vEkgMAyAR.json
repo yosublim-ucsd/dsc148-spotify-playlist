@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68317,
+  "num_followers": 68326,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "So What (feat. A R I Z O N A)",
+        "url": "https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 177476,
+      "name": "So What (feat. A R I Z O N A)",
+      "url": "https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Set Me Free (feat. MAX)",
         "url": "https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 193364,
       "name": "Set Me Free (feat. MAX)",
       "url": "https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "So What (feat. A R I Z O N A)",
-        "url": "https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 177476,
-      "name": "So What (feat. A R I Z O N A)",
-      "url": "https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Liars And Fakes (Tensnake Remix)",
-        "url": "https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S"
-      },
-      "artists": [
-        {
-          "name": "Mila Smith",
-          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 329756,
-      "name": "Liars And Fakes - Tensnake Remix",
-      "url": "https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 207741,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Liars And Fakes (Tensnake Remix)",
+        "url": "https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 329756,
+      "name": "Liars And Fakes - Tensnake Remix",
+      "url": "https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        },
-        {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        }
-      ],
-      "duration_ms": 282340,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Video Games",
         "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 172500,
       "name": "The Loudest Thing",
       "url": "https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        },
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        }
+      ],
+      "duration_ms": 282340,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
     },
     {
       "added_at": "2024-05-10 06:34:25",

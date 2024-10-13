@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: DYGL \(Japan\)
 
-1,571 songs - 3 day 22 hr 49 min
+1,572 songs - 3 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,7 +1252,7 @@
 | [Time Machine](https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [DatBaddie](https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ) | [Time Machine](https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV) | 3:21 | 2023-09-15 | 2023-09-22 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2024-03-15 |
 | [Tip Toe](https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:44 | 2024-03-14 |  |
-| [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 |  |
+| [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 | 2024-10-13 |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |
 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 | 2023-09-08 |
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:10 | 2024-10-10 |  |
@@ -1444,6 +1444,7 @@
 | [วันผ่าน \(blue day\)](https://open.spotify.com/track/6E4wFL7JaVbmVTpAzorKJE) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [วันผ่าน \(blue day\)](https://open.spotify.com/album/6hlP98iH4EJ0eTOXbgMJ6H) | 4:30 | 2023-07-20 | 2023-08-04 |
 | [วิเศษ \(Magic\)](https://open.spotify.com/track/2Z9U0wFqsxoALv3qtJKlwH) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63) | [Just a bad day not a bad life, isn't it](https://open.spotify.com/album/4I4Y5PxyYgJzyTBmQed9Em) | 3:40 | 2022-05-19 | 2022-07-01 |
 | [หมวกเมฆสีรุ้ง](https://open.spotify.com/track/1UiKO2k32EW98QiHwFoXKA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [หมวกเมฆสีรุ้ง](https://open.spotify.com/album/2eVTP95ZWjjfhrZVSCRFPR) | 4:18 | 2022-12-15 | 2023-01-13 |
+| [อยู่ดีๆก็อ่อนแอ \(My Weakness is You\)](https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Emotional Rollercoaster](https://open.spotify.com/album/7x6Rqd74OhtmCkipVZ31FM) | 2:56 | 2024-10-10 |  |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-20 | 2024-08-02 |
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-24 | 2022-05-07 |
 | [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/track/2a9JaEQU7TPIddkwidBRHS) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/album/6ha08B8cRRuhzUnM6pnsJY) | 3:53 | 2023-05-25 | 2023-06-28 |

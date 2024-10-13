@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,779 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,781 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 52 | [Marinero](https://open.spotify.com/track/6xKLkAi52EBSRnzLv5h2vu) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Marinero](https://open.spotify.com/album/3p7GfMQQpq3GreUD2iPU4q) | 2:34 |
 | 53 | [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 |
 | 54 | [ancora](https://open.spotify.com/track/31FieNBJupbKsWKW76SM9t) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [ancora](https://open.spotify.com/album/6j0zCgkS5LhYgUL6YkeY4i) | 2:45 |
-| 55 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:50 |
+| 55 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 |
 | 56 | [Confine](https://open.spotify.com/track/5sTNaylsQ7im9ixODCJ3GD) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [Confine](https://open.spotify.com/album/6YFlmQhpwVbdYbwNJ03GU2) | 3:10 |
 | 57 | [Salire](https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Salire](https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV) | 3:09 |
 | 58 | [HIT ME](https://open.spotify.com/track/2Pe0agFffixMOE12UAxrnk) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [VOCI](https://open.spotify.com/album/1eTILPjRI57gqN48aKDRVq) | 2:18 |

@@ -1515,6 +1515,32 @@
     },
     {
       "album": {
+        "name": "Hair Brained Schemes",
+        "url": "https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Finn",
+          "url": "https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb"
+        },
+        {
+          "name": "Pro Dillinger",
+          "url": "https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195124,
+      "name": "Capital Gains",
+      "url": "https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
       },
@@ -2724,7 +2750,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 128914,
       "name": "Evil Cute",
       "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"

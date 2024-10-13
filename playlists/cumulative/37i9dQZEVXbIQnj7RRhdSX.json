@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/2R7o6Y8x8aZtOqo4QXKBlm"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 175200,
       "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 176785,
       "name": "ALLUCINAZIONE COLLETTIVA",
       "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 205354,
       "name": "ALTROVE",
       "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
@@ -2424,6 +2424,28 @@
       "duration_ms": 205370,
       "name": "AMORE CANE (feat. Lazza)",
       "url": "https://open.spotify.com/track/5KUjY5IoxTtR7TD71VQ7Ch"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160227,
+      "name": "Amore cieco (feat. Madame)",
+      "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
     },
     {
       "album": {
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 198260,
       "name": "BBE (feat. Lazza)",
       "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 184250,
       "name": "Black Nirvana",
       "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 171875,
       "name": "CASANOVA (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/25xUkNnc4azNAsli0pCNU7"
@@ -8140,6 +8162,60 @@
       "duration_ms": 169346,
       "name": "CLUB",
       "url": "https://open.spotify.com/track/71ldpwclSliEuoun5SAAWP"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327605,
+      "name": "CNTNRS (feat. Jake La Furia, Emis Killa, Kid Yugi, Tony Boy, Rasty Kilo, Gu\u00e8, Paky, Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/4j5cQ2vydFCpmR8PnBy7yG"
     },
     {
       "album": {
@@ -10959,6 +11035,32 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171342,
+      "name": "Divido cose (feat. Kid Yugi & Paky)",
+      "url": "https://open.spotify.com/track/6tBIplB49jOpeMvGvk8zdJ"
+    },
+    {
+      "album": {
         "name": "DJUNGLE",
         "url": "https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1"
       },
@@ -11012,6 +11114,28 @@
       "duration_ms": 194786,
       "name": "DM (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186833,
+      "name": "DM (feat. Tedua)",
+      "url": "https://open.spotify.com/track/3Rc5bO1LQjlVPalGDwTsMa"
     },
     {
       "album": {
@@ -11264,7 +11388,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 182906,
       "name": "DOPO LE 4 (feat. Bresh & Tedua)",
       "url": "https://open.spotify.com/track/5OQo1GGSUcOSRKX9eSqdGU"
@@ -12184,6 +12308,36 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179545,
+      "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
+      "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
     },
     {
       "album": {
@@ -15449,6 +15603,36 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Good girl (feat. Rkomi, Ernia & Bresh)",
+      "url": "https://open.spotify.com/track/3O71vkxPcYjozstB6cR5H0"
+    },
+    {
+      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/5LsSEphfy5LrHN6fZJaTYg"
       },
@@ -16358,7 +16542,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
@@ -24556,7 +24740,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 203100,
       "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
@@ -24578,7 +24762,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 195238,
       "name": "Mezzo Rotto (feat. BigMama)",
       "url": "https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7"
@@ -25298,6 +25482,32 @@
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Mio padre (feat. Noyz Narcos & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6im0jVUTuW50jBwTHnMiur"
     },
     {
       "album": {
@@ -26703,6 +26913,36 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Nella trap (feat. Artie 5ive, Capo Plaza & Tony Effe)",
+      "url": "https://open.spotify.com/track/7KI9vyPycMZ0Noh51ylQ9W"
+    },
+    {
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
       },
@@ -27118,6 +27358,24 @@
       "duration_ms": 150000,
       "name": "NIENTE DI SPECIALE",
       "url": "https://open.spotify.com/track/2HYb7h6j7uQEqPZRylzGI6"
+    },
+    {
+      "album": {
+        "name": "Niente Panico",
+        "url": "https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Niente Panico",
+      "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
     },
     {
       "album": {
@@ -28280,6 +28538,28 @@
       "duration_ms": 187759,
       "name": "NULLA DI (Concertos)",
       "url": "https://open.spotify.com/track/7dGzgiJrLC3ntYiQA7HAff"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Numero 5 (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5VoL3TfSXVzJ5jsa15s11d"
     },
     {
       "album": {
@@ -30510,7 +30790,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -30800,7 +31080,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 220588,
       "name": "Perdere \u2018a capa (feat. Geolier)",
       "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
@@ -32466,7 +32746,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 152383,
       "name": "RA TA TA",
       "url": "https://open.spotify.com/track/7Isi6whc5DD6A5wH5nqyUw"
@@ -32538,7 +32818,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 210677,
       "name": "RAGNI",
       "url": "https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy"
@@ -33182,6 +33462,36 @@
       "duration_ms": 183810,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Rito breve (feat. Noyz Narcos, Simba La Rue & Geolier)",
+      "url": "https://open.spotify.com/track/3IecTeGpGfTm0fRvswncwp"
     },
     {
       "album": {
@@ -35874,7 +36184,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
@@ -36031,6 +36341,28 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166764,
+      "name": "Solo (feat. Luch\u00e8)",
+      "url": "https://open.spotify.com/track/18jypjDXo1laFq8eiGTxr1"
+    },
+    {
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
       },
@@ -36050,6 +36382,40 @@
       "duration_ms": 146494,
       "name": "SOLO CON ME (con TOMMY DALI)",
       "url": "https://open.spotify.com/track/11M65eBc6Nn2Xz4sSqp74t"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Solo Dio sa (feat. Tony Boy, anice, Geolier & Shiva)",
+      "url": "https://open.spotify.com/track/0sZ7ORHX2NHuIQZjpX0Te4"
     },
     {
       "album": {
@@ -37631,6 +37997,32 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "T.O.N.Y. (feat. Tony Boy & Tony Effe)",
+      "url": "https://open.spotify.com/track/5hHpRDG6j9HCyR0rTyVYpW"
+    },
+    {
+      "album": {
         "name": "TAF TAF",
         "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
       },
@@ -37714,7 +38106,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 191856,
       "name": "Take 5",
       "url": "https://open.spotify.com/track/3sdvDRHwSpuKUehwVYxHcG"
@@ -38080,6 +38472,32 @@
       "duration_ms": 217876,
       "name": "Terzo Cuore",
       "url": "https://open.spotify.com/track/3WbpTinnlotDTs3uXwVrP7"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204668,
+      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
     },
     {
       "album": {
@@ -39113,6 +39531,32 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147150,
+      "name": "Trema (feat. Tedua & Lazza)",
+      "url": "https://open.spotify.com/track/53Fv4ViRUlvuMOhu7QVjZV"
+    },
+    {
+      "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
       },
@@ -39260,6 +39704,36 @@
       "duration_ms": 172000,
       "name": "Tropicana (feat. Annalisa)",
       "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "True story (feat. Noyz Narcos, Papa V & Artie 5ive)",
+      "url": "https://open.spotify.com/track/58Qx8ttdSunlnfKgVrE8XP"
     },
     {
       "album": {
@@ -39696,7 +40170,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 157200,
       "name": "Tutto o Nada",
       "url": "https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ"
@@ -41696,6 +42170,36 @@
       "duration_ms": 133776,
       "name": "Wallah",
       "url": "https://open.spotify.com/track/39CXkMn8AAFu3qwnZHJCNo"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160178,
+      "name": "Walzer (feat. Papa V, Nerissima Serpe & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/7psPH6pwONpzAYLXLcr0uY"
     },
     {
       "album": {

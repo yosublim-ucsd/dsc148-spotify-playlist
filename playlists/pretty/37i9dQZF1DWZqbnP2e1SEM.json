@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321222,
+  "num_followers": 321209,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Lily McKenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
-        }
-      ],
-      "duration_ms": 176185,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Lily McKenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "duration_ms": 176185,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Sugar Baby",
         "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 187883,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sima Agua (feat. Mayra Andrade)",
-        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Sima Agua (feat. Mayra Andrade)",
-      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "At Night EP",
         "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
       },
@@ -1675,18 +1655,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
+        "name": "Sima Agua (feat. Mayra Andrade)",
+        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
       },
       "artists": [
         {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 182143,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
+      "duration_ms": 227333,
+      "name": "Sima Agua (feat. Mayra Andrade)",
+      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 182143,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Push That",
         "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 205278,
       "name": "Push That",
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "All My Ladies",
-        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "All My Ladies",
-      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 169545,
       "name": "System Overload",
       "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "All My Ladies",
+        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "All My Ladies",
+      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 218507,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
     },
     {
       "added_at": "2024-09-19 23:00:00",

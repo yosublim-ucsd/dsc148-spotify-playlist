@@ -5501,6 +5501,24 @@
     },
     {
       "album": {
+        "name": "Free Bird",
+        "url": "https://open.spotify.com/album/7xUZUgH3pZNIotP2G9rFj4"
+      },
+      "artists": [
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114464,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/6ZyCPSTV4ckXENxnEwf8wA"
+    },
+    {
+      "album": {
         "name": "Freed From Desire (Sax Version)",
         "url": "https://open.spotify.com/album/42RP237A3hGAK2WCS09aJz"
       },
@@ -6124,7 +6142,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 151689,
       "name": "GGUM",
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"

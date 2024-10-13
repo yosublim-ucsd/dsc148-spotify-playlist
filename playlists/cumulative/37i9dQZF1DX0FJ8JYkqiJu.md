@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-203 songs - 13 hr 0 min
+204 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 | 2023-06-02 |
 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 | 2022-12-01 | 2023-01-16 |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-12-01 |  |
-| [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2022-12-01 |  |
+| [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2022-12-01 | 2024-10-13 |
 | [Heartburn](https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Heartburn](https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY) | 3:41 | 2024-04-11 |  |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2022-12-01 |  |
 | [Hey Papi \- Edit](https://open.spotify.com/track/3eTfuKPA6T23XEgHC20IsA) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/0rVHwUMBfiXNgnwO8FHPJY) | 2:38 | 2022-12-15 | 2023-02-03 |
@@ -112,6 +112,7 @@
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2023-09-28 | 2024-02-28 |
 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2022-12-01 |  |
 | [Lençóis \(Love Me\)](https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lençóis \(Love Me\)](https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De) | 3:45 | 2022-12-01 |  |
+| [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2024-10-10 |  |
 | [Lies](https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER), [Sakidasumi](https://open.spotify.com/artist/007w6UZAPGJnCgeUixkyOT) | [Lies](https://open.spotify.com/album/4hrFvYVpmSWQu415WpGQ7V) | 3:41 | 2023-04-14 | 2023-04-29 |
 | [Lifetime \- KASSIN Remix](https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs), [KASSIN](https://open.spotify.com/artist/43U47RCO85AIb75zzIypfl) | [Lifetime \(KASSIN Remix\)](https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM) | 5:21 | 2024-04-11 |  |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-12-01 | 2024-09-14 |

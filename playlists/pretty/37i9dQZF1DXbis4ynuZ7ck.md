@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbis4ynuZ7ck.md) - [plain]
 
 > Two legendary voices, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,108 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,121 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

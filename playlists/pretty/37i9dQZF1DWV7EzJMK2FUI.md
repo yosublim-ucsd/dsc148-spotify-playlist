@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679,769 likes - 765 songs - 1 day 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,597 likes - 765 songs - 1 day 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,7 +512,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 502 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 |
 | 503 | [Crestfallen](https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Crestfallen](https://open.spotify.com/album/66MHp6vMZ2jVzeyFLE3WgU) | 4:28 |
 | 504 | [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 |
-| 505 | [Wear And Tear](https://open.spotify.com/track/5VWl5Jf2djqDX0itk48U97) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Wear And Tear](https://open.spotify.com/album/5jpuAoOi6pGfCtyieb3o9V) | 3:32 |
+| 505 | [Wear And Tear](https://open.spotify.com/track/5VWl5Jf2djqDX0itk48U97) | [Billy Hicks Quartet](https://open.spotify.com/artist/5Ygo7dMjlqex2mD2Ah7h1J) | [Wear And Tear](https://open.spotify.com/album/5jpuAoOi6pGfCtyieb3o9V) | 3:32 |
 | 506 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 |
 | 507 | [Body And Soul](https://open.spotify.com/track/7ly3lOOTrL6k4FjyAPDydS) | [Faded Family Portraits](https://open.spotify.com/artist/3K2kGySZF3Hb9zHfesGpTY) | [Body And Soul](https://open.spotify.com/album/6GFhivPOliZbtDskCGFQlr) | 2:32 |
 | 508 | [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 |

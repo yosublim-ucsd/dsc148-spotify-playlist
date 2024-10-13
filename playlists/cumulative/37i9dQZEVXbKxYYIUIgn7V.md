@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-918 songs - 1 day 20 hr 45 min
+919 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Forza](https://open.spotify.com/track/48VOBBuSuChKwYX4m3lpNK) | [Grše](https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz) | [Forza](https://open.spotify.com/album/3WtLettNPcHTzNTnbVOmDA) | 2:40 | 2024-07-02 | 2024-07-16 |
 | [Foundation Style](https://open.spotify.com/track/2wXNEnIOWq8dZhwJR4tjxv) | [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Foundation Style](https://open.spotify.com/album/5ukMkOfHXZbyrHchl8wR8E) | 4:12 | 2024-03-27 | 2024-04-17 |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-01-29 | 2024-02-10 |
+| [Free Bird](https://open.spotify.com/track/6ZyCPSTV4ckXENxnEwf8wA) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Free Bird](https://open.spotify.com/album/7xUZUgH3pZNIotP2G9rFj4) | 1:54 | 2024-10-12 |  |
 | [Freed From Desire \- Sax Version](https://open.spotify.com/track/0seGnB76bNPVE1bWfGP6QY) | [Andre Schnura](https://open.spotify.com/artist/1kVBxbzTGmSjLrr3dPioHK), [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC) | [Freed From Desire \(Sax Version\)](https://open.spotify.com/album/42RP237A3hGAK2WCS09aJz) | 2:11 | 2024-07-16 | 2024-07-27 |
 | [frida](https://open.spotify.com/track/2kZ0wV6it5vGEF545GGIJQ) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [DUNKLSCHWARZ](https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW) | 4:20 | 2024-02-15 | 2024-02-20 |
 | [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 | 2024-01-30 | 2024-02-05 |
@@ -312,7 +313,7 @@
 | [Geld wie ein Magnet](https://open.spotify.com/track/5eLiadsi7L1E4eNUZj7Jbs) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Görlitzer Park](https://open.spotify.com/album/2AHRdK1N4BpUVhqa89ajbj) | 4:17 | 2024-07-02 | 2024-07-09 |
 | [Generation](https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp), [Bayor](https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1), [Skandal](https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV) | [Generation](https://open.spotify.com/album/29MAZSbreZZ18sYo6obqHx) | 2:49 | 2024-01-29 | 2024-01-31 |
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-04-03 | 2024-04-10 |
-| [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-10-08 |  |
+| [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-10-08 | 2024-10-13 |
 | [Gib‘s Mir](https://open.spotify.com/track/2mIkDNv5RqhecXE01zdLSX) | [Trofe](https://open.spotify.com/artist/10m7sfrxrm0lXxk41RDxFS) | [Gib‘s Mir](https://open.spotify.com/album/7ItkuTDrW0zx0hMHagrltb) | 1:49 | 2024-09-12 | 2024-09-24 |
 | [Girls](https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [You're Invited](https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs) | 1:59 | 2024-08-18 | 2024-08-25 |
 | [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 | 2024-08-24 | 2024-09-08 |

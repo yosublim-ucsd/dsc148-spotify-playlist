@@ -2,7 +2,7 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. Todos os maiores hits em uma só playlist.
+> This Is P\-Lo\. Los temas esenciales, todos en una lista.
 
 88 songs - 4 hr 8 min
 

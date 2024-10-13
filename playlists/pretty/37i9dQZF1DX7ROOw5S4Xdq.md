@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Beatriz, Eli Soares, Mauro Henrique
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,184 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,208 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 15 | [Tu És a Paz \- Acústico](https://open.spotify.com/track/1s43JzC2wuTBbKDijpcw4d) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Tu És a Paz \(Acústico\)](https://open.spotify.com/album/41WTHB8rZNL7S2dXvpGgBn) | 3:35 |
 | 16 | [Te Esperamos \- Ao Vivo](https://open.spotify.com/track/2AFvWd0kDFmQAsdlQb0Xew) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [SOMOS BRASAS \(Ao Vivo\)](https://open.spotify.com/album/0QchFfl94eVpYNsvC9DUgv) | 10:27 |
 | 17 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
-| 18 | [Obedecer \- Ao Vivo](https://open.spotify.com/track/6UiakORqJurrLX0uvmTpBO) | [Thiago Henrique](https://open.spotify.com/artist/51omDhh7z4FQHQaRoJ8r02), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp) | [Obedecer \(Ao Vivo\)](https://open.spotify.com/album/6085qHIe9zvCWKkYXVTL8k) | 6:31 |
+| 18 | [Obedecer \- Ao Vivo](https://open.spotify.com/track/6UiakORqJurrLX0uvmTpBO) | [Thiago Henrique](https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp) | [Obedecer \(Ao Vivo\)](https://open.spotify.com/album/6085qHIe9zvCWKkYXVTL8k) | 6:31 |
 | 19 | [Pra Que Temer \(Ao Vivo\)](https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Pra Que Temer \(Ao Vivo\)](https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4) | 4:31 |
 | 20 | [Os Sonhos de Deus](https://open.spotify.com/track/02nl7RtJ0GRvt1rpgkVIk1) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Os Sonhos de Deus](https://open.spotify.com/album/43FQyD9aAsalsTYcDxcDx4) | 4:24 |
 | 21 | [Eu Me Rendo \- Live Session](https://open.spotify.com/track/6PeYSC6aluQRrcfSjDp6Ma) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Eu Me Rendo \(Live Session\)](https://open.spotify.com/album/64CiFWgXBiMZUsVJKKf5SU) | 5:04 |

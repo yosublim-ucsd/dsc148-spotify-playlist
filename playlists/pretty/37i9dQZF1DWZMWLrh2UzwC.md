@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,826 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,832 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 20 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
 | 21 | [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 |
 | 22 | [巴黎的夜晚走走](https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [巴黎的夜晚走走](https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w) | 2:52 |
-| 23 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/2k6AewNKDERSkyajEkt7yH), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 |
+| 23 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 |
 | 24 | [Life's Beautiful](https://open.spotify.com/track/5tdcUpcckYR6eo4vUUn398) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [Life's Beautiful](https://open.spotify.com/album/17RgEUQHNmJymr1yTFsAAT) | 3:30 |
 | 25 | [Aksara](https://open.spotify.com/track/4HVeV2sTqOvZDItAYq26tN) | [Shahir Zawawi](https://open.spotify.com/artist/18HUNEGPoThIXgXOlzoDti) | [Aksara](https://open.spotify.com/album/0v6SPralmAFURikb5aDQiz) | 3:37 |
 | 26 | [kill 4 u](https://open.spotify.com/track/2zUsiUNnxmAdCkVwO6hl31) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [kill 4 u](https://open.spotify.com/album/1JCQfFzdszboDmvtrhzc0L) | 2:19 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 67 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 |
 | 68 | [back to high school \(feat\. The Novos\)](https://open.spotify.com/track/6z0VjP3q7vxcDQdOMOO741) | [Art Esteban](https://open.spotify.com/artist/2UaCRfiPDDNwqxQdOvjIAL), [The Novos](https://open.spotify.com/artist/1tR2Afh60OseQzKCWG7BXF) | [back to high school \(feat\. The Novos\)](https://open.spotify.com/album/7m2JWIrwTCUc1IWOOIOXjI) | 5:37 |
 | 69 | [虛構](https://open.spotify.com/track/2MQJbiu6FnxVn5KkH42xuR) | [Colbie王思涵](https://open.spotify.com/artist/6NO4KtoS7iSjcg88n151zp) | [虛構](https://open.spotify.com/album/0TJZpw1w6xGeo2NnIQfp7I) | 3:35 |
-| 70 | [谁都知道我喜欢你](https://open.spotify.com/track/606qIWZzcQ93SyecskPLsG) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [誰都知道我喜歡你](https://open.spotify.com/album/0nRaBK3Pn9MvBdirO5h5jo) | 3:35 |
+| 70 | [谁都知道我喜欢你](https://open.spotify.com/track/606qIWZzcQ93SyecskPLsG) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [谁都知道我喜欢你](https://open.spotify.com/album/0nRaBK3Pn9MvBdirO5h5jo) | 3:35 |
 | 71 | [圓先生](https://open.spotify.com/track/11zQU8OQAoz1FwemgDsFZK) | [Papaya Duck](https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU) | [圆先生](https://open.spotify.com/album/7aPzWympkuTD6aeWGzkVTs) | 3:24 |
 | 72 | [High Fashion](https://open.spotify.com/track/1M8HfC4Ei6MlBtClnpLL9O) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [＋](https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c) | 3:06 |
 | 73 | [SWEET SURRENDER](https://open.spotify.com/track/5EBK9qNSeWRnVHfRNSJRuv) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [SWEET SURRENDER](https://open.spotify.com/album/1LfN5LD2GYXbLMUPNsP6Vm) | 2:53 |

@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Tee Grizzley
 
-934 songs - 1 day 19 hr 27 min
+934 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,11 +177,11 @@
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2022-05-07 |
 | [City ID \(feat\. LUCKI\)](https://open.spotify.com/track/6g5JGCl0IKGnkzehCwPnQ3) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Owe It To Myself](https://open.spotify.com/album/78IUjNkNcWvE6IdJJaAq3Q) | 3:14 | 2023-08-11 | 2023-09-09 |
 | [CJ](https://open.spotify.com/track/6p49f5BNCPBWAzse9Di9YT) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [CJ](https://open.spotify.com/album/3Fn0L92Juuya1kvntjH2Lx) | 4:37 | 2021-11-19 | 2022-02-12 |
-| [Click \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Click \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 | 2024-06-21 |  |
+| [cLick \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [cLick \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 | 2024-06-21 |  |
 | [Clock Dat \(feat\. Shamar Marco\)](https://open.spotify.com/track/7qr5FFlgqpkFNM1ShAtvlw) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Shamar Marco](https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k) | [Clock Dat \(feat\. Shamar Marco\)](https://open.spotify.com/album/41PFb8SNPnG3sHZ0IDc7aZ) | 3:20 | 2024-09-27 |  |
 | [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 | 2024-09-20 | 2024-09-28 |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-11 | 2023-08-26 |
-| [Co ParenTing](https://open.spotify.com/track/0tIcoAORhz4TVDRL7E61gE) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Co ParenTing](https://open.spotify.com/album/6Zq9Fa1KtItbWZGSPR50G6) | 2:57 | 2024-10-11 |  |
+| [Co ParenTing](https://open.spotify.com/track/0tIcoAORhz4TVDRL7E61gE) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Co ParenTing](https://open.spotify.com/album/6Zq9Fa1KtItbWZGSPR50G6) | 1:57 | 2024-10-11 |  |
 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 | 2022-08-19 | 2022-09-24 |
 | [Cold Soul 1.5](https://open.spotify.com/track/3ksOL8ryXDGux9E6Gzy47z) | [YSN Flow](https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF) | [Cold Soul 1.5](https://open.spotify.com/album/2EmIrbzkMPR7gPZ9Rkdoze) | 3:26 | 2022-07-01 | 2022-07-16 |
 | [Collective Nights](https://open.spotify.com/track/6Rb2FMI2mVyc8vuNpjDNRo) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Rio Circa 2020](https://open.spotify.com/album/4ACoNEslRfttCqfj0LI4w0) | 2:46 | 2024-05-17 | 2024-06-29 |

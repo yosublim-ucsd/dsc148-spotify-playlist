@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,608 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,653 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 12 | [Pressured Up \(feat\. Vince Staples & ScHoolboy Q\)](https://open.spotify.com/track/1pJ7WNomTQrMcZqJH6kjfR) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:59 |
 | 13 | [EVERYBODY](https://open.spotify.com/track/7tToMKgUXVNMU54B2ruipf) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [EVERYBODY](https://open.spotify.com/album/2rG2pC1BqTmPrEHgXYuWbo) | 2:11 |
 | 14 | [Rich Kids](https://open.spotify.com/track/5kETVMhnmTaSqMBZcD9Lpi) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Class of 95](https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO) | 2:29 |
-| 15 | [Squeeze 1st 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1st 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
+| 15 | [Squeeze 1St 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1St 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
 | 16 | [Work](https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Work](https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG) | 2:15 |
 | 17 | [1 Drink 2 Many](https://open.spotify.com/track/1TlCkk6DxbS41hTVQEjhhf) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Halfway There](https://open.spotify.com/album/70u9s1ZchOeK4YFEMYPdKZ) | 4:03 |
 | 18 | [Little Hector](https://open.spotify.com/track/6hps1CWNcP8CjuPhZwXSab) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Tapri Grams](https://open.spotify.com/artist/0cePXkZbB6Ehoy4EiKLIc1) | [Little Hector](https://open.spotify.com/album/3o7T8FboFCQ3AIDWiKol6v) | 2:59 |

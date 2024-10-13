@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This is Engel Montaz。アーティストの代表曲をひとつのプレイリストに。
+> This is Engel Montaz\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,928 likes - 28 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,934 likes - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 |
-| 2 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
-| 3 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
+| 2 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
+| 3 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
 | 4 | [Tu No Me Conoces](https://open.spotify.com/track/6fQnUSyIWX18mWDU2df3Cr) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [Tu No Me Conoces](https://open.spotify.com/album/1ZkngAaNKSQ2ZNAY2mlCTM) | 3:31 |
 | 5 | [Cupido](https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:35 |
 | 6 | [Prende \(feat\. Dj Astilo\)](https://open.spotify.com/track/3pp8HYIEAvjOJwts751MWs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende \(feat\. Dj Astilo\)](https://open.spotify.com/album/1ta3964ZSm6jUQXK56gwlY) | 3:06 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 27 | [Ruta](https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/7cwZSJ1S17yteGVQpML2Bx) | 2:30 |
 | 28 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 |
 
-Snapshot ID: `ZwcZAAAAAAALNB8d/tFsbZasNEyvGVAb`
+Snapshot ID: `ZwhqgAAAAAB5gg9ripRuE8jRi1r+yNHB`

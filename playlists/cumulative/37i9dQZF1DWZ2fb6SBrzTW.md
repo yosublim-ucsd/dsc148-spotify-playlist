@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-459 songs - 23 hr 30 min
+460 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-28 |
 | [Freaky Friday](https://open.spotify.com/track/0m3chcCAwOAgdTj4rcAD8d) | [E'Major](https://open.spotify.com/artist/2Ozp4F6jLBYyUrIyJgF236), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Freaky Friday](https://open.spotify.com/album/3F94KLNyE0b4tifAUqrvcL) | 3:29 | 2022-07-28 | 2022-09-20 |
 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 | 2024-05-03 | 2024-05-17 |
+| [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 |  |
 | [Freeway](https://open.spotify.com/track/66XN0FxB0BEZdth8FORzmg) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [DJ Pee Raven](https://open.spotify.com/artist/2h75TpDQVymQj3VJ1cxk0E) | [Freeway](https://open.spotify.com/album/4fBfJVLmH5IF0qs8HAPksa) | 4:21 | 2021-10-08 | 2022-07-28 |
 | [Fresh \(feat\. Focalistic, Costa Titch & Pabi Cooper\)](https://open.spotify.com/track/2TPeS0lnHdt9ekFmpkQ3pj) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 4:27 | 2022-03-11 | 2022-08-03 |
 | [Fuku](https://open.spotify.com/track/0EYxr62cSeDetJKoIBaPbq) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Fuku](https://open.spotify.com/album/1pOAikaQyKcyGpFnor2gdZ) | 3:01 | 2022-10-21 | 2022-12-03 |
@@ -374,7 +375,7 @@
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-03-19 |
 | [Shey Normal](https://open.spotify.com/track/4yOgsbtRZQsiOkhu4AdJyD) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Shey Normal](https://open.spotify.com/album/7Frp4ja9CkYK68S4bECDgA) | 1:59 | 2023-05-19 | 2023-05-27 |
-| [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 |  |
+| [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 | 2024-10-13 |
 | [Siyé](https://open.spotify.com/track/2cvLICgohXX5Rfmoh2jPsZ) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Who's Harley](https://open.spotify.com/album/43CuhnTFkeuhMv9r5r1CpH) | 3:26 | 2024-05-17 | 2024-06-15 |
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-05-24 |  |
 | [So Many Things I Like](https://open.spotify.com/track/5m9mTvlzkpYAvXQz0LabqG) | [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [So Many Things I Like](https://open.spotify.com/album/7pYlSYojhlEn3k4P2XGyoW) | 2:59 | 2022-03-17 | 2022-07-29 |

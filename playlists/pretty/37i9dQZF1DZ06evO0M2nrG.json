@@ -1,12 +1,12 @@
 {
   "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66835,
+  "num_followers": 66839,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAABWYmhVTMWxxZfJ1Amuqnku",
+  "snapshot_id": "ZwhqgAAAAAARvqSFkfUUM3c/SGepH3HY",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
       "duration_ms": 167710,
       "name": "Bolerito",
       "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolerito (Remix)",
+        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "Bolerito - Remix",
+      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
     },
     {
       "added_at": null,

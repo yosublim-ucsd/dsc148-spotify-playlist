@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 147860,
       "name": "Aproveita - Ao Vivo",
       "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
@@ -10780,7 +10780,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -11720,7 +11720,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -14911,6 +14911,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+    },
+    {
+      "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -14926,7 +14948,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -18376,7 +18398,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -20764,7 +20786,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -28930,7 +28952,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -33266,7 +33288,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 177920,
       "name": "Sk\u00edna",
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
@@ -34972,7 +34994,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 160288,
       "name": "Steik og Sushi",
       "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"
@@ -36243,6 +36265,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "album": {
         "name": "Dag eftir dag",
         "url": "https://open.spotify.com/album/0VAyqJXNBOPgG3aEH00AcL"
       },
@@ -36536,7 +36580,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 186040,
       "name": "S\u00f3linni",
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
@@ -36554,7 +36598,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -37682,7 +37726,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -39402,6 +39446,28 @@
       "duration_ms": 165365,
       "name": "T\u00fdpan",
       "url": "https://open.spotify.com/track/5E1wbZJiMNBx79K4GPxAwT"
+    },
+    {
+      "album": {
+        "name": "T\u00fdpan sem \u00e9g f\u00fdla",
+        "url": "https://open.spotify.com/album/7CVJuhLZE9nqwscGn1yE3W"
+      },
+      "artists": [
+        {
+          "name": "SviMA",
+          "url": "https://open.spotify.com/artist/5k4oB6Nikwqv82xSqqIqPn"
+        },
+        {
+          "name": "Big Sexy",
+          "url": "https://open.spotify.com/artist/2GGVAIeVpUohvEAYOYAjGR"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158028,
+      "name": "T\u00fdpan sem \u00e9g f\u00fdla",
+      "url": "https://open.spotify.com/track/12uSbKclOi2n7MD6hCMTcg"
     },
     {
       "album": {
@@ -44434,7 +44500,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

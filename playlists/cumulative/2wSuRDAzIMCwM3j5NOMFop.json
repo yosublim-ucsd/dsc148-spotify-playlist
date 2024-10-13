@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213211,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd"
+    },
+    {
+      "album": {
         "name": "Mx. Sinister",
         "url": "https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC"
       },
@@ -392,6 +414,28 @@
       "duration_ms": 194227,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/5GszXOtSSTq55cuyQTMNQ2"
+    },
+    {
+      "album": {
+        "name": "One by One",
+        "url": "https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172731,
+      "name": "One by One",
+      "url": "https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB"
     },
     {
       "album": {

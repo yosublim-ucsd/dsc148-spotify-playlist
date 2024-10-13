@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 110484,
+  "num_followers": 110503,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Turuncu",
-        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
+        "name": "Bir Yaz Daha Bitiyor",
+        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
       },
       "artists": [
         {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+          "name": "G\u00fcndo\u011farken",
+          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Kumsalda",
-      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
+      "duration_ms": 179093,
+      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
+      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Bir Yaz Daha Bitiyor",
-        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+        "name": "Turuncu",
+        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
       },
       "artists": [
         {
-          "name": "G\u00fcndo\u011farken",
-          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
         }
       ],
-      "duration_ms": 179093,
-      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
-      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+      "duration_ms": 226400,
+      "name": "Kumsalda",
+      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Demos",
-        "url": "https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c"
-      },
-      "artists": [
-        {
-          "name": "Kaan Bo\u015fnak",
-          "url": "https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "G\u00f6rd\u00fcm G\u00fcn\u00fcm\u00fc",
-      "url": "https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 150000,
       "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
       "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Demos",
+        "url": "https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c"
+      },
+      "artists": [
+        {
+          "name": "Kaan Bo\u015fnak",
+          "url": "https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "G\u00f6rd\u00fcm G\u00fcn\u00fcm\u00fc",
+      "url": "https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Esirinim",
-      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Oyunbaz",
         "url": "https://open.spotify.com/album/5vj6vkFybfZR136v1Rcius"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198120,
       "name": "Oyunbaz",
       "url": "https://open.spotify.com/track/0ctDpklud2Y5eY4KOsCmTJ"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Esirinim",
+      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
     },
     {
       "added_at": "2024-07-08 08:26:10",

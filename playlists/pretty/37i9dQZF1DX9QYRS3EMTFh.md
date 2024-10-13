@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,913 likes - 39 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 39 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 14 | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 |
 | 15 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
 | 16 | [BADMIND](https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [MIKATUSS](https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb) | 2:16 |
-| 17 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \- Karata](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
+| 17 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \(Karata\)](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
 | 18 | [Real Badman](https://open.spotify.com/track/6K9E9IhuWhSio7ZvE8Tzdt) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [KALIKUSH](https://open.spotify.com/album/2s6O18pOFbYyDtfTsS52RI) | 2:30 |
 | 19 | [Pon Di Ting](https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Pon Di Ting](https://open.spotify.com/album/6dxDwrTZCIfNsGCKYCbA8y) | 2:20 |
 | 20 | [TIGALING](https://open.spotify.com/track/2DTMb1ILWRWkv5BLVPo95P) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [Tidem](https://open.spotify.com/artist/2E86rOTzsbqRPOD6ejctKt) | [TIGALING](https://open.spotify.com/album/5WvFSW1k8cMdlwuvD2GHRB) | 2:40 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 38 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 39 | [Show Me](https://open.spotify.com/track/0Un7faRDF3UYaLXTL6Whce) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Show Me](https://open.spotify.com/album/3NI0wO8r93MQrdYrvsvQe9) | 2:54 |
 
-Snapshot ID: `ZwhOYAAAAADNhraGS9H9SsrVF6wBLVgr`
+Snapshot ID: `ZwrCpAAAAABocDKfNm/+VdtBUQ/NZUGE`

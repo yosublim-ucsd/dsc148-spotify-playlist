@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Sabanis",
-  "num_followers": 31559,
+  "num_followers": 31579,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Kalokeri",
-        "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
-      },
-      "artists": [
-        {
-          "name": "Natasa Theodoridou",
-          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Kalokeri",
-      "url": "https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Paraponaki Mou",
         "url": "https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 190000,
       "name": "Paraponaki Mou",
       "url": "https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "O Hartis",
+        "url": "https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "O Hartis",
+      "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
     },
     {
       "added_at": "2024-10-10 21:00:00",

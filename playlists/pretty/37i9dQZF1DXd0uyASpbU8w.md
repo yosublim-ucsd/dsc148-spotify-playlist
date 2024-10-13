@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BsvUU0ifTeu\-8d7PNDKiPg">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,281 likes - 78 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,391 likes - 78 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 24 | [Hamba No Choppa \(feat\. Djy Biza\)](https://open.spotify.com/track/0Q3L5M1D7gthDXFTzxRyP7) | [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Hamba No Choppa \(feat\. Djy Biza\)](https://open.spotify.com/album/099oJmmYc7IwIavV0UNhw1) | 3:57 |
 | 25 | [SUPA \(feat\. Sly\)](https://open.spotify.com/track/2nzLPHuY9Xde1XBQ09JBNv) | [Marcus MC](https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI) | [SUPA \(feat\. Sly\)](https://open.spotify.com/album/4QrYVccN9tjFhSWwnCPLZl) | 6:14 |
 | 26 | [Melusi \(feat\. Stixx\)](https://open.spotify.com/track/6GXxyBxz2qlXikNVBixBxH) | [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2) | [Melusi \(feat\. Stixx\)](https://open.spotify.com/album/5L0edxSHVXDCf9BaOflvAz) | 7:49 |
-| 27 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 27 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 28 | [hell and back \- A COLORS SHOW](https://open.spotify.com/track/76CtYc71hQs22lbtjAh4dv) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [hell and back \- A COLORS SHOW](https://open.spotify.com/album/2wWbNo5qYb8DqxP2Vuc4g1) | 2:40 |
 | 29 | [Bayeke](https://open.spotify.com/track/1teFxh8Sw1YU0M6rvriTiG) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ) | [iAttention](https://open.spotify.com/album/2GtYUFBgSHclhTzrCZjHvy) | 3:56 |
 | 30 | [Ngisuke Kuwe \(feat\. Maglakz\)](https://open.spotify.com/track/5Bd9Lcef8e9NLI0l02LLdu) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Maglakz](https://open.spotify.com/artist/51ODcsiQg94nYs6Oskv4Ap) | [Ngisuke Kuwe \(feat\. Maglakz\)](https://open.spotify.com/album/0PIsgG1sNDK8mOuS7UeZ2z) | 3:39 |

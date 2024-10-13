@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 40 | [Откачила](https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss) | 2:55 |
 | 41 | [Dai Mi Vsichko](https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg) | [Andrea](https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw) | [Men Si Tarsil](https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf) | 3:21 |
 | 42 | [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 |
-| 43 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
+| 43 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/4AobWNA72kqOymcHxjhQb7) | 2:41 |
 | 44 | [Лош или добър](https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Лош или добър](https://open.spotify.com/album/3Pg1TLcfvKqzm2uucnozzB) | 3:12 |
 | 45 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 46 | [DRUGITE OTKACHALKI](https://open.spotify.com/track/2SN3kNjOORlCqMLev26bxh) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u), [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2), [Dim4ou](https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV), [Atanas Kolev](https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu) | [DRUGITE OTKACHALKI](https://open.spotify.com/album/0bJbaYWFK6M9bAos4bCrZW) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Хапи ме](https://open.spotify.com/track/7FdivsVRlBUagQR4SSQW9i) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Хапи ме](https://open.spotify.com/album/7iw4JcTohH6Ec4pMoLj6JX) | 3:26 |
 | 50 | [Грешници](https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Грешници](https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777) | 4:08 |
 
-Snapshot ID: `LpySSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lp3mIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

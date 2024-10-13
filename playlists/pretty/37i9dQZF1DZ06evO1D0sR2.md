@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,735 likes - 50 songs - 5 hr 54 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 |
 | 50 | [The Great I Am \- Live](https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittney Wright](https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt), [Trina Hairston](https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 10:43 |
 
-Snapshot ID: `ZwcZAAAAAACj67FtXQ5OahV/JjkogkTD`
+Snapshot ID: `ZwhqgAAAAADpElFhH55B1AjCdVcJKObl`

@@ -9238,7 +9238,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 169480,
       "name": "forever.",
       "url": "https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y"
@@ -10228,7 +10228,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 172137,
       "name": "GOT ME LIKE",
       "url": "https://open.spotify.com/track/193MpbI1EiA4MEj6aDwErC"
@@ -12771,6 +12771,24 @@
     },
     {
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "In The Shadow",
+      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
+    },
+    {
+      "album": {
         "name": "In the Zone",
         "url": "https://open.spotify.com/album/6XOi0ma4K1wQDIBRguxtCb"
       },
@@ -14582,7 +14600,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 159012,
       "name": "Ladies Room",
       "url": "https://open.spotify.com/track/26mmRnl76vFrsrao47dcHA"
@@ -19626,7 +19644,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 162735,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs"
@@ -19864,6 +19882,24 @@
       "duration_ms": 271000,
       "name": "Panahon",
       "url": "https://open.spotify.com/track/0NRIRgFZyTWboMYsrM6lNQ"
+    },
+    {
+      "album": {
+        "name": "Panic!",
+        "url": "https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Panic!",
+      "url": "https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA"
     },
     {
       "album": {
@@ -20410,6 +20446,24 @@
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "album": {
+        "name": "The Freak Show",
+        "url": "https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183437,
+      "name": "Piccolo",
+      "url": "https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z"
     },
     {
       "album": {
@@ -21100,6 +21154,24 @@
       "duration_ms": 169885,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186591,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
     },
     {
       "album": {
@@ -23083,6 +23155,24 @@
     },
     {
       "album": {
+        "name": "Sexy Goodbye",
+        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Sexy Goodbye",
+      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
+    },
+    {
+      "album": {
         "name": "Shakerando",
         "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
@@ -23156,7 +23246,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 158170,
       "name": "Shiny New Thing",
       "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
@@ -24350,7 +24440,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 178015,
       "name": "Strings Attached",
       "url": "https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX"
@@ -28128,6 +28218,24 @@
       "duration_ms": 132378,
       "name": "Winter Summer",
       "url": "https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF"
+    },
+    {
+      "album": {
+        "name": "wir haben's \u00fcberlebt",
+        "url": "https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140999,
+      "name": "wir haben's \u00fcberlebt",
+      "url": "https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt"
     },
     {
       "album": {

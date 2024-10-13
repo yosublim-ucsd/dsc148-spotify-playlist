@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:2iOv2a8p88ODjRF2Xoeuwk">T99zy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,283 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,325 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 18 | [For Me](https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 1:44 |
 | 19 | [All I Need](https://open.spotify.com/track/3ddV2HKhpE4vFYi1LpbodK) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [All I Need](https://open.spotify.com/album/52LBncDA9co6dFQdZzduBJ) | 2:43 |
 | 20 | [Sumbodie](https://open.spotify.com/track/4J0t3Cbz7D3uEkSVlqqe3Q) | [Grey Gotti](https://open.spotify.com/artist/66bg2cITpGPlQctWouXVf4) | [Sumbodie](https://open.spotify.com/album/2yzjgXw8tlKfot5jpTFwnr) | 3:18 |
-| 21 | [U my drug](https://open.spotify.com/track/5f4NZL4xurwVhGjafGVIic) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [U my drug](https://open.spotify.com/album/6joHWyT6DPqgQ6aMAjalEi) | 1:36 |
+| 21 | [U My Drug](https://open.spotify.com/track/5f4NZL4xurwVhGjafGVIic) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [U My Drug](https://open.spotify.com/album/6joHWyT6DPqgQ6aMAjalEi) | 1:36 |
 | 22 | [Groovy Steppin Sh\*t](https://open.spotify.com/track/0qeGSghWKkx1Z1Ocy2wbJy) | [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [Trini Viv](https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712) | [Groovy Steppin Sh\*t](https://open.spotify.com/album/37DWhl0hwmO57IHWpdS0zB) | 1:35 |
 | 23 | [The Viper](https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP) | 2:30 |
 | 24 | [all good](https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [all good](https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x) | 2:41 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 34 | [None of My Business Beloved](https://open.spotify.com/track/3O1RSNl5EAowVuhrn1VQt3) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [None of My Business Beloved](https://open.spotify.com/album/3WedJvhKZazYvF7m99g0XJ) | 3:32 |
 | 35 | [Hell & Back](https://open.spotify.com/track/5MeYjJQzooFInileBI8sep) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Hell & Back](https://open.spotify.com/album/7botdG14MtmZah2wMDh1Rf) | 2:45 |
 | 36 | [RESPECT THAT](https://open.spotify.com/track/145SQIWGlRlVrOnb7BAFAd) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [VINTAGE NOSTALGIA](https://open.spotify.com/album/1LwWInIFU6bzb3VJtFNlmb) | 2:52 |
-| 37 | [Click \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Click \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 |
+| 37 | [cLick \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [cLick \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 |
 | 38 | [chicken & waffles](https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v), [HARDR](https://open.spotify.com/artist/1rwrhFgnwwIuMFUHwAnN4k) | [chicken & waffles](https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R) | 2:36 |
 | 39 | [GOD GOT ME](https://open.spotify.com/track/2OUkIRXCD0rfvBkm0Lno7K) | [DDK](https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq) | [GOD GOT ME](https://open.spotify.com/album/3iCnlO2DL4Rk67NRrpZvwO) | 2:00 |
 | 40 | [THE WAIT](https://open.spotify.com/track/27NEAQXGMixupJd69PbtCB) | [Cilo](https://open.spotify.com/artist/7sMhc8nqY80C2cfkbDuPxA) | [THE WAIT](https://open.spotify.com/album/3M5ATQZKahC4lrF1Gcj90d) | 2:34 |

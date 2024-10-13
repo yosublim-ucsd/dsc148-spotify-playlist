@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "Bolerito (Remix)",
+        "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165542,
+      "name": "Bolerito - Remix",
+      "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
+    },
+    {
+      "album": {
         "name": "Busc\u00e1ndote",
         "url": "https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz"
       },

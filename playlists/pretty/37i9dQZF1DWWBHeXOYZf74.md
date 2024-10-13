@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,497 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,494 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 1 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 2 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 |
 | 3 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 |
 | 4 | [One Beer \- Madlib Remix](https://open.spotify.com/track/6S8nYezC53hSZTiM6QvSxj) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [One Beer \(Madlib Remix\)](https://open.spotify.com/album/7jE8oOSKDIYZT8Fz84i5d1) | 2:55 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 31 | [do you have a soul?](https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:03 |
 | 32 | [Still Summer](https://open.spotify.com/track/27D9YN3uHPD3PTXvzNtbto) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 3:25 |
 | 33 | [Rosy](https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Rosy](https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs) | 3:16 |
-| 34 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
+| 34 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
 | 35 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 36 | [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 |
 | 37 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 |

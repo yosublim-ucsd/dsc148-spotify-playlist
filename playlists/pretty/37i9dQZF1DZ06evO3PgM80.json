@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19654,
+  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19656,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAD3NsEvPZFcnANXSoQXoc3o",
+  "snapshot_id": "ZwhqgAAAAAAb6wo9F59Q4BHh0tLiCysy",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 235579,
       "name": "Sem Palavras",
       "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hambre Y Sed",
+        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Hambre Y Sed",
+      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Risen Savior (Sing My Soul) [Live]",
         "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 449054,
       "name": "Risen Savior (Sing My Soul) - Live",
       "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hambre Y Sed",
-        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361826,
-      "name": "Hambre Y Sed",
-      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
     },
     {
       "added_at": null,

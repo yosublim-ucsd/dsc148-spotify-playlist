@@ -2,7 +2,7 @@
 
 ### [This Is Whitney Houston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO476tMI)
 
-> This is Whitney Houston\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Whitney Houston\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 40 min
 

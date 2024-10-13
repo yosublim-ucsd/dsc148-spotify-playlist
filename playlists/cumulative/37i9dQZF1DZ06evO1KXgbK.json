@@ -367,6 +367,36 @@
     },
     {
       "album": {
+        "name": "Gonna Be You (feat. Callie Twisselman)",
+        "url": "https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Callie Twisselman",
+          "url": "https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184608,
+      "name": "Gonna Be You (feat. Callie Twisselman)",
+      "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
+    },
+    {
+      "album": {
         "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
         "url": "https://open.spotify.com/album/4yq6mXEcVYU7wphdgqgiys"
       },

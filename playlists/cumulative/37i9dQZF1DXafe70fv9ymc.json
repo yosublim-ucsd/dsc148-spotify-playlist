@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 216000,
       "name": "Addict",
       "url": "https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw"
@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Stone Cold Heart",
+        "url": "https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269161,
+      "name": "Love Me Slowly",
+      "url": "https://open.spotify.com/track/6TyZaUTAQqncq94k5g461a"
+    },
+    {
+      "album": {
         "name": "Angel On The Run",
         "url": "https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR"
       },
@@ -1148,10 +1166,36 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 93670,
       "name": "NYMPHOMANIA",
       "url": "https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu"
+    },
+    {
+      "album": {
+        "name": "ON MY BODY",
+        "url": "https://open.spotify.com/album/3uDjTASTUv7h3RxhtiGKwQ"
+      },
+      "artists": [
+        {
+          "name": "theSylk",
+          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
+        },
+        {
+          "name": "Jake Cromwell",
+          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+        },
+        {
+          "name": "Vylet Stone",
+          "url": "https://open.spotify.com/artist/2w8ShurPxmdxPuxSyG4eJT"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "ON MY BODY",
+      "url": "https://open.spotify.com/track/1BJaSV1JfaaUf6SX2VwiaW"
     },
     {
       "album": {
@@ -1736,6 +1780,24 @@
       "duration_ms": 163422,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7"
+    },
+    {
+      "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
     },
     {
       "album": {

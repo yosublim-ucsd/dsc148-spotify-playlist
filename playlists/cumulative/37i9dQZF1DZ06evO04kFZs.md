@@ -2,7 +2,7 @@
 
 ### [This Is Pop Smoke](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04kFZs)
 
-> This is Pop Smoke\. The essential tracks, all in one playlist.
+> This is Pop Smoke\. Todos os maiores hits em uma só playlist.
 
 74 songs - 3 hr 30 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e0\u05d5\u05e2\u05d4 \u05e7\u05d9\u05e8\u05dc",
-  "num_followers": 25588,
+  "num_followers": 25585,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 228234,
       "name": "\u05e2\u05d6\u05d1\u05ea \u05ea'\u05d1\u05d9\u05ea",
       "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Part II",
-        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Unicorn",
         "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
-        "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05dc\u05d3.",
-          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
-      "url": "https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
         "url": "https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 173913,
       "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
       "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+        "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05dc\u05d3.",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+      "url": "https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05d2\u05dd \u05d6\u05d4 \u05d9\u05e2\u05d1\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        },
-        {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
-        }
-      ],
-      "duration_ms": 355483,
-      "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2",
-      "url": "https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 172800,
       "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05d2\u05dd \u05d6\u05d4 \u05d9\u05e2\u05d1\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        },
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+        }
+      ],
+      "duration_ms": 355483,
+      "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2",
+      "url": "https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1667,38 +1667,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 232284,
-      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "\u05d0\u05e0\u05d9",
         "url": "https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn"
       },
@@ -1711,6 +1679,22 @@
       "duration_ms": 165000,
       "name": "\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 174000,
       "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 232284,
+      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
     }
   ],
   "unique_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",

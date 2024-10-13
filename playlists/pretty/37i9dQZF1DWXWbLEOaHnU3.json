@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 554549,
+  "num_followers": 554624,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Formula",
+        "url": "https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ"
+      },
+      "artists": [
+        {
+          "name": "Dzp",
+          "url": "https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D"
+        },
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        }
+      ],
+      "duration_ms": 271448,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Drivin Me Insane",
         "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 195724,
       "name": "Drivin Me Insane",
       "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Formula",
-        "url": "https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ"
-      },
-      "artists": [
-        {
-          "name": "Dzp",
-          "url": "https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D"
-        },
-        {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
-        }
-      ],
-      "duration_ms": 271448,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo"
-      },
-      "artists": [
-        {
-          "name": "The Brick Slayer",
-          "url": "https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb"
-        }
-      ],
-      "duration_ms": 272350,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo"
+      },
+      "artists": [
+        {
+          "name": "The Brick Slayer",
+          "url": "https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb"
+        }
+      ],
+      "duration_ms": 272350,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Negev",
         "url": "https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 480000,
       "name": "Negev",
       "url": "https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Psychosis",
-        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp"
       },
       "artists": [
         {
-          "name": "Kore-G",
-          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        },
+        {
+          "name": "Yahel",
+          "url": "https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF"
         }
       ],
-      "duration_ms": 206653,
-      "name": "Psychosis",
-      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
+      "duration_ms": 286916,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/70av8bgExOvrGBWflEToQw"
     }
   ],
   "unique_name": "Psytrance Supernova",

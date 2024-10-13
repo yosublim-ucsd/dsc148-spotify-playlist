@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Ghali in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,524 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,549 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 54 | [PILLS](https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G) | 2:37 |
 | 55 | [fuori posto](https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [fuori posto](https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4) | 2:51 |
 | 56 | [Acqua e sapone \(feat\. Ugo Crepa\)](https://open.spotify.com/track/7ACKNN1Mt9nVS8Gc8lE7eY) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS) | [Acqua e sapone \(feat\. Ugo Crepa\)](https://open.spotify.com/album/180CgBzDEcRX7qrK4SNadh) | 3:15 |
-| 57 | [Lucifero](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 |
+| 57 | [Lucifero \(feat\. Mecna\)](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 |
 | 58 | [Circumnavigating Georgia](https://open.spotify.com/track/6AI0wNKjKkFxk8bxlULhOK) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Circumnavigating Georgia](https://open.spotify.com/album/0NifH8uAv89mMo97MnOenG) | 3:15 |
 | 59 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 |
 | 60 | [Halloweenie V: The Moss King](https://open.spotify.com/track/0MWkCSW0W7rGLSvDR2xExC) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie V: The Moss King](https://open.spotify.com/album/76o6AaSFr2owQN4AEit99z) | 2:07 |

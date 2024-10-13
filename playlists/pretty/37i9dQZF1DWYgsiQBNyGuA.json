@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 87597,
+  "num_followers": 87668,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Whatcha Done Now (feat. Kenyon Dixon)",
@@ -863,22 +879,6 @@
       "duration_ms": 228684,
       "name": "Whatcha Done Now (feat. Kenyon Dixon)",
       "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2024-03-08 13:51:25",

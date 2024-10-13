@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,729 likes - 122 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,749 likes - 122 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 36 | [KrOWN \- Gaeko of Dynamic Duo](https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:03 |
 | 37 | [Unspoken](https://open.spotify.com/track/2SZV68dIWppxeD6y7ndQXk) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Unspoken](https://open.spotify.com/album/6VYC3AJkBYltP9ajuEHQgJ) | 2:55 |
 | 38 | [ATE THAT](https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [ATE THAT EP](https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK) | 3:00 |
-| 39 | [SAD GAS CYPHER VOL.1](https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG) | [SAD GAS CYPHER VOL.1](https://open.spotify.com/album/25KTqf6LsGvb5Zfe8SuzRh) | 7:54 |
+| 39 | [SAD GAS CYPHER VOL.1 \(feat\. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint\)](https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [ONCHA](https://open.spotify.com/artist/1bFopqNLKXpBvGmcG2sx7x), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [SAD GAS CYPHER VOL.1 \(feat\. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint\)](https://open.spotify.com/album/25KTqf6LsGvb5Zfe8SuzRh) | 7:54 |
 | 40 | [ASURABALBALTA](https://open.spotify.com/track/4wGL9pzTvtM2TwmkYQHL8I) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Organic2](https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn) | 2:37 |
 | 41 | [All In](https://open.spotify.com/track/5wpsmkGbCNwplqpdSDIzA9) | [DRVN](https://open.spotify.com/artist/29Q57w8o8m7rIstMs4GyR4), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi), [BanggerDope](https://open.spotify.com/artist/4LPB4af7uKBu5RrRaZLb15) | [All In](https://open.spotify.com/album/11ERzuD2oi4qOKLswvwLgy) | 3:03 |
 | 42 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 |

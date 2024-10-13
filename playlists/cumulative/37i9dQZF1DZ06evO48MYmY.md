@@ -2,7 +2,7 @@
 
 ### [This Is Simon & Garfunkel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48MYmY)
 
-> This is Simon & Garfunkel\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 38 min
 

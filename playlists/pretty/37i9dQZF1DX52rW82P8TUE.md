@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,537 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,587 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 36 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X), [Graça Kids](https://open.spotify.com/artist/5LatU6JZmPBtMIBRsMoCy7) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
 | 37 | [As Árvores Balançam](https://open.spotify.com/track/5MWJlb6uzk7fDNx8GyGMsx) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Para Levi: Parte 1](https://open.spotify.com/album/0lKNqBTPlvZeq54DWnjTxX) | 1:49 |
 | 38 | [Fico Feliz](https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Rafael de Oliveira](https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80), [Lara Maria](https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2), [Alyce Maria](https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj), [Ana Lunna](https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8) | [Gba Stage Kids](https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW) | 4:40 |
-| 39 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
-| 40 | [Rei Davi](https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP) | 3:46 |
-| 41 | [Filho Amado](https://open.spotify.com/track/3Ug5PKPPaga1Gb01gzAEuE) | [Videira Kids](https://open.spotify.com/artist/0Hv20C1rgzAFDUgWpMKR71) | [Filho Amado](https://open.spotify.com/album/4rDSXn5PW1KF7fZMctr357) | 2:33 |
+| 39 | [Filho Amado](https://open.spotify.com/track/3Ug5PKPPaga1Gb01gzAEuE) | [Videira Kids](https://open.spotify.com/artist/0Hv20C1rgzAFDUgWpMKR71) | [Filho Amado](https://open.spotify.com/album/4rDSXn5PW1KF7fZMctr357) | 2:33 |
+| 40 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
+| 41 | [Rei Davi](https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP) | 3:46 |
 | 42 | [Caminho No Deserto \- Versão Kids](https://open.spotify.com/track/6DvLLo7zE7pPaXKbKxn3qf) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho No Deserto \(Versão Kids\)](https://open.spotify.com/album/4fLbLFLA4S6DEFI3ez7eSw) | 5:33 |
 | 43 | [Pertinho de Jesus](https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Tia Emily](https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t) | [Pertinho de Jesus](https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO) | 2:09 |
 | 44 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |

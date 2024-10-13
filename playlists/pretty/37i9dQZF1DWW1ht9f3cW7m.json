@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29312,
+  "num_followers": 29317,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "In My Bed",
-        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 162405,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Spells",
         "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194910,
       "name": "Spells",
       "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "In My Bed",
+        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 162405,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Fantasneeze (feat. Matilda Mann)",
+        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Fantasneeze (feat. Matilda Mann)",
+      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "I Feel You",
         "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Fantasneeze (feat. Matilda Mann)",
-        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Fantasneeze (feat. Matilda Mann)",
-      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Stay For Good",
-        "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
-      },
-      "artists": [
-        {
-          "name": "Siobh\u00e1n Winifred",
-          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Stay For Good",
-      "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 209543,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Stay For Good",
+        "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n Winifred",
+          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Stay For Good",
+      "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 201265,
       "name": "Million Dollar Baby",
       "url": "https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1123,22 +1139,6 @@
       "duration_ms": 186131,
       "name": "How I Wish I Was Cool",
       "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "sprinkles",
-        "url": "https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs"
-      },
-      "artists": [
-        {
-          "name": "TENDER",
-          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "sprinkles",
-      "url": "https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "HOKAGE - THE MIXTAPE",
         "url": "https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 147146,
       "name": "Found The 1",
       "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "sprinkles",
+        "url": "https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "duration_ms": 273488,
+      "name": "sprinkles",
+      "url": "https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7"
     },
     {
       "added_at": "2024-09-20 11:39:59",

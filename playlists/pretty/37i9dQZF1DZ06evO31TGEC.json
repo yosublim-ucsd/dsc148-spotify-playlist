@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 47937,
+  "num_followers": 47946,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAC6aST8env/iBD4xPNIPG2V",
+  "snapshot_id": "ZwhqgAAAAACHpeqw8uMRoGZ130yXK46m",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Mis Rancheras Consentidas",
+        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 195600,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
     },
     {
       "added_at": null,
@@ -392,15 +392,15 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 171786,
-      "name": "Tengo Celos",
-      "url": "https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5"
+      "duration_ms": 203706,
+      "name": "Ap\u00e1rtame Esta Noche",
+      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mis Rancheras Consentidas",
-        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 195600,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Ap\u00e1rtame Esta Noche",
-      "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
+      "duration_ms": 171786,
+      "name": "Tengo Celos",
+      "url": "https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corazon de Nino",
         "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 160213,
       "name": "Regalo del Cielo",
       "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi M\u00e9xico Para El Mundo",
+        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Porque Eres Mi Reina (Mariachi)",
+      "url": "https://open.spotify.com/track/2xaQrRwSJj77U7D5Kl7E2g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi M\u00e9xico Para El Mundo",
-        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Porque Eres Mi Reina (Mariachi)",
-      "url": "https://open.spotify.com/track/2xaQrRwSJj77U7D5Kl7E2g"
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 180000,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/5MFfc5NY6gN8dBhGJXTrlX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,

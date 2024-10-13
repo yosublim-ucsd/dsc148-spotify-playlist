@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-284 songs - 19 hr 15 min
+285 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 | 2024-03-11 |  |
 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 | 2024-04-18 | 2024-08-13 |
 | [EVER](https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [QUANTA 1:11](https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr) | 6:36 | 2024-01-03 | 2024-04-19 |
-| [Everything is unreal \- Valentina Magaletti EDIT](https://open.spotify.com/track/7ltVPWL8GUXUbKJiBYZgPq) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 4:08 | 2024-09-20 |  |
+| [Everything is unreal \- Valentina Magaletti EDIT](https://open.spotify.com/track/7ltVPWL8GUXUbKJiBYZgPq) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 4:08 | 2024-09-20 |  |
 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 | 2020-10-20 | 2024-01-27 |
 | [Fade Into You](https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Fade Into You \[2020\]](https://open.spotify.com/album/3237UyTC0HDTYKs24IbkM4) | 2:44 | 2024-08-14 |  |
 | [Fear is your Only God](https://open.spotify.com/track/0uHZlstP3u3R2lA3WBjXqr) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/33yHeuUDSnnCpuc7Af2eR1) | 4:26 | 2021-06-23 | 2022-07-29 |
@@ -174,9 +174,10 @@
 | [Obscure Paliteo](https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [Benti](https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l) | 3:59 | 2024-04-29 | 2024-08-27 |
 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 | 2024-09-13 |  |
 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 | 2023-08-03 |  |
+| [Omini e armali \- Ouverture](https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Iddu \- Sicilian Letters \(Original Soundtrack\)](https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f) | 7:10 | 2024-10-09 |  |
 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 | 2023-01-03 |  |
 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 | 2023-02-15 | 2023-04-01 |
-| [Open Your Heart](https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB) | [Shackleton](https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3), [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [Jinxed by Being](https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD) | 9:13 | 2024-06-28 |  |
+| [Open Your Heart](https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB) | [Shackleton](https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3), [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [Jinxed by Being](https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD) | 9:13 | 2024-06-28 | 2024-10-13 |
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 | 2023-02-25 |
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 | 2024-04-19 |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 | 2023-10-11 |

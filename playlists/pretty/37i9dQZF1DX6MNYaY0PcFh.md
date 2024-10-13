@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,594 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,613 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 54 | [Want Me](https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI), [Sophia Violet](https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV) | [Want Me](https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ) | 2:41 |
 | 55 | [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 |
 | 56 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
-| 57 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
-| 58 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
-| 59 | [PASSION \- VIP](https://open.spotify.com/track/72sGTK4uLQvW7n73nG2Kw6) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Guy Mac](https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk) | [PASSION \- VIP](https://open.spotify.com/album/3W74zsPQTF9P6hI6i67mvq) | 2:32 |
+| 57 | [PASSION \- VIP](https://open.spotify.com/track/72sGTK4uLQvW7n73nG2Kw6) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Guy Mac](https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk) | [PASSION \- VIP](https://open.spotify.com/album/3W74zsPQTF9P6hI6i67mvq) | 2:32 |
+| 58 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
+| 59 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
 | 60 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
 
 Snapshot ID: `ZvXncAAAAADnE6bTuO/tPzAtHgXLRJbw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: The Motans
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,161 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,182 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 7 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 8 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
 | 9 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 |
-| 10 | [A venit poliția \- From "Canditatul Perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Canditatul Perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
+| 10 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
 | 11 | [E Româncă](https://open.spotify.com/track/3NQB3bz9WQS1uItTsheAxL) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [E Româncă](https://open.spotify.com/album/5zoPt9fepkgmTZfPspLMta) | 3:02 |
 | 12 | [Dis\-Moi](https://open.spotify.com/track/32s8ACQKnQVci7c5hpIv5R) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy) | [Dis\-Moi](https://open.spotify.com/album/1QFLN6x5nSvsLHoTLvGVsh) | 2:17 |
 | 13 | [Anii mei](https://open.spotify.com/track/50nayboEdFGs2Ql0qxFLD9) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Anii mei](https://open.spotify.com/album/42ER6DwZiXzS6aalAoXxaR) | 2:29 |

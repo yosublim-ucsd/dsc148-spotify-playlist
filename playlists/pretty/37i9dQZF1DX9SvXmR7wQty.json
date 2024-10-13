@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 42189,
+  "num_followers": 42205,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tentation (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+        "name": "Si seulement...",
+        "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
       },
       "artists": [
         {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
         }
       ],
-      "duration_ms": 175787,
-      "name": "Tentation (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
+      "duration_ms": 177000,
+      "name": "Si seulement...",
+      "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -295,18 +291,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Si seulement...",
-        "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
       },
       "artists": [
         {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Si seulement...",
-      "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -435,6 +435,42 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "JETSKI",
+        "url": "https://open.spotify.com/album/4zV4hdPOjL53zYfKZUemBq"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 177059,
+      "name": "JETSKI",
+      "url": "https://open.spotify.com/track/2aEUqR24pJuFT0XCdlCxnx"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -495,38 +531,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "JETSKI",
-        "url": "https://open.spotify.com/album/4zV4hdPOjL53zYfKZUemBq"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 177059,
-      "name": "JETSKI",
-      "url": "https://open.spotify.com/track/2aEUqR24pJuFT0XCdlCxnx"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "SAN GOKU",
-      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "NANANANANA",
         "url": "https://open.spotify.com/album/4tiOdo4AYuOKzS76dUnVJ5"
       },
@@ -543,22 +547,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Guardia",
-        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
       },
       "artists": [
         {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Guardia",
-      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+      "duration_ms": 172346,
+      "name": "SAN GOKU",
+      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Cr\u00e8vecoeur (EP.I)",
-        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "\u00c0 la folie",
-      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Chacun son chacun",
         "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Cr\u00e8vecoeur (EP.I)",
+        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "\u00c0 la folie",
+      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Ceci n'est pas une chanson triste",
         "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 230320,
       "name": "Ceci n'est pas une chanson triste",
       "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Le choix",
-      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 172080,
       "name": "On s'\u00e9crira",
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -911,34 +927,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Je t'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+        "name": "333",
+        "url": "https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 216159,
-      "name": "Je t'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Sugar daddy",
-        "url": "https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r"
-      },
-      "artists": [
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+        },
         {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 166774,
-      "name": "Sugar daddy",
-      "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
+      "duration_ms": 227920,
+      "name": "Petit c\u0153ur",
+      "url": "https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

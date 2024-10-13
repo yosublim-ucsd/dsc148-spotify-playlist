@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,784 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,836 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Casa](https://open.spotify.com/track/5MtBO8sJ42NiAQHP0gIsKK) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Est...](https://open.spotify.com/album/71vqUUjWo99McniK992hzn) | 3:21 |
 | 2 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
-| 3 | [Sossego](https://open.spotify.com/track/5hEclBU7VBMUFKiRJ9HO4u) | [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Sossego](https://open.spotify.com/album/1K1dsKIKJeQ28qn9TDMkM3) | 3:01 |
+| 3 | [Sossego](https://open.spotify.com/track/5hEclBU7VBMUFKiRJ9HO4u) | [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Sossego](https://open.spotify.com/album/1K1dsKIKJeQ28qn9TDMkM3) | 3:01 |
 | 4 | [A Conta Não Fecha](https://open.spotify.com/track/7poOusVBigALS3jOfE4cG2) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Miliano](https://open.spotify.com/artist/2Ck6D0bMK3wkXWAQo8IyaJ) | [A Conta Não Fecha](https://open.spotify.com/album/3wdr0v6XuL1XaMcfTZfmPp) | 3:58 |
 | 5 | [Projeção](https://open.spotify.com/track/2KXOKd9eqzyd9AVptPxkDm) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:03 |
 | 6 | [Besteiras](https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 3:04 |

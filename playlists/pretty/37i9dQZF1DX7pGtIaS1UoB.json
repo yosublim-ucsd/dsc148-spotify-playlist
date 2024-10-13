@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 95853,
+  "num_followers": 95872,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "\u8ab0\u90fd\u77e5\u9053\u6211\u559c\u6b61\u4f60",
+        "name": "\u8c01\u90fd\u77e5\u9053\u6211\u559c\u6b22\u4f60",
         "url": "https://open.spotify.com/album/0nRaBK3Pn9MvBdirO5h5jo"
       },
       "artists": [
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
-      },
-      "artists": [
-        {
-          "name": "Richie Jen",
-          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
-      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
-    },
-    {
-      "added_at": "2024-10-10 16:00:00",
-      "album": {
         "name": "\u5fc3\u52a8\u51b3\u5b9a",
         "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN"
+        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
       },
       "artists": [
         {
-          "name": "Bomb\u6bd4\u5c14",
-          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
+          "name": "Richie Jen",
+          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
         }
       ],
-      "duration_ms": 195813,
-      "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
-      "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
+      "duration_ms": 189940,
+      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
+      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
     },
     {
       "added_at": "2024-10-10 16:00:00",
@@ -599,6 +583,22 @@
       "duration_ms": 260480,
       "name": "\u966a\u6211\u770b\u65e5\u51fa",
       "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN"
+      },
+      "artists": [
+        {
+          "name": "Bomb\u6bd4\u5c14",
+          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
     },
     {
       "added_at": "2024-10-10 16:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "\u5de6\u8fb9",
-        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5305",
-          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "\u5de6\u8fb9",
-      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
-    },
-    {
-      "added_at": "2024-10-10 16:00:00",
-      "album": {
         "name": "\u559c\u6b61\u4f60\u7684\u6211",
         "url": "https://open.spotify.com/album/1jyNQxZtcivCMkyM9a51B3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 204000,
       "name": "\u559c\u6b61\u4f60\u7684\u6211",
       "url": "https://open.spotify.com/track/41P0c5wju22G8wSPVTMv1I"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     },
     {
       "added_at": "2024-10-10 16:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
+        "name": "\u6b6a\u7406",
+        "url": "https://open.spotify.com/album/75dtt3qftCBT0f87pgPqRb"
+      },
+      "artists": [
+        {
+          "name": "\u9127\u5178",
+          "url": "https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY"
+        },
+        {
+          "name": "\u5f35\u9ece",
+          "url": "https://open.spotify.com/artist/3dSg4h7ulGhvcsddGd7SnY"
+        }
+      ],
+      "duration_ms": 181575,
+      "name": "\u6b6a\u7406",
+      "url": "https://open.spotify.com/track/4eiWnMSWU3X0hIqh5FZbmH"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
         "name": "\u54c8\u5c3c",
         "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
       },
@@ -1167,26 +1187,6 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "\u6b6a\u7406",
-        "url": "https://open.spotify.com/album/75dtt3qftCBT0f87pgPqRb"
-      },
-      "artists": [
-        {
-          "name": "\u9127\u5178",
-          "url": "https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY"
-        },
-        {
-          "name": "\u5f35\u9ece",
-          "url": "https://open.spotify.com/artist/3dSg4h7ulGhvcsddGd7SnY"
-        }
-      ],
-      "duration_ms": 181575,
-      "name": "\u6b6a\u7406",
-      "url": "https://open.spotify.com/track/4eiWnMSWU3X0hIqh5FZbmH"
-    },
-    {
-      "added_at": "2024-10-10 16:00:00",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4eba\u751f\u6307\u5357",
         "url": "https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK"
       },
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-10-10 16:00:00",
       "album": {
-        "name": "\u66fc\u714e\u7cd5",
-        "url": "https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw"
-      },
-      "artists": [
-        {
-          "name": "Jestinna Kuan",
-          "url": "https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2"
-        },
-        {
-          "name": "Danny Lee",
-          "url": "https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6"
-        }
-      ],
-      "duration_ms": 199001,
-      "name": "\u66fc\u714e\u7cd5",
-      "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"
-    },
-    {
-      "added_at": "2024-10-10 16:00:00",
-      "album": {
         "name": "\u4f60\u597d\u55ce?",
         "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 226317,
       "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
       "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "\u66fc\u714e\u7cd5",
+        "url": "https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw"
+      },
+      "artists": [
+        {
+          "name": "Jestinna Kuan",
+          "url": "https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2"
+        },
+        {
+          "name": "Danny Lee",
+          "url": "https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6"
+        }
+      ],
+      "duration_ms": 199001,
+      "name": "\u66fc\u714e\u7cd5",
+      "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"
     },
     {
       "added_at": "2024-10-10 16:00:00",

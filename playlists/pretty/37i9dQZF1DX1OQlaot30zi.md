@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Ghali, CoCo, Il Ghost, Marte e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,412 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,435 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 52 | [Patto con il diavolo](https://open.spotify.com/track/2J7N2KaunlBYVrrdEGjWPc) | [FOUR](https://open.spotify.com/artist/34eBNGjJhaGqbmiv1UGBBR) | [Patto con il diavolo](https://open.spotify.com/album/4wfytWS8J43DOjWSfbwhnQ) | 2:52 |
 | 53 | [NUOVO BERLUSCA](https://open.spotify.com/track/408wLkE6sScXhLTk0ZQeYK) | [Meneghino Boy](https://open.spotify.com/artist/0OZRS2cvfD3ZQg92mRRD7D) | [NUOVO BERLUSCA](https://open.spotify.com/album/7h8JgRUS5ZMpBXFpgi0xFW) | 1:06 |
 | 54 | [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/album/6fKwRnm0PQ64ynXzqCVdHC) | 3:23 |
-| 55 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
+| 55 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
 | 56 | [GUERRILLA \(feat\. Escomar\)](https://open.spotify.com/track/6DqdlOVn5NIK783ElMJ83Y) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 3:08 |
 | 57 | [DI PIÙ](https://open.spotify.com/track/3uoE38CqPCtjZU8uOpIvQ4) | [Medho Laine](https://open.spotify.com/artist/1FPlZpA48XK8WvFJ3vHvrm), [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY) | [DI PIÙ](https://open.spotify.com/album/5jLoECWhjBze4GiT0eqQxp) | 2:40 |
 | 58 | [ORIGAMI \(feat\. Not Good\)](https://open.spotify.com/track/5dywHCP8JFEFUq73A6G4Ij) | [Blessed](https://open.spotify.com/artist/6WMR02sCaYnhKgiTlzTB3A), [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [ORIGAMI \(feat\. Not Good\)](https://open.spotify.com/album/3UXqkTpRZVXIX4pb8lGDOi) | 2:24 |

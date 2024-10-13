@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "GINGO IS ACTIVE (EP)",
+        "url": "https://open.spotify.com/album/4tIN9iUJ0ZEBEIGsiu8RC2"
+      },
+      "artists": [
+        {
+          "name": "GINGO",
+          "url": "https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197184,
+      "name": "Alowonle",
+      "url": "https://open.spotify.com/track/64Sth2Q4hbD0OPdHx00bPQ"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
       },
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
@@ -3983,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Cramps",
+        "url": "https://open.spotify.com/album/3Arybz9FRFUZ7DrqQYAGuN"
+      },
+      "artists": [
+        {
+          "name": "Lonair",
+          "url": "https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206647,
+      "name": "For My Head [Rain Of Pain]",
+      "url": "https://open.spotify.com/track/1xPcoA5L61X0bEkCoSwdqm"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
@@ -4622,7 +4658,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 165923,
       "name": "Halleluyah [Biza]",
       "url": "https://open.spotify.com/track/0oyObKOS1AZ0hELKrhPPoJ"
@@ -5820,6 +5856,32 @@
       "duration_ms": 205774,
       "name": "Journey",
       "url": "https://open.spotify.com/track/6wCcutlZ6e5ZqGRHT90gTH"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/7IlVxfWGiGG7lLdVId1Wsm"
+      },
+      "artists": [
+        {
+          "name": "Tobex",
+          "url": "https://open.spotify.com/artist/1teyH6r5pWA3PdJwW9cR2F"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Moporsh",
+          "url": "https://open.spotify.com/artist/2SQCu5LxrHDKEfKVwrauai"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/3AGYNMHHxOxV8Vh7l5h4zF"
     },
     {
       "album": {
@@ -11224,7 +11286,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 158000,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/0rw4vlWYus7qPpGr6PXvqE"
@@ -11278,7 +11340,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 171428,
       "name": "Under The Canopy",
       "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"

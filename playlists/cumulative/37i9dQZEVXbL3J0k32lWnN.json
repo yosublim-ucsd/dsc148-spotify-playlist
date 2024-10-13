@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 141910,
       "name": "Alt Ved Dig",
       "url": "https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166288,
+      "name": "CALI LOVIN'",
+      "url": "https://open.spotify.com/track/4xw3s0gcsBro2o4UFiIaiZ"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
       },
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 126589,
       "name": "Chanel Freestyle",
       "url": "https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3"
@@ -7982,7 +8000,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 235621,
       "name": "Du og jeg",
       "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
@@ -8202,10 +8220,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 201976,
       "name": "Elsker Dig S\u00e5 Meget",
       "url": "https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o"
+    },
+    {
+      "album": {
+        "name": "DINE VENNER",
+        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Elsker Dig S\u00e5 Meget",
+      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
     },
     {
       "album": {
@@ -8220,7 +8256,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -8350,7 +8386,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 165153,
       "name": "En Sammen",
       "url": "https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW"
@@ -8959,6 +8995,28 @@
     },
     {
       "album": {
+        "name": "EUROPA (feat. Gobs)",
+        "url": "https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156085,
+      "name": "EUROPA (feat. Gobs)",
+      "url": "https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR"
+    },
+    {
+      "album": {
         "name": "Europa Life",
         "url": "https://open.spotify.com/album/5OOVJUnv5O0Lv8BIkUiHDu"
       },
@@ -9488,6 +9546,24 @@
       "duration_ms": 221811,
       "name": "Feberdr\u00f8mmer Xx Dubai",
       "url": "https://open.spotify.com/track/7bgknc0sSmkIWc2am7QDEv"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141991,
+      "name": "FEEL ALIVE",
+      "url": "https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy"
     },
     {
       "album": {
@@ -11406,7 +11482,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 202571,
       "name": "Giv Mig Alt",
       "url": "https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d"
@@ -11940,7 +12016,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -12653,6 +12729,24 @@
     },
     {
       "album": {
+        "name": "Har H\u00f8rt Dig",
+        "url": "https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133950,
+      "name": "Har H\u00f8rt Dig",
+      "url": "https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v"
+    },
+    {
+      "album": {
         "name": "MGP 2022",
         "url": "https://open.spotify.com/album/4O3fsczCwCRwIQuRG8lf6q"
       },
@@ -12866,7 +12960,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 135250,
       "name": "Hej",
       "url": "https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44"
@@ -17530,7 +17624,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 207020,
       "name": "Knuser Hjerter",
       "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
@@ -18985,6 +19079,28 @@
     },
     {
       "album": {
+        "name": "DINE VENNER",
+        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175470,
+      "name": "Lige Nu (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/7u6jj9bsecmZhI6bnATgoc"
+    },
+    {
+      "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
       },
@@ -19851,6 +19967,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "L\u00d8B (INTERLUDE)",
+      "url": "https://open.spotify.com/track/4l7tNCa7ZssUY7C70VHLvH"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -20596,6 +20730,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "Min Bror",
+        "url": "https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174620,
+      "name": "Min Bror",
+      "url": "https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ"
     },
     {
       "album": {
@@ -22935,6 +23087,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204828,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/2Mlr25qiKnkjKHlCDNXCpz"
+    },
+    {
+      "album": {
         "name": "Infinity Action: Kult & B-sider",
         "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
       },
@@ -23826,6 +23996,24 @@
       "duration_ms": 139761,
       "name": "Passport",
       "url": "https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140161,
+      "name": "PATIENCE",
+      "url": "https://open.spotify.com/track/0XKVAMPGXRvDeb1T8EQKC8"
     },
     {
       "album": {
@@ -32496,6 +32684,24 @@
       "duration_ms": 157815,
       "name": "V\u00e5gen (Artigeardit X Lamin)",
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155926,
+      "name": "V\u00c5GN OP",
+      "url": "https://open.spotify.com/track/5YkXz1nyPRCADKKiUzNLjd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Touché Amoré
 
-237 songs - 13 hr 17 min
+238 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Can We Just Get High?](https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [My Life In Subtitles](https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc) | 2:52 | 2024-04-19 |  |
 | [Can We Just Get High?](https://open.spotify.com/track/3H7W6oVFTRBqrsiQvSVYCy) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [Can We Just Get High?](https://open.spotify.com/album/3WuvVJiKeP4XMNouE25KWL) | 2:52 | 2023-11-17 | 2024-01-23 |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-10-11 |  |
-| [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 | 2023-09-22 |  |
+| [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 | 2023-09-22 | 2024-10-13 |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 | 2023-04-15 |
 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 | 2023-11-17 | 2024-01-23 |
 | [clearview](https://open.spotify.com/track/1cbG0tcZYcUsyBXfTGRdyf) | [awakebutstillinbed](https://open.spotify.com/artist/0NvYpRJfbFyOI4QdsLJ1Jw) | [clearview](https://open.spotify.com/album/3L2YzcUsgL2ih8fUld03tz) | 3:58 | 2023-10-14 | 2024-05-15 |
@@ -149,6 +149,7 @@
 | [Meeting In the Middle](https://open.spotify.com/track/1vxzfaU2E9ohOVQVvCKenF) | [Double Gainer](https://open.spotify.com/artist/0hHsbAgpJ0aBndZX3oVrCh) | [Such is Life](https://open.spotify.com/album/2BHVEv8oWTNCMTAwfp8Lm9) | 2:44 | 2022-11-25 | 2023-08-09 |
 | [Million Times](https://open.spotify.com/track/6UoLnwakyaivbENQWHU7rW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:45 | 2023-02-11 | 2023-07-27 |
 | [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 | 2022-11-25 | 2023-08-26 |
+| [Mostly](https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Mostly](https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8) | 2:37 | 2024-10-11 |  |
 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 | 2022-11-25 | 2024-04-20 |
 | [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-08-25 | 2024-05-15 |
 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 | 2024-04-19 | 2024-10-12 |

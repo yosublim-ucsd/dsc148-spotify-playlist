@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: PUGNI",
-  "num_followers": 33679,
+  "num_followers": 33684,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -89,7 +89,7 @@
         }
       ],
       "duration_ms": 207000,
-      "name": "Lucifero",
+      "name": "Lucifero (feat. Mecna)",
       "url": "https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg"
     },
     {
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "U mari",
-        "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
-      },
-      "artists": [
-        {
-          "name": "Anna Castiglia",
-          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "U mari",
-      "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "ora che \u00e8 tutto ok",
         "url": "https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 165914,
       "name": "ora che \u00e8 tutto ok",
       "url": "https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "U mari",
+        "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
+      },
+      "artists": [
+        {
+          "name": "Anna Castiglia",
+          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "U mari",
+      "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "ATTACCHI DI PANICO",
         "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179500,
       "name": "ATTACCHI DI PANICO",
       "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+        }
+      ],
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Maldini",
-        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+        "name": "Occhi Blu",
+        "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
       },
       "artists": [
         {
-          "name": "Migliorini",
-          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+          "name": "Martina Attili",
+          "url": "https://open.spotify.com/artist/6Pm0wbsCPotfoZ7tdNO6Or"
         }
       ],
-      "duration_ms": 190578,
-      "name": "Maldini",
-      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+      "duration_ms": 222087,
+      "name": "Occhi Blu",
+      "url": "https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Occhi Blu",
-        "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
+        "name": "Maldini",
+        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
       },
       "artists": [
         {
-          "name": "Martina Attili",
-          "url": "https://open.spotify.com/artist/6Pm0wbsCPotfoZ7tdNO6Or"
+          "name": "Migliorini",
+          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
         }
       ],
-      "duration_ms": 222087,
-      "name": "Occhi Blu",
-      "url": "https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn"
+      "duration_ms": 190578,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "fuori dalla stanza",
-        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
-      },
-      "artists": [
-        {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
-        }
-      ],
-      "duration_ms": 182908,
-      "name": "Fare finta",
-      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "ULTRAFRAGOLA",
         "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159586,
       "name": "SUPERORGASMO",
       "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "fuori dalla stanza",
+        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "duration_ms": 182908,
+      "name": "Fare finta",
+      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
-      },
-      "artists": [
-        {
-          "name": "Lucrezia",
-          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
-        }
-      ],
-      "duration_ms": 205758,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
         "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
+      },
+      "artists": [
+        {
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Rigacuore",
         "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "ALICE+",
+        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "ALICE+",
+      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 150000,
       "name": "Colleghi borghesi",
       "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
-      },
-      "artists": [
-        {
-          "name": "Bartolini",
-          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
-        }
-      ],
-      "duration_ms": 164568,
-      "name": "Salem",
-      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -923,6 +923,38 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Sotto",
+        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
+      },
+      "artists": [
+        {
+          "name": "R\u00cdA",
+          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sotto",
+      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "La ricompensa della mangusta",
         "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
       },
@@ -935,22 +967,6 @@
       "duration_ms": 200000,
       "name": "La ricompensa",
       "url": "https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "zagara",
-        "url": "https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35"
-      },
-      "artists": [
-        {
-          "name": "CALLIOPE",
-          "url": "https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt"
-        }
-      ],
-      "duration_ms": 159567,
-      "name": "zagara",
-      "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -971,34 +987,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "ALICE+",
-        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+        "name": "zagara",
+        "url": "https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35"
       },
       "artists": [
         {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+          "name": "CALLIOPE",
+          "url": "https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt"
         }
       ],
-      "duration_ms": 122666,
-      "name": "ALICE+",
-      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "CAPELLI CORTI CALIFORNIA",
-        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
-      },
-      "artists": [
-        {
-          "name": "Cartapesta",
-          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "CAPELLI CORTI CALIFORNIA",
-      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
+      "duration_ms": 159567,
+      "name": "zagara",
+      "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
     }
   ],
   "unique_name": "Scuola Indie",

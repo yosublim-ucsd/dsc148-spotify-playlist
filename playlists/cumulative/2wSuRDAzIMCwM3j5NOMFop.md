@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-36 songs - 1 hr 51 min
+38 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,11 @@
 | [Kokopelli Face Tattoo](https://open.spotify.com/track/0buoU0wlD10RS9cyCv77WQ) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Christmas Island](https://open.spotify.com/album/6U05Hnv3V8sm93lErI9rNA) | 3:19 | 2023-12-05 |  |
 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/5evxr7Opn6r6XDgzDMGVo7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 1:07 | 2023-03-21 |  |
 | [Let's Go!](https://open.spotify.com/track/5kvDeLfKhTbCXiElGeX0bG) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 2:51 | 2023-10-30 |  |
+| [Mania](https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Mania](https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7) | 3:33 | 2024-10-11 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2023-01-07 |  |
 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 | 2024-10-09 |  |
 | [Never Let You Go](https://open.spotify.com/track/5GszXOtSSTq55cuyQTMNQ2) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Never Let You Go](https://open.spotify.com/album/4A3MZv5WLDVLzd6HWJtrOo) | 3:14 | 2023-03-23 |  |
+| [One by One](https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [One by One](https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe) | 2:52 | 2024-10-11 |  |
 | [Rejoice](https://open.spotify.com/track/3oIQfBgaruqihkCHokRQZ0) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 3:15 | 2023-12-05 |  |
 | [SIXFT](https://open.spotify.com/track/1voNv7mqbcQnreBth7A6ng) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [GLOOM DIVISION](https://open.spotify.com/album/0uJRPvtoXw3k9377EVqShK) | 3:24 | 2024-02-23 |  |
 | [Small Cuts](https://open.spotify.com/track/2vd4ULh4EXAeIyOoe9JZ30) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:02 | 2023-01-07 |  |

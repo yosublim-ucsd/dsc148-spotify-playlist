@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,881 songs - 6 day 9 hr 19 min
+2,882 songs - 6 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2016,6 +2016,7 @@
 | [Personne pour écouter](https://open.spotify.com/track/5x7unXijaVCzrVhdcPFjuJ) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Personne pour écouter](https://open.spotify.com/album/46IG5QSRdDVkVdYxoBaOG1) | 3:37 | 2024-08-30 | 2024-09-07 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2024-05-03 | 2024-05-11 |
 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-20 |  |
+| [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 |  |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |
@@ -2459,7 +2460,7 @@
 | [Sucré salé](https://open.spotify.com/track/13GYItYsEpYNQyTzmLG0Pe) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Sucré salé](https://open.spotify.com/album/66JXzIZeS6SfDD6S5vvDGU) | 3:12 | 2022-04-15 | 2022-04-29 |
 | [Suffit d'attendre I](https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Aurore](https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m) | 1:36 | 2022-09-16 | 2022-09-24 |
 | [Sugar](https://open.spotify.com/track/5JlvOWzq0QaLJOem20sjcl) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o), [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Henri & Simon](https://open.spotify.com/album/6Or5NkQhfIZHcADUgo4FqK) | 2:45 | 2024-10-04 | 2024-10-12 |
-| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 |  |
+| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 | 2024-10-13 |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-28 | 2022-02-12 |
 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 | 2024-03-29 | 2024-04-06 |
 | [Summer Hunting \(Remix\)](https://open.spotify.com/track/4zLdbIH7sP4W2C3599ip9I) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Summer Hunting \(Remix\)](https://open.spotify.com/album/1gDyPNLgWmPvWb6pLVyL4W) | 4:40 | 2022-04-01 | 2022-04-16 |

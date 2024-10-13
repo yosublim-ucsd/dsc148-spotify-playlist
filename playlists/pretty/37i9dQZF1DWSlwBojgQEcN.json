@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1718539,
+  "num_followers": 1718562,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Augusta",
         "url": "https://open.spotify.com/album/0f76y2SetY65asEqyesJed"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 250209,
       "name": "Don't Get Too Close",
       "url": "https://open.spotify.com/track/7j2HvuXMC7lcU5DpNfDPhG"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Till Forever (Acoustic)",
+      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1227,18 +1243,34 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Humbear",
+          "url": "https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Till Forever (Acoustic)",
-      "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
+      "duration_ms": 204538,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Reckless Lover (Acoustic)",
+        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 240579,
+      "name": "Reckless Lover - Acoustic",
+      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1263,22 +1295,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Take Your Time",
-        "url": "https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F"
-      },
-      "artists": [
-        {
-          "name": "Humbear",
-          "url": "https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 227493,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Reckless Lover (Acoustic)",
-        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 240579,
-      "name": "Reckless Lover - Acoustic",
-      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "(i would have followed you)",
-        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Love Is Blind",
         "url": "https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 233071,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "(i would have followed you)",
+        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
     },
     {
       "added_at": "2024-07-05 22:35:53",

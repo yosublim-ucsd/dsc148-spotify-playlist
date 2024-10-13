@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Marte in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,133 likes - 56 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,129 likes - 56 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 15 | [Crash Test](https://open.spotify.com/track/2lpZiHXHWtDTTxMmecB6g3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Crash Test](https://open.spotify.com/album/7EWyicuImKFwmyy6Tl7EYf) | 3:04 |
 | 16 | [PALETTE](https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [PALETTE](https://open.spotify.com/album/5HzTy1cbSrGNaZ1zBNCQ0M) | 2:01 |
 | 17 | [SINALOA](https://open.spotify.com/track/5hCzsUlrXljyHXSKTHlKyg) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [SINALOA](https://open.spotify.com/album/3tok5pXNFqRAG39ThexPhi) | 2:38 |
-| 18 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
+| 18 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
 | 19 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
 | 20 | [FIFTY](https://open.spotify.com/track/710DlNChyzzT5dw0DtFwpx) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [FIFTY](https://open.spotify.com/album/12SoRuaQ6uVhVTd8GRPXMR) | 2:37 |
 | 21 | [4X4](https://open.spotify.com/track/54j9WqGM5qQQAaO58tTsB6) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [4X4](https://open.spotify.com/album/391J3aAlf22fuHzHSoRokv) | 3:00 |

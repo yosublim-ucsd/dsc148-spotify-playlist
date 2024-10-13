@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  MAUIM\u00d8ON",
+  "description": "The smoothest Afro R&B out right now. Cover:  Elaine",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -4154,6 +4154,24 @@
       "duration_ms": 164472,
       "name": "lon3ly",
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
+    },
+    {
+      "album": {
+        "name": "Stone Cold Heart",
+        "url": "https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Lonely Hearts",
+      "url": "https://open.spotify.com/track/5gJ4NfyXdhOWadofaIl3pL"
     },
     {
       "album": {

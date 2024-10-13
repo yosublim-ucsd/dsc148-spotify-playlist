@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
+    },
+    {
+      "album": {
         "name": "LiTTLE DEViL PARADE",
         "url": "https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P"
       },

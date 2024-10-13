@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: MAYO.",
-  "num_followers": 18927,
+  "num_followers": 18930,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+        "name": "GAY DISCO HOUSE",
+        "url": "https://open.spotify.com/album/4DzLCpmP86OOJV33bqlQuu"
       },
       "artists": [
         {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+          "name": "TONY JAY",
+          "url": "https://open.spotify.com/artist/1bcxw1ScDlSODTyEJeZDCD"
         }
       ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
+      "duration_ms": 193187,
+      "name": "GAY DISCO HOUSE",
+      "url": "https://open.spotify.com/track/1Uz8ONzIEpaaknHj686t02"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "GAY DISCO HOUSE",
-        "url": "https://open.spotify.com/album/4DzLCpmP86OOJV33bqlQuu"
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
       },
       "artists": [
         {
-          "name": "TONY JAY",
-          "url": "https://open.spotify.com/artist/1bcxw1ScDlSODTyEJeZDCD"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 193187,
-      "name": "GAY DISCO HOUSE",
-      "url": "https://open.spotify.com/track/1Uz8ONzIEpaaknHj686t02"
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
+      },
+      "artists": [
+        {
+          "name": "Agoney",
+          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "GINGA",
         "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 137600,
       "name": "GiNGA",
       "url": "https://open.spotify.com/track/17aW8EWl8SpI0fHgYvuQTH"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
-      },
-      "artists": [
-        {
-          "name": "Agoney",
-          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

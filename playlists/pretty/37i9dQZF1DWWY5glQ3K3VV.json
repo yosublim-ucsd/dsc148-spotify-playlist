@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 100162,
+  "num_followers": 100196,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -329,7 +329,7 @@
         },
         {
           "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+          "url": "https://open.spotify.com/artist/7FmP9Ab0HA5cYF4omCSZ9n"
         }
       ],
       "duration_ms": 238533,
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Pyrex",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        }
-      ],
-      "duration_ms": 163841,
-      "name": "LAP DANCE (feat. Side Baby & Pyrex)",
-      "url": "https://open.spotify.com/track/65O89pZFy6JhVcfomPuJ1s"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "Dorado (feat. Sfera Ebbasta & Feid)",
         "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
       },
@@ -1627,22 +1603,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "100% (feat. Salmo)",
-        "url": "https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH"
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
       },
       "artists": [
         {
-          "name": "Luciennn",
-          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
         }
       ],
-      "duration_ms": 160645,
-      "name": "100% (feat. Salmo)",
-      "url": "https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7"
+      "duration_ms": 163841,
+      "name": "LAP DANCE (feat. Side Baby & Pyrex)",
+      "url": "https://open.spotify.com/track/65O89pZFy6JhVcfomPuJ1s"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1667,6 +1647,26 @@
       "duration_ms": 172800,
       "name": "SPLASH (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "100% (feat. Salmo)",
+        "url": "https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH"
+      },
+      "artists": [
+        {
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "100% (feat. Salmo)",
+      "url": "https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1711,26 +1711,6 @@
       "duration_ms": 240000,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 128796,
-      "name": "GTA (feat. Ghali)",
-      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -1827,6 +1807,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 128796,
+      "name": "GTA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "DELINQUENTE",
         "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
@@ -1919,6 +1919,30 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 170791,
+      "name": "Calle (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
         "name": "Thick (feat. MamboLosco) [Remix]",
         "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
       },
@@ -1983,30 +2007,6 @@
       "duration_ms": 149126,
       "name": "Nena (feat. Geolier & Andry The Hitmaker)",
       "url": "https://open.spotify.com/track/6TEPwGCSq4XGWu3hnZkC5m"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
-        "name": "Piccolo principe",
-        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Dystopic",
-          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 170791,
-      "name": "Calle (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2"
     },
     {
       "added_at": "2024-09-20 19:52:57",
@@ -2107,18 +2107,26 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         }
       ],
-      "duration_ms": 217933,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/0bAkKNCQfWkexHFn7fIKns"
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
     }
   ],
   "unique_name": "Club Rap ",

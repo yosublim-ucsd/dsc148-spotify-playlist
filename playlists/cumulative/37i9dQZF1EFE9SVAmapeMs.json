@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149294,
+      "name": "Showstopper",
+      "url": "https://open.spotify.com/track/3YpnwDPCp3yNUB9NBO3plZ"
+    },
+    {
+      "album": {
         "name": "Entergalactic",
         "url": "https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68"
       },

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-764 songs - 2 day 20 hr 38 min
+765 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |
 | [Madre Tierra](https://open.spotify.com/track/7fTCXJjxY8Yds4QyFpJQOa) | [Vite](https://open.spotify.com/artist/6xDzE299teWXHoW3ZuCIHX), [Hole Box](https://open.spotify.com/artist/7FPuNa70lwxm2NqDqkzTs3) | [Marea](https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ) | 6:30 | 2021-05-07 | 2022-07-16 |
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
-| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 |  |
+| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2024-10-13 |
 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 | 2023-08-11 | 2023-09-11 |
 | [Maiye](https://open.spotify.com/track/2WI1B6gkTvsfwUgL1VbUGX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Maiye EP](https://open.spotify.com/album/5EN0keN9Vj7axJHl8LgDWa) | 6:22 | 2024-01-12 | 2024-03-27 |
 | [Makatao](https://open.spotify.com/track/0AYHqchYq7j81YuJBwwbAP) | [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Makatao](https://open.spotify.com/album/0Htb5bRGIDhTronNBsN2HP) | 2:58 | 2022-06-10 | 2022-07-28 |
@@ -458,6 +458,7 @@
 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-22 | 2024-01-02 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-07 |  |
 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 | 2024-07-12 | 2024-10-05 |
+| [Moving \- Francis Mercier Remix](https://open.spotify.com/track/65IyK1KiAsXlG2eUCrRbCX) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Moving \(Francis Mercier Remix\)](https://open.spotify.com/album/2lZikxXCTlfUBRdT5LUukG) | 3:34 | 2024-10-11 |  |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-07-01 | 2022-07-24 |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-05-01 | 2022-08-04 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-13 |  |

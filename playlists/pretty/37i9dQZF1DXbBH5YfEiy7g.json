@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship your way with the best South African Gospel music.  Cover: \"<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>",
-  "num_followers": 557,
+  "num_followers": 612,
   "original_name": "South African Gospel",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "The Next Revival (Live)",
-        "url": "https://open.spotify.com/album/60ttdHW2njGJ4hBe4ZwpTb"
+        "name": "Gospel Africa - A Joyous Easter Celebration With Top Gospel Stars",
+        "url": "https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc"
       },
       "artists": [
         {
-          "name": "Tshwane Gospel Choir",
-          "url": "https://open.spotify.com/artist/3mQR6Ep0xUi6lekkWfqMpi"
+          "name": "Betusile",
+          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
         }
       ],
-      "duration_ms": 150820,
-      "name": "Moya Wa Ka Reta Morena (Live)",
-      "url": "https://open.spotify.com/track/7jqN9DIvOJvgclDMGYe7zn"
+      "duration_ms": 271622,
+      "name": "Ngena Noah",
+      "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
     },
     {
       "added_at": "2024-10-04 00:02:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "Gospel Africa - A Joyous Easter Celebration With Top Gospel Stars",
-        "url": "https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc"
+        "name": "The Next Revival (Live)",
+        "url": "https://open.spotify.com/album/60ttdHW2njGJ4hBe4ZwpTb"
       },
       "artists": [
         {
-          "name": "Betusile",
-          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
+          "name": "Tshwane Gospel Choir",
+          "url": "https://open.spotify.com/artist/3mQR6Ep0xUi6lekkWfqMpi"
         }
       ],
-      "duration_ms": 271622,
-      "name": "Ngena Noah",
-      "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
+      "duration_ms": 150820,
+      "name": "Moya Wa Ka Reta Morena (Live)",
+      "url": "https://open.spotify.com/track/7jqN9DIvOJvgclDMGYe7zn"
     },
     {
       "added_at": "2024-10-04 00:02:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
-      },
-      "artists": [
-        {
-          "name": "Hlengiwe Mhlaba",
-          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
-        }
-      ],
-      "duration_ms": 282440,
-      "name": "Sewakhile",
-      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
-    },
-    {
-      "added_at": "2024-10-04 00:02:00",
-      "album": {
         "name": "Miracle Child",
         "url": "https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 374808,
       "name": "Intro (Mudzimu Uyavhuya) [feat. Lebo Sekgobela]",
       "url": "https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN"
+    },
+    {
+      "added_at": "2024-10-04 00:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
+      },
+      "artists": [
+        {
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "Sewakhile",
+      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
     },
     {
       "added_at": "2024-10-04 00:02:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
+      "added_at": "2024-10-04 00:02:00",
+      "album": {
         "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
         "url": "https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 308210,
       "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
       "url": "https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ"
-    },
-    {
-      "added_at": "2024-10-04 00:02:00",
-      "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
       "added_at": "2024-10-04 00:02:00",
@@ -855,26 +855,18 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
-        "name": "Pride (A Deeper Love)",
-        "url": "https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd"
+        "name": "JESU BENGA UNDERSTAND WHY",
+        "url": "https://open.spotify.com/album/4PjuzA8xcHv4jANx4N7qyQ"
       },
       "artists": [
         {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        },
-        {
-          "name": "Groove Terminator",
-          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+          "name": "Ayanda Shange",
+          "url": "https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Pride (A Deeper Love)",
-      "url": "https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC"
+      "duration_ms": 436000,
+      "name": "JESU BENGA UNDERSTAND WHY",
+      "url": "https://open.spotify.com/track/3cBT3KfCOQmWKhuqiCDp2t"
     }
   ],
   "unique_name": "South African Gospel",

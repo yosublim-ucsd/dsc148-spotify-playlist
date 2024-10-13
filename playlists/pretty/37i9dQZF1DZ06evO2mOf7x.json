@@ -1,12 +1,12 @@
 {
-  "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44267,
+  "description": "This Is Ana B\u00e1rbara. Los temas esenciales, todos en una lista.",
+  "num_followers": 44274,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAB1k57qrY/beK1deM8h0ANM",
+  "snapshot_id": "ZwhqgAAAAACzaUGmkVTd/ksytU+T7EVf",
   "tracks": [
     {
       "added_at": null,
@@ -151,38 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loca De Amar",
-        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/3s3pbToR5GZYv7lis5utk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -203,6 +171,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3s3pbToR5GZYv7lis5utk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 198360,
       "name": "Quise Olvidar",
       "url": "https://open.spotify.com/track/7e35lHCloNPRNSH1F3xVc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
       "duration_ms": 202026,
       "name": "Te Regalo La Lluvia",
       "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": null,
@@ -347,46 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solos",
-        "url": "https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 186120,
-      "name": "Solos",
-      "url": "https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -407,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solos",
+        "url": "https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es Brujeria",
         "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 227266,
       "name": "No Es Brujeria",
       "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+        "name": "Necesito Olvidarte",
+        "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 208431,
-      "name": "Que Ironia - Original Mix",
-      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+      "duration_ms": 184426,
+      "name": "Todo Lo Aprend\u00ed De Ti",
+      "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 208431,
+      "name": "Que Ironia - Original Mix",
+      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Necesito Olvidarte",
-        "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Todo Lo Aprend\u00ed De Ti",
-      "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 213329,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Soy La Mujer",
         "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },
@@ -931,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
       "artists": [
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
+      "duration_ms": 213329,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
     },
     {
       "added_at": null,
@@ -959,6 +943,22 @@
       "duration_ms": 224666,
       "name": "Los Besos No Se Dan En La Camisa",
       "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,

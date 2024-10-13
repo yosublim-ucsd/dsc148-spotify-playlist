@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A venit poliția \- From "Canditatul Perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Canditatul Perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 | 2024-10-10 |  |
+| [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 | 2024-10-10 |  |
 | [ADN](https://open.spotify.com/track/4UNukwAdvGdJOtoyW9wPOI) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [David Ciente](https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2) | [ADN](https://open.spotify.com/album/5nR1jSr6mb7egmjowppcHb) | 3:02 | 2024-06-27 | 2024-09-13 |
 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 | 2024-06-27 |  |
 | [Ai greșit](https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua) | [Andreea Banica](https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Ai greșit](https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg) | 3:05 | 2024-08-22 |  |

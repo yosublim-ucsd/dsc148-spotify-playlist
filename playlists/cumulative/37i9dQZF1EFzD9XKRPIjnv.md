@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 10 hr 9 min
+182 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [High](https://open.spotify.com/track/7m4uS0EfgbfhwQCA0IVJT6) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Música Para Meter](https://open.spotify.com/album/1VOY4mcn2XGiukf9Sc5iNf) | 3:16 | 2022-05-04 | 2022-05-29 |
 | [High \(& Dua Lipa\)](https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:16 | 2021-12-27 |  |
 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 | 2021-12-27 |  |
+| [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-10-12 |  |
 | [House](https://open.spotify.com/track/1dqQSYy1Hny4okA5GABysg) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Endless](https://open.spotify.com/album/4cY2oRQAxm4TgstWzhIBWl) | 3:21 | 2021-12-27 |  |
 | [House Down](https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [House Down](https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim) | 3:05 | 2024-07-13 |  |
 | [How Sweet](https://open.spotify.com/track/6sb6IH3uOAIk1zetN1Jzn5) | [HANPPYEOMPIANO](https://open.spotify.com/artist/5Bq1Nx8Dk3QzskbXYEKcBt) | [How Sweet](https://open.spotify.com/album/1P4Yoz37ycyn9CFWBY1SBC) | 3:32 | 2024-06-06 | 2024-06-10 |

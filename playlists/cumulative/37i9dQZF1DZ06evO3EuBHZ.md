@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-176 songs - 10 hr 0 min
+177 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Hound Dog](https://open.spotify.com/track/6CdrBfgM40K9D1v5hM6qtE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog](https://open.spotify.com/album/3WIcUr910RAoOgYbjc8tal) | 2:51 | 2023-10-10 | 2023-12-14 |
 | [Hound Dog](https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Precious & Rare: Big Mama Thornton](https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV) | 2:52 | 2022-08-05 | 2024-02-12 |
 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 | 2022-08-05 |  |
-| [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 | 2024-03-04 |  |
+| [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 | 2024-03-04 | 2024-10-13 |
 | [Hound Dog \- Single Version](https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:51 | 2023-02-14 |  |
 | [Hound Dog / Walkin' the Dog](https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl) | 4:11 | 2022-11-14 |  |
 | [Hound Dog / Walkin' the Dog](https://open.spotify.com/track/5Xc5VFCpLZyLLA3stSErZI) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY) | 4:11 | 2022-08-05 | 2022-11-15 |
@@ -84,6 +84,7 @@
 | [Just Like a Dog](https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:49 | 2024-01-29 | 2024-04-11 |
 | [Just Like a Dog \(Barking up the Wrong Tree\)](https://open.spotify.com/track/2NdDWHHIXW4LxmCk1mAFMT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:50 | 2023-06-05 | 2023-09-01 |
 | [Just Like a Dog \(Barking up the Wrong Tree\)](https://open.spotify.com/track/6nAJwqA8sE5t3IQOgUHj6y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:50 | 2023-12-13 | 2024-01-30 |
+| [Just Like a Dog Barking the Wrong Tree \- Remastered](https://open.spotify.com/track/1a8bRB0E1roDpD3Fwf08c2) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:44 | 2024-10-13 |  |
 | [Just Like A Dog, Barking Up The Wrong Tree](https://open.spotify.com/track/5kprualteHZKW9pEwrA03O) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:49 | 2023-04-04 |  |
 | [Laugh Laugh Laugh](https://open.spotify.com/track/5BoS5f4x2T4nr8bJm2py4m) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:43 | 2023-03-11 | 2023-05-12 |
 | [Laugh, Laugh, Laugh](https://open.spotify.com/track/0mUHz5vUGvZ7rA8ugwC1gR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:44 | 2024-02-06 | 2024-04-01 |

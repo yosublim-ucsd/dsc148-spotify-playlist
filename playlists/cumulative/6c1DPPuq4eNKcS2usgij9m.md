@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 7 min
+50 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Surfin' U.S.A.](https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:30 | 2013-06-27 |  |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2013-06-27 |  |
 | [The Monkey Time](https://open.spotify.com/track/0VtvetMMdBu88MbUeM5YnL) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Very Best Of Major Lance](https://open.spotify.com/album/0fUT5dIJZ6LHw0QjtDHdmV) | 2:46 | 2013-06-27 |  |
-| [Walk Like a Man \- 2007 Remaster](https://open.spotify.com/track/3ebFVCEIcB3zW9RbnHk28D) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:17 | 2013-06-27 |  |
+| [Walk Like a Man \- 2007 Remaster](https://open.spotify.com/track/3ebFVCEIcB3zW9RbnHk28D) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:16 | 2013-06-27 |  |
 | [Walk Right In](https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ) | [The Rooftop Singers](https://open.spotify.com/artist/6Gb08eT3LlkGynDscl9vbz) | [Vanguard Visionaries](https://open.spotify.com/album/1BuP3K4tWcL1WSpUcLQHyz) | 2:37 | 2013-06-27 |  |
 | [Washington Square](https://open.spotify.com/track/2v7c2fC0U8VBrBiKahq6uV) | [The Village Stompers](https://open.spotify.com/artist/052sD9jNgGqNAKlYmCAiD8) | [Essential Masters](https://open.spotify.com/album/3JAjG13XQpXksrzHR4hPPQ) | 2:44 | 2013-06-27 |  |
 | [Wild Weekend](https://open.spotify.com/track/1aPdVWDcTG2Qn0ziCoHkaG) | [The Rockin' Rebels](https://open.spotify.com/artist/69lJC8BEOzUVBj9FCxB8H5) | [Wild Weekend](https://open.spotify.com/album/7MxQjs5hRFMTBfwM15fwHA) | 2:18 | 2013-06-27 |  |

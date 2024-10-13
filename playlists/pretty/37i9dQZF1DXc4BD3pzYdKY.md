@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:77IKXFvO7SpWrq8hflrUXc">KB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,468 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,553 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 31 | [Make It One Day](https://open.spotify.com/track/0cHDwblKbM7xj656zdKxNK) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt), [I Project](https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me) | [Make It One Day](https://open.spotify.com/album/3AIVXhzV2MbepTIiE4atTp) | 2:26 |
 | 32 | [You Saved Me](https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [God Reigns](https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN) | 3:12 |
 | 33 | [GLP](https://open.spotify.com/track/1Krb2r1kjEqxSQZ1hOE8vv) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [GLP](https://open.spotify.com/album/0I2r6ZTPadnBDXqhEs8XX5) | 2:26 |
-| 34 | [Green](https://open.spotify.com/track/1fU67BFt38BMKnk6y5xv0c) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Green](https://open.spotify.com/album/2xjEf6jp9tKA6TNzSz4q6H) | 2:46 |
+| 34 | [Green](https://open.spotify.com/track/1fU67BFt38BMKnk6y5xv0c) | [Reece Lache’](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Green](https://open.spotify.com/album/2xjEf6jp9tKA6TNzSz4q6H) | 2:46 |
 | 35 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 |
 | 36 | [STILL OVERCOME](https://open.spotify.com/track/73witymOvkOOWQYAuKHbpI) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GOD BLESS THE UNDERDOGS](https://open.spotify.com/album/1vnCeqoUIMH5x4i2vsOdHj) | 2:00 |
 | 37 | [JACKPOT](https://open.spotify.com/track/65QTaz2NDjapNPkw2fhBqi) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [JACKPOT](https://open.spotify.com/album/3FIi6QxeHhPvwJ04vtMHsW) | 2:34 |

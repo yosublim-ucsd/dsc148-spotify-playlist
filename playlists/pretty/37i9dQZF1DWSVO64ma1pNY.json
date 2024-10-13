@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296006,
+  "num_followers": 296003,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 230226,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+      "duration_ms": 230226,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 261345,
       "name": "Savior Mode",
       "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 233146,
       "name": "California King",
       "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 181951,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Red Button",
-        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
-      },
-      "artists": [
-        {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Semi-Stable",
         "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 167480,
       "name": "Semi-Stable",
       "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Red Button",
+        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Chasing Highs",
-        "url": "https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav"
-      },
-      "artists": [
-        {
-          "name": "Luna Bay",
-          "url": "https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Chasing Highs",
-      "url": "https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 224073,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5a64Hp9Cihvn7EYvyUGEjl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Chasing Highs",
+        "url": "https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav"
+      },
+      "artists": [
+        {
+          "name": "Luna Bay",
+          "url": "https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Chasing Highs",
+      "url": "https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Two Tone Marionette",
-        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
-      },
-      "artists": [
-        {
-          "name": "NVM",
-          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
-        }
-      ],
-      "duration_ms": 281103,
-      "name": "Two Tone Marionette",
-      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Static King",
         "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 217600,
       "name": "Static King",
       "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Two Tone Marionette",
+        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
+      },
+      "artists": [
+        {
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
+        }
+      ],
+      "duration_ms": 281103,
+      "name": "Two Tone Marionette",
+      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Best Mistake",
-        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
-      },
-      "artists": [
-        {
-          "name": "GUNNAR",
-          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Closing In",
         "url": "https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Take As Prescribed",
-        "url": "https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww"
+        "name": "Best Mistake",
+        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
       },
       "artists": [
         {
-          "name": "Capsule 9",
-          "url": "https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO"
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
         }
       ],
-      "duration_ms": 167230,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
+      "duration_ms": 230720,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2411,6 +2395,22 @@
       "duration_ms": 238847,
       "name": "ELF",
       "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Take As Prescribed",
+        "url": "https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww"
+      },
+      "artists": [
+        {
+          "name": "Capsule 9",
+          "url": "https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO"
+        }
+      ],
+      "duration_ms": 167230,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
     },
     {
       "added_at": "2024-09-02 15:42:47",

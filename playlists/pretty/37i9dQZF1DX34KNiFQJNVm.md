@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Murilo Huff com Ana Castela, Tierry e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,943,049 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943,359 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Dama da Noite](https://open.spotify.com/track/0CADcThrvKA6ZV6qjlL3ui) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Dama da Noite](https://open.spotify.com/album/7dJJQ75J68X5sVEJvH0wOE) | 2:11 |
 | 69 | [Mundo Dos Vetin](https://open.spotify.com/track/5agR6nypBRPVuXn8UZMc2j) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Mundo Dos Vetin](https://open.spotify.com/album/27gofgaJSl02Yv1zjXKEVE) | 2:56 |
 | 70 | [Cerol](https://open.spotify.com/track/0M8B6OO34nhXIh9Ikxg2BY) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [omundodelune](https://open.spotify.com/artist/4oU9yq4z6oNS9VTBo2dEqc) | [Cerol](https://open.spotify.com/album/6jBdWZhfE0V5qarXfZNOgX) | 5:19 |
-| 71 | [Sossego](https://open.spotify.com/track/5hEclBU7VBMUFKiRJ9HO4u) | [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Sossego](https://open.spotify.com/album/1K1dsKIKJeQ28qn9TDMkM3) | 3:01 |
+| 71 | [Sossego](https://open.spotify.com/track/5hEclBU7VBMUFKiRJ9HO4u) | [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Sossego](https://open.spotify.com/album/1K1dsKIKJeQ28qn9TDMkM3) | 3:01 |
 | 72 | [Lembro Bem](https://open.spotify.com/track/1lNp8tvH2OixpxE4qNJtMa) | [Sugar Kane](https://open.spotify.com/artist/2TbBb2QPTrPEbQ6yacOc7K) | [Antes que o amor vá embora](https://open.spotify.com/album/1MVHHrpVjXWoH00skD4z4x) | 3:02 |
 | 73 | [Chelas](https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ) | [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Chelas](https://open.spotify.com/album/1f4GKTogkgEWUjcqDhBRMz) | 3:20 |
 | 74 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |

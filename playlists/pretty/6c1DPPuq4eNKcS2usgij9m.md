@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 | 21 | [I Love You Because](https://open.spotify.com/track/4xQfTDewWaXXCMXlwugeGh) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Very Best Of Al Martino](https://open.spotify.com/album/75kTa0eZdoHREIwG7aAX0p) | 2:43 |
 | 22 | [Wild Weekend](https://open.spotify.com/track/1aPdVWDcTG2Qn0ziCoHkaG) | [The Rockin' Rebels](https://open.spotify.com/artist/69lJC8BEOzUVBj9FCxB8H5) | [Wild Weekend](https://open.spotify.com/album/7MxQjs5hRFMTBfwM15fwHA) | 2:18 |
 | 23 | [You're The Reason I'm Living \- 2004 Digital Remaster](https://open.spotify.com/track/6AMKVd0lAHITQcm5JntRzv) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Legendary Bobby Darin](https://open.spotify.com/album/6B0JGDZmuQBmYoIg3Crvc5) | 2:26 |
-| 24 | [Walk Like a Man \- 2007 Remaster](https://open.spotify.com/track/3ebFVCEIcB3zW9RbnHk28D) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:17 |
+| 24 | [Walk Like a Man \- 2007 Remaster](https://open.spotify.com/track/3ebFVCEIcB3zW9RbnHk28D) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:16 |
 | 25 | [Mockingbird](https://open.spotify.com/track/2CXwbKwy2z1TPkCGATplDZ) | [Inez Foxx And Charlie Foxx](https://open.spotify.com/artist/5otyegLiLv0Gvv0lmq6cuO) | [Doo Wop Golden Oldies Vol 4](https://open.spotify.com/album/4Jf05VoLk4OJvlI6NlCPm9) | 2:39 |
 | 26 | [I Will Follow Him](https://open.spotify.com/track/1mspRB1JIDtaMPXewN8XOs) | [Little Peggy March](https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy) | [I Will Follow Him](https://open.spotify.com/album/0wPcTchjoE6Oq5Wj3ojpE4) | 2:31 |
 | 27 | [Pipeline](https://open.spotify.com/track/0omhdZrHNm5HqKfOJF7pfY) | [The Chantays](https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:09 |

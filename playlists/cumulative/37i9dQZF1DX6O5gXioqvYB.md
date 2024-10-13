@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: PUGNI
 
-175 songs - 8 hr 34 min
+176 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-10-05 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
-| [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 |  |
+| [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-13 |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
 | [Che voglia](https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [In quella casa in fiamme ci sono dei bambini](https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6) | 2:23 | 2024-06-27 | 2024-07-27 |
 | [Chinaglia](https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Chinaglia](https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM) | 3:00 | 2024-06-27 | 2024-07-19 |
@@ -84,7 +84,7 @@
 | [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 | 2024-09-19 |  |
 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-07-18 |  |
 | [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 | 2024-07-25 |  |
-| [Lucifero](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 | 2024-10-10 |  |
+| [Lucifero \(feat\. Mecna\)](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 | 2024-10-10 |  |
 | [Luna elettrica](https://open.spotify.com/track/6A7Pwen2tv5m9ddiFi0D3a) | [Michelangelo Vood](https://open.spotify.com/artist/4ZWLxBFrqQpBflEZ4wBFJ7) | [Non c'è più tempo](https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT) | 3:13 | 2024-06-27 | 2024-07-12 |
 | [ma come sto facendo?](https://open.spotify.com/track/4k5PKgHzQ1vfRA9SQAYq9H) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [ma come sto facendo?](https://open.spotify.com/album/4EEu5UyWwsmelQxxmW7mBl) | 2:41 | 2024-06-27 | 2024-07-27 |
 | [machegustomilascia](https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR) | [Matsby](https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ) | [machegustomilascia](https://open.spotify.com/album/3yA2sHrwBM2VvXWM6vTFmF) | 2:25 | 2024-06-27 | 2024-07-19 |
@@ -157,6 +157,7 @@
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 |  |
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |
 | [Sott'acqua](https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Sott'acqua](https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF) | 3:11 | 2024-10-03 |  |
+| [Sotto](https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD) | [RÍA](https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE) | [Sotto](https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7) | 2:32 | 2024-10-10 |  |
 | [SOTTOCASSA](https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SOTTOCASSA](https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi) | 3:36 | 2024-06-27 | 2024-07-12 |
 | [Spezzabuio](https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Spezzabuio](https://open.spotify.com/album/004Mgjg73He63yXE08l2ln) | 3:01 | 2024-09-05 | 2024-09-27 |
 | [Sto grande carro](https://open.spotify.com/track/3tJCSVef5sXu6gic1VnAJF) | [chela](https://open.spotify.com/artist/3eKuNJjfZsVt03Qfla2s0u) | [Sto grande carro](https://open.spotify.com/album/7sknGlGWbt7BdpIBQOcagv) | 2:25 | 2024-08-09 | 2024-09-27 |

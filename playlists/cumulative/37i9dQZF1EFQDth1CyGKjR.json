@@ -3342,10 +3342,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 246066,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5Z7q9ViWcoyJ8rnuVkeyZQ"
+    },
+    {
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/3Uz7Zma0SaqAwkBcPgVJ92"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267029,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/28fstdvPhnB6VeMWzQ5wt7"
     },
     {
       "album": {

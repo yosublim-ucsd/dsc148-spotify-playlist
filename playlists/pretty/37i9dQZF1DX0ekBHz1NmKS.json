@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195473,
+  "num_followers": 195485,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Biohacking My Technology",
         "url": "https://open.spotify.com/album/4fbyHwnPeLWh410DFJnpL3"
       },
@@ -355,6 +371,22 @@
       "duration_ms": 164803,
       "name": "Biohacking My Technology",
       "url": "https://open.spotify.com/track/6HJwPugn9QStgfhikxQ1d9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Talk / Bye Bye",
+        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -379,22 +411,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Talk / Bye Bye",
-        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Heathrow",
         "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 235287,
       "name": "Heathrow",
       "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Truly Yours, Isak",
-        "url": "https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "How Can I Make You Stay",
-      "url": "https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Midnight Shining",
-        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+        "name": "Truly Yours, Isak",
+        "url": "https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
         }
       ],
-      "duration_ms": 212105,
-      "name": "Midnight Shining",
-      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
+      "duration_ms": 189375,
+      "name": "How Can I Make You Stay",
+      "url": "https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -475,6 +475,38 @@
       "duration_ms": 183054,
       "name": "Zoey",
       "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Midnight Shining",
+        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 212105,
+      "name": "Midnight Shining",
+      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Molly fr\u00e5n Fru\u00e4ngen",
+        "url": "https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 228337,
+      "name": "Fru\u00e4ngen",
+      "url": "https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -535,38 +567,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Molly fr\u00e5n Fru\u00e4ngen",
-        "url": "https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 228337,
-      "name": "Fru\u00e4ngen",
-      "url": "https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Desperate Guy",
-        "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Desperate Guy",
-      "url": "https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "The Player",
         "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
       },
@@ -599,40 +599,28 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+        "name": "Smile Boy",
+        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 224401,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
+      "duration_ms": 144840,
+      "name": "Smile Boy",
+      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Dancing On Dynamite",
-        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 162329,
-      "name": "Dancing On Dynamite",
-      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+        "name": "Desperate Guy",
+        "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
       },
       "artists": [
         {
@@ -640,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+      "duration_ms": 156600,
+      "name": "Desperate Guy",
+      "url": "https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -679,18 +667,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "OK\u00c4ND MARK",
-        "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
+        "name": "Dancing On Dynamite",
+        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
       },
       "artists": [
         {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 141714,
-      "name": "OK\u00c4ND MARK",
-      "url": "https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky"
+      "duration_ms": 162329,
+      "name": "Dancing On Dynamite",
+      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -707,6 +695,86 @@
       "duration_ms": 196640,
       "name": "Persienner",
       "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "OK\u00c4ND MARK",
+        "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "OK\u00c4ND MARK",
+      "url": "https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
+        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 178118,
+      "name": "P\u00e5 M\u00e5ndag",
+      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224401,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Vad har du gjort med mig",
+        "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Vad har du gjort med mig",
+      "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -743,18 +811,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Vad har du gjort med mig",
-        "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
+        "name": "L\u00e4tt",
+        "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
       },
       "artists": [
         {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
         }
       ],
-      "duration_ms": 181052,
-      "name": "Vad har du gjort med mig",
-      "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
+      "duration_ms": 223626,
+      "name": "L\u00e4tt",
+      "url": "https://open.spotify.com/track/1rU3xTM0G4qQ0dfBhjTUCz"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -791,38 +859,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "H\u00f6r n\u00e5n mig",
-        "url": "https://open.spotify.com/album/2gIaeRBhsHjrWtm8aTyibU"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "H\u00f6r n\u00e5n mig",
-      "url": "https://open.spotify.com/track/2V1G22JWj9SxlONKYjUMrG"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "L\u00e4tt",
-        "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "L\u00e4tt",
-      "url": "https://open.spotify.com/track/1rU3xTM0G4qQ0dfBhjTUCz"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
       },
@@ -835,6 +871,22 @@
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "H\u00f6r n\u00e5n mig",
+        "url": "https://open.spotify.com/album/2gIaeRBhsHjrWtm8aTyibU"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "H\u00f6r n\u00e5n mig",
+      "url": "https://open.spotify.com/track/2V1G22JWj9SxlONKYjUMrG"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -855,22 +907,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "N\u00e4ra dig",
-        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "N\u00e4ra dig",
-      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6qGGbXGhMDyKrbM18rRROD"
       },
@@ -887,18 +923,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+        "name": "N\u00e4ra dig",
+        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
       },
       "artists": [
         {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
+      "duration_ms": 162653,
+      "name": "N\u00e4ra dig",
+      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -919,26 +955,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "30 grader",
-        "url": "https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        },
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 183718,
-      "name": "30 grader",
-      "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Halflove",
         "url": "https://open.spotify.com/album/6pQI6HbJIp2ztSPKTEQgyp"
       },
@@ -951,6 +967,22 @@
       "duration_ms": 197894,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/4heXO8AkvpBMCpknbfeEhm"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -987,6 +1019,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "30 grader",
+        "url": "https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        },
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 183718,
+      "name": "30 grader",
+      "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Vita Boots",
         "url": "https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4"
       },
@@ -999,6 +1051,22 @@
       "duration_ms": 136161,
       "name": "Vita Boots",
       "url": "https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Jag borde g\u00e5",
+        "url": "https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Jag borde g\u00e5",
+      "url": "https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1019,22 +1087,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Milkshakes",
-        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Milkshakes",
-      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -1051,18 +1103,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Kyss mig snabbt i otakt",
-        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+        "name": "Milkshakes",
+        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
       },
       "artists": [
         {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
         }
       ],
-      "duration_ms": 189613,
-      "name": "F\u00f6rlora",
-      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+      "duration_ms": 147000,
+      "name": "Milkshakes",
+      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "just wanna feel you",
+        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "just wanna feel you",
+      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1087,18 +1155,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "just wanna feel you",
-        "url": "https://open.spotify.com/album/6lH3TikBHRhxBRr6sMsKzQ"
+        "name": "Kyss mig snabbt i otakt",
+        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 220952,
-      "name": "just wanna feel you",
-      "url": "https://open.spotify.com/track/7JRnhZufyoIWh3N7kjyDOd"
+      "duration_ms": 189613,
+      "name": "F\u00f6rlora",
+      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1151,6 +1219,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "APTIT",
+        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168047,
+      "name": "APTIT",
+      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "All Over Town",
         "url": "https://open.spotify.com/album/321cYact51YEkdO42GqeVe"
       },
@@ -1167,18 +1251,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "APTIT",
-        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
       },
       "artists": [
         {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 168047,
-      "name": "APTIT",
-      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
+      "duration_ms": 210077,
+      "name": "Wasted Years",
+      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1207,22 +1291,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Maskinen \u00e4r tillbaka",
-        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
-      },
-      "artists": [
-        {
-          "name": "Maskinen",
-          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Maskinen \u00e4r tillbaka",
-      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Ramlar jag s\u00e5 faller allt",
         "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
       },
@@ -1239,18 +1307,38 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
+        "name": "Maskinen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
       "artists": [
         {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+          "name": "Maskinen",
+          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
         }
       ],
-      "duration_ms": 210077,
-      "name": "Wasted Years",
-      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
+      "duration_ms": 139836,
+      "name": "Maskinen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 223241,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1287,38 +1375,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+        "name": "V\u00e5r f\u00f6rsta g\u00e5ng en sista g\u00e5ng",
+        "url": "https://open.spotify.com/album/35pQQw9DTlsALNOrkBwUp8"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Linus Kajman",
+          "url": "https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb"
         },
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Oscar Ahlgren",
+          "url": "https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob"
         }
       ],
-      "duration_ms": 223241,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "du g\u00e5r bland molnen",
-        "url": "https://open.spotify.com/album/57BPInDglQuie8TUEiG09e"
-      },
-      "artists": [
-        {
-          "name": "TUVA",
-          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
-        }
-      ],
-      "duration_ms": 180196,
-      "name": "du g\u00e5r bland molnen",
-      "url": "https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f"
+      "duration_ms": 150000,
+      "name": "V\u00e5r f\u00f6rsta g\u00e5ng en sista g\u00e5ng",
+      "url": "https://open.spotify.com/track/3Axf2HwkSSnX9bIgZymBUI"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1339,6 +1411,38 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "du g\u00e5r bland molnen",
+        "url": "https://open.spotify.com/album/57BPInDglQuie8TUEiG09e"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "duration_ms": 180196,
+      "name": "du g\u00e5r bland molnen",
+      "url": "https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Vad Dom Sa",
+        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Vad Dom Sa",
+      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Apple Cider Vinaigrette",
         "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
       },
@@ -1351,26 +1455,6 @@
       "duration_ms": 224039,
       "name": "Apple Cider Vinaigrette",
       "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "V\u00e5r f\u00f6rsta g\u00e5ng en sista g\u00e5ng",
-        "url": "https://open.spotify.com/album/35pQQw9DTlsALNOrkBwUp8"
-      },
-      "artists": [
-        {
-          "name": "Linus Kajman",
-          "url": "https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb"
-        },
-        {
-          "name": "Oscar Ahlgren",
-          "url": "https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "V\u00e5r f\u00f6rsta g\u00e5ng en sista g\u00e5ng",
-      "url": "https://open.spotify.com/track/3Axf2HwkSSnX9bIgZymBUI"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1407,22 +1491,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Vad Dom Sa",
-        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Vad Dom Sa",
-      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Rock'n'Roll",
         "url": "https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK"
       },
@@ -1435,6 +1503,22 @@
       "duration_ms": 159661,
       "name": "Rock'n'Roll",
       "url": "https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Stay Young",
+        "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Hart",
+          "url": "https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1467,22 +1551,6 @@
       "duration_ms": 172880,
       "name": "Allting som du sa",
       "url": "https://open.spotify.com/track/3wgflpkXEzeFG7N156Q5Jx"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Stay Young",
-        "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
-      },
-      "artists": [
-        {
-          "name": "Ludwig Hart",
-          "url": "https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl"
-        }
-      ],
-      "duration_ms": 195954,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1551,6 +1619,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Hon \u00e4r vild",
+        "url": "https://open.spotify.com/album/28dPgtLK8PND2rzZHCNwbk"
+      },
+      "artists": [
+        {
+          "name": "Pipex",
+          "url": "https://open.spotify.com/artist/7fRCCOWZeBLEtfSIRpNEby"
+        }
+      ],
+      "duration_ms": 144510,
+      "name": "Hon \u00e4r vild",
+      "url": "https://open.spotify.com/track/1Th1uvS3oPsZP30JiMuSHw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Whole Damn Summer",
         "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
       },
@@ -1563,26 +1647,6 @@
       "duration_ms": 162985,
       "name": "Whole Damn Summer",
       "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "HAPPENS",
-        "url": "https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj"
-      },
-      "artists": [
-        {
-          "name": "LUCIIA",
-          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
-        },
-        {
-          "name": "Sabina Ddumba",
-          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "HAPPENS",
-      "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1607,18 +1671,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hon \u00e4r vild",
-        "url": "https://open.spotify.com/album/28dPgtLK8PND2rzZHCNwbk"
+        "name": "HAPPENS",
+        "url": "https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj"
       },
       "artists": [
         {
-          "name": "Pipex",
-          "url": "https://open.spotify.com/artist/7fRCCOWZeBLEtfSIRpNEby"
+          "name": "LUCIIA",
+          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
         }
       ],
-      "duration_ms": 144510,
-      "name": "Hon \u00e4r vild",
-      "url": "https://open.spotify.com/track/1Th1uvS3oPsZP30JiMuSHw"
+      "duration_ms": 208333,
+      "name": "HAPPENS",
+      "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1687,22 +1755,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Weak Point",
         "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
@@ -1735,6 +1787,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Hon \u00e4r liv",
         "url": "https://open.spotify.com/album/5SfusNXUIfDQNJa3xL5bBI"
       },
@@ -1747,82 +1815,6 @@
       "duration_ms": 147520,
       "name": "Hon \u00e4r liv",
       "url": "https://open.spotify.com/track/2ATMAlWadqEjkZ5c0GljAf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "It Takes Me Places...",
-        "url": "https://open.spotify.com/album/2hu5hB7E6GABTNd0s8d7Hh"
-      },
-      "artists": [
-        {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
-        }
-      ],
-      "duration_ms": 185097,
-      "name": "Nothing To Prove",
-      "url": "https://open.spotify.com/track/7zrn5lY8a2kJUk9DLKhyXJ"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Innerst Inne",
-        "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        },
-        {
-          "name": "Elias Abbas",
-          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Innerst Inne",
-      "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/1ixHyQnaN9WXJP66W4HvbK"
-      },
-      "artists": [
-        {
-          "name": "vem e du",
-          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
-        },
-        {
-          "name": "demz",
-          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
-        },
-        {
-          "name": "Kattastrof",
-          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/0kIqMQt2VtC0bxcnOU9iGf"
     }
   ],
   "unique_name": "Made in Sweden",

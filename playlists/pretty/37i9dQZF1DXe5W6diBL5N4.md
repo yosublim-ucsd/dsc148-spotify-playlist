@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YENA\(최예나\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,325 likes - 118 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,397 likes - 118 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 33 | [Wish](https://open.spotify.com/track/7mLTxku0pqW3mIunoEVLx8) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Wish](https://open.spotify.com/album/4AsF24EFXz4lNOmD0oHZNY) | 2:55 |
 | 34 | [From The Sky](https://open.spotify.com/track/56CCjPVLOF40d5PxaGs6P2) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [From The Sky](https://open.spotify.com/album/2ozbHJ4wZbvBHkMo6byZ4W) | 5:00 |
 | 35 | [MOOOL](https://open.spotify.com/track/1pE0HF8aglKJMyMzODAB7r) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MOOOL](https://open.spotify.com/album/3L9ae2mgDOuM3uzv4rRgRI) | 3:58 |
-| 36 | [SAD GAS CYPHER VOL.1](https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG) | [SAD GAS CYPHER VOL.1](https://open.spotify.com/album/25KTqf6LsGvb5Zfe8SuzRh) | 7:54 |
+| 36 | [SAD GAS CYPHER VOL.1 \(feat\. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint\)](https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [ONCHA](https://open.spotify.com/artist/1bFopqNLKXpBvGmcG2sx7x), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [SAD GAS CYPHER VOL.1 \(feat\. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint\)](https://open.spotify.com/album/25KTqf6LsGvb5Zfe8SuzRh) | 7:54 |
 | 37 | [Miss you](https://open.spotify.com/track/27bD8hfG3oxPzuVU79KHzS) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Miss you](https://open.spotify.com/album/3nqzLgfSf2lNs6tKNK1JaR) | 3:43 |
 | 38 | [Faded Letter](https://open.spotify.com/track/5q7bCLo7xzMHLGeFap2I5t) | [CREZL](https://open.spotify.com/artist/0f4nDQol3Zkg9gYtseaLeh) | [Faded Letter](https://open.spotify.com/album/24ezoWmQgEVtU9j59l3kcP) | 4:11 |
 | 39 | [Be Kind Rewind \(Feat\. Yeona\)](https://open.spotify.com/track/23YZB0F7GNqlxkYde6KjMo) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Yeona](https://open.spotify.com/artist/5Jrxovji5lXLan5kWpRLuW) | [The Legacy 14](https://open.spotify.com/album/6Tn5iz9KRP8jJTJ2XgdGZs) | 3:46 |

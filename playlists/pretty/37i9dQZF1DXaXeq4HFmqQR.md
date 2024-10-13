@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Mariana Bfly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,711 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,716 likes - 30 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 4 | [777](https://open.spotify.com/track/2YfZe1Eicnm2JbHHjRvd8n) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:35 |
 | 5 | [boca](https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [boca](https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj) | 2:26 |
 | 6 | [Mantra](https://open.spotify.com/track/2LPosy22QzecHq7ScFlcKW) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mantra](https://open.spotify.com/album/6fS3ym6H9gIXExaEhGyPRV) | 2:41 |
-| 7 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
+| 7 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 8 | [Como Si Fuese Real](https://open.spotify.com/track/6QrM9W6ccP6Gf5sOAI4oEp) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Como Si Fuese Real](https://open.spotify.com/album/2nI1kLvBAT8NdMDrny1UK4) | 1:55 |
-| 9 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 9 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
 | 10 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 |
 | 11 | [ilegal.](https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [ilegal.](https://open.spotify.com/album/1XV0mUCzpeicwz6rw0oOF5) | 2:13 |
 | 12 | [DIABLO](https://open.spotify.com/track/1A4BLT4teAWuLw7XGkuY7O) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [DIABLO](https://open.spotify.com/album/2pV89AMcDndsgPlTmHD1p6) | 2:50 |
-| 13 | [Ryp](https://open.spotify.com/track/6lXy11iC3w8LLzhkXYXdF9) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:14 |
-| 14 | [duendes y hadas](https://open.spotify.com/track/6AhVA1tZ9N2BD91PZpVyTM) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [anubi extraña a ra](https://open.spotify.com/album/6IyAGW0j09alsGYeZGHHd7) | 2:52 |
+| 13 | [duendes y hadas](https://open.spotify.com/track/6AhVA1tZ9N2BD91PZpVyTM) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [anubi extraña a ra](https://open.spotify.com/album/6IyAGW0j09alsGYeZGHHd7) | 2:52 |
+| 14 | [Ryp](https://open.spotify.com/track/6lXy11iC3w8LLzhkXYXdF9) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:14 |
 | 15 | [Fck That](https://open.spotify.com/track/6aZomHzOBYl76O7KSoApa5) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Triste Y Linda: Triste](https://open.spotify.com/album/165LKgBYEmOFnLT55uFIk5) | 2:36 |
 | 16 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 |
 | 17 | [BBY HÁBLAME](https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [BBY HÁBLAME](https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX) | 3:30 |

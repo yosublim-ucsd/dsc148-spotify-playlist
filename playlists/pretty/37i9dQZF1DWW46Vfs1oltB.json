@@ -1,6 +1,6 @@
 {
   "description": "The fresh & hottest K-Hip hop tracks.",
-  "num_followers": 535729,
+  "num_followers": 535749,
   "original_name": "KrOWN",
   "owner": {
     "name": "Spotify",
@@ -823,17 +823,45 @@
     {
       "added_at": "2024-10-10 09:24:51",
       "album": {
-        "name": "SAD GAS CYPHER VOL.1",
+        "name": "SAD GAS CYPHER VOL.1 (feat. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint)",
         "url": "https://open.spotify.com/album/25KTqf6LsGvb5Zfe8SuzRh"
       },
       "artists": [
         {
           "name": "YUNB",
           "url": "https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        },
+        {
+          "name": "Donutman",
+          "url": "https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc"
+        },
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "ONCHA",
+          "url": "https://open.spotify.com/artist/1bFopqNLKXpBvGmcG2sx7x"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
       "duration_ms": 474013,
-      "name": "SAD GAS CYPHER VOL.1",
+      "name": "SAD GAS CYPHER VOL.1 (feat. Dbo, Donutman, EK, Khundi Panda, Owen, Oncha & Verbal Jint)",
       "url": "https://open.spotify.com/track/0U92TsaaPoTDldNYokuo11"
     },
     {

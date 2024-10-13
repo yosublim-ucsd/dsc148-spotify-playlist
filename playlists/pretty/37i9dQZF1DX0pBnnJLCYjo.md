@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,092 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,248 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 | 25 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 26 | [OHH BABY](https://open.spotify.com/track/11pjpFy9m7CQqVBC0A5EPG) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:27 |
 | 27 | [Blamegame](https://open.spotify.com/track/3dSplmMF8Dyw5R8NL5fb5c) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:25 |
-| 28 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 |
+| 28 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 |
 | 29 | [Antidepresivos](https://open.spotify.com/track/5NxgenNnK2EXDfzkO8oKqt) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Antidepresivos](https://open.spotify.com/album/2FhnW6RWMy7EV4rOUphZGT) | 2:25 |
 | 30 | [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 |
 | 31 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |

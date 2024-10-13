@@ -1,12 +1,12 @@
 {
-  "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 28208,
+  "description": "This Is Howlin' Wolf. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 28221,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAADMsy3+xHrHHoi5J33uQtUo",
+  "snapshot_id": "ZwhqgAAAAAD2rmB1N9i7/8l9CLemtEyZ",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electro Blues - In House Selection",
-        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Cryin' at Daybreak",
-      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -280,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 155360,
-      "name": "Sitting On Top Of The World",
-      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "Electro Blues - In House Selection",
+        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
       },
       "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+      "duration_ms": 155360,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
     },
     {
       "added_at": null,
@@ -559,34 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin' Wolf Sessions - Reissue",
-        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Worried About My Baby",
-      "url": "https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -619,6 +591,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The London Howlin' Wolf Sessions - Reissue",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
         "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
       },
@@ -631,6 +631,38 @@
       "duration_ms": 387306,
       "name": "Love Me - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/24WvMZQn89ClIfzNvWvMac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "I'm The Wolf",
+      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
     },
     {
       "added_at": null,
@@ -679,38 +711,6 @@
       "duration_ms": 162093,
       "name": "I Better Go Now - Single Version",
       "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "I'm The Wolf",
-      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 248693,
-      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
+      "duration_ms": 334320,
+      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 334320,
-      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
+      "duration_ms": 248693,
+      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
     },
     {
       "added_at": null,

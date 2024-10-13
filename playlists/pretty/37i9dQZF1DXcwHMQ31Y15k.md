@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema, Woro Widowati, Esa Risty
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,724 likes - 101 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,806 likes - 101 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pujaningsih](https://open.spotify.com/track/1mi2dlST0WDqL1zU4bqNGs) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Pujaningsih](https://open.spotify.com/album/3K5uzPkTzwGGCZO29ae0wT) | 6:24 |
-| 2 | [Losdol](https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Losdol](https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx) | 5:10 |
+| 2 | [Los Dol](https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx) | 5:10 |
 | 3 | [Golek Upo Tekan Chino](https://open.spotify.com/track/35db0V5J0lg4WJxn61PGpx) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Golek Upo Tekan Chino](https://open.spotify.com/album/2XSeWKbDYZibDhqqyr4xyH) | 3:04 |
 | 4 | [Saktenane 3 \- Acoustic Version](https://open.spotify.com/track/0BSwdsK4gbsIS0ZPbMybgz) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane 3 \(Acoustic Version\)](https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV) | 6:17 |
 | 5 | [Tutug](https://open.spotify.com/track/3DwDTd0AvCgWlPkLzSOXIA) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tutug](https://open.spotify.com/album/4Z5swETDpF0iAR2rinVRyF) | 4:57 |

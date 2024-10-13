@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenin Ram\u00edrez. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 72391,
+  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
+  "num_followers": 72397,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAB9B8e9A0qacaI6YNoVgY1H",
+  "snapshot_id": "ZwhqgAAAAAAFz9xMkW7tZJtE8Uads7oZ",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joaqu\u00edn",
+        "url": "https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 209625,
+      "name": "Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joaqu\u00edn",
-        "url": "https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi"
-      },
-      "artists": [
-        {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 209625,
-      "name": "Joaqu\u00edn",
-      "url": "https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Que Te Olvido",
-        "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 165208,
-      "name": "Mientras Que Te Olvido",
-      "url": "https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Que Te Olvido",
+        "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 165208,
+      "name": "Mientras Que Te Olvido",
+      "url": "https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas de la Vida",
-        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Las Vueltas de la Vida",
-      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 163477,
       "name": "Conmigo Ya No Cuentas",
       "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas de la Vida",
+        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Las Vueltas de la Vida",
+      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,436 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,461 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 16 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 |
 | 17 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 |
 | 18 | [Depuis Marseille](https://open.spotify.com/track/5zeaJWVCjplq3uLSrcMP1S) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:15 |
-| 19 | [2 Little Mountains](https://open.spotify.com/track/6FqKatWR2tNugWFod9T9Vk) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [2 Little Mountains](https://open.spotify.com/album/5teUs0YI544K9Anr5IjKqf) | 2:12 |
+| 19 | [Two \(2\) Little Mountains](https://open.spotify.com/track/6FqKatWR2tNugWFod9T9Vk) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Two \(2\) Little Mountains](https://open.spotify.com/album/5teUs0YI544K9Anr5IjKqf) | 2:12 |
 | 20 | [Bermudes](https://open.spotify.com/track/79lTYn64xiWpQaP3AgtFYC) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Bermudes](https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c) | 2:55 |
 | 21 | [Sunday Morning](https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sunday Morning](https://open.spotify.com/album/5wZufLuyvuv9n7pBhUT6ai) | 2:26 |
 | 22 | [Virer nos vies](https://open.spotify.com/track/3xxhsgtji7JHYpcNNJAiF7) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 4:50 |

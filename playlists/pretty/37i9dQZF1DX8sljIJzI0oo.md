@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 De La Rose is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,043 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,101 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 6 | [Martini](https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:44 |
 | 7 | [S E X P L A Y L I S T 1](https://open.spotify.com/track/7w3G5VXJLLbuaWylG7hvVi) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:57 |
 | 8 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
-| 9 | [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
+| 9 | [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
 | 10 | [Después De La 1](https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg) | [MJ](https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp) | 2:57 |
 | 11 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 |
 | 12 | [Sata](https://open.spotify.com/track/0QuN5vYnyaVwiBwwDviDbb) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Sata](https://open.spotify.com/album/5uuHsw9ZePcwpr8IzjssO8) | 2:49 |

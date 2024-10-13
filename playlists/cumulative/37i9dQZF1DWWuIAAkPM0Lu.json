@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "\ud83c\udf2a\ufe0f <a href=\"spotify:artist:5RaTuqY7SJHvh6MNzMagut\">D1MA</a> <a href=\"spotify:artist:2dfY7zXIP61MKHtD175hFp\">7</a> p\u00e5 repeat \ud83c\udf2a\ufe0f",
+  "description": "\ud83c\udf2a\ufe0f <a href=\"spotify:artist:5RaTuqY7SJHvh6MNzMagut\">D1MA</a> <a href=\"spotify:album:7nYokidgcvRUWqipPFMBJu\">7</a> p\u00e5 repeat \ud83c\udf2a\ufe0f",
   "name": "New Music Friday Denmark",
   "tracks": [
     {
@@ -4892,12 +4892,12 @@
       },
       "artists": [
         {
-          "name": "Nander",
-          "url": "https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ"
-        },
-        {
           "name": "Daniel McMillan",
           "url": "https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8"
+        },
+        {
+          "name": "Nander",
+          "url": "https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ"
         }
       ],
       "date_added": "2024-10-10",

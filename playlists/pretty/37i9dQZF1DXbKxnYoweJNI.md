@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 夜貓組 \(Leo王+春艷\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,898 likes - 110 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,901 likes - 110 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 3 | [TRUST](https://open.spotify.com/track/7fldmGxkBjiPzmhSG7ClNJ) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0) | [TRUST](https://open.spotify.com/album/2Oe3cTJ2IRGiTr1UuiMxfw) | 2:52 |
 | 4 | [L!KE](https://open.spotify.com/track/1DAGzOx1hZTRyni4aC2yQU) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [L!KE](https://open.spotify.com/album/5Utl9VItJfJR4TIbI2XsRM) | 2:44 |
 | 5 | [今天的樣子](https://open.spotify.com/track/5T5uegUfdaLf6JbNItlW3n) | [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [今天的樣子](https://open.spotify.com/album/2Y3ctAKv0NfZeE6Lysn8xW) | 4:08 |
-| 6 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/2k6AewNKDERSkyajEkt7yH), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 |
+| 6 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 |
 | 7 | [你的降臨（網劇《晴晚之林》主題曲）](https://open.spotify.com/track/709fLVXVMHTCKIgmAPO4xQ) | [李权哲](https://open.spotify.com/artist/2B65tsDq3Cr2XPRBu3GXl0) | [你的降臨（網劇《晴晚之林》主題曲）](https://open.spotify.com/album/68xGXKihhlmAdqQ0hIZ9ap) | 3:14 |
 | 8 | [愛妳到不愛我那天](https://open.spotify.com/track/77PjaRBWOQNmGdRbxiMrru) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [愛妳到不愛我那天](https://open.spotify.com/album/3aRQEs2lkYza6sv3XMJxh9) | 3:08 |
 | 9 | [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:21 |

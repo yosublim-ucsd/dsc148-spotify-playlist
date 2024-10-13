@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-170 songs - 12 hr 3 min
+171 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [play the world!](https://open.spotify.com/track/4M9x9R9Ar89CFatJwMbkrf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [PABLO](https://open.spotify.com/artist/395Le6nBY9v6viVKGYAIYw) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:18 | 2022-05-31 |  |
 | [Psychedelic Drive](https://open.spotify.com/track/4G5RbWAUcfhoxqaZgVRzGg) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LUCKY Hi FiVE!](https://open.spotify.com/album/3S391tsVADLxhClJzt4tSU) | 4:10 | 2022-05-31 | 2023-06-14 |
 | [Psychedelic Drive](https://open.spotify.com/track/7grQfm1wHVcBv2aVJJNJw6) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LUCKY Hi FiVE!](https://open.spotify.com/album/58iuvEHBB7S230k6mY6uNR) | 4:10 | 2022-05-31 | 2022-07-29 |
+| [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-12 |  |
 | [Rally Go Round](https://open.spotify.com/track/2kuitZwspuGShsNYXx5Zvp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:34 | 2022-05-31 |  |
 | [rapid lady ハレーション](https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:20 | 2022-05-31 | 2023-06-14 |
 | [rapid life シンドローム](https://open.spotify.com/track/0Kmd9fVw0Mz6PgKHJCvraP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:48 | 2022-05-31 | 2023-06-14 |

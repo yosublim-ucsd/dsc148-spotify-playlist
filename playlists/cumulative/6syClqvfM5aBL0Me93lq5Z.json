@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/6rTwGJpY5r4Mugnivnyro4"
+    },
+    {
+      "album": {
         "name": "The Click (Deluxe Edition)",
         "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
       },

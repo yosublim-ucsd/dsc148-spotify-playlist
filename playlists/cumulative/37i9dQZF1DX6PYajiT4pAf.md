@@ -4,14 +4,14 @@
 
 > Gonzy y el resto de novedades más importantes de la semana.
 
-71 songs - 3 hr 37 min
+72 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 NOCHE](https://open.spotify.com/track/6P1ttfK3yQ7E28OY21m9bD) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Botlok](https://open.spotify.com/artist/2JMMYnclwW8fhcgty8VSxg) | [ENERGÍA](https://open.spotify.com/album/3s3iFmxfBPmJBYqzt35PRJ) | 2:15 | 2024-10-11 |  |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-11 |  |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-11 |  |
-| [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 | 2024-10-11 |  |
+| [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 | 2024-10-11 |  |
 | [Capitana](https://open.spotify.com/track/76TSlE0RFkF6hiO1jVwFUz) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Capitana](https://open.spotify.com/album/23yZOe2sG4VGvobqauJha7) | 4:33 | 2024-10-11 |  |
 | [Caprese](https://open.spotify.com/track/5L7OVK9Dl3glnOrXYh8rT1) | [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Caprese](https://open.spotify.com/album/3DrV6KJlZZPUr5PdxDYX4y) | 3:13 | 2024-10-11 |  |
 | [Capó](https://open.spotify.com/track/5sAGMelAqeHGeEGWa5YxGc) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Inteligencia Natural](https://open.spotify.com/album/3HTtKjdOchsLp9AOFrTKtO) | 3:00 | 2024-10-11 |  |
@@ -48,6 +48,7 @@
 | [Next](https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Next](https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW) | 2:33 | 2024-10-11 |  |
 | [Nightstreets](https://open.spotify.com/track/6ukHBJJfIuK8zA4Fzwkl3w) | [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf), [RIZHA](https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI) | [Nightstreets](https://open.spotify.com/album/5qVekTmT5bzs9BGb0wM1n0) | 2:28 | 2024-10-11 |  |
 | [No me duele](https://open.spotify.com/track/0He74nJo5sa28ONW1J7KrR) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No me duele](https://open.spotify.com/album/5tp3ALCbxJuAJFUHv5XmeN) | 4:13 | 2024-10-11 |  |
+| [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 | 2024-10-11 |  |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-11 |  |
 | [Otra Vez](https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [Otra Vez](https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP) | 1:54 | 2024-10-11 |  |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-11 |  |

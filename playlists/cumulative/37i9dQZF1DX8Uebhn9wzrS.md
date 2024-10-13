@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,100 songs - 3 day 8 hr 2 min
+2,101 songs - 3 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [BAGS](https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [BAGS](https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52) | 2:21 | 2024-08-09 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
 | [Ballin](https://open.spotify.com/track/5wkhCoKLTfmGzpOxj2xGSo) | [Meet$](https://open.spotify.com/artist/2HxYou8ZSMwWRYB1bZaL0K), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Ballin](https://open.spotify.com/album/5YJYSDXsFhzbNQU29VMHVO) | 2:12 | 2022-04-15 | 2022-12-03 |
-| [Balloon](https://open.spotify.com/track/2SVXLCEy97fwoUK43FGdC2) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Balloon](https://open.spotify.com/album/3m7TO5D8LgZi7r8intoakb) | 1:34 | 2023-06-06 |  |
+| [Balloon](https://open.spotify.com/track/2SVXLCEy97fwoUK43FGdC2) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Balloon](https://open.spotify.com/album/3m7TO5D8LgZi7r8intoakb) | 1:34 | 2023-06-06 | 2024-10-13 |
 | [Bamboo](https://open.spotify.com/track/2AK8kyq8K9OpoB2lT0H86q) | [El Pel](https://open.spotify.com/artist/5AMJNJ5AEsjYybY4u2tJ3D) | [Bamboo](https://open.spotify.com/album/6nCxm8p5a7itjBMRb6J3iO) | 2:22 | 2022-06-10 | 2024-05-14 |
 | [Banzai](https://open.spotify.com/track/17vSg7KjpV5vHRYqlMcft7) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 4:35 | 2022-04-15 | 2022-09-02 |
 | [Baobab](https://open.spotify.com/track/55T3gpC529x2MFyadhVQ27) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Baobab](https://open.spotify.com/album/3soETJQRYj3ywOtkWHQSSk) | 2:50 | 2022-08-12 | 2022-12-17 |
@@ -647,6 +647,7 @@
 | [Flight of the Mitoglider](https://open.spotify.com/track/1K5whJr9TAgFAohNbp26Qg) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 3:17 | 2022-04-15 | 2022-06-10 |
 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 | 2022-04-15 | 2022-11-12 |
 | [Float](https://open.spotify.com/track/0yvdmeWytGMCzDAABS9HQ1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Float](https://open.spotify.com/album/4zeOVYdKsMoH4eOFXZlpXK) | 2:48 | 2022-04-15 | 2022-10-01 |
+| [Float Freely](https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Float Freely](https://open.spotify.com/album/6BmmFiCDiS3ZOZBIkeVkUO) | 2:06 | 2024-10-11 |  |
 | [Float n Flutter](https://open.spotify.com/track/2TypGPFyLoIbLDInw8ddD5) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Float n Flutter](https://open.spotify.com/album/6x5U1UCPqcD4BPfN2x7c7t) | 3:32 | 2022-04-15 | 2022-05-27 |
 | [Floaters](https://open.spotify.com/track/2rgapVlFONTsaODlhND1Aw) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Floaters](https://open.spotify.com/album/5RFDxuuu1KXN9iKqLOsPow) | 1:43 | 2022-07-08 | 2022-12-03 |
 | [Floating](https://open.spotify.com/track/2uFzIxt7J5OpLC5nRagdAk) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Floating](https://open.spotify.com/album/1R7eubUnpwUVU7iV5SFG67) | 3:06 | 2022-04-15 | 2022-11-12 |
@@ -1541,7 +1542,7 @@
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-04-15 | 2022-11-12 |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2022-04-15 | 2022-08-19 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
-| [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-07-13 |  |
+| [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-07-13 | 2024-10-13 |
 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 | 2022-07-22 |  |
 | [Rouge](https://open.spotify.com/track/22bYbDsgnaER8slX9gY3Zl) | [Glader](https://open.spotify.com/artist/0yyL8zG1tfZVT8ID1syuNH) | [Rouge](https://open.spotify.com/album/1g5mZLj0mIyQ4uC5LhdqON) | 1:17 | 2022-04-15 | 2022-05-27 |
 | [Round & Round](https://open.spotify.com/track/1GRCZ3L8NGgr7kfQcWRnKH) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Round & Round](https://open.spotify.com/album/6zNSgXNh03UlRxw63KAbNA) | 2:32 | 2023-07-13 | 2023-10-27 |
@@ -1640,7 +1641,7 @@
 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2022-12-16 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2022-04-15 | 2022-07-01 |
 | [Sleeping Dragon](https://open.spotify.com/track/4S5Y7hfLeBV4JeNCSVesCJ) | [Ecobel](https://open.spotify.com/artist/4a2u0lWLCECK322dq8CJn1) | [Sleeping Dragon](https://open.spotify.com/album/1TEacGrU5KkL9IsA6Dbpi8) | 2:39 | 2022-12-02 | 2023-03-25 |
-| [Sleepwalking](https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb) | [FLU JIVERS](https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Sleepwalking](https://open.spotify.com/album/23t8Dd1yV098PZsgel640c) | 2:15 | 2024-10-04 | 2024-10-08 |
+| [Sleepwalking](https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb) | [FLU JIVERS](https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Sleepwalking](https://open.spotify.com/album/23t8Dd1yV098PZsgel640c) | 2:15 | 2024-10-04 |  |
 | [Sleepy + Hungry](https://open.spotify.com/track/6ZhiAKKnfB9UVCkG5BSG08) | [Hood Banger](https://open.spotify.com/artist/7Gh2ugpqKKRBuyz6TU54e2) | [PEACE](https://open.spotify.com/album/3JBEOeDCFn4VswlfoIAILD) | 2:51 | 2022-09-02 | 2022-12-24 |
 | [Slow Breaths](https://open.spotify.com/track/1RE3GKAmTksBgeJ2F2Jikd) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Slow Breaths](https://open.spotify.com/album/5AoEPaJg52pcsTYJ432PMl) | 2:07 | 2024-01-19 |  |
 | [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 | 2022-09-16 | 2022-10-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Apex Village, Laime  &  Psycho YP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

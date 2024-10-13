@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas (Stereo)",
+        "url": "https://open.spotify.com/album/42ox4MGwicKUm6SpLBdnWO"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122958,
+      "name": "It's Beginning To Look A Lot Like Christmas - Stereo",
+      "url": "https://open.spotify.com/track/2BCflO8xrbY1xvTU7X6Cux"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Dean Martin",
         "url": "https://open.spotify.com/album/5uQ2ZPFRPrOVDXBdXUtx8z"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30461,
+  "num_followers": 30469,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
+      },
+      "artists": [
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        }
+      ],
+      "duration_ms": 227532,
+      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "Live 2022",
         "url": "https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 272640,
       "name": "\u05d7\u05dc\u05dc\u05d9\u05d5\u05ea - Bonus Track",
       "url": "https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 227532,
-      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 189047,
       "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -943,6 +943,34 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "Eder 2 Lipschitz",
+          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
+        },
+        {
+          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
+          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
+        },
+        {
+          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
+          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
+        }
+      ],
+      "duration_ms": 190259,
+      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "\u05d4\u05d7\u05e6\u05e8 \u05d4\u05d0\u05d7\u05d5\u05e8\u05d9\u05ea 3",
         "url": "https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE"
       },
@@ -971,34 +999,6 @@
       "duration_ms": 240000,
       "name": "\u05d5\u05d0\u05d5\u05dc\u05d9 \u05d4\u05e1\u05d5\u05e3 \u05db\u05d1\u05e8 \u05d4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
-        }
-      ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-        "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
-      },
-      "artists": [
-        {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
-      "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
         "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 343074,
       "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
       "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

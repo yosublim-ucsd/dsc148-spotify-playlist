@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1162320,
+  "num_followers": 1162289,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Sweet Misery",
-        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Sweet Misery",
+        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 189329,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Silent Advance",
-        "url": "https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0"
       },
       "artists": [
         {
-          "name": "Bryan Rahija",
-          "url": "https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59"
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
         }
       ],
-      "duration_ms": 145818,
-      "name": "Silent Advance",
-      "url": "https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW"
+      "duration_ms": 199334,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0"
+        "name": "Silent Advance",
+        "url": "https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8"
       },
       "artists": [
         {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+          "name": "Bryan Rahija",
+          "url": "https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59"
         }
       ],
-      "duration_ms": 199334,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF"
+      "duration_ms": 145818,
+      "name": "Silent Advance",
+      "url": "https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW"
     },
     {
       "added_at": "2024-08-23 14:59:54",

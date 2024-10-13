@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "Never Meant To Hurt You",
+        "url": "https://open.spotify.com/album/6CjJWtF9mRZDf56vM0ZLNt"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198468,
+      "name": "Never Meant To Hurt You",
+      "url": "https://open.spotify.com/track/3rNYHbstaeEffuvJNSbxIM"
+    },
+    {
+      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },

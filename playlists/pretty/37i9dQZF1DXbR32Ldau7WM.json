@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: King Gnu",
-  "num_followers": 289207,
+  "num_followers": 289218,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "Teenage Blue",
         "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 225644,
       "name": "Teenage Blue",
       "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "andymori",
-        "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
-      },
-      "artists": [
-        {
-          "name": "andymori",
-          "url": "https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA"
-        }
-      ],
-      "duration_ms": 86280,
-      "name": "\u3059\u3054\u3044\u901f\u3055",
-      "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "SINGLE 2",
         "url": "https://open.spotify.com/album/39Vo0c5IAQGV6FeM79yVPi"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211360,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/1BSPzJUlehqKGH7usVYCCE"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "Pepperoni Quattro",
+        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "Pepperoni Quattro",
-        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+        "name": "andymori",
+        "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "andymori",
+          "url": "https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA"
         }
       ],
-      "duration_ms": 220720,
-      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+      "duration_ms": 86280,
+      "name": "\u3059\u3054\u3044\u901f\u3055",
+      "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Eye's Sentry",
-      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "\u72c2\u8a69\u66f2",
         "url": "https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 254733,
       "name": "\u72c2\u8a69\u66f2",
       "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "todayyyyy",
-        "url": "https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "todayyyyy",
-      "url": "https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "The End of Yesterday",
         "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "todayyyyy",
+        "url": "https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "todayyyyy",
+      "url": "https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03"
     },
     {
       "added_at": "2024-10-08 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-08 15:00:00",
       "album": {
-        "name": "LOVE ROCKETS",
-        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
-      },
-      "artists": [
-        {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "LOVE ROCKETS",
-      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 239970,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
+    },
+    {
+      "added_at": "2024-10-08 15:00:00",
+      "album": {
+        "name": "LOVE ROCKETS",
+        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "LOVE ROCKETS",
+      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
     },
     {
       "added_at": "2024-10-08 15:00:00",

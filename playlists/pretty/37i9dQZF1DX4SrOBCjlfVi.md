@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, GloRilla, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,394 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,533 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Everybody Ate](https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Everybody Ate](https://open.spotify.com/album/6rBBpdKbdlGhbXoaXP0FNi) | 1:52 |
 | 24 | [Flashing Lights](https://open.spotify.com/track/1JGPFDKDvHHSpqXXoWhfcz) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Flashing Lights](https://open.spotify.com/album/5SW5DDqAe2gBPdAGLmbaO4) | 1:02 |
 | 25 | [High Stakes](https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [High Stakes](https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq) | 2:25 |
-| 26 | [Squeeze 1st 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1st 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
+| 26 | [Squeeze 1St 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1St 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
 | 27 | [Black Widow](https://open.spotify.com/track/3dpfWbJnLkBuh5K2arGG27) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Daringer](https://open.spotify.com/artist/1P0AVHyHvAhFwpDNHiPtcE) | [Hatton Garden Holdup](https://open.spotify.com/album/2niNpp7qVRRAtBXxVcx04A) | 2:13 |
 | 28 | [I Thought You Loved Me](https://open.spotify.com/track/2VBoEzOyOj2LS7ste20pHb) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Different Space](https://open.spotify.com/album/2xIvCqgbhZGenjk9BLcueX) | 3:56 |
 | 29 | [Top Of The Morning](https://open.spotify.com/track/5dlxwBSejcXd9gxn80aSH3) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [The Encore](https://open.spotify.com/album/11WrQPBMuYt6a2JdqpruWC) | 2:24 |

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> 🌪️ <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">7</a> på repeat 🌪️
+> 🌪️ <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> <a href="spotify:album:7nYokidgcvRUWqipPFMBJu">7</a> på repeat 🌪️
 
 2,466 songs - 5 day 7 hr 24 min
 
@@ -257,7 +257,7 @@
 | [Bird in a Cage](https://open.spotify.com/track/1K1vbD5yJ7Oi7g9APCjAWz) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:38 | 2024-07-04 | 2024-07-12 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-16 | 2024-05-24 |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-25 | 2024-08-02 |
-| [Bittersweet](https://open.spotify.com/track/1kdwyzH4Ru6glHvmp2vTLN) | [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Bittersweet](https://open.spotify.com/album/3tPCBsGC1fHOsF7TKnIcly) | 2:48 | 2024-10-10 |  |
+| [Bittersweet](https://open.spotify.com/track/1kdwyzH4Ru6glHvmp2vTLN) | [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ) | [Bittersweet](https://open.spotify.com/album/3tPCBsGC1fHOsF7TKnIcly) | 2:48 | 2024-10-10 |  |
 | [Black & Gold](https://open.spotify.com/track/1hK82ERSZ37oWQWuiDv90J) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [Black & Gold](https://open.spotify.com/album/3x8klMCZWyPBSxMTsqaBSB) | 2:04 | 2024-09-19 | 2024-09-27 |
 | [black & white](https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [black & white](https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL) | 3:28 | 2024-09-12 | 2024-09-20 |
 | [BLACK <3](https://open.spotify.com/track/0KGorm5ZgIfyNriVnuQ5A6) | [FLAVA](https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg) | [BLACK <3](https://open.spotify.com/album/1bdBtpvhoeAb07RxCoArz9) | 2:42 | 2024-08-27 | 2024-09-06 |

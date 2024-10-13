@@ -1,13 +1,29 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 251020,
+  "num_followers": 251348,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAACpzMy8S9oNb2O942hddqrG",
+  "snapshot_id": "ZwhqgAAAAAA/Aukjsk/b/aqDoIjZDZpc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/1LePNsLHPGuEGBzCUPtlUg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/6AY3A4tPK9RGuGVHJwGtrw"
+    },
     {
       "added_at": null,
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Tex Tex](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19SYxl)
 
-> This is Tex Tex。アーティストの代表曲をひとつのプレイリストに。
+> This is Tex Tex\. The essential tracks, all in one playlist.
 
 61 songs - 3 hr 45 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is keshi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YBCTj)
 
-> This is keshi。アーティストの代表曲をひとつのプレイリストに。
+> This is keshi\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 5 min
 

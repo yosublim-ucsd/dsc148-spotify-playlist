@@ -4,7 +4,7 @@
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 45 min
+70 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:06 | 2024-03-09 |  |
 | [From Here to the Moon and Back \(feat\. Dolly Parton\)](https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:01 | 2024-06-14 |  |
 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 | 2024-03-09 |  |
+| [Gonna Be You \(feat\. Callie Twisselman\)](https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R) | [Gonna Be You \(feat\. Callie Twisselman\)](https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj) | 3:04 | 2024-10-13 |  |
 | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U), [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/album/4yq6mXEcVYU7wphdgqgiys) | 2:58 | 2024-03-09 | 2024-10-11 |
 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 | 2024-03-09 |  |
 | [Have The Heart \(Feat\. Dolly Parton\)](https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:03 | 2024-09-14 |  |

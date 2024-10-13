@@ -1,18 +1,18 @@
 {
-  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
-  "num_followers": 400077,
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "num_followers": 400157,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAACvuYll1LpNU4SKv3oSAf8Y",
+  "snapshot_id": "ZwhqgAAAAACKCXnxnCohH37NqawJGtY7",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Come To Brazil",
-        "url": "https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE"
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Come To Brazil",
-      "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Half-Truism",
-      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
+      "duration_ms": 220946,
+      "name": "Original Prankster",
+      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 220946,
-      "name": "Original Prankster",
-      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+      "duration_ms": 205946,
+      "name": "Half-Truism",
+      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "The Meaning Of Life",
+      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Come To Brazil",
+        "url": "https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 176666,
-      "name": "The Meaning Of Life",
-      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
+      "duration_ms": 259626,
+      "name": "Come To Brazil",
+      "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
     },
     {
       "added_at": null,
@@ -527,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "The Fall Guy",
+      "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -559,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -575,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
       "artists": [
         {
@@ -584,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 165146,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+      "duration_ms": 120346,
+      "name": "Truth In Fiction",
+      "url": "https://open.spotify.com/track/1gx6wJfh9vN3kez2xsGDbN"
     },
     {
       "added_at": null,
@@ -639,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
       "artists": [
         {
@@ -648,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+      "duration_ms": 196680,
+      "name": "Looking Out For #1",
+      "url": "https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C"
     },
     {
       "added_at": null,
@@ -671,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
@@ -680,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Session - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,
@@ -703,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
       },
       "artists": [
         {
@@ -712,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 158333,
-      "name": "This Is Not Utopia",
-      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
     },
     {
       "added_at": null,
@@ -735,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
       "artists": [
         {
@@ -744,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 167893,
-      "name": "Cool To Hate",
-      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+      "duration_ms": 206800,
+      "name": "Hanging By A Thread",
+      "url": "https://open.spotify.com/track/7MSwEE1HU6j5f6QxomS5Ct"
     },
     {
       "added_at": null,
@@ -767,54 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "The Noose",
-      "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Dirty Magic",
-      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Way Down The Line",
-      "url": "https://open.spotify.com/track/6hyZliAlUzUmU3sAeWLDwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Army Of One",
-      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
+      "duration_ms": 158333,
+      "name": "This Is Not Utopia",
+      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
     }
   ],
   "unique_name": "This Is The Offspring",

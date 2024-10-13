@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Charli xcx ja Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,571 likes - 88 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,569 likes - 88 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

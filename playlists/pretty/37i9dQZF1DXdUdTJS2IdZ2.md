@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: brb.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,835 likes - 105 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,837 likes - 105 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-681 songs - 1 day 16 hr 38 min
+682 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
-| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 |  |
+| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 | 2024-10-13 |
 | [papel de fumar](https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [papel de fumar](https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo) | 3:39 | 2024-03-08 | 2024-04-20 |
 | [Para adelante](https://open.spotify.com/track/5e7gh9uiFIgahfcf8CyXRF) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Para adelante](https://open.spotify.com/album/0lG5a8ExT3lwwF2nww96Nh) | 3:51 | 2023-03-10 | 2023-03-25 |
 | [Para Ahuyentar a un Demonio](https://open.spotify.com/track/71nrtVcxTQiNodjMlHXqw8) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Para Ahuyentar a un Demonio](https://open.spotify.com/album/3ECzKOZefQ6X4eWpMHrnIX) | 4:09 | 2022-02-25 | 2022-04-20 |
@@ -561,6 +561,7 @@
 | [Ser](https://open.spotify.com/track/2wtPyan1LEDLFPUZNpERCw) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Ser](https://open.spotify.com/album/28joFYilzjRQ72CVjNeBHc) | 3:03 | 2022-01-27 | 2022-02-01 |
 | [Ser + Peque](https://open.spotify.com/track/4Ha0IH9PM7QpD7PQC1Ic1E) | [Teree](https://open.spotify.com/artist/4hcbAecUdoV3kX1n9oHV11) | [Ser + Peque](https://open.spotify.com/album/1lLu1JBvqehoat6yror7XZ) | 3:17 | 2024-03-29 | 2024-04-13 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-04-09 |
+| [Seré Guitarra](https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Maria Jose Mendoza](https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki) | [Seré Guitarra](https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5) | 3:35 | 2024-10-11 |  |
 | [Señor Tiempo](https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Señor Tiempo](https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U) | 5:40 | 2024-07-11 |  |
 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 | 2024-06-11 | 2024-07-12 |
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |

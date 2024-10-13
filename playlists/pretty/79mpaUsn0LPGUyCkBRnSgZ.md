@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 533 songs - 1 day 11 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 532 songs - 1 day 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,15 +531,14 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 521 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
 | 522 | [Prayer Man](https://open.spotify.com/track/5bwX27BYWQDeUj5qVCTGc6) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:38 |
 | 523 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
-| 524 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
-| 525 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
-| 526 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 |
-| 527 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 |
-| 528 | [Glass Jar](https://open.spotify.com/track/14IWm0tDTfAulD43I4LpNh) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 11:21 |
-| 529 | [Dael](https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 6:39 |
-| 530 | [Global Lunch](https://open.spotify.com/track/4a0nwQkT9fxrPYuWrQhe9C) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Far Side Virtual](https://open.spotify.com/album/6ikRgitLXuaNJ75YY3zGUc) | 2:13 |
-| 531 | [Albatross](https://open.spotify.com/track/1RBDB3HoCxi0w605ZS8FsF) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Second Edition](https://open.spotify.com/album/5votrp9PY49suw8xnXqyrm) | 10:38 |
-| 532 | [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 |
-| 533 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 |
+| 524 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
+| 525 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 |
+| 526 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 |
+| 527 | [Glass Jar](https://open.spotify.com/track/14IWm0tDTfAulD43I4LpNh) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 11:21 |
+| 528 | [Dael](https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 6:39 |
+| 529 | [Global Lunch](https://open.spotify.com/track/4a0nwQkT9fxrPYuWrQhe9C) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Far Side Virtual](https://open.spotify.com/album/6ikRgitLXuaNJ75YY3zGUc) | 2:13 |
+| 530 | [Albatross](https://open.spotify.com/track/1RBDB3HoCxi0w605ZS8FsF) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Second Edition](https://open.spotify.com/album/5votrp9PY49suw8xnXqyrm) | 10:38 |
+| 531 | [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 |
+| 532 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 |
 
-Snapshot ID: `AAAGmusIL24anKyuC8ejlyoc5HWLf8Ew`
+Snapshot ID: `AAAGmzwfdtC6F7kVpfsDwxbYxmFAVV7P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,870 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,918 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 68 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
 | 69 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 |
 | 70 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
-| 71 | [Noches en BCN](https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX) | [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Hombre de Oro](https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA) | 4:22 |
-| 72 | [Tequila Sunrise \- Spanish Version](https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Tequila Sunrise](https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV) | 3:57 |
+| 71 | [Tequila Sunrise \- Spanish Version](https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Tequila Sunrise](https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV) | 3:57 |
+| 72 | [Noches en BCN](https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX) | [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Hombre de Oro](https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA) | 4:22 |
 | 73 | [Homer el Mero Mero 24/Siempre](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [24/Siempre, Vol\. 1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
 | 74 | [A Praga](https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [A Praga](https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi) | 3:12 |
 | 75 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 92 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
 | 93 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 |
 | 94 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
-| 95 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
-| 96 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
+| 95 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
+| 96 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
 | 97 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
 | 98 | [Réplica](https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Réplica](https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we) | 5:05 |
 | 99 | [El Mito de la Caverna](https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:15 |

@@ -26500,7 +26500,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 200053,
       "name": "Twin Fates",
       "url": "https://open.spotify.com/track/6jR4l7mOKxiOOQ8c8RDfQV"
@@ -48894,6 +48894,24 @@
       "duration_ms": 264321,
       "name": "\u8a00\u3044\u305f\u3044\u3088\u30a8\u30b4",
       "url": "https://open.spotify.com/track/0KRwK3bI7x6WSCwEAdXBJY"
+    },
+    {
+      "album": {
+        "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+        "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180233,
+      "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+      "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
     },
     {
       "album": {

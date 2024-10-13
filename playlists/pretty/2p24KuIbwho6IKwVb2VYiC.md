@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: MEDUZA
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,761 likes - 132 songs - 6 hr 57 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,765 likes - 132 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

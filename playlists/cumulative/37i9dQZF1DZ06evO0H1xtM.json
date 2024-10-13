@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
+  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Marca Registrada",
   "tracks": [
     {
@@ -280,6 +280,28 @@
       "duration_ms": 206677,
       "name": "BUGATTI CHIRON",
       "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
+    },
+    {
+      "album": {
+        "name": "BW",
+        "url": "https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171443,
+      "name": "BW",
+      "url": "https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP"
     },
     {
       "album": {

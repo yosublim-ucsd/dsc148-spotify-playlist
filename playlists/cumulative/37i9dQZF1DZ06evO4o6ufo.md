@@ -2,7 +2,7 @@
 
 ### [This Is Panter Bélico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4o6ufo)
 
-> This Is Panter Bélico\. Los temas esenciales, todos en una lista.
+> This is Panter Bélico\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 12 min
 

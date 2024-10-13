@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,835 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,883 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 56 | [Side Effects](https://open.spotify.com/track/1tGkSTvNcMzENS2avYlG2q) | [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [I Was Lonely Til I Wrote This](https://open.spotify.com/album/2pLTRQKHxBqdDMlW8irlON) | 2:49 |
 | 57 | [Reminisce](https://open.spotify.com/track/6JMdjoMWLRwyqUm6RjyO07) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B) | [Reminisce](https://open.spotify.com/album/1FtbOVjWehrdpUjFXVu67R) | 2:35 |
 | 58 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 |
-| 59 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 59 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 60 | [Soft Kissing Hour](https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Soft Kissing Hour](https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt) | 4:02 |
 | 61 | [by my heart](https://open.spotify.com/track/3hKa9zREMdjXBPaCi0JCpl) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [by my heart](https://open.spotify.com/album/2tRDeP6tzmB4DDFdqxRNOE) | 2:41 |
 | 62 | [Afterlife](https://open.spotify.com/track/3modl1AYKAh8bNZBYQdzfq) | [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Afterlife](https://open.spotify.com/album/66zWb82EMycHq1XT0wdnMh) | 2:13 |

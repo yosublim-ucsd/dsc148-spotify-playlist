@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Tove Lo & Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,178 likes - 84 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,329 likes - 84 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

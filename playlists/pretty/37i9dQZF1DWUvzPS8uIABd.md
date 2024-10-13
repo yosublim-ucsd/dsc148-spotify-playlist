@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Erika Vikman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,925 likes - 77 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,942 likes - 77 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

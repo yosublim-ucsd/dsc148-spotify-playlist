@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-238 songs - 10 hr 37 min
+239 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 | 2021-09-24 | 2024-10-03 |
 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 | 2021-09-10 |  |
 | [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 | 2022-10-11 | 2024-09-21 |
-| [On Halloween](https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 1:36 | 2024-09-20 |  |
+| [On Halloween](https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 1:36 | 2024-09-20 | 2024-10-13 |
 | [Overture](https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 1:58 | 2021-08-30 | 2024-09-21 |
 | [Party Like It's Halloween](https://open.spotify.com/track/0gRQ47Opbtm5dKFA2FquFM) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Countdown](https://open.spotify.com/album/1hIYWPFeioHQYLnJLHzj1C) | 2:25 | 2024-10-04 |  |
 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 | 2024-09-20 |  |
@@ -235,6 +235,7 @@
 | [What Am I Gonna Be \(For Halloween\)?](https://open.spotify.com/track/6YzW96S4wiZ7HUBV4tG2MV) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [What Am I Gonna Be \(For Halloween\)?](https://open.spotify.com/album/4R4m9wj10VYRObGkOCpBG6) | 2:51 | 2021-09-10 | 2024-09-21 |
 | [What Should I Be For Halloween?](https://open.spotify.com/track/0r96OZJdxo6RrBLOrnXJgW) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [A Scary Very Halloween](https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick) | 2:48 | 2022-10-11 | 2024-04-19 |
 | [What Should I Be for Halloween?](https://open.spotify.com/track/2jh6FmnzLlqkE222YYs9jo) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [A Scary Very Halloween](https://open.spotify.com/album/7JhfiWlYRO2H0dz2q6apKy) | 2:48 | 2021-09-21 | 2024-09-21 |
+| [What Will You Be for Halloween?](https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Will You Be for Halloween?](https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh) | 2:24 | 2024-10-11 |  |
 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 | 2021-09-10 |  |
 | [Which Witch Is Which?](https://open.spotify.com/track/0z35rHwhneq2HGJy3GtoH7) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:35 | 2021-09-10 | 2024-09-21 |
 | [Who Let The Ghosts Out](https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:46 | 2021-08-30 |  |

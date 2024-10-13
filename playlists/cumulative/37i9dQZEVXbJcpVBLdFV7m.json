@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 173431,
       "name": "1-800-hot-n-fun",
       "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 278082,
       "name": "Bunca Y\u0131l - Dedub Sessions",
       "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
@@ -5074,7 +5074,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 150204,
       "name": "I CAN\u2019T LET GO",
       "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X"
@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
@@ -7931,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Iskam Da Kazha (I Want To Say)",
+        "url": "https://open.spotify.com/album/2S0d6DH1aM3bRpoq3O08XY"
+      },
+      "artists": [
+        {
+          "name": "Kiril Marichkov",
+          "url": "https://open.spotify.com/artist/4lI60AWXx5GvFFj1TG6D2S"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Moyat Svyat",
+      "url": "https://open.spotify.com/track/2nBDM23zL5bw2GuitdIhRH"
+    },
+    {
+      "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
       },
@@ -8847,6 +8865,32 @@
     },
     {
       "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz"
+    },
+    {
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -8858,7 +8902,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 183653,
       "name": "Oscar Winning Tears.",
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
@@ -9480,7 +9524,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 74285,
       "name": "PYTHON FUNK",
       "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
@@ -11212,6 +11256,24 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
+        "name": "Antologia Chast II (Anthology Part II)",
+        "url": "https://open.spotify.com/album/37UgEaPIYfJz588ZAZlRKq"
+      },
+      "artists": [
+        {
+          "name": "Shturcite",
+          "url": "https://open.spotify.com/artist/4lSoH3WMMc6shXt7SqKmBc"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226278,
+      "name": "Sreshta",
+      "url": "https://open.spotify.com/track/1NdMCqqBTK5sYNAEtuidRt"
     },
     {
       "album": {
@@ -14396,7 +14458,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"
@@ -15858,7 +15920,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 225461,
       "name": "\u0421\u043c\u043e\u0442\u0430\u043d",
       "url": "https://open.spotify.com/track/6YsoiHOFt9STSi4ZXO7UMq"
@@ -16298,7 +16360,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 162758,
       "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1lVyaRHwjyoWd9YZqybJEq"

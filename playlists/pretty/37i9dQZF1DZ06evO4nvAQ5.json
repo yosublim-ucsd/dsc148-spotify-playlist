@@ -1,12 +1,12 @@
 {
-  "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14657,
+  "description": "This Is J Boog. Los temas esenciales, todos en una lista.",
+  "num_followers": 14660,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAB1pTZjIaduul8qXKk3xSNF",
+  "snapshot_id": "ZwhqgAAAAACwnumH07ZlulwNUa4StR8w",
   "tracks": [
     {
       "added_at": null,
@@ -131,34 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catching Feelings (feat. J Boog) [Bimwala Remix]",
-        "url": "https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ"
-      },
-      "artists": [
-        {
-          "name": "Inigo Pascual",
-          "url": "https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK"
-        },
-        {
-          "name": "Moophs",
-          "url": "https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Bimwala",
-          "url": "https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Catching Feelings (feat. J Boog) - Bimwala Remix",
-      "url": "https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
         "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
       },
@@ -183,6 +155,34 @@
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catching Feelings (feat. J Boog) [Bimwala Remix]",
+        "url": "https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ"
+      },
+      "artists": [
+        {
+          "name": "Inigo Pascual",
+          "url": "https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK"
+        },
+        {
+          "name": "Moophs",
+          "url": "https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Bimwala",
+          "url": "https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Catching Feelings (feat. J Boog) - Bimwala Remix",
+      "url": "https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 268654,
-      "name": "Aye Ok",
-      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 268654,
+      "name": "Aye Ok",
+      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Hear Me Roar",
-      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigenous Life",
-        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
       "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Let's Get It On (with J Boog)",
-      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
+      "duration_ms": 192168,
+      "name": "Hear Me Roar",
+      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
     },
     {
       "added_at": null,
@@ -559,46 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose Shakas",
-        "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
       },
       "artists": [
         {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         },
-        {
-          "name": "Freddy Leone",
-          "url": "https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Franskiiz",
-          "url": "https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
-      },
-      "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
+      "duration_ms": 227555,
+      "name": "Let's Get It On (with J Boog)",
+      "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
     },
     {
       "added_at": null,
@@ -623,6 +579,50 @@
       "duration_ms": 180173,
       "name": "OILEI",
       "url": "https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose Shakas",
+        "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Freddy Leone",
+          "url": "https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Franskiiz",
+          "url": "https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
       },
       "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
       "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just You & Me",
-        "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205254,
-      "name": "Just You & Me (with J Boog)",
-      "url": "https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Remember Gregory Isaacs",
         "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 243218,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just You & Me",
+        "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205254,
+      "name": "Just You & Me (with J Boog)",
+      "url": "https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q"
     },
     {
       "added_at": null,

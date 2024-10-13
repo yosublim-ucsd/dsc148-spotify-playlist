@@ -2,13 +2,13 @@
 
 ### [This Is SUBSHIFT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3LZ0T8)
 
-> This is SUBSHIFT\. The essential tracks, all in one playlist.
+> This is SUBSHIFT\. Todos os maiores hits em uma só playlist.
 
 60 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 LA](https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [2 LA](https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F) | 2:36 | 2022-10-10 | 2024-09-25 |
+| [2 LA](https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [2 LA](https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F) | 2:36 | 2022-10-10 |  |
 | [After Hours](https://open.spotify.com/track/1RsPpQPKq3REgPS2reByKR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Hours](https://open.spotify.com/album/0xHSBEVtHFggmTWPKLXYtl) | 3:12 | 2022-10-10 | 2023-03-18 |
 | [After Hours](https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Hours](https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB) | 3:12 | 2023-03-17 |  |
 | [After Party](https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Party](https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b) | 3:36 | 2022-10-10 |  |

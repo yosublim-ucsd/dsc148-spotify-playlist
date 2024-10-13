@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Queen. The essential tracks, all in one playlist.",
+  "description": "This Is Queen. Los temas esenciales, todos en una lista.",
   "name": "This Is Queen",
   "tracks": [
     {
@@ -686,6 +686,24 @@
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "album": {
+        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
+        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108373,
+      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
+      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
     },
     {
       "album": {

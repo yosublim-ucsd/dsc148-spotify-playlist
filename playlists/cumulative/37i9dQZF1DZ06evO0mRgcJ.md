@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 53 min
+72 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 |  |
 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 | 2024-05-22 |  |
 | [Ahora Nos Ven](https://open.spotify.com/track/3Jub5p08dcOIxBEt42Ir0O) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ahora Nos Ven](https://open.spotify.com/album/5qVj3KoJry15JOwsBqoinL) | 3:01 | 2024-03-08 | 2024-05-22 |
-| [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 |  |
+| [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 | 2024-10-13 |
 | [Aquel Amor](https://open.spotify.com/track/6x97azhiMoG4ZF6mtUylPw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Bandera Verde](https://open.spotify.com/artist/4UwI6VNUmqlNpBiVhEbdj0) | [Desvelandia Norteñas para Bailar](https://open.spotify.com/album/4UyT3mrj2t3HIHL3EeLnfG) | 3:08 | 2024-10-09 |  |
 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 | 2024-01-29 | 2024-07-17 |
 | [Aqui Sigo Cheveriando](https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:49 | 2024-02-16 |  |
@@ -26,6 +26,7 @@
 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 | 2024-01-29 |  |
 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
+| [Después los Miro](https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Después los Miro](https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3) | 2:43 | 2024-10-13 |  |
 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 | 2024-01-29 |  |
 | [El Guanaco](https://open.spotify.com/track/1OcLkBeRvbZfsKKdnCfXqp) | [Los Pimenteles](https://open.spotify.com/artist/5d6K5E4jQZHP3mzj6FekJS), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Guanaco](https://open.spotify.com/album/3ApGhOlz2bt2FyYcMz8KbT) | 2:44 | 2024-01-29 |  |

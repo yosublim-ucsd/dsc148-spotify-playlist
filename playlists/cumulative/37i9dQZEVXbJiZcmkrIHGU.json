@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 105331,
       "name": "1994",
       "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
@@ -1491,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "7 LEERE ZIMMER (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "7 LEERE ZIMMER (feat. Henning May)",
+      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
+    },
+    {
+      "album": {
         "name": "7 S\u00dcNDEN",
         "url": "https://open.spotify.com/album/4USAMt8VlWMj3DUn7eqHBd"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -4042,7 +4064,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 140986,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/64CWBV60WRWZhb92wmxNNd"
@@ -5357,6 +5379,28 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2wfOvIfJuM6YC9WzNKdKvC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164998,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/3sIG4gEXMRxPch5b19h7Ne"
+    },
+    {
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/05LpIUN4M8qGm1M8mNmp6b"
       },
@@ -6402,7 +6446,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 184413,
       "name": "Beifahrer",
       "url": "https://open.spotify.com/track/59hwJ5R44DZIGrP5LX8xPT"
@@ -6499,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/5cSEvN4TBHPfIciw8Ln05p"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/6CVVvoVNNh1M7NfEjlzW9N"
+    },
+    {
+      "album": {
         "name": "Belly Dance",
         "url": "https://open.spotify.com/album/3toDNpr25RU0FAucGAxfGD"
       },
@@ -6566,10 +6628,40 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 130664,
       "name": "BELOHNEN",
       "url": "https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR"
+    },
+    {
+      "album": {
+        "name": "BELOHNEN",
+        "url": "https://open.spotify.com/album/65sJTRHWvgi6Icg2ZIVbFU"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130664,
+      "name": "BELOHNEN",
+      "url": "https://open.spotify.com/track/2wiRH3djx7l3zJirP539TR"
     },
     {
       "album": {
@@ -6584,7 +6676,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -7436,7 +7528,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -11638,6 +11730,24 @@
       "duration_ms": 190494,
       "name": "Da (feat. FOURTY & Nael)",
       "url": "https://open.spotify.com/track/2UChRscXgwbWn14SdpDtJg"
+    },
+    {
+      "album": {
+        "name": "Daddy is back",
+        "url": "https://open.spotify.com/album/5MGKKrbzDlOMiBA1osl1uD"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Daddy is back",
+      "url": "https://open.spotify.com/track/3Lo7UekbaAJxXoDHX8KUQ6"
     },
     {
       "album": {
@@ -19559,6 +19669,28 @@
     },
     {
       "album": {
+        "name": "F\u00dcR IMMER",
+        "url": "https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160427,
+      "name": "F\u00dcR IMMER",
+      "url": "https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer",
         "url": "https://open.spotify.com/album/3ZFFsBfumTn6a9O02rbZR7"
       },
@@ -20324,6 +20456,28 @@
       "duration_ms": 167665,
       "name": "Geschichten ausm Hof",
       "url": "https://open.spotify.com/track/3FVjGbAi1m3evDKNei6oFZ"
+    },
+    {
+      "album": {
+        "name": "Geschlossene Augen",
+        "url": "https://open.spotify.com/album/3855i0YuxSfGiZcWvZq4Og"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165850,
+      "name": "Geschlossene Augen",
+      "url": "https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR"
     },
     {
       "album": {
@@ -25194,7 +25348,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB"
@@ -34505,6 +34659,24 @@
     },
     {
       "album": {
+        "name": "pass auf mein herz auf",
+        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156143,
+      "name": "mit dir ist es anders",
+      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
+    },
+    {
+      "album": {
         "name": "Mit dir schlafen",
         "url": "https://open.spotify.com/album/5m3CioQ9csTPMNOOD24yXM"
       },
@@ -35928,7 +36100,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -36816,6 +36988,24 @@
       "duration_ms": 163626,
       "name": "Nebel",
       "url": "https://open.spotify.com/track/4n4iqZr6YRJJGykyBzTk66"
+    },
+    {
+      "album": {
+        "name": "NEBEL",
+        "url": "https://open.spotify.com/album/5afrwVANVssv1WlxmXwzX4"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182904,
+      "name": "NEBEL",
+      "url": "https://open.spotify.com/track/3cQ3NejWYSXqL2u4njYBKw"
     },
     {
       "album": {
@@ -41800,7 +41990,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -43058,7 +43248,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 206259,
       "name": "RED CUPS (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
@@ -48084,7 +48274,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 170898,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/0Rgdhptwk0A3Clbu5RpYI1"
@@ -49656,7 +49846,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52175,6 +52365,28 @@
     },
     {
       "album": {
+        "name": "Triathlon",
+        "url": "https://open.spotify.com/album/5wATs1pdxNtqlvom0sJaPF"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        },
+        {
+          "name": "GRiNGO",
+          "url": "https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158282,
+      "name": "Triathlon",
+      "url": "https://open.spotify.com/track/4VYRLwbMIPEkjiYHlEpZMi"
+    },
+    {
+      "album": {
         "name": "Triple Threat",
         "url": "https://open.spotify.com/album/2pidB8MEJS2jppZ2FoCqSW"
       },
@@ -53191,6 +53403,28 @@
     },
     {
       "album": {
+        "name": "Unter den Linden (feat. Pashanim)",
+        "url": "https://open.spotify.com/album/67uPKr5xxA2ZwjHMTEXU1l"
+      },
+      "artists": [
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123106,
+      "name": "Unter den Linden (feat. Pashanim)",
+      "url": "https://open.spotify.com/track/7zl0YpAOkPDayTz72HgIJf"
+    },
+    {
+      "album": {
         "name": "Unter die Haut",
         "url": "https://open.spotify.com/album/2nsaNwlGghj8P4rK8JaPZo"
       },
@@ -53304,7 +53538,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -54644,6 +54878,28 @@
       "duration_ms": 152454,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/4eWo9P0bY0SniczUtzTYxu"
+    },
+    {
+      "album": {
+        "name": "WAHH QZENG",
+        "url": "https://open.spotify.com/album/3tBRLnIH3y0U0KePsehP2c"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "WAHH QZENG",
+      "url": "https://open.spotify.com/track/1bFvFr4H39lE3hZk49r7g6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli xcx & Ariana Grande, GloRilla, BLOND:ISH, Saya Gray and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,848 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,884 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [Nobody Move](https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Nobody Move](https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5) | 2:01 |
 | 43 | [Problems](https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB) | 3:03 |
 | 44 | [EASY!](https://open.spotify.com/track/1ZePJy3P8Xgzh54C5JfUXr) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [EASY!](https://open.spotify.com/album/0GJdja9kQ2Z1V3TtDSa1q2) | 1:55 |
-| 45 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 45 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 46 | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/track/6DqGhw2PlGKxPnP3ja3EcD) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/album/19Jwy83v1HBZ2bpOaB9UEe) | 3:34 |
 | 47 | [bbhur](https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [bbhur](https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR) | 4:05 |
 | 48 | [Money and Me \- Unreleased](https://open.spotify.com/track/0vwAuqOeO3ypcDI8NvMGM1) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Forever Never Cares \(Deluxe Edition\)](https://open.spotify.com/album/0PZsrNZyuxUaJAxVJ3eI5B) | 3:51 |

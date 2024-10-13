@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36751,
+  "num_followers": 36752,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
         "name": "Rollen in den Norden",
         "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 167701,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
     },
     {
       "added_at": "2024-10-11 17:16:37",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
-        "name": "I Hate The Sun",
-        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 202623,
-      "name": "I Hate The Sun",
-      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
         "name": "Generation",
         "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
+        "name": "I Hate The Sun",
+        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 202623,
+      "name": "I Hate The Sun",
+      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
     },
     {
       "added_at": "2024-10-11 17:16:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
-        "name": "Only One I Need",
-        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Only One I Need",
-      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177317,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
+        "name": "Only One I Need",
+        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Only One I Need",
+      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
     },
     {
       "added_at": "2024-10-11 17:16:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
-        "name": "Old Again",
-        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 197458,
-      "name": "Old Again",
-      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
         "name": "Mond",
         "url": "https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 155328,
       "name": "Mond",
       "url": "https://open.spotify.com/track/2Jb3Hv9Wj4gnhv9APP99rK"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
+        "name": "Old Again",
+        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 197458,
+      "name": "Old Again",
+      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
     },
     {
       "added_at": "2024-10-11 17:16:37",

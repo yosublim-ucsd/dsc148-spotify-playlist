@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,098 likes - 130 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,363 likes - 130 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

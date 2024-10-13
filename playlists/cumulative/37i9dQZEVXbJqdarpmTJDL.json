@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Agapi Mou Me Dioxneis",
+        "url": "https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170257,
+      "name": "Agapi Mou Me Dioxneis",
+      "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 158000,
       "name": "EMRATA",
       "url": "https://open.spotify.com/track/32mjlY9k5lq3UISyFUGWyb"
@@ -11316,7 +11334,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 159340,
       "name": "Euro Gangsta",
       "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
@@ -17228,7 +17246,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -18490,7 +18508,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 138352,
       "name": "KRIMI 2",
       "url": "https://open.spotify.com/track/0NMilOjQW10H4gykCfrwfP"
@@ -18574,7 +18592,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -25509,6 +25527,32 @@
     },
     {
       "album": {
+        "name": "TO THRASITATO EP",
+        "url": "https://open.spotify.com/album/5nCSGUywctnLogqsnHis79"
+      },
+      "artists": [
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "ODYDOZE",
+          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "O Thrasis",
+      "url": "https://open.spotify.com/track/5HH5Qt2k9OVaQF6On6t4pf"
+    },
+    {
+      "album": {
         "name": "To Paidi Tou Dromou 2",
         "url": "https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl"
       },
@@ -27188,7 +27232,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -36011,7 +36055,7 @@
         },
         {
           "name": "Lev",
-          "url": "https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I"
+          "url": "https://open.spotify.com/artist/4gzCTR7Rv6ttD5SfG0VclF"
         }
       ],
       "date_added": "2024-10-05",

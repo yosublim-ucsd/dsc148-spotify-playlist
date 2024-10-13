@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 487993,
+  "num_followers": 487970,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAAEIkiViXjyWs5Qrg+/s06O",
+  "snapshot_id": "ZwhqgAAAAADLXIffFJthobvTxh4nCHwV",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "New Eyes (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chill, dummy",
         "url": "https://open.spotify.com/album/1Jlt2mp0aew89zqL1S6l86"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "New Eyes (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-40 songs - 2 hr 25 min
+41 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2023-07-07 |  |
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2023-03-21 |  |
+| [Riddles](https://open.spotify.com/track/6rTwGJpY5r4Mugnivnyro4) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 4:00 | 2024-10-12 |  |
 | [Role Models](https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:12 | 2023-03-21 |  |
 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 | 2024-01-17 |  |
 | [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 | 2024-09-19 |  |

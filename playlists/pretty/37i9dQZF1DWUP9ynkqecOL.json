@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23165,
+  "num_followers": 23167,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Circular Tejido",
         "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 295073,
       "name": "Rio Contento",
       "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Bailarin",
-        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 217030,
-      "name": "Bailarin",
-      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Muchas Estrellas",
         "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 271000,
       "name": "Muchas Estrellas",
       "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Bailarin",
+        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 217030,
+      "name": "Bailarin",
+      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "El tiempo de las cosas que frenan",
-        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
-      },
-      "artists": [
-        {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 300250,
-      "name": "El tiempo de las cosas que frenan",
-      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Antikuna Anqa",
         "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "El tiempo de las cosas que frenan",
+        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+      },
+      "artists": [
+        {
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 300250,
+      "name": "El tiempo de las cosas que frenan",
+      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
     },
     {
       "added_at": "2024-09-26 21:24:36",

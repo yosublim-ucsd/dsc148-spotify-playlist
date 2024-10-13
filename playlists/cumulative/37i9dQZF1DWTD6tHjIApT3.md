@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: アイナ・ジ・エンド
 
-2,682 songs - 7 day 4 hr 2 min
+2,683 songs - 7 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1394,7 +1394,7 @@
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 |  |
 | [Turn the Page](https://open.spotify.com/track/2ph7AUXKmXlv8OcISSCwxs) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Ray of Light](https://open.spotify.com/album/4X8CU6m309XnquexWCkWx9) | 3:45 | 2024-02-06 | 2024-02-14 |
 | [Turning Point](https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [Jaded](https://open.spotify.com/album/1TH2eZsAL864QvCL1o7xuv) | 3:09 | 2023-12-07 | 2023-12-13 |
-| [Twin Fates](https://open.spotify.com/track/6jR4l7mOKxiOOQ8c8RDfQV) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Twin Fates](https://open.spotify.com/album/3ZEzNh9z0j4bEesbpO5kr8) | 3:20 | 2024-10-01 |  |
+| [Twin Fates](https://open.spotify.com/track/6jR4l7mOKxiOOQ8c8RDfQV) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Twin Fates](https://open.spotify.com/album/3ZEzNh9z0j4bEesbpO5kr8) | 3:20 | 2024-10-01 | 2024-10-13 |
 | [TWO HANDS](https://open.spotify.com/track/0A4YsyGeKycMLInrCBwsGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/6Ye9bLX5bekU0FlUsGBJhv) | 3:58 | 2023-12-19 | 2023-12-27 |
 | [TWO HANDS](https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z) | 3:58 | 2023-12-19 | 2023-12-21 |
 | [U Complete Me](https://open.spotify.com/track/5SiBpyGbgWTMOd2umJoD5I) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [faveur](https://open.spotify.com/album/1yo1HNltioZFkpkR0UDD65) | 2:09 | 2022-06-14 | 2022-06-17 |
@@ -2586,6 +2586,7 @@
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-05-29 | 2022-12-20 |
 | [西日暮里の緑](https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [西日暮里の緑](https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm) | 4:03 | 2023-11-21 | 2023-12-13 |
 | [言いたいよエゴ](https://open.spotify.com/track/0KRwK3bI7x6WSCwEAdXBJY) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [言いたいよエゴ](https://open.spotify.com/album/6vEqdPzjIBo42cJKC7WLcs) | 4:24 | 2024-08-06 | 2024-09-04 |
+| [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 | 2024-10-08 |  |
 | [詩、歌、唄](https://open.spotify.com/track/1aHGlS1yAWtoxHepO1P9M3) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [詩、歌、唄](https://open.spotify.com/album/2W2eOcLCBpFkICtmzdq4pf) | 4:26 | 2024-05-21 | 2024-05-29 |
 | [話そうよ](https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [AIRPORT](https://open.spotify.com/album/025EE81TmzGA11OpBbKuoI) | 4:41 | 2023-05-16 | 2023-05-18 |
 | [誰](https://open.spotify.com/track/4j7zdmTUrt4QFI2agkiGcq) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [誰](https://open.spotify.com/album/7H9ftscZlqNgEK2liXRh9L) | 3:33 | 2024-07-16 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,969 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,066 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 6 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 7 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 |
 | 8 | [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 |
-| 9 | [مات القلب لي كان يبغيك \(Cheb Rami\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Mounder Boustila](https://open.spotify.com/artist/38PWS86isakS814pTNY68V) | [مات القلب لي كان يبغيك \(Cheb Rami\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 |
+| 9 | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 |
 | 10 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 |
 | 11 | [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/track/7H0si3I4LaDIMrjkHXWTWx) | [Kimo Wahrani](https://open.spotify.com/artist/1WlwQX1JVVz308Juhg8q51) | [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/album/3yFZXVH5rdPOEoeaixAoeB) | 4:07 |
 | 12 | [Malki Haka Weliti](https://open.spotify.com/track/7evwM5uPSZ6WwzICh552Ik) | [Cheb Zaki](https://open.spotify.com/artist/4cDLgPzIec1iULfQjFBBcV) | [Malki Haka Weliti](https://open.spotify.com/album/3bLu6R5DWGi3JX0SyPpeH3) | 4:33 |

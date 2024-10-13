@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-277 songs - 14 hr 0 min
+278 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Fire In Detroit](https://open.spotify.com/track/1vpDn2AeBEcKS0hSkbvh4K) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/5pOeJp4lMFkrQVzIJvXPgl) | 4:59 | 2023-10-13 | 2024-02-29 |
 | [Fire In Detroit](https://open.spotify.com/track/7oUnKsa84QuvSUZ6ssNNdI) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka) | [Fire In Detroit](https://open.spotify.com/album/0VEkd4NLUm337P8FrbHnDI) | 4:59 | 2024-03-20 | 2024-07-15 |
 | [Fire In Detroit](https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3) | [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T) | 4:59 | 2024-02-23 | 2024-04-19 |
-| [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 | 2023-08-22 |  |
+| [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 | 2023-08-22 | 2024-10-13 |
 | [Focus Up](https://open.spotify.com/track/484tt1h7RV28dZ9swDWhKp) | [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [Focus Up](https://open.spotify.com/album/1oweSRD0bh09QJRCedoGkg) | 2:41 | 2023-08-22 |  |
 | [folding edges](https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [folding edges](https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p) | 2:21 | 2023-08-22 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2023-08-22 | 2024-04-19 |
@@ -218,6 +218,7 @@
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 |  |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
+| [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |
 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 | 2024-09-13 |  |
 | [Speaker](https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Speaker](https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn) | 2:03 | 2023-08-22 |  |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 | 2024-09-07 |

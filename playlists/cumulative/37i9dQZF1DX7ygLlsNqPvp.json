@@ -1219,6 +1219,32 @@
     },
     {
       "album": {
+        "name": "IN THE NAME OF TRAP",
+        "url": "https://open.spotify.com/album/2krum5eBoSEc6HRIJGwQhl"
+      },
+      "artists": [
+        {
+          "name": "Thywill",
+          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
+        },
+        {
+          "name": "ACE ILLY",
+          "url": "https://open.spotify.com/artist/6XewKkNpxtgdCe9PK8dhqG"
+        },
+        {
+          "name": "Kojo Trilla",
+          "url": "https://open.spotify.com/artist/3Ono7nD1VcCWLVcRunitbk"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106959,
+      "name": "Codeine Protein",
+      "url": "https://open.spotify.com/track/2b4yohvh6HCTBgVKOYLbNZ"
+    },
+    {
+      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
       },
@@ -2056,7 +2082,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 136901,
       "name": "Go for the Money",
       "url": "https://open.spotify.com/track/4N2YVtFzy8eKNwudJFoGwP"

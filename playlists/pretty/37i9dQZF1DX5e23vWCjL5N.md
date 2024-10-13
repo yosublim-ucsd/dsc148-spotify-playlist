@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Cosang
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,863 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,881 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 14 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
 | 15 | [Ivan Zucco \(Red Bull 64 Bars\)](https://open.spotify.com/track/51C7PZgzmYpBHwWQtq8bK4) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [Ivan Zucco \(Red Bull 64 Bars\)](https://open.spotify.com/album/4fsZEHoIPFw5htJkdzUtue) | 3:02 |
 | 16 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 |
-| 17 | [Cosa resterà di noi](https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:31 |
+| 17 | [Cosa resterà di noi](https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:31 |
 | 18 | [DOLCEVITA](https://open.spotify.com/track/3aSeeZMwVQViHVXHXWPMc4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 |
 | 19 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 |
 | 20 | [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 |

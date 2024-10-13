@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Matthaios
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,345 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,373 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wag Lang Ganon](https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [Wag Lang Ganon](https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF) | 3:12 |
 | 2 | [Dulo](https://open.spotify.com/track/422s4sn1hQclqci1rUl78a) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI), [Vaughn](https://open.spotify.com/artist/5jy8TSg982wcBINinxTMc1) | [Dulo](https://open.spotify.com/album/3qxYGGu2UyKKyfXOatLZQO) | 3:15 |
-| 3 | [HIndi Na Nga](https://open.spotify.com/track/7jirOEqNXjzsT6kXo3Pxul) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [HIndi Na Nga](https://open.spotify.com/album/6pYELxhtoQFk45F7oWXNy5) | 3:22 |
+| 3 | [Hindi Na Nga](https://open.spotify.com/track/7jirOEqNXjzsT6kXo3Pxul) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [Hindi Na Nga](https://open.spotify.com/album/6pYELxhtoQFk45F7oWXNy5) | 3:22 |
 | 4 | [Handa Ka Ba](https://open.spotify.com/track/6OiJpYVW6x6l1CZTI1Ah3a) | [Samsara 304](https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ) | [Handa Ka Ba](https://open.spotify.com/album/3rvItCAjXieA18AgSjoJhb) | 3:48 |
 | 5 | [kaya kaya](https://open.spotify.com/track/2sN1luMYIaywC0IwaoZAtL) | [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [kaya kaya](https://open.spotify.com/album/1B0ZgJZhWMPFcwWgfDmy9m) | 3:09 |
 | 6 | [Ughwit](https://open.spotify.com/track/2IWxHLlhYKtt1Dyabi8PTX) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [Ughwit](https://open.spotify.com/album/4UmzyThOD0R6vWJBgBrBQw) | 2:50 |

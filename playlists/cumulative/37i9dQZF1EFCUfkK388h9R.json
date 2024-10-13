@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "seven-twenty-four",
+        "url": "https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "seven-twenty-four",
+      "url": "https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04"
       },

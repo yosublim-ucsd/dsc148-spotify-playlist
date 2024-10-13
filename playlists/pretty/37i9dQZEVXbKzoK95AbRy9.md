@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,831 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,880 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
 | 50 | [Amor de Fim de Noite / Por Favor / Nem Aí \- Ao Vivo](https://open.spotify.com/track/3xs03uDJOKoo9iaY6eZi3m) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Amor de Fim de Noite / Por Favor / Nem Aí \(Ao Vivo\)](https://open.spotify.com/album/2fX5kbDAbre7ykaJMDdFhc) | 5:11 |
 
-Snapshot ID: `LpySSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lp3mIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

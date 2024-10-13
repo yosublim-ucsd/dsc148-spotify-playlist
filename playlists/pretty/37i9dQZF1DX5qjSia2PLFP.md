@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next in their regions and beyond\. Cover: <a href="spotify:artist:57Ay3Ye4cloEzuDSTYQ1kw">John Mackk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,676 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,762 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

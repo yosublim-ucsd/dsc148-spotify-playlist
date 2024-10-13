@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-865 songs - 2 day 8 hr 59 min
+866 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [Windy Summer](https://open.spotify.com/track/4CxWMGkVGyuMTkl0e9UK6h) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Windy Summer](https://open.spotify.com/album/0mdXuSgGpupwZ6TZ8woMcV) | 4:01 | 2023-12-12 | 2024-01-31 |
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-06 | 2023-07-08 |
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/2ZTsJLuGom7SjIoY5ynrvA) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/2LFaMKaaTbd70dHI3cRC1l) | 3:33 | 2023-06-06 | 2023-06-08 |
-| [Windy You](https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Windy You](https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp) | 3:48 | 2024-05-28 |  |
+| [Windy You](https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Windy You](https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp) | 3:48 | 2024-05-28 | 2024-10-13 |
 | [Winter Rendezvous](https://open.spotify.com/track/0IF4URa1v7SFOVyEBy3J8d) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [Winter Rendezvous](https://open.spotify.com/album/0shVnBn8FxSca5ZNWV4nLf) | 4:58 | 2022-12-27 | 2023-01-11 |
 | [Yellow \(feat\. TENDERLAMP\)](https://open.spotify.com/track/6pu9QPa4I9kF0MnSKhESTj) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi) | [Yellow \(feat\. TENDERLAMP\)](https://open.spotify.com/album/2GzJP3hyLDoL0wjo4WXOds) | 2:41 | 2023-11-14 | 2023-11-23 |
 | [YES](https://open.spotify.com/track/5rslF0Fbi7XRexvUFFn9ZW) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [YES](https://open.spotify.com/album/2CdjH026oJ7PGlRis0E7Uc) | 3:55 | 2022-09-06 | 2022-09-15 |
@@ -622,6 +622,7 @@
 | [つむぐように \(Twiny\)](https://open.spotify.com/track/39leepccRwzzJZi76sK3GS) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [つむぐように \(Twiny\)](https://open.spotify.com/album/0XlGIOzcJRlQxvksyHic0o) | 3:54 | 2022-10-04 | 2022-10-12 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-05 |
 | [どうしようもないな](https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Beats In The Morning](https://open.spotify.com/album/6HJLe4bBHR4BHPnVBSMmcA) | 4:35 | 2022-06-30 | 2022-07-27 |
+| [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2024-09-25 |  |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-10 |  |
 | [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-11-10 | 2023-12-19 |
 | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo) | 3:54 | 2024-07-17 | 2024-09-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 24677,
+  "num_followers": 24689,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-10-07 10:30:20",
       "album": {
+        "name": "SISS",
+        "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 170934,
+      "name": "SISS",
+      "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
+    },
+    {
+      "added_at": "2024-10-07 10:30:20",
+      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
-    },
-    {
-      "added_at": "2024-10-07 10:30:20",
-      "album": {
-        "name": "SISS",
-        "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 170934,
-      "name": "SISS",
-      "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
     },
     {
       "added_at": "2024-10-07 10:30:20",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2024-10-07 10:30:20",
       "album": {
-        "name": "rabiga",
-        "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
+        "name": "kelet",
+        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
       },
       "artists": [
         {
           "name": "Dzs\u00fadl\u00f3",
           "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Signo",
+          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
         }
       ],
-      "duration_ms": 199991,
-      "name": "k\u00e9t \u00e9v",
-      "url": "https://open.spotify.com/track/351nDPn6IUlP0fYmTmbkUc"
+      "duration_ms": 207818,
+      "name": "kelet",
+      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
     },
     {
       "added_at": "2024-10-07 10:30:20",

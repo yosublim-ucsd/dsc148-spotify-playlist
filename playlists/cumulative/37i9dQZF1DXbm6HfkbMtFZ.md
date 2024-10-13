@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-586 songs - 1 day 11 hr 11 min
+587 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Didn't I \(Florent F Rework\)](https://open.spotify.com/track/5dO9U61RjDdPONjwchImNh) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I \- EP](https://open.spotify.com/album/4ne0arqARv5yfiytCDE2TF) | 3:45 | 2021-12-16 | 2022-07-29 |
 | [Didn't I \- Florent F Rework](https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I](https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ) | 3:45 | 2022-07-26 | 2024-04-19 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-04-25 |  |
+| [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:35 | 2024-10-01 |  |
 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 | 2022-01-21 | 2022-04-21 |
 | [Don't Fight It](https://open.spotify.com/track/4RA9ZpI3j42NUrYl34VUex) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Frontline / Don't Fight It](https://open.spotify.com/album/0cvM4O4eHs6EphNEum0paC) | 3:35 | 2022-03-30 | 2022-04-19 |
 | [Don't You Evah](https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga \(2017 Remaster\)](https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E) | 3:36 | 2022-03-30 |  |
@@ -540,7 +541,7 @@
 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 | 2023-02-10 | 2024-04-19 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2023-03-10 | 2023-05-04 |
 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 | 2022-03-30 |  |
-| [U Got Me](https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [The Midst of Things](https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ) | 3:26 | 2024-08-14 |  |
+| [U Got Me](https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [The Midst of Things](https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ) | 3:26 | 2024-08-14 | 2024-10-13 |
 | [U Remind Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Spotify Singles](https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8) | 3:18 | 2022-07-26 | 2022-10-04 |
 | [U Remind Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7xQiq1lCtwkJdI3zni9BZp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Spotify Singles](https://open.spotify.com/album/5O5QZeIcUuJr7Fx5GwOIA0) | 3:18 | 2022-03-30 | 2022-04-20 |
 | [Uncanny Valley \- Moods Remix](https://open.spotify.com/track/7ozqC3XiCssbjTvvqrKN5v) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Uncanny Valley](https://open.spotify.com/album/3aaf1bE7rnkYsQQl52lgcD) | 3:46 | 2022-03-30 | 2022-04-19 |

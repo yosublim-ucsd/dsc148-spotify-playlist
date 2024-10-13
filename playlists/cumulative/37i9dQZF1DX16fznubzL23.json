@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -1326,6 +1326,24 @@
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+    },
+    {
+      "album": {
+        "name": "Stone Cold Heart",
+        "url": "https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213181,
+      "name": "Going Nowhere Slowly",
+      "url": "https://open.spotify.com/track/7Li81J4JSt763RhK94qajP"
     },
     {
       "album": {
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 185142,
       "name": "Miracle Worker (feat. Lojay)",
       "url": "https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX"
@@ -2614,6 +2632,28 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z"
     },
     {
       "album": {

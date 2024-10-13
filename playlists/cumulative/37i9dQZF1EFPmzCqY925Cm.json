@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Memoir of a Sparklemuffin",
+        "url": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Gateway Drug",
+      "url": "https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb"
+    },
+    {
+      "album": {
         "name": "Cheques \u2018n\u2019 Respect",
         "url": "https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p"
       },

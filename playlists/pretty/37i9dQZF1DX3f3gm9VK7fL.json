@@ -1,6 +1,6 @@
 {
   "description": "The hottest Anime hits of the 20s. 2020\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u7279\u96c6\uff01Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>\n",
-  "num_followers": 73838,
+  "num_followers": 74025,
   "original_name": "Anime Hits 20's",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-09-16 01:12:40",
       "album": {
-        "name": "LEveL",
-        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
-      },
-      "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 180330,
-      "name": "LEveL",
-      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
-    },
-    {
-      "added_at": "2024-09-16 01:12:40",
-      "album": {
         "name": "ALL TIME ROCK 'N' ROLL",
         "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 254640,
       "name": "DADDY ! DADDY ! DO !",
       "url": "https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp"
+    },
+    {
+      "added_at": "2024-09-16 01:12:40",
+      "album": {
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 180330,
+      "name": "LEveL",
+      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
     },
     {
       "added_at": "2024-09-16 01:12:40",

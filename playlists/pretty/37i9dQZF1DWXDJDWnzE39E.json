@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 694434,
+  "num_followers": 694621,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Our Truth",
-      "url": "https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 150440,
       "name": "Spit",
       "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Our Truth",
+      "url": "https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Sonic Jihad",
-        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
-      },
-      "artists": [
-        {
-          "name": "Snake River Conspiracy",
-          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "86",
         "url": "https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 288867,
       "name": "Orphan Soul",
       "url": "https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Sonic Jihad",
+        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
+      },
+      "artists": [
+        {
+          "name": "Snake River Conspiracy",
+          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "RETAS",
-        "url": "https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 210729,
-      "name": "God, Allow Me (Please) to Play Music",
-      "url": "https://open.spotify.com/track/3GIUdK7VyTddyBsupRPjDq"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Bottom of a Bottle",
         "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
@@ -1127,22 +1111,6 @@
       "duration_ms": 199672,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 155342,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 155342,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "RETAS",
+        "url": "https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "God, Allow Me (Please) to Play Music",
+      "url": "https://open.spotify.com/track/3GIUdK7VyTddyBsupRPjDq"
     },
     {
       "added_at": "2024-07-19 14:26:43",

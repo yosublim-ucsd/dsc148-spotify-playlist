@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-293 songs - 18 hr 46 min
+296 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 | 2024-01-29 | 2024-03-24 |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2024-03-23 |  |
 | [A Chair in the Sky](https://open.spotify.com/track/6aiMrMEuJpFZxejYWAdwc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 6:42 | 2024-03-21 |  |
+| [A Good Suit and a Good Haircut \- Mingus Early Alternate Version](https://open.spotify.com/track/5NWFUgoVrfpVJD3nX8XxCp) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 3:12 | 2024-10-12 |  |
 | [A Melody In Your Name](https://open.spotify.com/track/4aKd15A5WYys9PpMUPscml) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:59 | 2024-03-21 |  |
 | [A Strange Boy](https://open.spotify.com/track/496yE7Yi0gUAt7rkGVN4op) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 4:19 | 2024-03-21 |  |
 | [A Valentine For Joni \- Live at Carnegie Hall, New York, NY, 2/1/1969](https://open.spotify.com/track/7vIqqnsIEyFm2na9mKDPMR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 1:12 | 2024-03-21 |  |
@@ -68,6 +69,7 @@
 | [Conversation](https://open.spotify.com/track/1wcbiRER4ChnikvcLc2OE6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 4:26 | 2024-03-21 |  |
 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 | 2024-03-21 |  |
 | [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2024-03-21 |  |
+| [Coyote/Don Juan's Reckless Daughter \- Live at Music Hall, Boston, MA, 2/19/1976](https://open.spotify.com/track/1nOGVP4Mo1ydxLIvFEaWUU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 9:58 | 2024-10-12 |  |
 | [Dancin' Clown](https://open.spotify.com/track/0MXDZIZgnLyVlTcfff2p25) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:52 | 2024-03-21 |  |
 | [Day After Day](https://open.spotify.com/track/0u9oWorCtCRwZB7rLFuKau) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Day After Day](https://open.spotify.com/album/0n0ii7DUbJYN4aRENlzCG1) | 2:10 | 2024-03-24 |  |
 | [Day After Day](https://open.spotify.com/track/45X3vnvwYjkh6LHc5tpPH9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:10 | 2024-03-21 | 2024-03-25 |
@@ -238,6 +240,7 @@
 | [Strawflower Me](https://open.spotify.com/track/0xk1uAmBToSWE6H0tPQh29) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:50 | 2024-03-21 |  |
 | [Strong and Wrong](https://open.spotify.com/track/73WfE2thjLAJeQMkzrXwaw) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/49LmTpAbIQKfDhNmmtCaD9) | 4:02 | 2024-03-27 | 2024-03-29 |
 | [Strong and Wrong](https://open.spotify.com/track/2skK52iMFpSGlKvU8g226C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 4:04 | 2024-03-28 |  |
+| [Sue and the Holy River \- Mingus Early Alternate Version](https://open.spotify.com/track/0s1Occ7tzf1e6Dh9WLWYsI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 7:09 | 2024-10-12 |  |
 | [Sundown](https://open.spotify.com/track/5qcpcU9tEppRObdzkytbm3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 5:06 | 2024-01-29 |  |
 | [Sunny Sunday](https://open.spotify.com/track/7duEwoBcTXRhoXXlFUkySJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 2:36 | 2024-03-21 |  |
 | [Sunrise Raga \- For the Roses Sessions](https://open.spotify.com/track/1WyJabHVKnryhuDtvkSET6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 3: The Asylum Years \(1972\-1975\)](https://open.spotify.com/album/6AmOC6yovjsQwVf89UEk5M) | 3:41 | 2024-03-24 |  |

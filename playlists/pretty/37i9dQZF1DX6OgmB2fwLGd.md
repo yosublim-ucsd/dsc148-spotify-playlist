@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > 2hollis\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,578 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,498 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 48 | [finsta \(sexy liar\)](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 |
 | 49 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 |
 | 50 | [Fuck All The Opps](https://open.spotify.com/track/1dAuSAE5eL94xV0aIyPCr3) | [J4That0oter](https://open.spotify.com/artist/332UeMBqYqEtYyulhnrrvM), [PFA Leek](https://open.spotify.com/artist/1vxOOb598YZp1CLdXQIgK1), [Rivtwer AJ](https://open.spotify.com/artist/2OPTLyeXOIvn3pBWBK7PlC) | [Fuck All The Opps](https://open.spotify.com/album/0iqfb9xXvn2Cso7ink6ZBl) | 3:20 |
-| 51 | [Click \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Click \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 |
+| 51 | [cLick \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [cLick \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 |
 | 52 | [BIGGAVEL](https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:49 |
 | 53 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 |
 | 54 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |

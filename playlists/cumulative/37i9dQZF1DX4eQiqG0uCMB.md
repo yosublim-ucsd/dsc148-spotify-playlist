@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-304 songs - 15 hr 36 min
+305 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 | 2023-11-03 | 2024-02-24 |
 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 | 2022-06-09 | 2022-07-24 |
 | [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2022-07-07 | 2022-07-24 |
+| [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2024-10-12 |  |
 | [Paper](https://open.spotify.com/track/5iDL1aQUFK6FKZwe6DZGgB) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Paper](https://open.spotify.com/album/6BYMwiHM9xRKLt2ouagWvr) | 2:51 | 2023-10-27 | 2024-02-03 |
 | [Peace of Mind \- Remix](https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Peace of Mind \(Remix\)](https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk) | 2:41 | 2023-05-19 | 2023-06-10 |
 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 | 2022-06-09 | 2023-09-29 |
@@ -285,7 +286,7 @@
 | [Tsunami](https://open.spotify.com/track/5aQn07kU8bQFYTLX86jyyQ) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [Issues\|Tsunami](https://open.spotify.com/album/04gBoHn7W8BhfcuQYWb8yS) | 2:23 | 2023-08-10 | 2023-09-10 |
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-16 | 2022-08-19 |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 | 2022-12-03 |
-| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2024-10-13 |
 | [WAHALA \(Stressed\)](https://open.spotify.com/track/14JmQapOfMzE13SP7OeAfP) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [WAHALA \(Stressed\)](https://open.spotify.com/album/05L6FePvgnL7hYRMaMeWjd) | 3:55 | 2024-06-28 |  |
 | [Wait For You](https://open.spotify.com/track/4LRAC3k2vxLszejN5wMGhG) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4tnBp1EFKsqahmUF5IGPPo) | 4:14 | 2022-06-09 | 2022-07-25 |
 | [Wait For You \(feat\. Oxlade\)](https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4) | 4:14 | 2022-06-09 | 2024-04-19 |

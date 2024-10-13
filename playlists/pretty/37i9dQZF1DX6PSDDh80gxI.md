@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > rovere sulla cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,509 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,517 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 39 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
 | 40 | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/track/3AvWA6n798ACuSjwYdBL2v) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5) | 3:00 |
 | 41 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |
-| 42 | [Lucifero](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 |
+| 42 | [Lucifero \(feat\. Mecna\)](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 |
 | 43 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 |
 | 44 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 |
 | 45 | [Flavio](https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [DENTRO](https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 99621,
+  "num_followers": 99695,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "SUBMARINER",
+        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123989,
+      "name": "SUBMARINER",
+      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
       },
@@ -63,26 +83,6 @@
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "SUBMARINER",
-        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
-      },
-      "artists": [
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        },
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 123989,
-      "name": "SUBMARINER",
-      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
     },
     {
       "added_at": "2024-07-08 08:41:13",

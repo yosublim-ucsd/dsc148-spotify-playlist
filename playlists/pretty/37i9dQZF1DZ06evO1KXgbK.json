@@ -1,13 +1,41 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249122,
+  "num_followers": 249154,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAACGhJF2GHiYOWCEwB5aeas2",
+  "snapshot_id": "ZwhqgAAAAAB3uewR5B2Lqf9GclC/ZFdA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gonna Be You (feat. Callie Twisselman)",
+        "url": "https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Callie Twisselman",
+          "url": "https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R"
+        }
+      ],
+      "duration_ms": 184608,
+      "name": "Gonna Be You (feat. Callie Twisselman)",
+      "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
+    },
     {
       "added_at": null,
       "album": {
@@ -335,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever More (Love Songs, Hits & Duets)",
+        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Day I Fall In Love - Featuring Dolly Parton",
+      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -355,26 +403,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever More (Love Songs, Hits & Duets)",
-        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Day I Fall In Love - Featuring Dolly Parton",
-      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
     },
     {
       "added_at": null,
@@ -875,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Possession Gets Too Strong",
-        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
       "artists": [
         {
@@ -884,17 +912,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         },
         {
-          "name": "Louis Owens",
-          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 129364,
-      "name": "When Possession Gets Too Strong",
-      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
+      "duration_ms": 153920,
+      "name": "The Pain of Loving You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
     },
     {
       "added_at": null,
@@ -919,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "When Possession Gets Too Strong",
+        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
       },
       "artists": [
         {
@@ -928,17 +956,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
         },
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Louis Owens",
+          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
         }
       ],
-      "duration_ms": 153920,
-      "name": "The Pain of Loving You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
+      "duration_ms": 129364,
+      "name": "When Possession Gets Too Strong",
+      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
     },
     {
       "added_at": null,

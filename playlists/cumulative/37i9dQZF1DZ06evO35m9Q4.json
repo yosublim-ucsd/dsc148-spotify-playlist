@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "description": "This Is Stevie Ray Vaughan. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Stevie Ray Vaughan",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 302640,
       "name": "Ask Me No Questions",
       "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 910573,
       "name": "Blues At Sunrise",
       "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"

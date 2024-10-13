@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-120 songs - 6 hr 25 min
+121 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 | 2022-07-06 | 2022-10-12 |
 | [Like Home \- Radio Mix](https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/2vQhahYsf0a2TbGiTX3Uv5) | 3:20 | 2022-03-16 |  |
 | [Lose My Mind](https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lose My Mind](https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI) | 3:07 | 2022-03-26 | 2022-12-02 |
+| [Lost In The Dust](https://open.spotify.com/track/6ZL3xfiqRJBBJhkbSTEdy2) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lost In The Dust](https://open.spotify.com/album/2XOCrLWJZquxGUgkrgNk49) | 2:44 | 2024-10-13 |  |
 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 | 2021-12-20 | 2023-05-06 |
 | [Love You for the Summer](https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You for the Summer](https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW) | 2:52 | 2024-07-27 |  |
 | [Love You Forever](https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Love You Forever](https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr) | 3:54 | 2021-12-20 |  |

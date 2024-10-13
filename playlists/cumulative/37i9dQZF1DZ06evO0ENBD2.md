@@ -2,9 +2,9 @@
 
 ### [This Is Queen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ENBD2)
 
-> This is Queen\. The essential tracks, all in one playlist.
+> This Is Queen\. Los temas esenciales, todos en una lista.
 
-71 songs - 4 hr 35 min
+72 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 1:07 | 2023-01-18 |  |
 | [Liar \- Remastered 2011](https://open.spotify.com/track/6hPAoJvuIsgPlxnoZnjPRk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/2hZTdsWsAqlgrYG6Nd6Egg) | 6:23 | 2022-09-17 | 2022-09-23 |
 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 | 2022-09-17 |  |
+| [Modern Times Rock 'n’ Roll \- 2024 Mix](https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Modern Times Rock 'n' Roll \(2024 Mix\)](https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In) | 1:48 | 2024-10-13 |  |
 | [My Radio](https://open.spotify.com/track/4vdFjNRT82GDyclhl2m1kZ) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [My Radio](https://open.spotify.com/album/1y4xzHozevF6gHMZTmRy32) | 3:04 | 2023-01-26 | 2023-03-08 |
 | [Nevermore \- Remastered 2011](https://open.spotify.com/track/6n7zeRIrGj8hTFxNWGb9k1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 1:18 | 2023-05-24 | 2024-07-24 |
 | [Now I'm Here \- Live At The Hammersmith Odeon](https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:25 | 2022-09-17 | 2022-11-16 |

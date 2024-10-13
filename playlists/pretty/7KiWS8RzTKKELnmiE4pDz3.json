@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc8i3y51Cu9GH2WCUN/2XELYwU86V7",
+  "snapshot_id": "AAAc83Pc1ycScTH8rNPqONCU5pV7TOhE",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3463,6 +3463,22 @@
       "duration_ms": 176819,
       "name": "Again",
       "url": "https://open.spotify.com/track/3si6pZOm5Uf1lKDt47V3zK"
+    },
+    {
+      "added_at": "2024-10-12 21:38:51",
+      "album": {
+        "name": "Mr.Perfect",
+        "url": "https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4"
+      },
+      "artists": [
+        {
+          "name": "Baby Smoove",
+          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
+        }
+      ],
+      "duration_ms": 149328,
+      "name": "How Did We Know?",
+      "url": "https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ"
     }
   ],
   "unique_name": "main ",

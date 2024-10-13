@@ -336,6 +336,24 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42500,
+      "name": "FUCK ME",
+      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
+    },
+    {
+      "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -356,7 +374,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 154356,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/0N6VAZz7lTO4GFti940NrQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Feliciana
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,727 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 33 | [Fotoricordo](https://open.spotify.com/track/4awSy4eb4hEu8RnSWOJWIP) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Fotoricordo](https://open.spotify.com/album/1yXnI5FcLRTGITuPRmpehy) | 3:15 |
 | 34 | [Nankurunaisa](https://open.spotify.com/track/7A8F6HdwUBYkE7TxpkxVCj) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o), [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [Nankurunaisa](https://open.spotify.com/album/6uRNa9BJK7d3dFZxGIDxku) | 2:36 |
 | 35 | [Brave](https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Alok Vaid\-Menon](https://open.spotify.com/artist/1NTZtdTQJnfKxbbTY22KQR) | [Brave](https://open.spotify.com/album/2zzc1K8vcDa5OrPVvrUstF) | 4:44 |
-| 36 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:50 |
+| 36 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 |
 | 37 | [Scusame \(feat\. SVM\)](https://open.spotify.com/track/6pXyhPamzXn79LFvMSrYZQ) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Scusame \(feat\. SVM\)](https://open.spotify.com/album/4xgf5oNHQaVvNkSCDepWUO) | 2:46 |
 | 38 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 |
 | 39 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 |

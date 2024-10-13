@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,469 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,473 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 4 | [Sua Culpa](https://open.spotify.com/track/3kmJF640M0mE8SiGapXnWY) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Sua Culpa](https://open.spotify.com/album/5jJZpWRypZy8ZZCqzromQc) | 1:58 |
 | 5 | [Dama da Noite](https://open.spotify.com/track/0CADcThrvKA6ZV6qjlL3ui) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Dama da Noite](https://open.spotify.com/album/7dJJQ75J68X5sVEJvH0wOE) | 2:11 |
 | 6 | [Dividindo Lucros](https://open.spotify.com/track/06NNg6jTEtnq2JYnch2uau) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Gabe O.](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [Russo](https://open.spotify.com/artist/418mnnF62zF79sfC67i1Ni), [DJ Luan Lima](https://open.spotify.com/artist/2vwsRQsSrFFut9KQpn5F3i), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [Dividindo Lucros](https://open.spotify.com/album/3Xup4zLxYOV4kNJFalnWfG) | 3:15 |
-| 7 | [Jogo de Azar](https://open.spotify.com/track/1awy1YJVpm5uvTadnpiI1t) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Fontes](https://open.spotify.com/artist/2L23K8zNKbooy6E0W0vwKu) | [Jogo de Azar](https://open.spotify.com/album/2dn1lw3IVlYp7qeW2syK49) | 2:33 |
+| 7 | [Jogo de Azar](https://open.spotify.com/track/1awy1YJVpm5uvTadnpiI1t) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P) | [Jogo de Azar](https://open.spotify.com/album/2dn1lw3IVlYp7qeW2syK49) | 2:33 |
 | 8 | [Lembra de nada](https://open.spotify.com/track/19Gj6ms3s60Hhtg6xkhl6V) | [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [hashi tzz](https://open.spotify.com/artist/5MxfUqsyj9YXeY07EKrouq) | [Lembra de nada](https://open.spotify.com/album/7zhclCdYFO1GvxpIWQIP8l) | 2:16 |
 | 9 | [Mundo Dos Vetin](https://open.spotify.com/track/5agR6nypBRPVuXn8UZMc2j) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Mundo Dos Vetin](https://open.spotify.com/album/27gofgaJSl02Yv1zjXKEVE) | 2:56 |
 | 10 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |

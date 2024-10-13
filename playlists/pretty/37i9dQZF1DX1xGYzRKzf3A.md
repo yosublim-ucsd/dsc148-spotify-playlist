@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,037 likes - 125 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,138 likes - 125 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,17 +112,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 102 | [Mira, Mira, Mírala](https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Sin Limites](https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT) | 3:31 |
 | 103 | [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 |
 | 104 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
-| 105 | [Marisol](https://open.spotify.com/track/154tEgzLRFFYozPO87d3VE) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 5:11 |
-| 106 | [Un Amor Bonito](https://open.spotify.com/track/1yoOO071BcqGCbvcw7j55E) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Un Amor Bonito](https://open.spotify.com/album/1kNpeJ3X2HW5VYcnVxACPq) | 3:11 |
+| 105 | [Un Amor Bonito](https://open.spotify.com/track/1yoOO071BcqGCbvcw7j55E) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Un Amor Bonito](https://open.spotify.com/album/1kNpeJ3X2HW5VYcnVxACPq) | 3:11 |
+| 106 | [Marisol](https://open.spotify.com/track/154tEgzLRFFYozPO87d3VE) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 5:11 |
 | 107 | [Cumbia Campesina](https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [A Díos Le Pido](https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3) | 3:52 |
 | 108 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
 | 109 | [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 |
 | 110 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 |
 | 111 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
 | 112 | [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 |
-| 113 | [La Cervecita](https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 3:53 |
-| 114 | [Cumbia Explosiva](https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6) | [Los Reyes Vallenatos](https://open.spotify.com/artist/7biBFHtSXjeAlSvwTSspX4) | [Cumbia Explosiva](https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1) | 4:36 |
-| 115 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 |
+| 113 | [Cumbia Explosiva](https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6) | [Los Reyes Vallenatos](https://open.spotify.com/artist/7biBFHtSXjeAlSvwTSspX4) | [Cumbia Explosiva](https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1) | 4:36 |
+| 114 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 |
+| 115 | [La Cervecita](https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 3:53 |
 | 116 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 |
 | 117 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 |
 | 118 | [Sobrenatural](https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Sobrenatural](https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj) | 3:26 |

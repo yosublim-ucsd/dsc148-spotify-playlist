@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184228,
+      "name": "NERO GOTICO",
+      "url": "https://open.spotify.com/track/1KZKtIn6ul3F68mY4YY0cg"
+    },
+    {
+      "album": {
         "name": "NERO GOTICO",
         "url": "https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 184228,
       "name": "NERO GOTICO",
       "url": "https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs"

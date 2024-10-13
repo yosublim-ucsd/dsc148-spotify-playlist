@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Creepin' Candy",
+        "url": "https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Creepin' Candy",
+      "url": "https://open.spotify.com/track/2kHK7MGeTNj0QlE14tuGWs"
+    },
+    {
+      "album": {
         "name": "Dead Man's Party",
         "url": "https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb"
       },

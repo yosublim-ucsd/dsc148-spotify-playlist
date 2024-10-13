@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Anike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,567 likes - 115 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,591 likes - 115 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 76 | [where do i ?](https://open.spotify.com/track/0mhCzH39fwAoTVKQO0jkk6) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [where do i ?](https://open.spotify.com/album/4bQsUMaLySZWpPhYQNQvXU) | 2:37 |
 | 77 | [Water](https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Water](https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M) | 2:06 |
 | 78 | [Woah](https://open.spotify.com/track/5yYvlsIAdu4KbBS7rpQNlw) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Woah](https://open.spotify.com/album/2KxaZaOSWh1VPR0Sms9GnH) | 2:30 |
-| 79 | [Green](https://open.spotify.com/track/1fU67BFt38BMKnk6y5xv0c) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Green](https://open.spotify.com/album/2xjEf6jp9tKA6TNzSz4q6H) | 2:46 |
+| 79 | [Green](https://open.spotify.com/track/1fU67BFt38BMKnk6y5xv0c) | [Reece Lache’](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Green](https://open.spotify.com/album/2xjEf6jp9tKA6TNzSz4q6H) | 2:46 |
 | 80 | [My Fault](https://open.spotify.com/track/3Y66V48mt4CSx5e4M2h5hH) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [.Adonis.](https://open.spotify.com/artist/6IuU2Oc34BSxxfV47Aslpc) | [My Fault](https://open.spotify.com/album/5x87GbDQtmCNNZINuURhJS) | 3:41 |
 | 81 | [Men Tell Health](https://open.spotify.com/track/7BhLULiyclGNfCgCGaAYCw) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [Men Tell Health](https://open.spotify.com/album/4M6UM3PEwX011NnOPCcRZq) | 3:13 |
 | 82 | [My Heart May Fail](https://open.spotify.com/track/01GERN4Ra8IYV5fE1BaNhr) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [My Heart May Fail](https://open.spotify.com/album/2DLNQAz2FevMbeL6Xhmz00) | 3:10 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [Holy Ghost](https://open.spotify.com/track/19b2G4T5aYMWapNWh6BDYd) | [SNT\. VINCENT](https://open.spotify.com/artist/2xj217FNOxvAhzZBjwkMik) | [Holy Ghost](https://open.spotify.com/album/6xB9RWAtKWNWZLVFuaCLcX) | 3:13 |
 | 100 | [Battlecry](https://open.spotify.com/track/29Qxw6eUU2NJv4OxpzSl0r) | [J\-Phish](https://open.spotify.com/artist/2ywgji4PasTLKpHKNHJxSN), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [Battlecry](https://open.spotify.com/album/5gAhW1oOx3Bkc0lO5qemRb) | 2:30 |
 | 101 | [GODS HAND](https://open.spotify.com/track/3ziRrlTS93NcvP3eGgJz5r) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [GODS HAND](https://open.spotify.com/album/0c2qV4UymqJK1C8iXFrEQd) | 3:33 |
-| 102 | [Bando](https://open.spotify.com/track/2D3D4imqPTuwPSdGDMQgRM) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Bando](https://open.spotify.com/album/7MvoDoYgjs1aVnK9fGRIam) | 2:09 |
+| 102 | [Bando](https://open.spotify.com/track/2D3D4imqPTuwPSdGDMQgRM) | [Reece Lache’](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Bando](https://open.spotify.com/album/7MvoDoYgjs1aVnK9fGRIam) | 2:09 |
 | 103 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 |
 | 104 | [NO SHAME](https://open.spotify.com/track/0XkEmXfI3Ze5Vmh4C3zTDb) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [NO SHAME](https://open.spotify.com/album/2YBmqNjpTacOvSnMGxZ7xw) | 3:28 |
 | 105 | [ANXIETY](https://open.spotify.com/track/1gRChjITNlNudEwQEG8gl4) | [Noah Moon](https://open.spotify.com/artist/3qtyduPcR34fZacQ73FEMj) | [ANXIETY](https://open.spotify.com/album/5Ttqaq0sh7kcQPJcgGcOjc) | 3:30 |

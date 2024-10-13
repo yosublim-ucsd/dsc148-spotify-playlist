@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,037 songs - 9 day 10 hr 52 min
+4,039 songs - 9 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [DON'T GET TOO COMFORTABLE](https://open.spotify.com/track/48earCyJNOWoCFdLqqZg43) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X) | [FUSS!ON](https://open.spotify.com/album/1IvtjWdVqvI7bTtgmp5e98) | 2:31 | 2023-12-31 | 2024-01-08 |
 | [Don't Go Solo on Me](https://open.spotify.com/track/5bfcGEl3QrVjW5Ntz4nOPO) | [David G Cross](https://open.spotify.com/artist/7HLWe6STJoi2O3AkbzUwjK) | [Don't Go Solo on Me](https://open.spotify.com/album/0Z3kusbysTRdWh6NWMGhvv) | 2:50 | 2023-12-16 | 2023-12-24 |
 | [Don't Hate The Party](https://open.spotify.com/track/2xpnrZ4rekdmYVHc2z4iv4) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Don't Hate The Party](https://open.spotify.com/album/4mOpec4pumMLBjcdFoVbuw) | 3:48 | 2022-05-18 | 2022-06-05 |
+| [Don't Hurt Me So Bad!](https://open.spotify.com/track/3do3e2wWrmaOL4k1qHgmls) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Beautiful Blue Collar Boy](https://open.spotify.com/album/2aHcfVB0ys5PQ7OTGlB6RR) | 3:16 | 2024-10-12 |  |
 | [Don't Know Why](https://open.spotify.com/track/603Xjm60SSuB9mIGPyPSwh) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Don't Know Why](https://open.spotify.com/album/7MMgfnybFH5tFtk3coCGlH) | 4:42 | 2020-01-06 | 2020-02-08 |
 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 | 2023-01-09 | 2023-02-12 |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/2Yzk4hvqynJjGsRX3VwK7e) | [Griffin Robillard](https://open.spotify.com/artist/0dQuSumyBpohSxSWm97raN) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/40873zmITAYrlXtEVhA6JV) | 3:31 | 2022-03-30 | 2022-04-20 |
@@ -1097,6 +1098,7 @@
 | [Everything Is Broken](https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:13 | 2023-07-20 |  |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [EVERYTIME](https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ) | [1NFFERNO](https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C) | [INT'L NFFERNO II](https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG) | 3:31 | 2023-12-31 | 2024-01-08 |
+| [Evilin](https://open.spotify.com/track/1wp8SjUIXCdP4RTXyagKfY) | [Zoe Graham](https://open.spotify.com/artist/2jXXoNionydJ3CT1ml119B) | [Even Though I'm Scared](https://open.spotify.com/album/5vnlhYUNJEmcqbNBPqoVbi) | 3:23 | 2024-10-12 |  |
 | [exemptions](https://open.spotify.com/track/14n0K6nyP9advH13yqmYRJ) | [Betriu](https://open.spotify.com/artist/3gBioiOIJH53IaoFEssBvQ) | [exemptions](https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio) | 2:19 | 2023-04-06 | 2023-04-30 |
 | [Exodus](https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 7:39 | 2021-07-11 | 2024-04-21 |
 | [EXÓTICA](https://open.spotify.com/track/6EURkzSJVUaHiroDWZ99Gn) | [Reijy](https://open.spotify.com/artist/6794EDtkcLQ065dXVaOIIC), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw) | [EXÓTICA](https://open.spotify.com/album/3sKbXioVYyFLIOxT0cuYZD) | 2:50 | 2023-12-14 | 2023-12-22 |

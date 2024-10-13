@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,070 likes - 174 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,145 likes - 174 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 13 | [Army Dreamers \- Live from Studio Brussel](https://open.spotify.com/track/5Q9OHMxA7ILf21w3KYYfpY) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy: Acoustics & Covers](https://open.spotify.com/album/3KhQj38K7x3CQ9HGDp9rqu) | 2:07 |
 | 14 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 |
 | 15 | [chi girl](https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 3:06 |
-| 16 | [Everydog has its day](https://open.spotify.com/track/3rLuup3EQbo8Tr6IBg0Dmc) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:12 |
+| 16 | [EVERYDOG HAS ITS DAY](https://open.spotify.com/track/3rLuup3EQbo8Tr6IBg0Dmc) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [May It Never Falter](https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P) | 2:12 |
 | 17 | [Matchstick](https://open.spotify.com/track/6TPAncYSpDjtG2o5gYV93X) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Matchstick](https://open.spotify.com/album/7s1BvjgslY5CaFdhAc6pBh) | 3:19 |
 | 18 | [Soft Kissing Hour](https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Soft Kissing Hour](https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt) | 4:02 |
 | 19 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 141 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 |
 | 142 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 |
 | 143 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 |
-| 144 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
+| 144 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
 | 145 | [WURMPLE](https://open.spotify.com/track/0sHuguNKahnmkpHZxksHAU) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn) | [WURMPLE](https://open.spotify.com/album/5Q1XT0rKsit4ONJJ0FSdWS) | 2:47 |
 | 146 | [Into Sands](https://open.spotify.com/track/2QfrO9c4zcB4MQbCmnY1YF) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Into Sands](https://open.spotify.com/album/6Du5vune5TRZrxqGUAZYir) | 4:01 |
 | 147 | [In a Dream](https://open.spotify.com/track/5d2bwCuRnCzG1YQBe32mj8) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Circles](https://open.spotify.com/album/19RVq9hovgoecbl5fqCnCL) | 2:13 |

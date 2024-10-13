@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,055 likes - 190 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,075 likes - 190 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Agatha's Theme \- From "Agatha All Along"](https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha's Theme \(From "Agatha All Along"\)](https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1) | 2:11 |
-| 2 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 |
+| 2 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 |
 | 3 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 |
 | 4 | [The Ballad of the Witches' Road \(True Crime Version\)](https://open.spotify.com/track/13JG9286axiC4Vf19BXopw) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 1:42 |
 | 5 | [Burden of Wisdom](https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Season 2 \- Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1) | 2:06 |

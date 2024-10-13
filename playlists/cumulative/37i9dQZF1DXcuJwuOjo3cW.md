@@ -52,6 +52,6 @@
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2024-07-19 |  |
 | [Strangers](https://open.spotify.com/track/3VhBdVJNnwM5e3N4H1hBLX) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Strangers](https://open.spotify.com/album/4AYKvUAQZfkVP2OhGtWJxc) | 5:44 | 2024-07-19 |  |
 | [What Can I Get You?](https://open.spotify.com/track/30IEnUo0WW4biPuD19uipT) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J), [Duncan Blickenstaff](https://open.spotify.com/artist/42awwX4aVrBQ6O3GBCc58n) | [It Ends With Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h3gIOmYMo2Jm6vkDr6IGM) | 0:55 | 2024-08-09 |  |
-| [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \- Deluxe](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 | 2024-07-19 |  |
+| [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 | 2024-07-19 |  |
 
 \*This playlist was first scraped on 2024-07-20. Prior content cannot be recovered.

@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
@@ -7442,7 +7442,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 260590,
       "name": "Humdard (From \"Ek Villain\")",
       "url": "https://open.spotify.com/track/2PvaburAUlhNHxVhw5lvOq"
@@ -8668,7 +8668,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
@@ -9872,7 +9872,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
@@ -9898,7 +9898,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy"
@@ -12835,6 +12835,36 @@
     },
     {
       "album": {
+        "name": "Vicky Vidya Ka Woh Wala Video",
+        "url": "https://open.spotify.com/album/3B54p8dKa2ehcMhpOmMRcb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216054,
+      "name": "Mere Mehboob",
+      "url": "https://open.spotify.com/track/5ZjWYv5kOH1ywFmv5JjPNd"
+    },
+    {
+      "album": {
         "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
       },
@@ -14188,7 +14218,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 233453,
       "name": "O Maahi",
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
@@ -16854,7 +16884,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 172408,
       "name": "Samjho Na",
       "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
@@ -17106,7 +17136,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 254699,
       "name": "Sawaar Loon",
       "url": "https://open.spotify.com/track/29YePgOxuPLfU7uZKxKf6w"
@@ -18670,7 +18700,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
@@ -18706,7 +18736,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
@@ -18808,7 +18838,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 299827,
       "name": "Tera Hone Laga Hoon",
       "url": "https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj"
@@ -20488,7 +20518,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
@@ -20518,7 +20548,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
@@ -21838,7 +21868,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 314239,
       "name": "Ye Tune Kya Kiya",
       "url": "https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL"

@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2115,
+  "num_followers": 2121,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAD1sBYF9Eryu83qDLraYJNp",
+  "snapshot_id": "ZwhqgAAAAAAr5bj2mcm21r/hh/V0fmtn",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 101980,
-      "name": "Trial of the Century",
-      "url": "https://open.spotify.com/track/6Uj8qAsoMWi1CA7ElKS5IU"
+      "duration_ms": 169504,
+      "name": "It's Showtime",
+      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 169504,
-      "name": "It's Showtime",
-      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
+      "duration_ms": 101980,
+      "name": "Trial of the Century",
+      "url": "https://open.spotify.com/track/6Uj8qAsoMWi1CA7ElKS5IU"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 77056,
-      "name": "The Saints",
-      "url": "https://open.spotify.com/track/2Sivoz6sgcLupCyeckUpgm"
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+      "duration_ms": 77056,
+      "name": "The Saints",
+      "url": "https://open.spotify.com/track/2Sivoz6sgcLupCyeckUpgm"
     },
     {
       "added_at": null,
@@ -692,9 +692,25 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Haunting in Venice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 494468,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Haunting in Venice (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 494468,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz"
+      "duration_ms": 96893,
+      "name": "The Execution",
+      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
     },
     {
       "added_at": null,
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

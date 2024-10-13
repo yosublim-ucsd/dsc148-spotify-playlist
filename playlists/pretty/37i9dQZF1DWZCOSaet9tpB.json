@@ -1,15 +1,15 @@
 {
   "description": "Nigeria's hottest tracks.  Cover: Smur Lee",
-  "num_followers": 198612,
+  "num_followers": 198839,
   "original_name": "Hot Hits Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwOP4wAAAAA+VTA/CLNyPI5biI8LU819",
+  "snapshot_id": "ZwoBtAAAAAAnsxQtC86sLp5MyfLVGomF",
   "tracks": [
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "MAFFIAN",
         "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Abanikanda",
         "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Favourite Girl (with Rema)",
         "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
@@ -181,7 +181,35 @@
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
+      "album": {
+        "name": "4x4 (feat.Tyler ICU)",
+        "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Magicsticks",
+          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "4x4 (feat.Tyler ICU)",
+      "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
+    },
+    {
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
@@ -201,7 +229,7 @@
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "My Dealer (Remix)",
         "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
@@ -221,7 +249,7 @@
       "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -241,7 +269,7 @@
       "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
@@ -257,7 +285,7 @@
       "url": "https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
@@ -277,7 +305,7 @@
       "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
@@ -293,7 +321,7 @@
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
@@ -313,7 +341,7 @@
       "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
@@ -329,7 +357,7 @@
       "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
@@ -345,7 +373,7 @@
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
@@ -365,7 +393,7 @@
       "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
@@ -381,7 +409,7 @@
       "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Alone (Remix)",
         "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
@@ -417,7 +445,7 @@
       "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
@@ -437,7 +465,7 @@
       "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
@@ -453,7 +481,7 @@
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Close To Me (feat. Bnxn)",
         "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
@@ -477,7 +505,7 @@
       "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
@@ -493,7 +521,7 @@
       "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
@@ -525,7 +553,7 @@
       "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
@@ -545,7 +573,7 @@
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -565,7 +593,7 @@
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
@@ -581,7 +609,7 @@
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "POE",
         "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
@@ -601,7 +629,7 @@
       "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
@@ -621,7 +649,7 @@
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
@@ -637,7 +665,7 @@
       "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
@@ -653,7 +681,7 @@
       "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
@@ -669,7 +697,7 @@
       "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Timileyin 2.0",
         "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
@@ -689,7 +717,7 @@
       "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
@@ -709,7 +737,7 @@
       "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Ogechi (feat. Davido) - Remix",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
@@ -737,7 +765,7 @@
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
@@ -757,7 +785,7 @@
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A"
@@ -777,7 +805,7 @@
       "url": "https://open.spotify.com/track/5rOGgvxkgMOn5ZhyLHLDFz"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
@@ -793,7 +821,7 @@
       "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
@@ -813,7 +841,7 @@
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
@@ -837,23 +865,7 @@
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
-      "album": {
-        "name": "STREET ANTHEM / 7 DAYS",
-        "url": "https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "7 DAYS",
-      "url": "https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA"
-    },
-    {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
@@ -877,7 +889,7 @@
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
@@ -897,7 +909,7 @@
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
@@ -913,7 +925,7 @@
       "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
@@ -929,7 +941,7 @@
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
-      "added_at": "2024-10-07 07:38:10",
+      "added_at": "2024-10-12 04:57:24",
       "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"

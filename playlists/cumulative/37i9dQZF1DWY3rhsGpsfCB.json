@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 247880,
       "name": "Abeke",
       "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 237095,
       "name": "BackFat",
       "url": "https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 159278,
       "name": "Bounty",
       "url": "https://open.spotify.com/track/0ieCZBvfTDZ7KGWE4PHru5"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 195750,
       "name": "Can't Save You (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 143200,
       "name": "CRYBABY",
       "url": "https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 175448,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/5ZLquFqp6Kx2qvfqDt4sEc"
@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 183400,
       "name": "DND",
       "url": "https://open.spotify.com/track/6b7BnSlPpZQWXWRXhLwAVM"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 175200,
       "name": "FaceCard (Only Me)",
       "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 147428,
       "name": "Feels Good - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS"
@@ -3468,6 +3468,28 @@
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5RqIOgUduYfASu5sMQKL4Y"
+      },
+      "artists": [
+        {
+          "name": "Mpho Sebina",
+          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
+        },
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3Akc9S8a03H1BVxIx5YXtU"
     },
     {
       "album": {
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
@@ -4859,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154729,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C"
+    },
+    {
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -4878,7 +4918,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
@@ -6245,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164472,
+      "name": "lon3ly",
+      "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
+    },
+    {
+      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -7114,7 +7172,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 152948,
       "name": "Miskeena",
       "url": "https://open.spotify.com/track/5Amw6VxWBUBi90IVTIxHOO"
@@ -7518,7 +7576,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 127741,
       "name": "Necessary",
       "url": "https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4"
@@ -7548,6 +7606,24 @@
       "duration_ms": 197813,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6p0u1dLtzN6F2N0pPhP2JC"
+    },
+    {
+      "album": {
+        "name": "Nesha\u2019s Cypher",
+        "url": "https://open.spotify.com/album/0Q1jUGy3d5AG9G7zUjAeRo"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251790,
+      "name": "Nefertiti Complex",
+      "url": "https://open.spotify.com/track/4ltzHo6YcHUz1kicimK4NK"
     },
     {
       "album": {
@@ -8050,7 +8126,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 186146,
       "name": "ON MY MIND - OMM",
       "url": "https://open.spotify.com/track/6TqQQ3h7HPmg7piQ7D6rbM"
@@ -8865,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "About \u00c4 Boy",
+        "url": "https://open.spotify.com/album/3VzL7inCTsW6xkk8CmjzUD"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF"
+    },
+    {
+      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq"
       },
@@ -9065,6 +9159,24 @@
     },
     {
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "album": {
         "name": "Put It Down",
         "url": "https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW"
       },
@@ -9168,7 +9280,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 121578,
       "name": "READY TOO",
       "url": "https://open.spotify.com/track/5q1AD0t4ztK2fOypsWm2P0"
@@ -9682,7 +9794,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 167755,
       "name": "Say Please",
       "url": "https://open.spotify.com/track/5IRnCF3PPKFmIK641N6y40"
@@ -10534,7 +10646,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 178144,
       "name": "Soul",
       "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
@@ -10610,7 +10722,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 134172,
       "name": "Special",
       "url": "https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf"
@@ -11337,6 +11449,24 @@
     },
     {
       "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
+    },
+    {
+      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -11352,7 +11482,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
@@ -11574,7 +11704,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 160941,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/1QrK2D1NuzEJqKPbJuANX2"
@@ -12030,7 +12160,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
@@ -12528,7 +12658,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 163555,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
@@ -13080,7 +13210,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"

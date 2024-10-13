@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: JOPLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,477 likes - 90 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,729 likes - 90 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [Tokyo Love Affair](https://open.spotify.com/track/2vaJvmFZEvRyEKQEtoSSgH) | [Barbara Boeing](https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Tokyo Love Affair](https://open.spotify.com/album/32Zu6hIPbZJZyR8ToTNpUN) | 5:07 |
 | 27 | [Sphere](https://open.spotify.com/track/3Pj60Kpe2xCIbzDvACd73I) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [τριάς](https://open.spotify.com/album/40MAnLgqnE3uL0k1OK814G) | 4:19 |
 | 28 | [Stars Of Noam](https://open.spotify.com/track/20hfS2Dkp3fDqekrxZpvxN) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [Stars Of Noam](https://open.spotify.com/album/4pYUwSSHoXYonJUvdqERou) | 6:33 |
-| 29 | [Feel](https://open.spotify.com/track/03LB03Ke8A3bzK0ULkmPox) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Esin](https://open.spotify.com/artist/4tsectyLd1UiTWQkmb1Zzb), [Samet Gunal](https://open.spotify.com/artist/1z7vM2buXXNNr9TWgurrKf) | [Tolia EP](https://open.spotify.com/album/1qvOHW9fI2dGk8HUoTxQ3j) | 4:40 |
+| 29 | [Feel](https://open.spotify.com/track/03LB03Ke8A3bzK0ULkmPox) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Esin](https://open.spotify.com/artist/3C9dUNWRHMzDXyC6FI7VmB), [Samet Gunal](https://open.spotify.com/artist/1z7vM2buXXNNr9TWgurrKf) | [Tolia EP](https://open.spotify.com/album/1qvOHW9fI2dGk8HUoTxQ3j) | 4:40 |
 | 30 | [Warsaw](https://open.spotify.com/track/59647Sc8Wfgf1fUNiljWrj) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [Warsaw](https://open.spotify.com/album/7iezQzqGi9XlW92FHpFeGE) | 4:19 |
 | 31 | [No Fear](https://open.spotify.com/track/1CTblqoX1Glwkq0aA3iAMe) | [Kimonos](https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN) | [No Fear EP](https://open.spotify.com/album/63TWU4FgAhlglfuz1YltJE) | 6:48 |
 | 32 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 |

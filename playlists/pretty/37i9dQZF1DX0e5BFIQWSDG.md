@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,720 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,858 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 11 | [Vamos A Bailar](https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Vamos A Bailar](https://open.spotify.com/album/6HdALb6FUd6pad2uYgudSZ) | 2:14 |
 | 12 | [AIORA](https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF) | [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [AIORA](https://open.spotify.com/album/5sidwkMrq3BGtdevCxebKz) | 3:04 |
 | 13 | [Alli Mia Fora](https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Alli Mia Fora](https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2) | 3:23 |
-| 14 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
+| 14 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4gzCTR7Rv6ttD5SfG0VclF) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
 | 15 | [AURIO](https://open.spotify.com/track/35UDMEmFmwJRnSByL4PTYV) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [GET LOVED OR DIE TRYIN'](https://open.spotify.com/album/6IstDixCQr93dLlc1Ql76H) | 4:01 |
 | 16 | [MA BELLA](https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [EGO THERAPY](https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8) | 2:52 |
 | 17 | [Vorias](https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Vorias](https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp) | 3:09 |

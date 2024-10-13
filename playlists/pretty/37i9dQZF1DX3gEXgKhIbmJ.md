@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,927 likes - 89 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,944 likes - 89 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 13 | [3 Dias Virado](https://open.spotify.com/track/1It3X09YX4dEGoE7wBGG0d) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Daavi](https://open.spotify.com/artist/4gkGCo3lsmh15hMgkZcCKB), [Maxsander](https://open.spotify.com/artist/7mQxNbvFi93or66YLXm45h), [OG Duke](https://open.spotify.com/artist/3cV6HDJYsR1qKYmJJezmXH), [The Yuna Boy](https://open.spotify.com/artist/49DQI129J8fncZ8HhuiEOj), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [3 Dias Virado](https://open.spotify.com/album/3wtbtdyDhULTcC77jDvUA4) | 3:06 |
 | 14 | [Cowabunga!](https://open.spotify.com/track/0T7dsXQYsz1SjpbvwYKVEY) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nle Doprê](https://open.spotify.com/artist/5eIBAoPi08IA4rVTJZznZL), [Brennuz](https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [LáDoEsgoto](https://open.spotify.com/album/6razVeB0xgRp9Dh6iZmzRr) | 3:24 |
 | 15 | [LINGERIE](https://open.spotify.com/track/7BAu2493qreRH66gxk5YLY) | [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [LINGERIE](https://open.spotify.com/album/0ulXoe2khr8mDnfnic8ARc) | 3:31 |
-| 16 | [Metade](https://open.spotify.com/track/1iuUeZ8aHteYKTypUpHU8M) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 2:08 |
+| 16 | [Metade](https://open.spotify.com/track/1iuUeZ8aHteYKTypUpHU8M) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 2:08 |
 | 17 | [Libertinagem](https://open.spotify.com/track/18LZ3UlS1sH7FPaHQ0G5bL) | [P2eli](https://open.spotify.com/artist/5tsySajIDzckBET0R9za2Y), [PeéLi Prod](https://open.spotify.com/artist/0WDk7D0gVwJ5pAop52YnXr) | [Libertinagem](https://open.spotify.com/album/1fB2ISLE2hScchPh5zz1Ax) | 2:39 |
 | 18 | [Jóias Frias](https://open.spotify.com/track/20LWpQzEbHjZ7Jef2A3XDO) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Igunigga](https://open.spotify.com/artist/7feIJCP0yCn3yoT2IDWsh6), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Jóias Frias](https://open.spotify.com/album/2rLIzC4NcZt3g76ZjTh7Zj) | 2:44 |
 | 19 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 |

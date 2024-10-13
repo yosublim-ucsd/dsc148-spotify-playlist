@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 119458,
+  "num_followers": 119486,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
-        "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n De Iquitos",
-          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
-        }
-      ],
-      "duration_ms": 246141,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     },
     {
       "added_at": "2024-08-27 20:46:03",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "Necesito un Amor",
-        "url": "https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Necesito un Amor",
-      "url": "https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "Homenaje a Nuestra Kumbia",
         "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 213466,
       "name": "Luna Bonita",
       "url": "https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
+        "name": "Necesito un Amor",
+        "url": "https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Necesito un Amor",
+      "url": "https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX"
     },
     {
       "added_at": "2024-08-27 20:46:03",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240848,
       "name": "Sacude el Billete",
       "url": "https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     }
   ],
   "unique_name": "Cumbias de Oro",

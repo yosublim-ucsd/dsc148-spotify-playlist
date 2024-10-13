@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-304 songs - 16 hr 48 min
+305 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Can't Stop Loving You](https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq) | [Sadion](https://open.spotify.com/artist/3z8F7Kdw0p4P0zGaushTMR) | [Can't Stop Loving You](https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk) | 2:32 | 2021-12-09 | 2022-07-28 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 | 2023-05-23 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-09-12 |  |
-| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 |  |
+| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 | 2024-10-13 |
 | [Chemistry](https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ) | [Evergreen Fields](https://open.spotify.com/album/3z6g4EFGP062VY6kQNqBE8) | 3:42 | 2021-12-09 | 2022-09-13 |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2022-05-20 | 2023-05-27 |
 | [Coastline](https://open.spotify.com/track/1KKwWyAsFQBORAgdYDHWle) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Coastline](https://open.spotify.com/album/6ClBl2fFlwWNH4wNJbBOW0) | 3:20 | 2021-12-09 | 2022-08-06 |
@@ -155,6 +155,7 @@
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2022-02-26 | 2022-07-27 |
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-10-07 |  |
 | [Live a Lie](https://open.spotify.com/track/2pnune4Q29q6bapTi4fqbi) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Live a Lie](https://open.spotify.com/album/6z1eCfKAUjmQ925Uh8FA10) | 2:15 | 2023-06-09 |  |
+| [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 | 2024-10-04 |  |
 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 | 2021-12-09 |  |
 | [Lost a Little](https://open.spotify.com/track/0jLVrPpkmHpnqaPj6yzSyK) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Communion](https://open.spotify.com/album/230UdUGhv4EIyXMuygaOUK) | 6:40 | 2021-12-09 | 2022-09-11 |
 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 | 2022-05-20 | 2024-09-07 |

@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 146938,
       "name": "Digest",
       "url": "https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ"
@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "First of My Kind EP",
+        "url": "https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157300,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3"
+    },
+    {
+      "album": {
         "name": "If I Be You",
         "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 137352,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/0F98hOl7tUOTXphPzFfFX3"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 230124,
       "name": "Lose",
       "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
@@ -2272,6 +2290,32 @@
       "duration_ms": 146250,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0E77ZX9NeYpLCgDjqfWLZF"
+    },
+    {
+      "album": {
+        "name": "Mentali",
+        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150278,
+      "name": "Mentali",
+      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "album": {
@@ -2934,6 +2978,32 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-126 songs - 7 hr 13 min
+128 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [No One Lives Forever](https://open.spotify.com/track/3kdSHY9ZQIjyg4Q68YG4Qz) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 4:14 | 2023-07-31 |  |
 | [Ogre Battle \- Remastered 2011](https://open.spotify.com/track/0UxXocASq2ToyrRGFfjEUx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 4:08 | 2023-03-21 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-06 |  |
+| [Planet Schmanet Janet](https://open.spotify.com/track/5BUokL5dxJO1toTcMY72Uh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [Absolute Treasures: The Rocky Horror Picture Show \- The Complete and Definitive Soundtrack \(2015 40th Anniversary Re\-Mastered Edition\)](https://open.spotify.com/album/1llln24xqen4HG9w0Gpgua) | 1:39 | 2024-10-13 |  |
 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/5jNn9QeC5PCZl3t27eusXg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \- Deluxe Remastered Version](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 3:33 | 2023-03-21 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 | 2024-09-29 |  |
@@ -117,6 +118,7 @@
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2023-07-04 |  |
 | [Time for Tea \(Melbourne Swing Mix\)](https://open.spotify.com/track/51zbQAG980sUZydmIeHQWk) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Time for Tea \(Melbourne Swing Mix\)](https://open.spotify.com/album/2Tls3HWZ4l3tOaWnr6Ev1I) | 2:52 | 2024-10-09 |  |
+| [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 | 2024-10-12 |  |
 | [Tombstone Road](https://open.spotify.com/track/1M3YQwUCFqT9yVfzckYkbt) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 2:46 | 2023-03-23 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2022-10-23 |  |
 | [Two Trucks](https://open.spotify.com/track/1s5A0u1dnAeVNur5nPkCpD) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 4:07 | 2022-09-07 |  |

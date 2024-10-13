@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:6vUiVJcOvGX0EhBr4GiMrb">METRUTH</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,952 likes - 95 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,965 likes - 95 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-826 songs - 1 day 13 hr 23 min
+827 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 | 2024-09-01 | 2024-09-08 |
 | [b0lit :\(](https://open.spotify.com/track/0LJRXWJ3x3Oby02RbRl3f6) | [dj trippie flameboy](https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k) | [penis music, vol\. 1](https://open.spotify.com/album/5biBSRw2XAOyv9YTaUoPkD) | 1:51 | 2024-09-09 | 2024-09-16 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-01-29 | 2024-02-14 |
-| [Bad Guy](https://open.spotify.com/track/7uAWPqXthO4pO2Exc8V90t) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Saraya](https://open.spotify.com/artist/7EJH4GRkCHu08SoTKVKQm2) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 2:37 | 2024-10-09 |  |
+| [Bad Guy](https://open.spotify.com/track/7uAWPqXthO4pO2Exc8V90t) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Saraya](https://open.spotify.com/artist/7EJH4GRkCHu08SoTKVKQm2) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 2:37 | 2024-10-09 | 2024-10-13 |
 | [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-27 | 2024-03-16 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-12 | 2024-07-10 |
 | [BARMAN](https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [BARMAN](https://open.spotify.com/album/1mByzAvZR3t9OIaqDtnpQ0) | 2:57 | 2024-09-10 | 2024-09-17 |
@@ -92,6 +92,7 @@
 | [DEFEATED](https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1) | [MAXPVNK](https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D), [DJ RITMO DIVINO](https://open.spotify.com/artist/6GvahNk3SvKrC48sA1V15o) | [DEFEATED](https://open.spotify.com/album/3Mmr5m6RNsLhIqN81xDEP6) | 1:54 | 2024-08-07 | 2024-08-30 |
 | [Defeated](https://open.spotify.com/track/5N7k2pJXcRlWpXOOHp3OhQ) | [prazdneek](https://open.spotify.com/artist/102Fq6pPO7urGaiEYWRF5L) | [Defeated](https://open.spotify.com/album/3R8N8vnJDQYWYfSEGR49VV) | 3:33 | 2024-06-08 | 2024-06-18 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-16 | 2024-04-23 |
+| [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 | 2024-10-12 |  |
 | [DICE AND ROLL](https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DICE AND ROLL](https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a) | 2:00 | 2024-04-09 | 2024-05-06 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-12 |  |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-09-06 | 2024-09-18 |
@@ -298,7 +299,7 @@
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-06 | 2024-07-01 |
 | [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 4:00 | 2024-08-22 | 2024-10-07 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2024-01-29 | 2024-02-04 |
-| [never let me go.](https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg) | [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [never let me go.](https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA) | 1:47 | 2024-10-07 |  |
+| [never let me go.](https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg) | [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [never let me go.](https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA) | 1:47 | 2024-10-07 | 2024-10-13 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-29 | 2024-02-16 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-03 | 2024-09-22 |
 | [NEXT!](https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx) | [NCTS](https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG) | [NEXT!](https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5) | 1:39 | 2024-07-27 | 2024-09-14 |
@@ -645,7 +646,7 @@
 | [Монополия](https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:37 | 2024-06-12 | 2024-06-19 |
 | [Московские будни](https://open.spotify.com/track/7zm9Z9l9egDsRyQKwLICXJ) | [Poltabletki](https://open.spotify.com/artist/7eoLSixzMXdXqNBvtRETbf) | [Московские будни](https://open.spotify.com/album/05UC8JggTP0T11kjDol6mn) | 1:51 | 2024-09-19 | 2024-09-21 |
 | [Мошенничество](https://open.spotify.com/track/0rxbo7bvHMBqeR5T1hslqE) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz) | [Ойкумена](https://open.spotify.com/album/6WCFhIZHYCWOVUElKjKeD0) | 1:58 | 2024-06-12 | 2024-06-18 |
-| [музыка или счастье](https://open.spotify.com/track/2NmSSzfPciOj4ir4hNN237) | [Cold Carti](https://open.spotify.com/artist/4Go7GCuIjBZVlv7QyNQKSL) | [всегда ненавидел быть слабым](https://open.spotify.com/album/1Bv3zwNnhFeF2bB8fjKIcX) | 2:06 | 2024-10-08 | 2024-10-11 |
+| [музыка или счастье](https://open.spotify.com/track/2NmSSzfPciOj4ir4hNN237) | [Cold Carti](https://open.spotify.com/artist/4Go7GCuIjBZVlv7QyNQKSL) | [всегда ненавидел быть слабым](https://open.spotify.com/album/1Bv3zwNnhFeF2bB8fjKIcX) | 2:06 | 2024-10-08 |  |
 | [Музыка Сфер \- Музыка к фильму «Майор Гром: Игра»](https://open.spotify.com/track/7cDUhWJ5TVjx3sSryc5dG8) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [Музыка Сфер \(Музыка к фильму «Майор Гром: Игра»\)](https://open.spotify.com/album/6jEL6LFmPgmRnySgidketg) | 2:21 | 2024-06-17 | 2024-06-19 |
 | [мы](https://open.spotify.com/track/0bNhdf9JuBnxGQyXfdV9G3) | [Dimma Urih](https://open.spotify.com/artist/3XQg9kLPLTWoFZmw7spgZZ) | [мы](https://open.spotify.com/album/0Lp82aPJwx8Lgo9BrMr60U) | 2:04 | 2024-10-08 |  |
 | [Мы не будем спать](https://open.spotify.com/track/4E89os2iqr1mxwO4joDH6p) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Мы не будем спать](https://open.spotify.com/album/5HjCYP6IIBDHmxXWnB5rIz) | 2:18 | 2024-08-05 | 2024-08-07 |

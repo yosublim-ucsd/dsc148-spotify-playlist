@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 788875,
+  "num_followers": 789030,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "K\u0259nan Bayraml\u0131",
-          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-      "url": "https://open.spotify.com/track/1GRdOrA1Dbc2qvNXIBqdU7"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "soso (JOSEPH Remix)",
         "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 291500,
       "name": "soso - JOSEPH Remix",
       "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "K\u0259nan Bayraml\u0131",
+          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+      "url": "https://open.spotify.com/track/1GRdOrA1Dbc2qvNXIBqdU7"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -503,34 +503,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Feather (The Remixes)",
-        "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
-      },
-      "artists": [
-        {
-          "name": "Nhii",
-          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
-        },
-        {
-          "name": "Pippermint",
-          "url": "https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF"
-        },
-        {
-          "name": "Madmotormiquel",
-          "url": "https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1"
-        },
-        {
-          "name": "Iorie",
-          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
-        }
-      ],
-      "duration_ms": 427102,
-      "name": "Feather - Iorie & Madmotormiquel Remix",
-      "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -559,6 +531,34 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Feather (The Remixes)",
+        "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
+      },
+      "artists": [
+        {
+          "name": "Nhii",
+          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
+        },
+        {
+          "name": "Pippermint",
+          "url": "https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF"
+        },
+        {
+          "name": "Madmotormiquel",
+          "url": "https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1"
+        },
+        {
+          "name": "Iorie",
+          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
+        }
+      ],
+      "duration_ms": 427102,
+      "name": "Feather - Iorie & Madmotormiquel Remix",
+      "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -799,26 +799,22 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
         },
         {
-          "name": "Matara",
-          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
-        },
-        {
-          "name": "SHEERA",
-          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 246480,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -839,22 +835,26 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         },
         {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Matara",
+          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
+        },
+        {
+          "name": "SHEERA",
+          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 246480,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
-      },
-      "artists": [
-        {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -943,22 +923,6 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -983,26 +947,38 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
       "artists": [
         {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
         },
         {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        },
-        {
-          "name": "Meditelectro",
-          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1023,6 +999,30 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
+      },
+      "artists": [
+        {
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        },
+        {
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+        },
+        {
+          "name": "Meditelectro",
+          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
+        "name": "Gotta Let You Go (Radio Mix)",
+        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Gotta Let You Go",
+      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
         "name": "Patika",
         "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
       },
@@ -1403,38 +1423,18 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Gotta Let You Go (Radio Mix)",
-        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
       "artists": [
         {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Gotta Let You Go",
-      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
         }
       ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     }
   ],
   "unique_name": "Org\u00e1nica",

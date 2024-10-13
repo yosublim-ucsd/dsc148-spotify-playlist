@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1112847,
+  "num_followers": 1112962,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Deep Divine",
-        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 220767,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Wally",
         "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 128332,
       "name": "Wally",
       "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Deep Divine",
+        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 220767,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 119666,
-      "name": "Unifying Thought",
-      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Blue Sea",
         "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 195514,
       "name": "Blue Sea",
       "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "my forever",
-        "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "my forever",
-      "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD"
       },
@@ -1443,18 +1423,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
+        "name": "my forever",
+        "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 171383,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
+      "duration_ms": 202500,
+      "name": "my forever",
+      "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 171383,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 192521,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "another day",
-        "url": "https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 129655,
-      "name": "another day",
-      "url": "https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1575,30 +1559,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "milk in the morning",
-        "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
+        "name": "another day",
+        "url": "https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
-        },
-        {
-          "name": "Zaini",
-          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
-        },
-        {
-          "name": "Skinny Atlas",
-          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
         }
       ],
-      "duration_ms": 190223,
-      "name": "milk in the morning",
-      "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
+      "duration_ms": 129655,
+      "name": "another day",
+      "url": "https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1635,18 +1607,46 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "People Need People",
-        "url": "https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6"
+        "name": "milk in the morning",
+        "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
       },
       "artists": [
         {
-          "name": "JOBA",
-          "url": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+        },
+        {
+          "name": "Zaini",
+          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
+        },
+        {
+          "name": "Skinny Atlas",
+          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
         }
       ],
-      "duration_ms": 151706,
-      "name": "People Need People",
-      "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
+      "duration_ms": 190223,
+      "name": "milk in the morning",
+      "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "gum",
+        "url": "https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "gum v6.4",
+      "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
     }
   ],
   "unique_name": "Bedroom Pop",

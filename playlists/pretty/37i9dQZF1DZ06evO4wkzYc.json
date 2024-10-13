@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 136017,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 136148,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAD3ggJYESfMQDezgyExLgLu",
+  "snapshot_id": "ZwhqgAAAAABjDpjUKWS1h0OTQ6iyAw9V",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho (En Vivo)",
-        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 168288,
-      "name": "El Pocho - En Vivo",
-      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Del Ice - Live",
         "url": "https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 216960,
       "name": "El Del Ice - Live",
       "url": "https://open.spotify.com/track/1p4qVUJ8J2E8F7RcToq8Bf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 168288,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
     },
     {
       "added_at": null,

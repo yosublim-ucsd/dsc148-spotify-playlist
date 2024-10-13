@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Yukimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,133 likes - 119 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,148 likes - 119 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 49 | [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 |
 | 50 | [Livs levande lik](https://open.spotify.com/track/4jEdKp4Tph3NlGN8OAW14Q) | [SJUK HUS](https://open.spotify.com/artist/05YXRz6lUtBwK5EqIYWZWK) | [Livs levande lik](https://open.spotify.com/album/5GKhaAG7TtE74IAy58ltGW) | 2:23 |
 | 51 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 |
-| 52 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
+| 52 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
 | 53 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 |
 | 54 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 |
 | 55 | [Go Where I Wanna Go](https://open.spotify.com/track/5K9HayAodE0zuiWlb7aXKF) | [Pont Us](https://open.spotify.com/artist/5CoGJKGyZA366aCOKWMgHA) | [Go Where I Wanna Go](https://open.spotify.com/album/3RxCDDqe8ypof6xj3L7KxQ) | 11:54 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 69 | [Don't Stop](https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX) | [Ludwig Hart](https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl) | [Stay Young](https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79) | 3:15 |
 | 70 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
 | 71 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 |
-| 72 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt \(EDITS\)](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
+| 72 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 |
 | 73 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
 | 74 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 |
 | 75 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 |

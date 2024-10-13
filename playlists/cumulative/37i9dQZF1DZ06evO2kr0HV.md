@@ -2,7 +2,7 @@
 
 ### [This Is Esteman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kr0HV)
 
-> This is Esteman\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Esteman\. Los temas esenciales, todos en una lista.
 
 82 songs - 4 hr 49 min
 

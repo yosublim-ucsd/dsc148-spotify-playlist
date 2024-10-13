@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Chelas",
+        "url": "https://open.spotify.com/album/1f4GKTogkgEWUjcqDhBRMz"
+      },
+      "artists": [
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Chelas",
+      "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
+    },
+    {
+      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },

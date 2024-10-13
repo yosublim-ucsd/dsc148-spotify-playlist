@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> 🌪️ <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">7</a> på repeat 🌪️
+> 🌪️ <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> <a href="spotify:album:7nYokidgcvRUWqipPFMBJu">7</a> på repeat 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,078 likes - 103 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,173 likes - 103 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 63 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 |
 | 64 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 |
 | 65 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 |
-| 66 | [Bittersweet](https://open.spotify.com/track/1kdwyzH4Ru6glHvmp2vTLN) | [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Bittersweet](https://open.spotify.com/album/3tPCBsGC1fHOsF7TKnIcly) | 2:48 |
+| 66 | [Bittersweet](https://open.spotify.com/track/1kdwyzH4Ru6glHvmp2vTLN) | [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ) | [Bittersweet](https://open.spotify.com/album/3tPCBsGC1fHOsF7TKnIcly) | 2:48 |
 | 67 | [This Is The Kaizer Family!](https://open.spotify.com/track/6pT8UmnFFBTnW3qZxDC5Tp) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [This Is The Kaizer Family!](https://open.spotify.com/album/0QMNJgTjx6etPeSzFU58mk) | 4:46 |
 | 68 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 |
 | 69 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Gay CLub](https://open.spotify.com/track/5tPRaJW7SgzPFxELlbCzSC) | [Betty Bitschlap](https://open.spotify.com/artist/2hFtYze5XP9ckcmqCHheuf) | [GAY CLUBBING](https://open.spotify.com/album/3wHHa3FRGAeZvTwwYZRdOe) | 2:58 |
 | 103 | [Alive](https://open.spotify.com/track/1lvP3DcLSxpfakcQSbuSLo) | [RIBOE](https://open.spotify.com/artist/0H1jZLyGbur9vHWyUbKgw1), [ACTFILL](https://open.spotify.com/artist/6Fwf3rnHeQCcgAhMMYrRNG) | [Alive](https://open.spotify.com/album/0Oa9gg25S5t6rP5eO9r2O5) | 2:53 |
 
-Snapshot ID: `ZwhOYAAAAABk+xUPAUmP53CA1tyQBe5H`
+Snapshot ID: `Zwow3QAAAADPGboff9V+i5oQS2Tw0LaB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Astro in cover della playlist con il top dello street rap italiano 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,274 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,402 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 45 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
 | 46 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
 | 47 | [Contigo](https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Contigo](https://open.spotify.com/album/78xTjDRmktseI106DiEoIG) | 2:20 |
-| 48 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
+| 48 | [Mercedes \(feat\. Papa V\)](https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:17 |
 | 49 | [NA/RM \(feat\. Yung Snapp, MV Killa\)](https://open.spotify.com/track/3BO6xH8rcVVNCzQUpV8UAt) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:59 |
 | 50 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
 

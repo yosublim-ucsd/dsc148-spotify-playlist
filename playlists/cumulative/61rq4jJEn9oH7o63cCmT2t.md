@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-52 songs - 2 hr 56 min
+53 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Rivers Is A Vampire](https://open.spotify.com/track/5Ej4QdOFpwulV2GPWbfp6T) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp), [Dan E.T.](https://open.spotify.com/artist/5h1O6B6ycnrerdsrJKd5EV) | [Rivers Is A Vampire](https://open.spotify.com/album/17gIgdbmLodIJ970KnPJeS) | 3:05 | 2023-08-10 |  |
 | [Role Models](https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:12 | 2022-05-07 |  |
 | [Rule \#3 \- Paperwork](https://open.spotify.com/track/7zIQ0E2DKYagBxrKbvR5CB) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Fish in a Birdcage](https://open.spotify.com/album/3JT5Riw2oTx8W6ZnLim5i2) | 5:08 | 2022-06-27 |  |
+| [Settle Down My Boy](https://open.spotify.com/track/3Fql5eBXTuKgAf75bWgHzr) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Down Under](https://open.spotify.com/album/7fviHYYN5OFnCiVTwgxEfZ) | 3:27 | 2024-10-12 |  |
 | [Shuffle](https://open.spotify.com/track/7FKkJ0NDrMobvDw1jD8w58) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Mysteries for Rats](https://open.spotify.com/album/2lLqbdwvNw8zWDYwk1nsED) | 2:43 | 2024-01-17 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 | 2022-05-07 |  |

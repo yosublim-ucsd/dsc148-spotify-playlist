@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 140952,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/4Oc42aPOweEPZyNvTJSoBE"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 143000,
       "name": "Bah Bah",
       "url": "https://open.spotify.com/track/6UZW6sgFXSdr96sqrxhTHc"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 139750,
       "name": "Bambilibam",
       "url": "https://open.spotify.com/track/0shvn8hv6MzQRedCHzeP6Z"
@@ -6303,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Wax Work EP",
+        "url": "https://open.spotify.com/album/2imj8Ou0wwZnVOhW08eVdb"
+      },
+      "artists": [
+        {
+          "name": "Dan Fresco",
+          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/5Ynhp6gFyyvv7559Sh0odz"
+    },
+    {
+      "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/2neWCkyM66Pf8sjRSRwmHh"
       },
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 156000,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/4MAxbsOLvmCs8R44gqD8lV"
@@ -12540,7 +12558,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 195000,
       "name": "From The Top",
       "url": "https://open.spotify.com/track/4woUIybgBhx11EmDI9iVQZ"
@@ -13954,7 +13972,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 327441,
       "name": "Go Back - Original Mix",
       "url": "https://open.spotify.com/track/6tR4qvk7tLIrATE9PFe12I"
@@ -14234,7 +14252,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 140909,
       "name": "Got To Be",
       "url": "https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg"
@@ -15034,7 +15052,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 144230,
       "name": "Hey Girls, B-Boys",
       "url": "https://open.spotify.com/track/79GMf6RewQhaYZfFvegwJB"
@@ -15164,7 +15182,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 173538,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1RF6iHIuiuMesHMVzoRoVu"
@@ -15642,7 +15660,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 182812,
       "name": "Horny",
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
@@ -16437,6 +16455,28 @@
     },
     {
       "album": {
+        "name": "I Like Dancing",
+        "url": "https://open.spotify.com/album/55RB7beoraMelRsQ2V1DXx"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202972,
+      "name": "I Like Dancing",
+      "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
+    },
+    {
+      "album": {
         "name": "I Need Some",
         "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
       },
@@ -16540,6 +16580,24 @@
       "duration_ms": 151874,
       "name": "I Want The Vibes",
       "url": "https://open.spotify.com/track/57wBDp7tJbLX3bmRdiFXAE"
+    },
+    {
+      "album": {
+        "name": "Sola presents Ibiza 2024",
+        "url": "https://open.spotify.com/album/7ijJNifUhgowupgS8SsDeD"
+      },
+      "artists": [
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212838,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4cGpYgsy6OpDd57akWiag4"
     },
     {
       "album": {
@@ -17864,6 +17922,24 @@
       "duration_ms": 201928,
       "name": "Jamming - FISHER Rework",
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
+    },
+    {
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/11JI19Paj5O2V1bO4BDeDA"
+      },
+      "artists": [
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198984,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2urgnQCLBdwcLWy0TBbq42"
     },
     {
       "album": {
@@ -22357,6 +22433,24 @@
     },
     {
       "album": {
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
+    },
+    {
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -22942,6 +23036,24 @@
       "duration_ms": 179047,
       "name": "Morenita - Matroda Remix",
       "url": "https://open.spotify.com/track/4Qa9y4SXsLBAhcRZUdtpOw"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/3j7mtMgbnLhSpQjG2Hy1Te"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/3nhuPms9GiJjt9XXgA3wx0"
     },
     {
       "album": {
@@ -24849,6 +24961,24 @@
     },
     {
       "album": {
+        "name": "OBSERVATION",
+        "url": "https://open.spotify.com/album/1nBBfAfx5lMDcC5TLjZQ0Q"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "OBSERVATION",
+      "url": "https://open.spotify.com/track/4nvWOqsVHllseC80HwMLYn"
+    },
+    {
+      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6aM363O4XMXHBpFH5WHTQL"
       },
@@ -26488,7 +26618,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
@@ -27333,6 +27463,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0xCiJ52ME37JJNeXvmJvfe"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Anthony Attalla",
+          "url": "https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166365,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7HZfT69Gza4V3d11U7j8e1"
+    },
+    {
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/0gMnriXEyTO9VDv9Dk32QJ"
       },
@@ -28104,7 +28256,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 374000,
       "name": "Rave On This",
       "url": "https://open.spotify.com/track/6kHUE4lPOkrTknRuF06Lj2"
@@ -31504,7 +31656,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 344508,
       "name": "So Deep",
       "url": "https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs"
@@ -32208,6 +32360,28 @@
       "duration_ms": 183966,
       "name": "Still In Luv",
       "url": "https://open.spotify.com/track/6oiycDVm0sSW1LkYUusbPV"
+    },
+    {
+      "album": {
+        "name": "Still My Baby",
+        "url": "https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "Still My Baby",
+      "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
     },
     {
       "album": {
@@ -39031,6 +39205,28 @@
     },
     {
       "album": {
+        "name": "When The Bass Kicks In",
+        "url": "https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193139,
+      "name": "When The Bass Kicks In",
+      "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
+    },
+    {
+      "album": {
         "name": "When the beat Bang",
         "url": "https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf"
       },
@@ -39740,7 +39936,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 189120,
       "name": "Work Tomorrow",
       "url": "https://open.spotify.com/track/5QaDPXmJsjNfTy9ISwSbAQ"

@@ -2,7 +2,7 @@
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This is Engel Montaz。アーティストの代表曲をひとつのプレイリストに。
+> This is Engel Montaz\. Todos os maiores hits em uma só playlist.
 
 59 songs - 3 hr 6 min
 

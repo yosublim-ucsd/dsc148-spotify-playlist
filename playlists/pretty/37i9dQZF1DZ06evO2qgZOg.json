@@ -1,29 +1,13 @@
 {
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 287061,
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
+  "num_followers": 287114,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAABfbBnHLvqasVoqUogZdmr0",
+  "snapshot_id": "ZwhqgAAAAACc+VAydwnhhxfZQQ3Bzk4K",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/5bN0t7gKY1LAYMQJOPAqQt"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/1CpRmYozOKinQpQ7SXB4T8"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/5bN0t7gKY1LAYMQJOPAqQt"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 244538,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+      "duration_ms": 207666,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/1CpRmYozOKinQpQ7SXB4T8"
     },
     {
       "added_at": null,
@@ -167,6 +151,22 @@
       "duration_ms": 209493,
       "name": "Awake and Alive",
       "url": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 210026,
       "name": "Falling Inside the Black",
       "url": "https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 208826,
-      "name": "I Want to Live",
-      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
+      "duration_ms": 225853,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
     },
     {
       "added_at": null,
@@ -363,18 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
       },
       "artists": [
         {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
         }
       ],
-      "duration_ms": 216799,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
+      "duration_ms": 204634,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
     },
     {
       "added_at": null,
@@ -404,9 +412,25 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
+      "duration_ms": 208826,
+      "name": "I Want to Live",
+      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 216799,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
     },
     {
       "added_at": null,
@@ -423,46 +447,6 @@
       "duration_ms": 210520,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 245715,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take It All Back",
-        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "Take It All Back",
-      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 192307,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 245715,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls"
     },
     {
       "added_at": null,
@@ -551,38 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "One Day Too Late",
-      "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -603,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
       "artists": [
         {
@@ -612,9 +580,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 211149,
-      "name": "Beyond Incredible",
-      "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
+      "duration_ms": 220080,
+      "name": "One Day Too Late",
+      "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
     },
     {
       "added_at": null,
@@ -651,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "Beyond Incredible",
+      "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 257467,
-      "name": "Standing in the Storm",
-      "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
+      "duration_ms": 225400,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Standing in the Storm",
+      "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 206182,
       "name": "Shout Your Freedom",
       "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "You Get Me High",
-      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 201060,
       "name": "Unbreakable Soul",
       "url": "https://open.spotify.com/track/1H5O8Re8EWxGtniptE7HIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious: The Aftermath - Deluxe",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
     },
     {
       "added_at": null,
@@ -807,38 +823,6 @@
       "duration_ms": 242193,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victorious: The Aftermath - Deluxe",
-        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 208233,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"
     }
   ],
   "unique_name": "This Is Skillet",

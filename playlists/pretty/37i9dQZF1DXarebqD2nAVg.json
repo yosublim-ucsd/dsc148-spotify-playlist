@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 452852,
+  "num_followers": 452882,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Smooth Fields",
+        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Smooth Fields",
+      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 115862,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Smooth Fields",
-        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Smooth Fields",
-      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Last Dream",
-        "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Last Dream",
-      "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Last Dream",
+        "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Last Dream",
+      "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Slow Drive",
-        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
-      },
-      "artists": [
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Slow Drive",
-      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "roamwave",
         "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "No Awake Zone",
-        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
+        "name": "Slow Drive",
+        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
       },
       "artists": [
         {
-          "name": "Pat Laine",
-          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 138370,
-      "name": "No Awake Zone",
-      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
+      "duration_ms": 128000,
+      "name": "Slow Drive",
+      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -743,6 +727,22 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "No Awake Zone",
+        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "No Awake Zone",
+      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Through My Window",
-        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
-      },
-      "artists": [
-        {
-          "name": "day zee",
-          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "Through My Window",
-      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "roadtrip",
         "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 137580,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
+      },
+      "artists": [
+        {
+          "name": "day zee",
+          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "Through My Window",
+      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Rainy Days",
-        "url": "https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY"
-      },
-      "artists": [
-        {
-          "name": "Screwaholic",
-          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
-        }
-      ],
-      "duration_ms": 118462,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Gl\u00f6da",
         "url": "https://open.spotify.com/album/0LSM2tVfjpEJIu4Hwc37Cn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 126000,
       "name": "Gl\u00f6da",
       "url": "https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Rainy Days",
+        "url": "https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        }
+      ],
+      "duration_ms": 118462,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV"
     }
   ],
   "unique_name": "sad lofi",

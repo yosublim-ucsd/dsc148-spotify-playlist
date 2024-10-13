@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 36317,
+  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
+  "num_followers": 36344,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAACM5OPqCZT7i0yxFQkXu3eJ",
+  "snapshot_id": "ZwhqgAAAAAAt6cSWElG9EOnIfaqEdDC5",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Chillar a otra parte",
-        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "A Chillar a otra parte",
-      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen Y Dicen",
         "url": "https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 173105,
       "name": "Dicen Y Dicen",
       "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Chillar a otra parte",
+        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "A Chillar a otra parte",
+      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS FELICES (DELUXE)",
-        "url": "https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 130146,
-      "name": "Deluxe",
-      "url": "https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La N\u00famero 20 (En Vivo)",
         "url": "https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 191477,
       "name": "El De La 31",
       "url": "https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS FELICES (DELUXE)",
+        "url": "https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 130146,
+      "name": "Deluxe",
+      "url": "https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/6GRr0rPHIw6W8NoB1xLjHr"
+        "name": "Desde Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/1I6OiM28AvbZseo0OjiFZj"
+      "duration_ms": 195648,
+      "name": "El Barbas (En Vivo)",
+      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/6GRr0rPHIw6W8NoB1xLjHr"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 195648,
-      "name": "El Barbas (En Vivo)",
-      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/1I6OiM28AvbZseo0OjiFZj"
     },
     {
       "added_at": null,

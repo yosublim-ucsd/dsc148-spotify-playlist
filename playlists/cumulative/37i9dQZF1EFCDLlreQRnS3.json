@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "All Of The Lights",
+        "url": "https://open.spotify.com/album/1b5NbbarHpHXKRVSoT0jSE"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Joyse",
+          "url": "https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/3jUNIhpyHyGWvlhWU6g9ob"
+    },
+    {
+      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F"
       },

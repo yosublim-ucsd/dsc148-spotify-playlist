@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-410 songs - 23 hr 9 min
+411 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Call You?](https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl) | [ArmstrongWW](https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn) | [Call You?](https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC) | 3:25 | 2022-10-13 | 2024-03-30 |
 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp) | 3:13 | 2023-12-01 | 2024-04-19 |
 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj) | 3:13 | 2021-12-16 | 2023-11-03 |
+| [Capital Gains](https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb), [Pro Dillinger](https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY) | [Hair Brained Schemes](https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx) | 3:15 | 2024-10-11 |  |
 | [Carefree](https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Carefree](https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA) | 3:10 | 2021-12-16 |  |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2021-12-16 | 2022-11-21 |
 | [Careful](https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Haiku](https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9) | 2:11 | 2022-12-15 | 2024-02-14 |
@@ -128,7 +129,7 @@
 | [Eucalyptus](https://open.spotify.com/track/4XJcBj7q9szzwLAtYrdwmQ) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Natty Wylah](https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK), [Jkarri](https://open.spotify.com/artist/7pnHPcFr8HpjXaEAOFpX3V) | [Eucalyptus](https://open.spotify.com/album/1j1TndbK3GKEFqatT0jVzR) | 3:33 | 2021-12-16 | 2022-07-28 |
 | [Eve](https://open.spotify.com/track/7m2bsSY5tPbB9JR8qRkiEQ) | [Les Cooles de Ville](https://open.spotify.com/artist/3UREGnJvseKx1ZP03As4Ez) | [L.C.D.V.](https://open.spotify.com/album/2yMgjikwwKObXwGFXXkrAY) | 3:10 | 2022-04-11 | 2022-04-21 |
 | [Everybody's Somebody](https://open.spotify.com/track/52TBlTxLrajW9btOD22cdS) | [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Everybody's Somebody](https://open.spotify.com/album/5fiY9l04xQuh8YprrNnz74) | 2:54 | 2022-02-10 | 2022-06-06 |
-| [Evil Cute](https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv) | [Shunaji](https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx) | [Evil Cute](https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa) | 2:08 | 2024-04-19 |  |
+| [Evil Cute](https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv) | [Shunaji](https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx) | [Evil Cute](https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa) | 2:08 | 2024-04-19 | 2024-10-13 |
 | [Fabrics](https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA) | 3:34 | 2022-07-28 | 2024-04-19 |
 | [Fabrics](https://open.spotify.com/track/6hlLKByDfmpoQQrfag0LzV) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/5uS0Li0XPo0Ccpka77IMdV) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [Factor](https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Factor](https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq) | 2:57 | 2024-03-21 | 2024-10-11 |

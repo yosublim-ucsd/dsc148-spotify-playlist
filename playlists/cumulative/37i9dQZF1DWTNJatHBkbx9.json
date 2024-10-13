@@ -1487,6 +1487,28 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/7wMILMc50Vv0OQ1JktsEfx"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153965,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/46o3CbNVM2vIAMDSpP22os"
+    },
+    {
+      "album": {
         "name": "4 DA PAIN",
         "url": "https://open.spotify.com/album/0TM6jciackri09qoY3SV9s"
       },
@@ -1701,6 +1723,32 @@
     },
     {
       "album": {
+        "name": "ON MY BODY",
+        "url": "https://open.spotify.com/album/3uDjTASTUv7h3RxhtiGKwQ"
+      },
+      "artists": [
+        {
+          "name": "theSylk",
+          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
+        },
+        {
+          "name": "Jake Cromwell",
+          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+        },
+        {
+          "name": "Vylet Stone",
+          "url": "https://open.spotify.com/artist/2w8ShurPxmdxPuxSyG4eJT"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "ON MY BODY",
+      "url": "https://open.spotify.com/track/1BJaSV1JfaaUf6SX2VwiaW"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1"
       },
@@ -1716,6 +1764,24 @@
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/5WLrjjGt7wsKvsPACf9gU0"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162585,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/7eOlewtYPkOqpI4W5LhXth"
     },
     {
       "album": {
@@ -2057,6 +2123,46 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3uFLUmeQvVrEoGqEbVwn6x"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Allan Harvey",
+          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159274,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/28WdABswL19KArcoOwosy3"
+    },
+    {
+      "album": {
+        "name": "Sandbox Vibes",
+        "url": "https://open.spotify.com/album/7jxSO7vkVd9zXYNXxko1w2"
+      },
+      "artists": [
+        {
+          "name": "Kay-Ara",
+          "url": "https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195761,
+      "name": "Sandbox Vibes",
+      "url": "https://open.spotify.com/track/4OWOg2OCoSUjgkkUA7fNHY"
+    },
+    {
+      "album": {
         "name": "SWEET AFROSEXY SUMMERS.",
         "url": "https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf"
       },
@@ -2108,6 +2214,28 @@
       "duration_ms": 171685,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo"
+    },
+    {
+      "album": {
+        "name": "Shika K3 Kotoku",
+        "url": "https://open.spotify.com/album/7cmHiFkLU5ydMOKfX6sR9u"
+      },
+      "artists": [
+        {
+          "name": "Younga101",
+          "url": "https://open.spotify.com/artist/3XNl6NZFH3MADC8I4ny800"
+        },
+        {
+          "name": "Freddie Gambini",
+          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Shika K3 Kotoku",
+      "url": "https://open.spotify.com/track/6ektIRTZpLS2YXlpnaslI3"
     },
     {
       "album": {
@@ -2398,6 +2526,24 @@
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc"
     },
     {
       "album": {

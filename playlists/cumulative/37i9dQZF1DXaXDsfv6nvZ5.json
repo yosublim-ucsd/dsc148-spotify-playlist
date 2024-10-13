@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "October Nights",
+        "url": "https://open.spotify.com/album/0y7LN7tEQW36PYKwTHzt2H"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/69Z7UBjpKY5VesBHwpiQjH"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8"
       },
@@ -3405,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/3JQ4zns5D1DTCoAgmjjweC"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137922,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV"
+    },
+    {
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -3814,7 +3854,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 149582,
       "name": "Goodbye To Yesterday 2.0",
       "url": "https://open.spotify.com/track/6fj7Jy5PlsZoYSB7d3INNt"
@@ -7904,7 +7944,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 219950,
       "name": "Over",
       "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
@@ -9697,6 +9737,28 @@
     },
     {
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH"
+      },
+      "artists": [
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217622,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"
+    },
+    {
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu"
       },
@@ -11456,7 +11518,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 228684,
       "name": "Whatcha Done Now (feat. Kenyon Dixon)",
       "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"

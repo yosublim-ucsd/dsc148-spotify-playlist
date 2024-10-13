@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Meyer Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,943 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,951 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [Duda Sa'yo](https://open.spotify.com/track/5PaFxlq528fOxubf1E6N4a) | [Chosen](https://open.spotify.com/artist/0xgYBuF3OLAyaL5HCYc092) | [Duda Sa'yo](https://open.spotify.com/album/0Lf8WDmfAEMJQaZe3c6ezX) | 2:23 |
 | 7 | [Pumapatak](https://open.spotify.com/track/2hgjiPbqM5ODQzb8EnC1oI) | [Diggz](https://open.spotify.com/artist/0K27fWUB5Bzoe4kSDgZgq4), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf) | [Pumapatak](https://open.spotify.com/album/4DXdZvpHe9GIlLZRLBJvqg) | 2:28 |
 | 8 | [Palihim Lang](https://open.spotify.com/track/1k5npYC6PsoWIQmH9tk8L9) | [2ICEY](https://open.spotify.com/artist/7emlGVjzcaBw6ndzROgua5) | [Palihim Lang](https://open.spotify.com/album/6vUgUcRKaIrFHzzXuFoKgW) | 2:58 |
-| 9 | [Knight](https://open.spotify.com/track/4si4ML9UAqh4aGi4567Ewv) | [franz](https://open.spotify.com/artist/61m2iEaUNTsNUwtYMAltSM) | [Knight](https://open.spotify.com/album/42CUHWPctBT4fr3zsGeF6B) | 3:29 |
+| 9 | [Knight](https://open.spotify.com/track/4si4ML9UAqh4aGi4567Ewv) | [franz](https://open.spotify.com/artist/4SnxAiKFmPTSMpQnqay1sk) | [Knight](https://open.spotify.com/album/42CUHWPctBT4fr3zsGeF6B) | 3:29 |
 | 10 | [Red](https://open.spotify.com/track/6UXigWkdBLtCJ8ljbJCxgf) | [Reseta](https://open.spotify.com/artist/30V1yWmoHMIYbeLLnaU31M) | [Red](https://open.spotify.com/album/5T1xKd7Mc4rA6qGGJlyURy) | 3:05 |
 | 11 | [Galaw](https://open.spotify.com/track/1InUmKT3L90gawVoEnS58n) | [Jekk Therapeace](https://open.spotify.com/artist/4cut06tIutBS57wt3btzez) | [Galaw](https://open.spotify.com/album/48TDb9mPYawKxiXkRlxx5O) | 3:25 |
 | 12 | [Ride](https://open.spotify.com/track/6oolVzrs3vD49qXJWs3rFp) | [Gaz Magalona](https://open.spotify.com/artist/0eJ2UsYECy5wduxABhhWW8) | [Ride](https://open.spotify.com/album/0fuVAv9DEcKOaeextD0REX) | 3:58 |

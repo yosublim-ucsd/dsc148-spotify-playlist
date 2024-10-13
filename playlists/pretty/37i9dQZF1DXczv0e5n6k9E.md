@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: FLY LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,862 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,861 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 2 | [SILLY BOY](https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:50 |
 | 3 | [Ocean Drive](https://open.spotify.com/track/6Y3vVTKOJFWCgBbzp9YPU2) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Ocean Drive](https://open.spotify.com/album/2DrhB6TPEqGZK0xVah9Nzy) | 2:56 |
 | 4 | [LALE](https://open.spotify.com/track/2LNf69ZnFFK6qKH9qW3GSK) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [LALE](https://open.spotify.com/album/3nY3PpZv0kyan3blXtkrKQ) | 3:00 |
-| 5 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
+| 5 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4gzCTR7Rv6ttD5SfG0VclF) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
 | 6 | [OE](https://open.spotify.com/track/6ieUZ3iDm1hlFF7TOeytTL) | [Popayedi](https://open.spotify.com/artist/2ulrGXdmxOLX64VdgGCaJW), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [OE](https://open.spotify.com/album/0G5tAg3BchkTcIS3Iwnk5e) | 2:58 |
 | 7 | [O Thrasis](https://open.spotify.com/track/5HH5Qt2k9OVaQF6On6t4pf) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [TO THRASITATO EP](https://open.spotify.com/album/5nCSGUywctnLogqsnHis79) | 2:39 |
 | 8 | [CRIMINAL](https://open.spotify.com/track/0enTHNKELe4TR67h17qxoN) | [Massif](https://open.spotify.com/artist/5O7MWQ0W3sjEbMubFhPJwQ), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [CRIMINAL](https://open.spotify.com/album/0VCTb61kOCQgeCwqYkeobp) | 2:35 |

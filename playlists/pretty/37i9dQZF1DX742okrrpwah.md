@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Charli xcx et Ariana Grande au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,344 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,354 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [coffee on ibiza \(feat\. SIR NOTCH\)](https://open.spotify.com/track/1mScgcBij2Yy1rsBHh5U3d) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [SIR NOTCH](https://open.spotify.com/artist/4SLZm8YYu6KrPjowQigjCQ) | [coffee on ibiza \(feat\. SIR NOTCH\)](https://open.spotify.com/album/6UK4kGstCVbT18DpsIVwqM) | 2:54 |
 | 72 | [KNIGHTS OF HEAVEN](https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [KNIGHTS OF HEAVEN](https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m) | 3:21 |
 | 73 | [Click](https://open.spotify.com/track/4EUwWB3vCFjUSZaN7Iy2wg) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [ARGENT](https://open.spotify.com/album/5oW5MGK9yoHmPQfoU2kj0R) | 3:01 |
-| 74 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck/Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 74 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 75 | [Comme je l'aime](https://open.spotify.com/track/1BmmF0R8N8E8hKS01RAJ2g) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Comme je l'aime](https://open.spotify.com/album/6Qf7uI07LuuL0Cur2l09b6) | 3:23 |
 | 76 | [When You Keep Running](https://open.spotify.com/track/4BK2Ahjaain3jpUeOWaIfO) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [When You Keep Running](https://open.spotify.com/album/3VpZm610YUtXe1AzOLbIqY) | 4:03 |
 | 77 | [No Genius](https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [No Genius](https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5) | 2:51 |

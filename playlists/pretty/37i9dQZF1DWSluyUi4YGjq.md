@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,568 likes - 149 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,685 likes - 149 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 7 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 |
 | 8 | [Spirit](https://open.spotify.com/track/7DENTjJX2qGicOpgsNHo3y) | [voyeur](https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n) | [Something Becomes You](https://open.spotify.com/album/3oqVmp3SJXVz318ZAHYH8h) | 3:09 |
 | 9 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 |
-| 10 | [Pond](https://open.spotify.com/track/3nnOsPUwXUa4lbV6Ybtqig) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [Pond](https://open.spotify.com/album/51GloB4XLeFvNH9liwgouy) | 2:27 |
+| 10 | [pond](https://open.spotify.com/track/3nnOsPUwXUa4lbV6Ybtqig) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [pond](https://open.spotify.com/album/51GloB4XLeFvNH9liwgouy) | 2:27 |
 | 11 | [It Gets Easier](https://open.spotify.com/track/62ZTzwoCs7AmirXl7BSpni) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [It Gets Easier](https://open.spotify.com/album/0rDIjpyV5oYjnZdRZUtwT3) | 2:35 |
 | 12 | [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 |
 | 13 | [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 3:08 |

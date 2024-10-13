@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>
 
-50 songs - 5 hr 3 min
+51 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2024-10-04 |  |
 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 | 2024-10-04 |  |
 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-10-04 |  |
+| [JESU BENGA UNDERSTAND WHY](https://open.spotify.com/track/3cBT3KfCOQmWKhuqiCDp2t) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [JESU BENGA UNDERSTAND WHY](https://open.spotify.com/album/4PjuzA8xcHv4jANx4N7qyQ) | 7:16 | 2024-10-04 |  |
 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 | 2024-10-04 |  |
 | [Jesu ‘Lidwala](https://open.spotify.com/track/2LzE0NjnRkCnWUceB7bGiD) | [Lusanda Beja](https://open.spotify.com/artist/0YUGmCeW5yRmxinae7xxPe) | [Jesu 'lidwala](https://open.spotify.com/album/64Ten8WmX26OtfIxbwwtM9) | 9:40 | 2024-10-04 |  |
 | [Kubobonke Othixo \- Live](https://open.spotify.com/track/6y6MKYvUGbGB90eKz0UUlu) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Filled \(Live\)](https://open.spotify.com/album/4WNEixgWBG6heUWA0tPYsh) | 2:37 | 2024-10-04 |  |
@@ -42,7 +43,7 @@
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-10-04 |  |
 | [Nothing Without You \- Live](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2024-10-04 |  |
 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 | 2024-10-04 |  |
-| [Pride \(A Deeper Love\)](https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd) | 2:50 | 2024-10-04 |  |
+| [Pride \(A Deeper Love\)](https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd) | 2:50 | 2024-10-04 | 2024-10-13 |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-10-04 |  |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \(Live\)](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |

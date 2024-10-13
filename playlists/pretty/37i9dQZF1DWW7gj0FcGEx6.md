@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,762 likes - 220 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,790 likes - 220 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 36 | [Welcome To The Enterprise](https://open.spotify.com/track/3NYkNKKBUBdgosh4827u9j) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Frederik Wiedmann](https://open.spotify.com/artist/4y9AcaqpYbyZuO8MjnVADB) | [Star Trek: Picard, Season 3, Volume 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/1OONnrt4ZTpD3BKW89IBHW) | 2:30 |
 | 37 | [Exit](https://open.spotify.com/track/7A5W3M1BVwaE7GncQrOSGP) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Speak No Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d5VsqZUzU9Tps8OvDsQpX) | 1:21 |
 | 38 | [Main Title Theme \(from "Beetlejuice Beetlejuice"\)](https://open.spotify.com/track/1OAHDtRQCebV0Bq4ixOyes) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:20 |
-| 39 | [Deadpool Has a Theme](https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:28 |
+| 39 | [Deadpool Has a Theme](https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:28 |
 | 40 | [Kugelblitz](https://open.spotify.com/track/6jNV9t96iztdYU2I53paYO) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Perrine Virgile](https://open.spotify.com/artist/5ooWVyM8r9cmPHRl4jXZ4R) | [The Umbrella Academy, Seasons 3 & 4 \(Original Series Soundtrack\)](https://open.spotify.com/album/2LE9uCoADn3RTSvNO4nIQc) | 2:32 |
 | 41 | [Main Title Theme \(from "The Regime"\)](https://open.spotify.com/track/2XqV2kzEGpFuBN9hNakrmz) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Regime \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/2lknnn58t1IG0x5m4BLjYK) | 1:32 |
 | 42 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |

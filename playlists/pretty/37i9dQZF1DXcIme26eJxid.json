@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 109425,
+  "num_followers": 109453,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -348,13 +348,13 @@
       },
       "artists": [
         {
-          "name": "Harry Mosco",
-          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
         }
       ],
-      "duration_ms": 331653,
-      "name": "Sugar Cane Baby",
-      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -364,13 +364,13 @@
       },
       "artists": [
         {
-          "name": "Dizzy K Falola",
-          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
+          "name": "Harry Mosco",
+          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Baby Kilode",
-      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
+      "duration_ms": 331653,
+      "name": "Sugar Cane Baby",
+      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Neria",
         "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "Synchro System",
         "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+        "name": "XX - Celebrating 20 Years Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT"
       },
       "artists": [
         {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -623,6 +623,22 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -655,22 +671,6 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
     }
   ],
   "unique_name": "Classic Afropop",

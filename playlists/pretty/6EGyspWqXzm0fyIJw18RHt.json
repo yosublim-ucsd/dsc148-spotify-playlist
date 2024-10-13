@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAE5067ENpCsPlywSnjCogLc+8L4BO",
+  "snapshot_id": "AAAAFDhF3nKnKucYEL6wfsgPQkixdGcF",
   "tracks": [
     {
       "added_at": "2023-03-23 07:57:00",
@@ -263,6 +263,26 @@
       "duration_ms": 209466,
       "name": "Werewolves of London",
       "url": "https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu"
+    },
+    {
+      "added_at": "2024-10-11 23:01:17",
+      "album": {
+        "name": "Creepin' Candy",
+        "url": "https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "duration_ms": 173379,
+      "name": "Creepin' Candy",
+      "url": "https://open.spotify.com/track/2kHK7MGeTNj0QlE14tuGWs"
     }
   ],
   "unique_name": "Halloween",

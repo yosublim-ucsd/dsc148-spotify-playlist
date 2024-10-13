@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 121 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 122 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 13 | [Playing With My Heart](https://open.spotify.com/track/3hMpunBF4cTJybNRSBMU3t) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Playing With My Heart](https://open.spotify.com/album/0S6XfMEhF99rXMBubMqJp3) | 2:44 |
 | 14 | [Overthinking](https://open.spotify.com/track/3WfYsJulANxzQdOj5CvlKR) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:01 |
 | 15 | [Touch](https://open.spotify.com/track/6xa40oo11mx6XTLpZwuLUL) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Touch](https://open.spotify.com/album/34q5aD1Ldo2e7nSQzF608l) | 2:52 |
-| 16 | [Gets Me The Most](https://open.spotify.com/track/5BogyQ5iTohTqatlsZOUDZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ) | [Gets Me The Most](https://open.spotify.com/album/0roScFcpdRcdOsqOWfGV8r) | 3:08 |
-| 17 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 16 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 17 | [Gets Me The Most](https://open.spotify.com/track/5BogyQ5iTohTqatlsZOUDZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ) | [Gets Me The Most](https://open.spotify.com/album/0roScFcpdRcdOsqOWfGV8r) | 3:08 |
 | 18 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 |
 | 19 | [Wrong Direction](https://open.spotify.com/track/2j0xyMTbwQHRZAL8IGL6JK) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Changes](https://open.spotify.com/album/6nqE3TBxP0i7BV7y5lfvpk) | 3:28 |
 | 20 | [Lover](https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [Lover](https://open.spotify.com/album/5IFOgVSkDJ1Umd6Fej7Ab1) | 3:41 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 91 | [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 |
 | 92 | [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 |
 | 93 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 |
-| 94 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
-| 95 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
+| 94 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
+| 95 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
 | 96 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
 | 97 | [Under Pressure](https://open.spotify.com/track/0DoYf6Azd416hdC4RJiExF) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Under Pressure](https://open.spotify.com/album/4s0vlvFbClAyq32ZhA6c5d) | 2:34 |
 | 98 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
@@ -125,9 +125,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 115 | [Wasteland](https://open.spotify.com/track/4SqEUovs3DtWvOBdvkPudU) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 2:53 |
 | 116 | [Rose Tinted Glass](https://open.spotify.com/track/0ZFyR9BTGHh3UwEshTCTJ2) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Rose Tinted Glass](https://open.spotify.com/album/4BAOiUD1gpDwGn3X0ehWe2) | 2:19 |
 | 117 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 |
-| 118 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
-| 119 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
-| 120 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
-| 121 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
+| 118 | [All Of The Lights](https://open.spotify.com/track/3jUNIhpyHyGWvlhWU6g9ob) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Joyse](https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X) | [All Of The Lights](https://open.spotify.com/album/1b5NbbarHpHXKRVSoT0jSE) | 3:30 |
+| 119 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
+| 120 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
+| 121 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
+| 122 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbehyAAAAAA/6xiK/DEdvTc0yfog5vVm`
+Snapshot ID: `AbenaAAAAAAmBjmmsbN/nDH4OJ6qxrbs`

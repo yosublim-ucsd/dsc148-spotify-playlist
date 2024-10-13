@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAKgdRcks9H1uDvnpsswkvSMWp1IEP",
+  "snapshot_id": "AAAALPiMRA+au+VALo6MfJVaRH+AEgEU",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -607,6 +607,46 @@
       "duration_ms": 233773,
       "name": "My Axe",
       "url": "https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE"
+    },
+    {
+      "added_at": "2024-10-11 23:19:13",
+      "album": {
+        "name": "One by One",
+        "url": "https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "duration_ms": 172731,
+      "name": "One by One",
+      "url": "https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB"
+    },
+    {
+      "added_at": "2024-10-11 23:22:27",
+      "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7"
+      },
+      "artists": [
+        {
+          "name": "The Blake Robinson Synthetic Orchestra",
+          "url": "https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy"
+        },
+        {
+          "name": "Gloom Darkheart",
+          "url": "https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd"
     }
   ],
   "unique_name": "From the Mouth of Evil",

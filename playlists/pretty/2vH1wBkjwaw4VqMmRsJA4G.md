@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 
 > Explicitly gay
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 27 min 48 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 10 songs - 31 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,6 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 | 7 | [Guitar Woman](https://open.spotify.com/track/7AQQUEP5pVQXgJDyhL269X) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Honey Moonshine](https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR) | 3:57 |
 | 8 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 |
 | 9 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
+| 10 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 |
 
-Snapshot ID: `AAAADieF8OTWJErG5K8aXHHu1tqVqyF8`
+Snapshot ID: `AAAAD4dh57GnA3RE7r4XBspy836PROJF`

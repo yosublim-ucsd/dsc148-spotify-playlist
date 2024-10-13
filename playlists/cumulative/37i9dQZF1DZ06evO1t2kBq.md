@@ -2,7 +2,7 @@
 
 ### [This Is Bad Religion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t2kBq)
 
-> This Is Bad Religion\. Los temas esenciales, todos en una lista.
+> This is Bad Religion\. Todos os maiores hits em uma só playlist.
 
 66 songs - 2 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,132 likes - 94 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,136 likes - 94 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 68 | [Shampoo](https://open.spotify.com/track/0wQNgVsMZvtWrcFovZSCvI) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Free Love](https://open.spotify.com/album/31jMpL1axpfRsRpprYbJI5) | 3:58 |
 | 69 | [雪櫃 \(Feat.黃又南\)](https://open.spotify.com/track/53BAk0hBoWTlsfbLe2GjD5) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt), [Huang You Nan](https://open.spotify.com/artist/64amLofwuftrbd1tPijvBP) | [半熟男孩](https://open.spotify.com/album/0ucTkWNWsGlkF8Md5CPfSf) | 2:21 |
 | 70 | [巴士光年](https://open.spotify.com/track/0ub1bABgM7pZkqermYUrNp) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [巴士光年](https://open.spotify.com/album/0oX8oESb390yb5b7vKvTUK) | 3:50 |
-| 71 | [邊一個發明了返工](https://open.spotify.com/track/2QlHbeBKT1CvNc6WH89f8N) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [介乎法國與旺角的詩意](https://open.spotify.com/album/60xo1x3awwTPu5JLu458oN) | 2:58 |
+| 71 | [邊一個發明了返工](https://open.spotify.com/track/2QlHbeBKT1CvNc6WH89f8N) | [my little airport](https://open.spotify.com/artist/6aYPLLRYtjLm95vJWNVUr9) | [介乎法國與旺角的詩意](https://open.spotify.com/album/60xo1x3awwTPu5JLu458oN) | 2:58 |
 | 72 | [我的日記](https://open.spotify.com/track/2h16JePtYmFmTFHpecFS7F) | [野仔](https://open.spotify.com/artist/6Nt2UPCCDXsFlY3lEZ3zpx) | [Rock 'n' Wild Never Die](https://open.spotify.com/album/6XGM6IxoqeErG8w0rUH69V) | 4:30 |
 | 73 | [最難唱的情歌](https://open.spotify.com/track/6LMRfMFk97tM79lWJYTdAW) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:24 |
 | 74 | [最佳位置](https://open.spotify.com/track/6nyZs944tlz4TtYeJ2OEMr) | [Bondy Chiu](https://open.spotify.com/artist/0JI4jLIt8LAfUID400KRl7) | [鑑聽天碟](https://open.spotify.com/album/6RjVCJ4qHoeeIj8I94HEDY) | 3:52 |

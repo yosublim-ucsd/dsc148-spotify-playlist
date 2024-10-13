@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 230636,
+  "num_followers": 230730,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -231,7 +231,7 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
-        "name": "Great Doubt (EDITS)",
+        "name": "Great Doubt EDITS",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
       "artists": [
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+    },
+    {
+      "added_at": "2024-10-09 22:01:00",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 221379,
       "name": "Loba",
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
-    },
-    {
-      "added_at": "2024-10-09 22:01:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 308186,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
     },
     {
       "added_at": "2024-10-09 22:01:00",
@@ -763,26 +763,18 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
-        "name": "Shade Under Your Hands",
-        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+        "name": "Hrudja",
+        "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
       },
       "artists": [
         {
-          "name": "OSOO",
-          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
         }
       ],
-      "duration_ms": 60000,
-      "name": "21 Reasons",
-      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+      "duration_ms": 237666,
+      "name": "\u0160cune",
+      "url": "https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM"
     },
     {
       "added_at": "2024-10-09 22:01:00",
@@ -819,18 +811,26 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
-        "name": "Hrudja",
-        "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
+        "name": "Shade Under Your Hands",
+        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
       },
       "artists": [
         {
-          "name": "Massimo Silverio",
-          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+          "name": "OSOO",
+          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
         }
       ],
-      "duration_ms": 237666,
-      "name": "\u0160cune",
-      "url": "https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM"
+      "duration_ms": 60000,
+      "name": "21 Reasons",
+      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
     },
     {
       "added_at": "2024-10-09 22:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
-    },
-    {
-      "added_at": "2024-10-09 22:01:00",
-      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 188250,
       "name": "Of Air",
       "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+    },
+    {
+      "added_at": "2024-10-09 22:01:00",
+      "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
     },
     {
       "added_at": "2024-10-09 22:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
-        "name": "Lucha Libre",
-        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
-      },
-      "artists": [
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Drum Jump",
-      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
-    },
-    {
-      "added_at": "2024-10-09 22:01:00",
-      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 55860,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2024-10-09 22:01:00",
+      "album": {
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Drum Jump",
+      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
     },
     {
       "added_at": "2024-10-09 22:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-10-09 22:01:00",
       "album": {
+        "name": "Iddu - Sicilian Letters (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f"
+      },
+      "artists": [
+        {
+          "name": "Colapesce",
+          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+        }
+      ],
+      "duration_ms": 430325,
+      "name": "Omini e armali - Ouverture",
+      "url": "https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF"
+    },
+    {
+      "added_at": "2024-10-09 22:01:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
       },
@@ -1259,26 +1275,6 @@
       "duration_ms": 238095,
       "name": "I AM",
       "url": "https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu"
-    },
-    {
-      "added_at": "2024-10-09 22:01:00",
-      "album": {
-        "name": "Jinxed by Being",
-        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
-      },
-      "artists": [
-        {
-          "name": "Shackleton",
-          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
-        },
-        {
-          "name": "Six Organs Of Admittance",
-          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
-        }
-      ],
-      "duration_ms": 553600,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
     }
   ],
   "unique_name": "Terra Incognita",

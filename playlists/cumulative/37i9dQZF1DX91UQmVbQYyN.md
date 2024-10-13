@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-522 songs - 1 day 7 hr 43 min
+523 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [cat scratch](https://open.spotify.com/track/4quTh7pgKCPOqvEcI04WAb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [ROSETTA](https://open.spotify.com/album/5IGHyiUiCvhZvPl1Vd1JCQ) | 1:59 | 2021-09-03 | 2022-03-07 |
 | [Caterpillar](https://open.spotify.com/track/6AQMfRp7glH5yr1AtAX7bp) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Wasteland](https://open.spotify.com/album/2x49NY0AvP52MFZadW7Ytv) | 2:46 | 2022-03-08 | 2022-04-21 |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2021-09-03 |  |
-| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-13 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-13 | 2024-10-13 |
 | [Chasing Shadows](https://open.spotify.com/track/1vr8QWVT3ibyaFdqQxiMwI) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Chasing Shadows](https://open.spotify.com/album/7y6iOcabqDVuQF148KPrg0) | 3:15 | 2022-03-08 | 2022-04-21 |
 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-24 |  |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2021-09-03 | 2022-07-20 |
@@ -369,6 +369,7 @@
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-09-03 | 2022-07-29 |
 | [Quake](https://open.spotify.com/track/7osHG7ptHSaprButptKH3d) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Quake](https://open.spotify.com/album/2RWTHhaUxmEq3dnGptu7xV) | 3:27 | 2021-09-03 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/2tZcHwdct0J7hYyEzgc38y) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Radio](https://open.spotify.com/album/4EMzmSm5XEVycocU1cLmis) | 3:32 | 2022-03-08 | 2022-04-21 |
+| [Ragdoll](https://open.spotify.com/track/6yLWx6fuaJHRrhaXwscWZy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:03 | 2024-09-30 |  |
 | [Real Face](https://open.spotify.com/track/6IJN8BLOfmUMRMe3n7C67e) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Real Face](https://open.spotify.com/album/3nfx7yfW2MCsnslBZR3XUD) | 2:51 | 2022-03-08 | 2022-04-17 |
 | [REALiTi \(Demo\)](https://open.spotify.com/track/1Haq3FvPaTsR07ti9hmmd6) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [REALiTi \(Demo\)](https://open.spotify.com/album/3paoaYGth9o39VgYg974GI) | 4:27 | 2022-03-08 | 2022-07-06 |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2021-09-03 | 2022-07-29 |

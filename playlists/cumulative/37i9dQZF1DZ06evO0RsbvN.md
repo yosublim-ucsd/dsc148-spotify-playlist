@@ -2,7 +2,7 @@
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. The essential tracks, all in one playlist.
+> This Is Ma Rainey\. Todas as faixas essenciais numa única playlist.
 
 208 songs - 10 hr 28 min
 
@@ -79,7 +79,7 @@
 | [Four Day Honorary Scat: 2](https://open.spotify.com/track/7GPJS2ML5iURFTlNElxyhd) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD B](https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz) | 2:54 | 2022-12-27 |  |
 | [Four Day Honory Scat](https://open.spotify.com/track/2lfPkKxbmRLg8PXtouzQRI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:22 | 2023-08-22 | 2024-06-12 |
 | [Four Day Honory Scat](https://open.spotify.com/track/5WJ5G7h2urFvhF1apHxY9C) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:22 | 2022-12-28 | 2023-02-03 |
-| [Four Day Honory Scat \(Take 1\)](https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:22 | 2022-10-13 | 2024-05-25 |
+| [Four Day Honory Scat \(Take 1\)](https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:22 | 2022-10-13 |  |
 | [Georgia Cake Walk](https://open.spotify.com/track/21KNYnyvwRPR9olc34a1vp) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:02 | 2022-08-05 |  |
 | [Gone Daddy Blues](https://open.spotify.com/track/1A6ZrQTuzaoIO5qedWY9pF) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 2:32 | 2022-08-07 | 2022-08-09 |
 | [Gone Daddy Blues](https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:35 | 2022-09-14 | 2024-09-20 |
@@ -146,7 +146,7 @@
 | [Night Time Blues \(Take 1\)](https://open.spotify.com/track/4o2wm23vcuV5LE2FKGzKCZ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:02 | 2022-10-10 | 2022-10-25 |
 | [Night Time Blues \(Take 2\)](https://open.spotify.com/track/58mA1Tupock4gQYUaJZfLk) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:58 | 2022-11-29 | 2023-08-19 |
 | [No Easy Rider Blues](https://open.spotify.com/track/33w1gr4HowmbA1rW3xQWcx) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Very Best Of](https://open.spotify.com/album/09gEpsSM9eagNKiTzkoXJq) | 3:18 | 2022-12-27 | 2022-12-29 |
-| [No Easy Rider Blues](https://open.spotify.com/track/6KWm6sGq9Fn8e4RyW9s8Hg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Classic Years, Vol\. 2](https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf) | 3:20 | 2023-08-11 |  |
+| [No Easy Rider Blues](https://open.spotify.com/track/6KWm6sGq9Fn8e4RyW9s8Hg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Classic Years, Vol\. 2](https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf) | 3:20 | 2023-08-11 | 2024-10-13 |
 | [Nobody Rocks Me Like My Baby Do](https://open.spotify.com/track/7CyuarMr3RL8IxOWuoUaxo) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Nobody Rocks Me Like My Baby Do](https://open.spotify.com/album/4cAT20KVfZPLR4UTBPWeX5) | 3:12 | 2023-10-04 | 2023-12-14 |
 | [Oh My Babe Blues](https://open.spotify.com/track/4v2nlY3F4XzBcz3bMg7ZvG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:18 | 2023-01-01 | 2023-08-02 |
 | [Oh Papa Blues](https://open.spotify.com/track/3BniBNNfETcFIBLP9G2uOu) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 2:52 | 2022-08-05 |  |

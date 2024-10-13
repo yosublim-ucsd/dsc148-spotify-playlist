@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Kane Brown, Jelly Roll, Cody Johnson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,592 likes - 72 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,847 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 38 | [Mama Drove a Mustang](https://open.spotify.com/track/0tq8jgPARD3unsIZBTFWLE) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Mama Drove a Mustang](https://open.spotify.com/album/2ntxhGPTpK7PbU9eLrwEEW) | 3:57 |
 | 39 | [My Sister](https://open.spotify.com/track/3IcSZfEAq52qgbZbcMheE2) | [Thomas Mac](https://open.spotify.com/artist/4cpxRQtv9dBgqAqLKDTiHf) | [My Sister](https://open.spotify.com/album/78if910AdWkY2o2ndWOF1E) | 3:18 |
 | 40 | [Bull Rider](https://open.spotify.com/track/2gdjdd9VdRRKvHKMQf690H) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Hollywood Cowboy](https://open.spotify.com/album/6XXSNVdwK9FeswCQouhxWg) | 3:25 |
-| 41 | [M.O.](https://open.spotify.com/track/2Bc6hwaYeN9lqJe9X4xxs9) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Move On](https://open.spotify.com/album/0HlLTTMvM2xksL8uVXAC39) | 3:41 |
+| 41 | [M.O.](https://open.spotify.com/track/2Bc6hwaYeN9lqJe9X4xxs9) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [M.O.](https://open.spotify.com/album/0HlLTTMvM2xksL8uVXAC39) | 3:41 |
 | 42 | [All That's Left of Me](https://open.spotify.com/track/7kL7BTLyxgG98gvvTU5zbv) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [All That's Left of Me](https://open.spotify.com/album/52DNgozSj0eInDhSNAAEkw) | 3:10 |
 | 43 | [Parts Of Me](https://open.spotify.com/track/0ZM7DEHzX6nBOrHKTeKyS8) | [James Tucker](https://open.spotify.com/artist/5BxhrOGx4mGsMPi9PphUXG) | [Parts Of Me](https://open.spotify.com/album/79ShqIkW2XBb32j7kOSmzy) | 3:32 |
 | 44 | [Love You Like You’re Gone](https://open.spotify.com/track/5Lb5tCFKkzwsCXXjb1neLr) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Love You Like You’re Gone](https://open.spotify.com/album/4yd8aAy7vII27bMFckEQzr) | 3:21 |

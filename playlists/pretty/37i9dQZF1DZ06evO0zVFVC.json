@@ -1,12 +1,12 @@
 {
-  "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 99825,
+  "description": "This Is Parkway Drive. Los temas esenciales, todos en una lista.",
+  "num_followers": 99842,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAB6DfPuvwOdi7WjUasRDBlQ",
+  "snapshot_id": "ZwhqgAAAAABayxCYn7IE+c3aoB8JD7Q1",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing with a Smile",
-        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Smoke 'Em If Ya Got 'Em",
-      "url": "https://open.spotify.com/track/69mp5i3EfCig9jM7wFPosr"
+      "duration_ms": 317907,
+      "name": "Romance Is Dead",
+      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 317907,
-      "name": "Romance Is Dead",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
+      "duration_ms": 220133,
+      "name": "Smoke 'Em If Ya Got 'Em",
+      "url": "https://open.spotify.com/track/69mp5i3EfCig9jM7wFPosr"
     },
     {
       "added_at": null,

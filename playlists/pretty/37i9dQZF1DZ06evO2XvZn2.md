@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This is Evaluna Montaner\. The essential tracks, all in one playlist.
+> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,156 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,158 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 20 | [Interludio: La Gloria de Dios](https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:26 |
 | 21 | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Podemos Ser Amigos \(feat\. Santiago Achaga\)](https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4) | 2:30 |
 | 22 | [Me Va a Extrañar](https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 4:28 |
-| 23 | [Beauty Of Grace \- Acoustic Version](https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 |
-| 24 | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu), [Angela Rincón](https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD) | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY) | 2:46 |
+| 23 | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu), [Angela Rincón](https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD) | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY) | 2:46 |
+| 24 | [Beauty Of Grace \- Acoustic Version](https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 |
 | 25 | [Mejor Perderte Que Encontrarte \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Mejor Perderte Que Encontrarte \(feat\. Carolina Mestrovic\)](https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi) | 2:13 |
 | 26 | [Bailando en la Lluvia \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:58 |
 | 27 | [Quiero A Cristo](https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Avivamiento](https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM) | 5:59 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 40 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 41 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 |
 
-Snapshot ID: `ZwcZAAAAAABZe+3BSoqN4ZejZ0S/sKh8`
+Snapshot ID: `ZwhqgAAAAABm/HJQOLtDWIJFIz8/26jc`

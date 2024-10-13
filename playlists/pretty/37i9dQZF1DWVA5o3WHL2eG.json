@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 34952,
+  "num_followers": 34949,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "It Happens Either Way",
+        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 212522,
+      "name": "It Happens Either Way",
+      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Der Moment archiviert",
         "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
       },
@@ -479,42 +495,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "It Happens Either Way",
-        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 212522,
-      "name": "It Happens Either Way",
-      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Was hab ich nur getan?",
-        "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
-      },
-      "artists": [
-        {
-          "name": "Mine",
-          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
-        },
-        {
-          "name": "Nicola Rost",
-          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Was hab ich nur getan?",
-      "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "zu nice",
         "url": "https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 187169,
       "name": "Feel zu sp\u00e4t",
       "url": "https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Was hab ich nur getan?",
+        "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
+      },
+      "artists": [
+        {
+          "name": "Mine",
+          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
+        },
+        {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Was hab ich nur getan?",
+      "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
     },
     {
       "added_at": "2024-10-01 22:00:00",

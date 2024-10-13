@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2033524,
+  "num_followers": 2033602,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAACYjpRaaVVXTiJrvJtL2lD/",
+  "snapshot_id": "ZwhqgAAAAADSrVUM7QketT/Ku1RinDNP",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Stir It Up - Jamaican Version",
-      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 218400,
       "name": "Roots, Rock, Reggae",
       "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: The Final Chapter",
-        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Hold Ya Head (feat. Bob Marley)",
-      "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -675,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duets: The Final Chapter",
+        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Hold Ya Head (feat. Bob Marley)",
+      "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natty Dread",
         "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 412026,
-      "name": "Punky Reggae Party - 12\" Version",
-      "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 327133,
       "name": "Rastaman Live Up",
       "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 412026,
+      "name": "Punky Reggae Party - 12\" Version",
+      "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
     },
     {
       "added_at": null,

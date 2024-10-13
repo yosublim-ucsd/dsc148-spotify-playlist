@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,008 songs - 11 day 1 hr 40 min
+7,009 songs - 11 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,7 @@
 | [Blue Oceans](https://open.spotify.com/track/4FpQ21uYnLxIIOkalwjA76) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Blue Oceans](https://open.spotify.com/album/6bG1J0xfnwhntPq1aMulDe) | 2:06 | 2022-06-03 | 2022-10-21 |
 | [Blue Sky](https://open.spotify.com/track/49QPo2OqREqtCM0bmKmihS) | [Frans Manen](https://open.spotify.com/artist/2XQbhPtT3unr4yHTq3ii1P) | [Blue Sky](https://open.spotify.com/album/1Vd6vbAKyNF85ARf4pleZB) | 2:22 | 2022-10-07 | 2024-02-23 |
 | [Blue Sky](https://open.spotify.com/track/0iFP2XOudAZd3Zjns28ncm) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Selected Instrumental Works 2020\-2024](https://open.spotify.com/album/52Epput1IvCtPQ02gIfSFZ) | 1:57 | 2024-04-26 | 2024-06-30 |
-| [Blue Stones](https://open.spotify.com/track/493J58M1agrTnXVMn5jCDI) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Blue Stones](https://open.spotify.com/album/0Ask5t2pqLVAWoOrQe41sn) | 2:33 | 2023-12-01 | 2024-10-03 |
+| [Blue Stones](https://open.spotify.com/track/493J58M1agrTnXVMn5jCDI) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Blue Stones](https://open.spotify.com/album/0Ask5t2pqLVAWoOrQe41sn) | 2:33 | 2023-12-01 |  |
 | [Blue Sunset](https://open.spotify.com/track/1RNvIrwGqibZOadgBN0Jc8) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Blue Sunset](https://open.spotify.com/album/08onzEMnLRS818G4JGpS1b) | 2:12 | 2021-10-20 | 2022-04-24 |
 | [Blue Swirls](https://open.spotify.com/track/187h5ytcA57eSajyqw7GGu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [Blue Swirls](https://open.spotify.com/album/1p8uyJh7phGMeXLWZiu9Xp) | 2:28 | 2022-10-14 | 2023-01-20 |
 | [Blue Waves](https://open.spotify.com/track/60i1aZGoimBX44BOxCZJ6f) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Blue Waves](https://open.spotify.com/album/4BuOlhI9oqUnadhipSx1jT) | 1:31 | 2022-09-02 | 2022-12-09 |
@@ -5502,6 +5502,7 @@
 | [So Soon](https://open.spotify.com/track/37GTpsdWVvrTmN3KIk1BdS) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [So Soon](https://open.spotify.com/album/2wgwi57vUbHWyhxfD3CPCJ) | 1:47 | 2022-07-01 | 2022-10-14 |
 | [So Tall](https://open.spotify.com/track/3wVQBrPPZe1kSdswpcdZef) | [Melt On](https://open.spotify.com/artist/5j5qAA1DTYRbbk8g72F6dT) | [So Tall](https://open.spotify.com/album/6TxPLap8FaPh2t8OaKz0mE) | 2:03 | 2022-12-23 | 2023-11-11 |
 | [So Too](https://open.spotify.com/track/6bwSDvu5okIMvESH2A3iEi) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [So Too](https://open.spotify.com/album/7s4jhWI0A5wr3tjDRcWefh) | 2:14 | 2023-10-13 | 2024-09-14 |
+| [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 | 2024-10-11 |  |
 | [so what so long](https://open.spotify.com/track/6jMlaEJKGdEn6bfeNmPkWL) | [beatsailor](https://open.spotify.com/artist/4oRX63TIKfzCAnGP6bKqzy) | [ahoy aloha](https://open.spotify.com/album/70Xn5qkJDRbtxkK1pVHrVb) | 1:28 | 2021-03-06 | 2022-02-15 |
 | [So What's Next](https://open.spotify.com/track/2K7WZXs3r1xkhTuopHTBkf) | [zan.](https://open.spotify.com/artist/4DAttJWki3DZFdi35o1hqy) | [So What's Next](https://open.spotify.com/album/4dQT8Y9jwZbVwtCvSg5MV7) | 1:48 | 2021-03-07 | 2022-01-14 |
 | [Soaring Anticipation](https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Soaring Anticipation](https://open.spotify.com/album/0RKoDZUssXKqMYSVmumcNj) | 3:26 | 2023-04-12 | 2023-04-21 |
@@ -5736,7 +5737,7 @@
 | [Storm](https://open.spotify.com/track/6a8tAxw8pTk20gWO0PL5y1) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Storm](https://open.spotify.com/album/3qTP5wWIkyY0stdr0FnSqt) | 2:36 | 2022-11-25 | 2023-04-21 |
 | [Str8 4ward](https://open.spotify.com/track/6DkSN9tl3znXW3NY1JDHh9) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [Str8 4ward](https://open.spotify.com/album/3fNXMBqulASfwzvNYbOd7r) | 1:59 | 2019-10-23 | 2019-11-29 |
 | [Strange Effect](https://open.spotify.com/track/3lKq4yMNV2eZXTb5AgQFY3) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs) | [Strange Effect](https://open.spotify.com/album/0Fm4c03BJDddDMoXWS6oxo) | 2:23 | 2022-12-16 | 2024-01-12 |
-| [Strange Things](https://open.spotify.com/track/5WjfS3W042xnw8GRFx4rt7) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Strange Things](https://open.spotify.com/album/728NvFo3AY4TooVXNGRq03) | 2:19 | 2024-02-02 |  |
+| [Strange Things](https://open.spotify.com/track/5WjfS3W042xnw8GRFx4rt7) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Strange Things](https://open.spotify.com/album/728NvFo3AY4TooVXNGRq03) | 2:19 | 2024-02-02 | 2024-10-13 |
 | [Stranger Thing](https://open.spotify.com/track/373SKKpg5dL84hqHU3sVUG) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Stranger Thing](https://open.spotify.com/album/7s09uEIBkAZaIa725uRpvm) | 2:39 | 2021-04-10 | 2022-01-14 |
 | [Stranger Winds](https://open.spotify.com/track/59xCqn3z8zfoNmm8JFdoL9) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Drive True](https://open.spotify.com/album/1HnaC1jS7QIFYj31dBagZg) | 1:52 | 2022-10-07 | 2023-11-24 |
 | [Strat Mode 5](https://open.spotify.com/track/4XrZjM1DPZryBRSAMlBHvI) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Strat Mode 5](https://open.spotify.com/album/59GnZTLTRuvBjQ64wqLyPS) | 1:57 | 2022-06-03 | 2022-10-21 |
@@ -6269,7 +6270,7 @@
 | [Tobari](https://open.spotify.com/track/26TtYAJOsNblgUe5auw9xU) | [Su\-Zuum](https://open.spotify.com/artist/1jgIcbT7B7K8JJIXtrpzLb) | [Tobari](https://open.spotify.com/album/5C8IwaqBdwM9EHZl7DNGFp) | 2:33 | 2023-09-15 |  |
 | [Today Is a Gift](https://open.spotify.com/track/0sMImBteCIVUKNhcyx3Cyx) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [Today Is a Gift](https://open.spotify.com/album/7y6bgIinMh4JhhSMEPgNvj) | 2:34 | 2019-05-26\* | 2020-01-31 |
 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 | 2023-01-13 | 2023-12-15 |
-| [Together](https://open.spotify.com/track/4s7pz4pBdOHCNGUXikgcpc) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Together](https://open.spotify.com/album/79MnEQIWgtLSnrTc0TwVhu) | 1:30 | 2024-05-24 |  |
+| [Together](https://open.spotify.com/track/4s7pz4pBdOHCNGUXikgcpc) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Together](https://open.spotify.com/album/79MnEQIWgtLSnrTc0TwVhu) | 1:30 | 2024-05-24 | 2024-10-13 |
 | [Together](https://open.spotify.com/track/553aIceOihS2BuPTSGpdQ7) | [Gaya Police](https://open.spotify.com/artist/3rWsJ32qEIEONVLc6nimRY), [ommood](https://open.spotify.com/artist/7mNKnRt1aoVswbRjEUP1WZ) | [Together](https://open.spotify.com/album/2vNc334FebmbhE6pCVMW9P) | 2:16 | 2023-02-07 | 2023-09-30 |
 | [Together Again](https://open.spotify.com/track/4iipDDatlvHBCneL6VFg3W) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Together Again](https://open.spotify.com/album/2y6Wgz62TVKgwNqUZYdFDx) | 2:28 | 2024-04-26 |  |
 | [Together Alone](https://open.spotify.com/track/1oqcDgKs6iuuj2KX05gt6w) | [Radiocosmo](https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf) | [Together Alone](https://open.spotify.com/album/5JJusV5nEN4sGCDKAuaSd7) | 1:54 | 2021-11-20 | 2022-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 40538,
+  "num_followers": 40656,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAAAEXV0/5428XsqV1SSEL+uO",
+  "snapshot_id": "ZwhqgAAAAABoLOrsM0kAMj0dv/U+sOTP",
   "tracks": [
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Los Pasajes Del Sera",
-      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+      "duration_ms": 142133,
+      "name": "Mcklein (Comanches)",
+      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Mcklein (Comanches)",
-      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
+      "duration_ms": 163040,
+      "name": "Los Pasajes Del Sera",
+      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Bien Firme el Sombrero",
+        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
       },
       "artists": [
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 191973,
-      "name": "El Nieto Del Mayo",
-      "url": "https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk"
+      "duration_ms": 140341,
+      "name": "Bien Firme el Sombrero",
+      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Firme el Sombrero",
-        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 140341,
-      "name": "Bien Firme el Sombrero",
-      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+      "duration_ms": 191973,
+      "name": "El Nieto Del Mayo",
+      "url": "https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk"
     },
     {
       "added_at": null,

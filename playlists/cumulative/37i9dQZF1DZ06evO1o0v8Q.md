@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1o0v8Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1o0v8Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1o0v8Q)
 
-### [This is Turnstile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o0v8Q)
+### [This Is Turnstile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o0v8Q)
 
-> This is Turnstile\. De essentiële nummers, allemaal in één playlist.
+> This is Turnstile\. The essential tracks, all in one playlist.
 
 42 songs - 1 hr 42 min
 

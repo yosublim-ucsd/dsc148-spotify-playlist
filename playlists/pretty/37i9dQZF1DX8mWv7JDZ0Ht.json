@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem",
-  "num_followers": 435430,
+  "num_followers": 435428,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "TUDO VAI SER COMO DEVE SER",
         "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 190026,
       "name": "Ficar de Leve",
       "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Noites De Monza",
+        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 171311,
+      "name": "Noites De Monza",
+      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "CARAMELO E FLOR DE SAL",
         "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
       },
@@ -667,22 +687,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Noites De Monza",
-        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 171311,
-      "name": "Noites De Monza",
-      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -707,26 +727,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Pq Vc Me Odeia Assim?",
         "url": "https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 177077,
       "name": "Pq Vc Me Odeia Assim?",
       "url": "https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "eu n\u00e3o queria mais nada",
         "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -883,34 +867,38 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
         }
       ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+        "name": "Coisa de Cinema",
+        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
       },
       "artists": [
         {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+      "duration_ms": 175653,
+      "name": "Coisa de Cinema",
+      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -935,6 +923,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -951,22 +955,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Coisa de Cinema",
-        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
       "artists": [
         {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
         }
       ],
-      "duration_ms": 175653,
-      "name": "Coisa de Cinema",
-      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "nada do que voc\u00ea falou",
-        "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "nada do que voc\u00ea falou",
-      "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Eu Gosto Assim",
         "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "nada do que voc\u00ea falou",
+        "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        }
+      ],
+      "duration_ms": 153875,
+      "name": "nada do que voc\u00ea falou",
+      "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Tanto Tanto",
         "url": "https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 152027,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1271,6 +1287,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Veraneio, Ep. 1",
+        "url": "https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4"
+      },
+      "artists": [
+        {
+          "name": "VERANEIO",
+          "url": "https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH"
+        }
+      ],
+      "duration_ms": 208958,
+      "name": "Deixo Voc\u00ea Ir",
+      "url": "https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Sonora Sessions: Gabriel Nandes",
         "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
       },
@@ -1291,18 +1323,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Veraneio, Ep. 1",
-        "url": "https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4"
+        "name": "ME AMAR",
+        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
       },
       "artists": [
         {
-          "name": "VERANEIO",
-          "url": "https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH"
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
         }
       ],
-      "duration_ms": 208958,
-      "name": "Deixo Voc\u00ea Ir",
-      "url": "https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe"
+      "duration_ms": 169814,
+      "name": "ME AMAR",
+      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1323,18 +1355,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "ME AMAR",
-        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
+        "name": "Fita do Bonfim",
+        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 169814,
-      "name": "ME AMAR",
-      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
+      "duration_ms": 205961,
+      "name": "Fita do Bonfim",
+      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1355,18 +1387,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Fita do Bonfim",
-        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
+        "name": "do c\u00e9u ao inferno",
+        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
       },
       "artists": [
         {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
         }
       ],
-      "duration_ms": 205961,
-      "name": "Fita do Bonfim",
-      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
+      "duration_ms": 198409,
+      "name": "do c\u00e9u ao inferno",
+      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1387,38 +1419,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "EXCE\u00c7\u00c3O!",
-        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "EXCE\u00c7\u00c3O!",
-      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "A Gente Se Acostuma",
         "url": "https://open.spotify.com/album/2XN3XQ0iGeurRIJBdDG6rM"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "do c\u00e9u ao inferno",
-        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+        "name": "EXCE\u00c7\u00c3O!",
+        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
       },
       "artists": [
         {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
         }
       ],
-      "duration_ms": 198409,
-      "name": "do c\u00e9u ao inferno",
-      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
+      "duration_ms": 178816,
+      "name": "EXCE\u00c7\u00c3O!",
+      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
     }
   ],
   "unique_name": "Pop Leve",

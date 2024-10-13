@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 135000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2"
@@ -2780,6 +2780,24 @@
       "duration_ms": 135000,
       "name": "Live a Lie",
       "url": "https://open.spotify.com/track/2pnune4Q29q6bapTi4fqbi"
+    },
+    {
+      "album": {
+        "name": "Looking For the Answer",
+        "url": "https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302939,
+      "name": "Looking For the Answer",
+      "url": "https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32"
     },
     {
       "album": {

@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "Kapsuleo",
+        "url": "https://open.spotify.com/album/2cfK4T96MqJAKh0TcHpsKV"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "One Way",
+          "url": "https://open.spotify.com/artist/0NLhqBBYcKFsmNxf9bOMRb"
+        },
+        {
+          "name": "Fosse En El Track",
+          "url": "https://open.spotify.com/artist/3CHPxzL15iYJbsTR9r1j08"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "+ DE ESO",
+      "url": "https://open.spotify.com/track/5uAdM9Ry2aL3SIdTLtDgw2"
+    },
+    {
+      "album": {
         "name": "Antes de Ameri",
         "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
       },
@@ -214,7 +240,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -440,7 +466,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -17574,7 +17600,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 122500,
       "name": "Una Foto",
       "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"

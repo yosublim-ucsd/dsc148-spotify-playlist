@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,771 likes - 84 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,770 likes - 84 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15032,
+  "num_followers": 15035,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Mi Psique",
-        "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        },
-        {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        },
-        {
-          "name": "AleexBeat",
-          "url": "https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY"
-        }
-      ],
-      "duration_ms": 197761,
-      "name": "Mi Psique",
-      "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Mi Psique",
+        "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "AleexBeat",
+          "url": "https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY"
+        }
+      ],
+      "duration_ms": 197761,
+      "name": "Mi Psique",
+      "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Voy tranquilo",
-        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 142921,
-      "name": "Voy tranquilo",
-      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "No Era para M\u00ed",
         "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 117418,
       "name": "No Era para M\u00ed",
       "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "N.D. State Of Mind",
-        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "N.D. State Of Mind",
-      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "3 RAP",
         "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 255339,
       "name": "3 RAP",
       "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "N.D. State Of Mind",
+        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "N.D. State Of Mind",
+      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Constante",
         "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
       },
@@ -899,26 +879,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "No Pidas Tanto",
-        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
       },
       "artists": [
         {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
         },
         {
-          "name": "Pedro Navajas",
-          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
-        },
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         }
       ],
-      "duration_ms": 152441,
-      "name": "No Pidas Tanto",
-      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
+      "duration_ms": 182500,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -947,18 +923,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Micelio",
-        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+        "name": "No Pidas Tanto",
+        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
       "artists": [
         {
-          "name": "Frank Takuma",
-          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Pedro Navajas",
+          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
         }
       ],
-      "duration_ms": 169756,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+      "duration_ms": 152441,
+      "name": "No Pidas Tanto",
+      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 154285,
       "name": "Cypher MND #18 v.1: Neo Pistea, Obie Wanshot & CNO",
       "url": "https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1031,22 +1031,6 @@
       "duration_ms": 222053,
       "name": "Disparo",
       "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
-      },
-      "artists": [
-        {
-          "name": "Valeria Canavati",
-          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
-        }
-      ],
-      "duration_ms": 157037,
-      "name": "V",
-      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 232320,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+        }
+      ],
+      "duration_ms": 157037,
+      "name": "V",
+      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 230000,
       "name": "UFC",
       "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
-      },
-      "artists": [
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "CASI",
-        "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
-      },
-      "artists": [
-        {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "RK wavy",
-          "url": "https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "CASI",
-      "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "NOS CRUZAS EN EL POGO",
         "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 160000,
       "name": "MI PROP\u00d3SITO",
       "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "CASI",
+        "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
+      },
+      "artists": [
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "RK wavy",
+          "url": "https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "CASI",
+      "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Niko RST",
-          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "SORRY (REMIX)",
+        "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
+      },
+      "artists": [
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        },
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "SORRY (REMIX)",
+      "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "El Juanito Y El Mu\u00f1equia",
         "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
       },
@@ -1683,30 +1707,6 @@
       "duration_ms": 209490,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "SORRY (REMIX)",
-        "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
-      },
-      "artists": [
-        {
-          "name": "Lizz",
-          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
-        },
-        {
-          "name": "KUINA",
-          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "SORRY (REMIX)",
-      "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Con la Frente en Alto",
-        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Con la Frente en Alto",
-      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "ANOMAL\u00cdA",
         "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 210833,
       "name": "LOOP \u221e",
       "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1999,22 +1999,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Droga",
-        "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
+        "name": "EL FOCO",
+        "url": "https://open.spotify.com/album/6SjPxBrujYIrRwoXUhxBre"
       },
       "artists": [
         {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        },
-        {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+          "name": "GIIANPA NK",
+          "url": "https://open.spotify.com/artist/1iK0f5NQeoyMew8mHVKEBb"
         }
       ],
-      "duration_ms": 147594,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
+      "duration_ms": 169500,
+      "name": "EL FOCO",
+      "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
     }
   ],
   "unique_name": "Rimas Frescas ",

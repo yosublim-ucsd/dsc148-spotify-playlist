@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 16 songs - 1 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 17 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,5 +24,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 14 | [Spooky, Scary Skeletons \- Undead Tombstone Remix Extended](https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 3:49 |
 | 15 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 |
 | 16 | [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 |
+| 17 | [Creepin' Candy](https://open.spotify.com/track/2kHK7MGeTNj0QlE14tuGWs) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Creepin' Candy](https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs) | 2:53 |
 
-Snapshot ID: `AAAAE5067ENpCsPlywSnjCogLc+8L4BO`
+Snapshot ID: `AAAAFDhF3nKnKucYEL6wfsgPQkixdGcF`

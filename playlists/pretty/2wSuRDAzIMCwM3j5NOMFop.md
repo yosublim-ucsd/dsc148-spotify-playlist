@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 36 songs - 1 hr 51 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 34 | [SIXFT](https://open.spotify.com/track/1voNv7mqbcQnreBth7A6ng) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [GLOOM DIVISION](https://open.spotify.com/album/0uJRPvtoXw3k9377EVqShK) | 3:24 |
 | 35 | [Suitcase Full of Cash](https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:29 |
 | 36 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 |
+| 37 | [One by One](https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [One by One](https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe) | 2:52 |
+| 38 | [Mania](https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Mania](https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7) | 3:33 |
 
-Snapshot ID: `AAAAKgdRcks9H1uDvnpsswkvSMWp1IEP`
+Snapshot ID: `AAAALPiMRA+au+VALo6MfJVaRH+AEgEU`

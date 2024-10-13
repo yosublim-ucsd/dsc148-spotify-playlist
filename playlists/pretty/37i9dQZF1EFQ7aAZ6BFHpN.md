@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 149 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 149 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 63 | [Why Do I Love You \- Live At The Royal Rooster, New York, September 4, 1948 / Remastered](https://open.spotify.com/track/5NZ0z31vwGvlYw2Xad67US) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Birth Of The Cool](https://open.spotify.com/album/2mth0Fzczu9JHVzoaAEucl) | 3:41 |
 | 64 | [Just Another Rhumba](https://open.spotify.com/track/7CjmmU66KwfxjrWpWFtYFM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 5:36 |
 | 65 | [Lonely Boy](https://open.spotify.com/track/6emQ1WjX5cYHPOxlwjSVfo) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Complete Swing Time and Down Beat Recordings 1949\-1952](https://open.spotify.com/album/5Wjc13isw4ALxbnl3lpOYw) | 2:52 |
-| 66 | [Blues](https://open.spotify.com/track/6CwgBJws07z2kMxAEUgnm0) | [George Gershwin & Harry James & His Orchestra](https://open.spotify.com/artist/1WzMQP8rALMVbSblBCFqvr) | [100% Classical Classics](https://open.spotify.com/album/6SMnljDHqrDhcpV3lVVV1R) | 4:12 |
-| 67 | [Catfish Row: Suite from Porgy and Bess \(arr\. S\. Bowen for orchestra\): I\. Catfish Row](https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Steven Browen](https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue \- Strike Up the Band: Overture \- Promenade \- Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:52 |
+| 66 | [Catfish Row: Suite from Porgy and Bess \(arr\. S\. Bowen for orchestra\): I\. Catfish Row](https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Steven Browen](https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue \- Strike Up the Band: Overture \- Promenade \- Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:52 |
+| 67 | [Blues](https://open.spotify.com/track/6CwgBJws07z2kMxAEUgnm0) | [George Gershwin & Harry James & His Orchestra](https://open.spotify.com/artist/1WzMQP8rALMVbSblBCFqvr) | [100% Classical Classics](https://open.spotify.com/album/6SMnljDHqrDhcpV3lVVV1R) | 4:12 |
 | 68 | [Here Comes The Heavster](https://open.spotify.com/track/7dFetZ4CpCjOz8WSr7g9np) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Blue Funk](https://open.spotify.com/album/0mjKnJ6EaGkrMozJlmQbdC) | 4:53 |
 | 69 | [Two Waltzes in C](https://open.spotify.com/track/2dGlBRZK9mmMCQYxcQp8UM) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 4:13 |
 | 70 | [Porgy and Bess: A Symphonic Picture](https://open.spotify.com/track/6rS85lyKUXcJE5fBMze00w) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Grofé: Grand Canyon Suite/Gershwin: Porgy & Bess](https://open.spotify.com/album/0DVAMwBCbYJbKqq6cB1BSF) | 23:54 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 149 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AbehqgAAAAAgWcCReh7t3BQdhqJd5wTE`
+Snapshot ID: `AbenSgAAAAAMv7AhXbs85O76tVOdWHgO`

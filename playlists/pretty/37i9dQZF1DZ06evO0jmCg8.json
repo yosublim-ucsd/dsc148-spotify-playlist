@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 73160,
+  "num_followers": 73193,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwcZAAAAAABZSZJdbJyuwLsrJ3tqFzkM",
+  "snapshot_id": "ZwhqgAAAAAC8EZQF1hPAK/vQPPQSvzMl",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254946,
-      "name": "Dead Eyes See No Future",
-      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
+      "duration_ms": 255133,
+      "name": "Burning Angel",
+      "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Dead Eyes See No Future",
+      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Burning Angel",
-      "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
+      "duration_ms": 259693,
+      "name": "Enemy Within",
+      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
     },
     {
       "added_at": null,
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Enemy Within",
-      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
+      "duration_ms": 92893,
+      "name": "Snow Bound",
+      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     },
     {
       "added_at": null,
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthems of Rebellion",
         "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 215800,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
+      "duration_ms": 254893,
+      "name": "Silent Wars",
+      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Silent Wars",
-      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
+      "duration_ms": 215800,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,

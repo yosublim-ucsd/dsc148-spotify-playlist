@@ -4,7 +4,7 @@
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-218 songs - 10 hr 30 min
+218 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [NOTRE\-DAME](https://open.spotify.com/track/14TGHLk71qfAez0F1Gqc3T) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm), [Raffucs](https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo) | [ISTINTO ANIMALE](https://open.spotify.com/album/6OddaItV5WZhEPr4kXl1jr) | 3:00 | 2024-06-27 | 2024-08-02 |
 | [NULLA \(non ci ho capito\)](https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [NULLA \(non ci ho capito\)](https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj) | 3:30 | 2024-07-04 | 2024-08-30 |
 | [O.G.](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G.](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 | 2024-07-18 | 2024-08-23 |
-| [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:50 | 2024-09-12 |  |
+| [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 | 2024-09-12 |  |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-10-03 |  |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 |  |
 | [O’ LIETT TUOJ](https://open.spotify.com/track/13Nt2NXJSJbvkkzg2AHbEU) | [Bosnia](https://open.spotify.com/artist/4cfHjQPZE1LRHvD38jue82) | [O’ LIETT TUOJ](https://open.spotify.com/album/5MbQBdYMDUilUhYsAviJlh) | 3:15 | 2024-07-18 | 2024-08-23 |

@@ -10852,7 +10852,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-13",
       "duration_ms": 228625,
       "name": "Windy You",
       "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
@@ -11854,6 +11854,32 @@
       "duration_ms": 275866,
       "name": "\u3069\u3046\u3057\u3088\u3046\u3082\u306a\u3044\u306a",
       "url": "https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo"
+    },
+    {
+      "album": {
+        "name": "\u306d\u3050\u305b",
+        "url": "https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u3053\u306f\u306a\u3089\u3080",
+          "url": "https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw"
+        },
+        {
+          "name": "ZETTAKUN",
+          "url": "https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "\u306d\u3050\u305b",
+      "url": "https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Gonzy, Yandel & Tego Calderón, Becky G,  Xavi and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,202 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,297 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 23 | [Cielo](https://open.spotify.com/track/4WuD3xrEvtjY4NwWWLR73l) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [MARTINO DEJALA CAER VOL\. 1](https://open.spotify.com/album/1O1JgDwAMboWq0SZoh9YGJ) | 3:00 |
 | 24 | [Abran Paso](https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Abran Paso](https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5) | 3:56 |
 | 25 | [Malos Hábitos](https://open.spotify.com/track/0C4npmxPsvvELHYlZBnlKU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Malos Hábitos](https://open.spotify.com/album/6rvi78Dmgp5uCMWJ9FQ5gh) | 3:41 |
-| 26 | [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Besitos BB 2.0 \(feat\. Bb trickz\)](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
+| 26 | [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 |
 | 27 | [Otra Vez](https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [Otra Vez](https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP) | 1:54 |
 | 28 | [AMOR PROPIO](https://open.spotify.com/track/08TKFr2WUqTkPMmvzvKu3D) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [AMOR PROPIO](https://open.spotify.com/album/3p3nAszb8NHT2JaUjuSl6R) | 3:23 |
 | 29 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/2zG6ktN4xlA40ofiDbe0lb) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cómo Quieres Que Te Quiera](https://open.spotify.com/album/0OZFVWGu7rRQdV16UNsfBG) | 4:24 |
