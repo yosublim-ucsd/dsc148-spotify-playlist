@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1131177,
+  "num_followers": 1131339,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -343,6 +327,22 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
         "name": "Amor pirata",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -387,26 +387,6 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
-        "name": "El Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -483,18 +463,22 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 184586,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -531,6 +515,22 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 190773,
       "name": "La Chica Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-24 18:40:14",
       "album": {
-        "name": "Mujer Que Mal Me Pagas",
-        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
         "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
       },
@@ -831,6 +815,42 @@
       "duration_ms": 213000,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
+        "name": "Oye Mujer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Atl Garza",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/4etqoFocnO9gSKtqtQbwXh"
+    },
+    {
+      "added_at": "2024-05-24 18:40:14",
+      "album": {
+        "name": "Mujer Que Mal Me Pagas",
+        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
     },
     {
       "added_at": "2024-05-24 18:40:14",
@@ -855,22 +875,6 @@
       "duration_ms": 329055,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/0hmEuG8hDO0B9B7zgiK8iH"
-    },
-    {
-      "added_at": "2024-05-24 18:40:14",
-      "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "La Negra Catalina",
-      "url": "https://open.spotify.com/track/4O62k6h5wut9UzgntgATwR"
     }
   ],
   "unique_name": "100% Cumbia",

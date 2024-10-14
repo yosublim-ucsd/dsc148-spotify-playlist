@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,497 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,502 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 40 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 |
 | 41 | [Letter](https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Letter](https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb) | 3:33 |
 | 42 | [Don't ever say love me \(Feat\. RM of BTS\)](https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F) | 3:34 |
-| 43 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
-| 44 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 |
-| 45 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
+| 43 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
+| 44 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
+| 45 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 |
 | 46 | [Your name](https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Dear.](https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb) | 4:41 |
 | 47 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 |
 | 48 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 |

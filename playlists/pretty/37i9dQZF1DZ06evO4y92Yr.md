@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 
 ### [This Is Chappell Roan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y92Yr)
 
-> This is Chappell Roan\. Todos os maiores hits em uma só playlist.
+> This is Chappell Roan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,263 likes - 15 songs - 55 min 8 sec
+[Spotify](https://open.spotify.com/user/spotify) - 164,731 likes - 15 songs - 55 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 | 14 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
 | 15 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 
-Snapshot ID: `ZwhqgAAAAAC74HWh+h0Oa0gNA/oXv8kj`
+Snapshot ID: `Zwm8AAAAAAAMw8FIfYWTuiafKzOmhdiM`

@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 216860,
+  "num_followers": 216872,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182224,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 174216,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
-        "name": "BATTER UP",
-        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "BATTER UP",
-      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -259,22 +243,18 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+        "name": "BATTER UP",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -327,22 +307,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -359,8 +323,24 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "Standing Next to You (USHER Remix)",
-        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
       "artists": [
         {
@@ -368,13 +348,29 @@
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 214760,
-      "name": "Standing Next to You (USHER Remix)",
-      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -411,22 +407,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
@@ -439,22 +419,6 @@
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Super Lady",
-      "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -475,6 +439,22 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Super Lady",
+      "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
@@ -491,6 +471,42 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "Standing Next to You (USHER Remix)",
+        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Standing Next to You (USHER Remix)",
+      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -503,6 +519,22 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -546,11 +578,15 @@
         {
           "name": "LE SSERAFIM",
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -571,8 +607,8 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },
       "artists": [
         {
@@ -580,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -711,26 +747,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 182148,
-      "name": "UNFORGIVEN (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-11 03:16:36",
       "album": {
-        "name": "MY WORLD - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Spicy",
-      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
-    },
-    {
-      "added_at": "2024-07-11 03:16:36",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2024-07-11 03:16:36",
@@ -823,6 +807,22 @@
       "duration_ms": 183251,
       "name": "IWALY",
       "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
+    },
+    {
+      "added_at": "2024-07-11 03:16:36",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2024-07-11 03:16:36",

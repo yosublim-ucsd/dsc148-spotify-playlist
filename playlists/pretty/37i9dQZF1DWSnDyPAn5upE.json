@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 63050,
+  "num_followers": 63110,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 174370,
-      "name": "I'm Clean Now",
-      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Enchanted Isle",
         "url": "https://open.spotify.com/album/6oXgXpm6UC0kveOf8A8qrL"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 274506,
       "name": "Pyramid Song (Arr. Lawson)",
       "url": "https://open.spotify.com/track/4s0wuHeoQUqseTxG10cukT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -903,22 +903,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Hush Now Baby",
-        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
       "artists": [
         {
-          "name": "Ea Akilat",
-          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
         },
         {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+          "name": "Celeste Cescutti",
+          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
         }
       ],
-      "duration_ms": 101142,
-      "name": "Hush Now Baby",
-      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+      "duration_ms": 264369,
+      "name": "Piccolo Corpo",
+      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -943,42 +943,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
+        "name": "Hush Now Baby",
+        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
       "artists": [
         {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+          "name": "Ea Akilat",
+          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
         },
         {
-          "name": "Celeste Cescutti",
-          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
         }
       ],
-      "duration_ms": 264369,
-      "name": "Piccolo Corpo",
-      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Spirit of the Forest",
-        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Spirit of the Forest",
-      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
+      "duration_ms": 101142,
+      "name": "Hush Now Baby",
+      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1003,6 +983,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Ithaca",
         "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+        "name": "Spirit of the Forest",
+        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
       },
       "artists": [
         {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
         }
       ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+      "duration_ms": 163989,
+      "name": "Spirit of the Forest",
+      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 460892,
       "name": "Fantas Variation for Voices",
       "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
+        "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Yoko Komatsu",
+          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Shimmer in the Sky - Yoko Komatsu Rework",
+      "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Seasons Shifting",
         "url": "https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV"
       },
@@ -1383,22 +1403,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
-        "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        },
-        {
-          "name": "Yoko Komatsu",
-          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Shimmer in the Sky - Yoko Komatsu Rework",
-      "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "a journey\u2026",
         "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 268440,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
-      },
-      "artists": [
-        {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
-        }
-      ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
       "artists": [
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
         }
       ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Bones Knowing",
-        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Bones Knowing",
-      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     },
     {
       "added_at": "2024-08-30 04:00:00",

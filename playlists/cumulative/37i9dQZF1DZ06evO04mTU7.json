@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "#SV 03 - Esse novinho vai ser meu homem",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "#SV 03 - Esse novinho vai ser meu homem",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
+    },
+    {
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },

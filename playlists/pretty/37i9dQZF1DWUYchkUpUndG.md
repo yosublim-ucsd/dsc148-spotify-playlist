@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=U5Haf3QpRZSeoqd9RjU\-UQ>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,243 likes - 82 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,330 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

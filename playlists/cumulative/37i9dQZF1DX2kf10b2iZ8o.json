@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 238000,
       "name": "Cherish BOUQUET",
       "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 298946,
       "name": "Dance in the school!",
       "url": "https://open.spotify.com/track/7hKA7W7hgr7n2VhVjqQYtH"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Friendly Smile",
       "url": "https://open.spotify.com/track/73zfDxSYTxNA6OURYsjnkU"
@@ -1651,24 +1651,6 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-06 S.E.M",
-        "url": "https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH"
-      },
-      "artists": [
-        {
-          "name": "S.E.M",
-          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
-        }
-      ],
-      "date_added": "2022-12-01",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 291146,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr"
-    },
-    {
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -2048,7 +2030,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 222493,
       "name": "SPARKLE SIGN",
       "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
@@ -2612,6 +2594,24 @@
       "duration_ms": 275866,
       "name": "\u201cW\u201donderful Tactics!",
       "url": "https://open.spotify.com/track/5DfRA3Gf8MMhMRlHGhg5Ky"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-06 S.E.M",
+        "url": "https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH"
+      },
+      "artists": [
+        {
+          "name": "S.E.M",
+          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "\u221e Possibilities",
+      "url": "https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr"
     },
     {
       "album": {
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 247173,
       "name": "\u5f37\u304f\u5c0a\u304d\u7363\u305f\u3061",
       "url": "https://open.spotify.com/track/5MO4754Vwu56FZQj8j8lWH"

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 422622,
+  "num_followers": 422635,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Fruta y T\u00e9",
+      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -299,22 +331,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Te Llevo para Que Me Lleves",
-      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Fruta y T\u00e9",
-      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 241000,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
-        "name": "Un Amor Que Se Termina",
-        "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 156056,
-      "name": "Un Amor Que Se Termina",
-      "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -599,6 +579,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Un Amor Que Se Termina",
+        "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 156056,
+      "name": "Un Amor Que Se Termina",
+      "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Quiero Mejor",
         "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Tu Pirata Soy Yo",
-        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "En La Vereda del Sol",
         "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Me Entrego",
-        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Me Entrego",
-      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "No me Arrepiento de este Amor",
         "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 181500,
       "name": "No me Arrepiento de este Amor",
       "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Me Entrego",
+        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Me Entrego",
+      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
+        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
+        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 277351,
+      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
+      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
-        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
-        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 277351,
-      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
-      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
     },
     {
       "added_at": "2024-08-29 19:40:05",

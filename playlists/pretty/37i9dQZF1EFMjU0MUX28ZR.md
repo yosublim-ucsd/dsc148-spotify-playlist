@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 86 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 86 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 74 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 |
 | 75 | [Quiet](https://open.spotify.com/track/6aBdP1eyRPUM1HwM8Y1Adp) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 3:02 |
 | 76 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
-| 77 | [Sleepwalker](https://open.spotify.com/track/7IgvOvEB4cCglY2oJg56iQ) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5w5oCdohszretuVfRpKpwt) | 3:17 |
-| 78 | [Joy of Missing Out](https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Joy of Missing Out](https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4) | 3:11 |
+| 77 | [Joy of Missing Out](https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Joy of Missing Out](https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4) | 3:11 |
+| 78 | [Sleepwalker](https://open.spotify.com/track/7IgvOvEB4cCglY2oJg56iQ) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5w5oCdohszretuVfRpKpwt) | 3:17 |
 | 79 | [The Ride](https://open.spotify.com/track/5c8PhRr7kcacpLJTfH5bZ5) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 2:42 |
 | 80 | [Survive Myself](https://open.spotify.com/track/00a8GwYo65nEaJ4kiJBlrb) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Survive Myself](https://open.spotify.com/album/0Q5waDpLbmoKH20bRup6xv) | 3:20 |
 | 81 | [Make My Bed](https://open.spotify.com/track/3PRW28gQllBqdsF6lyDrqu) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/3GfAVqWHtGROgcjyCs1EV5) | 2:56 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 85 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 86 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AbenSgAAAAD7G0Q6AgbJqpEYz8d/d65h`
+Snapshot ID: `Abes6gAAAADoApUPGz7vtWAE/EYqV3lZ`

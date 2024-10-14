@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 393052,
+  "num_followers": 393140,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "Wishing Well / Cimmerian",
         "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 216198,
       "name": "Cimmerian",
       "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Howl (Chill Mix)",
         "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
       },
@@ -599,22 +619,18 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -651,22 +667,6 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 115847,
       "name": "Beth",
       "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1227,42 +1227,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -1283,6 +1247,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -1295,6 +1275,42 @@
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Hopedrunk Everasking",
+      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Hopedrunk Everasking",
-      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
     }
   ],
   "unique_name": "Just Chill",

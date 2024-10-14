@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > Ok but turns out everybody wants this\. Cover: Adam Brody & Kristen Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,237 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,781 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

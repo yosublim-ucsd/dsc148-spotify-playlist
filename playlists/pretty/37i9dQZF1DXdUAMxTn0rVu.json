@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: The Alchemist ",
-  "num_followers": 534286,
+  "num_followers": 534476,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
+        "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "MM..FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+      "duration_ms": 242573,
+      "name": "Just Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -155,22 +171,6 @@
       "duration_ms": 131866,
       "name": "Meat Grinder",
       "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Just Don't Give A Fuck",
-      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -235,34 +235,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Viktor Vaughn",
-          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
-        }
-      ],
-      "duration_ms": 115826,
-      "name": "Fancy Clown",
-      "url": "https://open.spotify.com/track/1YgDGKyKhFlimPw3mLavPG"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "Revolutionary Vol. 2",
         "url": "https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0"
       },
@@ -275,6 +247,26 @@
       "duration_ms": 241826,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/3qDpYCA6FoVvODVaZWScXO"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -311,26 +303,6 @@
       "duration_ms": 221626,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
-        }
-      ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -386,11 +358,15 @@
         {
           "name": "MF DOOM",
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
         }
       ],
-      "duration_ms": 118853,
-      "name": "Accordion",
-      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
+      "duration_ms": 115826,
+      "name": "Fancy Clown",
+      "url": "https://open.spotify.com/track/1YgDGKyKhFlimPw3mLavPG"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -519,6 +495,30 @@
       "duration_ms": 187026,
       "name": "Blast",
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Accordion",
+      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
         "name": "Hi-Teknology",
         "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 274826,
       "name": "The Sun God",
       "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -863,6 +847,38 @@
       "duration_ms": 241394,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -927,22 +943,6 @@
       "duration_ms": 169106,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2024-07-05 04:41:29",

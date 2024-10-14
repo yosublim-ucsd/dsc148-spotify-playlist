@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-149 songs - 8 hr 39 min
+150 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-02-27 | 2024-10-06 |
 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 | 2024-07-12 | 2024-07-18 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-08-05 |  |
-| [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2024-04-19 |  |
+| [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2024-04-19 | 2024-10-14 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-15 |  |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2023-11-10 | 2024-04-19 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-10 | 2024-01-31 |
@@ -77,6 +77,7 @@
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-24 | 2024-08-19 |
 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 | 2024-01-10 | 2024-04-19 |
 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 | 2023-11-10 | 2023-11-18 |
+| [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-10-14 |  |
 | [Into the Streets](https://open.spotify.com/track/395Xtnc0kmT1vN4WZnXSbT) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Into the streets](https://open.spotify.com/album/3w5fYHznomdsGTRy8AzDBq) | 4:50 | 2024-07-10 | 2024-08-19 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2024-04-19 | 2024-05-14 |
 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 | 2023-11-10 | 2024-04-19 |

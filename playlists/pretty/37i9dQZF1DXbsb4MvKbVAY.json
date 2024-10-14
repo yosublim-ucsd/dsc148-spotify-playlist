@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udd25 Kannessa Aatulove ja ELLIMEI.",
-  "num_followers": 24105,
+  "num_followers": 24109,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
-        "name": "Moonlit Floor",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
         "name": "S P E Y S I D E",
         "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "this is what forever feels like",
-        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         },
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 154841,
-      "name": "this is what forever feels like (with Nick Jonas)",
-      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1271,22 +1271,38 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Silverlines - prod. Labrinth",
-        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
         }
       ],
-      "duration_ms": 197542,
-      "name": "Silverlines - prod. Labrinth",
-      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1315,18 +1331,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Love Tune",
-        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+        "name": "Freestyler (Rock The Microphone)",
+        "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
         }
       ],
-      "duration_ms": 187507,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+      "duration_ms": 174000,
+      "name": "Freestyler (Rock The Microphone)",
+      "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Freestyler (Rock The Microphone)",
-        "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freestyler (Rock The Microphone)",
-      "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "VHS RAVE",
         "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "C,XOXO - Magic City Edition",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 216471,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Summer Drop (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 168580,
-      "name": "Summer Drop (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "Edge of Saturday Night",
         "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "Summer Drop (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 168580,
+      "name": "Summer Drop (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Lights Camera Action",
-        "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "SOMEONE TO YOU",
         "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 179854,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "Lights Camera Action",
+        "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1683,6 +1683,38 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
+        "name": "YUNO",
+        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "On / Off",
+      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
         "name": "SOS (Sex on Sight) (feat. USHER)",
         "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
       },
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "YUNO",
-        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "On / Off",
-      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "RIDIN",
         "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 204000,
       "name": "RIDIN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 203650,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
         "name": "Otan Kii",
         "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 177233,
       "name": "Otan Kii",
       "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 203650,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
     }
   ],
   "unique_name": "Ensisoitossa",

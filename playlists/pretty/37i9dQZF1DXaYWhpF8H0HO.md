@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,801 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,800 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

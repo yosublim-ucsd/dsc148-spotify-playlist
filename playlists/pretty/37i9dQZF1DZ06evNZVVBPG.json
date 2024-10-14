@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lana Del Rey. Los temas esenciales, todos en una lista.",
-  "num_followers": 2501754,
+  "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
+  "num_followers": 2502314,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADAgSVOXNOnIZdtxvZonP83",
+  "snapshot_id": "Zwm8AAAAAACni7sDmKF9MKgISCwV8Ao9",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 290625,
-      "name": "Music To Watch Boys To",
-      "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272742,
       "name": "Love",
       "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 290625,
+      "name": "Music To Watch Boys To",
+      "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 365760,
-      "name": "The Blackest Day",
-      "url": "https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 238718,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 365760,
+      "name": "The Blackest Day",
+      "url": "https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
+      "duration_ms": 334294,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q"
     }
   ],
   "unique_name": "This Is Lana Del Rey",

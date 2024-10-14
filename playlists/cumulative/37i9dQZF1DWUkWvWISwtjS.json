@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 182843,
       "name": "Acertou a M\u00e3o",
       "url": "https://open.spotify.com/track/3jdfc1nTrxJAARKz84wmAd"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 152778,
       "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
       "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
@@ -2571,7 +2571,7 @@
     },
     {
       "album": {
-        "name": "O Embaixador - Ao Vivo",
+        "name": "O Embaixador (Ao Vivo)",
         "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },
       "artists": [

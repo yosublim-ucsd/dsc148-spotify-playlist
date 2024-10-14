@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,357 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 21 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 22 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
 | 23 | [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 |
-| 24 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 25 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 24 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 25 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 26 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 27 | [Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:15 |
 | 28 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 34 | [Me Pregunto](https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:07 |
 | 35 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 36 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 |
-| 37 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
-| 38 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
+| 37 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
+| 38 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
 | 39 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 40 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 |
 | 41 | [Diosa](https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:36 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 54 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
 | 55 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 |
 | 56 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
-| 57 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
-| 58 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
-| 59 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
-| 60 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
+| 57 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
+| 58 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 59 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
+| 60 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
 | 61 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
-| 62 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
-| 63 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
+| 62 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
+| 63 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 64 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
 | 65 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
 | 66 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |

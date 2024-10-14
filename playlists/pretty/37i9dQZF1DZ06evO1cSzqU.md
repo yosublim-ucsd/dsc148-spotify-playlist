@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This Is Scorpions\. Los temas esenciales, todos en una lista.
+> This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,457 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,501 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 7 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 |
 | 8 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
 | 9 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 |
-| 10 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
-| 11 | [When the Smoke Is Going Down \(2015 \- Remaster\)](https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6MacGo0aJ1ni9uhBHpQoZ3) | 3:51 |
-| 12 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 |
-| 13 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
+| 10 | [When the Smoke Is Going Down \(2015 \- Remaster\)](https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6MacGo0aJ1ni9uhBHpQoZ3) | 3:51 |
+| 11 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
+| 12 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
+| 13 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 |
 | 14 | [When You Know \(Where You Come From\)](https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \- Deluxe](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:22 |
 | 15 | [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 |
-| 16 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
-| 17 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 |
+| 16 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 |
+| 17 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
 | 18 | [Blackout](https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:48 |
 | 19 | [Humanity](https://open.spotify.com/track/5sl6n6WxvRUW4bhZ1VJdFa) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 5:26 |
 | 20 | [House of Cards](https://open.spotify.com/track/1MAYOJYnihOZr8fZuMv3HD) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 5:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 44 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
 | 45 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 |
 | 46 | [The Sails of Charon \(2015 \- Remaster\)](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 |
-| 47 | [Gas In The Tank](https://open.spotify.com/track/4tmdn5RO21dIT95GwRSH7Z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \- Deluxe](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:40 |
-| 48 | [Can't Live Without You](https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:47 |
+| 47 | [Can't Live Without You](https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:47 |
+| 48 | [Gas In The Tank](https://open.spotify.com/track/4tmdn5RO21dIT95GwRSH7Z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \- Deluxe](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:40 |
 | 49 | [Coming Home \(2015 \- Remaster\)](https://open.spotify.com/track/0fHqE1z5xYm8htOWED8QA2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 4:59 |
 | 50 | [Hit Between The Eyes](https://open.spotify.com/track/6pVnEL98xUnESYP0JbLXJI) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:32 |
 
-Snapshot ID: `ZwhqgAAAAACM/Hvj7ME19m+yKgnGKtoM`
+Snapshot ID: `Zwm8AAAAAABzmGCDSuCW+qQD5CV/Feug`

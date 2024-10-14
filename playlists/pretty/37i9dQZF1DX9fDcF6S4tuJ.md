@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Listen to all your favorite Disney Princess songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,861 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,075 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
-  "num_followers": 21731,
+  "num_followers": 21734,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALLMZBDv4OOHIhExjPoZuFCmOOf4Zf",
+  "snapshot_id": "AAALLabUTc7McyxRE43MfXjU75jghKlv",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -771,6 +771,22 @@
       "duration_ms": 764666,
       "name": "Anemometer",
       "url": "https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ"
+    },
+    {
+      "added_at": "2024-10-13 15:55:34",
+      "album": {
+        "name": "Everybody Is Fantastic",
+        "url": "https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO"
+      },
+      "artists": [
+        {
+          "name": "Microdisney",
+          "url": "https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Dolly",
+      "url": "https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1"
     }
   ],
   "unique_name": "what dreams may come",

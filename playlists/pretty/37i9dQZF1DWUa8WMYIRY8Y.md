@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Le meilleur de la scène alternative du moment\. Photo : The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,862 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,852 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 40 | [BOYS](https://open.spotify.com/track/06FgYdpoGD5W7yWAeIzRuW) | [Entropie](https://open.spotify.com/artist/7203Lgw1JRJrINTJveF7Lm) | [BOYS](https://open.spotify.com/album/3rw1GOrYg1HcyTUtioZ9c3) | 3:42 |
 | 41 | [Wither](https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Wither](https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw) | 4:11 |
 | 42 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 |
-| 43 | [I Wrote The Book](https://open.spotify.com/track/6NXlrPg8FBTXQqcNpifiCP) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [I Wrote The Book](https://open.spotify.com/album/6zELfsY0SfLnQpWZKiuBkv) | 3:15 |
+| 43 | [I Wrote the Book](https://open.spotify.com/track/6NXlrPg8FBTXQqcNpifiCP) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [I Wrote The Book](https://open.spotify.com/album/6zELfsY0SfLnQpWZKiuBkv) | 3:15 |
 | 44 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 |
 | 45 | [Ahead of Myself](https://open.spotify.com/track/0iSppEday3KI8mmLSM5IUo) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/2YhIWlLm5732Oz1Spon1ss) | 3:44 |
 | 46 | [Empire Service](https://open.spotify.com/track/1ZjwDwoRZC53PPF8W7W5q9) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Empire Service](https://open.spotify.com/album/0gDqtKhaOvx0hWQEK404xT) | 3:08 |

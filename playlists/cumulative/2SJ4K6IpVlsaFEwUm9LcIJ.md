@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-317 songs - 16 hr 52 min
+318 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Deeper](https://open.spotify.com/track/5RyZK49FbAj0DT1rFjBhUb) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:44 | 2024-04-06 | 2024-05-16 |
 | [Devo](https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 1:40 | 2024-04-25 | 2024-05-16 |
 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 | 2024-08-05 | 2024-08-29 |
+| [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 | 2024-10-13 |  |
 | [Dream Alone](https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n) | [Artie Garr](https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv) | [Dream Alone / Beat Love](https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b) | 2:22 | 2024-02-21 | 2024-03-10 |
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 | 2024-03-10 |
 | [Dribble Dribble](https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP) | [Amy O](https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb) | [Dribble Dribble](https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v) | 3:16 | 2024-03-28 | 2024-05-16 |

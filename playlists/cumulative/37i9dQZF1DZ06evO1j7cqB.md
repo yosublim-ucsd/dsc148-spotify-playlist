@@ -2,7 +2,7 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. The essential tracks, all in one playlist.
+> This is Bear McCreary\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 107 songs - 6 hr 28 min
 

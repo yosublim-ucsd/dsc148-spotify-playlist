@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,597 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,610 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 32 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
 | 33 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
 | 34 | [Won't Let You Go](https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Vacation](https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz) | 3:54 |
-| 35 | [Happier \- Breathe Carolina Remix](https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7) | [SPENCE](https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Happier \(Remixes\)](https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6) | 2:38 |
+| 35 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
 | 36 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 |
-| 37 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
-| 38 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 |
+| 37 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 |
+| 38 | [Happier \- Sped Up](https://open.spotify.com/track/2as5BO0eobxm7Zvelm2nHN) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ) | 3:07 |
 | 39 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \- Complete Edition](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 |
 | 40 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
 | 41 | [Hope For The Future](https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Million Pieces](https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:11 |
 | 51 | [The Currents](https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \- Complete Edition](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 
-Snapshot ID: `ZwhqgAAAAABppxWmRESSlU29VpIWX00s`
+Snapshot ID: `Zwm8AAAAAAD0eYkfTZx11jT4LNUU4uT0`

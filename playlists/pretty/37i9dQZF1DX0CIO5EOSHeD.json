@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 500023,
+  "num_followers": 500064,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Luxury Beverage",
-        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "lavender blood",
-      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "say goodbye",
         "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Luxury Beverage",
+        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "lavender blood",
+      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 237398,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 237398,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "HeatDeath",
         "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 233513,
       "name": "Feral Guest",
       "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Warning Sign (Alt Version)",
-        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 179669,
-      "name": "Warning Sign - Alt Version",
-      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
       },
@@ -1619,6 +1599,22 @@
       "duration_ms": 208101,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "i'm so lucky",
-        "url": "https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa"
+        "name": "Warning Sign (Alt Version)",
+        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
       "artists": [
         {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 194848,
-      "name": "really happening",
-      "url": "https://open.spotify.com/track/5Xrn2EX2EtCsghe8AppB3N"
+      "duration_ms": 179669,
+      "name": "Warning Sign - Alt Version",
+      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
     }
   ],
   "unique_name": "Lofi Indie",

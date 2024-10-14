@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25407,
+  "num_followers": 25408,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACBcqNy81/04/AWU1+zCEMV",
+  "snapshot_id": "Zwm8AAAAAADmq8tiXjuFTbz+ZpbHe8Dw",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 159500,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Start Right Here (HGA Version)",
+        "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 173575,
+      "name": "Start Right Here (HGA Version)",
+      "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 246346,
       "name": "One Sixteen",
       "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Start Right Here (HGA Version)",
-        "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 173575,
-      "name": "Start Right Here (HGA Version)",
-      "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
     },
     {
       "added_at": null,

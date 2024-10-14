@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,039 songs - 9 day 10 hr 59 min
+4,040 songs - 9 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1623,6 +1623,7 @@
 | [I AM BEAUTIFUL](https://open.spotify.com/track/6F2hDZzsdlK4GuQtirYQ0R) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [I AM BEAUTIFUL](https://open.spotify.com/album/4aftly5LFjVeLmhYVviX7e) | 3:56 | 2024-05-31 | 2024-08-20 |
 | [I Am Coming For You](https://open.spotify.com/track/3e0xZ7l7UJxb7jFnN5K4rk) | [Kala Ragan](https://open.spotify.com/artist/6XbDGsHxHAtOsbFVLHI5hG) | [Dreamscape Money](https://open.spotify.com/album/2wcrUIttxMq3pto4ZZrHqn) | 2:54 | 2023-12-08 | 2023-12-16 |
 | [I Am Not Family](https://open.spotify.com/track/7KpSmrCf8mC3JjukTiScK6) | [Erniemon](https://open.spotify.com/artist/0fBQdHDzq576xfmR2CKOhP) | [The First Cut](https://open.spotify.com/album/7fU0BDU46AzHC00S1bkugF) | 3:15 | 2024-07-13 | 2024-07-25 |
+| [I Breakdown](https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY) | [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [I Breakdown](https://open.spotify.com/album/5EYo35pMkpGpFG0upy3RAX) | 4:01 | 2024-10-13 |  |
 | [I Burn a Little](https://open.spotify.com/track/7dSSmkrsTYOFEfk4CSJGGo) | [Pri](https://open.spotify.com/artist/66PARtZr2CSygE5OZ4T3CP), [Padre Tóxico](https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ) | [I Burn a Little](https://open.spotify.com/album/7gk1eny8yrQxJDlE8vWH6D) | 3:06 | 2022-02-18 | 2022-03-07 |
 | [I Came to Slay](https://open.spotify.com/track/4p9pPnJGi0LjyfHMM2DL5P) | [Olivia Thai](https://open.spotify.com/artist/1HtyYQkdkuViivGvneQxRq) | [I Came to Slay](https://open.spotify.com/album/0hi9HskOm9yay3MZ8C6ATm) | 3:53 | 2020-06-25 | 2020-07-13 |
 | [I Can Make It Easy for You](https://open.spotify.com/track/7I32My4zxI38mQLvrXtN2b) | [haan](https://open.spotify.com/artist/16yrEIlF7nitGwGDKKQNk0) | [I Can Make It Easy for You](https://open.spotify.com/album/3fttXzgWx5KnMK3TbXO8NT) | 3:40 | 2021-12-17 | 2022-01-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 349110,
+  "num_followers": 349338,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -427,18 +423,22 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 175296,
       "name": "CARITA TRISTE",
       "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 231848,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -695,18 +711,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -731,30 +755,6 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "D\u00c1KITI",
-        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
       "artists": [
         {
@@ -1404,13 +1404,13 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-09-12 22:01:00",

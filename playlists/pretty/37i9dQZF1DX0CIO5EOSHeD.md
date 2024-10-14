@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,023 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,064 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 34 | [ALIEN LOVE CALL](https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:56 |
 | 35 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
 | 36 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
-| 37 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
-| 38 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
+| 37 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
+| 38 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 39 | [Little Things](https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:29 |
 | 40 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 41 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 64 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
 | 65 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 66 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
-| 67 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
-| 68 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
-| 69 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
-| 70 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
+| 67 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
+| 68 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
+| 69 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
+| 70 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
 | 71 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 72 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
 | 73 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
 | 74 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
 | 75 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
-| 76 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
-| 77 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
-| 78 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 76 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
+| 77 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 78 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 79 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
 | 80 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
 | 81 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 94 | [Fuzzy](https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fuzzy](https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW) | 2:56 |
 | 95 | [Dreams of Losing Teeth](https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dreams of Losing Teeth](https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w) | 3:22 |
 | 96 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
-| 97 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
-| 98 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
+| 97 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
+| 98 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
 | 99 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
-| 100 | [really happening](https://open.spotify.com/track/5Xrn2EX2EtCsghe8AppB3N) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [i'm so lucky](https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa) | 3:14 |
+| 100 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 
 Snapshot ID: `Zp+fsQAAAACylgxxN5fa4TtuKnNiBzbX`

@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos con Fito Paez.",
-  "num_followers": 1140695,
+  "num_followers": 1140710,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
         "name": "Peluson Of Milk",
         "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -215,6 +199,22 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -267,38 +267,6 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -347,24 +315,24 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
       },
       "artists": [
         {
@@ -372,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 317613,
-      "name": "Pr\u00f3fugos - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -391,6 +359,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -427,38 +411,6 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -471,6 +423,22 @@
       "duration_ms": 237346,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -491,6 +459,22 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 204920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "Pr\u00f3fugos - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
         "name": "La Era De La Boludez",
         "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
       },
@@ -583,22 +567,6 @@
       "duration_ms": 313733,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -619,18 +587,18 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Sue\u00f1o Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -647,6 +615,38 @@
       "duration_ms": 281520,
       "name": "A rodar mi vida",
       "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
+        "name": "Detonador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 264838,
+      "name": "La Raz\u00f3n Que Te Demora",
+      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 265312,
       "name": "Viernes, 3AM",
       "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "Gol De Mujer",
-        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Nene de Antes",
-      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
         "name": "Ya No Mires Atr\u00e1s",
         "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
-        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
+        "name": "Gol De Mujer",
+        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
       },
       "artists": [
         {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 268320,
-      "name": "La Grasa de las Capitales",
-      "url": "https://open.spotify.com/track/13dtguSlp2rssEcyxUyZVC"
+      "duration_ms": 250106,
+      "name": "Nene de Antes",
+      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -1203,6 +1187,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
+        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 268320,
+      "name": "La Grasa de las Capitales",
+      "url": "https://open.spotify.com/track/13dtguSlp2rssEcyxUyZVC"
     },
     {
       "added_at": "2024-06-12 20:05:32",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-06-12 20:05:32",
       "album": {
+        "name": "Sol en Cinco",
+        "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        },
+        {
+          "name": "Eduardo Bergallo",
+          "url": "https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78"
+        }
+      ],
+      "duration_ms": 328813,
+      "name": "Nada es para siempre",
+      "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2024-06-12 20:05:32",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
-    },
-    {
-      "added_at": "2024-06-12 20:05:32",
-      "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
-      },
-      "artists": [
-        {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

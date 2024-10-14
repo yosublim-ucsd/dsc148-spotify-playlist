@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This Is Edgardo Nuñez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,344 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,370 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 28 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
 | 29 | [La Número 20 \- En Vivo](https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Número 20 \(En Vivo\)](https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B) | 3:10 |
 | 30 | [El De La 31](https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 3:11 |
-| 31 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
-| 32 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
+| 31 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
+| 32 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
 | 33 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 |
 | 34 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 35 | [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Ya Se Fue El Parche](https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya Se Fue El Parche](https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc) | 2:56 |
 | 50 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
 
-Snapshot ID: `ZwhqgAAAAAAt6cSWElG9EOnIfaqEdDC5`
+Snapshot ID: `Zwm8AAAAAAD2C0+11T1YJx7RUo6qJ/e5`

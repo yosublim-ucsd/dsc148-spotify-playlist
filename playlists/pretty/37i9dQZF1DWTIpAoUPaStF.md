@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,134 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,149 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 38 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 |
 | 39 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 | 40 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
-| 41 | [Solid Air](https://open.spotify.com/track/7EDrSW40rkvj1O1l2pAcbJ) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 5:44 |
-| 42 | [Day ‘n’ Nite \- Spotify Singles](https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:18 |
-| 43 | [ocean eyes](https://open.spotify.com/track/1DSASw2UZSNl5r9pgxc6KW) | [Fiona Floyd](https://open.spotify.com/artist/1Tp7LWhw2Ug8UgAIRN7o2I) | [ocean eyes](https://open.spotify.com/album/5ZZ3UBXTwMM1gg19stt35n) | 2:27 |
+| 41 | [Day ‘n’ Nite \- Spotify Singles](https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:18 |
+| 42 | [ocean eyes](https://open.spotify.com/track/1DSASw2UZSNl5r9pgxc6KW) | [Fiona Floyd](https://open.spotify.com/artist/1Tp7LWhw2Ug8UgAIRN7o2I) | [ocean eyes](https://open.spotify.com/album/5ZZ3UBXTwMM1gg19stt35n) | 2:27 |
+| 43 | [Solid Air](https://open.spotify.com/track/7EDrSW40rkvj1O1l2pAcbJ) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 5:44 |
 | 44 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
 | 45 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 | 46 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 |

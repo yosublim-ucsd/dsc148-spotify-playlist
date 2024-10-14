@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Gonzy y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,752 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,810 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

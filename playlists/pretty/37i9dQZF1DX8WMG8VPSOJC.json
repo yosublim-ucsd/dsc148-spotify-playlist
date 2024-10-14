@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1746952,
+  "num_followers": 1747000,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -307,18 +303,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+      "duration_ms": 219573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -339,6 +335,26 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "The Kind of Love We Make",
-        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -615,8 +615,8 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Livin' My Best Life",
-        "url": "https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0"
+        "name": "Dylan Scott (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 183087,
-      "name": "Can't Have Mine (Find You A Girl)",
-      "url": "https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd"
+      "duration_ms": 197640,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "I Don't Dance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 221173,
       "name": "I Don't Dance",
       "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -715,34 +715,34 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "10-90",
-        "url": "https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej"
+        "name": "Livin' My Best Life",
+        "url": "https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0"
       },
       "artists": [
         {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 201400,
-      "name": "10-90",
-      "url": "https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL"
+      "duration_ms": 183087,
+      "name": "Can't Have Mine (Find You A Girl)",
+      "url": "https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd"
     },
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+      "duration_ms": 250546,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "10-90",
+        "url": "https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "10-90",
+      "url": "https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "Forever To Me",
         "url": "https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 179666,
       "name": "Forever To Me",
       "url": "https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
-        "name": "Dylan Scott (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Hell Of A View",
-        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
+      "duration_ms": 226226,
+      "name": "We Danced",
+      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "Hell Of A View",
+        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
       },
@@ -1007,6 +1023,22 @@
       "duration_ms": 169440,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -1027,38 +1059,6 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Who Needs Pictures",
-        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "We Danced",
-      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
-        "name": "Poet\u2019s Resum\u00e9",
-        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "One Bad Habit",
-      "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
         "name": "Worth the Wait",
         "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+        "name": "Poet\u2019s Resum\u00e9",
+        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+      "duration_ms": 188166,
+      "name": "One Bad Habit",
+      "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Counting Chickens",
-      "url": "https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
         "name": "Port Saint Joe",
         "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209920,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Counting Chickens",
+      "url": "https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9"
     },
     {
       "added_at": "2024-09-19 14:56:51",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+      "duration_ms": 177026,
+      "name": "Always Gonna Love You",
+      "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
     }
   ],
   "unique_name": "Country Kind of Love",

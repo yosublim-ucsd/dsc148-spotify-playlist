@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "LET HER COOK",
+      "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
+    },
+    {
+      "album": {
         "name": "Lick Or Sum",
         "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
@@ -1606,11 +1624,33 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163018,
+      "name": "STEP (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/4agcKl7c21pVR2SIkjag40"
+    },
+    {
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 216338,
       "name": "STOP PLAYING",
       "url": "https://open.spotify.com/track/0fuRuaV8XYN6h5kWrJ57rQ"
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 190008,
       "name": "When She Drunk",
       "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"

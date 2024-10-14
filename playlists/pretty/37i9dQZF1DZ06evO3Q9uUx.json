@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14895,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14903,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAoeK6AVzX4Mpk1LdnGe5kN",
+  "snapshot_id": "Zwm8AAAAAADci8DHiCU49JsP3NjfY1u9",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
-      },
-      "artists": [
-        {
-          "name": "DJ Bliss",
-          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "808",
-      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REALLY HER",
         "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+      },
+      "artists": [
+        {
+          "name": "DJ Bliss",
+          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "808",
+      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Savage (feat. BIA)",
         "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 164131,
       "name": "Savage (feat. BIA)",
       "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEACH BALL (feat. BIA)",
+        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distrito Federal",
         "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEACH BALL (feat. BIA)",
-        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BEACH BALL (feat. BIA)",
-      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 201441,
+      "name": "LIFELINE",
+      "url": "https://open.spotify.com/track/7jmSuVVemJ0ixY1Xcd3F3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 201441,
-      "name": "LIFELINE",
-      "url": "https://open.spotify.com/track/7jmSuVVemJ0ixY1Xcd3F3t"
     },
     {
       "added_at": null,

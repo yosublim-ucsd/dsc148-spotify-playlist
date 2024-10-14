@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Ocean Alley
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,890 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,893 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

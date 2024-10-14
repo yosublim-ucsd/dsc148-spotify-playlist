@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 20 | [Bored](https://open.spotify.com/track/4Dh90SQzKOotf1bDD3TMxS) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Bored](https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR) | 2:56 |
 | 21 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
 | 22 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 |
-| 23 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
-| 24 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 23 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 24 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 25 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 | 26 | [Knife](https://open.spotify.com/track/53y7CiK02LB3ZzhGf2LaT9) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/7mh0rxhEiJCsDhnSxO32bN) | 3:13 |
 | 27 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 31 | [Already Famous](https://open.spotify.com/track/3hRZwN7ztijzRplL42OFWm) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Already Famous](https://open.spotify.com/album/73ESU5R3U4Bn69eTSSNSgv) | 2:34 |
 | 32 | [Killin' It](https://open.spotify.com/track/7h3ee318fQQrwYqbwHVyW8) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Zero Sympathy](https://open.spotify.com/album/24UtrS5kFi1iwbmioWFMhE) | 2:35 |
 | 33 | [not around](https://open.spotify.com/track/6GlD9ntcLBrncwEbC72nN0) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:12 |
-| 34 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
-| 35 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
+| 34 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
+| 35 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
 | 36 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 |
 | 37 | [So What?](https://open.spotify.com/track/2Q5VYvBaOm66kYLpSMrBRo) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/7usvzO394IoZs6wRmO0ysZ) | 2:44 |
 | 38 | [Holding My Breath](https://open.spotify.com/track/3NwXV3xKXD0RaxvvtvRrdL) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Holding My Breath](https://open.spotify.com/album/58uJcAMB0DC2GgLYWjfqMI) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 54 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 55 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AbenaAAAAADrEFG8AuZPTglSkM/8bbst`
+Snapshot ID: `AbetCAAAAAARMBd37itkj8bBAYjsGhVq`

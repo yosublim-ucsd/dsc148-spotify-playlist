@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,433 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,439 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 22 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [para siempre\(｡>﹏<\)](https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi) | 2:30 |
 | 23 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 24 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 |
-| 25 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
+| 25 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 
 Snapshot ID: `ZsgJQAAAAADXdKRJ9YZfbWTZaM8zPAKl`

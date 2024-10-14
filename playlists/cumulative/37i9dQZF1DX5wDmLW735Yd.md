@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, brazy
+> The world's biggest Drum 'n' Bass playlist! Cover: Hybrid Minds at Drumsheds
 
 770 songs - 1 day 22 hr 41 min
 

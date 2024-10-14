@@ -1734,10 +1734,32 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/7srqyRb5plksW5k65itXDB"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
+> This is 東京スカパラダイスオーケストラ。アーティストの代表曲をひとつのプレイリストに。
 
 76 songs - 5 hr 3 min
 

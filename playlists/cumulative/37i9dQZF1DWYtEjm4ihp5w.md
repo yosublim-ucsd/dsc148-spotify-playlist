@@ -4,13 +4,13 @@
 
 > had chher, atl9a chi trackate fayt khrjou f Octobre\. Updated every Thursday.
 
-298 songs - 16 hr 2 min
+300 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(ح\) 7](https://open.spotify.com/track/4XpUu9opZpUzD7RHCk8oSv) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [\(ح\) 7](https://open.spotify.com/album/3v3hmskhI3t83CPliZorje) | 2:30 | 2024-09-01 |  |
 | [100](https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [100](https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6) | 3:22 | 2022-11-14 | 2023-02-27 |
-| [3A9EL](https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [IZI](https://open.spotify.com/artist/4zpYVC3SJ9r47ztLrd94N5) | [3A9EL](https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx) | 4:27 | 2024-10-02 |  |
+| [3A9EL](https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [IZI](https://open.spotify.com/artist/4zpYVC3SJ9r47ztLrd94N5) | [3A9EL](https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx) | 4:27 | 2024-10-02 | 2024-10-14 |
 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-06 |  |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 | 2024-05-10 |
 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-07-12 |  |
@@ -134,9 +134,10 @@
 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 | 2024-06-14 |  |
 | [KALIMATE](https://open.spotify.com/track/5OUUHEiGme4cC9O5X1Sowe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [CoBrA](https://open.spotify.com/album/1TYlN09LJ6bYts6HlgVGa5) | 1:58 | 2024-01-26 | 2024-02-10 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-11-14 | 2022-11-26 |
-| [KECHMARRA](https://open.spotify.com/track/3zKWIsLZr1dwmFCM1LKxX5) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [KECHMARRA](https://open.spotify.com/album/4vuvSz8uiirwhkwnAufXtS) | 3:19 | 2024-09-13 |  |
+| [KECHMARRA](https://open.spotify.com/track/3zKWIsLZr1dwmFCM1LKxX5) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [KECHMARRA](https://open.spotify.com/album/4vuvSz8uiirwhkwnAufXtS) | 3:19 | 2024-09-13 | 2024-10-14 |
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 | 2023-01-27 |
 | [Khelliha Ghada](https://open.spotify.com/track/3XKJx7CJIW1gFyIoSMlAT2) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Black Butterfly](https://open.spotify.com/album/3UfBMouFDIiNaMhtd1Jnza) | 3:18 | 2023-04-07 | 2023-05-12 |
+| [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 | 2024-10-13 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2024-04-02 |
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
 | [L'appel](https://open.spotify.com/track/7ckLKPOdCIcW0ZixYYw91a) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:27 | 2022-11-14 | 2023-01-05 |
@@ -214,6 +215,7 @@
 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 | 2023-03-15 | 2023-06-23 |
 | [Problems](https://open.spotify.com/track/2xEL0trcV0pHf7CA2tnwRH) | [Wolf Trapzilla](https://open.spotify.com/artist/4SSbv9vJGY0iLY9GZ0bUTm) | [Problems](https://open.spotify.com/album/1sDRbTvpaLtUcDOcpbljIe) | 3:37 | 2023-01-10 | 2023-01-16 |
 | [Pyramid](https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 2:59 | 2023-07-27 | 2023-11-11 |
+| [Qader](https://open.spotify.com/track/4rysZbYRckVcxnrK9vsHyq) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Qader](https://open.spotify.com/album/1Z8pry6BfVllxxBdijTzuD) | 3:16 | 2024-10-13 |  |
 | [QUI JE SUIS](https://open.spotify.com/track/296koeCGH32O1BhWxfIAdT) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [QUI JE SUIS](https://open.spotify.com/album/4Qws6G66bCX0T7jq96oUE0) | 3:16 | 2024-01-05 | 2024-02-16 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-12 | 2023-07-14 |
 | [QUOI](https://open.spotify.com/track/5TGXVF3hzDFk2DrzuDGsxU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [QUOI](https://open.spotify.com/album/14sFi8BX171to508jDPDR7) | 3:29 | 2024-07-12 | 2024-07-23 |

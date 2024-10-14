@@ -4,7 +4,7 @@
 
 > This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
-113 songs - 6 hr 0 min
+114 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [El Coyote](https://open.spotify.com/track/6bkpFoadpQOmcFE2xC5Rfs) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:50 | 2022-06-01 | 2023-07-12 |
 | [El David \(En Vivo\)](https://open.spotify.com/track/34RmQsftI2NLUmuxU0shvV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras En Vivo, Vol\. 1](https://open.spotify.com/album/3n3dkovrP35FKb2rh61qBN) | 4:23 | 2022-07-23 | 2022-08-25 |
 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 | 2022-06-02 | 2023-10-11 |
-| [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-07-03 |  |
+| [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-07-03 | 2024-10-14 |
 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 | 2022-06-01 | 2024-02-06 |
 | [El Jabali \- Huapango Version](https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:55 | 2022-06-01 |  |
 | [El jefe Daniel](https://open.spotify.com/track/4zaS7fP43vAvNBxSIw18N6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:54 | 2023-07-11 | 2024-03-17 |
@@ -64,6 +64,7 @@
 | [Hasta El Día De Hoy](https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:55 | 2022-06-01 |  |
 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 | 2022-06-01 | 2023-03-12 |
 | [Juanito El Comandante](https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:36 | 2022-06-01 | 2022-12-21 |
+| [La Avioneta](https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs) | [La Avioneta](https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx) | 2:46 | 2024-10-14 |  |
 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 | 2022-08-19 | 2024-08-13 |
 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 | 2022-06-01 |  |
 | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq) | 2:35 | 2023-06-17 |  |

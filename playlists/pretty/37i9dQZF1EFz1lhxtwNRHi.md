@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 112 | [Prescriptions](https://open.spotify.com/track/6TNZaCv1Togun3NT1HqdP9) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:47 |
 | 113 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 |
 | 114 | [Trash](https://open.spotify.com/track/3ETGCH7qwgDpfTLytMGVAR) | [Model Child](https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O) | [Trash](https://open.spotify.com/album/45YZhqE6PEbrx0h2iOC3Vz) | 2:14 |
-| 115 | [Love Somebody](https://open.spotify.com/track/6dJVRp70guN5aFRFT0htGT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 5:10 |
-| 116 | [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 |
+| 115 | [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 |
+| 116 | [Love Somebody](https://open.spotify.com/track/6dJVRp70guN5aFRFT0htGT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 5:10 |
 | 117 | [BLOODRUNSOUT](https://open.spotify.com/track/1f1MIRIxCGK4pYMqBk4N9t) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:43 |
 | 118 | [One More Night](https://open.spotify.com/track/2wGh2VS74OuW7fQENk48oz) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:38 |
 | 119 | [Teenage Boys](https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 5:17 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbenSgAAAABYIOpf9pQBQu4Obg2jbUXy`
+Snapshot ID: `Abes6gAAAABqUwCwdH45Prpmqq9xEkY+`

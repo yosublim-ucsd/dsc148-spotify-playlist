@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 898559,
+  "description": "This is Mac Miller. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 898681,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAC80J7gU9SckA2WWx5WAv/p",
+  "snapshot_id": "Zwm8AAAAAAAURHXKPyhuPyg2xfbtcIL1",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 188065,
-      "name": "The Mourning After",
-      "url": "https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Programs",
         "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 190186,
       "name": "Programs",
       "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "The Mourning After",
+      "url": "https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 170861,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 170861,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 272973,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 35723,
-      "name": "Hole In My Pocket",
-      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 35723,
+      "name": "Hole In My Pocket",
+      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "duration_ms": 292466,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 292466,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": null,

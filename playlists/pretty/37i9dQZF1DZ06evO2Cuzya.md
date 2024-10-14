@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,827 likes - 34 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,144 likes - 34 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 29 | [Difficult](https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 30 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 | 31 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
-| 32 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
-| 33 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
+| 32 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 |
+| 33 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 | 34 | [close to you \(gracie abrams\) \- sped up version](https://open.spotify.com/track/7lpuiqpbSTpxIW2mOuwKtl) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [close to you \(gracie abrams\) \[sped up version\]](https://open.spotify.com/album/4pHrDlzJYWrssa00LT8dP3) | 3:07 |
 
-Snapshot ID: `ZwhqgAAAAACd7ZLiAGrWkhBHWSfH37SM`
+Snapshot ID: `Zwm8AAAAAAA1wKIWprXmpqSBQylgyCqZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,136 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,144 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 30 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 31 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 32 | [Over You](https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 4:13 |
-| 33 | [January Heart](https://open.spotify.com/track/3g7rmzh7O5ojlKHEOlgRKx) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 4:13 |
+| 33 | [Wildfire](https://open.spotify.com/track/5dFS3Ae6bpwk1gwHNu4jem) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:31 |
 | 34 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
 | 35 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
 | 36 | [I Feel A Sin Comin' On](https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 42 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
 | 43 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 |
 | 44 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
-| 45 | [Heart Like Mine](https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:57 |
-| 46 | [It All Comes Out in the Wash](https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:34 |
+| 45 | [It All Comes Out in the Wash](https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:34 |
+| 46 | [Heart Like Mine](https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:57 |
 | 47 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 |
 | 48 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 |
-| 49 | [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 |
-| 50 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 |
+| 49 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 |
+| 50 | [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 |
 
-Snapshot ID: `ZwhqgAAAAADYQoirOikcSRcNlNzJ6d2s`
+Snapshot ID: `Zwm8AAAAAAC//u2ckr7IseodkqgYtqNo`

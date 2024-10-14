@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 41671,
+  "num_followers": 41702,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Johnnie B. Bad",
         "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -339,22 +323,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -367,22 +335,6 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -403,6 +355,38 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "The Essential Leroy Carr",
         "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175400,
       "name": "Papa's on the House Top",
       "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins & The Honeydrippers",
+          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Blues Piano-Rama",
         "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+        "name": "New Orleans Piano Professor",
+        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
       "artists": [
         {
-          "name": "Joe Liggins & The Honeydrippers",
-          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
+          "name": "Tuts Washington",
+          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
+      "duration_ms": 202000,
+      "name": "Honky Tonk",
+      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -643,22 +659,6 @@
       "duration_ms": 250877,
       "name": "Wade In The Water",
       "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "New Orleans Piano Professor",
-        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
-      },
-      "artists": [
-        {
-          "name": "Tuts Washington",
-          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Honky Tonk",
-      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -711,22 +711,6 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Pinetop",
-      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -815,6 +799,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Pinetop",
+      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Tribute: Delmark's 65th Anniversary",
         "url": "https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Classic Piano Blues from Smithsonian Folkways",
-        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
-      },
-      "artists": [
-        {
-          "name": "Big Chief Ellis",
-          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Dices Blues",
-      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Journeys to the Heart of the Blues",
         "url": "https://open.spotify.com/album/0PXEMcAyDmdT2rITC41wqF"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "Classic Piano Blues from Smithsonian Folkways",
+        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
+      },
+      "artists": [
+        {
+          "name": "Big Chief Ellis",
+          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Dices Blues",
+      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "The Blues Singer",
         "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 185933,
       "name": "Some Nerve",
       "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -931,22 +947,6 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2024-05-30 16:22:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,042 likes - 44 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,052 likes - 44 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 26 | [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 |
 | 27 | [FWTDJ \(All Night Long\)](https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [FWTDJ \(All Night Long\)](https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC) | 2:54 |
 | 28 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
-| 29 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
-| 30 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 |
+| 29 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 |
+| 30 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 | 31 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 | 32 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 33 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |

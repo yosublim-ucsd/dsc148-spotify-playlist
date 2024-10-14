@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 337416,
+  "num_followers": 337520,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -131,30 +131,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Desert Rose",
-        "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
-      },
-      "artists": [
-        {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        },
-        {
-          "name": "Nikko Sunset",
-          "url": "https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6"
-        },
-        {
-          "name": "Maria Zhitnikova",
-          "url": "https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF"
-        }
-      ],
-      "duration_ms": 157165,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Overdose (Sait Esmeray Remix)",
         "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
       },
@@ -175,6 +151,30 @@
       "duration_ms": 158677,
       "name": "Overdose - Sait Esmeray Remix",
       "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Desert Rose",
+        "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
+      },
+      "artists": [
+        {
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        },
+        {
+          "name": "Nikko Sunset",
+          "url": "https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6"
+        },
+        {
+          "name": "Maria Zhitnikova",
+          "url": "https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF"
+        }
+      ],
+      "duration_ms": 157165,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -675,26 +691,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
@@ -711,18 +707,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
       "artists": [
         {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
         }
       ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -879,22 +895,6 @@
       "duration_ms": 147806,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "My Useless Life",
         "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1327,6 +1311,22 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1423,22 +1439,6 @@
       "duration_ms": 126545,
       "name": "Anatolieni",
       "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
-      },
-      "artists": [
-        {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 161577,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1575,22 +1591,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 161577,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Need U",
-        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
-      },
-      "artists": [
-        {
-          "name": "John Neo",
-          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
-        }
-      ],
-      "duration_ms": 131070,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+      },
+      "artists": [
+        {
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+        }
+      ],
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
     },
     {
       "added_at": "2024-09-14 18:17:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, GloRilla, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,533 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,693 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

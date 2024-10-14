@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 65312,
+  "num_followers": 65357,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -447,50 +463,18 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/0AhtxBg5OU06Lh086URR5c"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -527,6 +511,22 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/0AhtxBg5OU06Lh086URR5c"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -539,30 +539,6 @@
       "duration_ms": 222383,
       "name": "quiero sentirme bien",
       "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -631,6 +607,30 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Fantas\u00eda Pop",
         "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 281933,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 244979,
-      "name": "Otra Era",
-      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 244979,
+      "name": "Otra Era",
+      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "EL ETERNO RETORNO",
+        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "me acostumbro",
+      "url": "https://open.spotify.com/track/5DiyXD2xRkeYmR7oUA4eFD"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -975,38 +991,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "EL ETERNO RETORNO",
-        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
-      },
-      "artists": [
-        {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "me acostumbro",
-      "url": "https://open.spotify.com/track/5DiyXD2xRkeYmR7oUA4eFD"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/7oHG4YB2YjfpnfEPeUtS72"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2024-06-24 20:26:35",

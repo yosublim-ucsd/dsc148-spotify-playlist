@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 9 hr 17 min
+172 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 | 2024-06-13 |  |
 | [Up And Away](https://open.spotify.com/track/3L2MUXAQ2FWM9pH0AZBZvE) | [Banned Of St Trinian's](https://open.spotify.com/artist/3YuNeoJH0vX1OCG5pmO6LU) | [Up And Away](https://open.spotify.com/album/2wfogcpJdLod7mXHGNpgqv) | 3:42 | 2024-06-13 |  |
 | [walk away as the door slams](https://open.spotify.com/track/5jl8wCqKCHCux0uWf3d7O9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [HELLBOY](https://open.spotify.com/album/2XCSTHVFG50wCnWPnkerRh) | 2:40 | 2024-06-13 |  |
+| [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-13 |  |
 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 | 2024-06-13 |  |
 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 | 2024-06-13 |  |
 | [What You Waiting For](https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 4:11 | 2024-06-13 |  |

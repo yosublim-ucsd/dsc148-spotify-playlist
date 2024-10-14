@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La mejor cobija para combatir el frío son estos rolones recién salidos del horno! 😮‍💨👌🔥 Netón Vega, Belinda y Kevin AMF en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,178 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,294 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

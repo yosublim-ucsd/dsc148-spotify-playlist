@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,334 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,390 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,18 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 43 | [Hungover Tehran](https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [Retcon](https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR) | 4:16 |
 | 44 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
 | 45 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 |
-| 46 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
-| 47 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
+| 46 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
+| 47 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 48 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
 | 49 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
 | 50 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
 | 51 | [Cramm](https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2) | [Three Trapped Tigers](https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT) | [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH) | 4:58 |
-| 52 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
-| 53 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
-| 54 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
-| 55 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
-| 56 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
-| 57 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
+| 52 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
+| 53 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
+| 54 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
+| 55 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
+| 56 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
+| 57 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
 | 58 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
 | 59 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
 | 60 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 93 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/71acYyonlfdPHddsxdKuVo) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp) | 4:33 |
 | 94 | [D \- feat\. Tomotaka Tsuji](https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Tomotaka Tsuji](https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2) | [Fraction](https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl) | 4:43 |
 | 95 | [The Barnacle Beach](https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [The Plural Of The Choir](https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8) | 2:45 |
-| 96 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 |
-| 97 | [春雨\(Sampling:陰天\)](https://open.spotify.com/track/05HEYoJAC1qGEtEqWmXUg2) | [大象體操 Elephant Gym](https://open.spotify.com/artist/7p50JxGTkfqPpDj3r3DdRK) | [工作](https://open.spotify.com/album/5eijheCyOXVoRJWJey0Kdq) | 4:26 |
-| 98 | [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 |
-| 99 | [Fifzteen](https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns) | 3:02 |
+| 96 | [春雨\(Sampling:陰天\)](https://open.spotify.com/track/05HEYoJAC1qGEtEqWmXUg2) | [大象體操 Elephant Gym](https://open.spotify.com/artist/7p50JxGTkfqPpDj3r3DdRK) | [工作](https://open.spotify.com/album/5eijheCyOXVoRJWJey0Kdq) | 4:26 |
+| 97 | [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 |
+| 98 | [Fifzteen](https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns) | 3:02 |
+| 99 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 |
 | 100 | [My Only Swerving](https://open.spotify.com/track/7bUGrBJEkLdtCIDYfT5abh) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:14 |
 
 Snapshot ID: `Zuy7PAAAAAA1CFpa7CQ2xs3gV9PTGrWC`

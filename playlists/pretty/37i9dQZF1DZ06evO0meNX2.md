@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This Is Codiciado\. Los temas esenciales, todos en una lista.
+> This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,095 likes - 36 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,126 likes - 36 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 16 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
 | 17 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 18 | [D.M.8.](https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [D.M.8.](https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ) | 4:31 |
-| 19 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 |
-| 20 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
+| 19 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
+| 20 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 |
 | 21 | [Flotando En El Aire](https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu) | 3:04 |
 | 22 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
 | 23 | [Hablen](https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:43 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 35 | [El General](https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El General](https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg) | 3:47 |
 | 36 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 |
 
-Snapshot ID: `ZwhqgAAAAABp6tlOGPTtB6lB5Ey9iX9I`
+Snapshot ID: `Zwm8AAAAAAB/y6GtTfAFxcM0uPS+LfKx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA con Yandel y Tego Calderon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,688,069 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,688,197 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

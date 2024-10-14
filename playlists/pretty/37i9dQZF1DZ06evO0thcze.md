@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 > This Is Neto Peña\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,091 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 2 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 |
 | 3 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 |
 | 4 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 |
-| 5 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
-| 6 | [Sería Un Placer](https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:53 |
+| 5 | [Sería Un Placer](https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:53 |
+| 6 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
 | 7 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 |
 | 8 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 9 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 50 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 | 51 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
 
-Snapshot ID: `ZwhqgAAAAADuayoyA3c+xmOBaqPBQW1G`
+Snapshot ID: `Zwm8AAAAAAD7mfjsNVUc2zmvfIwdtqY8`

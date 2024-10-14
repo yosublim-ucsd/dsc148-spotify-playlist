@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1222145,
+  "num_followers": 1222550,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -515,38 +515,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 230386,
-      "name": "All You Need Is Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1091,6 +1075,22 @@
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1159,18 +1175,34 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+        "name": "The Bang Years 1966-1968 - The 23 Original Mono Recordings",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1203,38 +1235,6 @@
       "duration_ms": 151289,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Bang Years 1966-1968 - The 23 Original Mono Recordings",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Twistin' the Night Away",
-        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Twistin' the Night Away",
-      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Twistin' the Night Away",
+        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Twistin' the Night Away",
+      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Rockin' Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sugar, Sugar",
         "url": "https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 169626,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Rockin' Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Green Onions / Behave Yourself",
         "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 167384,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+      },
+      "artists": [
+        {
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
         "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best of Sam Cooke",
         "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 129061,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2024-07-12 06:11:58",

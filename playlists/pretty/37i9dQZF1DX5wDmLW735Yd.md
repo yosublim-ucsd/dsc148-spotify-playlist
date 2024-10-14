@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, brazy
+> The world's biggest Drum 'n' Bass playlist! Cover: Hybrid Minds at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,719 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,929 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 | 99 | [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 |
 | 100 | [Going Up \(feat\. Ayah Marar\)](https://open.spotify.com/track/5p28zZ4BeefFX1IJ7IEERK) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Going Up \(feat\. Ayah Marar\)](https://open.spotify.com/album/6vcjatAEHBwaELy4icb09Z) | 4:04 |
 
-Snapshot ID: `ZwhccAAAAACmwR7bDcf21JXQOpGY0rJ+`
+Snapshot ID: `ZwvIdQAAAABm34BYk0JPR5XYQaRhUNM4`

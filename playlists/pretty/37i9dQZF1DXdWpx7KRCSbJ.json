@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 333818,
+  "num_followers": 333831,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ela \u00c9 do Tipo",
-        "url": "https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 204930,
-      "name": "Ela \u00c9 do Tipo",
-      "url": "https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 204681,
       "name": "Sinto sua falta - Ao vivo",
       "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Ela \u00c9 do Tipo",
+        "url": "https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 204930,
+      "name": "Ela \u00c9 do Tipo",
+      "url": "https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -127,38 +127,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
-        "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "DJ Yuri Martins",
-          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
-      "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Fuleragem",
         "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
       },
@@ -195,18 +163,34 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo Em Campo Grande",
-        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
+        "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+        "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
         }
       ],
-      "duration_ms": 151826,
-      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
+      "duration_ms": 201532,
+      "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+      "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -227,6 +211,22 @@
       "duration_ms": 207093,
       "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
       "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Ao Vivo Em Campo Grande",
+        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
       },
@@ -327,18 +307,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Acordando o Pr\u00e9dio",
-        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 218467,
-      "name": "Acordando o Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Acordando o Pr\u00e9dio",
+        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 218467,
+      "name": "Acordando o Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "A\u00ed Eu Bebo (ao Vivo)",
         "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
       },
@@ -379,22 +379,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
           "name": "Anitta",
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -435,42 +435,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
       },
       "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
         {
           "name": "Anitta",
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 206270,
-      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -491,6 +471,46 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -571,26 +591,6 @@
       "duration_ms": 228922,
       "name": "Agora Vai Sentar",
       "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Coladinha em Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 139188,
       "name": "Quero Que Tu V\u00e1",
       "url": "https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Depois do Carnaval",
-        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "S\u00f3 Depois do Carnaval",
-      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Permanecer (feat. MC G15)",
         "url": "https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 202521,
       "name": "Permanecer (feat. MC G15)",
       "url": "https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00f3 Depois do Carnaval",
+        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "S\u00f3 Depois do Carnaval",
+      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1295,26 +1295,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixe-Me Ir (Kiko Franco e Woak Remix)",
-        "url": "https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU"
+        "name": "Pirata e tesouro (Ao vivo)",
+        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        },
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 214462,
-      "name": "Deixe-Me Ir - Kiko Franco e Woak Remix",
-      "url": "https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT"
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
     }
   ],
   "unique_name": "Festa na Piscina",

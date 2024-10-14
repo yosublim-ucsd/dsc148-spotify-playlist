@@ -2,9 +2,9 @@
 
 ### [This Is Big Mama Thornton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EuBHZ)
 
-> This is Big Mama Thornton\. The essential tracks, all in one playlist.
+> This Is Big Mama Thornton\. Les titres incontournables, réunis dans une seule et même playlist.
 
-177 songs - 10 hr 3 min
+178 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Just Like a Dog](https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:49 | 2024-01-29 | 2024-04-11 |
 | [Just Like a Dog \(Barking up the Wrong Tree\)](https://open.spotify.com/track/2NdDWHHIXW4LxmCk1mAFMT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:50 | 2023-06-05 | 2023-09-01 |
 | [Just Like a Dog \(Barking up the Wrong Tree\)](https://open.spotify.com/track/6nAJwqA8sE5t3IQOgUHj6y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:50 | 2023-12-13 | 2024-01-30 |
-| [Just Like a Dog Barking the Wrong Tree \- Remastered](https://open.spotify.com/track/1a8bRB0E1roDpD3Fwf08c2) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:44 | 2024-10-13 |  |
+| [Just Like a Dog Barking the Wrong Tree \- Remastered](https://open.spotify.com/track/1a8bRB0E1roDpD3Fwf08c2) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:44 | 2024-10-13 | 2024-10-14 |
 | [Just Like A Dog, Barking Up The Wrong Tree](https://open.spotify.com/track/5kprualteHZKW9pEwrA03O) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:49 | 2023-04-04 |  |
 | [Laugh Laugh Laugh](https://open.spotify.com/track/5BoS5f4x2T4nr8bJm2py4m) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:43 | 2023-03-11 | 2023-05-12 |
 | [Laugh, Laugh, Laugh](https://open.spotify.com/track/0mUHz5vUGvZ7rA8ugwC1gR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:44 | 2024-02-06 | 2024-04-01 |
@@ -157,6 +157,7 @@
 | [The Big Change](https://open.spotify.com/track/3bZBypHEmW6TUx7JVHJ5FB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:44 | 2023-03-27 | 2023-09-01 |
 | [The Big Change](https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:45 | 2022-08-05 | 2022-10-13 |
 | [The Big Change](https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:45 | 2024-01-31 | 2024-06-27 |
+| [The Big Change](https://open.spotify.com/track/7lgOd3o9IF8AVoz5YC5S3j) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:44 | 2024-10-14 |  |
 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 | 2022-08-06 | 2023-09-16 |
 | [The Fish](https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:42 | 2024-02-02 | 2024-06-19 |
 | [The Fish](https://open.spotify.com/track/6kENCwBc90nLx35YKSarEA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:42 | 2024-06-21 | 2024-07-19 |

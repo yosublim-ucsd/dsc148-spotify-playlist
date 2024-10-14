@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 331677,
+  "num_followers": 331669,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/5kfJTiTIFRijBdqqD5b6eh"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
         "name": "Numb Little Bug",
         "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 160650,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -1339,6 +1323,38 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
     },
     {
       "added_at": "2024-10-03 08:24:40",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2024-10-03 08:24:40",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": "2024-10-03 08:24:40",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2024-10-03 08:24:40",
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2024-10-03 08:24:40",

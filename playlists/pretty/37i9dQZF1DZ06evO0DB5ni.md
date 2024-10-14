@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 ### [This Is Julión Álvarez y su Norteño Banda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DB5ni)
 
-> This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
+> This Is Julión Álvarez y su Norteño Banda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,948 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,301 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 |
 | 50 | [El Aferrado](https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:43 |
 
-Snapshot ID: `ZwhqgAAAAAAarBuXgJ1vzrmZ6UH1FyPa`
+Snapshot ID: `Zwm8AAAAAACPqHoqIPoXfCTbsYYOo8D1`

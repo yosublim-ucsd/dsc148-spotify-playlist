@@ -8748,7 +8748,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 282773,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
@@ -18928,7 +18928,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -26276,7 +26276,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 158653,
       "name": "J\u00e1 Ganhou Tan Tan Tan",
       "url": "https://open.spotify.com/track/2VNkclwbYj9GG8cF46BSVK"
@@ -27776,7 +27776,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 109440,
       "name": "life force",
       "url": "https://open.spotify.com/track/6RIguoA2YSb8IgMgjLaYQE"
@@ -32356,6 +32356,24 @@
     {
       "album": {
         "name": "MEOW",
+        "url": "https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
+    },
+    {
+      "album": {
+        "name": "MEOW",
         "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
       },
       "artists": [
@@ -32366,7 +32384,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -32644,7 +32662,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 118990,
       "name": "Meu Prefeito Ele T\u00e1 na Boca do Povo - Remix",
       "url": "https://open.spotify.com/track/0RggrCL7mcYPmOi5E3MnbV"
@@ -44184,6 +44202,28 @@
       "duration_ms": 198000,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/2kwHhz44tvQNedKd0G0ZW6"
+    },
+    {
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
       "album": {

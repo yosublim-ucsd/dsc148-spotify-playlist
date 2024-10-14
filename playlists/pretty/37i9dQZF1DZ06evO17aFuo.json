@@ -1,12 +1,12 @@
 {
-  "description": "This is Megadeth. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 290328,
+  "description": "This Is Megadeth. Los temas esenciales, todos en una lista.",
+  "num_followers": 290372,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABYJiV9jTW2IhJZJrEybfFB",
+  "snapshot_id": "Zwm8AAAAAAArRqCWYPi1Bn2kgoeWie9L",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 217800,
-      "name": "She-Wolf - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
+      "duration_ms": 327040,
+      "name": "Sweating Bullets - Remastered 2004",
+      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Sweating Bullets - Remastered 2004",
-      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+      "duration_ms": 217800,
+      "name": "She-Wolf - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Trust - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Trust - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
     },
     {
       "added_at": null,

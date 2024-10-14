@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 200674,
+  "num_followers": 200726,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACNOGaYdMnsg8F7OmLMdDK4",
+  "snapshot_id": "Zwm8AAAAAACe/T7ZerYr9rZmTL5OnyXP",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
+      "duration_ms": 218946,
+      "name": "We're All To Blame",
+      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 218946,
-      "name": "We're All To Blame",
-      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
+      "duration_ms": 205933,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
     },
     {
       "added_at": null,
@@ -587,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skull Ring",
-        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
       "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Little Know It All",
-      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
+      "duration_ms": 199920,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
       "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 199920,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+      "duration_ms": 213373,
+      "name": "Little Know It All",
+      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 194590,
-      "name": "Fake My Own Death",
-      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
+      "duration_ms": 243098,
+      "name": "Breaking The Chain",
+      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 243098,
-      "name": "Breaking The Chain",
-      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
+      "duration_ms": 194590,
+      "name": "Fake My Own Death",
+      "url": "https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn"
     },
     {
       "added_at": null,

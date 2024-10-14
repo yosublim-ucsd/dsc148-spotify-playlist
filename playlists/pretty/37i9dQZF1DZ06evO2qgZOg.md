@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This Is Skillet\. Los temas esenciales, todos en una lista.
+> This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,114 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,184 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 7 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 |
 | 8 | [All That Matters](https://open.spotify.com/track/1CpRmYozOKinQpQ7SXB4T8) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [All That Matters](https://open.spotify.com/album/5bN0t7gKY1LAYMQJOPAqQt) | 3:27 |
 | 9 | [Awake and Alive](https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:29 |
-| 10 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 10 | [Finish Line](https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:26 |
 | 11 | [Unpopular](https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unpopular](https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4) | 3:05 |
-| 12 | [Back from the Dead](https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:33 |
-| 13 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
-| 14 | [Finish Line](https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:26 |
+| 12 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 13 | [Back from the Dead](https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:33 |
+| 14 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 15 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
 | 16 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 | 17 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Savior](https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 4:33 |
 | 50 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 |
 
-Snapshot ID: `ZwhqgAAAAACc+VAydwnhhxfZQQ3Bzk4K`
+Snapshot ID: `Zwm8AAAAAADZNpbsE/hqPYVhhypLWxTE`

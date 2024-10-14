@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis\. Todos os maiores hits em uma só playlist.
+> This Is Vangelis\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,709 likes - 47 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,719 likes - 47 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 27 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 |
 | 28 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
 | 29 | [Songs of the Seas](https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:12 |
-| 30 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 |
-| 31 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
+| 30 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
+| 31 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 |
 | 32 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 |
 | 33 | [Across the Mountains](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 |
 | 34 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 37 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
 | 38 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 | 39 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
-| 40 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
+| 40 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 |
 | 41 | [Young Alexander](https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 1:35 |
-| 42 | [Celestial Whispers](https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 2:31 |
-| 43 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 |
-| 44 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
-| 45 | [L'ours musicien \- Remastered](https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 1:05 |
-| 46 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 |
+| 42 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
+| 43 | [Celestial Whispers](https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 2:31 |
+| 44 | [L'ours musicien \- Remastered](https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 1:05 |
+| 45 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 |
+| 46 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 47 | [Early Years](https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:32 |
 
-Snapshot ID: `ZwhqgAAAAACpnAGQfIqsfg9JskxdUHY/`
+Snapshot ID: `Zwm8AAAAAADzxlsdkfSlneBOQHUwMJC7`

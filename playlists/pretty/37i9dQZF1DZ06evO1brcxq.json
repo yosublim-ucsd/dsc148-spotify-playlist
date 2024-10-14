@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 130926,
+  "num_followers": 131032,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAQvcQ+R4Mdk0umrxvZJMrv",
+  "snapshot_id": "Zwm8AAAAAAB+8GD1h56qs37rwhaJOaj3",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 121273,
+      "name": "365 featuring shygirl",
+      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -135,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -171,8 +191,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
@@ -180,9 +220,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
     },
     {
       "added_at": null,
@@ -207,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
       "artists": [
         {
@@ -216,9 +256,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+      "duration_ms": 142265,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "added_at": null,
@@ -232,19 +272,19 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 121273,
-      "name": "365 featuring shygirl",
-      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
@@ -252,9 +292,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 142521,
-      "name": "Spring breakers",
-      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": null,
@@ -275,6 +315,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 157366,
+      "name": "Apple featuring the japanese house",
+      "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -284,9 +360,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
       "added_at": null,
@@ -340,13 +416,13 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 174325,
-      "name": "Club classics featuring bb trickz",
-      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
+      "duration_ms": 153387,
+      "name": "B2b featuring tinashe",
+      "url": "https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra"
     },
     {
       "added_at": null,
@@ -360,9 +436,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
     },
     {
       "added_at": null,
@@ -387,66 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "360 featuring robyn and yung lean",
-        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "360 featuring robyn & yung lean",
-      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 203945,
-      "name": "Everything is romantic featuring caroline polachek",
-      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 153526,
-      "name": "Club classics",
-      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -467,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 162921,
+      "name": "Rewind featuring bladee",
+      "url": "https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd"
       },
@@ -479,42 +515,6 @@
       "duration_ms": 169866,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/7982sGZuvo5OXsY6REzgIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 157366,
-      "name": "Apple featuring the japanese house",
-      "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 219470,
-      "name": "Hello goodbye",
-      "url": "https://open.spotify.com/track/7KA5C1c2byqgzCCgdo0nZR"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 219470,
+      "name": "Hello goodbye",
+      "url": "https://open.spotify.com/track/7KA5C1c2byqgzCCgdo0nZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -547,26 +563,6 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "B2b featuring tinashe",
-      "url": "https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra"
     },
     {
       "added_at": null,
@@ -623,26 +619,6 @@
       "duration_ms": 187457,
       "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
       "url": "https://open.spotify.com/track/0GjWvVr7TZzceNwdSDRuXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 162921,
-      "name": "Rewind featuring bladee",
-      "url": "https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP"
     },
     {
       "added_at": null,
@@ -795,46 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop 2",
-        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 326906,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome To My Island (George Daniel & Charli XCX Remix)",
-        "url": "https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "George Daniel",
-          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
-        }
-      ],
-      "duration_ms": 202494,
-      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
-      "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -847,86 +783,6 @@
       "duration_ms": 145840,
       "name": "Used to Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 243672,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151803,
-      "name": "i finally understand",
-      "url": "https://open.spotify.com/track/2PBcNVg8jB1e5kVkjXJyZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "detonate",
-      "url": "https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "anthems",
-      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
     }
   ],
   "unique_name": "This Is Charli xcx",

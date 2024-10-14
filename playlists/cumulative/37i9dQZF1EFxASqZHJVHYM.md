@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 36 min
+120 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2024-01-29 |  |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2024-05-25 |  |
 | [FeRRis WhEEL \(feat\. Trippie Redd\)](https://open.spotify.com/track/0Z1nbG2KOuRKntstSAkSox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LoVE me NOw \(ReLoAdeD\)](https://open.spotify.com/album/0RK6vpJWuCZpNWNdRJ8rpY) | 2:31 | 2024-01-29 |  |
+| [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2024-10-13 |  |
 | [Forever World \(feat\. Trippie Redd\)](https://open.spotify.com/track/1tKvqOrnJ0zhAuFS6yfNTk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 5:01 | 2024-01-29 |  |
 | [Freaky](https://open.spotify.com/track/7EAaSaj1OgZgMX5yZyFXFC) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [LoVE me NOw \(ReLoAdeD\)](https://open.spotify.com/album/0RK6vpJWuCZpNWNdRJ8rpY) | 2:53 | 2024-01-29 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2024-02-24 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Megadeth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
 
-> This is Megadeth\. Todos os maiores hits em uma só playlist.
+> This Is Megadeth\. Los temas esenciales, todos en una lista.
 
 104 songs - 7 hr 13 min
 

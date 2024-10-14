@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 ### [This Is Lefty Sm](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmBVf)
 
-> This Is Lefty Sm\. Los temas esenciales, todos en una lista.
+> This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,467 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,544 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 20 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
 | 21 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
 | 22 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
-| 23 | [Perfume](https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Perfume](https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw) | 4:13 |
-| 24 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
-| 25 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
-| 26 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
+| 23 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
+| 24 | [Perfume](https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Perfume](https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw) | 4:13 |
+| 25 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
+| 26 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
 | 27 | [Mi Jale Vale](https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Jale Vale](https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx) | 2:54 |
 | 28 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:24 |
 | 29 | [Alzypher Vol\. 13](https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Alzypher Vol\. 13](https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82) | 3:51 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 43 | [Todo x Nada](https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Todo x Nada](https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe) | 6:14 |
 | 44 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
 | 45 | [Señorita Licor](https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:37 |
-| 46 | [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 |
-| 47 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
+| 46 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
+| 47 | [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 |
 | 48 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 49 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
 | 50 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 |
 
-Snapshot ID: `ZwhqgAAAAAAlSmM0eueDU2oPWHVnXguG`
+Snapshot ID: `Zwm8AAAAAADwX5rqson6q3IFwV+J0iJu`

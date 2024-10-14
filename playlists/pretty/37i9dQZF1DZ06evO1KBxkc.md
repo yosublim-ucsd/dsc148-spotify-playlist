@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,149 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,160 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 44 | [Foreigner \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:41 |
 | 45 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 | 46 | [Need You Around \(feat\. Fridayy\)](https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:53 |
-| 47 | [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 |
-| 48 | [R&B Shit \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hood Life Krisis Vol\. 3 EP](https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA) | 3:32 |
+| 47 | [R&B Shit \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hood Life Krisis Vol\. 3 EP](https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA) | 3:32 |
+| 48 | [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 |
 | 49 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
 | 50 | [Better Off Alone](https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:19 |
-| 51 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
-| 52 | [Tip Toe \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:05 |
+| 51 | [Tip Toe \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:05 |
+| 52 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
 
-Snapshot ID: `ZwhqgAAAAAAsUL2WKBgxnELj230KOFQt`
+Snapshot ID: `Zwm8AAAAAAA8qY4say8IHwx49kB7QcnT`

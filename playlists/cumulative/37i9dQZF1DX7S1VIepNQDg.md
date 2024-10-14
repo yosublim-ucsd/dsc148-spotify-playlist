@@ -4,7 +4,7 @@
 
 > Got that summertime feeling 🌴
 
-89 songs - 4 hr 52 min
+90 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-11-23 |  |
 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-11-23 |  |
 | [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 | 2023-11-23 |  |
+| [Need U](https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Need U](https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT) | 3:22 | 2023-12-19 |  |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2023-11-23 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-11-23 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-11-23 |  |
@@ -87,7 +88,7 @@
 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 | 2023-12-19 |  |
 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 | 2023-12-19 |  |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-11-23 |  |
-| [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 | 2023-12-19 |  |
+| [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 | 2023-12-19 | 2024-10-14 |
 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 | 2023-11-23 |  |
 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 | 2023-11-23 |  |
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-11-23 |  |

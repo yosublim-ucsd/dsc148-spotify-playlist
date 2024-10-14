@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 753737,
+  "num_followers": 753756,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "PELIGROSA",
-        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 134930,
-      "name": "PELIGROSA",
-      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "PELIGROSA",
+        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 134930,
+      "name": "PELIGROSA",
+      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -383,6 +383,26 @@
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -423,26 +443,6 @@
       "duration_ms": 209493,
       "name": "Ella Me Levanto",
       "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "APAGA EL CEL",
-        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 184806,
-      "name": "APAGA EL CEL",
-      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
@@ -575,46 +595,6 @@
       "duration_ms": 224120,
       "name": "OTRA NOCHE",
       "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "YOTULOKO",
-        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 213699,
-      "name": "YOTULOKO",
-      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "1000COSAS",
-        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "1000COSAS",
-      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -679,6 +659,26 @@
       "duration_ms": 208133,
       "name": "X'CLUSIVO - REMIX",
       "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "YOTULOKO",
+        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213699,
+      "name": "YOTULOKO",
+      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1027,22 +1027,26 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1067,26 +1071,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 169677,
+      "name": "A Un Paso De La Luna",
+      "url": "https://open.spotify.com/track/1vNYb4aLINWNy0plIsLQeX"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 169677,
-      "name": "A Un Paso De La Luna",
-      "url": "https://open.spotify.com/track/1vNYb4aLINWNy0plIsLQeX"
     },
     {
       "added_at": "2024-09-02 07:47:14",

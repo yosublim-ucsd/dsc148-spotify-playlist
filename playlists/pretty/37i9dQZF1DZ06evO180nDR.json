@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
-  "num_followers": 31260,
+  "num_followers": 31287,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABuSMbpFCETsh1q3Qqr9bRz",
+  "snapshot_id": "Zwm8AAAAAABtnZshtDyLxSy+dxDcKBtz",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bola De Corrientes",
-        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 219697,
-      "name": "Bola De Corrientes",
-      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Virgencita",
         "url": "https://open.spotify.com/album/6kkPDjyWenV0Ai1hVFOrRn"
       },
@@ -823,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Plebada (En Vivo)",
-        "url": "https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq"
+        "name": "Bola De Corrientes",
+        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 218259,
-      "name": "La Plebada (En Vivo)",
-      "url": "https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4"
+      "duration_ms": 219697,
+      "name": "Bola De Corrientes",
+      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 234973,
       "name": "Arrinc\u00f3namela",
       "url": "https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Plebada (En Vivo)",
+        "url": "https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218259,
+      "name": "La Plebada (En Vivo)",
+      "url": "https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cache",
         "url": "https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 197491,
       "name": "El Cache",
       "url": "https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "El Jabali - Huapango Version",
-      "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
@@ -999,22 +983,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },
       "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+      "duration_ms": 175840,
+      "name": "El Jabali - Huapango Version",
+      "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Avioneta",
+        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "La Avioneta",
+      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
     }
   ],
   "unique_name": "This Is Los Dareyes De La Sierra",

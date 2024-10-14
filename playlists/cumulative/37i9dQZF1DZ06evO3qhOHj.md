@@ -2,7 +2,7 @@
 
 ### [This Is Mr\. Big](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
 
-> This is Mr\. Big\. The essential tracks, all in one playlist.
+> This is Mr\. Big\. Todos os maiores hits em uma só playlist.
 
 71 songs - 4 hr 51 min
 
@@ -58,7 +58,7 @@
 | [Stranger In My Life](https://open.spotify.com/track/6k7tDVwJiU2yFHycB90LN2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:25 | 2023-12-29 | 2024-06-04 |
 | [Strike Like Lightning \- Remastered](https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Greatest Hits](https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi) | 3:42 | 2023-12-13 |  |
 | [Suffocation](https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:42 | 2023-12-13 |  |
-| [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 | 2024-07-15 | 2024-10-01 |
+| [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 | 2024-07-15 |  |
 | [Superfantastic](https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 3:43 | 2023-12-13 |  |
 | [Take A Walk \- 2009 Remastered Version](https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:57 | 2023-12-13 |  |
 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 | 2023-12-13 |  |
@@ -75,7 +75,7 @@
 | [Wake Up](https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:44 | 2023-12-13 |  |
 | [What Were You Thinking](https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:18 | 2024-07-15 |  |
 | [Where Are They Now?](https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 4:22 | 2023-12-13 |  |
-| [Who We Are](https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:52 | 2024-07-15 |  |
+| [Who We Are](https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:52 | 2024-07-15 | 2024-10-14 |
 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 | 2023-12-13 |  |
 | [Wind Me Up \- 2023 Remastered](https://open.spotify.com/track/6PoBOeLWOOB8DHPQ4RKf8Y) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:10 | 2024-03-05 | 2024-03-13 |
 | [You Don't Have to Be Strong \- Remastered Version](https://open.spotify.com/track/2fEWmr3cr5A00CFd6NaKNP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 5:06 | 2023-12-13 |  |

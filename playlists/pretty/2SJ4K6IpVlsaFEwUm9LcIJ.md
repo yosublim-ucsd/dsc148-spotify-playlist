@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,731 likes - 47 songs - 2 hr 45 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,734 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 45 | [Rounded](https://open.spotify.com/track/1nmvQPoa895Ix8DLtvM0W7) | [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Rounded](https://open.spotify.com/album/7teCjVkvFEvhnLBp2V2AfO) | 5:43 |
 | 46 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 |
 | 47 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 |
+| 48 | [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 |
 
-Snapshot ID: `AAALLMZBDv4OOHIhExjPoZuFCmOOf4Zf`
+Snapshot ID: `AAALLabUTc7McyxRE43MfXjU75jghKlv`

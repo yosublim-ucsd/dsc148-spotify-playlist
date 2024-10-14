@@ -2,7 +2,7 @@
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is Björk\. Todos os maiores hits em uma só playlist.
+> This Is Björk\. Los temas esenciales, todos en una lista.
 
 143 songs - 10 hr 13 min
 

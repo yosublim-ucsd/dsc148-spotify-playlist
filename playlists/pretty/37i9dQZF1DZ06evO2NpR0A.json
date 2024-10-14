@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 264935,
+  "num_followers": 265051,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABLy6/UX3J1loIOHsDgzFjw",
+  "snapshot_id": "Zwm8AAAAAABLHu/NCc/ne8qV/BH6iP1x",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": null,
@@ -219,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Weird Goodbyes (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
     },
     {
       "added_at": null,
@@ -287,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Starlite!",
         "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 188336,
       "name": "Friends (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AUATC",
         "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 142125,
       "name": "AUATC",
       "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Was The Night (Red Hot Compilation)",
         "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 242933,
       "name": "Brackett, WI",
       "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "715 - CR\u2211\u2211KS",
-      "url": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PDLIF",
         "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 177285,
       "name": "PDLIF",
       "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "715 - CR\u2211\u2211KS",
+      "url": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Valley",
+        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 163403,
+      "name": "On Wrong Side (with Bon Iver)",
+      "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 283613,
       "name": "Babys",
       "url": "https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Valley",
-        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
-      },
-      "artists": [
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "On Wrong Side (with Bon Iver)",
-      "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
     },
     {
       "added_at": null,

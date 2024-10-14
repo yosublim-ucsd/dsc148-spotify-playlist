@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 162936,
+  "num_followers": 162981,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "L'attrape-r\u00eaves",
-        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Il est o\u00f9 le bonheur",
-      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -507,18 +491,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Un jour, je",
-        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
       "artists": [
         {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 165557,
-      "name": "Un jour je marierai un ange",
-      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -535,6 +519,22 @@
       "duration_ms": 159186,
       "name": "Divine idylle",
       "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Un jour, je",
+        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -795,34 +795,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 254453,
       "name": "Week-end \u00e0 Rome",
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -907,22 +907,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 201138,
-      "name": "Call on me - feat. Ed Sheeran",
-      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -951,18 +947,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+      "duration_ms": 201138,
+      "name": "Call on me - feat. Ed Sheeran",
+      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Je Dis Aime",
+        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Je dis aime",
+      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "G\u00e9ant",
         "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Je Dis Aime",
-        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
       "artists": [
         {
-          "name": "-M-",
-          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Je dis aime",
-      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
       },
       "artists": [
         {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Dis-Moi Encore Que Tu M'Aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
+        "name": "A l'envers",
+        "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
       },
       "artists": [
         {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
         }
       ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
+      "duration_ms": 349293,
+      "name": "Il suffira d'un signe",
+      "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 196506,
       "name": "Tout savoir",
       "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "A l'envers",
-        "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 349293,
-      "name": "Il suffira d'un signe",
-      "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
     },
     {
       "added_at": "2024-05-23 22:00:00",

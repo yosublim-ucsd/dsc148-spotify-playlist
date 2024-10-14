@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\. Kapak: Dedublüman x Can Kazaz
 
-81 songs - 4 hr 5 min
+83 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2024-07-02 |  |
 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 | 2024-08-08 |  |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-15 |  |
-| [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2024-07-02 |  |
+| [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2024-07-02 | 2024-10-14 |
 | [Gör Bak](https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB) | [Fatih Bulut](https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G), [Elmas](https://open.spotify.com/artist/7G5tUGKHqDFfyxsCnzE2jd) | [Gör Bak](https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm) | 3:38 | 2024-08-08 | 2024-09-08 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 |  |
 | [ILTIMAS X SUBMARINER](https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [ILTIMAS X SUBMARINER](https://open.spotify.com/album/43yjmZvIXU6NjFoMul1Uw2) | 3:01 | 2024-07-02 |  |
@@ -51,8 +51,9 @@
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-15 |  |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-07-02 |  |
 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-07-02 | 2024-09-07 |
-| [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 | 2024-07-02 |  |
+| [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 | 2024-07-02 | 2024-10-14 |
 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 | 2024-09-05 | 2024-10-08 |
+| [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-10 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-07-02 |  |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-07-02 | 2024-08-09 |
 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 | 2024-07-02 |  |
@@ -85,6 +86,7 @@
 | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/track/1mJiGkr8Ydci5TTLisVVer) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ) | 2:38 | 2024-07-02 | 2024-07-24 |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-07-02 | 2024-10-03 |
 | [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-07-02 |  |
+| [Zalim \(Ellerine Sağlık\) \- Remastered](https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn) | 4:06 | 2024-10-10 |  |
 | [ZAR ZOR](https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [DANS](https://open.spotify.com/album/2IoW1Qu0zuMSgzUZyUUZYC) | 3:23 | 2024-07-02 | 2024-07-17 |
 | [ÇÖZEMEZLER](https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:10 | 2024-10-02 |  |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-07-23 |  |

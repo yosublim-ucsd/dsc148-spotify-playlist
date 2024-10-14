@@ -1,12 +1,12 @@
 {
-  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 311287,
+  "description": "This is Jimi Hendrix. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 311343,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABIZZa2nTW+ad/G49svZHDd",
+  "snapshot_id": "Zwm8AAAAAAACbCR2Yn8Q17d4sqpSPHfC",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Astro Man - Takes 9 & 10",
-      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
+      "duration_ms": 106213,
+      "name": "Farther Up the Road",
+      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 106213,
-      "name": "Farther Up the Road",
-      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
+      "duration_ms": 171973,
+      "name": "Astro Man - Takes 9 & 10",
+      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel (Take 7)",
-        "url": "https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Angel - Take 7",
-      "url": "https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 104973,
       "name": "Villanova Junction Blues",
       "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel (Take 7)",
+        "url": "https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Angel - Take 7",
+      "url": "https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 58253,
-      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 364626,
       "name": "Hey Baby (New Rising Sun)",
       "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 58253,
+      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 114133,
-      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Groovy Children: The Fillmore East Concerts",
         "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 533680,
       "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 114133,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
     },
     {
       "added_at": null,

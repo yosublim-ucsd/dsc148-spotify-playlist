@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,121 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,129 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 6 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
 | 7 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
 | 8 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 |
-| 9 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
-| 10 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 9 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 10 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 11 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
 | 12 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 13 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 39 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
 | 40 | [SHINE](https://open.spotify.com/track/6oU1Dtkowgpb6BxImOo2ep) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Rewrite](https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid) | 2:47 |
 | 41 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
-| 42 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
-| 43 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
+| 42 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
+| 43 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 44 | [By Your Side \(feat\. Ashley Alisha\)](https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Me and U](https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6) | 2:53 |
 | 45 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 |
 | 46 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |

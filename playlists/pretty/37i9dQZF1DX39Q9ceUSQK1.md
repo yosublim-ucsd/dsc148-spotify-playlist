@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,788 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,796 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 33 | [The Cause](https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [The First Exit](https://open.spotify.com/album/7rFOgNWw2iOOCpIPbxQo8c) | 3:43 |
 | 34 | [Happiness Suits You](https://open.spotify.com/track/1QNEAJeLGRHd4OnzmdWriF) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Happiness Suits You](https://open.spotify.com/album/4Zvm6rKeITRqsV3xHlTb1L) | 3:13 |
 | 35 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 |
-| 36 | [I Wrote The Book](https://open.spotify.com/track/6NXlrPg8FBTXQqcNpifiCP) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [I Wrote The Book](https://open.spotify.com/album/6zELfsY0SfLnQpWZKiuBkv) | 3:15 |
+| 36 | [I Wrote the Book](https://open.spotify.com/track/6NXlrPg8FBTXQqcNpifiCP) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [I Wrote The Book](https://open.spotify.com/album/6zELfsY0SfLnQpWZKiuBkv) | 3:15 |
 | 37 | [Giants](https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Giants](https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF) | 3:41 |
 | 38 | [All Threes](https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 5:24 |
 | 39 | [Tiny Tears](https://open.spotify.com/track/0m9i9RHKwLKUYaUYLC6ENk) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Tiny Tears](https://open.spotify.com/album/4QcyTQC84yloOslmljuBjc) | 4:19 |

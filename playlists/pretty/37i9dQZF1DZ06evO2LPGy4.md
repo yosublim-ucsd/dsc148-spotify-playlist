@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 ### [This Is Gerardo Ortiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LPGy4)
 
-> This is Gerardo Ortiz\. The essential tracks, all in one playlist.
+> This Is Gerardo Ortiz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,752 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,806 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 11 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 |
 | 12 | [Para Qué Lastimarme](https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:55 |
 | 13 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
-| 14 | [El Mundo Es Tuyo \(En Vivo\)](https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:07 |
-| 15 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
+| 14 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
+| 15 | [El Mundo Es Tuyo \(En Vivo\)](https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:07 |
 | 16 | [Perdóname](https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:20 |
 | 17 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
 | 18 | [El Jefe F](https://open.spotify.com/track/5rsHIUAqXwAsckL3eLvC9D) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Y Lo Que Falta](https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0) | 3:29 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 41 | [Arre Pues](https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:17 |
 | 42 | [El Aroma de Tu Piel](https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
 | 43 | [Mono Verde](https://open.spotify.com/track/4ME4N9vRZvk29ICuNunlHk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:02 |
-| 44 | [14 Guerras \(En Vivo\)](https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:44 |
-| 45 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
+| 44 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
+| 45 | [14 Guerras \(En Vivo\)](https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:44 |
 | 46 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 |
 | 47 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
-| 48 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
-| 49 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
-| 50 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
+| 48 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
+| 49 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
+| 50 | [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 |
 
-Snapshot ID: `ZwhqgAAAAADM+8bKE2+hyypid0dh45Ha`
+Snapshot ID: `Zwm8AAAAAADB7I2AttCjwOwgpBafI3e+`

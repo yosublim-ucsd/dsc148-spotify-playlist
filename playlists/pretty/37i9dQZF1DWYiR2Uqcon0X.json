@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 726211,
+  "num_followers": 726230,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Carry on, San Vicente",
         "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Love You To Death",
-        "url": "https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv"
-      },
-      "artists": [
-        {
-          "name": "Chord Overstreet",
-          "url": "https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0"
-        }
-      ],
-      "duration_ms": 199459,
-      "name": "Love You To Death",
-      "url": "https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 206986,
       "name": "MARILYN",
       "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv"
+      },
+      "artists": [
+        {
+          "name": "Chord Overstreet",
+          "url": "https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0"
+        }
+      ],
+      "duration_ms": 199459,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 158960,
-      "name": "Cheap Suit",
-      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
         }
       ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+      "duration_ms": 158960,
+      "name": "Cheap Suit",
+      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Wild Honey",
+        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Wild Honey",
+      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Think About It",
         "url": "https://open.spotify.com/album/3i8tWI30TAqLDO7FLpqRTq"
       },
@@ -751,34 +751,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Oh, Mother",
-        "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 247948,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Wild Honey",
-        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Wild Honey",
-      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+        "name": "Oh, Mother",
+        "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
       },
       "artists": [
         {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+      "duration_ms": 247948,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "It Don't Work Like That",
-        "url": "https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2"
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
       "artists": [
         {
-          "name": "Kenny Foster",
-          "url": "https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4"
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
         }
       ],
-      "duration_ms": 181524,
-      "name": "It Don't Work Like That",
-      "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -891,6 +875,22 @@
       "duration_ms": 227661,
       "name": "War",
       "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "It Don't Work Like That",
+        "url": "https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Foster",
+          "url": "https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4"
+        }
+      ],
+      "duration_ms": 181524,
+      "name": "It Don't Work Like That",
+      "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Back My Way",
+        "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
+      },
+      "artists": [
+        {
+          "name": "Joey Greer",
+          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
+        }
+      ],
+      "duration_ms": 224966,
+      "name": "Yesterday - live",
+      "url": "https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1119,22 +1135,6 @@
       "duration_ms": 199594,
       "name": "I Ain't Ever Loved No One - Acoustic",
       "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Back My Way",
-        "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
-      },
-      "artists": [
-        {
-          "name": "Joey Greer",
-          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
-        }
-      ],
-      "duration_ms": 224966,
-      "name": "Yesterday - live",
-      "url": "https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1167,22 +1167,6 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1231,6 +1215,22 @@
       "duration_ms": 211293,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Without A Word",
+        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
     }
   ],
   "unique_name": "Country Coffeehouse",

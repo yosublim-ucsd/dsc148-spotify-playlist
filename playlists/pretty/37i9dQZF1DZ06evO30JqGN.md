@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,432 likes - 42 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,491 likes - 42 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 22 | [BP](https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:49 |
 | 23 | [Anna Mae](https://open.spotify.com/track/09OeD94T28n7ku4RqPa6wZ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:17 |
 | 24 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
-| 25 | [Session 33](https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:07 |
+| 25 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 |
 | 26 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 27 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
 | 28 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
-| 29 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 |
+| 29 | [Session 33](https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:07 |
 | 30 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 | 31 | [Drunk Dialing...LODT](https://open.spotify.com/track/0pzWCDSuVRX7m95EFOxVa0) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:14 |
 | 32 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 41 | [Wasted](https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR](https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY) | 2:34 |
 | 42 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `ZwhqgAAAAAAyuhneX52PgmGnwDmSo1fl`
+Snapshot ID: `Zwm8AAAAAACjiCyK97Pwvhcd+qQdF5w5`

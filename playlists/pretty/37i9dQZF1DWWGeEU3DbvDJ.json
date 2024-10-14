@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs return with a fresh award show format and performances from the artists who dominated the year in music. Watch the 2023 Billboard Music Awards on November 19! Cover: KAROL G\n\n",
-  "num_followers": 75943,
+  "num_followers": 75942,
   "original_name": "2023 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,38 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -263,6 +295,30 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -275,38 +331,6 @@
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -331,30 +355,6 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -655,26 +655,6 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -731,6 +711,26 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2023-11-13 18:20:27",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
-    },
-    {
-      "added_at": "2023-11-13 18:20:27",
-      "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2023-11-13 18:20:27",

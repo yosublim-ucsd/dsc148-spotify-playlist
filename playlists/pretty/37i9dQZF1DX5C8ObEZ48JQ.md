@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=FueqiOBhQoS3REISrR8ajQ">KindlyNxsh</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,899 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,909 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

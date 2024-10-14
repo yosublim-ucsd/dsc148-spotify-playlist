@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is Charles Ans\. The essential tracks, all in one playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,706 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,737 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 36 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
 | 37 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 38 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
-| 39 | [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 |
-| 40 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 39 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 40 | [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 |
 | 41 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
 | 42 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 | 43 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [¿Dónde Estarás?](https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [¿Dónde Estarás?](https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL) | 3:24 |
 | 51 | [ALGO BIEN](https://open.spotify.com/track/77jU7HYCU4jQUPIGqqNS5e) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [ALGO BIEN](https://open.spotify.com/album/0jDAxF4M0RxVNM5JUJCiwX) | 4:31 |
 
-Snapshot ID: `ZwhqgAAAAADGPentWqSyYKgaw+k30lIz`
+Snapshot ID: `Zwm8AAAAAAB3PqWMkMUm0ZAGklsUTDKb`

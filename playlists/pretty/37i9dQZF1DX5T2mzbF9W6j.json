@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110268,
+  "num_followers": 110263,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-10-07 08:37:51",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "added_at": "2024-10-07 08:37:51",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2024-10-07 08:37:51",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 163228,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
       "added_at": "2024-10-07 08:37:51",

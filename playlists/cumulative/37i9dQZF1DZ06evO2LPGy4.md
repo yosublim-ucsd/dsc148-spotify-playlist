@@ -2,7 +2,7 @@
 
 ### [This Is Gerardo Ortiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LPGy4)
 
-> This is Gerardo Ortiz\. The essential tracks, all in one playlist.
+> This Is Gerardo Ortiz\. Los temas esenciales, todos en una lista.
 
 80 songs - 3 hr 51 min
 
@@ -12,7 +12,7 @@
 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 | 2023-12-13 | 2024-06-30 |
 | [A La Moda](https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:06 | 2023-08-08 |  |
 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 | 2023-08-08 |  |
-| [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 | 2023-09-18 | 2024-10-11 |
+| [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 | 2023-09-18 |  |
 | [Amado Carrillo](https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Amado Carrillo](https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE) | 2:59 | 2024-06-30 |  |
 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 | 2023-08-08 |  |
 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 | 2023-08-08 |  |
@@ -53,7 +53,7 @@
 | [Escuela de rancho \- En Vivo](https://open.spotify.com/track/29CUZN81Hjnn6wf6F6KYQg) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Escuela de rancho \(En Vivo\)](https://open.spotify.com/album/3PbdSYSoTRS2R0x4NcjgWx) | 3:24 | 2023-08-08 | 2023-12-15 |
 | [Estilo Sinaloa](https://open.spotify.com/track/3EtubqAbWJoVFg65iT7HlI) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Estilo Sinaloa](https://open.spotify.com/album/1bN6vo9qSj5Kw4KN0uTYZ3) | 4:28 | 2023-08-08 | 2023-08-26 |
 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 | 2023-08-08 |  |
-| [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 | 2023-10-10 |  |
+| [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 | 2023-10-10 | 2024-10-14 |
 | [Gente del Nini](https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Gente del Nini](https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8) | 3:31 | 2023-08-08 | 2023-10-11 |
 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 | 2024-02-15 | 2024-06-30 |
 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 | 2023-08-08 |  |

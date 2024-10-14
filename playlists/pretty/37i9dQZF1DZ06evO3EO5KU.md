@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This Is Los Plebes del Rancho de Ariel Camacho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,736 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,771 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 39 | [11 + 11](https://open.spotify.com/track/2YwUKXOwzoVhgSDZ5XzCjU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [11 + 11](https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21) | 3:16 |
 | 40 | [El Güero Colorado](https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:39 |
 | 41 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
-| 42 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
-| 43 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 42 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 43 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
 | 44 | [El Mencho \- En Vivo](https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \- En Vivo](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 2:49 |
 | 45 | [Bola de Cristal](https://open.spotify.com/track/5lKY5UvsHitVG5Ne9YNmIo) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 |
 | 46 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2 \- En Vivo](https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 50 | [El Karma](https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM) | 3:30 |
 | 51 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/4gs5pXylnZPLUYCMYFS2d8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \- En Vivo](https://open.spotify.com/album/7yWJEyGI8np0d7cuCPQATG) | 3:36 |
 
-Snapshot ID: `ZwhqgAAAAADZxKztrdHBXJYL9jWQsFuz`
+Snapshot ID: `Zwm8AAAAAAAEvNpEAw+xLvzA3v5lsM1S`

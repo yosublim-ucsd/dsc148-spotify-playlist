@@ -1,12 +1,12 @@
 {
-  "description": "This Is Larkin Poe. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 28686,
+  "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
+  "num_followers": 28694,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAS8AXZleEdCmsK2hX3VP0B",
+  "snapshot_id": "Zwm8AAAAAACWnSyadq9xtYnQ3+TQdP+E",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electrified",
-        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "One and Lonely",
-      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electrified",
+        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "One and Lonely",
+      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
     },
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Comfort (Trap Remix)",
-        "url": "https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Southern Comfort (Trap Remix)",
-      "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
     },
     {
       "added_at": null,
@@ -711,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Comfort (Trap Remix)",
+        "url": "https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Southern Comfort (Trap Remix)",
+      "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 287643,
       "name": "I Shall Be Released (feat. Larkin Poe)",
       "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This Is Pedro Capó\. Los temas esenciales, todos en una lista.
+> This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,063 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,077 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 15 | [5 y 3](https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:34 |
 | 16 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
 | 17 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
-| 18 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 |
+| 18 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
 | 19 | [Una Vez Más](https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:08 |
-| 20 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
+| 20 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 |
 | 21 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 |
 | 22 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
 | 23 | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe) | 3:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 51 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 |
 | 52 | [Jíbaro](https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:09 |
 
-Snapshot ID: `ZwhqgAAAAAAWVpIyv2snVYAqy1qa9zYj`
+Snapshot ID: `Zwm8AAAAAADKOwhClHNeW6Ghg0RRWLMf`

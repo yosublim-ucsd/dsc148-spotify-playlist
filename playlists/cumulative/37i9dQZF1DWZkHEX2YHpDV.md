@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: Winona Fighter
 
-1,295 songs - 2 day 20 hr 25 min
+1,296 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Can't Let You Back In](https://open.spotify.com/track/1PvYrRcJ7iyYPvzVlt98IW) | [Victory Lane](https://open.spotify.com/artist/56TexoheCRrAi15dxTQbIF) | [Can't Let You Back In](https://open.spotify.com/album/6V9sZP8Q7CIw1DqDZ7cVGv) | 3:18 | 2022-03-25 | 2022-04-05 |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-08-12 | 2024-10-12 |
 | [can't you tell](https://open.spotify.com/track/5XuFg634Y5vAAEG2ZI7Tti) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [can't you tell](https://open.spotify.com/album/4HhwrYw5v5HXDntSsdxwVS) | 2:28 | 2024-08-12 |  |
-| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-19 |  |
+| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-19 | 2024-10-14 |
 | [Care](https://open.spotify.com/track/73XEi2vkcuHWF2m9wiOfbu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 4:25 | 2022-02-04 | 2022-04-16 |
 | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/track/5gZEWg5YT9fZHyw7sAH4o3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/album/0AQ8Eo8necD9pcFSce4qNd) | 3:00 | 2021-12-10 | 2022-07-25 |
 | [caroline](https://open.spotify.com/track/2WxB1yMEPUPAILo8BdEUFa) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [caroline](https://open.spotify.com/album/6KuCBVE5ZYTJxbge7Twwel) | 2:47 | 2022-04-01 | 2022-04-06 |
@@ -1230,6 +1230,7 @@
 | [Weight of the World](https://open.spotify.com/track/7bnMtIotDJUzjLVqIQlGbn) | [Valencia](https://open.spotify.com/artist/44Ga8DsScroKWAkQAJ1GwE) | [Dancing with a Ghost \(10 Year Deluxe Jawn\)](https://open.spotify.com/album/0nHb28utBa47g1oyLRuXFs) | 3:33 | 2021-12-10 | 2022-06-06 |
 | [Well I Hope Ur Happy](https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Hell Is A Teenage Girl](https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ) | 3:04 | 2023-12-08 | 2024-01-20 |
 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-12-10 | 2022-04-24 |
+| [What A Beautiful World](https://open.spotify.com/track/4jvwEfzC53hUfkkvHBHPmQ) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What A Beautiful World](https://open.spotify.com/album/4vKrz215FZhmjZKcSzjuiz) | 3:10 | 2024-10-11 |  |
 | [What Do You Gotta Lose?](https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [What Do You Gotta Lose?](https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra) | 3:41 | 2021-12-10 | 2022-07-25 |
 | [What Hurts the Most](https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [What Hurts the Most](https://open.spotify.com/album/78JT0gQD3Ff5p7ixbxzgdw) | 3:25 | 2023-04-23 | 2023-07-09 |
 | [What Hurts the Most](https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 3:25 | 2023-06-09 | 2024-04-19 |

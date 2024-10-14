@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,735 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,690 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 36 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 |
 | 37 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 38 | [Rock DJ](https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 |
-| 39 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
+| 39 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
 | 40 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 |
-| 41 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
+| 41 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
 | 42 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 |
 | 43 | [Dance with Me Tonight](https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 |
 | 44 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |

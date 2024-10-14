@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt?si=5x3tFQTzQ7acIMkaTkBBqA">Nomfundo Xaluva</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,775 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,804 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
+| 1 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
 | 2 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
 | 3 | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/track/6i6zDNV7uXaJ8Xx6MAZgh0) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa), [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Andreas Tschopp](https://open.spotify.com/artist/7jG1a4U2gfpRRx85QwoiYF), [Marc Stucki](https://open.spotify.com/artist/308i8WRYChjLk9ALZP4W8H) | [Light Cycle / Vang Gou Die Strandloper \- Live](https://open.spotify.com/album/3tVoyRG5DZwoJ7i0mDROCr) | 9:16 |
 | 4 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |

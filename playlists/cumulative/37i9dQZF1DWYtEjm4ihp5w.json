@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 267428,
       "name": "3A9EL",
       "url": "https://open.spotify.com/track/3kbQeJnwvrhxKS9CExZlSI"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 199384,
       "name": "KECHMARRA",
       "url": "https://open.spotify.com/track/3zKWIsLZr1dwmFCM1LKxX5"
@@ -2516,6 +2516,28 @@
       "duration_ms": 198261,
       "name": "Khelliha Ghada",
       "url": "https://open.spotify.com/track/3XKJx7CJIW1gFyIoSMlAT2"
+    },
+    {
+      "album": {
+        "name": "Moroccan Dream",
+        "url": "https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "KIKI",
+      "url": "https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ"
     },
     {
       "album": {
@@ -4034,6 +4056,24 @@
       "duration_ms": 179937,
       "name": "Pyramid",
       "url": "https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ"
+    },
+    {
+      "album": {
+        "name": "Qader",
+        "url": "https://open.spotify.com/album/1Z8pry6BfVllxxBdijTzuD"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Qader",
+      "url": "https://open.spotify.com/track/4rysZbYRckVcxnrK9vsHyq"
     },
     {
       "album": {

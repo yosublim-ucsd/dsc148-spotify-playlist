@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 896736,
+  "num_followers": 896907,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACiPVW0fQ69xphiuPJbU4lc",
+  "snapshot_id": "Zwm8AAAAAAAAEdveYDKDE9sZVFIV+nic",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 142640,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR"
+      "duration_ms": 200786,
+      "name": "Stickz N Stonez",
+      "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-169 songs - 9 hr 53 min
+172 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Fawran Gharam](https://open.spotify.com/track/4MbO1D7I7tRoL3HmCLffJa) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fawran Gharam](https://open.spotify.com/album/0G7WPxTsjvPtbNBe4jqyUx) | 3:14 | 2022-05-04 | 2022-07-17 |
 | [Fi El Alb Mkanak](https://open.spotify.com/track/7dFLwFVL39DouieWjW9VBA) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Fi El Alb Mkanak](https://open.spotify.com/album/3BhJFjCQJ44kzPLJ3YpUi2) | 2:01 | 2022-05-04 | 2023-03-14 |
 | [Fi Hada](https://open.spotify.com/track/5zVJCIdTu3TTJ7wmPEW7in) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1pkn5htK7BJJ5Mw7QB3kVp) | 3:39 | 2022-05-04 | 2023-03-14 |
+| [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 | 2024-10-13 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-05-04 | 2023-03-14 |
 | [Ghazaleh](https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ghazaleh](https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9) | 2:35 | 2023-05-19 | 2024-03-01 |
 | [Habibi W Bass](https://open.spotify.com/track/3MlkSBkCiEQ9TpRFnxywba) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 4:08 | 2023-06-28 |  |
@@ -98,6 +99,7 @@
 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 | 2024-04-23 |  |
 | [Ma Tarakna](https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS) | [Saif safadi](https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74) | [Ma Tarakna](https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1) | 3:18 | 2023-03-13 | 2024-10-13 |
 | [Madi Aswad](https://open.spotify.com/track/24IyeYzwIGXWBtqqxQ5Kde) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Madi Aswad](https://open.spotify.com/album/2ZiZGls3VjAKzK7Ga1ZBtw) | 3:17 | 2022-05-04 | 2022-07-17 |
+| [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 | 2024-10-13 |  |
 | [Manni Wafi](https://open.spotify.com/track/1OoXeFPjwzsszgrFbF6NgP) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shayfa Feek](https://open.spotify.com/album/5VI4sFVYovAJdrWWOA1LHX) | 3:00 | 2024-03-11 | 2024-10-13 |
 | [Men Nazra](https://open.spotify.com/track/03IOx6TU8DU7p7TwLPdjI2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Men Nazra](https://open.spotify.com/album/3gQgJqfwjhLlSVwRe4elqK) | 2:52 | 2024-10-12 |  |
 | [Meshkeltak Alwahidi](https://open.spotify.com/track/061AcUASLoR0lEU3xksHHC) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Meshkeltak Alwahidi](https://open.spotify.com/album/5gLEBMsAR43OJSqiG6j2Uc) | 3:22 | 2022-05-04 | 2022-07-17 |
@@ -119,10 +121,11 @@
 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 | 2024-02-19 |  |
 | [Saet Ramel](https://open.spotify.com/track/1w7gIItudYNNhP6Aq07oPA) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Saet Ramel](https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ) | 3:39 | 2022-06-20 | 2023-07-28 |
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2022-05-04 | 2022-07-17 |
-| [Sandooq](https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sandooq](https://open.spotify.com/album/64jn4SURcFj7jaySPuN7cm) | 5:44 | 2024-02-09 | 2024-10-13 |
-| [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-07-25 |  |
+| [Sandooq](https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sandooq](https://open.spotify.com/album/64jn4SURcFj7jaySPuN7cm) | 5:44 | 2024-02-09 |  |
+| [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-07-25 | 2024-10-14 |
 | [Shou Badi 3ed Bzalat](https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Shou Badi 3ed Bzalat](https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5) | 2:39 | 2023-03-22 | 2024-10-09 |
 | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/track/554c9cCoZ0jRhHxgiMCraE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [Wessam Qutob](https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2) | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu) | 2:38 | 2022-05-17 | 2023-05-20 |
+| [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2024-10-13 |  |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 | 2023-03-14 |
 | [Tigi Netjawaz Bilser](https://open.spotify.com/track/14lf86kzJWv7QXp0zCpYPF) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [Tigi Netjawaz Bilser](https://open.spotify.com/album/6ZMkHd8mFGFx2XFL5WNXmE) | 8:55 | 2023-06-28 | 2024-02-17 |
 | [TiTi](https://open.spotify.com/track/4LoPkMbA7F5byELSc0MAKs) | [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [TiTi](https://open.spotify.com/album/79fKBMc13jQkrxJ9aQJeUj) | 3:17 | 2022-07-04 | 2023-05-06 |

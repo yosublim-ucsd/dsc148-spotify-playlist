@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 149552,
+  "num_followers": 149591,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAIPUVAieHgV3Hg5hVhuNpM",
+  "snapshot_id": "Zwm8AAAAAABCaxii8UF3cch1n3iiqo5N",
   "tracks": [
     {
       "added_at": null,
@@ -1287,22 +1287,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 1",
-        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Alton Eugene",
-          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 139593,
-      "name": "Doxology (feat. Alton Eugene)",
-      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
     }
   ],
   "unique_name": "This Is Maverick City Music",

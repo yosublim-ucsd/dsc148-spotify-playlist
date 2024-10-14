@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 45,098 likes - 122 songs - 13 hr 9 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 45,120 likes - 122 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

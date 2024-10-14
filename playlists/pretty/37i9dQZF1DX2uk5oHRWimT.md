@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,972 likes - 137 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,971 likes - 137 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 60 | [Snow](https://open.spotify.com/track/2Dx7CbP88KSx88nmvXHARg) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/7JBhb8SSKqeTMWsSytyfJA) | 3:38 |
 | 61 | [How I Know It's Christmas \- Acoustic Piano](https://open.spotify.com/track/44bnKOB8Ztbo8IRTVQQ3hH) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [How I Know It's Christmas with the Rte Concert Orchestra](https://open.spotify.com/album/7chkHHKHVlrMJqmOLiWIJd) | 3:47 |
 | 62 | [White Winter Hymnal](https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 2:27 |
-| 63 | [I'll Be Home for Christmas](https://open.spotify.com/track/1zqh3B4hRI5drtx37X4xL1) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [I'll Be Home for Christmas](https://open.spotify.com/album/7IZhOD3iTWldFW4NkHPuHK) | 1:53 |
+| 63 | [I'll Be Home for Christmas](https://open.spotify.com/track/1zqh3B4hRI5drtx37X4xL1) | [Kathleen](https://open.spotify.com/artist/1XeD4OPFkBYzRI0GC4HPei) | [I'll Be Home for Christmas](https://open.spotify.com/album/7IZhOD3iTWldFW4NkHPuHK) | 1:53 |
 | 64 | [Goodbye England \(Covered In Snow\)](https://open.spotify.com/track/4rFBPLritEDq6XE93cNxtT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/10n9G3FTHGbaz8QchmGXmR) | 3:45 |
 | 65 | [Home For The Season](https://open.spotify.com/track/5T5FkiC6rR5G6853YPeIZj) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 4:13 |
 | 66 | [Winter Coat](https://open.spotify.com/track/5Kv80rWYShQUkU5EVJn9Ie) | [Dark Dark Dark](https://open.spotify.com/artist/3UORxcctdWi6drku1qOrol) | [The Snow Magic](https://open.spotify.com/album/0VZjUz54o270nx7j3RbBYl) | 3:01 |

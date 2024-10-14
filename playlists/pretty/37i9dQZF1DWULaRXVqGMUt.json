@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 53804,
+  "num_followers": 53840,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Country Man",
-        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Boogie Woogie Country Man",
-      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Raisin' A Ruckus",
         "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
       },
@@ -155,22 +139,6 @@
       "duration_ms": 218626,
       "name": "Pauly's Birthday Boogie",
       "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Two-Fisted Mama",
-      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -231,6 +199,38 @@
       "duration_ms": 212453,
       "name": "E-Flat Flyer",
       "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Two-Fisted Mama",
+      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie Country Man",
+        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Boogie Woogie Country Man",
+      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Blues Kingpin",
+        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "Boogie Woogie Baby",
+      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Let's Have A Party! (The Aladdin Recordings)",
         "url": "https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Blues Kingpin",
-        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "Boogie Woogie Baby",
-      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Flip, Flop And Fly 1951-1955",
-        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 159853,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -895,6 +879,22 @@
       "duration_ms": 125320,
       "name": "Boogie Woogie Prayer",
       "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Flip, Flop And Fly 1951-1955",
+        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie & Blues",
         "url": "https://open.spotify.com/album/2iNiNSnPYpT3zNFEbWvRvL"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 165619,
       "name": "Twelfth St. Boogie",
       "url": "https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Dreaming The Blues: The Best Of Charlie Spand",
+        "url": "https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Spand",
+          "url": "https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Hastings St.",
+      "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

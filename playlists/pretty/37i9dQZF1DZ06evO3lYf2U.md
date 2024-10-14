@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,767 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,866 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 24 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 | 25 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 26 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
-| 27 | [Khabib](https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:21 |
+| 27 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
 | 28 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
 | 29 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
 | 30 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
-| 31 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
+| 31 | [Khabib](https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:21 |
 | 32 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 33 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
 | 34 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/1JeLx7sGn3LzHLwCzd6swY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx) | 4:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 48 | [Crypto Price](https://open.spotify.com/track/0GlNBy7uuYyc8zvr4grPVS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:58 |
 | 49 | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/track/57fle7Lnf7lOXNf76r2x6C) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/album/0fV9Q0CVKecmGnN6hA2OTC) | 3:15 |
 
-Snapshot ID: `ZwhqgAAAAAAhE7IGt2GshdAzA1y127l/`
+Snapshot ID: `Zwm8AAAAAAD8SwNJD/dDkI4PSbVxihiO`

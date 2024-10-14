@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=hLU63GlGSKGIsxdKFSPg\_Q>Omojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,722 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,776 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

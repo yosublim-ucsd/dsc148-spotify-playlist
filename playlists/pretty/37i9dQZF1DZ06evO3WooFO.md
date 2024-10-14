@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,068 likes - 42 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,113 likes - 42 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 41 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
 | 42 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
 
-Snapshot ID: `ZwhqgAAAAAAGyuQTgBtZ5ZB5tQxxBpHi`
+Snapshot ID: `Zwm8AAAAAABIVbQrBruDMz9Gz7Co82Ax`

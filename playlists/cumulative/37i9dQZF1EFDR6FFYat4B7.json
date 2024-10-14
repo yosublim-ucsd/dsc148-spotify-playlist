@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j"
+    },
+    {
+      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,055 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,080 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 8 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
 | 9 | [Bang!](https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Bang!](https://open.spotify.com/album/6Rjw6loSBCxD0Laj1WR6uh) | 3:15 |
 | 10 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
-| 11 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
+| 11 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 12 | [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 |
-| 13 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
+| 13 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 14 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 15 | [WAHALA \(Stressed\)](https://open.spotify.com/track/14JmQapOfMzE13SP7OeAfP) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [WAHALA \(Stressed\)](https://open.spotify.com/album/05L6FePvgnL7hYRMaMeWjd) | 3:55 |
 | 16 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 24 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 25 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 26 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
-| 27 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 |
-| 28 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 27 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
+| 28 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 |
 | 29 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 |
 | 30 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 |
 | 31 | [Water](https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Water](https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml) | 2:29 |
 | 32 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 33 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
 | 34 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
-| 35 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
-| 36 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 35 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 36 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 | 37 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 38 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 39 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 41 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
 | 42 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 | 43 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
-| 44 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 45 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
+| 44 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
+| 45 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 46 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
 | 47 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 |
 | 48 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 |

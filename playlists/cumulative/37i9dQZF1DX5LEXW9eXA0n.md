@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: LEE CHANGSUB\(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,316 songs - 3 day 13 hr 9 min
+1,318 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Just hug me](https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Just hug me](https://open.spotify.com/album/5DeM0LUxSOmfXQzBedDA2F) | 3:22 | 2021-12-20 | 2022-06-29 |
 | [Just Leave Me](https://open.spotify.com/track/5ThV0PXVkkkw74WsjVrjYU) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1EAuKZNnt6SEwmzKNDNW0M) | 4:19 | 2022-03-29 | 2022-04-20 |
 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 | 2022-07-26 | 2022-10-27 |
+| [Karaoke](https://open.spotify.com/track/79tpcoJe0n5uKGPXCq8TGM) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Karaoke](https://open.spotify.com/album/3xkzWatd2eyaTR6wiyBB7i) | 3:21 | 2024-10-14 |  |
 | [Knock](https://open.spotify.com/track/0xhykBkGxhVf2trGATsAfA) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 01](https://open.spotify.com/album/30bYSVfQCQ8sozUnbEsFrh) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Korean Ballad](https://open.spotify.com/track/6dXt2gwVdumUj1pFEyGg6w) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:43 | 2023-02-28 | 2023-06-23 |
@@ -767,6 +768,7 @@
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-20 | 2023-03-28 |
 | [My youth](https://open.spotify.com/track/1GZZoTydki5t72adhHXhWy) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [My youth](https://open.spotify.com/album/0GEEiwJ0lUgI049OnjHBJB) | 3:11 | 2023-09-07 | 2023-11-03 |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
+| [Nameless](https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Jang Hye\-Jin](https://open.spotify.com/artist/2vG3ydmgAksU2M1qIE89Bo) | [Nameless](https://open.spotify.com/album/6fA8MmZ0GQO8RP0zsX85gb) | 4:43 | 2024-10-14 |  |
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-14 | 2023-08-25 |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |

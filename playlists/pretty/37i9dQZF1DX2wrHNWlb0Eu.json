@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 111033,
+  "num_followers": 111056,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
-      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 227000,
       "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e22\u0e2d\u0e21 (Surrender)",
         "url": "https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
-        "url": "https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK"
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
       },
       "artists": [
         {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
         }
       ],
-      "duration_ms": 223000,
-      "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j"
+      "duration_ms": 248250,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -191,38 +207,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
       },
@@ -235,22 +219,6 @@
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
-        "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
-      },
-      "artists": [
-        {
-          "name": "sarah salola",
-          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
-      "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -271,18 +239,18 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
+        "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
       },
       "artists": [
         {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
         }
       ],
-      "duration_ms": 246923,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+      "duration_ms": 197250,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
+      "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -299,6 +267,38 @@
       "duration_ms": 257566,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
       "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 246923,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
-        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 216114,
-      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
-      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "\u0e40\u0e21\u0e30",
         "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186000,
       "name": "\u0e40\u0e21\u0e30",
       "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
+        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 216114,
+      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
+      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3"
+      },
+      "artists": [
+        {
+          "name": "\u0e1e\u0e31\u0e14 Vorapat",
+          "url": "https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8"
+        },
+        {
+          "name": "First Anuwat",
+          "url": "https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny"
+        }
+      ],
+      "duration_ms": 155862,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 212500,
       "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3"
-      },
-      "artists": [
-        {
-          "name": "\u0e1e\u0e31\u0e14 Vorapat",
-          "url": "https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8"
-        },
-        {
-          "name": "First Anuwat",
-          "url": "https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny"
-        }
-      ],
-      "duration_ms": 155862,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
-        "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
-      "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
+        "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
         }
       ],
-      "duration_ms": 259721,
-      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+      "duration_ms": 207000,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
+      "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1199,6 +1183,22 @@
       "duration_ms": 213230,
       "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 259721,
+      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1255,6 +1255,22 @@
       "duration_ms": 215485,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
       "url": "https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1319,22 +1335,6 @@
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
-      },
-      "artists": [
-        {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
+        "name": "\u0e01\u0e25\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k"
       },
       "artists": [
         {
-          "name": "The 38 Years Ago",
-          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
+          "name": "Tony Phee",
+          "url": "https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN"
         }
       ],
-      "duration_ms": 210598,
-      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+      "duration_ms": 292640,
+      "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
+      "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

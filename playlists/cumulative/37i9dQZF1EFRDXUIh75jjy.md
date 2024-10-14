@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-206 songs - 10 hr 41 min
+207 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2024-06-07 |  |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-08-16 |  |
 | [bored](https://open.spotify.com/track/4J1O1ERHhqtkOfdF9L6zyG) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:56 | 2024-06-07 |  |
-| [Born Again](https://open.spotify.com/track/3wGNSWkpft5lctELOmsYjT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/1LePNsLHPGuEGBzCUPtlUg) | 2:36 | 2024-10-12 |  |
+| [Born Again](https://open.spotify.com/track/3wGNSWkpft5lctELOmsYjT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/1LePNsLHPGuEGBzCUPtlUg) | 2:36 | 2024-10-12 | 2024-10-14 |
+| [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 | 2024-10-13 |  |
 | [Breathe Easy](https://open.spotify.com/track/2iZks8KE7VceyhmfLAxC0d) | [Timothy James Bowen](https://open.spotify.com/artist/1RbbOX8wvGXfEJ9yFqIxM5) | [Steel & Wood](https://open.spotify.com/album/3oxktdCfpj1tbzELUmu1kf) | 4:24 | 2024-06-07 |  |
 | [BRIGHT LIGHTS](https://open.spotify.com/track/40SjNGa1n34Yw0ViAvM6D0) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [BRIGHT LIGHTS](https://open.spotify.com/album/0BFGBjU9udtF025t21EZUV) | 3:02 | 2024-06-07 |  |
 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 | 2024-06-07 |  |

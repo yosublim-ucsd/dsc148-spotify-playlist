@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,881 likes - 150 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,998 likes - 150 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 105 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
 | 106 | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Edward Artemyev](https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K) | 3:00 |
 | 107 | [The Business, Pt\. II](https://open.spotify.com/track/0SZPXD0uEl72YjUVY2K3E9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Business, Pt\. II](https://open.spotify.com/album/2E5YkarkawdVYhDaoygvih) | 2:44 |
-| 108 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
+| 108 | [NAZARENO](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [NAZARENO](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
 | 109 | [Innadadance \(feat\. Suli Breaks & Jazzie B\) \[Meduza Remix\] \- Edit](https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck), [Jazzie B.](https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Innadadance \(feat\. Suli Breaks & Jazzie B\) \[Meduza Remix\] \[Edit\]](https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w) | 3:11 |
 | 110 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 111 | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(feat\. Lanie Gardner\)](https://open.spotify.com/album/4gj29oc0vz1qPuosvrkt8B) | 3:24 |

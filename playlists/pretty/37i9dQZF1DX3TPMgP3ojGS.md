@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,728 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,914 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 41 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 |
 | 42 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 |
 | 43 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 |
-| 44 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
-| 45 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
+| 44 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
+| 45 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
 | 46 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
 | 47 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \- Piano Version](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 48 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 |
@@ -80,15 +80,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 70 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 | 71 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 72 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
-| 73 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 74 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
+| 73 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
+| 74 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
 | 75 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
 | 76 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 77 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
-| 78 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
-| 79 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
-| 80 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
-| 81 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
+| 78 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
+| 79 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
+| 80 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
+| 81 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 82 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 |
 | 83 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
 | 84 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 89 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 |
 | 90 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
 | 91 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
-| 92 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 93 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
+| 92 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
+| 93 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
 | 94 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 95 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 96 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |

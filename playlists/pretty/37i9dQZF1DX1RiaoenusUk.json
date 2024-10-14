@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28166,
+  "num_followers": 28180,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -203,38 +203,34 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
     },
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+        "name": "Eco (feat. Funky Torinos)",
+        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
         }
       ],
-      "duration_ms": 222333,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+      "duration_ms": 286080,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -255,18 +251,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Eco (feat. Funky Torinos)",
-        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
+      "duration_ms": 222333,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 261613,
-      "name": "Funkybar\u00edtico",
-      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "En Una",
         "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 249731,
       "name": "En Una",
       "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 261613,
+      "name": "Funkybar\u00edtico",
+      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Por el Funk",
-        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
-      },
-      "artists": [
-        {
-          "name": "Dostrescinco",
-          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Por el Funk",
-      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Sr. A",
         "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 213750,
       "name": "S\u00fabete",
       "url": "https://open.spotify.com/track/7DhJiiZcX2DYMpq1f5vZBa"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Por el Funk",
+        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
+      },
+      "artists": [
+        {
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Por el Funk",
+      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Vos No",
         "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
       },
@@ -663,6 +679,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Especies",
         "url": "https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7"
       },
@@ -679,22 +711,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Chicas on Fire - Single",
         "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
@@ -991,6 +975,38 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Sudamericano",
+        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Sudamericano",
-        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
       "artists": [
         {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
       "artists": [
         {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
         }
       ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
       "artists": [
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
         }
       ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1203,6 +1187,22 @@
       "duration_ms": 272373,
       "name": "Todo Atr\u00e1s",
       "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "No la Ves",
         "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 259553,
       "name": "No la Ves",
       "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
-      },
-      "artists": [
-        {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
-        }
-      ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Amor Inocente",
         "url": "https://open.spotify.com/album/7pWtehv340syIcZaXSZclR"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 227931,
       "name": "Amor Inocente",
       "url": "https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+      },
+      "artists": [
+        {
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+        }
+      ],
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 227822,
-      "name": "Carin\u0303oso Calificativo",
-      "url": "https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Polvo C\u00f3smico (Remix)",
         "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 227822,
+      "name": "Carin\u0303oso Calificativo",
+      "url": "https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU"
     },
     {
       "added_at": "2024-08-26 13:43:56",

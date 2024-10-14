@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 ### [This Is Gabriela Rocha](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tUcRG)
 
-> This is Gabriela Rocha\. Todos os maiores hits em uma só playlist.
+> This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,910 likes - 52 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,932 likes - 52 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 4 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 |
 | 5 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 | 6 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 |
-| 7 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 |
-| 8 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 |
+| 7 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 |
+| 8 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 |
 | 9 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 |
 | 10 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
 | 11 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 15 | [Diz](https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 4:35 |
 | 16 | [Eu Navegarei](https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:49 |
 | 17 | [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:43 |
-| 18 | [Creio Que Tu És a Cura](https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Creio Que Tu És a Cura](https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6) | 5:51 |
-| 19 | [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \- Acústico](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 |
+| 18 | [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \- Acústico](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 |
+| 19 | [Creio Que Tu És a Cura](https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Creio Que Tu És a Cura](https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6) | 5:51 |
 | 20 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 21 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
 | 22 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 38 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 39 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 |
 | 40 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
-| 41 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 |
-| 42 | [Believe For It](https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It](https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz) | 5:38 |
+| 41 | [Believe For It](https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It](https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz) | 5:38 |
+| 42 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 |
 | 43 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
 | 44 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 |
 | 45 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 51 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 |
 | 52 | [Me Aproximou \- Ao Vivo](https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 5:16 |
 
-Snapshot ID: `ZwhqgAAAAACR5mCRH1mmyl/76J0OM75+`
+Snapshot ID: `Zwm8AAAAAAD/j9ARa5b6fl3RQlkG3Pkd`

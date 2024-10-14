@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553519,
+  "num_followers": 553525,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
@@ -315,62 +339,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "The Kids Are Coming",
-        "url": "https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "The Kids Are Coming",
+        "url": "https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -687,30 +687,6 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -823,6 +799,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Believers",
-        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 159077,
-      "name": "Believers",
-      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -911,6 +891,26 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Believers",
+        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 159077,
+      "name": "Believers",
+      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1175,6 +1199,30 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Nah (feat. Sinead Harnett)",
+        "url": "https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 169779,
+      "name": "Nah (feat. Sinead Harnett)",
+      "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1203,50 +1251,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
+        "name": "Bend The Knee",
+        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 177804,
-      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Nah (feat. Sinead Harnett)",
-        "url": "https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 169779,
-      "name": "Nah (feat. Sinead Harnett)",
-      "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
+      "duration_ms": 187402,
+      "name": "Bend The Knee",
+      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1291,30 +1315,6 @@
       "duration_ms": 193320,
       "name": "Right Into You",
       "url": "https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Bend The Knee",
-        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "Bend The Knee",
-      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Wake Up With You",
+        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Wake Up With You",
+      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "2 Die 4",
         "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 214906,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Wake Up With You",
-        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Magnificence",
-          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Wake Up With You",
-      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1595,6 +1595,34 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 238245,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "New Love (feat. Ellie Goulding)",
         "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
       },
@@ -1639,34 +1667,6 @@
       "duration_ms": 168491,
       "name": "Waiting for the Summer",
       "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 238245,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
     },
     {
       "added_at": "2024-06-26 02:03:12",

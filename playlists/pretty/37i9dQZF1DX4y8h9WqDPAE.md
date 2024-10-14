@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Jordan Ward & Joony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,645 likes - 178 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,592 likes - 178 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This Is Lamb of God\. Los temas esenciales, todos en una lista.
+> This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,097 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,113 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 3 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 |
 | 4 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 |
 | 5 | [Walk with Me In Hell](https://open.spotify.com/track/0Aq5S8Did22z1YrpO7MJIG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 5:11 |
-| 6 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 |
-| 7 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 |
+| 6 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 |
+| 7 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 |
 | 8 | [Ghost Walking](https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 4:30 |
 | 9 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 |
 | 10 | [Omertá](https://open.spotify.com/track/2Sy5OyM3D8TL797lj8VmQx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 |
 | 50 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
 
-Snapshot ID: `ZwhqgAAAAABz2zc58E8odo8ISwey+KtQ`
+Snapshot ID: `Zwm8AAAAAACxuNOIhcKm7EI5h4SpYS5c`

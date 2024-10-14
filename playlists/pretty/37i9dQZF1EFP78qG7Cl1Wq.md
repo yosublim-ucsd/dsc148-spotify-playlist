@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 223 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,074 likes - 223 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 13 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
 | 14 | [Glad You Exist](https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:24 |
 | 15 | [BO$$](https://open.spotify.com/track/1EtU16em39vcCVMx2mGpHq) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:51 |
-| 16 | [My Everything](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \- Deluxe](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 2:48 |
+| 16 | [My Everything](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 2:48 |
 | 17 | [make up](https://open.spotify.com/track/27356GVuMPFWiJSZCragoM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:20 |
 | 18 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 19 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 222 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 223 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbenSgAAAABtPg7AmBMMe4gMokVQXpg1`
+Snapshot ID: `Abes6gAAAAAJkgcV/FjX4Lm6uJjHAJ+f`

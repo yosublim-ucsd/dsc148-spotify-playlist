@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: Mariana Bfly.",
-  "num_followers": 13716,
+  "num_followers": 13723,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
+        "name": "anubi extra\u00f1a a ra",
+        "url": "https://open.spotify.com/album/6IyAGW0j09alsGYeZGHHd7"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "duendes y hadas",
+      "url": "https://open.spotify.com/track/6AhVA1tZ9N2BD91PZpVyTM"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
         "name": "DIABLO",
         "url": "https://open.spotify.com/album/2pV89AMcDndsgPlTmHD1p6"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 170050,
       "name": "DIABLO",
       "url": "https://open.spotify.com/track/1A4BLT4teAWuLw7XGkuY7O"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
-        "name": "anubi extra\u00f1a a ra",
-        "url": "https://open.spotify.com/album/6IyAGW0j09alsGYeZGHHd7"
-      },
-      "artists": [
-        {
-          "name": "KUINA",
-          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
-        },
-        {
-          "name": "Viangogh",
-          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "duendes y hadas",
-      "url": "https://open.spotify.com/track/6AhVA1tZ9N2BD91PZpVyTM"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
-        "name": "BBY H\u00c1BLAME",
-        "url": "https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 210682,
-      "name": "BBY H\u00c1BLAME",
-      "url": "https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
         "name": "4Life",
         "url": "https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 124705,
       "name": "ICONIC PERRA",
       "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
+        "name": "BBY H\u00c1BLAME",
+        "url": "https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 210682,
+      "name": "BBY H\u00c1BLAME",
+      "url": "https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
+        "name": "La Favorita de Dios",
+        "url": "https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "La Favorita de Dios",
+      "url": "https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
         "name": "Bossma nova",
         "url": "https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 199467,
       "name": "Ox\u00edgeno",
       "url": "https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
-        "name": "La Favorita de Dios",
-        "url": "https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 134579,
-      "name": "La Favorita de Dios",
-      "url": "https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
-        "name": "...M\u00e1s Canciones De Amor",
-        "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 184104,
-      "name": "Te Solt\u00e9",
-      "url": "https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
         "name": "Un Recuerdo",
         "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 196624,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
+        "name": "...M\u00e1s Canciones De Amor",
+        "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 184104,
+      "name": "Te Solt\u00e9",
+      "url": "https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO"
     }
   ],
   "unique_name": "EQUAL Chile",

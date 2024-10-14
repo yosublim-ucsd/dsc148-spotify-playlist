@@ -1,6 +1,6 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 103702,
+  "num_followers": 103703,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
-        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
-      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164545,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 175461,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
         "name": "TOO COOL TO BE CARELESS",
         "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
       },
@@ -803,22 +787,6 @@
       "duration_ms": 220046,
       "name": "TOO COOL TO BE CARELESS",
       "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
-    },
-    {
-      "added_at": "2024-10-03 15:00:00",
-      "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2024-10-03 15:00:00",
@@ -839,18 +807,50 @@
     {
       "added_at": "2024-10-03 15:00:00",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+      "duration_ms": 175461,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
+    },
+    {
+      "added_at": "2024-10-03 15:00:00",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     }
   ],
   "unique_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",

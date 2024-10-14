@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Zuka(\uc8fc\uce74)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238291,
+  "num_followers": 238295,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 163886,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "minisode 3: TOMORROW",
-        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 163886,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 226160,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "Open \u266deta v6.3",
-        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 218042,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 218042,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -627,38 +627,6 @@
       "duration_ms": 200543,
       "name": "Growing Pain",
       "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "MOTH",
-        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
-      },
-      "artists": [
-        {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
-        }
-      ],
-      "duration_ms": 154003,
-      "name": "Phase Me",
-      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "ASTERUM : The Shape of Things to Come",
-        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "The 6th Summer",
-      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -679,6 +647,22 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "MOTH",
+        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "duration_ms": 154003,
+      "name": "Phase Me",
+      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 244986,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "ASTERUM : The Shape of Things to Come",
+        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "The 6th Summer",
+      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "Open \u266deta v6.4",
         "url": "https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "ENTITY",
-        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
-      },
-      "artists": [
-        {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "ASTERUM",
-        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 231986,
-      "name": "Wait for you",
-      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -799,22 +799,6 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -847,6 +831,22 @@
       "duration_ms": 235175,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "ASTERUM",
+        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Wait for you",
+      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "HATE XX",
         "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
       },
@@ -979,6 +963,38 @@
       "duration_ms": 181013,
       "name": "Hate Rodrigo (Feat. YUQI)",
       "url": "https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+        "name": "1st Single Album 'Harmony from Discord'",
+        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+      "duration_ms": 167800,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "1st Single Album 'Harmony from Discord'",
-        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 167800,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "Troubleshooting",
+        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
         "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
       },
@@ -1299,38 +1315,6 @@
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "Troubleshooting",
-        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "better (with you)",
-        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
-      },
-      "artists": [
-        {
-          "name": "Crying City",
-          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "better (with you)",
-      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "ONLY LOVERS LEFT",
         "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
       },
@@ -1399,6 +1367,38 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
+        "name": "better (with you)",
+        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "better (with you)",
+      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
         "name": "Self-Portrait - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 229626,
       "name": "Let\u2019s Love",
       "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "dried flower",
-        "url": "https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "dried flower",
-      "url": "https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "Peanut Butter & Tears",
         "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
@@ -1511,18 +1479,18 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "[VillainS]",
-        "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
+        "name": "dried flower",
+        "url": "https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 176570,
-      "name": "OOTD",
-      "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
+      "duration_ms": 215250,
+      "name": "dried flower",
+      "url": "https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1543,18 +1511,34 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "[VillainS]",
+        "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 176570,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1571,6 +1555,22 @@
       "duration_ms": 251293,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     },
     {
       "added_at": "2024-10-11 05:17:17",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-11 05:17:17",
       "album": {
-        "name": "light",
-        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225949,
-      "name": "light",
-      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
-    },
-    {
-      "added_at": "2024-10-11 05:17:17",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ"
+    },
+    {
+      "added_at": "2024-10-11 05:17:17",
+      "album": {
+        "name": "1st Single Album 'Harmony from Discord'",
+        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Harmony of Stars",
+      "url": "https://open.spotify.com/track/1b2jcwnf3JwuyWiG3xTPsp"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

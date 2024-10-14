@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 84646,
+  "num_followers": 84764,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 229853,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "People Everywhere (Still Alive)",
-      "url": "https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Getz/Gilberto - Expanded Edition",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 256560,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "People Everywhere (Still Alive)",
+      "url": "https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
-      },
-      "artists": [
-        {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
-        }
-      ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Untitled (Rise)",
         "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
       "artists": [
         {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
         }
       ],
-      "duration_ms": 176599,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+      "duration_ms": 123000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "YoSoyMatt (feat. Hermanu)",
         "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Blood Milk Moon",
-        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 177852,
-      "name": "Blood Milk Moon",
-      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+      "duration_ms": 176599,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
     },
     {
       "added_at": "2024-10-04 17:28:20",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92255,
+  "num_followers": 92259,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -391,38 +391,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Don't Blame It On Me",
-        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Don't Blame It On Me",
-      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -443,18 +411,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 210687,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -475,6 +443,38 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Truck Still Works",
         "url": "https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 212954,
       "name": "Truck Still Works",
       "url": "https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Country Song Came On",
         "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 234652,
       "name": "Country Song Came On",
       "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Home (Truckstops and Airports)",
         "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 222864,
       "name": "Home (Truckstops and Airports)",
       "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Ljusare moln",
         "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 223241,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -1163,6 +1143,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 223241,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 172166,
       "name": "Ge En Sol",
       "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "No More Blues",
+      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 335207,
       "name": "Valet",
       "url": "https://open.spotify.com/track/0RrUetfG2Msa9FNaP4IWAj"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+        "name": "Tar det upp i topp",
+        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
       },
       "artists": [
         {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
         }
       ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
+      "duration_ms": 169200,
+      "name": "Tar det upp i topp",
+      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -1363,22 +1395,6 @@
       "duration_ms": 157240,
       "name": "All Day",
       "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Tar det upp i topp",
-        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Tar det upp i topp",
-      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
-      },
-      "artists": [
-        {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
-        }
-      ],
-      "duration_ms": 210568,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Passa dig",
         "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
       },
@@ -1435,34 +1435,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
         }
       ],
-      "duration_ms": 346133,
-      "name": "No More Blues",
-      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
-      },
-      "artists": [
-        {
-          "name": "Lexi Berg",
-          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
+      "duration_ms": 210568,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 286146,
       "name": "Jag beh\u00f6ver dig",
       "url": "https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
+      },
+      "artists": [
+        {
+          "name": "Lexi Berg",
+          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     }
   ],
   "unique_name": "Aktuellt",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 161958,
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "num_followers": 161976,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAD/Dm3VFgLUzHlKtYZ2h3mZ",
+  "snapshot_id": "Zwm8AAAAAAC8OLfn1Zw9E+xkWmlMeIUE",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+        "name": "fome",
+        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
         },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+      "duration_ms": 198920,
+      "name": "fome",
+      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "fome",
-        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
       "artists": [
         {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 198920,
-      "name": "fome",
-      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
       "added_at": null,

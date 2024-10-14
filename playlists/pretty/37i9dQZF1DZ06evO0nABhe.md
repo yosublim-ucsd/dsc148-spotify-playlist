@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,121 likes - 39 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,123 likes - 39 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 38 | [Taste the Poison](https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:43 |
 | 39 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 
-Snapshot ID: `ZwhqgAAAAACW6q459Ka9CO+Dc13buT+i`
+Snapshot ID: `Zwm8AAAAAACWABCk8JWJF8lXkaPPaafB`

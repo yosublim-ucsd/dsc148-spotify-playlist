@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 357706,
+  "num_followers": 357729,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAACYGEjG2TPW6PTFLy6lqsn",
+  "snapshot_id": "Zwm8AAAAAAB3meD9U57ywNzoUON7+h6/",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backless",
         "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 181226,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "Don White",
+          "url": "https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G"
         }
       ],
-      "duration_ms": 249440,
-      "name": "Heads in Georgia",
-      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+      "duration_ms": 317320,
+      "name": "Sensitive Kind",
+      "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Don White",
-          "url": "https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G"
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 317320,
-      "name": "Sensitive Kind",
-      "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
+      "duration_ms": 249440,
+      "name": "Heads in Georgia",
+      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -952,13 +952,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+      "duration_ms": 139373,
+      "name": "Rock And Roll Records",
+      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
     },
     {
       "added_at": null,

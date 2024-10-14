@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Trash Boat",
-  "num_followers": 371482,
+  "num_followers": 371551,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,38 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "they\u2019re all around us",
+        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "they\u2019re all around us",
+      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "7 Minutes in Hell",
         "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
       },
@@ -639,22 +671,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 230909,
       "name": "Feel Me Now",
       "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Over Me",
-        "url": "https://open.spotify.com/album/04PTDZhbNjTFTEKgd1ejfq"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 181402,
-      "name": "Over Me",
-      "url": "https://open.spotify.com/track/4xGudlD8tKwVOZyevYyljd"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "The Death Card",
         "url": "https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 194445,
       "name": "Chains (The Tower)",
       "url": "https://open.spotify.com/track/158lKbSQmYwxDU9rQpN11R"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Over Me",
+        "url": "https://open.spotify.com/album/04PTDZhbNjTFTEKgd1ejfq"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 181402,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/4xGudlD8tKwVOZyevYyljd"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 185569,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Demon or Ghost (feat. Underoath)",
         "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 215813,
       "name": "Demon or Ghost (feat. Underoath)",
       "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Losing Faith",
-        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 185569,
-      "name": "Losing Faith",
-      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Skin & Bones",
-        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Skin & Bones",
-      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 213600,
       "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Skin & Bones",
+        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Skin & Bones",
+      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/3V8wl5gn1hXGQQC4SgbuA1"
+        "name": "Hell Is Empty",
+        "url": "https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11"
       },
       "artists": [
         {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        },
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 194319,
-      "name": "Perfect World",
-      "url": "https://open.spotify.com/track/2OONxixmK7wbUvPbzw0Uwy"
+      "duration_ms": 177676,
+      "name": "Hell Is Empty",
+      "url": "https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1279,6 +1275,26 @@
       "duration_ms": 218600,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/3V8wl5gn1hXGQQC4SgbuA1"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        },
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 194319,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/2OONxixmK7wbUvPbzw0Uwy"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Night Terror",
+        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 361130,
+      "name": "Night Terror - Radio Edit",
+      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -1415,26 +1447,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Optimist (feat. Conquer Divide)",
-        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        },
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "The Optimist (feat. Conquer Divide)",
-      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -1459,6 +1471,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "The Optimist (feat. Conquer Divide)",
+        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        },
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "The Optimist (feat. Conquer Divide)",
+      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Crack Cocaine",
         "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
       },
@@ -1479,22 +1511,6 @@
       "duration_ms": 241426,
       "name": "Crack Cocaine",
       "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Hell Is Empty",
-        "url": "https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 177676,
-      "name": "Hell Is Empty",
-      "url": "https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Full Of Emptiness",
-        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 174952,
-      "name": "Full Of Emptiness",
-      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Live Without It",
         "url": "https://open.spotify.com/album/2CRwZC57AFDKsaz9gfSlZu"
       },
@@ -1691,34 +1691,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Gallows",
-        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
+        "name": "Full Of Emptiness",
+        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
       },
       "artists": [
         {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 230375,
-      "name": "The Gallows",
-      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Night Terror",
-        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 361130,
-      "name": "Night Terror - Radio Edit",
-      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
+      "duration_ms": 174952,
+      "name": "Full Of Emptiness",
+      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 200500,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "The Gallows",
+        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Justice Will Shine On",
-        "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
-      },
-      "artists": [
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        }
-      ],
-      "duration_ms": 229778,
-      "name": "Justice Will Shine On",
-      "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Teacher Has A Gun",
         "url": "https://open.spotify.com/album/4agqtrbOGxTILqjJfgyg81"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 187033,
       "name": "Teacher Has A Gun",
       "url": "https://open.spotify.com/track/21b4iOoZDS7eyTs5jrji9S"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Justice Will Shine On",
+        "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "duration_ms": 229778,
+      "name": "Justice Will Shine On",
+      "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "DESERT RAP",
-        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "DESERT RAP",
-      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Better Days (feat. Dorothy)",
         "url": "https://open.spotify.com/album/5kg2p6l4S8ggKJFzioquG6"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 225881,
       "name": "Better Days (feat. Dorothy)",
       "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "DESERT RAP",
+        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "DESERT RAP",
+      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "The Joke / Deranged",
         "url": "https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 237533,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Those Were The Days",
-        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
-      },
-      "artists": [
-        {
-          "name": "True North",
-          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
-        }
-      ],
-      "duration_ms": 143995,
-      "name": "Those Were The Days",
-      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Dr. Frankenstein",
         "url": "https://open.spotify.com/album/0wMNRUO4RFJqYpYRPIcM98"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 201131,
       "name": "Dr. Frankenstein",
       "url": "https://open.spotify.com/track/2NV0wCTYTVHLIwxf4hBdOO"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
+      },
+      "artists": [
+        {
+          "name": "True North",
+          "url": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155"
+        }
+      ],
+      "duration_ms": 143995,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Judas Mind",
-        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 244728,
-      "name": "Judas Mind - edit",
-      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
       },
@@ -2251,22 +2251,6 @@
       "duration_ms": 204869,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Tell Us How It Ends",
-        "url": "https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz"
-      },
-      "artists": [
-        {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
-        }
-      ],
-      "duration_ms": 151426,
-      "name": "Tell Us How It Ends",
-      "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2299,6 +2283,22 @@
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tell Us How It Ends",
+        "url": "https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "duration_ms": 151426,
+      "name": "Tell Us How It Ends",
+      "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2475,26 +2475,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Vega",
-        "url": "https://open.spotify.com/album/71DOdZRZ1OgUJMKCzFmHzc"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        },
-        {
-          "name": "Matty Mullins",
-          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
-        }
-      ],
-      "duration_ms": 308663,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/7BjXA8iyZesD4gyCrwXUrB"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Just Like 73 - Tom Morello Version",
         "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
       },
@@ -2511,6 +2491,26 @@
       "duration_ms": 223133,
       "name": "Just Like 73 - Tom Morello Version",
       "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Vega",
+        "url": "https://open.spotify.com/album/71DOdZRZ1OgUJMKCzFmHzc"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "duration_ms": 308663,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/7BjXA8iyZesD4gyCrwXUrB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2547,38 +2547,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "DON'T KILL ME",
-        "url": "https://open.spotify.com/album/2lZ4vKKM3D9alxwFMcvKvS"
+        "name": "Inner Darkness",
+        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
       },
       "artists": [
         {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        },
-        {
-          "name": "Of Virtue",
-          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
         }
       ],
-      "duration_ms": 209800,
-      "name": "DON'T KILL ME",
-      "url": "https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/6nCie5uo9QoCVTPp4wFP57"
-      },
-      "artists": [
-        {
-          "name": "Nate Vickers",
-          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
-        }
-      ],
-      "duration_ms": 186898,
-      "name": "Over & Over",
-      "url": "https://open.spotify.com/track/6uE1pM25e1dwBsUktz0QQR"
+      "duration_ms": 320424,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2599,6 +2579,42 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6nCie5uo9QoCVTPp4wFP57"
+      },
+      "artists": [
+        {
+          "name": "Nate Vickers",
+          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+        }
+      ],
+      "duration_ms": 186898,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/6uE1pM25e1dwBsUktz0QQR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "DON'T KILL ME",
+        "url": "https://open.spotify.com/album/2lZ4vKKM3D9alxwFMcvKvS"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        },
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "DON'T KILL ME",
+      "url": "https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Blood On The Walls",
         "url": "https://open.spotify.com/album/73FTXREXJQck3tAuevTyEr"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 196082,
       "name": "Blood On The Walls",
       "url": "https://open.spotify.com/track/5uxsyPKNnLomNE1imPOj3s"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Learning How To Be Human",
-        "url": "https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Glitch In The Matrix",
-      "url": "https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt"
     }
   ],
   "unique_name": "Hard Rock",

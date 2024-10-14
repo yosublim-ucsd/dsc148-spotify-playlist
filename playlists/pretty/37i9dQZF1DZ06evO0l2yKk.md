@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 ### [This Is Cardenales De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0l2yKk)
 
-> This Is Cardenales De Nuevo León\. Los temas esenciales, todos en una lista.
+> This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,843 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,926 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 5 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 6 | [Qué No Daría](https://open.spotify.com/track/5RnAQujhg7KANiHPvLE5wV) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Cómo Te Llamas Paloma](https://open.spotify.com/album/3yBgnBHZZM4MtQccrUMGc3) | 2:49 |
 | 7 | [Soy Lo Peor](https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego \- Clásicos Digitalizados](https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2) | 2:36 |
-| 8 | [Que Nadie Sepa](https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:31 |
+| 8 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 |
 | 9 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
-| 10 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 |
+| 10 | [Que Nadie Sepa](https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:31 |
 | 11 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
-| 12 | [Corazón Necio](https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Corazón Necio](https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8) | 3:26 |
-| 13 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 |
-| 14 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
+| 12 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
+| 13 | [Corazón Necio](https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Corazón Necio](https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8) | 3:26 |
+| 14 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 |
 | 15 | [Si Ella Supiera](https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:52 |
 | 16 | [Y Como Es El](https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:54 |
 | 17 | [Amor Chiquito](https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Y Qué Más Da](https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 |
 | 50 | [Te Olvidé \- Cumbia](https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Cumbias Para Bailar](https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh) | 3:11 |
 
-Snapshot ID: `ZwhqgAAAAAA6YuA+XZKUbP3azFXe50Uc`
+Snapshot ID: `Zwm8AAAAAADpZ/DRSvN3YO8IFFscjmFe`

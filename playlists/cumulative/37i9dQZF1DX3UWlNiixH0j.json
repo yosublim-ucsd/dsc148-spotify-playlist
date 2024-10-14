@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 174444,
       "name": "40\u2103",
       "url": "https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn"
@@ -1574,6 +1574,28 @@
       "duration_ms": 228824,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ"
+    },
+    {
+      "album": {
+        "name": "B.B.M.",
+        "url": "https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "B.B.M.",
+      "url": "https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg"
     },
     {
       "album": {
@@ -7090,6 +7112,24 @@
       "duration_ms": 228906,
       "name": "ghost",
       "url": "https://open.spotify.com/track/4PnMehwWIc95zaEM3VF9Qw"
+    },
+    {
+      "album": {
+        "name": "Ghost on Holiday",
+        "url": "https://open.spotify.com/album/7f44ySC4VuGA6CbcgNlS0d"
+      },
+      "artists": [
+        {
+          "name": "petalhead",
+          "url": "https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198618,
+      "name": "Ghost on Holiday",
+      "url": "https://open.spotify.com/track/2v8ctOeTwqeqkrMxiMttvL"
     },
     {
       "album": {
@@ -21666,7 +21706,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 303118,
       "name": "vector",
       "url": "https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX"

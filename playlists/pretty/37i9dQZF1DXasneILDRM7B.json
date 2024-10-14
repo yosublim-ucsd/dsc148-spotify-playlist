@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3018334,
+  "num_followers": 3018320,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
-    },
-    {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Why Don't You Get A Job",
-      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -567,6 +551,22 @@
       "duration_ms": 198266,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "duration_ms": 197986,
+      "name": "Stacy's Mom",
+      "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -591,18 +591,34 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 197986,
-      "name": "Stacy's Mom",
-      "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -683,6 +667,38 @@
       "duration_ms": 175200,
       "name": "Scotty Doesn't Know",
       "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -715,22 +731,6 @@
       "duration_ms": 197800,
       "name": "Come Out and Play",
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -939,38 +955,6 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1019,6 +1003,22 @@
       "duration_ms": 191373,
       "name": "Grand Theft Autumn / Where Is Your Boy",
       "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "The Boys of Summer",
-      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "Riot!",
@@ -1117,36 +1101,20 @@
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
+      "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Girl All the Bad Guys Want",
-      "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
+      "duration_ms": 258000,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1183,6 +1151,38 @@
       "duration_ms": 214493,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Girl All the Bad Guys Want",
+      "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "American Idiot - Deluxe",
-        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Hang-Ups",
@@ -1279,6 +1263,22 @@
       "duration_ms": 218706,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "American Idiot - Deluxe",
+        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1411,6 +1379,22 @@
       "duration_ms": 183493,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1427,6 +1411,22 @@
       "duration_ms": 130266,
       "name": "Linoleum",
       "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Box Car Racer",
+        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
+      },
+      "artists": [
+        {
+          "name": "Box Car Racer",
+          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "There Is",
+      "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 178320,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Box Car Racer",
-        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
-      },
-      "artists": [
-        {
-          "name": "Box Car Racer",
-          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "There Is",
-      "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",

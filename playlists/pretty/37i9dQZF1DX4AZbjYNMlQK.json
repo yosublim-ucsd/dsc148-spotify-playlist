@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 274774,
+  "num_followers": 274765,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
         "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 216208,
       "name": "C\u00f3mo Poder Olvidar - Spotify Sad Sierre\u00f1o Holiday Singles",
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Otro a\u00f1o +",
-        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 100231,
-      "name": "Otro a\u00f1o +",
-      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Al Ni\u00f1o Dios",
         "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153182,
       "name": "Al Ni\u00f1o Dios",
       "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Otro a\u00f1o +",
+        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 100231,
+      "name": "Otro a\u00f1o +",
+      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -983,50 +983,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+        "name": "El Burrito Sabanero",
+        "url": "https://open.spotify.com/album/6O687QHs2jSKAb7HkJPbRv"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "C4 Tr\u00edo",
+          "url": "https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y"
         },
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Un A\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
+      "duration_ms": 210521,
+      "name": "El Burrito Sabanero",
+      "url": "https://open.spotify.com/track/7HF8whsl9PaIpp3kLXswm8"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1079,26 +1051,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "st. Pedro's Christmas Special",
         "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
@@ -1115,22 +1067,70 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Burrito Sabanero",
-        "url": "https://open.spotify.com/album/6O687QHs2jSKAb7HkJPbRv"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
       "artists": [
         {
-          "name": "C4 Tr\u00edo",
-          "url": "https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         },
         {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 210521,
-      "name": "El Burrito Sabanero",
-      "url": "https://open.spotify.com/track/7HF8whsl9PaIpp3kLXswm8"
+      "duration_ms": 236200,
+      "name": "Un A\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 166891,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Navidad Sin Ti (Radio Version)",
         "url": "https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192960,
       "name": "Navidad Sin Ti - Radio Version",
       "url": "https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
     },
     {
       "added_at": "2023-12-20 18:00:15",

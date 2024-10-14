@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 474099,
+  "num_followers": 474194,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -515,6 +531,22 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -579,38 +611,6 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 312906,
-      "name": "You Dropped A Bomb On Me",
-      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 289066,
       "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 312906,
+      "name": "You Dropped A Bomb On Me",
+      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "Loco in Acapulco",
-      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Michael Jackson's This Is It",
         "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 357493,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "Loco in Acapulco",
+      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Heavy Nova",
-        "url": "https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq"
-      },
-      "artists": [
-        {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Simply Irresistible",
-      "url": "https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "We Are The '80s",
         "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Heavy Nova",
+        "url": "https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Simply Irresistible",
+      "url": "https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Ultimate Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 311852,
-      "name": "Abracadabra - Remastered 2017",
-      "url": "https://open.spotify.com/track/58bTw40is1J6A67eejMdLn"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Ultimate Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 311852,
+      "name": "Abracadabra - Remastered 2017",
+      "url": "https://open.spotify.com/track/58bTw40is1J6A67eejMdLn"
     },
     {
       "added_at": "2024-03-19 14:45:18",

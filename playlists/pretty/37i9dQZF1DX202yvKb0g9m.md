@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,590 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,634 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 15 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 16 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
 | 17 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
-| 18 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
-| 19 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
+| 18 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
+| 19 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
 | 20 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 |
 | 21 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
 | 22 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 29 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
 | 30 | [Sound 6](https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI) | 6:01 |
 | 31 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
-| 32 | [Next to You](https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4) | 4:22 |
-| 33 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 |
-| 34 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:48 |
-| 35 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
-| 36 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 |
+| 32 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 |
+| 33 | [Next to You](https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4) | 4:22 |
+| 34 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 |
+| 35 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:48 |
+| 36 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
 | 37 | [Patchwork Jazz](https://open.spotify.com/track/6VOhURr2cJv80aFBeLaoWy) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/4elJ2d798hGdIyxxaIpwdD) | 7:12 |
 | 38 | [No Way Back \- Vocal Mix](https://open.spotify.com/track/6bvsbo7BBOiRNzpsN8Pmcz) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/3KbCMnKbqT2E7iesr9BsXR) | 4:56 |
 | 39 | [Acid Bit](https://open.spotify.com/track/62qTgeNdswNbPAsY9qm8vk) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:25 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 ### [This Is El de La Guitarra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L)
 
-> This is El de La Guitarra\. The essential tracks, all in one playlist.
+> This Is El de La Guitarra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,543 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,551 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
 | 50 | [Los de La Casa](https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2](https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg) | 4:01 |
 
-Snapshot ID: `ZwhqgAAAAACoeFmEEEM4hqNwUf/gXf++`
+Snapshot ID: `Zwm8AAAAAACg8RsTsjVEPpbuESdXpT7Z`

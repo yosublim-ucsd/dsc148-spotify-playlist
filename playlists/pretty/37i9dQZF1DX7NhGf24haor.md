@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Dimitri Vegas & Like Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,895 likes - 104 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,973 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

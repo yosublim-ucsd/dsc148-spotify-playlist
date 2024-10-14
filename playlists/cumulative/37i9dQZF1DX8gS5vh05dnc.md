@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-336 songs - 18 hr 1 min
+337 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-07-25 |  |
 | [concussion](https://open.spotify.com/track/4A6kIX7Rvw7xZRbc4Sqb4q) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [concussion](https://open.spotify.com/album/7uXoid8zeG7Wgk71kjveo4) | 2:58 | 2022-11-07 | 2022-11-15 |
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-14 | 2023-03-21 |
+| [Coolest Coward](https://open.spotify.com/track/0WiclOyyuYPOfxXPGI1SD7) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [It's okay, U're only 17](https://open.spotify.com/album/0Jqc47mm8odLr6bzsFbDtu) | 2:55 | 2024-10-14 |  |
 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 | 2024-04-08 |  |
 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 | 2022-07-25 | 2024-04-19 |
 | [crazy](https://open.spotify.com/track/7LrlwTbFCZQnPPzwOwgTNn) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [OXLEE](https://open.spotify.com/artist/66HYtbv5hfcPygYVYOBT8p) | [crazy](https://open.spotify.com/album/3jxqy6Wl1HE4SlB8QscOeV) | 2:38 | 2022-06-06 | 2022-07-29 |
@@ -129,7 +130,7 @@
 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 | 2023-05-01 | 2024-04-19 |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-06-06 | 2022-07-29 |
 | [Help!](https://open.spotify.com/track/7KNis2aC2opA2tTDwKkWyb) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Gentle Bones](https://open.spotify.com/album/0JqCrGLylHkHEEe5hkYzSW) | 2:46 | 2022-06-06 | 2022-07-29 |
-| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2024-05-06 | 2024-06-28 |
+| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2024-05-06 |  |
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2024-03-04 | 2024-04-19 |
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-27 |  |
 | [Holiday](https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t) | [Summer Will End](https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY) | [Holiday](https://open.spotify.com/album/2xIW65knjZO5DBlsTBFiHl) | 2:47 | 2023-12-25 | 2024-01-01 |
@@ -200,7 +201,7 @@
 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-04 | 2024-03-11 |
 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-07 | 2023-09-24 |
 | [Man Down](https://open.spotify.com/track/7qGAPhz0FrUjab9OF3Uu6j) | [The Boy from the South](https://open.spotify.com/artist/0YSFw7zXzSXhzCIQsiZNvW) | [Man Down](https://open.spotify.com/album/56Cbbp3a9vRzsk2SMe1q5A) | 2:49 | 2023-09-25 | 2023-10-03 |
-| [Manila Bay](https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R) | [Time & Pace](https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ) | 3:53 | 2024-10-07 |  |
+| [Manila Bay](https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R) | [Time & Pace](https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ) | 3:53 | 2024-10-07 | 2024-10-14 |
 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2023-11-06 | 2024-04-19 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-07-25 | 2023-10-25 |
 | [matters of the heart](https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [matters of the heart](https://open.spotify.com/album/1UbN4K1Lyl81gPo92g7uK4) | 3:24 | 2024-04-22 | 2024-04-29 |
@@ -216,7 +217,7 @@
 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-07 |  |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-07 | 2024-09-23 |
 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 | 2024-06-18 | 2024-07-01 |
-| [Mr\. Nice Guy](https://open.spotify.com/track/6kseAdmTppYOCdKF3kRPaR) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Mr\. Nice Guy](https://open.spotify.com/album/1fF9wZOYNEfsnC9JxGRG8H) | 2:54 | 2024-10-07 |  |
+| [Mr\. Nice Guy](https://open.spotify.com/track/6kseAdmTppYOCdKF3kRPaR) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Mr\. Nice Guy](https://open.spotify.com/album/1fF9wZOYNEfsnC9JxGRG8H) | 2:54 | 2024-10-07 | 2024-10-14 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-20 |  |
 | [My Oh My](https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lipstick Stains](https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC) | 2:56 | 2022-10-20 | 2022-10-25 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-07 |  |

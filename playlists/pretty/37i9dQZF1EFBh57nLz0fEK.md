@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 106 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 106 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 89 | [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 |
 | 90 | [Nobody](https://open.spotify.com/track/4uz5wCY6QbWDjb9aOoi23p) | [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [Nobody](https://open.spotify.com/album/7Fk9iVazl3kbtgTLpIiDRS) | 2:47 |
 | 91 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 |
-| 92 | [Double Life](https://open.spotify.com/track/2Sg48T1SK3MwDtBlfQFV9q) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire \(Season 6, I Am Who I Am\) \[Music from the TV Series\]](https://open.spotify.com/album/500UKt3WeIJoOihhYLcozj) | 1:59 |
-| 93 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
+| 92 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
+| 93 | [Double Life](https://open.spotify.com/track/2Sg48T1SK3MwDtBlfQFV9q) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire \(Season 6, I Am Who I Am\) \[Music from the TV Series\]](https://open.spotify.com/album/500UKt3WeIJoOihhYLcozj) | 1:59 |
 | 94 | [Meet Again](https://open.spotify.com/track/2Ta8ohcEc1baylhzoeHuFb) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Time Will Tell \(Deluxe\)](https://open.spotify.com/album/4qEGuoOqBsOF2qkY3EwQdV) | 2:17 |
 | 95 | [NEVER COULD SAY](https://open.spotify.com/track/18JNzu58Ux49pb2YcoiYNE) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX) | [I JUST WANNA LIVE](https://open.spotify.com/album/18hfjUQqaV5v39o9Y7CLPc) | 3:40 |
 | 96 | [Chemistry \- Interlude](https://open.spotify.com/track/6SvuY3OO9xuaVNaV3ZYB1s) | [Jcksn Ave.](https://open.spotify.com/artist/37GcQTOtCy5LuitT57a8mu) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:01 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 105 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 106 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbenaAAAAADySheFeLdcsDluQFE1bCOC`
+Snapshot ID: `AbetCAAAAAAuFcwZ8SyPfMu7L4CDilt7`

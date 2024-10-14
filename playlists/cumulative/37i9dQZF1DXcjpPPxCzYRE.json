@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 206354,
       "name": "Interior (Noche)",
       "url": "https://open.spotify.com/track/3sRr3Eyd3h3p5yustY7bME"
@@ -2739,6 +2739,28 @@
     },
     {
       "album": {
+        "name": "Judy",
+        "url": "https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE"
+      },
+      "artists": [
+        {
+          "name": "L.A.",
+          "url": "https://open.spotify.com/artist/7BaLRZPbaTkb3ZgxLc5eFs"
+        },
+        {
+          "name": "Patricia de los \u00c1ngeles",
+          "url": "https://open.spotify.com/artist/6hSKcdQ9djgaH0sx8z1hRB"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214728,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/120v2UQI3sr2gG5KXNTI0H"
+    },
+    {
+      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
@@ -2768,7 +2790,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 148344,
       "name": "KALO KAKO",
       "url": "https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32"
@@ -2822,7 +2844,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 212486,
       "name": "La desped\u00eda",
       "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"

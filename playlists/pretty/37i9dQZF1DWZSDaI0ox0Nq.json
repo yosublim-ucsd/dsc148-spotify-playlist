@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19638,
+  "num_followers": 19645,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Rom\u00e1ntica Milonguera",
         "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+      "duration_ms": 205453,
+      "name": "Yuyo Verde",
+      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -199,38 +215,6 @@
       "duration_ms": 157546,
       "name": "Parece mentira",
       "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Tangos de Lengue",
-        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 188464,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Yuyo Verde",
-      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -267,18 +251,34 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+        "name": "Tita De Buenos Aires",
+        "url": "https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+      "duration_ms": 136213,
+      "name": "Arrabalera",
+      "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Tangos de Lengue",
+        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -319,38 +319,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tita De Buenos Aires",
-        "url": "https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        }
-      ],
-      "duration_ms": 136213,
-      "name": "Arrabalera",
-      "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Minella",
-        "url": "https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Minella",
-          "url": "https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp"
-        }
-      ],
-      "duration_ms": 196182,
-      "name": "Se Dice De Mi",
-      "url": "https://open.spotify.com/track/2GHD5K08DUu3xwereVQFHk"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -375,6 +343,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Minella",
+        "url": "https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Minella",
+          "url": "https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp"
+        }
+      ],
+      "duration_ms": 196182,
+      "name": "Se Dice De Mi",
+      "url": "https://open.spotify.com/track/2GHD5K08DUu3xwereVQFHk"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
         }
       ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+      "duration_ms": 113213,
+      "name": "Pipistrela",
+      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -439,6 +443,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
       },
@@ -471,22 +491,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         },
         {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 113213,
-      "name": "Pipistrela",
-      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -515,22 +535,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -551,38 +567,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Puro Verso",
-        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 258529,
-      "name": "La \u00daltima Curda",
-      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Ofrenda Gaucha: Valsecito Amigo",
         "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Puro Verso",
+        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 258529,
+      "name": "La \u00daltima Curda",
+      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        }
+      ],
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -703,42 +723,6 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        }
-      ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
       "artists": [
         {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -823,22 +807,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Tangos Famosos Cantados",
         "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -955,38 +971,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Susy Leiva - Grandes Exitos -",
-        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
-      },
-      "artists": [
-        {
-          "name": "Susy Leiva",
-          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "Che bandoneon",
-      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
         "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Susy Leiva - Grandes Exitos -",
+        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
+      },
+      "artists": [
+        {
+          "name": "Susy Leiva",
+          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "Che bandoneon",
+      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
     }
   ],
   "unique_name": "Mujeres del Tango",

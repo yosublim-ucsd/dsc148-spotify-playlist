@@ -1,6 +1,6 @@
 {
   "description": "Suor, ritmo e m\u00fasica com energia",
-  "num_followers": 166138,
+  "num_followers": 166144,
   "original_name": "Treino em Casa",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -643,30 +643,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "Peace Is The Mission : Extended",
-        "url": "https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 176561,
-      "name": "Lean On (feat. M\u00d8 & DJ Snake)",
-      "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "Peace Is The Mission : Extended",
+        "url": "https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 176561,
+      "name": "Lean On (feat. M\u00d8 & DJ Snake)",
+      "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1043,26 +1043,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1095,6 +1075,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "Enemy (with JID) - from the series Arcane League of Legends",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -1671,6 +1655,38 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-12-22 16:31:55",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
-    },
-    {
-      "added_at": "2023-12-22 16:31:55",
-      "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2023-12-22 16:31:55",
@@ -1779,6 +1763,22 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2023-12-22 16:31:55",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2023-12-22 16:31:55",

@@ -2,7 +2,7 @@
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 
-> This is Linked Horizon\. Todos os maiores hits em uma só playlist.
+> This is Linked Horizon\. Track\-track unggulan, semuanya dalam satu playlist.
 
 41 songs - 3 hr 24 min
 

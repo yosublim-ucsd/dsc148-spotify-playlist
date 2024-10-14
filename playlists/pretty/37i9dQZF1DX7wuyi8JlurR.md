@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,378 likes - 166 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,453 likes - 166 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 81 | [Reverse Funnel](https://open.spotify.com/track/7hH6xXfOkGXJdmRAJoa6cd) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5) | [Pyramid](https://open.spotify.com/album/4kWeBZ8ZNOLwUe9xC8GFfe) | 5:50 |
 | 82 | [Rain Dance](https://open.spotify.com/track/4pkL9D96FpOthnOIuzcfpQ) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Realm Of Consciousness Pt.V](https://open.spotify.com/album/0bDVQCKj9ElT4JrzcvYnoR) | 7:20 |
 | 83 | [Ethereal](https://open.spotify.com/track/0meYqt6ZuEtvPff0Wp9ume) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [III](https://open.spotify.com/album/0lelIbxdFvpRiJQFaMdrg3) | 5:28 |
-| 84 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \- Anniversary Edition](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
+| 84 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
 | 85 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
 | 86 | [Magic Hour](https://open.spotify.com/track/2q89gHxhv1paERcdQfOsXe) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Magic Hour](https://open.spotify.com/album/5VsifCsEwsmE3XzgYhft2x) | 3:56 |
 | 87 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |

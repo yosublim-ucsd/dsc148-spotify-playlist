@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: RAT BOY",
-  "num_followers": 55004,
+  "num_followers": 55023,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,38 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Hang-Ups",
         "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
@@ -187,18 +219,18 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -235,38 +267,6 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Que Corra La Voz",
         "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 205693,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -451,6 +451,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Klub Ska",
         "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 206039,
       "name": "S\u00f3lo Vivir",
       "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -863,54 +863,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Walking Pipebomb",
-        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "Walking Pipebomb",
-      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
-      },
-      "artists": [
-        {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -927,6 +879,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Walking Pipebomb",
+        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "Walking Pipebomb",
+      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -951,6 +919,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
+      },
+      "artists": [
+        {
+          "name": "Makua Rothman",
+          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "The One And Only",
+      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Joj!",
         "url": "https://open.spotify.com/album/3BfkiJs1Xy90mpttNhUnGq"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 164875,
       "name": "Joj!",
       "url": "https://open.spotify.com/track/4AMck8OGo6T1ttWZhH2C4j"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Broken Words",
         "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 172003,
       "name": "Broken Words",
       "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La \u00daltimo Carta",
-      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "La \u00daltimo Carta",
+      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Nice One",
         "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 192106,
       "name": "Contigo Estar\u00e9 Bien",
       "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "The Story So Far...",
-        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
+      },
+      "artists": [
+        {
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
-      },
-      "artists": [
-        {
-          "name": "Raztlan",
-          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
-        },
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 213602,
-      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
+      },
+      "artists": [
+        {
+          "name": "Raztlan",
+          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
+        },
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 213602,
+      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "I'd Do Anything (If I Could)",
-      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
         "name": "Estacional",
         "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "I'd Do Anything (If I Could)",
+      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     }
   ],
   "unique_name": "Ska Around The Globe",

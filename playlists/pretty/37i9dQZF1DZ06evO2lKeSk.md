@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This Is Ana Gabriel\. Los temas esenciales, todos en una lista.
+> This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,469 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,597 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Yo Te Perdono](https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:26 |
 | 50 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 |
 
-Snapshot ID: `ZwhqgAAAAABK1ysRTCyemSEPkq1KcRUL`
+Snapshot ID: `Zwm8AAAAAAC3TK8m1UOzR1SPemKzB1Ea`

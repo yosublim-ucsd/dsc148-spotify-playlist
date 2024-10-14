@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-170 songs - 13 hr 15 min
+171 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 |  |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-06-25 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 | 2024-05-21 |
+| [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 | 2024-10-11 |  |
 | [Masterpiece](https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Masterpiece](https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ) | 3:07 | 2023-11-24 | 2024-05-26 |
 | [Medicament](https://open.spotify.com/track/3yN5OLS2682p8f7fyisRJB) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp), [Sara Toure](https://open.spotify.com/artist/7soy1y6bV0H1j5aqcGFtfU), [Rolly KASONGA](https://open.spotify.com/artist/3Gp2fwamkpZLeKNzag9UCh) | [Medicament](https://open.spotify.com/album/2MnoeApwajEjhhjtU7izl0) | 2:58 | 2024-07-26 | 2024-09-22 |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-04-06 |  |
@@ -138,7 +139,7 @@
 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 | 2023-06-30 | 2023-07-18 |
 | [Praises](https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Praises](https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0) | 4:04 | 2023-09-22 | 2023-12-10 |
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-09-27 |
-| [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 | 2023-04-06 |  |
+| [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 | 2023-04-06 | 2024-10-14 |
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-09-08 | 2023-10-27 |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-26 | 2024-02-06 |
 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-08-18 | 2023-09-09 |

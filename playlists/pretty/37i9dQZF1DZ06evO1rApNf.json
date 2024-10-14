@@ -1,12 +1,12 @@
 {
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124359,
+  "num_followers": 124367,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACA5iVdllNO2dZqYJpePqBv",
+  "snapshot_id": "Zwm8AAAAAAAVht/rHPCzKH2ttOHM/nrH",
   "tracks": [
     {
       "added_at": null,
@@ -506,15 +506,27 @@
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": null,
@@ -535,22 +547,6 @@
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": null,
@@ -582,11 +578,15 @@
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,

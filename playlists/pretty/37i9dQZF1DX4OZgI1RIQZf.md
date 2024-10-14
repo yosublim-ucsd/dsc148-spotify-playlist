@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,735 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,973 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 14 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 15 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
 | 16 | [Apollon](https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Apollon](https://open.spotify.com/album/0udUblWUl05uR1ELebTbra) | 3:13 |
-| 17 | [Is There A Ghost](https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 2:59 |
-| 18 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 17 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 18 | [Is There A Ghost](https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 2:59 |
 | 19 | [Killer](https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:09 |
 | 20 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 21 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 32 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
 | 33 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
 | 34 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 |
-| 35 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
-| 36 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
+| 35 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
+| 36 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
 | 37 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 38 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 | 39 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 50 | [Scarecrow](https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 4:15 |
 | 51 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 52 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
-| 53 | [Dark and Stormy](https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6) | 4:55 |
-| 54 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 53 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 54 | [Dark and Stormy](https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6) | 4:55 |
 | 55 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 | 56 | [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 |
 | 57 | [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 |
 | 58 | [Attack of the Ghost Riders](https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack Of The Ghost Riders](https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4) | 2:31 |
-| 59 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
-| 60 | [Final Girl](https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence: Director's Cut](https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A) | 4:29 |
+| 59 | [Final Girl](https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence: Director's Cut](https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A) | 4:29 |
+| 60 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
 | 61 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 |
 | 62 | [Help I'm Alive](https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:45 |
 | 63 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |

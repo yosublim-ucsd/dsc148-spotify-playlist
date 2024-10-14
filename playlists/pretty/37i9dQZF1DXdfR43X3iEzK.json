@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Charli xcx",
-  "num_followers": 46140,
+  "num_followers": 46151,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
@@ -143,6 +123,22 @@
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -179,18 +175,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -211,6 +211,22 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -254,11 +270,15 @@
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 203801,
-      "name": "My Boy Only Breaks His Favorite Toys",
-      "url": "https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD"
+      "duration_ms": 215463,
+      "name": "Florida!!! (feat. Florence + The Machine)",
+      "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -343,22 +363,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -379,22 +383,34 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 215463,
-      "name": "Florida!!! (feat. Florence + The Machine)",
-      "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -411,22 +427,6 @@
       "duration_ms": 271969,
       "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
       "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "how could u love somebody like me?",
         "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "In The Living Room",
+        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "In The Living Room",
+      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -539,54 +555,6 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "In The Living Room",
-        "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "In The Living Room",
-      "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 161168,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -623,18 +591,34 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Good Neighbours",
-        "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
         }
       ],
-      "duration_ms": 186405,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 186405,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 166849,
+      "name": "breath away",
+      "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -699,22 +715,6 @@
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 166849,
-      "name": "breath away",
-      "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 211000,
       "name": "I Cried, I Wept",
       "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "The Greatest Love (Deluxe)",
-        "url": "https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 235677,
-      "name": "Keep On Dreaming",
-      "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "It Wasn't Meant To Be",
         "url": "https://open.spotify.com/album/2c4WFzNTDxi7Ip4i56bX4f"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "The Greatest Love (Deluxe)",
+        "url": "https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 235677,
+      "name": "Keep On Dreaming",
+      "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "Overglow",
         "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
         "name": "Ganni Top (She Gets What She Needs)",
         "url": "https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx"
       },
@@ -1027,6 +1043,26 @@
       "duration_ms": 127162,
       "name": "Ganni Top (She Gets What She Needs)",
       "url": "https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "kinda smacks",
+        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 136601,
+      "name": "kinda smacks",
+      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1063,22 +1099,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "kinda smacks",
-        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        },
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 136601,
-      "name": "kinda smacks",
-      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1143,6 +1175,22 @@
       "duration_ms": 221693,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1247,22 +1295,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1279,50 +1311,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+        "name": "crush (tom verlaine)",
+        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
         }
       ],
-      "duration_ms": 180332,
-      "name": "Just My Luck",
-      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166631,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
+      "duration_ms": 182498,
+      "name": "crush (tom verlaine)",
+      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
     },
     {
       "added_at": "2024-10-10 23:30:00",

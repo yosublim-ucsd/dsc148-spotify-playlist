@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 73193,
+  "num_followers": 73232,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAC8EZQF1hPAK/vQPPQSvzMl",
+  "snapshot_id": "Zwm8AAAAAABfPsrsZSjDCj1y9Q2IlGj7",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Heart of Darkness",
-      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 309613,
       "name": "Through the Eyes of a Raven",
       "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
       "added_at": null,

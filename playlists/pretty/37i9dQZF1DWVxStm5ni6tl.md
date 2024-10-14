@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,430 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,475 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

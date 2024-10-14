@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61740,
+  "num_followers": 61748,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414240,
+      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Straight Road",
         "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 285969,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 414240,
-      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "Everything I Play Is Funky",
-        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 431266,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 287373,
       "name": "Emily",
       "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Everything I Play Is Funky",
+        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 431266,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 244866,
       "name": "Sous Le Ciel De Paris",
       "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Ben Webster Meets Oscar Peterson",
-        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -751,6 +731,26 @@
       "duration_ms": 200386,
       "name": "When It's Sleepy Time Down South",
       "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "The Mourning of a Star",
-        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 77533,
-      "name": "Interlude No. 3",
-      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "Rhapsody in Blue",
         "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "The Mourning of a Star",
+        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 77533,
+      "name": "Interlude No. 3",
+      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Bob Acri",
+        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+      },
+      "artists": [
+        {
+          "name": "Bob Acri",
+          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sleep Away",
+      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -851,22 +867,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Bob Acri",
-        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
-      },
-      "artists": [
-        {
-          "name": "Bob Acri",
-          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sleep Away",
-      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Evans",
         "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 294586,
       "name": "Doubts 2",
       "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "All Blues (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
-      },
-      "artists": [
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        }
-      ],
-      "duration_ms": 404026,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -1167,22 +1183,6 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2024-09-16 04:56:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: dwta
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,453 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,499 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

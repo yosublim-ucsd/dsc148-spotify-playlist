@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 37 | [In Waves](https://open.spotify.com/track/4Z75erzbrzuJ3tSPRZDcdO) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:22 |
 | 38 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
 | 39 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 |
-| 40 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 |
-| 41 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
-| 42 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
-| 43 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 |
-| 44 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 |
-| 45 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
-| 46 | [Off The Ground](https://open.spotify.com/track/0jMDxeokB86Gp3SHMZQUVO) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:08 |
-| 47 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
-| 48 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
+| 40 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
+| 41 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 |
+| 42 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 |
+| 43 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
+| 44 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
+| 45 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 |
+| 46 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 |
+| 47 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
+| 48 | [Off The Ground](https://open.spotify.com/track/0jMDxeokB86Gp3SHMZQUVO) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:08 |
+| 49 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
+| 50 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 
-Snapshot ID: `AbenQAAAAABi3wLr5dZezbIKg8mfB4qO`
+Snapshot ID: `Abes4AAAAAAwTJicSccZCr+2ewFlPsAg`

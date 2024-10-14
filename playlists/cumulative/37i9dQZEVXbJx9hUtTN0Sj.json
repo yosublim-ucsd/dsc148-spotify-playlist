@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 247384,
       "name": "77 degr\u00e9s",
       "url": "https://open.spotify.com/track/7Iy0X7n91jP85snf4c8C4R"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 149361,
       "name": "GEKKE GUNZ",
       "url": "https://open.spotify.com/track/6JvL9BzIXDriCYYBrRuEkk"
@@ -5972,7 +5972,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 273698,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/3gRnR33Z7eBeMXYrhPXRIX"
@@ -6406,10 +6406,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214098,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU"
     },
     {
       "album": {
@@ -6874,7 +6892,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 181974,
       "name": "Instinct Animal",
       "url": "https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh"
@@ -8744,7 +8762,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -10034,7 +10052,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 129022,
       "name": "midnight",
       "url": "https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg"
@@ -12778,7 +12796,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
@@ -13128,6 +13146,24 @@
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
       "album": {
@@ -15490,7 +15526,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 136440,
       "name": "U23 - Freestyle",
       "url": "https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr"

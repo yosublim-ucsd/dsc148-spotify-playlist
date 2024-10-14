@@ -1,6 +1,6 @@
 {
   "description": "Den bedste rock playliste i Danmark\u26a1\ufe0f ",
-  "num_followers": 85220,
+  "num_followers": 85216,
   "original_name": "VOLUME DENMARK",
   "owner": {
     "name": "Spotify",
@@ -379,8 +379,8 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -459,24 +475,8 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Break Stuff",
-      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Break Stuff",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rollin' (Air Raid Vehicle)",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0"
+      "duration_ms": 213760,
+      "name": "Rollin' (Air Raid Vehicle)",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -843,6 +843,22 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -891,22 +907,6 @@
       "duration_ms": 283733,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Boulevard of Broken Dreams",
-        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 269920,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2024-10-10 22:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Gojira",
-  "num_followers": 377663,
+  "num_followers": 377670,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Shape of You",
         "url": "https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 245053,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/00L2MQuug19kvRNs41ZHFp"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2024-09-13 04:00:00",

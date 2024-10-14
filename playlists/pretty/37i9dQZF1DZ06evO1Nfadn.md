@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 ### [This Is Banda Maguey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Nfadn)
 
-> This Is Banda Maguey\. Los temas esenciales, todos en una lista.
+> This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,804 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,807 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 39 | [Evidencias](https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:36 |
 | 40 | [Ay Amigo](https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:28 |
 | 41 | [A Mis Padres](https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:31 |
-| 42 | [Alma de Acero](https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:26 |
-| 43 | [Madrecita Querida](https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 para Coleccionar](https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm) | 2:40 |
+| 42 | [Madrecita Querida](https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 para Coleccionar](https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm) | 2:40 |
+| 43 | [Alma de Acero](https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:26 |
 | 44 | [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 |
 | 45 | [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 |
 | 46 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [El Jalisciense](https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 2:36 |
 | 50 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 
-Snapshot ID: `ZwhqgAAAAABVP2IzRMO/OOKiInQ0jXFE`
+Snapshot ID: `Zwm8AAAAAACxcILM2C8W3EDO0QdJdSG/`

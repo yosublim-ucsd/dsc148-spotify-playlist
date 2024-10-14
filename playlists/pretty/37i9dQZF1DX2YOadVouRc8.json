@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 28580,
+  "num_followers": 28601,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Forever (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Forever (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
-    },
-    {
-      "added_at": "2024-10-12 05:38:44",
-      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
@@ -971,22 +951,22 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+        "name": "Forever (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 212107,
-      "name": "ecstasy (feat. Seun Kuti)",
-      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+      "duration_ms": 155883,
+      "name": "Forever (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1023,6 +1003,26 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2024-10-12 05:38:44",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 212107,
+      "name": "ecstasy (feat. Seun Kuti)",
+      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-10-12 05:38:44",
-      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "added_at": "2024-10-12 05:38:44",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-10-12 05:38:44",
+      "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1319,22 +1335,6 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-10-12 05:38:44",
-      "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2024-10-12 05:38:44",
-      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -1411,22 +1395,34 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 158833,
-      "name": "Pier 46 (with KTIZO)",
-      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "added_at": "2024-10-12 05:38:44",
+      "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1447,38 +1443,22 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Frescool",
-          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
         }
       ],
-      "duration_ms": 195976,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
-    },
-    {
-      "added_at": "2024-10-12 05:38:44",
-      "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+      "duration_ms": 158833,
+      "name": "Pier 46 (with KTIZO)",
+      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
     },
     {
       "added_at": "2024-10-12 05:38:44",
@@ -1527,22 +1507,38 @@
     {
       "added_at": "2024-10-12 05:38:44",
       "album": {
-        "name": "Loner (Alone)",
-        "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
         }
       ],
-      "duration_ms": 151456,
-      "name": "Loner (Alone)",
-      "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
+      "duration_ms": 195976,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
+    },
+    {
+      "added_at": "2024-10-12 05:38:44",
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     }
   ],
   "unique_name": "Afro Chill",

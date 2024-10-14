@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: D7
 
-399 songs - 20 hr 40 min
+400 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 | 2024-04-26 | 2024-06-28 |
 | [93](https://open.spotify.com/track/15sxM45PYiyOKk64nxCvbK) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO) | [93](https://open.spotify.com/album/03MwMSmZU4Sj1uuxEKDATS) | 2:46 | 2022-06-24 | 2022-10-18 |
 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-26 | 2024-06-28 |
-| [ADDICTED](https://open.spotify.com/track/1ZivZVDogiQeea1Un4ViVN) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [ADDICTED](https://open.spotify.com/album/6ban83tBjaNWpG9NnH0d1F) | 3:29 | 2024-10-03 |  |
+| [ADDICTED](https://open.spotify.com/track/1ZivZVDogiQeea1Un4ViVN) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [ADDICTED](https://open.spotify.com/album/6ban83tBjaNWpG9NnH0d1F) | 3:29 | 2024-10-03 | 2024-10-14 |
 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 | 2022-06-24 | 2024-10-04 |
 | [After The Party](https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6) | [Jamie Ave](https://open.spotify.com/artist/7ew9ZidsT1WM5NJy568Ma9), [S.A.M](https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb) | [After The Party](https://open.spotify.com/album/2hIq6zPR6MOLzjZ7GpibhU) | 2:38 | 2024-10-03 |  |
 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 | 2024-10-10 |  |
@@ -156,6 +156,7 @@
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2022-06-24 | 2024-06-19 |
 | [Guess What](https://open.spotify.com/track/4YAQvZoFIcri0uburCodsP) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:03 | 2022-06-24 | 2022-07-18 |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/4nNkCxutxk68CulzSBy0Tq) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/01vW1gstMnLr5gWd03tlC5) | 3:34 | 2022-06-24 | 2022-07-22 |
+| [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 | 2024-10-10 |  |
 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 | 2022-10-28 | 2024-04-19 |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-10-23 | 2023-02-03 |
 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2022-10-28 | 2023-02-14 |

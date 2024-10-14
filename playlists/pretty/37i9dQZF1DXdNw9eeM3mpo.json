@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 467143,
+  "num_followers": 467231,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -227,22 +211,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Return of El Santo",
         "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
@@ -259,18 +227,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 218493,
-      "name": "La Guitarra",
-      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -291,18 +259,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 218493,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -339,6 +323,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "FLORA",
         "url": "https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx"
       },
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 262066,
       "name": "Quereme As\u00ed",
       "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -427,34 +427,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -475,34 +475,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -523,30 +507,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 188394,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -587,38 +547,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El \u00daltimo Ska",
-        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+      "duration_ms": 188394,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -635,6 +583,42 @@
       "duration_ms": 237346,
       "name": "Fantasma de la Rana",
       "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -659,18 +643,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Fabulosos Exitos",
-        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 264026,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Fabulosos Exitos",
+        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "\"Sax\" Maldita Vecindad",
-          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1087,22 +1067,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -1119,6 +1083,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Rudi Records",
         "url": "https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx"
       },
@@ -1131,22 +1111,6 @@
       "duration_ms": 266000,
       "name": "Rudi Not Dead",
       "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1171,6 +1135,42 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "\"Sax\" Maldita Vecindad",
+          "url": "https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
-      },
-      "artists": [
-        {
-          "name": "Raztlan",
-          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
-        },
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 213602,
-      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
+      },
+      "artists": [
+        {
+          "name": "Raztlan",
+          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
+        },
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 213602,
+      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "A medio camino",
-        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 172811,
-      "name": "A partir de ah\u00ed",
-      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "El T\u00fanel Del Amor",
         "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
       },
@@ -1463,6 +1431,22 @@
       "duration_ms": 222514,
       "name": "El T\u00fanel Del Amor",
       "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "A medio camino",
+        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 172811,
+      "name": "A partir de ah\u00ed",
+      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 137000,
       "name": "La Ca\u00edda y la Gloria",
       "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Noche Ardiente",
-        "url": "https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN"
-      },
-      "artists": [
-        {
-          "name": "Miguel Chinchilla",
-          "url": "https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb"
-        }
-      ],
-      "duration_ms": 147341,
-      "name": "Noche Ardiente",
-      "url": "https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Noche Ardiente",
+        "url": "https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN"
+      },
+      "artists": [
+        {
+          "name": "Miguel Chinchilla",
+          "url": "https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb"
+        }
+      ],
+      "duration_ms": 147341,
+      "name": "Noche Ardiente",
+      "url": "https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "La Bacha",
-        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
-      },
-      "artists": [
-        {
-          "name": "Adhesivo",
-          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
-        }
-      ],
-      "duration_ms": 196018,
-      "name": "La Bacha",
-      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 248014,
       "name": "Todo Alg\u00fan D\u00eda Termina",
       "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "La Bacha",
+        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
+      },
+      "artists": [
+        {
+          "name": "Adhesivo",
+          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
+        }
+      ],
+      "duration_ms": 196018,
+      "name": "La Bacha",
+      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Camino de la Verdad",
-        "url": "https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU"
-      },
-      "artists": [
-        {
-          "name": "RU-2",
-          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "El Camino de la Verdad",
-      "url": "https://open.spotify.com/track/2PwYrj7ihUMiNVqOIt6eR0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Tengo Miedo",
         "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "El Camino de la Verdad",
+        "url": "https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU"
+      },
+      "artists": [
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "El Camino de la Verdad",
+      "url": "https://open.spotify.com/track/2PwYrj7ihUMiNVqOIt6eR0"
     }
   ],
   "unique_name": "Ska Latino ",

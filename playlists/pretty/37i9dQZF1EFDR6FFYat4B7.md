@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 144 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 145 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,16 +141,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 131 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
 | 132 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
 | 133 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
-| 134 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
-| 135 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
-| 136 | [Yellow Roses](https://open.spotify.com/track/2yt43ADauCZ5pvjFEMWcC3) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:46 |
-| 137 | [Down That Road \- The Voice Performance](https://open.spotify.com/track/3sS03NvxbrVgFNZgvnR26k) | [Alisan Porter](https://open.spotify.com/artist/3Yw2flLUwQIZgpA2qSNj30) | [The Complete Season 10 Collection \(The Voice Performance\)](https://open.spotify.com/album/0zhezrgO3ZFtDAbRj0wkG2) | 3:52 |
-| 138 | [Rattle My Heart](https://open.spotify.com/track/0MBMOIdZsqvQympkY88f2w) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:23 |
-| 139 | [Everything I Want](https://open.spotify.com/track/40uwsYGzTlU0GP51eiVqh1) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 1:41 |
-| 140 | [Down to the Bone](https://open.spotify.com/track/2iimKOdSwTpDNk2THDByro) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:12 |
-| 141 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
-| 142 | [Overcome](https://open.spotify.com/track/4IuTlIOPvRgwnwQCBvEyYN) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
-| 143 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 |
-| 144 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
+| 134 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 135 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
+| 136 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
+| 137 | [Yellow Roses](https://open.spotify.com/track/2yt43ADauCZ5pvjFEMWcC3) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:46 |
+| 138 | [Down That Road \- The Voice Performance](https://open.spotify.com/track/3sS03NvxbrVgFNZgvnR26k) | [Alisan Porter](https://open.spotify.com/artist/3Yw2flLUwQIZgpA2qSNj30) | [The Complete Season 10 Collection \(The Voice Performance\)](https://open.spotify.com/album/0zhezrgO3ZFtDAbRj0wkG2) | 3:52 |
+| 139 | [Rattle My Heart](https://open.spotify.com/track/0MBMOIdZsqvQympkY88f2w) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:23 |
+| 140 | [Everything I Want](https://open.spotify.com/track/40uwsYGzTlU0GP51eiVqh1) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 1:41 |
+| 141 | [Down to the Bone](https://open.spotify.com/track/2iimKOdSwTpDNk2THDByro) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:12 |
+| 142 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
+| 143 | [Overcome](https://open.spotify.com/track/4IuTlIOPvRgwnwQCBvEyYN) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
+| 144 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 |
+| 145 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbenQAAAAACzHdIVQv8jM2gKEyiMEbM0`
+Snapshot ID: `Abes4AAAAAA2wk5C1X17r1zBxoyN06CO`

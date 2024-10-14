@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 ### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is Pantera\. Todos os maiores hits em uma só playlist.
+> This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,450 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,510 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
 | 40 | [Uplift](https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:45 |
 
-Snapshot ID: `ZwhqgAAAAABYjBjyZuz0t3bhew7A1aCt`
+Snapshot ID: `Zwm8AAAAAADvVehw1uVl0Q6W7sqJMjbe`

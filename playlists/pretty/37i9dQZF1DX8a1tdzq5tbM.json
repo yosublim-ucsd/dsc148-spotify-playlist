@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1614413,
+  "num_followers": 1614687,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Push The Feeling On",
         "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -195,6 +195,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -255,22 +271,6 @@
       "duration_ms": 235000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 233160,
       "name": "Missing - Todd Terry Remix Radio Edit",
       "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 208360,
       "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
       "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1711,6 +1727,26 @@
       "duration_ms": 201413,
       "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
       "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1787,22 +1823,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
       },
@@ -1835,22 +1855,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1903,22 +1907,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -2063,6 +2047,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Hot (Remixes)",
         "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
       },
@@ -2075,6 +2075,22 @@
       "duration_ms": 152533,
       "name": "Hot - UK Radio Edit",
       "url": "https://open.spotify.com/track/0aAGggDsfvfc8PQPkqZvH7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/0LqvpMKdPImi1hhatGDL1J"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Disconnected - Radio Edit Dub Mix",
+      "url": "https://open.spotify.com/track/1IwrN4aytawDocT6JbqXCv"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2099,22 +2115,6 @@
       "duration_ms": 236706,
       "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
       "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/0LqvpMKdPImi1hhatGDL1J"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Disconnected - Radio Edit Dub Mix",
-      "url": "https://open.spotify.com/track/1IwrN4aytawDocT6JbqXCv"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5JvyRNLFnLSSubjCLMWkTg"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "AnnaGrace",
+          "url": "https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
+      "duration_ms": 189000,
+      "name": "You Make Me Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/55nlD6bpoWk0ZwCnn7PTDt"
     }
   ],
   "unique_name": "Dance Classics",

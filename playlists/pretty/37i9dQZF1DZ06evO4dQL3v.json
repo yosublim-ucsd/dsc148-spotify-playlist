@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Toro. Los temas esenciales, todos en una lista.",
-  "num_followers": 5922,
+  "num_followers": 5923,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAw9UFCQnNJ00C7L8Qf/kEC",
+  "snapshot_id": "Zwm8AAAAAADYyRM+77UpU3W1Pm515gA8",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 2",
-        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Como Paloma Errante",
-      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 134106,
       "name": "Dichos y Refranes",
       "url": "https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Historia, Vol. 2",
+        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Como Paloma Errante",
+      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "El Hijo Desobediente - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/3PwvDaEt34JSDyAWR086hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 171013,
       "name": "Pachuco Bailarin",
       "url": "https://open.spotify.com/track/51Zz6TacdyEsi5JWiojkqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "El Hijo Desobediente - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/3PwvDaEt34JSDyAWR086hp"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 145213,
-      "name": "Que Se Largue Pa La Porra",
-      "url": "https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO"
+      "duration_ms": 162226,
+      "name": "El Recogerdor",
+      "url": "https://open.spotify.com/track/2UVRSSmngX62AUbzh5BqqP"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 162226,
-      "name": "El Recogerdor",
-      "url": "https://open.spotify.com/track/2UVRSSmngX62AUbzh5BqqP"
+      "duration_ms": 145213,
+      "name": "Que Se Largue Pa La Porra",
+      "url": "https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 140080,
-      "name": "Gema",
-      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
+      "duration_ms": 192266,
+      "name": "Solo Cumbia",
+      "url": "https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rios de Babilonia",
-        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Solo Cumbia",
-      "url": "https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c"
+      "duration_ms": 140080,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mano a Mano y Quebrando",
         "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 221733,
       "name": "El Meneito",
       "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "El Pescuezo del Pollo",
+      "url": "https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 149000,
       "name": "Oh Que Gusto de Volverte a Ver",
       "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "El Pescuezo del Pollo",
-      "url": "https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "La Calandria - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Caminante Recordando los Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "El Remedio - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 128039,
       "name": "El Cisne",
       "url": "https://open.spotify.com/track/3FsjNQox2Yy7tZlQGlPA4d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 145466,
-      "name": "Los Gringos",
-      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
     },
     {
       "added_at": null,
@@ -688,9 +672,25 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 168733,
-      "name": "La Calandria - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
+      "duration_ms": 140920,
+      "name": "El Remedio - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 145466,
+      "name": "Los Gringos",
+      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 226746,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Ya Llego la Banda Toro",
-      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
     },
     {
       "added_at": null,
@@ -752,15 +736,15 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 190013,
-      "name": "El Moro de Cumpas - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 147680,
-      "name": "Camino de Guanajuato Ay Jalisco",
-      "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
+      "duration_ms": 151720,
+      "name": "Ya Llego la Banda Toro",
+      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
     },
     {
       "added_at": null,
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 217760,
-      "name": "Mares de Tristeza",
-      "url": "https://open.spotify.com/track/7N2maLTxo9d7XulVoZe0ok"
+      "duration_ms": 147680,
+      "name": "Camino de Guanajuato Ay Jalisco",
+      "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
     },
     {
       "added_at": null,
@@ -816,9 +800,25 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 206880,
-      "name": "El Cantador - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+      "duration_ms": 190013,
+      "name": "El Moro de Cumpas - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Mares de Tristeza",
+      "url": "https://open.spotify.com/track/7N2maLTxo9d7XulVoZe0ok"
     }
   ],
   "unique_name": "This Is Banda Toro",

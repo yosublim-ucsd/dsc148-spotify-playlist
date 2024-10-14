@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This is Motörhead\. The essential tracks, all in one playlist.
+> This is Motörhead\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,518 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,542 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 47 | [\(I Won't\) Pay Your Price](https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:56 |
 | 48 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 |
 | 49 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
-| 50 | [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 |
+| 50 | [Alligator \- Bomber Demo](https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Bomber Demos](https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH) | 3:29 |
 
-Snapshot ID: `ZwhqgAAAAAAQ7YSmMZGETcK4Zk++r3Ne`
+Snapshot ID: `Zwm8AAAAAACnAdzxJlJuY2QRtmWc923E`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bratty. Los temas esenciales, todos en una lista.",
-  "num_followers": 12455,
+  "description": "This is Bratty. The essential tracks, all in one playlist.",
+  "num_followers": 12458,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAC2wGRMRjC1qv8VCN3Lm6ru",
+  "snapshot_id": "Zwm8AAAAAAB6kcoOP6Cv3gFBFOAZQLk5",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
+      "duration_ms": 187320,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
+      "duration_ms": 229173,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
     },
     {
       "added_at": null,

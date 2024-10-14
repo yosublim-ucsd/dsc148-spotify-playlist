@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,755 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,108 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 27 | [Another Night](https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9) | 3:56 |
 | 28 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
 | 29 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
-| 30 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
-| 31 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
+| 30 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
+| 31 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 32 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
 | 33 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
 | 34 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 40 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
 | 41 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
 | 42 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 43 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
-| 44 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 43 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 44 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
 | 45 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 | 46 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 | 47 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 66 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
 | 67 | [Move On Baby](https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U got 2 know album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 4:51 |
 | 68 | [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 |
-| 69 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
-| 70 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
+| 69 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
+| 70 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 
 Snapshot ID: `ZpV+jQAAAAA90AOdHHkyDbCIPSSEu7hK`

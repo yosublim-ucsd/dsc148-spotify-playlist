@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
+> This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,958 likes - 48 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,976 likes - 48 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 28 | [APENAS UM NENÉM](https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:10 |
 | 29 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
 | 30 | [Programa Favorito \- Ao Vivo](https://open.spotify.com/track/4pw2ElZp6xu4qhRKSNNZ3V) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 3:28 |
-| 31 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
+| 31 | [fome](https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [fome](https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm) | 3:18 |
 | 32 | [SOBREVIVI](https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:18 |
-| 33 | [fome](https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [fome](https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm) | 3:18 |
+| 33 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
 | 34 | [085 RMX](https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [085 RMX](https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK) | 2:43 |
 | 35 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
 | 36 | [BONEKINHA](https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 47 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
 | 48 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
 
-Snapshot ID: `ZwhqgAAAAAD/Dm3VFgLUzHlKtYZ2h3mZ`
+Snapshot ID: `Zwm8AAAAAAC8OLfn1Zw9E+xkWmlMeIUE`

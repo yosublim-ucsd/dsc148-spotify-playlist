@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 227590,
+  "num_followers": 227637,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
     },
     {
-      "added_at": "2024-05-10 16:04:45",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Is This What Love Is?",
@@ -619,6 +603,22 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2024-05-10 16:04:45",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "In Mind",
@@ -715,6 +699,22 @@
       "duration_ms": 187333,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-03-28 22:30:08",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
-    },
-    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "Headlands",
@@ -915,6 +899,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Woman on the Internet",
         "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -959,22 +975,6 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
-    },
-    {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Are You OK?",
@@ -1073,22 +1057,6 @@
       "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 207353,
-      "name": "Be Your Boy",
-      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
-    },
-    {
       "added_at": "2023-07-28 13:45:12",
       "album": {
         "name": "Shell",
@@ -1103,6 +1071,38 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 207353,
+      "name": "Be Your Boy",
+      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
       "added_at": "2024-08-08 19:46:47",
       "album": {
         "name": "The Hit",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "{Awayland}",
         "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 223935,
       "name": "Nothing Arrived",
       "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
-    },
-    {
-      "added_at": "2024-08-08 19:46:47",
-      "album": {
-        "name": "Meet Cute",
-        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Meet Cute",
-      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1345,6 +1329,38 @@
       "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "Meet Cute",
+        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Meet Cute",
+      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "unposted letters",
@@ -1375,38 +1391,6 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 174500,
       "name": "supposed to",
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2024-03-28 22:30:08",

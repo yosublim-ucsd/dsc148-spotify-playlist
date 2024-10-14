@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,703 songs - 3 day 20 hr 44 min
+1,704 songs - 3 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-05-30 | 2024-01-20 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-08-17 |
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2022-04-07 | 2022-04-15 |
+| [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-11 |  |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 | 2024-08-03 |
 | [Brodo](https://open.spotify.com/track/7CXwOsJN3XBiud3Z1eFeeW) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Brodo](https://open.spotify.com/album/7lZujMpNv1dJXSlTOGz4I8) | 3:37 | 2022-03-24 | 2022-08-02 |
 | [Broke Pop Kids](https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Broke Pop Kids](https://open.spotify.com/album/2x7EOR1xG27FUU8rAzjwgG) | 1:54 | 2022-06-17 | 2023-05-09 |
@@ -354,7 +355,7 @@
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/0U4gcE2BhQ0GCMvP9bQKRe) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 2:52 | 2024-05-03 | 2024-08-24 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-16 | 2024-10-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-07 |  |
-| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 | 2024-10-14 |
 | [DIADREAMER](https://open.spotify.com/track/4kGGwhlq124kTrHLIivIbi) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/1tqbAQ13c9u81T3MCZwf3E) | 3:04 | 2022-04-07 | 2022-07-29 |
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-06-29 | 2022-08-02 |
 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/2XhvzUs8rnF71FBadXRaCK) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/7lHPDAKjXWGliwyaNHK4fj) | 2:38 | 2022-06-29 | 2022-07-29 |
@@ -495,7 +496,7 @@
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2022-02-03 | 2022-12-15 |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-05-24 |  |
 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 | 2024-05-31 |  |
-| [forever.](https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [forever.](https://open.spotify.com/album/0LTob0bsx3Ehb2BsJhaEab) | 2:49 | 2024-09-27 | 2024-10-13 |
+| [forever.](https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [forever.](https://open.spotify.com/album/0LTob0bsx3Ehb2BsJhaEab) | 2:49 | 2024-09-27 |  |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 | 2024-08-17 |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-02-09 | 2024-07-29 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-02 |  |
@@ -772,7 +773,7 @@
 | [La Gata](https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [La Gata](https://open.spotify.com/album/0sO7Fx9saDoLs27OquHVb2) | 2:45 | 2022-03-31 | 2022-04-17 |
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-09-08 | 2022-12-15 |
 | [La loi du papillon](https://open.spotify.com/track/15LphkSUL2KESp066yz9T1) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:57 | 2023-11-10 | 2024-05-04 |
-| [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 |  |
+| [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-10-14 |
 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 | 2024-03-15 | 2024-03-18 |
 | [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 | 2022-03-24 | 2022-08-02 |
 | [LA TIRITA](https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:52 | 2022-09-08 | 2023-05-23 |

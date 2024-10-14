@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 328841,
+  "num_followers": 328904,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAArmBEf5DM96+7+12OlyGOd",
+  "snapshot_id": "Zwm8AAAAAACo4/MiVEUH4KtrrfUlj0Nr",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Sumar",
-        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Hay Que Sumar",
-      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Con Olor a Monte (En Vivo)",
         "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hay Que Sumar",
+        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "Hay Que Sumar",
+      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dio Vuelta la Moneda (En Vivo)",
         "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Paro de Compas",
-        "url": "https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 221881,
-      "name": "Un Paro de Compas",
-      "url": "https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 157285,
       "name": "Ay Nom\u00e1s",
       "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Paro de Compas",
+        "url": "https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 221881,
+      "name": "Un Paro de Compas",
+      "url": "https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Que No Me Cuenten",
-        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 127728,
-      "name": "Pa' Que No Me Cuenten",
-      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Pa' Que No Me Cuenten",
+        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 127728,
+      "name": "Pa' Que No Me Cuenten",
+      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 166038,
       "name": "En Fin",
       "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": null,

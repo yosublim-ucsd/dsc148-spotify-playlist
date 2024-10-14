@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 94770,
+  "num_followers": 94814,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -159,22 +143,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
         "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 160946,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -219,6 +203,22 @@
       "duration_ms": 152346,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "April In Paris - Expanded Edition",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 152960,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "April In Paris - Expanded Edition",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
-        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Woman's Got Soul",
-      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 139906,
       "name": "This Time The Dream's On Me - Remastered",
       "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
+        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Woman's Got Soul",
+      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -855,22 +855,6 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -975,6 +959,22 @@
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Stardust: The Music Of Hoagy Carmichael",
+        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 300453,
+      "name": "I Walk With Music",
+      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 196853,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Stardust: The Music Of Hoagy Carmichael",
-        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "I Walk With Music",
-      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
     },
     {
       "added_at": "2024-06-13 12:36:56",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 250739,
+  "num_followers": 250798,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABBLqj+eaWo9Pqu/938rWqz",
+  "snapshot_id": "Zwm8AAAAAACDynqhihQqOrzuViHruEcK",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/6HvimOPNrgFPLXHryKZcB2"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/49OC4mi9ZpUcYp3o9kgzYi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 209928,
-      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
       "artists": [
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
       "artists": [
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
     },
     {
       "added_at": null,
@@ -807,26 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flores Pa Ti",
-        "url": "https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F"
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 99692,
-      "name": "Flores Pa Ti",
-      "url": "https://open.spotify.com/track/3XPJVupqIdQjHoTb8YprXR"
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     },
     {
       "added_at": null,
@@ -847,22 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "Flores Pa Ti",
+        "url": "https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+      "duration_ms": 99692,
+      "name": "Flores Pa Ti",
+      "url": "https://open.spotify.com/track/3XPJVupqIdQjHoTb8YprXR"
     },
     {
       "added_at": null,

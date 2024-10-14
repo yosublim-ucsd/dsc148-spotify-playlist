@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,195 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,349 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 61 | [Wish I Didn't Miss You](https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Hits: The Very Best Of Angie Stone](https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc) | 4:29 |
 | 62 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 |
 | 63 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
-| 64 | [If I Ain't Got You \(feat\. Usher\)](https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 3:50 |
-| 65 | [Bitter With The Sweet](https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:28 |
+| 64 | [Bitter With The Sweet](https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:28 |
+| 65 | [If I Ain't Got You \(feat\. Usher\)](https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 3:50 |
 
 Snapshot ID: `ZnlXMQAAAACFFelwF60Tg30siPjg3Kqn`

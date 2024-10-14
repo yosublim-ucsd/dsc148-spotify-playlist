@@ -1,6 +1,6 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 53790,
+  "num_followers": 53798,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -935,6 +935,26 @@
       "duration_ms": 184226,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -991,7 +1011,7 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
-        "name": "My Everything - Deluxe",
+        "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -1007,26 +1027,6 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
     },
     {
       "added_at": "2024-07-15 19:10:01",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-07-15 19:10:01",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2024-07-15 19:10:01",
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 251733,
       "name": "Pony",
       "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2024-07-15 19:10:01",
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "I Kissed A Girl",
-      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
     },
     {
       "added_at": "2024-07-15 19:10:01",

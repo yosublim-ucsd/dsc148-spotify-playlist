@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This is Carin Leon\. The essential tracks, all in one playlist.
+> This Is Carin Leon\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,208 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,560 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 50 | [Guaro \- Remix](https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS) | 3:42 |
 | 51 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
 
-Snapshot ID: `ZwhqgAAAAACPvc1XfyxymHVC70OSFfAW`
+Snapshot ID: `Zwm8AAAAAAA1LdJ5OH4JZ3WOXvlIJwCB`

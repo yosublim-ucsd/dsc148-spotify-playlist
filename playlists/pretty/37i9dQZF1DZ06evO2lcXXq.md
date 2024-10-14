@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,978 likes - 44 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,011 likes - 44 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 31 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
 | 32 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 |
 | 33 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
-| 34 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 |
-| 35 | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4OhUVpDdEsIHKL1t3KfkEN) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/album/4PgBGxC2dSWSTn90lUpf0r) | 4:01 |
+| 34 | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4OhUVpDdEsIHKL1t3KfkEN) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/album/4PgBGxC2dSWSTn90lUpf0r) | 4:01 |
+| 35 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 |
 | 36 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 |
 | 37 | [Kaleidoscope Jesus](https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:54 |
 | 38 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 43 | [You Are So Beautiful \- Live Acoustic](https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 2:50 |
 | 44 | [You're All I'll Take With Me \- Live Acoustic](https://open.spotify.com/track/6N6Pn9vCqy22eVaYIGlDN5) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 3:26 |
 
-Snapshot ID: `ZwhqgAAAAACwLiB5LVvmpz/rfigI36lb`
+Snapshot ID: `Zwm8AAAAAABKOG9NsQgG9GTwqJD0i+gR`

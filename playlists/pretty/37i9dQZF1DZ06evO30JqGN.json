@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 124432,
+  "num_followers": 124491,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAyuhneX52PgmGnwDmSo1fl",
+  "snapshot_id": "Zwm8AAAAAACjiCyK97Pwvhcd+qQdF5w5",
   "tracks": [
     {
       "added_at": null,
@@ -466,11 +466,19 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 127085,
-      "name": "Session 33",
-      "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
+      "duration_ms": 225502,
+      "name": "Ex For A Reason (with JT from City Girls)",
+      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
     },
     {
       "added_at": null,
@@ -542,19 +550,11 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 225502,
-      "name": "Ex For A Reason (with JT from City Girls)",
-      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+      "duration_ms": 127085,
+      "name": "Session 33",
+      "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 柯智棠 \(Kowen Ko\)
 
-278 songs - 17 hr 6 min
+279 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
 | [Cult Film Club](https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4) | [姿態](https://open.spotify.com/album/7qV4doZ5ML6hqwxalH0VHF) | 4:05 | 2024-01-25 | 2024-04-26 |
 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 | 2024-10-03 |  |
+| [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 | 2024-10-10 |  |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2024-09-19 |  |
 | [Disneyland](https://open.spotify.com/track/6fVMbf2gHADlE4rstGL1O9) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [The Make](https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr) | 4:38 | 2024-08-01 | 2024-08-23 |
 | [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 | 2024-07-04 | 2024-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 47 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 47 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 16 | [Don't Worry \(feat\. Ink\)](https://open.spotify.com/track/2MUTyvTF8gnrxz4KKNHkCo) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 6:41 |
 | 17 | [Made It from Nothing \(feat\. Teyana Taylor and Rick Ross\)](https://open.spotify.com/track/7yGJcaSJgpgXamjmXBCb6j) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:09 |
 | 18 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 |
-| 19 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 |
-| 20 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
+| 19 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
+| 20 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 |
 | 21 | [Magnolias](https://open.spotify.com/track/0VrVlWutHnOk0QLeO7gD77) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:22 |
 | 22 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
 | 23 | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 46 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 47 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `AbenaAAAAABMrXYqqVO0+tkYY85+iFBp`
+Snapshot ID: `AbetCAAAAAAoQmSj6T4Gx8/i7O9gbd7b`

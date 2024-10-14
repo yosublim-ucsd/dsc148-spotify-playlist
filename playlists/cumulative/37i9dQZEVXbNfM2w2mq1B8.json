@@ -7638,7 +7638,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 273088,
       "name": "DRUGITE OTKACHALKI",
       "url": "https://open.spotify.com/track/2SN3kNjOORlCqMLev26bxh"
@@ -11418,7 +11418,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -17238,7 +17238,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -24102,7 +24102,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -24182,7 +24182,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
@@ -24778,6 +24778,24 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "Antologia Chast II (Anthology Part II)",
+        "url": "https://open.spotify.com/album/37UgEaPIYfJz588ZAZlRKq"
+      },
+      "artists": [
+        {
+          "name": "Shturcite",
+          "url": "https://open.spotify.com/artist/4lSoH3WMMc6shXt7SqKmBc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226278,
+      "name": "Sreshta",
+      "url": "https://open.spotify.com/track/1NdMCqqBTK5sYNAEtuidRt"
     },
     {
       "album": {
@@ -25820,7 +25838,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
@@ -26710,7 +26728,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -31941,6 +31959,28 @@
     },
     {
       "album": {
+        "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+        "url": "https://open.spotify.com/album/0pgHY9e9q8xDUsTVa4uaQb"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+      "url": "https://open.spotify.com/track/5DSTJrhbGnfOz1IDI0tE2A"
+    },
+    {
+      "album": {
         "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
         "url": "https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g"
       },
@@ -32836,7 +32876,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 192130,
       "name": "\u041b\u043e\u0448 \u0438\u043b\u0438 \u0434\u043e\u0431\u044a\u0440",
       "url": "https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9"
@@ -33990,7 +34030,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 168333,
       "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
       "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
@@ -35178,7 +35218,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 171902,
       "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"

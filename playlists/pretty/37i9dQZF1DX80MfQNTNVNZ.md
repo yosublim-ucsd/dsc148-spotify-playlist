@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,805 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,861 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 28 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
 | 29 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 |
 | 30 | [DISTRACT ME \- ft\. Jyodan](https://open.spotify.com/track/2LX3FMvSdSxs35reHTtifF) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [DISTRACT ME \- ft\. Jyodan](https://open.spotify.com/album/0TCZ8S74pzsyZk4BAZicDV) | 2:33 |
-| 31 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
-| 32 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 |
+| 31 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 |
+| 32 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
 | 33 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
 | 34 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 |
 | 35 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 57 | [Oh Why](https://open.spotify.com/track/6CeG3pbRAjcv78ca1ONW7K) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Oh Why](https://open.spotify.com/album/5voNr92YRmiItz5FnU3fAW) | 3:06 |
 | 58 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
 | 59 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
-| 60 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
+| 60 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
 Snapshot ID: `Zwk3cgAAAAB+Yzblm4KTa073MnwBwBlH`

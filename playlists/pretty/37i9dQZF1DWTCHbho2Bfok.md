@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,002 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,988 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 44 | [The Little Drummer Boy](https://open.spotify.com/track/5byWqEEi3ZdTpz3UJafR91) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 3:33 |
 | 45 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 |
 | 46 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/37UhuyGwWHgS1dhTePiJBy) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:50 |
-| 47 | [We Wish You a Merry Christmas / End Title \- Voice](https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \- Anniversary Edition](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:14 |
+| 47 | [We Wish You a Merry Christmas / End Title \- Voice](https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:14 |
 | 48 | [Frosty The Snowman](https://open.spotify.com/track/2xvxRzlLQxVIKRuaWi3Bax) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 2:11 |
 | 49 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
 | 50 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/6ezuSFl2RsptFG7hyZLWVT) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,932 likes - 328 songs - 20 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,934 likes - 328 songs - 20 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 116 | [Radioactive](https://open.spotify.com/track/1p72DhSVCYhdO5Or2Nd11I) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:11 |
 | 117 | [Now or Never](https://open.spotify.com/track/2gPM5iXzORTiUUyCD3eqxQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 5th Mini Album \[ Sensuous \]](https://open.spotify.com/album/7MAqtgwyn1KTCdmnAoSUfx) | 3:32 |
 | 118 | [Magic](https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:29 |
-| 119 | [Hey Boy](https://open.spotify.com/track/4wWrwl1T0Wa94ophzTgBdT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:29 |
-| 120 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
+| 119 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
+| 120 | [Hey Boy](https://open.spotify.com/track/4wWrwl1T0Wa94ophzTgBdT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:29 |
 | 121 | [Deer In Headlights](https://open.spotify.com/track/0YGu5VbKdxYOB9FSfbweX3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:25 |
 | 122 | [You've Changed](https://open.spotify.com/track/4cGNEByoQ3adGfq9rFGH2t) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:11 |
 | 123 | [It's Time \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/3j4lctlzJqDLNZjTLmc9CV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:29 |
@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 222 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
 | 223 | [Pin Drop](https://open.spotify.com/track/6pisAbsm7n5LOTkhPWsKWi) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:59 |
 | 224 | [Dreaming](https://open.spotify.com/track/3wXFZOXzoole2NXH3orG8I) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [The Early Albums Collection 1957\-1963 \[Disc 4\]](https://open.spotify.com/album/56S5sGov4GPA5HDiih0id7) | 2:44 |
-| 225 | [3 Minutes 'Til New Years](https://open.spotify.com/track/3z3bA1b0df9exR6yc9rChM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:40 |
-| 226 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
+| 225 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
+| 226 | [3 Minutes 'Til New Years](https://open.spotify.com/track/3z3bA1b0df9exR6yc9rChM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:40 |
 | 227 | [Lie To Me](https://open.spotify.com/track/6iZEk6JVdmbNPLhtaCGeIa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
 | 228 | [Butterflies](https://open.spotify.com/track/48Cf7df74BjUz9rWJXXwXb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:22 |
 | 229 | [If I Can't Have You](https://open.spotify.com/track/4UcHHWe2rUMjvO1JnYhAzq) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:26 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 327 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 328 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbenVAAAAAB3hGUH1WZbk78tqxKvbvQH`
+Snapshot ID: `Abes6gAAAACgqTF3ou3rtMQlbWO4qDsa`

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: レトロリロン
 
-1,927 songs - 4 day 23 hr 50 min
+1,929 songs - 4 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [25](https://open.spotify.com/track/1YSJWOAY8r5tWVOvekY9bi) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Sugar House](https://open.spotify.com/album/76Ay3WdOwB9FZJ0mVaWxgx) | 3:44 | 2024-01-16 | 2024-01-24 |
 | [27](https://open.spotify.com/track/3PcJpYWgLETjUx1anD13B7) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz) | [27](https://open.spotify.com/album/4v6DOkGMoF2SV76CZKWzwB) | 2:06 | 2023-11-30 | 2023-12-06 |
 | [2人は飛び降りた](https://open.spotify.com/track/0pFQvJ2re0mMT5DF8o2gjE) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [2人は飛び降りた](https://open.spotify.com/album/2QpRd89ajCuOe0vZUWkPKb) | 3:57 | 2023-09-26 | 2023-09-28 |
-| [40℃](https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [40℃](https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B) | 2:54 | 2024-09-03 |  |
+| [40℃](https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [40℃](https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B) | 2:54 | 2024-09-03 | 2024-10-14 |
 | [6a6ylon 6illy](https://open.spotify.com/track/3jyhTziThZReJcJvsMylnQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [ku ru i](https://open.spotify.com/album/2NfbawZAo52pxLPkn54Ce0) | 2:07 | 2024-05-28 | 2024-06-05 |
 | [6月は愛について](https://open.spotify.com/track/5pzbLN7UbYjZz7zRZsAKri) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/4IrEjA3UuyN5o1TAr3aVU9) | 3:09 | 2023-08-08 | 2023-08-10 |
 | [777](https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [777](https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof) | 3:54 | 2024-09-17 | 2024-10-05 |
@@ -92,6 +92,7 @@
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-07 | 2024-03-13 |
 | [AUGHOST](https://open.spotify.com/track/3v4FtGIzDeWESUYg1q092k) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ffbWXYFwz2c8yfFjVOceR) | 4:37 | 2024-03-07 | 2024-03-09 |
 | [Aura](https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ) | [Masaya Kudo](https://open.spotify.com/artist/2Jw7yBPDAHziuP4rQf0dEX) | [View from the window](https://open.spotify.com/album/0iQmiTEWmnTHA8FmMManGC) | 3:48 | 2023-06-20 | 2023-06-28 |
+| [B.B.M.](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M.](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 | 2024-10-08 |  |
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-09 |
 | [Baby So in Love](https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 3:43 | 2023-05-02 | 2023-05-24 |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-20 |
@@ -378,6 +379,7 @@
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-04-13 |
 | [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 | 2023-12-07 | 2024-01-16 |
 | [ghost](https://open.spotify.com/track/4PnMehwWIc95zaEM3VF9Qw) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ghost](https://open.spotify.com/album/4tAtPIxRdiS42KHFa4QIhA) | 3:48 | 2024-05-21 | 2024-05-29 |
+| [Ghost on Holiday](https://open.spotify.com/track/2v8ctOeTwqeqkrMxiMttvL) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Ghost on Holiday](https://open.spotify.com/album/7f44ySC4VuGA6CbcgNlS0d) | 3:18 | 2024-10-08 |  |
 | [Ghostyard](https://open.spotify.com/track/3oLqV1WFo9YqBKiOzEFUn9) | [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Ghostyard](https://open.spotify.com/album/7r64o5DHZdPqhf2FoYTT5C) | 3:39 | 2023-01-17 | 2023-01-25 |
 | [GIRIGIRI GIRL](https://open.spotify.com/track/5rdmr4IyRZwudS44rQdxma) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [GIRIGIRI GIRL](https://open.spotify.com/album/6a2mJptpyDgHXF6OdaNWgt) | 3:25 | 2023-06-20 | 2023-07-05 |
 | [girls lie.](https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 2:45 | 2024-02-06 | 2024-03-20 |
@@ -1153,7 +1155,7 @@
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-05-11 |
 | [uturu](https://open.spotify.com/track/37s2uTq6xvtMGtmwdUsZuj) | [水いらず](https://open.spotify.com/artist/411mMeumIPQMuCpEWhHTf8) | [uturu](https://open.spotify.com/album/5vFa1lEnLhb3uqx31h7HMf) | 3:32 | 2023-12-14 | 2024-01-10 |
 | [Uwatsuitakimochi](https://open.spotify.com/track/6tVvbQpZGyr4CdgVnp2hju) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN), [鎮座DOPENESS](https://open.spotify.com/artist/2yV4op1t2gPNi8AxB3tQWu) | [Uwatsuitakimochi](https://open.spotify.com/album/4xQayA0X8dIsrJ5LDoLyso) | 4:26 | 2023-08-08 | 2023-08-16 |
-| [vector](https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [vector](https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx) | 5:03 | 2024-10-01 |  |
+| [vector](https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [vector](https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx) | 5:03 | 2024-10-01 | 2024-10-14 |
 | [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 | 2024-01-09 | 2024-01-29 |
 | [Vernel](https://open.spotify.com/track/6Nb3604lJv62qluZk2eybR) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t) | [Vernel](https://open.spotify.com/album/2JrpfyDcgl1BWfQQyTPcGt) | 3:50 | 2024-02-13 | 2024-02-21 |
 | [violet](https://open.spotify.com/track/7G7ugnWj3iYMCCEYn171lN) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [violet](https://open.spotify.com/album/04bHJcq13Fuh20o3pgmDY0) | 3:52 | 2023-02-21 | 2023-03-08 |

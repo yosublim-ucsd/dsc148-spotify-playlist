@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,150 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357,399 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 25 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 26 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 | 27 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
-| 28 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 29 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
+| 28 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
+| 29 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 30 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 31 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \- 2015 Remaster](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 32 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 59 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \- 2015 Remaster](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
 | 60 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [Len](https://open.spotify.com/artist/48myrQPAhsexXZVSN5YpL6) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 61 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
-| 62 | [Roll To Me](https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 2:12 |
-| 63 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
+| 62 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
+| 63 | [Roll To Me](https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 2:12 |
 | 64 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
 | 65 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Pet Your Friends](https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy) | 4:51 |
 | 66 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 82 | [Shimmer](https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [The Best of Fuel](https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq) | 3:34 |
 | 83 | [Run\-Around](https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Travelogue: Blues Traveler Classics](https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I) | 4:40 |
 | 84 | [Lullaby](https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Soul's Core](https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9) | 5:29 |
-| 85 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
-| 86 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
+| 85 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
+| 86 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
 | 87 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 88 | [Laid](https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN) | 2:36 |
 | 89 | [Everything About You](https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [As Ugly As It Gets: The Very Best Of](https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj) | 4:15 |

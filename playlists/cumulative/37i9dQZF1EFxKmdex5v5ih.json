@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Gateway Drug",
+        "url": "https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Gateway Drug",
+      "url": "https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x"
+    },
+    {
+      "album": {
         "name": "Get Out Of My Head",
         "url": "https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u"
       },

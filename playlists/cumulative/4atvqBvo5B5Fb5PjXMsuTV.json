@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Oct 19:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Oct 16:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 176399,
       "name": "Charlie Sloth",
       "url": "https://open.spotify.com/track/4HKhE9L4dY6Y9LfKRr2ISn"
@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 155314,
       "name": "Cheers to Good Friends",
       "url": "https://open.spotify.com/track/6ShcaqMvlBcdsiZr23fDzk"
@@ -11748,7 +11748,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 214374,
       "name": "Defeatist",
       "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
@@ -13954,6 +13954,24 @@
       "duration_ms": 155106,
       "name": "e-m@il",
       "url": "https://open.spotify.com/track/4jqOJHb9fMwwkS2iBPIt0K"
+    },
+    {
+      "album": {
+        "name": "earth child's lullaby",
+        "url": "https://open.spotify.com/album/3G35ioo66aOroUCbTHYfvq"
+      },
+      "artists": [
+        {
+          "name": "TOFIE",
+          "url": "https://open.spotify.com/artist/4pnrk5QCXeKifcD98STB24"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "earth child's lullaby",
+      "url": "https://open.spotify.com/track/4cuHmv8OaPgW3Xe1AsLYEC"
     },
     {
       "album": {
@@ -18356,7 +18374,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 155270,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4q0xjaNg1RWnNJQ2qGK6ye"
@@ -18976,7 +18994,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 82917,
       "name": "givenchy jeans",
       "url": "https://open.spotify.com/track/3xlQipBAHPoTwQ8fXRtKxj"
@@ -27725,6 +27743,36 @@
     },
     {
       "album": {
+        "name": "Like a Martian",
+        "url": "https://open.spotify.com/album/2nbEtyK7bU07qbiPKU1CeE"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Suuk\u00ee",
+          "url": "https://open.spotify.com/artist/04OxOK6wmReaQ3t4jHWWjQ"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Like a Martian",
+      "url": "https://open.spotify.com/track/25vomutk1iGRHf44Fqriy9"
+    },
+    {
+      "album": {
         "name": "Like a Sunken Ship",
         "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
       },
@@ -33847,6 +33895,24 @@
     },
     {
       "album": {
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+    },
+    {
+      "album": {
         "name": "NOW IS THE TIME",
         "url": "https://open.spotify.com/album/1AtGIVwhy4cRl19AM9zflA"
       },
@@ -37751,6 +37817,24 @@
     },
     {
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
+    },
+    {
+      "album": {
         "name": "Quenched Galaxy",
         "url": "https://open.spotify.com/album/3jRcJriNVViqLUBJF0bfaQ"
       },
@@ -41342,6 +41426,24 @@
       "duration_ms": 162865,
       "name": "Shocker",
       "url": "https://open.spotify.com/track/510HQPwzDpAi3KM363rc32"
+    },
+    {
+      "album": {
+        "name": "Shoka",
+        "url": "https://open.spotify.com/album/7GKFCvaNkswfB5Iwn3aal4"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Shoka",
+      "url": "https://open.spotify.com/track/4TNbxDamkMwEEr2rfX0Z1u"
     },
     {
       "album": {
@@ -46264,7 +46366,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 176121,
       "name": "Temptress",
       "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
@@ -52274,6 +52376,24 @@
       "duration_ms": 136276,
       "name": "What Girls Do",
       "url": "https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4"
+    },
+    {
+      "album": {
+        "name": "Dear Hyeri, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR"
     },
     {
       "album": {

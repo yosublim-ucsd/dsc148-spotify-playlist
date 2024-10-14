@@ -1,6 +1,6 @@
 {
   "description": "Jesie\u0144 nigdy nie brzmia\u0142a tak dobrze \ud83c\udf42",
-  "num_followers": 329385,
+  "num_followers": 329524,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "this is what forever feels like",
-        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 154841,
-      "name": "this is what forever feels like (with Nick Jonas)",
-      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -915,22 +899,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "The Table",
-        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -951,18 +919,18 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -983,18 +951,34 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji"
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea"
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "In The Modern World",
-        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 266884,
-      "name": "In The Modern World",
-      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -1043,6 +1027,22 @@
       "duration_ms": 187193,
       "name": "Zdj\u0119cia",
       "url": "https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
     },
     {
       "added_at": "2024-10-07 08:06:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-07 08:06:08",
       "album": {
-        "name": "Waiting on the Right Time",
-        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Waiting on the Right Time",
-      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
-    },
-    {
-      "added_at": "2024-10-07 08:06:08",
-      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
+    },
+    {
+      "added_at": "2024-10-07 08:06:08",
+      "album": {
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
       "added_at": "2024-10-07 08:06:08",

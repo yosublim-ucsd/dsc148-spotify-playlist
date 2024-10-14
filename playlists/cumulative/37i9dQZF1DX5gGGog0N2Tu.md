@@ -4,7 +4,7 @@
 
 > 𝙮𝙤𝙪 𝙨𝙖𝙮 𝙣𝙤 𝙤𝙣𝙚 𝙠𝙣𝙤𝙬𝙨 𝙮𝙤𝙪 𝙨𝙤 𝙬𝙚𝙡𝙡 🍂
 
-237 songs - 12 hr 20 min
+238 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [CHICA ITALIANA \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6wNV3vazt1cu9OoK1awlY1) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:46 | 2024-07-04 | 2024-07-10 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 |  |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-06-27 | 2024-07-10 |
-| [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-10-03 |  |
+| [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-10-03 | 2024-10-14 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 | 2024-09-19 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-06-27 | 2024-07-10 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2024-06-27 | 2024-07-10 |
@@ -123,6 +123,7 @@
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2024-06-27 | 2024-07-10 |
 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-07-26 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-10-03 |  |
+| [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 |  |
 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 | 2024-09-09 | 2024-10-04 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-26 |  |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-07 |  |

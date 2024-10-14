@@ -1,6 +1,6 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean",
-  "num_followers": 80590,
+  "num_followers": 80639,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
@@ -343,38 +343,6 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
-        "name": "Bayo | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/1ILKU55wcEY2SHkDYZvuBJ"
-      },
-      "artists": [
-        {
-          "name": "Cyli Khare",
-          "url": "https://open.spotify.com/artist/78n9RAOLkZtH6PMLf7LErN"
-        },
-        {
-          "name": "Srushti Tawade",
-          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
-        },
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
-        },
-        {
-          "name": "Curtain Blue",
-          "url": "https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15"
-        },
-        {
-          "name": "Girgaon Dhwajapathak",
-          "url": "https://open.spotify.com/artist/3jn0g2zgPfjHKyX1fE5xsl"
-        }
-      ],
-      "duration_ms": 201646,
-      "name": "Bayo | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
         "name": "Rangaara (2024)",
         "url": "https://open.spotify.com/album/7oud5Ne4eb9maV7axSLPeB"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 187499,
       "name": "Rangaara",
       "url": "https://open.spotify.com/track/7pmmn0ghP1gtMGrP0TquQv"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Bayo | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/1ILKU55wcEY2SHkDYZvuBJ"
+      },
+      "artists": [
+        {
+          "name": "Cyli Khare",
+          "url": "https://open.spotify.com/artist/78n9RAOLkZtH6PMLf7LErN"
+        },
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        },
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        },
+        {
+          "name": "Curtain Blue",
+          "url": "https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15"
+        },
+        {
+          "name": "Girgaon Dhwajapathak",
+          "url": "https://open.spotify.com/artist/3jn0g2zgPfjHKyX1fE5xsl"
+        }
+      ],
+      "duration_ms": 201646,
+      "name": "Bayo | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -551,30 +551,6 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
         "name": "Aisi Mhari Preet (Eternal Love) [Sabr]",
         "url": "https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND"
       },
@@ -631,6 +607,30 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
         "name": "Runak Jhunak",
         "url": "https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT"
       },
@@ -643,58 +643,6 @@
       "duration_ms": 190539,
       "name": "Runak Jhunak",
       "url": "https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
-        "name": "Ek Nazar",
-        "url": "https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 444600,
-      "name": "Ek Nazar",
-      "url": "https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
-        "name": "Kabir Cafe Live",
-        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        }
-      ],
-      "duration_ms": 260486,
-      "name": "Ghat Ghat",
-      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
-        "name": "Bhammariyo",
-        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
-      },
-      "artists": [
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
-        },
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        }
-      ],
-      "duration_ms": 233644,
-      "name": "Bhammariyo",
-      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -719,6 +667,42 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
+        "name": "Ek Nazar",
+        "url": "https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 444600,
+      "name": "Ek Nazar",
+      "url": "https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Bhammariyo",
+        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
+      },
+      "artists": [
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "duration_ms": 233644,
+      "name": "Bhammariyo",
+      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
         "name": "Chhap Tilak",
         "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 271058,
       "name": "Chhap Tilak",
       "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Kabir Cafe Live",
+        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        }
+      ],
+      "duration_ms": 260486,
+      "name": "Ghat Ghat",
+      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
-        "name": "Peele Amiras (Sabr)",
-        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        }
-      ],
-      "duration_ms": 315869,
-      "name": "Peele Amiras - Sabr",
-      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
         "name": "Matwari",
         "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
       },
@@ -815,6 +795,30 @@
       "duration_ms": 200000,
       "name": "Matwari",
       "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Saacha Sahib",
+        "url": "https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Saacha Sahib",
+      "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -859,26 +863,22 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
-        "name": "Saacha Sahib",
-        "url": "https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI"
+        "name": "Peele Amiras (Sabr)",
+        "url": "https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg"
       },
       "artists": [
         {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
         },
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Javed Bashir",
-          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Saacha Sahib",
-      "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"
+      "duration_ms": 315869,
+      "name": "Peele Amiras - Sabr",
+      "url": "https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -895,50 +895,6 @@
       "duration_ms": 233760,
       "name": "Ekla Cholo Re",
       "url": "https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
-        "name": "Shakkar",
-        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
-        }
-      ],
-      "duration_ms": 295135,
-      "name": "Shakkarpari",
-      "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
-    },
-    {
-      "added_at": "2024-10-09 06:19:02",
-      "album": {
-        "name": "Saawariyo",
-        "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
-      },
-      "artists": [
-        {
-          "name": "Atmanam",
-          "url": "https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz"
-        },
-        {
-          "name": "Aditya Gadhvi",
-          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
-        }
-      ],
-      "duration_ms": 265124,
-      "name": "Saawariyo",
-      "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -963,6 +919,50 @@
       "duration_ms": 255000,
       "name": "Saajan",
       "url": "https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Saawariyo",
+        "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
+      },
+      "artists": [
+        {
+          "name": "Atmanam",
+          "url": "https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        }
+      ],
+      "duration_ms": 265124,
+      "name": "Saawariyo",
+      "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
+    },
+    {
+      "added_at": "2024-10-09 06:19:02",
+      "album": {
+        "name": "Shakkar",
+        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+        }
+      ],
+      "duration_ms": 295135,
+      "name": "Shakkarpari",
+      "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
     },
     {
       "added_at": "2024-10-09 06:19:02",
@@ -1019,22 +1019,26 @@
     {
       "added_at": "2024-10-09 06:19:02",
       "album": {
-        "name": "Kon Halave Limdi (Reprise)",
-        "url": "https://open.spotify.com/album/5tyRG2a7FMXAVr39NmOYKS"
+        "name": "We for Love",
+        "url": "https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo"
       },
       "artists": [
         {
-          "name": "Dhaval Kothari",
-          "url": "https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt"
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
         },
         {
-          "name": "Sarthak Kalyani",
-          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        },
+        {
+          "name": "Malini Awasthi",
+          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
         }
       ],
-      "duration_ms": 238433,
-      "name": "Kon Halave Limdi - Reprise",
-      "url": "https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2"
+      "duration_ms": 293500,
+      "name": "Divine Krishna",
+      "url": "https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk"
     }
   ],
   "unique_name": "Folk in India",

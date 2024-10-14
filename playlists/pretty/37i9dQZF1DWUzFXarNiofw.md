@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,903 likes - 198 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,992 likes - 198 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 164093,
+  "num_followers": 164107,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Midnight on the Stormy Deep",
         "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -255,38 +255,6 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Last Slice Of Heaven",
-        "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
-      },
-      "artists": [
-        {
-          "name": "Jack McKeon",
-          "url": "https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Last Slice Of Heaven",
-      "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -307,6 +275,38 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Last Slice Of Heaven",
+        "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
+      },
+      "artists": [
+        {
+          "name": "Jack McKeon",
+          "url": "https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Last Slice Of Heaven",
+      "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Brown's Ferry Blues",
         "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 226955,
       "name": "Brown's Ferry Blues",
       "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Powder Day",
         "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 260000,
       "name": "Powder Day",
       "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 152440,
       "name": "Salty Dog Blues - Live",
       "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+      },
+      "artists": [
+        {
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Blue Railroad Train",
         "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 236213,
       "name": "Living In A Song",
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-10-04 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 111753,
+  "num_followers": 111802,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABUWiChKbdsD2I9cQDN+RP8",
+  "snapshot_id": "Zwm8AAAAAAB8GsCfu5wVgdMii6UXkYX/",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
       "artists": [
         {
@@ -580,17 +580,13 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
+      "duration_ms": 227647,
+      "name": "Tony Montana (feat. Tornillo)",
+      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,
@@ -619,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
       },
       "artists": [
         {
@@ -628,13 +624,17 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 227647,
-      "name": "Tony Montana (feat. Tornillo)",
-      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
+      "duration_ms": 283747,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 212666,
       "name": "Estilo Malandro",
       "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 193219,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 193219,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 270093,
       "name": "Mala Fama, Buena Vidha",
       "url": "https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,

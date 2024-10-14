@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-603 songs - 1 day 12 hr 30 min
+604 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-03 | 2022-10-03 |
 | [Brown Eyed Girl](https://open.spotify.com/track/4cRILh1CrOeqPfeOao8Ygl) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [Brown Eyed Girl](https://open.spotify.com/album/1Ku5pnag29dA2UCj7MrTc2) | 4:32 | 2023-06-16 | 2023-07-01 |
 | [Butterflies](https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Butterflies](https://open.spotify.com/album/2h1DBv3Q0QtwcqkGSrX0cE) | 2:50 | 2024-07-19 |  |
+| [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 | 2024-10-13 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2022-08-26 | 2023-08-26 |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 | 2023-04-30 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-15 |  |
@@ -107,7 +108,7 @@
 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 | 2021-12-03 | 2023-09-09 |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
 | [Colour Blind](https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 2:35 | 2022-11-11 |  |
-| [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 |  |
+| [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 | 2024-10-14 |
 | [Come Inside](https://open.spotify.com/track/4AcJVooOCZexEq1INGT6wP) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [R&B MONEY: THE VAULT](https://open.spotify.com/album/4xlyHXPpfdqPKDBvoBiKTK) | 3:21 | 2024-04-26 | 2024-05-18 |
 | [Comin' Outta The Rain](https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Comin' Outta The Rain](https://open.spotify.com/album/2mPK46ebGz3WqCx3YaNYcr) | 3:09 | 2021-12-03 | 2022-07-22 |
 | [Confusional](https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:24 | 2024-09-13 |  |

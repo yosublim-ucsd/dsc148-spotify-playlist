@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611286,
+  "num_followers": 611290,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 231480,
       "name": "Monkey Wrench",
       "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "ZOMBIFIED",
-        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "ZOMBIFIED",
-      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+        "name": "ZOMBIFIED",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+      "duration_ms": 218520,
+      "name": "ZOMBIFIED",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -403,6 +387,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "Tripping Over Air",
         "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Burning Down the House",
         "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 218093,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Things Are Different Now",
         "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 174428,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Welcome to the DCC",
         "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "GALORE",
+        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 183849,
       "name": "Time :: Fate :: Karma :: God",
       "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "GALORE",
-        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Sex Party",
         "url": "https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 167225,
       "name": "Sex Party",
       "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1563,22 +1579,6 @@
       "duration_ms": 229212,
       "name": "Too Good At Raising Hell",
       "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2024-10-10 16:12:27",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 21713,
+  "num_followers": 21716,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACojbEOP0uxwrJFViQbR3Q4",
+  "snapshot_id": "Zwm8AAAAAAC8tNzyQmNWMIlxTN01zogB",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Perfeito",
+        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Plano Perfeito",
+      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seja Forte",
         "url": "https://open.spotify.com/album/3mdrAMknncQfphwa2wukcx"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 410196,
       "name": "Seja Forte",
       "url": "https://open.spotify.com/track/1DPEMTb3jjjtEFtA4PyG9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Perfeito",
-        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Plano Perfeito",
-      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
     },
     {
       "added_at": null,
@@ -1107,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chore N\u00e3o",
         "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 176111,
       "name": "Chore N\u00e3o",
       "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1239,22 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
         },
         {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,
@@ -1283,22 +1283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
       },
       "artists": [
         {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,

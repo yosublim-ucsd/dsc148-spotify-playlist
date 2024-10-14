@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 90323,
+  "num_followers": 90387,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Buscando America",
         "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
       },
@@ -183,62 +203,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 377253,
-      "name": "Ag\u00fazate",
-      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "La Universidad de La Salsa",
         "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
@@ -251,6 +215,22 @@
       "duration_ms": 301373,
       "name": "Y No Hago Mas Na'",
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Cheo",
+        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -275,6 +255,26 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 377253,
+      "name": "Ag\u00fazate",
+      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Creativo",
         "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
@@ -287,6 +287,38 @@
       "duration_ms": 305057,
       "name": "Zumbale",
       "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -307,26 +339,6 @@
       "duration_ms": 302413,
       "name": "Trucutu",
       "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -355,6 +367,26 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "V\u00e1monos Pa'l Monte",
         "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
@@ -367,54 +399,6 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Roberto Roena Y Su Apollo Sound",
-        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 199049,
-      "name": "Tu Loco Loco Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -439,18 +423,38 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
+        "name": "Roberto Roena Y Su Apollo Sound",
+        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
       },
       "artists": [
         {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 383533,
-      "name": "Yambeque",
-      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
+      "duration_ms": 199049,
+      "name": "Tu Loco Loco Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -471,6 +475,22 @@
       "duration_ms": 311676,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/5zghcVb5R77fbZPUj2jZTm"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 383533,
+      "name": "Yambeque",
+      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -511,22 +531,18 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 371773,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -547,18 +563,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 304200,
-      "name": "Oh Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
+      "duration_ms": 306640,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -631,42 +651,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Salsa Y Control",
-        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Salsa Y Control",
-      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 306640,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 252000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Salsa Y Control",
+        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Salsa Y Control",
+      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -799,46 +799,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "The Last Fight",
-        "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 513320,
-      "name": "Yo Puedo Vivir Del Amor",
-      "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Soy Feliz",
         "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
       },
@@ -875,6 +835,26 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -895,18 +875,42 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Rey del Bajo",
-        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
+        "name": "The Last Fight",
+        "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
       "artists": [
         {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 327520,
-      "name": "Cuando Te Vea",
-      "url": "https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z"
+      "duration_ms": 513320,
+      "name": "Yo Puedo Vivir Del Amor",
+      "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Tumi Cuba Classics Volume 4: Son",
+        "url": "https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS"
+      },
+      "artists": [
+        {
+          "name": "Son 14",
+          "url": "https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht"
+        },
+        {
+          "name": "Adalberto Alvarez",
+          "url": "https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Tal Vez Vuelvas a Llamarme",
+      "url": "https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn"
     }
   ],
   "unique_name": "Salsa Brava",

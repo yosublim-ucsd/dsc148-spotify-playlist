@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: RYAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,174 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,195 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 47 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 | 48 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
 | 49 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
-| 50 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 |
-| 51 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
+| 50 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
+| 51 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 |
 | 52 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
 | 53 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 54 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 70 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 71 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
 | 72 | [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 |
-| 73 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
-| 74 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 |
-| 75 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
+| 73 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 |
+| 74 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
+| 75 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
 
 Snapshot ID: `Zv9oQAAAAAD64B8ztuL80pc37z0uxB95`

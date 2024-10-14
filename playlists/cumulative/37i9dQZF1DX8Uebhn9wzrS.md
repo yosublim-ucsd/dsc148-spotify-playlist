@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,101 songs - 3 day 8 hr 4 min
+2,102 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,7 +729,7 @@
 | [Ghosting](https://open.spotify.com/track/5vrt91IhW5lQW6fUUFV2hW) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ghosting](https://open.spotify.com/album/7uqNftaPHWWHpsuikVidsS) | 2:17 | 2022-09-16 | 2023-01-07 |
 | [Giant Emoji](https://open.spotify.com/track/2bbujVEjRsJFvKnzlzhbpQ) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 3:18 | 2022-04-15 | 2022-05-27 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2022-12-17 |
-| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 |  |
+| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 | 2024-10-14 |
 | [Glad There's You](https://open.spotify.com/track/5Fj4UPQQOD09Vs1mge4yzs) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Glad There's You](https://open.spotify.com/album/4ohIQlFEFXHdY3LLrt1lAK) | 2:03 | 2022-08-05 | 2022-12-03 |
 | [Glamping](https://open.spotify.com/track/3rO1WUrPm16U5GvAD61S0T) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Glamping](https://open.spotify.com/album/5l2zmmit5qkdeOZFHStBzl) | 2:15 | 2024-05-31 | 2024-06-27 |
 | [Glass Walls](https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Glass Walls](https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW) | 2:16 | 2022-11-25 | 2023-09-16 |
@@ -1349,6 +1349,7 @@
 | [Osmo](https://open.spotify.com/track/3Lk8aG313wpVAjCm6AFqTz) | [Spike Radio](https://open.spotify.com/artist/6vHESzKBG7nSZJqsXAhncp) | [Osmo](https://open.spotify.com/album/64QGryJXlSnzkjZSfYpklq) | 2:34 | 2022-09-16 |  |
 | [otherside](https://open.spotify.com/track/1W1Qi95eKfFNjlQvJlW3BG) | [Wave Five](https://open.spotify.com/artist/0FwSV23g1cCNlPFm9jr0I8) | [otherside](https://open.spotify.com/album/2bIyf2BXAerJdMnS7e2MZd) | 2:29 | 2022-08-05 | 2022-08-12 |
 | [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 | 2024-01-05 |  |
+| [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-11 |  |
 | [Our Temple](https://open.spotify.com/track/5Tk3DZXaRa85xJUpA8bK6G) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Our Temple](https://open.spotify.com/album/3MoAy8CdUguGJfL15kF8ow) | 2:38 | 2022-12-16 | 2024-02-09 |
 | [Out For a Walk](https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb) | [Same as Different](https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F) | [Lofi Jazzy Vibes](https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv) | 1:49 | 2022-04-15 | 2023-08-18 |
 | [Out In Space](https://open.spotify.com/track/43zpjvbcrFKFxqm4qpt32E) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Out In Space](https://open.spotify.com/album/7t4dWtgsbTC2LxXactChPS) | 2:07 | 2022-04-15 | 2022-04-22 |
@@ -1641,7 +1642,7 @@
 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2022-12-16 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2022-04-15 | 2022-07-01 |
 | [Sleeping Dragon](https://open.spotify.com/track/4S5Y7hfLeBV4JeNCSVesCJ) | [Ecobel](https://open.spotify.com/artist/4a2u0lWLCECK322dq8CJn1) | [Sleeping Dragon](https://open.spotify.com/album/1TEacGrU5KkL9IsA6Dbpi8) | 2:39 | 2022-12-02 | 2023-03-25 |
-| [Sleepwalking](https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb) | [FLU JIVERS](https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Sleepwalking](https://open.spotify.com/album/23t8Dd1yV098PZsgel640c) | 2:15 | 2024-10-04 |  |
+| [Sleepwalking](https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb) | [FLU JIVERS](https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Sleepwalking](https://open.spotify.com/album/23t8Dd1yV098PZsgel640c) | 2:15 | 2024-10-04 | 2024-10-14 |
 | [Sleepy + Hungry](https://open.spotify.com/track/6ZhiAKKnfB9UVCkG5BSG08) | [Hood Banger](https://open.spotify.com/artist/7Gh2ugpqKKRBuyz6TU54e2) | [PEACE](https://open.spotify.com/album/3JBEOeDCFn4VswlfoIAILD) | 2:51 | 2022-09-02 | 2022-12-24 |
 | [Slow Breaths](https://open.spotify.com/track/1RE3GKAmTksBgeJ2F2Jikd) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Slow Breaths](https://open.spotify.com/album/5AoEPaJg52pcsTYJ432PMl) | 2:07 | 2024-01-19 |  |
 | [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 | 2022-09-16 | 2022-10-18 |
@@ -1766,7 +1767,7 @@
 | [sunbed](https://open.spotify.com/track/2pGDKCGHfj4b4UPOaRtMcq) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [sunbed](https://open.spotify.com/album/4wwoExOEBwsdlcjYHgXePG) | 2:05 | 2024-05-31 |  |
 | [Sunburn \- Remix](https://open.spotify.com/track/2NQidIdJeB77ZblvIwIZrt) | [Sebastián Zarza](https://open.spotify.com/artist/6gtTcc5ZMOrs3870QQfyxC), [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Sunburn \(Remix\)](https://open.spotify.com/album/5dgqvaimpNv9MePu6nHlFS) | 3:05 | 2022-11-11 | 2023-09-16 |
 | [Sunday](https://open.spotify.com/track/1gFYYUmb1cwLssxND7thGG) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Sunday](https://open.spotify.com/album/5bmSp90NZHIeDJDgedtTFL) | 1:24 | 2022-04-15 | 2022-09-09 |
-| [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 | 2024-10-02 |
+| [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 |  |
 | [Sunday Funday](https://open.spotify.com/track/69SSNKlRiIl05N6x0drCUa) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Sunday Funday](https://open.spotify.com/album/5vPRAZcnvkETTgTqnIEluP) | 1:58 | 2024-01-19 |  |
 | [sunday jammin'](https://open.spotify.com/track/03YNvnjIXEv0Du4mWlYhvd) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [sunday jammin'](https://open.spotify.com/album/2UR3mLagCXzEm1UHsWi8Xh) | 2:09 | 2022-04-15 | 2022-10-14 |
 | [Sunday Snooze](https://open.spotify.com/track/6OZ1Y9Azf4smFPtHcMcqPo) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe) | [Sunday Snooze](https://open.spotify.com/album/5IDe10d379nDWUhkN4zvlG) | 2:18 | 2024-04-26 | 2024-07-19 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
-  "name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
+  "name": "This Is Akari Kito",
   "tracks": [
     {
       "album": {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 215653,
       "name": "Dive to World",
       "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"

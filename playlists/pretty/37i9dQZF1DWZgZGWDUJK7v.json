@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: This is a Campus Romance Series(\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 91971,
+  "num_followers": 91977,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
         "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 233040,
       "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
       "url": "https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -459,18 +459,22 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Never Loved This Way Before (From \u201cOdd Girl Out\u201d [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG"
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
         }
       ],
-      "duration_ms": 259346,
-      "name": "Never Loved This Way Before",
-      "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -491,22 +495,18 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+        "name": "Never Loved This Way Before (From \u201cOdd Girl Out\u201d [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "Naeun",
-          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+      "duration_ms": 259346,
+      "name": "Never Loved This Way Before",
+      "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
         "url": "https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 179853,
       "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
       "url": "https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
         "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227600,
       "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
       "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
         "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
-      },
-      "artists": [
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "LETTER (True Beauty X VIINI)",
         "url": "https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 237253,
       "name": "With You",
       "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Confession (Romance 101 X Huh Gak)",
-        "url": "https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Confession (Romance 101 X Huh Gak)",
-      "url": "https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Lee Doona Project Part 2",
         "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 212426,
       "name": "Something I want to tell you only.",
       "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Confession (Romance 101 X Huh Gak)",
+        "url": "https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Confession (Romance 101 X Huh Gak)",
+      "url": "https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
-      },
-      "artists": [
-        {
-          "name": "JIGM",
-          "url": "https://open.spotify.com/artist/4AJ7BXhkBtDpcASbWoa4dA"
-        }
-      ],
-      "duration_ms": 183874,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Warm Black Tea (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 183773,
       "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
       "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
+      },
+      "artists": [
+        {
+          "name": "JIGM",
+          "url": "https://open.spotify.com/artist/4AJ7BXhkBtDpcASbWoa4dA"
+        }
+      ],
+      "duration_ms": 183874,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "99 (Guide to Proper Romance X Standing Egg)",
-        "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "99 (Guide to Proper Romance X Standing Egg)",
-      "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Webtoon YeonNom OST Part.4",
         "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 244986,
       "name": "I'm into you, I mean Love you",
       "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "99 (Guide to Proper Romance X Standing Egg)",
+        "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "99 (Guide to Proper Romance X Standing Egg)",
+      "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
-      },
-      "artists": [
-        {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Meeting (The Moon during the Day) [2023 Remake]",
         "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 255693,
       "name": "Meeting (The Moon during the Day) [2023 Remake]",
       "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "When You Believe",
-        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "When You Believe",
-      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "The Extra (One of a Kind Romance)",
         "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
         "name": "Dear You (She is My Type\u2661 X Standing Egg)",
         "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
       },
@@ -1375,6 +1375,26 @@
       "duration_ms": 185533,
       "name": "Dear You (She is My Type\u2661 X Standing Egg)",
       "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1407,26 +1427,6 @@
       "duration_ms": 207346,
       "name": "Write about you (Romance 101 X Lyn)",
       "url": "https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "A Shoulder to Cry On (Original Audio Drama Soundtrack)",
-        "url": "https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC"
-      },
-      "artists": [
-        {
-          "name": "JaeHan",
-          "url": "https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Monologue",
-      "url": "https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "I'll talk to you (The Moon during the Day X Gummy)",
         "url": "https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "A Shoulder to Cry On (Original Audio Drama Soundtrack)",
+        "url": "https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC"
+      },
+      "artists": [
+        {
+          "name": "JaeHan",
+          "url": "https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP"
     },
     {
       "added_at": "2024-10-10 06:55:37",

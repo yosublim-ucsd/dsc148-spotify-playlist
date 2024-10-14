@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Clayton Mullen, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,057 likes - 190 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,086 likes - 190 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

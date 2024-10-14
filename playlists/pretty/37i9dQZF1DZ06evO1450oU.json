@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABhohRWiNHq3xEpzNZKj8RS",
+  "snapshot_id": "Zwm8AAAAAABa+0Y1Uq9zEnTOg7w5b1Yz",
   "tracks": [
     {
       "added_at": null,
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 266485,
-      "name": "Electricity Is Humming",
-      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
     },
     {
       "added_at": null,
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 172548,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
+      "duration_ms": 161284,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
     },
     {
       "added_at": null,
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+      "duration_ms": 205826,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
     },
     {
       "added_at": null,

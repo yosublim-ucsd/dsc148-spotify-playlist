@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 LoL",
-  "num_followers": 76194,
+  "num_followers": 76293,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
-        "name": "CROW",
-        "url": "https://open.spotify.com/album/4Ep1uyoWli8CHZRph1vF5Z"
-      },
-      "artists": [
-        {
-          "name": "UPIKO",
-          "url": "https://open.spotify.com/artist/5C5L6loDkixk21Pcp1CQiy"
-        }
-      ],
-      "duration_ms": 282061,
-      "name": "CROW",
-      "url": "https://open.spotify.com/track/0QGWqZnE4C5MU4YMWG9BOk"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
         "name": "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",
         "url": "https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "CROW",
+        "url": "https://open.spotify.com/album/4Ep1uyoWli8CHZRph1vF5Z"
+      },
+      "artists": [
+        {
+          "name": "UPIKO",
+          "url": "https://open.spotify.com/artist/5C5L6loDkixk21Pcp1CQiy"
+        }
+      ],
+      "duration_ms": 282061,
+      "name": "CROW",
+      "url": "https://open.spotify.com/track/0QGWqZnE4C5MU4YMWG9BOk"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 481378,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -843,22 +823,22 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
-        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
-        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
+        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
       },
       "artists": [
         {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
-          "name": "Ben Del Maestro",
-          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 151293,
-      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
-      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -891,6 +871,26 @@
       "duration_ms": 187326,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7j2FhVH4n7X7D669o8T87z"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
+        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
+        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Ben Del Maestro",
+          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
+      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
     }
   ],
   "unique_name": "G2 Esports",

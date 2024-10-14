@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+    },
+    {
+      "album": {
         "name": "Bring Back The Beat",
         "url": "https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx"
       },
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
@@ -9238,7 +9256,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 169480,
       "name": "forever.",
       "url": "https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y"
@@ -14480,7 +14498,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 229549,
       "name": "la manera que me ves",
       "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"

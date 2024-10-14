@@ -1,12 +1,12 @@
 {
-  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 227820,
+  "description": "This is Nanpa B\u00e1sico\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 227888,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAApqENbpTIhNtIWCtU5Fu06",
+  "snapshot_id": "Zwm8AAAAAADIwX31+8Sf9wVrTHpWBsVg",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
       "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 198656,
-      "name": "Ya para Que",
-      "url": "https://open.spotify.com/track/6peU8VUsIPzFrM9zTl2KpK"
+      "duration_ms": 206200,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mustang 65'",
-        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
       "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
+      "duration_ms": 198656,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/6peU8VUsIPzFrM9zTl2KpK"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
     },
     {
       "added_at": null,
@@ -839,6 +839,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
         "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
       },
@@ -871,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Bolero",
-        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
       },
       "artists": [
         {
@@ -880,29 +916,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 194495,
-      "name": "Como Bolero",
-      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+      "duration_ms": 201853,
+      "name": "P\u00farpura",
+      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 173056,
       "name": "Extra\u00f1andote",
       "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "P\u00farpura",
-      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
     },
     {
       "added_at": null,

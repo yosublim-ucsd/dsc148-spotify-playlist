@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 ### [This Is All Time Low](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ow6ru)
 
-> This Is All Time Low\. Los temas esenciales, todos en una lista.
+> This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,418 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,420 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 50 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 |
 | 51 | [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 |
 
-Snapshot ID: `ZwhqgAAAAABcBfMZ1+LhKc3fK4zdSKbN`
+Snapshot ID: `Zwm8AAAAAAAnwI7yb0BpZzV2byBz4CZ9`

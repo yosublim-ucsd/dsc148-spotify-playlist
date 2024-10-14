@@ -1,12 +1,12 @@
 {
-  "description": "This Is Phil Wickham. Los temas esenciales, todos en una lista.",
-  "num_followers": 49014,
+  "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
+  "num_followers": 49035,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABmU/eLp2DKmNjmM4Qzjlaa",
+  "snapshot_id": "Zwm8AAAAAAAOpVuoECCoZiUYOGWXkLEz",
   "tracks": [
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Too Good",
-        "url": "https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf"
+        "name": "Phil Wickham",
+        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 203268,
-      "name": "Just Too Good",
-      "url": "https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk"
+      "duration_ms": 298026,
+      "name": "Divine Romance",
+      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phil Wickham",
-        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
+        "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 298026,
-      "name": "Divine Romance",
-      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk"
     }
   ],
   "unique_name": "This Is Phil Wickham",

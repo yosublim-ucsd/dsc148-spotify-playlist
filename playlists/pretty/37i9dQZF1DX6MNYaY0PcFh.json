@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80613,
+  "num_followers": 80626,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "TEMPORARY FRIENDS",
-        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "TEMPORARY FRIENDS",
-      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Armed & Dangerous",
         "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 346030,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "TEMPORARY FRIENDS",
+        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "TEMPORARY FRIENDS",
+      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "FRESH AND NEW",
+        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "FRESH AND NEW",
+      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Ready Or Not",
         "url": "https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n"
       },
@@ -651,26 +671,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "FRESH AND NEW",
-        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "FRESH AND NEW",
-      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Shooting Star (Badger Remix)",
         "url": "https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB"
       },
@@ -687,6 +687,26 @@
       "duration_ms": 133150,
       "name": "Shooting Star - Badger Remix",
       "url": "https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Bringing Me Joy",
+        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "prettyboyface",
+          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "Bringing Me Joy",
+      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -711,26 +731,6 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Bringing Me Joy",
-        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
-      },
-      "artists": [
-        {
-          "name": "BVNQUET",
-          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
-        },
-        {
-          "name": "prettyboyface",
-          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "Bringing Me Joy",
-      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 198189,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 215392,
       "name": "U Could Be Mine",
       "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 198189,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
     },
     {
       "added_at": "2024-09-26 23:00:00",

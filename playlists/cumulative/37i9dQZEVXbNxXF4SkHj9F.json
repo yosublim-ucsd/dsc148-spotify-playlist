@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6lAvyeD3Nq43AjyCxZQj54"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
@@ -10856,10 +10856,28 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
+    },
+    {
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/7FkXm1xDdddS6ANM7wW4UR"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189934,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5R5NMy7zc7QPCfdvy8dvCQ"
     },
     {
       "album": {
@@ -11282,7 +11300,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
@@ -11300,7 +11318,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -11960,7 +11978,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -15358,7 +15376,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 244500,
       "name": "London Boy",
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
@@ -16540,10 +16558,28 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/0WObgF4ksiPHtlewxuoYSS"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/78yHTvGfbDGL2XYAEkcqKH"
     },
     {
       "album": {
@@ -16732,7 +16768,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
@@ -16818,6 +16854,24 @@
     {
       "album": {
         "name": "MEOW",
+        "url": "https://open.spotify.com/album/25KQyaXodMTDA7ahRMaSZl"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/1YjhXcHqe2ztp70ArdZOPa"
+    },
+    {
+      "album": {
+        "name": "MEOW",
         "url": "https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le"
       },
       "artists": [
@@ -16828,7 +16882,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
@@ -25370,7 +25424,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
@@ -25388,7 +25442,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -26830,7 +26884,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 205588,
       "name": "Time of Our Life -Japanese ver.- - Japanese ver.",
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"
@@ -27202,6 +27256,24 @@
     {
       "album": {
         "name": "Touch",
+        "url": "https://open.spotify.com/album/2D8s2IiYmfCsZ500tg8v0t"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1I5whYZ5CmnVtHKKoy4Im5"
+    },
+    {
+      "album": {
+        "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
@@ -27212,7 +27284,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
@@ -28674,6 +28746,24 @@
     {
       "album": {
         "name": "Fourever",
+        "url": "https://open.spotify.com/album/7FkXm1xDdddS6ANM7wW4UR"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT"
+    },
+    {
+      "album": {
+        "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
       },
       "artists": [
@@ -28684,7 +28774,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
@@ -30453,6 +30543,24 @@
     },
     {
       "album": {
+        "name": "Band Aid",
+        "url": "https://open.spotify.com/album/3i15S6O0DP0uirT7O58yyO"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "\ub179\uc544\ub0b4\ub824\uc694 Melt Down",
+      "url": "https://open.spotify.com/track/5Invv3m92xZvztdCbZrmZ6"
+    },
+    {
+      "album": {
         "name": "Ghetto Kids",
         "url": "https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds"
       },
@@ -30522,6 +30630,42 @@
       "duration_ms": 284720,
       "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
       "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "\uc608\ubee4\uc5b4",
+      "url": "https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI"
+    },
+    {
+      "album": {
+        "name": "The Book of Us : Gravity",
+        "url": "https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205575,
+      "name": "\ud55c \ud398\uc774\uc9c0\uac00 \ub420 \uc218 \uc788\uac8c",
+      "url": "https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F"

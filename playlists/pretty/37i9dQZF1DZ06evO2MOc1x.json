@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bonnie Raitt. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 49776,
+  "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
+  "num_followers": 49782,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADARqxf+/OOF+0Tk9kHbFJ6",
+  "snapshot_id": "Zwm8AAAAAAB7jOoYhyqK60xzOSCtH+TM",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Dimming Of The Day",
+      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "John Prine (Live)",
         "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 256666,
       "name": "Angel from Montgomery (feat. Bonnie Raitt) - Live",
       "url": "https://open.spotify.com/track/53OnUdsF4yWSaUevfD3EjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Dimming Of The Day",
-      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Runaway - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 327760,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Runaway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+        "name": "Bonnie Raitt And Friends",
+        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
+      "duration_ms": 300400,
+      "name": "I Don't Want Anything To Change - Live",
+      "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt And Friends",
-        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 300400,
-      "name": "I Don't Want Anything To Change - Live",
-      "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Cry On My Shoulder",
-      "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186200,
       "name": "Since I Fell for You - 2008 Remaster",
       "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Cry On My Shoulder",
+      "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU?si=Nexh_78JQLOZh_rjyWdMdA\">Dolly Parton</a>  ",
-  "num_followers": 30228,
+  "num_followers": 30247,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -157,24 +157,20 @@
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -193,20 +189,24 @@
       "url": "https://open.spotify.com/track/627prN1Fich2Z7u0zttQat"
     },
     {
-      "added_at": "2024-05-30 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
+      "added_at": "2024-02-09 03:20:16",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/051jHFqpoMy8L56sXzX77m"
     },
     {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "3 Songs At A Time Sampler",
@@ -323,22 +339,6 @@
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -357,10 +357,10 @@
       "url": "https://open.spotify.com/track/22CVV1ydVrq7FDrpy2z0oc"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -368,9 +368,25 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
-      "added_at": "2024-09-27 05:45:50",
-      "album": {
-        "name": "Two Things",
-        "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Two Things",
-      "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
@@ -603,6 +587,22 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "added_at": "2024-09-27 05:45:50",
+      "album": {
+        "name": "Two Things",
+        "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Two Things",
+      "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
       "added_at": "2024-09-23 07:59:08",
       "album": {
         "name": "HIGH",
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+      "duration_ms": 164767,
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -737,22 +753,6 @@
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Feelin' Country (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 164767,
-      "name": "Feelin' Country (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
-    },
-    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "5 Leaf Clover",
@@ -785,6 +785,38 @@
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
     },
     {
+      "added_at": "2024-09-23 07:59:08",
+      "album": {
+        "name": "Live Here To Work",
+        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Live Here To Work",
+      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 174412,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
+    },
+    {
       "added_at": "2024-08-01 22:00:00",
       "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
@@ -803,38 +835,6 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
-    },
-    {
-      "added_at": "2024-09-23 07:59:08",
-      "album": {
-        "name": "Live Here To Work",
-        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Live Here To Work",
-      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-05-02 22:00:00",

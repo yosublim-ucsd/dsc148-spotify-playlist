@@ -1,6 +1,6 @@
 {
   "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u67ef\u667a\u68e0 (Kowen Ko)",
-  "num_followers": 26199,
+  "num_followers": 26210,
   "original_name": "The Sound of Formosa",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,26 @@
       "duration_ms": 252755,
       "name": "\u5c0f\u5b69",
       "url": "https://open.spotify.com/track/7rPXUq935WHYBoWpWA9p9r"
+    },
+    {
+      "added_at": "2024-10-10 16:00:00",
+      "album": {
+        "name": "Dancing In the Rain (Wendy Wander Remake)",
+        "url": "https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "Dancing In the Rain - Wendy Wander Remake",
+      "url": "https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T"
     },
     {
       "added_at": "2024-10-10 16:00:00",

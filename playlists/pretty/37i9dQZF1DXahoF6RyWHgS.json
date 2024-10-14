@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 44563,
+  "num_followers": 44576,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,46 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Cumbia del Mole",
+      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Donde Estas, Yolanda?",
+      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Perez Prado",
         "url": "https://open.spotify.com/album/0AqAcjYhjpkSXd972Ixy3e"
       },
@@ -225,44 +265,20 @@
       "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Donde Estas, Yolanda?",
-      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+        "name": "Antolog\u00eda...Los Xochimilcas",
+        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Los Xochimilcas",
+          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
         }
       ],
-      "duration_ms": 180640,
-      "name": "Cumbia del Mole",
-      "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+      "duration_ms": 192293,
+      "name": "Pulque para dos",
+      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -279,22 +295,6 @@
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Antolog\u00eda...Los Xochimilcas",
-        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Xochimilcas",
-          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Pulque para dos",
-      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Merecumb\u00e9 del cantinero",
-      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Hang On Little Tomato",
         "url": "https://open.spotify.com/album/00ufkobVchUc1GnJYu734s"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 156466,
       "name": "Anna (El Negro Zumbon)",
       "url": "https://open.spotify.com/track/4zE7FbDsTiikGfy09uzgRi"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Merecumb\u00e9 del cantinero",
+      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Caf\u00e9 Con Pan",
-      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Elotitos Tiernos",
@@ -679,18 +663,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
       "artists": [
         {
-          "name": "Los Super Seven",
-          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
         }
       ],
-      "duration_ms": 324333,
-      "name": "Me Voy Pa'l Pueblo",
-      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
+      "duration_ms": 265373,
+      "name": "Caf\u00e9 Con Pan",
+      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -707,6 +691,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
+      },
+      "artists": [
+        {
+          "name": "Los Super Seven",
+          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Me Voy Pa'l Pueblo",
+      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
-        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "Jacarandosa - Remastered",
-      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "El Brown Recluse",
@@ -1047,6 +1031,22 @@
       "duration_ms": 259746,
       "name": "Cumbia Pa Modernos",
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
+        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Jacarandosa - Remastered",
+      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
+        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
+      },
+      "artists": [
+        {
+          "name": "Karl Z\u00e9ro",
+          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Allo Mambo",
+      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Luaka Bop Remix",
@@ -1115,22 +1131,6 @@
       "duration_ms": 166813,
       "name": "Afro Blue - Koop Remix",
       "url": "https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
-        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
-      },
-      "artists": [
-        {
-          "name": "Karl Z\u00e9ro",
-          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Allo Mambo",
-      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Mis 50 Boleros M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/1H4s4w4fVumN14ipdymows"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     },
     {
       "added_at": "2020-05-28 20:45:13",

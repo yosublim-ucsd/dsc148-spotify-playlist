@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 361849,
+  "num_followers": 361925,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+        "name": "Best Days (Acoustic)",
+        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
         }
       ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+      "duration_ms": 179063,
+      "name": "Best Days - Acoustic",
+      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Best Days (Acoustic)",
-        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
       "artists": [
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 179063,
-      "name": "Best Days - Acoustic",
-      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": "2024-07-05 21:33:59",

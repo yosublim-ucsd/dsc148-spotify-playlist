@@ -4,10 +4,11 @@
 
 > This is Ajuliacosta\. Todos os maiores hits em uma só playlist.
 
-32 songs - 1 hr 38 min
+33 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#SV 03 \- Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 | 2024-10-14 |  |
 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 | 2023-12-30 |  |
 | [7 Ruas](https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:00 | 2023-12-30 |  |
 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 | 2024-04-08 |  |

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zuka\(주카\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-740 songs - 1 day 20 hr 38 min
+741 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [HAPPENING](https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/3C5U9NYko3wIPimlaCaZZz) | 3:44 | 2023-09-20 | 2023-11-10 |
 | [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 | 2024-09-18 |  |
 | [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-04-09 | 2024-05-10 |
+| [Harmony of Stars](https://open.spotify.com/track/1b2jcwnf3JwuyWiG3xTPsp) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 3:29 | 2024-10-11 |  |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2024-06-05 |  |
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
 | [Haze](https://open.spotify.com/track/72QuyLICroWabN7X85pDSL) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Fever](https://open.spotify.com/album/7hANiZ9XFG3TJPptCPemFW) | 4:17 | 2023-08-17 | 2023-08-29 |
@@ -351,7 +352,7 @@
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |
-| [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-05-09 |  |
+| [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-05-09 | 2024-10-14 |
 | [Light Shines Only There](https://open.spotify.com/track/6GiKLHWKiWiG5OuoSjy5zf) | [2 Day Old Sneakers](https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q) | [Light Shines Only There](https://open.spotify.com/album/33Qga6kYaWPQMVORQR9itG) | 3:17 | 2022-04-22 | 2022-04-28 |
 | [Light UP](https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Lord of Heroes OST Part 3](https://open.spotify.com/album/4JVgXZdk3iz4MDwtZApqDB) | 3:25 | 2022-05-02 | 2022-07-23 |
 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 | 2022-11-09 | 2022-12-13 |

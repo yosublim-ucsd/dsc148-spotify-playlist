@@ -2,9 +2,9 @@
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. The essential tracks, all in one playlist.
+> This is Saweetie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-94 songs - 4 hr 22 min
+95 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 | 2023-12-13 |  |
 | [Get It Girl](https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Get It Girl](https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS) | 2:45 | 2022-10-30 | 2023-08-20 |
 | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res) | 2:45 | 2022-10-28 |  |
-| [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 | 2022-10-28 |  |
+| [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 | 2022-10-28 | 2024-10-14 |
 | [Good Good](https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 3:21 | 2022-10-30 | 2024-07-13 |
 | [GPP](https://open.spotify.com/track/4C0sI2YP5uj2UW0Ex676X4) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [GPP](https://open.spotify.com/album/57ClUwZ0tRUkC7QUMMFFk5) | 3:06 | 2024-06-19 | 2024-08-03 |
 | [GPP](https://open.spotify.com/track/4fKi2oPnO0FUO6417J81HK) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [GPP](https://open.spotify.com/album/2lCTw141AYVJeSGEhVwUVd) | 3:06 | 2024-06-17 | 2024-06-19 |
@@ -80,6 +80,7 @@
 | [Pretty & Rich](https://open.spotify.com/track/3YSblaynGtUPIfcXpOAR23) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty B.I.T.C.H\. Music: Been That Girl](https://open.spotify.com/album/4gLcDPIQAfpGJt0C3AJkvR) | 1:46 | 2024-04-15 | 2024-05-03 |
 | [Pretty & Rich](https://open.spotify.com/track/41z1jdRoERVUz1MPtfSl14) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 1:46 | 2022-10-28 | 2024-07-22 |
 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 | 2022-10-28 |  |
+| [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU) | 3:02 | 2024-10-14 |  |
 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:39 | 2024-09-16 |  |
 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/album/0N13HBBuSoxEauKqk90tqe) | 3:39 | 2024-08-11 | 2024-09-16 |
 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 | 2024-02-24 |  |

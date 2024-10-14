@@ -1,6 +1,6 @@
 {
   "description": "A trilha perfeita pra embalar seu sono / M\u00fasica perfecta para dormir",
-  "num_followers": 791540,
+  "num_followers": 791542,
   "original_name": "Hora de Dormir",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Path to Rest",
-        "url": "https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr"
-      },
-      "artists": [
-        {
-          "name": "Plasma Nomad",
-          "url": "https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb"
-        }
-      ],
-      "duration_ms": 183924,
-      "name": "Path to Rest",
-      "url": "https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Verdensrommet",
         "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 182000,
       "name": "Verdensrommet",
       "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Path to Rest",
+        "url": "https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr"
+      },
+      "artists": [
+        {
+          "name": "Plasma Nomad",
+          "url": "https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb"
+        }
+      ],
+      "duration_ms": 183924,
+      "name": "Path to Rest",
+      "url": "https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Come Wander",
-        "url": "https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6"
-      },
-      "artists": [
-        {
-          "name": "Wicker Whales",
-          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Come Wander",
-      "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Soft Corals",
         "url": "https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192750,
       "name": "Soft Corals",
       "url": "https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Come Wander",
+        "url": "https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Come Wander",
+      "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Along",
-        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
+        "name": "Signs In The Sky",
+        "url": "https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf"
       },
       "artists": [
         {
-          "name": "Decan\u00f5e",
-          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
+          "name": "Riseran",
+          "url": "https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho"
         }
       ],
-      "duration_ms": 165023,
-      "name": "Along",
-      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
+      "duration_ms": 159392,
+      "name": "Signs In The Sky",
+      "url": "https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Signs In The Sky",
-        "url": "https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf"
+        "name": "Along",
+        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
       },
       "artists": [
         {
-          "name": "Riseran",
-          "url": "https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho"
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
         }
       ],
-      "duration_ms": 159392,
-      "name": "Signs In The Sky",
-      "url": "https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7"
+      "duration_ms": 165023,
+      "name": "Along",
+      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
-      },
-      "artists": [
-        {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Endicino",
         "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 171637,
       "name": "Endicino",
       "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Include",
-        "url": "https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5"
-      },
-      "artists": [
-        {
-          "name": "different spaces",
-          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
-        }
-      ],
-      "duration_ms": 177693,
-      "name": "Include",
-      "url": "https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174438,
       "name": "Tides",
       "url": "https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Include",
+        "url": "https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "duration_ms": 177693,
+      "name": "Include",
+      "url": "https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Relatively",
-        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 167187,
-      "name": "Relatively",
-      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Dreaming Away",
         "url": "https://open.spotify.com/album/39HKL1RGVwCU4mOjl3Ncjb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 187661,
       "name": "Dreaming Away",
       "url": "https://open.spotify.com/track/3g6uL1itMFGwt7I4ZL93BB"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Relatively",
+        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Relatively",
+      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e"
-      },
-      "artists": [
-        {
-          "name": "Kotono Tanaka",
-          "url": "https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT"
-        }
-      ],
-      "duration_ms": 204991,
-      "name": "Response",
-      "url": "https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Other",
         "url": "https://open.spotify.com/album/2aqNrmFcYvA8L9yBx99bEb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 162901,
       "name": "Other",
       "url": "https://open.spotify.com/track/2fg3YTYPULVQbfF7RbQqaa"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Response",
+        "url": "https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e"
+      },
+      "artists": [
+        {
+          "name": "Kotono Tanaka",
+          "url": "https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT"
+        }
+      ],
+      "duration_ms": 204991,
+      "name": "Response",
+      "url": "https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Reserve",
+        "url": "https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko"
+      },
+      "artists": [
+        {
+          "name": "Lo Amber",
+          "url": "https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Reserve",
+      "url": "https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Enhance",
         "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Reserve",
-        "url": "https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko"
+        "name": "Zuma",
+        "url": "https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK"
       },
       "artists": [
         {
-          "name": "Lo Amber",
-          "url": "https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI"
+          "name": "Ralph Torin",
+          "url": "https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Reserve",
-      "url": "https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm"
+      "duration_ms": 188586,
+      "name": "Zuma",
+      "url": "https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 170176,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Zuma",
-        "url": "https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK"
-      },
-      "artists": [
-        {
-          "name": "Ralph Torin",
-          "url": "https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Zuma",
-      "url": "https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV"
-      },
-      "artists": [
-        {
-          "name": "Don Salfva",
-          "url": "https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Pondering",
         "url": "https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6"
       },
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV"
+      },
+      "artists": [
+        {
+          "name": "Don Salfva",
+          "url": "https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Ethereal Echoes",
         "url": "https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp"
       },
@@ -1879,6 +1879,22 @@
       "duration_ms": 184800,
       "name": "Ethereal Echoes",
       "url": "https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1911,22 +1927,6 @@
       "duration_ms": 154917,
       "name": "Close your Eyes",
       "url": "https://open.spotify.com/track/41labfyDVOAJP3bhKk7unE"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Edenora",
-        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
-      },
-      "artists": [
-        {
-          "name": "Armon\u00eda Astral",
-          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Edenora",
-      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 152144,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Novastar",
         "url": "https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 177600,
       "name": "Novastar",
       "url": "https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Eclipsar",
-        "url": "https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l"
-      },
-      "artists": [
-        {
-          "name": "Adrian Stenhammar",
-          "url": "https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Eclipsar",
-      "url": "https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Visuals",
         "url": "https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 178600,
       "name": "Visuals",
       "url": "https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Eclipsar",
+        "url": "https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l"
+      },
+      "artists": [
+        {
+          "name": "Adrian Stenhammar",
+          "url": "https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Eclipsar",
+      "url": "https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT"
     },
     {
       "added_at": "2024-09-13 04:01:00",

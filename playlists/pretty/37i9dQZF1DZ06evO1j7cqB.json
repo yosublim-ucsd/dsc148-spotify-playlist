@@ -1,12 +1,12 @@
 {
-  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10108,
+  "description": "This is Bear McCreary. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 10110,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACWdaxmUYhChNPE7p2H39xr",
+  "snapshot_id": "Zwm8AAAAAADm0M8tANA1Jnsf1hfSeEM8",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     },
     {
       "added_at": null,

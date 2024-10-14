@@ -2027,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127714,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
+    },
+    {
+      "album": {
         "name": "Chemical Bond",
         "url": "https://open.spotify.com/album/4HAEHinatEsoXSDd4rBQy6"
       },
@@ -3506,7 +3528,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 198425,
       "name": "Empty",
       "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"

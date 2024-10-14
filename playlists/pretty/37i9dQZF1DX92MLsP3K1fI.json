@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! HUMBE en portada.",
-  "num_followers": 87220,
+  "num_followers": 87248,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -547,38 +547,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 221853,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "miamor",
-        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "miamor",
+        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "No Disponible",
+        "url": "https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 203799,
+      "name": "No Disponible",
+      "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "14 de Febrero",
         "url": "https://open.spotify.com/album/17RMp54nKpx4TN0PpLZm9d"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "No Disponible",
-        "url": "https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 203799,
-      "name": "No Disponible",
-      "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Conoci\u00e9ndome",
         "url": "https://open.spotify.com/album/4d4vWiugWk8EEh01llsyid"
       },
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "EVOLUTION",
+        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "TQ",
+      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "escapar de m\u00ed",
         "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
@@ -935,26 +951,6 @@
       "duration_ms": 228533,
       "name": "escapar de m\u00ed",
       "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "dEsANiMaO :(",
-        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "dEsANiMaO :(",
-      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     }
   ],
   "unique_name": "Oye Pop",

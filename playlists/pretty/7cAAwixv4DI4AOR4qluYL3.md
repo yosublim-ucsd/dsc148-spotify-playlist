@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/7cAAwixv4DI4AOR4qluYL3.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Luxurious](https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:24 |
+| 1 | [Luxurious](https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:24 |
 | 2 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 3 | [angel](https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:23 |
 | 4 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |

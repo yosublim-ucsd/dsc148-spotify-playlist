@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Mora y los Metegoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,620 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 43 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
 | 44 | [Mejor Persona](https://open.spotify.com/track/1kEFulsxY6K8PekfjAFvaK) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 6:11 |
 | 45 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 |
-| 46 | [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [Ying Yaang’s](https://open.spotify.com/artist/1fqoYPEkiRWcwcBNprVUlS) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 |
+| 46 | [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [Joaco Van](https://open.spotify.com/artist/0KhF8PHg0PoEekczRWhhyC) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 |
 | 47 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 |
 | 48 | [Policía](https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Policía](https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd) | 3:08 |
 | 49 | [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 |

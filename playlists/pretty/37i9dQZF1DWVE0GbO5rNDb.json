@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 107937,
+  "num_followers": 107935,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1043,6 +1043,50 @@
       "duration_ms": 167880,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1087,26 +1131,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Beat Of Your Heart",
         "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 209186,
       "name": "Beat Of Your Heart",
       "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 163591,
       "name": "Wave",
       "url": "https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1983,42 +1999,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -2047,6 +2027,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
       },
@@ -2071,18 +2071,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     }
   ],
   "unique_name": "Estate Dance",

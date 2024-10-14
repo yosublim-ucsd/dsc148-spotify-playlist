@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 150024,
       "name": "Amigos Y Enemigos Almighty",
       "url": "https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 131650,
       "name": "BEIA (Jere Klein)",
       "url": "https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ"
@@ -6064,7 +6064,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -7304,7 +7304,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 186887,
       "name": "Call Center",
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
@@ -12812,6 +12812,32 @@
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "album": {
+        "name": "BA\u00d1O MAR\u00cdA",
+        "url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "DUMBAI",
+      "url": "https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT"
     },
     {
       "album": {
@@ -26219,6 +26245,24 @@
     },
     {
       "album": {
+        "name": "Media Hora",
+        "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Media Hora",
+      "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -34114,7 +34158,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 189727,
       "name": "Podria Ser Amado",
       "url": "https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6"

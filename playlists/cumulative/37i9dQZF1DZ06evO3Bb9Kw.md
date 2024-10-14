@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 51 min
+102 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 | 2022-09-08 | 2024-09-15 |
 | [It All Comes Out in the Wash](https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:34 | 2022-09-08 |  |
 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-11 | 2023-08-28 |
-| [January Heart](https://open.spotify.com/track/3g7rmzh7O5ojlKHEOlgRKx) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 4:13 | 2024-09-16 |  |
+| [January Heart](https://open.spotify.com/track/3g7rmzh7O5ojlKHEOlgRKx) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 4:13 | 2024-09-16 | 2024-10-14 |
 | [Jive Talkin' \(feat\. Jay Buchanan & Miranda Lambert\)](https://open.spotify.com/track/7xJZbFvjiVtlrjSISl8wrK) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:57 | 2022-10-12 | 2023-02-14 |
 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 | 2022-09-08 |  |
 | [Little Red Wagon](https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 3:24 | 2022-09-08 |  |
@@ -106,6 +106,7 @@
 | [We Should Be Friends](https://open.spotify.com/track/66hAuG73iyknIMW4icfEGg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 2:50 | 2022-09-08 | 2024-09-16 |
 | [We Were Us](https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:11 | 2022-09-08 |  |
 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 | 2022-09-08 |  |
+| [Wildfire](https://open.spotify.com/track/5dFS3Ae6bpwk1gwHNu4jem) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:31 | 2024-10-14 |  |
 | [Wranglers](https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN) | 2:58 | 2024-05-05 |  |
 | [Wranglers \- Extended](https://open.spotify.com/track/35JJzqoP8mql3XYmRWqWoj) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/75U7aiAqI6InGauEMWJeGQ) | 3:12 | 2024-05-19 | 2024-06-16 |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2022-09-08 | 2023-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Käärijä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,361 likes - 117 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,380 likes - 117 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 43 | [Gaslight](https://open.spotify.com/track/1CKHCNHKs6NT4Of7H8RZ0N) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Gaslight](https://open.spotify.com/album/1Dp1BGSJPV8iIJJMyOFb5J) | 3:21 |
 | 44 | [Melkein ilmaa](https://open.spotify.com/track/67TF01CwfdEBDaJonqSJh1) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Melkein ilmaa](https://open.spotify.com/album/7KxfP0QF5acpsuSowT8yeS) | 2:44 |
 | 45 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 |
-| 46 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/7Jj21VbE0QN6OtL2MRtRbr) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
+| 46 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/65OgVQYELTQ8RwaqBKPCJQ) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
 | 47 | [Home](https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Home](https://open.spotify.com/album/539iarhmTZTyjeyxPQPJeL) | 3:19 |
 | 48 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 49 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 |

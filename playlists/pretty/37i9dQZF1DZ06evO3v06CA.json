@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 197290,
+  "num_followers": 197311,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADA9JwJavKdRhoeZvLzcUF/",
+  "snapshot_id": "Zwm8AAAAAADIGFPMFX4Ay+ABEd9vO2dL",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 220976,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 276613,
       "name": "Desperados Waiting for a Train",
       "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 220976,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
     },
     {
       "added_at": null,
@@ -1387,22 +1387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stampede",
-        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
       "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 218878,
-      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
-      "url": "https://open.spotify.com/track/06WARzJ6c5GYC9gSEmvO0q"
+      "duration_ms": 259360,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     }
   ],
   "unique_name": "This Is Willie Nelson",

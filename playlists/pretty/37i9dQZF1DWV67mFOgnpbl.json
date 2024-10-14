@@ -1,6 +1,6 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 442920,
+  "num_followers": 443094,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 153613,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
     },
     {
       "added_at": "2024-09-12 21:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 392600,
       "name": "Holy Wars...The Punishment Due - 2004 Remix",
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2024-09-12 21:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "Reign In Blood (Expanded)",
-        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291773,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291773,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
         "name": "The Pick Of Destiny",
         "url": "https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2024-09-12 21:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "Wild Cat",
         "url": "https://open.spotify.com/album/2lksmh6xl1ksnd1I0RA83x"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223844,
       "name": "My Little RnR",
       "url": "https://open.spotify.com/track/4fPkExNmrBmuvQZnDI4CW1"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
     },
     {
       "added_at": "2024-09-12 21:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-09-12 21:01:00",
       "album": {
-        "name": "Saints & Sinners",
-        "url": "https://open.spotify.com/album/1epDxzCjMekWTEBeuboSYm"
-      },
-      "artists": [
-        {
-          "name": "Shallow Side",
-          "url": "https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Sound the Alarm",
-      "url": "https://open.spotify.com/track/5YUaQCRrw0wZHIv1WSkE2n"
-    },
-    {
-      "added_at": "2024-09-12 21:01:00",
-      "album": {
         "name": "Warpaint",
         "url": "https://open.spotify.com/album/7Fpq5DJTi4EF9g8NwU5zQl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 233133,
       "name": "Head Like A Hole",
       "url": "https://open.spotify.com/track/1NWF6E214jVr9ckgxpPIXM"
+    },
+    {
+      "added_at": "2024-09-12 21:01:00",
+      "album": {
+        "name": "Saints & Sinners",
+        "url": "https://open.spotify.com/album/1epDxzCjMekWTEBeuboSYm"
+      },
+      "artists": [
+        {
+          "name": "Shallow Side",
+          "url": "https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Sound the Alarm",
+      "url": "https://open.spotify.com/track/5YUaQCRrw0wZHIv1WSkE2n"
     },
     {
       "added_at": "2024-09-12 21:01:00",

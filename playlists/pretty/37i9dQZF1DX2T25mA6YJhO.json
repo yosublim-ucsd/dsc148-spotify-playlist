@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Camellos.",
-  "num_followers": 21022,
+  "num_followers": 21030,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "\u00a1AHORA!",
-        "url": "https://open.spotify.com/album/7qTh2Y4oDIPp3tG5GZubUj"
+        "name": "Alcal\u00e1 Norte",
+        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
       },
       "artists": [
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 193534,
-      "name": "El futuro sobre plano",
-      "url": "https://open.spotify.com/track/5Tw395NgXE6T0F7SyevHQz"
+      "duration_ms": 208018,
+      "name": "Los Chavales",
+      "url": "https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Alcal\u00e1 Norte",
-        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
+        "name": "\u00a1AHORA!",
+        "url": "https://open.spotify.com/album/7qTh2Y4oDIPp3tG5GZubUj"
       },
       "artists": [
         {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 208018,
-      "name": "Los Chavales",
-      "url": "https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO"
+      "duration_ms": 193534,
+      "name": "El futuro sobre plano",
+      "url": "https://open.spotify.com/track/5Tw395NgXE6T0F7SyevHQz"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -635,34 +635,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "VIVA HINDS",
-        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "Mala Vista",
-      "url": "https://open.spotify.com/track/5svguBFCLPgdXe0qGhFxSQ"
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "VIVA HINDS",
+        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "Mala Vista",
+      "url": "https://open.spotify.com/track/5svguBFCLPgdXe0qGhFxSQ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
         "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
@@ -699,34 +699,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "\u00a1Que te pares!",
-        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 193754,
-      "name": "\u00a1Que te pares!",
-      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+        "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
+        "url": "https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+          "name": "Nadie Pat\u00edn",
+          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+      "duration_ms": 207771,
+      "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
+      "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
-        "url": "https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o"
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
       },
       "artists": [
         {
-          "name": "Nadie Pat\u00edn",
-          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 207771,
-      "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
-      "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Echo de menos a los Arctic Monkeys",
-        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Echo de menos a los Arctic Monkeys",
-      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "El Final",
         "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Romance Extremo",
-        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
+        "name": "Echo de menos a los Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
       "artists": [
         {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Romance Extremo",
-      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
+      "duration_ms": 199448,
+      "name": "Echo de menos a los Arctic Monkeys",
+      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 160301,
       "name": "Azul Oscuro Casi Negro",
       "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Romance Extremo",
+        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "duration_ms": 144179,
+      "name": "Romance Extremo",
+      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Huella de ti",
-        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
-      },
-      "artists": [
-        {
-          "name": "Kokoshca",
-          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Huella de ti",
-      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Plan de Mierda",
         "url": "https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Joven Predicador",
+        "url": "https://open.spotify.com/album/0ofAxBLpYuJwGGjSAbsgpn"
+      },
+      "artists": [
+        {
+          "name": "Somos la Herencia",
+          "url": "https://open.spotify.com/artist/1mWijI1eIZb1xywhwB1qeX"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Cenar de Pie",
+      "url": "https://open.spotify.com/track/64PaZIsuNZpvjJcezzwbJY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Me paso por tu zona",
         "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Joven Predicador",
-        "url": "https://open.spotify.com/album/0ofAxBLpYuJwGGjSAbsgpn"
+        "name": "Huella de ti",
+        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
       },
       "artists": [
         {
-          "name": "Somos la Herencia",
-          "url": "https://open.spotify.com/artist/1mWijI1eIZb1xywhwB1qeX"
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Cenar de Pie",
-      "url": "https://open.spotify.com/track/64PaZIsuNZpvjJcezzwbJY"
+      "duration_ms": 197253,
+      "name": "Huella de ti",
+      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sin M\u00e1s",
-        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 198958,
-      "name": "Sin M\u00e1s",
-      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 177887,
       "name": "Sofisticado",
       "url": "https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sin M\u00e1s",
+        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Sin M\u00e1s",
+      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "p0pper",
+        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "duration_ms": 213308,
+      "name": "p0pper",
+      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "p0pper",
-        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
-      },
-      "artists": [
-        {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
-        }
-      ],
-      "duration_ms": 213308,
-      "name": "p0pper",
-      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Cada instante",
         "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 205263,
       "name": "Cada instante",
       "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "La Persiana",
+        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "duration_ms": 126504,
+      "name": "La Persiana",
+      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "La Persiana",
-        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
+        "name": "Si Piensas En M\u00ed",
+        "url": "https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ"
       },
       "artists": [
         {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
         }
       ],
-      "duration_ms": 126504,
-      "name": "La Persiana",
-      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
+      "duration_ms": 244146,
+      "name": "Si Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 127804,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/2bLVe53Ko7B7HoNxAES9Wh"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Si Piensas En M\u00ed",
-        "url": "https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Si Piensas en M\u00ed",
-      "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
     },
     {
       "added_at": "2024-10-10 22:00:00",

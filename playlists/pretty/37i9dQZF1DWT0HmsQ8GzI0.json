@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Belau",
-  "num_followers": 13752,
+  "num_followers": 13755,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Only Mine",
         "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 282925,
       "name": "Only Mine",
       "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "K\u00d6NNYCSEPP",
-        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
       },
       "artists": [
         {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 149812,
-      "name": "K\u00d6NNYCSEPP",
-      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -643,18 +643,34 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "S\u00f6t\u00e9t vill\u00e1m",
-        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
+        "name": "K\u00d6NNYCSEPP",
+        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Nem volt \u00fagy m\u00e9g",
-      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
+      "duration_ms": 149812,
+      "name": "K\u00d6NNYCSEPP",
+      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -683,58 +699,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Sehovaval\u00f3",
-        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
-      },
-      "artists": [
-        {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 174529,
-      "name": "Sehovaval\u00f3",
-      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Hull\u00f3csillag",
         "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
       },
@@ -755,6 +719,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "H\u00e9jan\u00e1sz",
         "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 188230,
       "name": "H\u00e9jan\u00e1sz",
       "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Sehovaval\u00f3",
+        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 174529,
+      "name": "Sehovaval\u00f3",
+      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "LENN\u00c9K M\u00c1S...",
         "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 168199,
       "name": "Gordon",
       "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
       "artists": [
         {
-          "name": "NOIRA",
-          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 221062,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
         }
       ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+      "duration_ms": 221062,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Szeretnival\u00f3ja",
-        "url": "https://open.spotify.com/album/3pl8usrU9H4xHT8UG8ePbU"
-      },
-      "artists": [
-        {
-          "name": "Kiscsillag",
-          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
-        }
-      ],
-      "duration_ms": 240497,
-      "name": "Szeretnival\u00f3ja",
-      "url": "https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "beleszakad",
         "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 184000,
       "name": "beleszakad",
       "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Szeretnival\u00f3ja",
+        "url": "https://open.spotify.com/album/3pl8usrU9H4xHT8UG8ePbU"
+      },
+      "artists": [
+        {
+          "name": "Kiscsillag",
+          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
+        }
+      ],
+      "duration_ms": 240497,
+      "name": "Szeretnival\u00f3ja",
+      "url": "https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6"
     },
     {
       "added_at": "2024-10-04 09:54:25",

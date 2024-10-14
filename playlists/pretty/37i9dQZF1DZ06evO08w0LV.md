@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 
 ### [This Is Måneskin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08w0LV)
 
-> This Is Måneskin\. Los temas esenciales, todos en una lista.
+> This is Måneskin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,087 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,086 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 33 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \- Deluxe](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
 | 34 | [Recovery](https://open.spotify.com/track/01GZjSSjSSpvTnDNdR8r3Y) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:55 |
 
-Snapshot ID: `ZwhqgAAAAABvi4d8feR1CoJeer/g9dTB`
+Snapshot ID: `Zwm8AAAAAAC/T4C64+7qeCm/Jr/NQ61n`

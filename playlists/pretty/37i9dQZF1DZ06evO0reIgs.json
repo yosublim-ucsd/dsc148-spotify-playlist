@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 81482,
+  "num_followers": 81483,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAkd6BKx3asDWbFRm1X+f7x",
+  "snapshot_id": "Zwm8AAAAAABApXF4YBRgBZNX5WOV79fM",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Negaram Amor",
         "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 288000,
       "name": "Me Negaram Amor",
       "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As 25 Horas de Le Mans",
-        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 194965,
-      "name": "As 25 Horas de Le Mans",
-      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 238080,
       "name": "Deixa Ela",
       "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As 25 Horas de Le Mans",
+        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194965,
+      "name": "As 25 Horas de Le Mans",
+      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 279452,
+      "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 262978,
       "name": "Poesia Ac\u00fastica Ep. Jeri",
       "url": "https://open.spotify.com/track/4tnMSnDkcMj43ovIXIwdMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 279452,
-      "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 183708,
-      "name": "Eu Penso",
-      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 232560,
-      "name": "Alaska, Pt. 2",
-      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
+      "duration_ms": 183708,
+      "name": "Eu Penso",
+      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ch\u00e3o de Vidro",
         "url": "https://open.spotify.com/album/6rOgL3alQJ2UQj8BkfZW4r"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 135322,
       "name": "Ch\u00e3o de Vidro",
       "url": "https://open.spotify.com/track/3TkVm1xeOfmc0M7ZAkXeT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1148,17 +1148,13 @@
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 173402,
-      "name": "N\u00e3o Vou Me Explicar",
-      "url": "https://open.spotify.com/track/2iFxsCZlnim00bxeHTZji7"
+      "duration_ms": 169032,
+      "name": "Bom Te Encontrar",
+      "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
     },
     {
       "added_at": null,

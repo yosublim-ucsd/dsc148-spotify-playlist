@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 53936,
+  "num_followers": 54016,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -145,6 +145,34 @@
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "GOODBYE YESTERDAY",
@@ -225,32 +253,20 @@
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -273,52 +289,24 @@
       "url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "The Prodigal",
-        "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
-      },
-      "artists": [
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 193048,
-      "name": "The Prodigal",
-      "url": "https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -367,22 +355,34 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "The Prodigal",
+        "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 193048,
+      "name": "The Prodigal",
+      "url": "https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -433,6 +433,58 @@
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 209595,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 464333,
+      "name": "Been So Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
@@ -463,58 +515,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 464333,
-      "name": "Been So Good (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 307973,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 209595,
-      "name": "Counting My Blessings",
-      "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW"
       },
@@ -531,38 +531,6 @@
       "duration_ms": 346346,
       "name": "I Surrender - Live",
       "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "YET (feat. Ashley Hess & the King will come)",
-        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
-        },
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
-        }
-      ],
-      "duration_ms": 350194,
-      "name": "YET (feat. Ashley Hess & the King will come)",
-      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -621,6 +589,22 @@
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "Give It Time",
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -679,24 +663,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
       "artists": [
         {
@@ -704,17 +672,25 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        },
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
         }
       ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -733,22 +709,6 @@
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "COAT OF MANY COLORS",
-        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "MIRACLE CHILD",
-      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Get Ready",
@@ -763,6 +723,22 @@
       "duration_ms": 207800,
       "name": "He Wants It All",
       "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "MIRACLE CHILD",
+      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -875,6 +851,30 @@
       "duration_ms": 312254,
       "name": "The Blood (Live)",
       "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2024-05-31 23:59:00",

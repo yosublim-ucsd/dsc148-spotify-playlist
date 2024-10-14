@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Jordan Davis",
-  "num_followers": 570079,
+  "num_followers": 570178,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -163,50 +163,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "MESSED UP AS ME",
-        "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "MESSED UP AS ME",
-      "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -227,6 +195,38 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "MESSED UP AS ME",
+        "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "MESSED UP AS ME",
+      "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -427,6 +443,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Arkansas Diamond",
+        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Arkansas Diamond",
+      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Arkansas Diamond",
-        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Arkansas Diamond",
-      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+        "name": "Jack and Diet Coke",
+        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+      "duration_ms": 193399,
+      "name": "Jack and Diet Coke",
+      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Jack and Diet Coke",
-        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 193399,
-      "name": "Jack and Diet Coke",
-      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 211991,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+      "duration_ms": 211991,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "This Is the Heavy",
         "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
       },
@@ -1383,22 +1367,6 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Good On You",
-        "url": "https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Good On You",
-      "url": "https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1419,6 +1387,38 @@
       "duration_ms": 165835,
       "name": "Boys Back Home",
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Good On You",
+        "url": "https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Good On You",
+      "url": "https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 174347,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2024-10-11 04:00:00",

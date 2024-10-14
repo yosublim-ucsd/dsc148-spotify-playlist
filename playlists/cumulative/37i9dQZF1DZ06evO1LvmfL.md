@@ -2,9 +2,9 @@
 
 ### [This Is Teddy Swims](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LvmfL)
 
-> This is Teddy Swims\. Tutti i brani in un'unica playlist.
+> This is Teddy Swims\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 4 min
+58 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Blowin’ Smoke](https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:21 | 2024-01-10 |  |
 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 | 2024-01-10 |  |
 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 | 2024-01-10 |  |
-| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-06 |  |
+| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-06 | 2024-10-14 |
+| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:53 | 2024-10-14 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 | 2024-01-10 |  |
 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2024-01-10 |  |
 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 | 2024-01-10 |  |

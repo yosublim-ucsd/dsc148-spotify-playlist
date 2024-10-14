@@ -4,7 +4,7 @@
 
 > The best in new alternative pop\. Cover: Charli xcx
 
-140 songs - 7 hr 19 min
+141 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,16 +31,16 @@
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-08 | 2024-10-11 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-07 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-07 |  |
-| [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 |  |
+| [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 | 2024-10-14 |
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-06-07 |  |
-| [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-07 | 2024-10-13 |
+| [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-07 |  |
 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 | 2024-06-07 | 2024-08-09 |
 | [Cycles](https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:58 | 2024-07-12 |  |
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-18 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-12 |  |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-07 | 2024-10-11 |
 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 |  |
-| [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 |  |
+| [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-10-14 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 |  |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-06-07 |  |
@@ -65,6 +65,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-07 |  |
 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 | 2024-06-07 |  |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-08 |  |
+| [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 |  |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-06-07 |  |
 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 | 2024-06-07 | 2024-07-27 |
 | [Hello Lonely](https://open.spotify.com/track/0eFTxYwpRTxyefxYlBJq6L) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/0GpklLqjWNrhropGa4XRRD) | 3:31 | 2024-06-07 | 2024-07-25 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 136148,
+  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "num_followers": 136250,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABjDpjUKWS1h0OTQ6iyAw9V",
+  "snapshot_id": "Zwm8AAAAAACFOS1Yan1crXtjvWvLda30",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
+      "duration_ms": 188074,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/3Jg86eGRRn6XLMDl0uiKPE"
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pareja Ideal - Live",
+        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "La Pareja Ideal - Live",
+      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pareja Ideal - Live",
-        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "La Pareja Ideal - Live",
-      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
     },
     {
       "added_at": null,

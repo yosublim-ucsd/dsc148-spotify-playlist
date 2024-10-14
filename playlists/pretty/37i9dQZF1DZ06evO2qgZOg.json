@@ -1,12 +1,12 @@
 {
-  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
-  "num_followers": 287114,
+  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "num_followers": 287184,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACc+VAydwnhhxfZQQ3Bzk4K",
+  "snapshot_id": "Zwm8AAAAAADZNpbsE/hqPYVhhypLWxTE",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 244538,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+      "duration_ms": 206060,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Back from the Dead",
-      "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Back from the Dead",
+      "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 206060,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
       "added_at": null,

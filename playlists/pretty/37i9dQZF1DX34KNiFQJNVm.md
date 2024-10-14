@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Murilo Huff com Ana Castela, Tierry e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,943,359 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943,646 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 32 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 33 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |
-| 34 | [Briga Boba](https://open.spotify.com/track/52bKVGHoB4J16IUte4aMZz) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Briga Boba](https://open.spotify.com/album/7xBjk8fZVvYPyhEtthCH4N) | 2:23 |
+| 34 | [Briga Boba \(Ao Vivo\)](https://open.spotify.com/track/52bKVGHoB4J16IUte4aMZz) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Briga Boba \(Ao Vivo\)](https://open.spotify.com/album/7xBjk8fZVvYPyhEtthCH4N) | 2:23 |
 | 35 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
 | 36 | [Faz Assim](https://open.spotify.com/track/2OCwRvTRfNjZIyamBhf5ii) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Faz Assim](https://open.spotify.com/album/3CGkqK5Ky6PNCdtHJXId0k) | 2:37 |
 | 37 | [Futuro namorado](https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Futuro namorado](https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 72959,
+  "num_followers": 72996,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -203,34 +203,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -263,6 +247,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 247493,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Cold Little Heart (Acoustic)",
         "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 269386,
       "name": "Cold Little Heart - Acoustic",
       "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mangy Love",
-        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 299671,
-      "name": "Bum Bum Bum",
-      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mangy Love",
+        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 299671,
+      "name": "Bum Bum Bum",
+      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7nxIBClhF3MK4aYC7TiCWy"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7nxIBClhF3MK4aYC7TiCWy"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Been Listening",
         "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
       },
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1891,6 +1875,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Harlem River",
+        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 555883,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
       },
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 284506,
       "name": "The Bad In Each Other",
       "url": "https://open.spotify.com/track/5YlhFrPeFdcpfwND0sSKQR"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2024-08-28 14:05:36",

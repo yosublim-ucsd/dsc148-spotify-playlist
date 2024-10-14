@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-330 songs - 19 hr 19 min
+331 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 | 2024-04-24 |
 | [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 | 2024-07-24 | 2024-07-31 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-11-23 | 2024-01-11 |
+| [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-11 |  |
 | [TAMAMO\-NO\-MAE](https://open.spotify.com/track/2WxpIk5iq2jd1fHucz554x) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [TAMAMO\-NO\-MAE](https://open.spotify.com/album/680bh06P5HMOyGHeRiVWZO) | 3:39 | 2024-03-12 | 2024-04-19 |
 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-11-28 | 2023-11-30 |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-12 | 2024-05-09 |
@@ -335,7 +336,7 @@
 | [飛行艇](https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:20 | 2024-01-09 | 2024-01-11 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-11-23 | 2023-12-08 |
 | [飴細工を撃ち抜きたい](https://open.spotify.com/track/5gNlEIgu94NUJVh074N3oC) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [飴細工を撃ち抜きたい](https://open.spotify.com/album/7fy3aziexdhVsBJUDdPWVm) | 3:17 | 2024-05-08 | 2024-05-29 |
-| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-28 |  |
+| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-28 | 2024-10-14 |
 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 | 2024-04-23 | 2024-07-31 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-11-23 | 2023-12-01 |
 

@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 152608,
       "name": "Favour",
       "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
@@ -2396,6 +2396,28 @@
       "duration_ms": 235747,
       "name": "Malaika x Bien",
       "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
+    },
+    {
+      "album": {
+        "name": "Malaika x Fridayy",
+        "url": "https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248490,
+      "name": "Malaika x Fridayy",
+      "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,532 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,554 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 33 | [Raise Your Hand \- Live at Jahrhunderthalle, Frankfurt, Germany](https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 3:44 |
 | 34 | ["How 'Bout This?"](https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 1:10 |
 | 35 | [Flower In the Sun](https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 3:03 |
-| 36 | [Take Another Piece of my Heart \(Live SWR TV Frankfurt Germany 12th April 1969\)](https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:54 |
-| 37 | [Easy Rider](https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:23 |
+| 36 | [Easy Rider](https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:23 |
+| 37 | [Take Another Piece of my Heart \(Live SWR TV Frankfurt Germany 12th April 1969\)](https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:54 |
 | 38 | [Hesitation Blues](https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:57 |
 | 39 | [Piece Of My Heart \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 4:57 |
 | 40 | [Flower In the Sun \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin Live At Winterland '68](https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Tell Mama \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/5cSLT6bJti7KpIQGEzA1Si) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 6:32 |
 | 50 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 
-Snapshot ID: `ZwhqgAAAAAB7+LjH6e5DhIIBtUWZH//p`
+Snapshot ID: `Zwm8AAAAAAArNgSEoVGQGLEHY0/4xuCf`

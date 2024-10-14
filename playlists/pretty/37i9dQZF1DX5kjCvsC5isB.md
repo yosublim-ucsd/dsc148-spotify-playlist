@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,066 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,102 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 32 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 33 | [THE BLOB](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [THE BLOB](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
 | 34 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 |
-| 35 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 36 | [House Of Self\-Undoing](https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:23 |
+| 35 | [House Of Self\-Undoing](https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:23 |
+| 36 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 37 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
-| 38 | [Downhill](https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Downhill](https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4) | 3:05 |
-| 39 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
+| 38 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
+| 39 | [Downhill](https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Downhill](https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4) | 3:05 |
 | 40 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 41 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
 | 42 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 65 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 66 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
 | 67 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 |
-| 68 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 69 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 68 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 69 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 70 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
 | 71 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
 | 72 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Damares. The essential tracks, all in one playlist.",
   "name": "This Is Damares",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "album": {
+        "name": "A Vit\u00f3ria \u00c9 Nossa",
+        "url": "https://open.spotify.com/album/0KUAv9wADrfuAPwf84DJrv"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "A Vit\u00f3ria \u00c9 Nossa",
+      "url": "https://open.spotify.com/track/4aZg1QEy7wttKHv4fRQ6U9"
     },
     {
       "album": {

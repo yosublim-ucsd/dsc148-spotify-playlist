@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1254497,
+  "num_followers": 1254521,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Sister Golden Hair",
-      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
-    },
-    {
       "added_at": "2021-12-14 20:17:09",
       "album": {
         "name": "52nd Street",
@@ -299,6 +283,22 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Sister Golden Hair",
+      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 186567,
-      "name": "Oogum Boogum Song",
-      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "The Stranger (Legacy Edition)",
@@ -459,6 +443,22 @@
       "duration_ms": 235560,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 186567,
+      "name": "Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "Tap Root Manuscript",
-        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Cracklin' Rosie - Single Version",
-      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Dock of the Bay Sessions",
@@ -523,6 +507,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Tap Root Manuscript",
+        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Cracklin' Rosie - Single Version",
+      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
     },
     {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
       "added_at": "2022-07-05 19:20:09",
       "album": {
         "name": "Deja Vu",
@@ -733,6 +717,38 @@
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
+    },
+    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "There Goes Rhymin' Simon",
@@ -763,22 +779,6 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
-    },
-    {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
     },
     {
       "added_at": "2021-01-06 18:39:03",

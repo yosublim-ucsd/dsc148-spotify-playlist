@@ -1,6 +1,6 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1728181,
+  "num_followers": 1728269,
   "original_name": "Summer Hits 2024",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-08-28 04:41:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2024-08-28 04:41:00",
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "added_at": "2024-08-28 04:41:00",
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "added_at": "2024-08-28 04:41:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-28 04:41:00",
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
-    },
-    {
-      "added_at": "2024-08-28 04:41:00",
-      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
+    },
+    {
+      "added_at": "2024-08-28 04:41:00",
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
       "added_at": "2024-08-28 04:41:00",

@@ -1,6 +1,6 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 61576,
+  "num_followers": 61589,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -683,26 +663,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -727,6 +687,26 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
-      },
-      "artists": [
-        {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
-        },
-        {
-          "name": "Borai",
-          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
-        },
-        {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
-        }
-      ],
-      "duration_ms": 151436,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Borai",
+          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
+        },
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "duration_ms": 151436,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Jet Plane",
         "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 182409,
       "name": "Jet Plane",
       "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1731,22 +1715,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Don\u2019t Forget My Love",
-        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Don\u2019t Forget My Love",
-      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1763,6 +1743,26 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Don\u2019t Forget My Love",
+        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don\u2019t Forget My Love",
+      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Get Hard (You In The Lobby)",
+        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 156948,
+      "name": "Get Hard (You In The Lobby)",
+      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "i miss u (with Au/Ra)",
         "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Get Hard (You In The Lobby)",
-        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 156948,
-      "name": "Get Hard (You In The Lobby)",
-      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "added_at": "2024-03-29 00:01:00",

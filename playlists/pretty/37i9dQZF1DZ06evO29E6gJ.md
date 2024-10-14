@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,614 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
-| 2 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
-| 3 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
+| 2 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
+| 3 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
 | 4 | [La Mesera](https://open.spotify.com/track/2NYMwhPHGgIpPPLv8yLZEf) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 3:01 |
 | 5 | [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 |
 | 6 | [Ingrato Amor](https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serenata Bajo Las Estrellas 15 Exitos Inmortales](https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk) | 2:42 |
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 12 | [Ojitos Verdes](https://open.spotify.com/track/2IOJaGlWLGg8ujTgVwDMAo) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:48 |
 | 13 | [Alma Rendida](https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:48 |
 | 14 | [Desilusión](https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 1:56 |
-| 15 | [Tierra Mala](https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tu Recuerdo](https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj) | 2:24 |
+| 15 | [Cuando Salgo a los Campos](https://open.spotify.com/track/2IQrTSpuWkKMOLK9PXrpbY) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Auténticos](https://open.spotify.com/album/0NN0YMPL5sbbr8eVw82QcS) | 2:31 |
 | 16 | [Los Ojos De Pancha](https://open.spotify.com/track/3yIJxZ1XFWgk80P3NwQGdA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:07 |
-| 17 | [Cuando Salgo a los Campos](https://open.spotify.com/track/2IQrTSpuWkKMOLK9PXrpbY) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Auténticos](https://open.spotify.com/album/0NN0YMPL5sbbr8eVw82QcS) | 2:31 |
+| 17 | [Tierra Mala](https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tu Recuerdo](https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj) | 2:24 |
 | 18 | [Vino Maldito](https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:10 |
 | 19 | [Cajita de Oro](https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Cañonazos Norteños](https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL) | 2:32 |
 | 20 | [Aun Se Acuerda De Mi](https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:56 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 47 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 |
 | 48 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 
-Snapshot ID: `ZwhqgAAAAAC+zzGgWECC1IWr54mEWmfB`
+Snapshot ID: `Zwm8AAAAAAAqRthaA0j7GGPpKKvWsWBU`

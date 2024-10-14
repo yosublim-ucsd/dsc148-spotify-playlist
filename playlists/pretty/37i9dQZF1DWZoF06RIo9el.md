@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de octubre 2024\. Cover: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,502,531 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,502,489 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

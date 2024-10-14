@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3325851,
+  "num_followers": 3325791,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -287,38 +287,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
       },
@@ -391,6 +359,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246880,
-      "name": "Can I Be Him",
-      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 177523,
-      "name": "watch",
-      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+      "duration_ms": 246880,
+      "name": "Can I Be Him",
+      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -507,6 +491,22 @@
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 179120,
       "name": "Half A Man",
       "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Jamie Lawson",
-        "url": "https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 201072,
-      "name": "Wasn't Expecting That",
-      "url": "https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Good Without",
         "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 182121,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Jamie Lawson",
+        "url": "https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 201072,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/2a5VluIESm1JP4Qwvo02H8"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 239767,
-      "name": "Us Against the World",
-      "url": "https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 239767,
+      "name": "Us Against the World",
+      "url": "https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "chapter two: red",
-        "url": "https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "like that",
-      "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "12+",
         "url": "https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 231995,
       "name": "Thank You for the Broken Heart",
       "url": "https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "chapter two: red",
+        "url": "https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "like that",
+      "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Echoes Of Love",
-        "url": "https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216572,
-      "name": "Echoes Of Love",
-      "url": "https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5uvQNw5Jr0aYdIStUYmX6o"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/6Qgva9AMxlkf7MWkLUkdFH"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Echoes Of Love",
+        "url": "https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216572,
+      "name": "Echoes Of Love",
+      "url": "https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv"
     },
     {
       "added_at": "2024-09-13 04:00:00",

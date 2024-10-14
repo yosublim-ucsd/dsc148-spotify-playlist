@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This Is Sister Rosetta Tharpe. Los temas esenciales, todos en una lista.",
+  "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
   "name": "This Is Sister Rosetta Tharpe",
   "tracks": [
     {
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 146773,
       "name": "There Is Something Within Me",
       "url": "https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R"

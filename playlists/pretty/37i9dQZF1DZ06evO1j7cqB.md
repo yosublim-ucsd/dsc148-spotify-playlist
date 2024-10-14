@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. The essential tracks, all in one playlist.
+> This is Bear McCreary\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,108 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,110 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 34 | [The Echo and the River](https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:21 |
 | 35 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
 | 36 | [Svartalfheim \(feat\. Eivør\)](https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 5:13 |
-| 37 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
+| 37 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 |
 | 38 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
-| 39 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 |
+| 39 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
 | 40 | [Faith](https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 3:29 |
 
-Snapshot ID: `ZwhqgAAAAACWdaxmUYhChNPE7p2H39xr`
+Snapshot ID: `Zwm8AAAAAADm0M8tANA1Jnsf1hfSeEM8`

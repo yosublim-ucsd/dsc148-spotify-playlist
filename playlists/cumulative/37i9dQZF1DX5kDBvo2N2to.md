@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-184 songs - 10 hr 44 min
+185 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 | 2024-06-28 | 2024-08-23 |
 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 |  |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
+| [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 |  |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-13 |
 | [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 |  |
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
@@ -116,7 +117,7 @@
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-13 |
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-28 |  |
-| [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 |  |
+| [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 | 2024-10-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-10-05 |
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 |  |

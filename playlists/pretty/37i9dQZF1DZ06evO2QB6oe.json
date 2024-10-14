@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
-  "num_followers": 66063,
+  "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
+  "num_followers": 66077,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAAWVpIyv2snVYAqy1qa9zYj",
+  "snapshot_id": "Zwm8AAAAAADKOwhClHNeW6Ghg0RRWLMf",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 204413,
-      "name": "Mar Chiquita",
-      "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+      "duration_ms": 204413,
+      "name": "Mar Chiquita",
+      "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
     },
     {
       "added_at": null,

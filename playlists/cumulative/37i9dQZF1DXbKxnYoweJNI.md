@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 夜貓組 \(Leo王+春艷\)
 
-808 songs - 1 day 22 hr 52 min
+809 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Crying J.A.R](https://open.spotify.com/track/0HWbmf24l8wzJcN8CgSa9a) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [量子人格](https://open.spotify.com/album/7EoNAQxVOpLMDmWYpyA3LF) | 3:49 | 2024-09-19 | 2024-09-27 |
 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 | 2024-10-03 |  |
 | [Dance Tonight](https://open.spotify.com/track/5GDoe9Hhm11QLzHVwjsi14) | [胡呈嫚](https://open.spotify.com/artist/1uBqVCCssdJOUWZhG0HYfp) | [Dance Tonight](https://open.spotify.com/album/40oAIWSgX8970fzmKZPe56) | 3:11 | 2024-08-22 | 2024-08-30 |
+| [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 | 2024-10-10 |  |
 | [Dark Echoes](https://open.spotify.com/track/3qMjcAuPykFTt204UG9iSL) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF) | [Dark Echoes](https://open.spotify.com/album/46cGIdRe5ljxqfXYtGzjp7) | 1:31 | 2024-07-11 | 2024-07-19 |
 | [DARK MOVE《角頭》原聲帶](https://open.spotify.com/track/2gMp1ABGzk3KdVQixhIlY4) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [G.K\. 高偉庭](https://open.spotify.com/artist/6oQww0uMiqePdArgcGKx2S) | [DARK MOVE《角頭》原聲帶](https://open.spotify.com/album/4Y8YwfzfX5dAvZTrTiWs4R) | 3:57 | 2024-06-27 | 2024-07-27 |
 | [DASH！ \(2024 V\-TEX 代言主題曲\)](https://open.spotify.com/track/1gshLl2xwHVrFelFR2jF23) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [還記得那天 怪星週年誌\#01](https://open.spotify.com/album/4y4Ab23YmTX0tpUvN5CXUl) | 3:17 | 2024-09-12 | 2024-10-04 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Shemekia Copeland. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 5241,
+  "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
+  "num_followers": 5243,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAARXVXrv8jJArYE/5gpBSrI",
+  "snapshot_id": "Zwm8AAAAAADD7Dj/DJN+oonXklj1cpGw",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Should Have Come Home",
-      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+      "duration_ms": 210800,
+      "name": "Should Have Come Home",
+      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/4Ts8K8BHekSURe51XJHB6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/4Ts8K8BHekSURe51XJHB6J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 197920,
-      "name": "Isn't That So",
-      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
+      "duration_ms": 233866,
+      "name": "The Battle Is Over (But The War Goes On)",
+      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Cadillac Blue",
-      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Cadillac Blue",
+      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 233866,
-      "name": "The Battle Is Over (But The War Goes On)",
-      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Wine O'Clock",
-      "url": "https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 319458,
-      "name": "Promised Myself",
-      "url": "https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b"
+      "duration_ms": 243053,
+      "name": "Wine O'Clock",
+      "url": "https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
+      "duration_ms": 319458,
+      "name": "Promised Myself",
+      "url": "https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 174374,
-      "name": "One I Love",
-      "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 276395,
-      "name": "Down On Bended Knee",
-      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
+      "duration_ms": 174374,
+      "name": "One I Love",
+      "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 217000,
       "name": "Has Anybody Seen My Man",
       "url": "https://open.spotify.com/track/2BF5JJcxfOwe800pyzd3vL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 276395,
+      "name": "Down On Bended Knee",
+      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 225412,
-      "name": "Apple Pie And A .45",
-      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
+      "duration_ms": 257365,
+      "name": "No Heart At All",
+      "url": "https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 257365,
-      "name": "No Heart At All",
-      "url": "https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs"
+      "duration_ms": 225412,
+      "name": "Apple Pie And A .45",
+      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
     },
     {
       "added_at": null,

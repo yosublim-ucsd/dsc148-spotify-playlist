@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 71643,
+  "num_followers": 71646,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 281518,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -811,50 +811,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
         "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
       },
@@ -883,6 +839,50 @@
       "duration_ms": 174335,
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
       "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 236215,
-      "name": "NI BIEN NI MAL",
-      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "Mother's Milk",
         "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
@@ -1151,22 +1119,34 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 236215,
+      "name": "NI BIEN NI MAL",
+      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1183,6 +1163,26 @@
       "duration_ms": 183547,
       "name": "ARRANC\u00c1RMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
       },
@@ -1343,42 +1359,6 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 225919,
       "name": "BIG",
       "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2024-06-12 23:38:10",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2024-06-12 23:38:10",
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 198850,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
+    },
+    {
+      "added_at": "2024-06-12 23:38:10",
+      "album": {
         "name": "Sea",
         "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 248640,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
-    },
-    {
-      "added_at": "2024-06-12 23:38:10",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198850,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
     },
     {
       "added_at": "2024-06-12 23:38:10",

@@ -2,9 +2,9 @@
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This is Motörhead\. The essential tracks, all in one playlist.
+> This is Motörhead\. Todos os maiores hits em uma só playlist.
 
-114 songs - 6 hr 49 min
+115 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 | 2022-12-30 |  |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-12-30 | 2023-12-14 |
 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2023-12-13 |  |
+| [Alligator \- Bomber Demo](https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Bomber Demos](https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH) | 3:29 | 2024-10-14 |  |
 | [Back at the Funny Farm](https://open.spotify.com/track/6yzBxTrtlBhm8nXbZIBqS1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Another Perfect Day \(Expanded Edition\)](https://open.spotify.com/album/4WoY5iVHPMk3duAINlW7MK) | 4:11 | 2022-12-30 | 2023-03-02 |
 | [Be My Baby](https://open.spotify.com/track/0EXoM6WD1gWVDB6Y2kRH2f) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 3:40 | 2022-12-30 | 2023-11-11 |
 | [Bomber](https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:40 | 2022-12-30 | 2023-12-14 |
@@ -114,7 +115,7 @@
 | [The Hammer](https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-12-30 | 2023-12-14 |
 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 | 2022-12-30 |  |
 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 | 2022-12-30 |  |
-| [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 | 2023-02-15 |  |
+| [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 | 2023-02-15 | 2024-10-14 |
 | [Victory Or Die](https://open.spotify.com/track/2CiA531WXraGbovitMCPM1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:08 | 2022-12-30 |  |
 | [We Are Motörhead](https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI) | 2:21 | 2022-12-30 | 2023-12-14 |
 | [We Are Motörhead](https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 2:21 | 2023-12-13 |  |

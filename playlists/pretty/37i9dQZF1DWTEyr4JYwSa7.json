@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 58216,
+  "num_followers": 58214,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,18 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 266640,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
+      "duration_ms": 264826,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
+        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 264826,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
+      "duration_ms": 266640,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -843,6 +843,38 @@
       "duration_ms": 186162,
       "name": "Toute seule pour No\u00ebl",
       "url": "https://open.spotify.com/track/6HbakdV227EMrteosQ8Tyb"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
+        "name": "A Very Trainor Christmas",
+        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "My Kind Of Present",
+      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
+        "name": "Christmas on My Mind",
+        "url": "https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Christmas on My Mind",
+      "url": "https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -867,42 +899,6 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Christmas on My Mind",
-        "url": "https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Christmas on My Mind",
-      "url": "https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
-        "name": "Blame It On The Mistletoe",
-        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Blame It On The Mistletoe",
-      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
         "name": "Jusqu'\u00e0 No\u00ebl (feat. Gabrielle Shonk)",
         "url": "https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3"
       },
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "A Very Trainor Christmas",
-        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+        "name": "Blame It On The Mistletoe",
+        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         }
       ],
-      "duration_ms": 161013,
-      "name": "My Kind Of Present",
-      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
+      "duration_ms": 185739,
+      "name": "Blame It On The Mistletoe",
+      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Robert Charlebois",
-        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "Marie-No\u00ebl",
-      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
-      },
-      "artists": [
-        {
-          "name": "La Zarra",
-          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
-        }
-      ],
-      "duration_ms": 208806,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
         "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
       },
@@ -1135,6 +1103,38 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
+      },
+      "artists": [
+        {
+          "name": "La Zarra",
+          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+        }
+      ],
+      "duration_ms": 208806,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
+        "name": "Robert Charlebois",
+        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "Marie-No\u00ebl",
+      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
         "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
         "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
       },
       "artists": [
         {
-          "name": "Villeray",
-          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
+      "duration_ms": 251800,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Villeray",
+          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
         }
       ],
-      "duration_ms": 251800,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+      "duration_ms": 147080,
+      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
       },
       "artists": [
         {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
         }
       ],
-      "duration_ms": 196680,
-      "name": "No\u00ebl sous les tropiques",
-      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1435,6 +1419,22 @@
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "No\u00ebl sous les tropiques",
+      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "No\u00ebl brille encore",
-        "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
-      },
-      "artists": [
-        {
-          "name": "Laurence Nerbonne",
-          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "No\u00ebl brille encore",
-      "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
-    },
-    {
-      "added_at": "2024-09-03 14:19:12",
-      "album": {
         "name": "No\u00ebl s'invite chez moi",
         "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2024-09-03 14:19:12",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+        "name": "No\u00ebl brille encore",
+        "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
       },
       "artists": [
         {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+          "name": "Laurence Nerbonne",
+          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
         }
       ],
-      "duration_ms": 158573,
-      "name": "Joie dans le monde",
-      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
+      "duration_ms": 206666,
+      "name": "No\u00ebl brille encore",
+      "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
     },
     {
       "added_at": "2024-09-03 14:19:12",
@@ -1683,6 +1667,22 @@
       "duration_ms": 263762,
       "name": "Chanson pour une nuit d'hiver",
       "url": "https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo"
+    },
+    {
+      "added_at": "2024-09-03 14:19:12",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Joie dans le monde",
+      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
     },
     {
       "added_at": "2024-09-03 14:19:12",

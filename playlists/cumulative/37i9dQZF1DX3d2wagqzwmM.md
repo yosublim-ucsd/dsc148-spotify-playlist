@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-494 songs - 1 day 1 hr 39 min
+495 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Believe](https://open.spotify.com/track/3KckvunLh7ppfXqzl0P8AT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Believe](https://open.spotify.com/album/5j8FYbyJOB1ppcDdtqou6N) | 2:54 | 2022-09-22 | 2023-04-28 |
 | [BIGROOM NEVER DIES \- REBELS NEVER DIE REWORK](https://open.spotify.com/track/3i7KAQNyedqfBeZo155FvN) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:39 | 2022-12-27 | 2023-01-03 |
 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 | 2024-02-29 |  |
+| [Bla Bla Bla](https://open.spotify.com/track/1T2bK1Woz5LCjdW5JyYRpf) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Bla Bla Bla](https://open.spotify.com/album/1swbJgCSWTjkp4ueCljP0Z) | 2:05 | 2024-10-10 |  |
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-05 | 2022-05-13 |
 | [BLACK MAGIC](https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:05 | 2022-12-27 | 2023-01-03 |
 | [Black Panther \- WhySoSerious & Wiwek Remix](https://open.spotify.com/track/0YDcRtilj1Ti2HF6vzdPIo) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [Cycles \(Remixes\)](https://open.spotify.com/album/5zE6VIryfEc7215d76HZX6) | 3:20 | 2022-07-07 | 2022-07-22 |
@@ -465,7 +466,7 @@
 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 | 2022-04-14 | 2022-09-02 |
 | [Toxic](https://open.spotify.com/track/4ANHKkQXnqEuyEobhBdlfi) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Toxic](https://open.spotify.com/album/11p6rT98tDVDchI7h9XbYU) | 2:58 | 2022-10-27 | 2023-04-11 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2024-09-20 |
-| [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 |  |
+| [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 | 2024-10-14 |
 | [Tunnel](https://open.spotify.com/track/1lvpoF24wJfyzITLOsLqpL) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Tunnel](https://open.spotify.com/album/2ZIE7kvVdqeS6cuQr9yCkR) | 3:38 | 2022-06-02 | 2022-07-26 |
 | [Turn Off The Lights \- VIP Mix](https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights \(VIP Mix\)](https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b) | 2:28 | 2024-03-14 | 2024-04-26 |
 | [Turn Up The Bass](https://open.spotify.com/track/16mgFU72kDK6o1bGzqitT6) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8) | [Turn Up The Bass](https://open.spotify.com/album/73kBhQxq0aheDZjj4xOUkl) | 3:13 | 2022-04-14 | 2022-05-06 |

@@ -8510,7 +8510,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 158469,
       "name": "Man Like You",
       "url": "https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40"
@@ -9160,7 +9160,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 172040,
       "name": "NAKED",
       "url": "https://open.spotify.com/track/32iWCUWIOhFM2rV5Uqdsry"
@@ -11004,6 +11004,24 @@
       "duration_ms": 152773,
       "name": "Q&A (Feat. g0nny)",
       "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
+    },
+    {
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
     },
     {
       "album": {
@@ -14928,7 +14946,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 194320,
       "name": "Wishing On You",
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"

@@ -2,7 +2,7 @@
 
 ### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This Is The Rolling Stones\. Sus mejores éxitos, todos en una playlist.
+> This is The Rolling Stones\. The essential tracks, all in one playlist.
 
 102 songs - 6 hr 54 min
 

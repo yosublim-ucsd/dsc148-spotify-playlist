@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema, Woro Widowati, Esa Risty
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,806 likes - 101 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,867 likes - 101 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

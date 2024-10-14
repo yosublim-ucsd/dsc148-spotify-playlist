@@ -1,12 +1,12 @@
 {
-  "description": "This is Maren Morris. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 73327,
+  "description": "This is Maren Morris. The essential tracks, all in one playlist.",
+  "num_followers": 73330,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABrj5Vojl3d1DMJY9AK3OlH",
+  "snapshot_id": "Zwm8AAAAAAD5BXdvWmACsFbPFXKqcocK",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128164,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Some Things I'll Never Know (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "cut! (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128164,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
       "added_at": null,

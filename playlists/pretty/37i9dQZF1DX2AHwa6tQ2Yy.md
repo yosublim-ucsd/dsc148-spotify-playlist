@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,739 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,743 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 12 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 13 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 |
 | 14 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
-| 15 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
-| 16 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
+| 15 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
+| 16 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
 | 17 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 18 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 | 19 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 58 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 59 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 |
 | 60 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 |
-| 61 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
-| 62 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
+| 61 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
+| 62 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
 | 63 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
 | 64 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
-| 65 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
-| 66 | [Addict](https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Open](https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h) | 3:29 |
-| 67 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
+| 65 | [Addict](https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Open](https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h) | 3:29 |
+| 66 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
+| 67 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
 | 68 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
 | 69 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 70 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |

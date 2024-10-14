@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 169507,
+  "num_followers": 169609,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "How Deep Is The Ocean",
+        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 318280,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "How Deep Is The Ocean",
-        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 196546,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/1RrdcQQ5nyoZGc9xYnX5DI"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "In Her Words",
-        "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 267160,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1223,6 +1219,26 @@
       "duration_ms": 312786,
       "name": "And So It Goes",
       "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "In Her Words",
+        "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1259,22 +1275,6 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Let's Try This Again",
-      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Everything Happens to Me",
         "url": "https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 379427,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Let's Try This Again",
+      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Linger Awhile (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 297297,
       "name": "I'm Afraid (Of Loving You Too Much) (feat. Ben Paterson)",
       "url": "https://open.spotify.com/track/6Ea7TV4pktvUgKakKKr9pZ"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
       "artists": [
         {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         }
       ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1751,6 +1735,22 @@
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
       "artists": [
         {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 311906,
-      "name": "One For My Baby",
-      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
+      "duration_ms": 213431,
+      "name": "Hate is the Basis (of Love)",
+      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1851,34 +1851,18 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
         }
       ],
-      "duration_ms": 213431,
-      "name": "Hate is the Basis (of Love)",
-      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+      "duration_ms": 311906,
+      "name": "One For My Baby",
+      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1899,6 +1883,22 @@
       "duration_ms": 214906,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1955,18 +1955,26 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "On My Worst Day (I'm Still In Love With You)",
-        "url": "https://open.spotify.com/album/05usim6u1byXZXYzYq70JO"
+        "name": "C\u00e2dencia",
+        "url": "https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0"
       },
       "artists": [
         {
-          "name": "Erika Ingrid",
-          "url": "https://open.spotify.com/artist/5qykgTkNRZf1P5QZL1r4Nr"
+          "name": "Morten Ankarfeldt",
+          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Caio Marcio Santos",
+          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
         }
       ],
-      "duration_ms": 224660,
-      "name": "On My Worst Day (I'm Still In Love With You)",
-      "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
+      "duration_ms": 237013,
+      "name": "C\u00e2dencia",
+      "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -1999,26 +2007,18 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "C\u00e2dencia",
-        "url": "https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0"
+        "name": "On My Worst Day (I'm Still In Love With You)",
+        "url": "https://open.spotify.com/album/05usim6u1byXZXYzYq70JO"
       },
       "artists": [
         {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Caio Marcio Santos",
-          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
+          "name": "Erika Ingrid",
+          "url": "https://open.spotify.com/artist/5qykgTkNRZf1P5QZL1r4Nr"
         }
       ],
-      "duration_ms": 237013,
-      "name": "C\u00e2dencia",
-      "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
+      "duration_ms": 224660,
+      "name": "On My Worst Day (I'm Still In Love With You)",
+      "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2235,6 +2235,38 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "Sketchbook of Dreams",
+        "url": "https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k"
+      },
+      "artists": [
+        {
+          "name": "Tom van der Zaal",
+          "url": "https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au"
+        }
+      ],
+      "duration_ms": 225419,
+      "name": "Sketchbook of Dreams (Radio Edit)",
+      "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "For The Want Of A Kiss - Live",
+      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
       },
@@ -2259,38 +2291,6 @@
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "For The Want Of A Kiss - Live",
-      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Sketchbook of Dreams",
-        "url": "https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k"
-      },
-      "artists": [
-        {
-          "name": "Tom van der Zaal",
-          "url": "https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au"
-        }
-      ],
-      "duration_ms": 225419,
-      "name": "Sketchbook of Dreams (Radio Edit)",
-      "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Anita O'Day And The Three Sounds",
-        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "When The World Was Young",
-      "url": "https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "It Ends Now",
         "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
       },
@@ -2403,6 +2383,26 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "When The World Was Young",
+      "url": "https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD"
       },
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 329093,
-      "name": "The Man That Got Away",
-      "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Cloudy (With a Chance of Rain)",
         "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 283422,
       "name": "Cloudy (With a Chance of Rain)",
       "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 329093,
+      "name": "The Man That Got Away",
+      "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Reste un peu (Radio Edit)",
         "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 185560,
       "name": "Reste un peu - Radio Edit",
       "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2631,30 +2631,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "To Miss Shirley Horn with Love",
-        "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Claudia Zannoni",
-          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        }
-      ],
-      "duration_ms": 348229,
-      "name": "Isn't It a Pity",
-      "url": "https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
@@ -2683,6 +2659,30 @@
       "duration_ms": 296720,
       "name": "Happy Little Sunshine Beam",
       "url": "https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "To Miss Shirley Horn with Love",
+        "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Claudia Zannoni",
+          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        }
+      ],
+      "duration_ms": 348229,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2719,6 +2719,22 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/6QwB907QohtgBTpWgVrxbv"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/0kx3X2Q2sf02QWmZ1O2Kh2"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Body and Soul",
         "url": "https://open.spotify.com/album/6UCYfwfmB0RH1bJNUwImba"
       },
@@ -2739,54 +2755,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/6QwB907QohtgBTpWgVrxbv"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/0kx3X2Q2sf02QWmZ1O2Kh2"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Blue Toy",
-        "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
-      },
-      "artists": [
-        {
-          "name": "Andrea Pozza Trio",
-          "url": "https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh"
-        }
-      ],
-      "duration_ms": 455273,
-      "name": "Blue Toy",
-      "url": "https://open.spotify.com/track/6gMCbMq9AZMCFbNIvOGSlL"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Life Came into Colour",
-        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
-      },
-      "artists": [
-        {
-          "name": "Katharine Timoney",
-          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
-        }
-      ],
-      "duration_ms": 316166,
-      "name": "Life Came into Colour",
-      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -2803,6 +2771,22 @@
       "duration_ms": 262725,
       "name": "The Two Lonely People",
       "url": "https://open.spotify.com/track/6unBECgGmFBtwNJbtbPTtn"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Life Came into Colour",
+        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
+      },
+      "artists": [
+        {
+          "name": "Katharine Timoney",
+          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
+        }
+      ],
+      "duration_ms": 316166,
+      "name": "Life Came into Colour",
+      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2839,6 +2823,22 @@
       "duration_ms": 458400,
       "name": "I'm Never Happy Anymore",
       "url": "https://open.spotify.com/track/6sQmzCpG7ODbngsZU0pMw0"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "Blue Toy",
+        "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pozza Trio",
+          "url": "https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh"
+        }
+      ],
+      "duration_ms": 455273,
+      "name": "Blue Toy",
+      "url": "https://open.spotify.com/track/6gMCbMq9AZMCFbNIvOGSlL"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -2939,6 +2939,26 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "Early Autumn",
+        "url": "https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Trio",
+          "url": "https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y"
+        },
+        {
+          "name": "Ursina",
+          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
+        }
+      ],
+      "duration_ms": 193255,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Polar Waters",
         "url": "https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85"
       },
@@ -2959,26 +2979,6 @@
       "duration_ms": 366177,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Early Autumn",
-        "url": "https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p"
-      },
-      "artists": [
-        {
-          "name": "The Jazz Trio",
-          "url": "https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y"
-        },
-        {
-          "name": "Ursina",
-          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
-        }
-      ],
-      "duration_ms": 193255,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -3155,6 +3155,22 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD"
+      },
+      "artists": [
+        {
+          "name": "Louise B\u00f8ttern",
+          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
+        }
+      ],
+      "duration_ms": 341040,
+      "name": "Sweet Kentucky Ham",
+      "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
         "name": "Isn't It Romantic?",
         "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
       },
@@ -3191,22 +3207,6 @@
     {
       "added_at": "2024-09-27 07:33:07",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD"
-      },
-      "artists": [
-        {
-          "name": "Louise B\u00f8ttern",
-          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
-        }
-      ],
-      "duration_ms": 341040,
-      "name": "Sweet Kentucky Ham",
-      "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
         "name": "Bewitched, Bothered and Bewildered",
         "url": "https://open.spotify.com/album/67s4gPfQRUR1z2CfN1BrGW"
       },
@@ -3235,22 +3235,6 @@
       "duration_ms": 464093,
       "name": "Ojos Cari\u00f1osos",
       "url": "https://open.spotify.com/track/4Fb1S8u90wKz2GYfrz1xIA"
-    },
-    {
-      "added_at": "2024-09-27 07:33:07",
-      "album": {
-        "name": "Isn't It Romantic?",
-        "url": "https://open.spotify.com/album/3pizrquomee0WmQEuksn08"
-      },
-      "artists": [
-        {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
-        }
-      ],
-      "duration_ms": 333346,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS"
     },
     {
       "added_at": "2024-09-27 07:33:07",
@@ -3323,6 +3307,22 @@
       "duration_ms": 221000,
       "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
       "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
+    },
+    {
+      "added_at": "2024-09-27 07:33:07",
+      "album": {
+        "name": "I'll Follow The Sun",
+        "url": "https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Brinnel",
+          "url": "https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d"
+        }
+      ],
+      "duration_ms": 139605,
+      "name": "I'll Follow the Sun",
+      "url": "https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN"
     }
   ],
   "unique_name": "Cozy Jazz",

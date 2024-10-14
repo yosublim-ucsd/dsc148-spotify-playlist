@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This Is Lunay\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,038 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,044 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 50 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 
-Snapshot ID: `ZwhqgAAAAADmn/EYZv3wsXMxNZip9BHn`
+Snapshot ID: `Zwm8AAAAAABrgMWT9clfFns9Q7ykpMFU`

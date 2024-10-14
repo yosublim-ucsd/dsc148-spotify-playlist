@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 7 hr 47 min
+167 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 | 2024-07-09 |  |
 | [Hollow](https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hollow](https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ) | 2:54 | 2024-07-09 |  |
 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 | 2024-07-09 |  |
-| [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2024-07-09 |  |
+| [Hot One](https://open.spotify.com/track/7EdeHorFYn5dXW4lKCQNwC) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/3OiT0FaZLif2i9uflNRgMs) | 2:56 | 2024-10-13 |  |
+| [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2024-07-09 | 2024-10-14 |
 | [How it is](https://open.spotify.com/track/6mnntj1xL8zEk5iiEcJGjk) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:41 | 2024-07-09 |  |
 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 | 2024-10-03 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2024-07-09 |  |

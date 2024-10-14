@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 352045,
+  "num_followers": 352089,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "UP DOWN BOUNCE",
-        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "UP DOWN BOUNCE",
-      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -723,30 +723,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 284573,
-      "name": "Impact (feat. Robyn & Channel Tres)",
-      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Digital girl",
         "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 179323,
       "name": "OUR LOVE (80'S)",
       "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 284573,
+      "name": "Impact (feat. Robyn & Channel Tres)",
+      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "U Lyk My Style",
         "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Cactus Water",
-        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Cactus Water",
-      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "House of LION BABE",
         "url": "https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ"
       },
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Can't Afford Me",
+        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
+      },
+      "artists": [
+        {
+          "name": "Kuma Overdose",
+          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
+        },
+        {
+          "name": "SA$H\u00a3R",
+          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
+        }
+      ],
+      "duration_ms": 218424,
+      "name": "Can't Afford Me",
+      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Can't Afford Me",
-        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
-      },
-      "artists": [
-        {
-          "name": "Kuma Overdose",
-          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
-        },
-        {
-          "name": "SA$H\u00a3R",
-          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "Can't Afford Me",
-      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "MY LOVER'S MIND",
-        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+        "name": "Gravity (feat. ALLKNIGHT)",
+        "url": "https://open.spotify.com/album/2pH5xR9bZtJYGCcFbyu5ab"
       },
       "artists": [
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 203200,
-      "name": "MY LOVER'S MIND",
-      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
+      "duration_ms": 220480,
+      "name": "Gravity (feat. ALLKNIGHT)",
+      "url": "https://open.spotify.com/track/3iMkKRoe7RET14nRHia1A4"
     }
   ],
   "unique_name": "Soultronic",

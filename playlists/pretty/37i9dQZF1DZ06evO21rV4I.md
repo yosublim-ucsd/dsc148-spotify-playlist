@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,624 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,657 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 19 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
 | 20 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
 | 21 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
-| 22 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
-| 23 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
+| 22 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
+| 23 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
 | 24 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 |
 | 25 | [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 |
 | 26 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
 | 50 | [G Love](https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 2:45 |
 
-Snapshot ID: `ZwhqgAAAAAC/pXesuRpMiw4FF0eVVUtX`
+Snapshot ID: `Zwm8AAAAAADAxYhyXR8mJzK5PRtAWeW/`

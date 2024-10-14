@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: PARTYNEXTDOOR",
-  "num_followers": 279998,
+  "num_followers": 280099,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,54 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
@@ -415,54 +463,6 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2024-10-10 20:37:41",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2024-10-10 20:37:41",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2024-10-10 20:37:41",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 399153,
-      "name": "Hours In Silence",
-      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     },
     {
       "added_at": "2024-10-10 20:37:41",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2024-10-10 20:37:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-10 20:37:41",
       "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
-    },
-    {
-      "added_at": "2024-10-10 20:37:41",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2024-10-10 20:37:41",
+      "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2024-10-10 20:37:41",

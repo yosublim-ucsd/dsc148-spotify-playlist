@@ -2,9 +2,9 @@
 
 ### [This Is Jake Shimabukuro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DfRqE)
 
-> This is Jake Shimabukuro\. The essential tracks, all in one playlist.
+> This is Jake Shimabukuro\. Track\-track unggulan, semuanya dalam satu playlist.
 
-67 songs - 4 hr 6 min
+68 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 | 2024-01-29 | 2024-09-24 |
 | [One Special Lady](https://open.spotify.com/track/3g87rIAc78QeFL1QO3FdGd) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Sun Is Shining Down](https://open.spotify.com/album/2YQha3vKRyUDQpmB597B93) | 4:17 | 2024-07-31 | 2024-08-11 |
 | [Pianoforte](https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 2:51 | 2024-01-29 |  |
+| [Rachel's Lullaby](https://open.spotify.com/track/2eyiuXqsdRspRei17QfQ3i) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Accomplice One](https://open.spotify.com/album/1zi8AyClggYnKVzCgVveAh) | 3:13 | 2024-10-14 |  |
 | [Rollin' N Tumblin'](https://open.spotify.com/track/5PeO4GVNykhNsxk3TozEDn) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Rollin' N Tumblin'](https://open.spotify.com/album/4hemZ4G0rSN9cOfqcSgTOO) | 4:59 | 2024-07-21 | 2024-08-18 |
 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2024-01-29 |  |
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2024-01-29 |  |
@@ -69,7 +70,7 @@
 | [フラガール \- アコースティック・ヴァージョン](https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:39 | 2024-01-29 |  |
 | [フラガール \-虹を\-](https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Miho Teruya](https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:38 | 2024-01-29 |  |
 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 | 2024-01-29 |  |
-| [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 | 2024-01-29 |  |
+| [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 | 2024-01-29 | 2024-10-14 |
 | [レッツ・ダンス \- Solo](https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 2:45 | 2024-01-29 | 2024-02-26 |
 | [ヴァリエーションズ・オン・ア・ダンス](https://open.spotify.com/track/6Np7BEc0F56BSFnbVvC5xA) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live & Let Live～Love for Japan](https://open.spotify.com/album/6RMhWS03tHCnnSAWKM038l) | 6:41 | 2024-02-08 | 2024-02-23 |
 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 | 2024-03-24 |  |

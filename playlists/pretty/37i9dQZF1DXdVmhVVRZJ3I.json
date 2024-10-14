@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 283244,
+  "num_followers": 283315,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144648,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Piece Of Your Heart (Alok Remix)",
         "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Summer's Back",
-        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "Summer's Back",
-      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Pulverturm (ANNA Rework)",
         "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
       },
@@ -355,30 +335,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "BELLYDANCING",
         "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
       },
@@ -419,6 +375,50 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "Summer's Back",
+        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "Summer's Back",
+      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -439,30 +439,6 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -555,6 +531,30 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "Drop It",
         "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
       },
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Move Your Body (Ti\u00ebsto Edit)",
         "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
       },
@@ -691,6 +671,46 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 152131,
       "name": "Devotion - 2020 Remix",
       "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Fria (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 160483,
-      "name": "Fria - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Terremoto EP",
         "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 341525,
+  "num_followers": 341603,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "mainstream sellout - life in pink deluxe",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 174991,
-      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
-      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -419,18 +415,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+        "name": "mainstream sellout - life in pink deluxe",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
       "artists": [
         {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+      "duration_ms": 174991,
+      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
+      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Best Of Blind Melon",
         "url": "https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 222240,
       "name": "Change - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/2xmJNIkGmYBVoiu1WqA9il"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 225099,
+      "name": "Waking up (Acoustic)",
+      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Supernatural (Acoustic)",
         "url": "https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 189720,
       "name": "Cut Deep \u2013 Stripped",
       "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Waking up (Acoustic)",
-      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Muscle Museum",
-        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 284954,
-      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
-      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
         "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 231653,
       "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
       "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Muscle Museum",
+        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 284954,
+      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
+      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Plastic Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 175741,
-      "name": "Plastic Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Deconstructed",
         "url": "https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 248662,
       "name": "Fix Me - Alternate Take",
       "url": "https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Plastic Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "Plastic Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf"
     },
     {
       "added_at": "2024-07-05 19:40:49",

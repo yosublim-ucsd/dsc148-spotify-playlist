@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Everybody Is Fantastic",
+        "url": "https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO"
+      },
+      "artists": [
+        {
+          "name": "Microdisney",
+          "url": "https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Dolly",
+      "url": "https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1"
+    },
+    {
+      "album": {
         "name": "Dream Alone / Beat Love",
         "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
       },

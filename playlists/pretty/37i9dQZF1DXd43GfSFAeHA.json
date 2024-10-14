@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: Bu Kolthoum",
-  "num_followers": 132596,
+  "num_followers": 132612,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
+        "name": "AL ARBA3",
+        "url": "https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "AL ARBA3",
+      "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
         "name": "CHIRON",
         "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
       },
@@ -315,6 +331,38 @@
       "duration_ms": 149096,
       "name": "CHIRON",
       "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
+        "name": "Wasitkom",
+        "url": "https://open.spotify.com/album/14d7Ubwrr8EJBl5PGMrqcw"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "duration_ms": 357209,
+      "name": "Wasitkom",
+      "url": "https://open.spotify.com/track/05ZQ9kkbuXgoMdrP9jHAIK"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
+        "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
+        "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 184568,
+      "name": "VINI",
+      "url": "https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0"
     },
     {
       "added_at": "2024-09-24 15:18:48",
@@ -339,38 +387,6 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
-        "name": "AL ARBA3",
-        "url": "https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp"
-      },
-      "artists": [
-        {
-          "name": "Marwan Pablo",
-          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
-        }
-      ],
-      "duration_ms": 200772,
-      "name": "AL ARBA3",
-      "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
-        "name": "Wasitkom",
-        "url": "https://open.spotify.com/album/14d7Ubwrr8EJBl5PGMrqcw"
-      },
-      "artists": [
-        {
-          "name": "Samara",
-          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
-        }
-      ],
-      "duration_ms": 357209,
-      "name": "Wasitkom",
-      "url": "https://open.spotify.com/track/05ZQ9kkbuXgoMdrP9jHAIK"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
         "name": "Intifada",
         "url": "https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 178217,
       "name": "Seeb Nafsak",
       "url": "https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
-        "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
-        "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
-      },
-      "artists": [
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 184568,
-      "name": "VINI",
-      "url": "https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0"
     },
     {
       "added_at": "2024-09-24 15:18:48",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
+        "name": "EZ",
+        "url": "https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "RAKMY YKHOD",
+      "url": "https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
         "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
         "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 230654,
       "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
       "url": "https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
-        "name": "EZ",
-        "url": "https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn"
-      },
-      "artists": [
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "RAKMY YKHOD",
-      "url": "https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb"
     },
     {
       "added_at": "2024-09-24 15:18:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
-        "name": "\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0625\u0646\u0643\u0627\u0631",
-        "url": "https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr"
-      },
-      "artists": [
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "AMOT ANA",
-      "url": "https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
         "name": "SULTAN",
         "url": "https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
-        "name": "Lang",
-        "url": "https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm"
+        "name": "\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0625\u0646\u0643\u0627\u0631",
+        "url": "https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr"
       },
       "artists": [
         {
-          "name": "Arsenik",
-          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
         }
       ],
-      "duration_ms": 146431,
-      "name": "Lang",
-      "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
+      "duration_ms": 225714,
+      "name": "AMOT ANA",
+      "url": "https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY"
     },
     {
       "added_at": "2024-09-24 15:18:48",
@@ -719,6 +703,22 @@
       "duration_ms": 186938,
       "name": "Ducati",
       "url": "https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
+        "name": "Lang",
+        "url": "https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "duration_ms": 146431,
+      "name": "Lang",
+      "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
     },
     {
       "added_at": "2024-09-24 15:18:48",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
-        "name": "WELAD EL 7ARA",
-        "url": "https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL"
-      },
-      "artists": [
-        {
-          "name": "Begad",
-          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
-        }
-      ],
-      "duration_ms": 158187,
-      "name": "ERZO2NA YA KAREEM",
-      "url": "https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ"
       },
@@ -895,6 +879,42 @@
     {
       "added_at": "2024-09-24 15:18:48",
       "album": {
+        "name": "Dumya Bilaa Khie6aan",
+        "url": "https://open.spotify.com/album/7a0TT2UfzgfyelNv0IVKYD"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "duration_ms": 183251,
+      "name": "Khaii",
+      "url": "https://open.spotify.com/track/5FI6PVrIr8FIVYugbkxrfB"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
+        "name": "WELAD EL 7ARA",
+        "url": "https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        }
+      ],
+      "duration_ms": 158187,
+      "name": "ERZO2NA YA KAREEM",
+      "url": "https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ"
+    },
+    {
+      "added_at": "2024-09-24 15:18:48",
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 240000,
       "name": "Hajes",
       "url": "https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1"
-    },
-    {
-      "added_at": "2024-09-24 15:18:48",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        },
-        {
-          "name": "Skinny Flex",
-          "url": "https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW"
-        }
-      ],
-      "duration_ms": 182638,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb"
     }
   ],
   "unique_name": "Arab Hip Hop",

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 961670,
+  "num_followers": 961778,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 334213,
       "name": "Pumpin'",
       "url": "https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Transmission (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 224274,
-      "name": "Transmission - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Wish You Knew",
-        "url": "https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wish You Knew",
-      "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 254395,
       "name": "Too Far Down The Trap - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
+        "name": "Wish You Knew",
+        "url": "https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wish You Knew",
+      "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "Kiss & Forget",
         "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "Love You Got",
         "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
@@ -967,30 +967,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
@@ -1031,6 +1007,30 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "Domino (David Guetta Remix)",
         "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
+        "name": "Perfect Opposure",
+        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 373750,
+      "name": "Free (My Mind)",
+      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1071,26 +1087,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
-      },
-      "artists": [
-        {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        },
-        {
-          "name": "Exit Coda",
-          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
       },
@@ -1107,22 +1103,6 @@
       "duration_ms": 255466,
       "name": "Kaleidoscope Colours",
       "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Perfect Opposure",
-        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 373750,
-      "name": "Free (My Mind)",
-      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Exit Coda",
+          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7"
       },
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "All we ever wanted",
-        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
       "artists": [
         {
-          "name": "MVCA",
-          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
-        },
-        {
-          "name": "SCHWARZ",
-          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 218000,
-      "name": "All we ever wanted",
-      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     }
   ],
   "unique_name": "Lowkey Tech",

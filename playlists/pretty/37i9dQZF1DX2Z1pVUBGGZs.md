@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring flowerovlove  ☁️  art: @doolittleillustrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,608 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,546 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

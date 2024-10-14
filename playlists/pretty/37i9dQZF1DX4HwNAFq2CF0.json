@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Fontaines D.C.",
-  "num_followers": 69342,
+  "num_followers": 69355,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 230866,
       "name": "Mind Over Matter (Reprise)",
       "url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Watch The World Burn",
         "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 340320,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "The Foundations of Decay",
-        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 360760,
-      "name": "The Foundations of Decay",
-      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 189706,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     }
   ],
   "unique_name": "Rock Favourites",

@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 466176,
+  "num_followers": 466331,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAD2VCld1onsaTmG3FfX+80A",
+  "snapshot_id": "Zwm8AAAAAAALmZm70AB0JK9AOYSa71b/",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "En Su Lugar (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carlos Rivera",
         "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 208800,
       "name": "En el Amor No Se Manda (with Yuridia)",
       "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "En Su Lugar (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6"
     },
     {
       "added_at": null,
@@ -699,7 +699,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda - Remix",
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
         "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,300 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,308 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 25 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
 | 26 | [Dibs](https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:03 |
 | 27 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
-| 28 | [Leave Me Again](https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:58 |
+| 28 | [I Think I Fell in Love Today](https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 2:32 |
 | 29 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
-| 30 | [I Think I Fell in Love Today](https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 2:32 |
+| 30 | [Leave Me Again](https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:58 |
 | 31 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 32 | [Just Married](https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:18 |
 | 33 | [THE LITTLE THINGS](https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:57 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 44 | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6) | 3:47 |
 | 45 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 
-Snapshot ID: `ZwhqgAAAAADQx2DzSoUGFRz0v6/oLTPe`
+Snapshot ID: `Zwm8AAAAAACA8d7yuscIR5Jtd7laQBbM`

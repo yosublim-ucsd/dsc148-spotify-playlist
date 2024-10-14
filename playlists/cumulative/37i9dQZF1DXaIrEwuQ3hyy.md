@@ -4,7 +4,7 @@
 
 > Die Tage werden kürzer und die Luft frischer\. Hier ist dein Soundtrack für den goldenen Herbst.
 
-193 songs - 11 hr 0 min
+194 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-07-26 | 2024-04-19 |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-07-26 |  |
 | [From The Start](https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 2:49 | 2023-07-26 | 2023-09-09 |
+| [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-10-11 |  |
 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 | 2024-04-19 | 2024-10-11 |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2023-07-26 | 2023-09-09 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2023-07-26 |  |
@@ -125,7 +126,7 @@
 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 | 2023-07-26 |  |
 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 | 2023-07-26 |  |
 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-19 | 2024-08-06 |
-| [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 | 2024-04-19 |  |
+| [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 | 2024-04-19 | 2024-10-14 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-07-26 | 2023-09-09 |
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-07-26 | 2023-08-26 |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2023-09-15 | 2024-03-20 |

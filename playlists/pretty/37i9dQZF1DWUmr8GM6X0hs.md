@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,272 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,332 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 48 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |
 | 49 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
 | 50 | [Lo Que Quiere Lola](https://open.spotify.com/track/739luVVt9Z2mcC1WmQkLZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [18 Éxitos para Recordar](https://open.spotify.com/album/60Y8JTUhpsmfoXfFOMPgwY) | 2:45 |
-| 51 | [Me Dices Que Te Vas](https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [El Disco de Oro](https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s) | 3:21 |
-| 52 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
-| 53 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 |
-| 54 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 |
+| 51 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 |
+| 52 | [Me Dices Que Te Vas](https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [El Disco de Oro](https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s) | 3:21 |
+| 53 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
+| 54 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 |
 | 55 | [Sabor a Mí](https://open.spotify.com/track/6KdZx53HkoPOgQAvhLq56A) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/3hO8uhdSJfkTLwGaMSKmxP) | 2:41 |
 | 56 | [La Carcel de Sing Sing](https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:55 |
 | 57 | [Piel Canela](https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Brillantes \- Eydie Gorme Y Los Panchos](https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO) | 2:18 |
 | 58 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/2cq6wz477E9faPzleLbaTa) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/75mPcy6FD38NlvPosOWXtf) | 5:07 |
-| 59 | [Bravo](https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE) | [Cecilia Bracamonte](https://open.spotify.com/artist/2mjCLOUytfzQD0ymy3024f) | [Con Alma de Bolero](https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI) | 3:40 |
+| 59 | [Señor Abogado](https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 1:53 |
 | 60 | [Mozo Deme Otra Copa](https://open.spotify.com/track/4eQp08ROyedetA7cz2fxnc) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [El Disco de Oro](https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s) | 3:56 |
 
 Snapshot ID: `ZnsDLwAAAADaSlPW/k8b7q+VhFIiq6DZ`

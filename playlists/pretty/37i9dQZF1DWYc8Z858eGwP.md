@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g">Manana</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV\-LkmPxCQ">Shallipopi</a> and <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA">Joshua Baraka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,455 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,505 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 14 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 15 | [Alone](https://open.spotify.com/track/2AATVS4vVaUEguMooRkTZd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/6eUtyQ0nItk099GXX6NUWb) | 4:02 |
 | 16 | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
-| 17 | [Asambe](https://open.spotify.com/track/4P62OAoBti8I0OusyVFQJc) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe](https://open.spotify.com/album/1a9Kbdq2KyUCJaMKjrb7SG) | 5:51 |
+| 17 | [Asambe](https://open.spotify.com/track/4P62OAoBti8I0OusyVFQJc) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe \(Let's Go!\)](https://open.spotify.com/album/1a9Kbdq2KyUCJaMKjrb7SG) | 5:51 |
 | 18 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 |
 | 19 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 20 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 |

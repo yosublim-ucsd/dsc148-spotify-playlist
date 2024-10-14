@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,687 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,695 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 7 | [Looking for Love](https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:17 |
 | 8 | [Start Over](https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Start Over](https://open.spotify.com/album/6MdkJBAsFZJOyfyN18Dd1S) | 2:35 |
 | 9 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 |
-| 10 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \- Deluxe](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
+| 10 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 | 11 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
 | 12 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 |
 | 13 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 |

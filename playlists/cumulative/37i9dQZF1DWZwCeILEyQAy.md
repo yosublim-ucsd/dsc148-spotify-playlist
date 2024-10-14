@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Anycia
 
-666 songs - 1 day 4 hr 31 min
+667 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Go](https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V) | [A.R\. The Mermaid](https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l) | [Go](https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB) | 1:52 | 2024-02-16 | 2024-02-24 |
 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 | 2024-02-16 | 2024-02-24 |
 | [GodMother](https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [GodMother](https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh) | 3:22 | 2021-11-05 | 2022-07-28 |
-| [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 | 2024-09-13 |  |
+| [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 | 2024-09-13 | 2024-10-14 |
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-07-28 | 2024-09-14 |
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2022-12-16 | 2023-03-25 |
 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 | 2022-09-23 | 2023-03-25 |
@@ -298,6 +298,7 @@
 | [Huh](https://open.spotify.com/track/0WwULq4T2uJSPFxHgs90su) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Huh](https://open.spotify.com/album/7hFzIU57hDLZhjTg5b8p58) | 3:03 | 2023-06-02 | 2023-07-22 |
 | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB) | 3:37 | 2022-08-19 | 2022-10-01 |
 | [Hussle](https://open.spotify.com/track/6dZ8Byzg5XtCa5NdmRuzfn) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Hussle](https://open.spotify.com/album/6TX5qO0vgu0QAMFpx9g5Kk) | 2:28 | 2022-11-18 | 2023-01-21 |
+| [I AIN’T GOING](https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:51 | 2024-10-11 |  |
 | [I Ate \(feat\. Erica Banks\)](https://open.spotify.com/track/34O2i9dJbspLOijloCv8vZ) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [I Ate \(feat\. Erica Banks\)](https://open.spotify.com/album/5mRQ2asE3PqFlYWkYT08KG) | 3:13 | 2023-10-27 | 2023-12-02 |
 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 | 2023-12-01 |  |
 | [I Feel Like Rihanna](https://open.spotify.com/track/7N0nn3R07yj0CMwGWBT4co) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Tasty Raps Vol\. 2](https://open.spotify.com/album/4VCDBAu5RkPrEMjwpJi6Ff) | 4:03 | 2023-08-25 | 2023-09-09 |

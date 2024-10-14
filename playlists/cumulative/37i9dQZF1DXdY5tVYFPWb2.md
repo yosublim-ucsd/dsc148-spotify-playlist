@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-866 songs - 2 day 9 hr 2 min
+867 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [U.F.O](https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:50 | 2023-05-30 | 2023-11-11 |
+| [Ubu na feeling](https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Ubu na feeling](https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ) | 4:38 | 2024-09-25 |  |
 | [UMA](https://open.spotify.com/track/2vJ8n0NKqQamRSKwDJodZP) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [UMA](https://open.spotify.com/album/3SCVZks7F9EodJEy0BvJBe) | 3:48 | 2023-09-14 | 2023-09-20 |
 | [UNDR BLUE](https://open.spotify.com/track/3WlVSWdPofy7KJWXHDx0A6) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [UNDR BLUE](https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj) | 3:06 | 2022-08-09 | 2022-08-17 |
 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 | 2024-01-23 |  |
@@ -622,7 +623,7 @@
 | [つむぐように \(Twiny\)](https://open.spotify.com/track/39leepccRwzzJZi76sK3GS) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [つむぐように \(Twiny\)](https://open.spotify.com/album/0XlGIOzcJRlQxvksyHic0o) | 3:54 | 2022-10-04 | 2022-10-12 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-05 |
 | [どうしようもないな](https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Beats In The Morning](https://open.spotify.com/album/6HJLe4bBHR4BHPnVBSMmcA) | 4:35 | 2022-06-30 | 2022-07-27 |
-| [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2024-09-25 |  |
+| [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2024-09-25 | 2024-10-14 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-10 |  |
 | [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-11-10 | 2023-12-19 |
 | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo) | 3:54 | 2024-07-17 | 2024-09-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 ### [This Is Black Alien](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DKn4c)
 
-> This is Black Alien\. Todos os maiores hits em uma só playlist.
+> This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,862 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,861 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 12 | [Mister Niterói](https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
 | 13 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 14 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:31 |
-| 15 | [Motivos](https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 3:37 |
+| 15 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 |
 | 16 | [Na Segunda Vinda](https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:28 |
-| 17 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 |
+| 17 | [Motivos](https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 3:37 |
 | 18 | [Carta Pra Amy](https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 4:22 |
 | 19 | [Falando do Meu Bem](https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:04 |
 | 20 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 39 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 | 40 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 |
 
-Snapshot ID: `ZwhqgAAAAAAyqO5DURJW+UIg1C2wE2JD`
+Snapshot ID: `Zwm8AAAAAAB61PDA6tzOdqgQ382KiLAf`

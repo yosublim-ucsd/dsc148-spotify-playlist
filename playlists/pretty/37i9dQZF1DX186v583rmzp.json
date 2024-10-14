@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8808906,
+  "num_followers": 8810331,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
       "artists": [
         {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 252026,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -147,6 +151,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -379,26 +359,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "No Way Out (2014 Remaster)",
-        "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 306560,
-      "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -419,18 +391,46 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "No Way Out (2014 Remaster)",
+        "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Who Shot Ya? - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 259000,
       "name": "I Get Around",
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Who Shot Ya? - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
       },
       "artists": [
         {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -671,22 +687,6 @@
       "duration_ms": 202106,
       "name": "It Ain't Hard to Tell",
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "I Am...",
-        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Nas Is Like",
-      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "I Am...",
+        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Nas Is Like",
+      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Liquid Swords",
-        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
-      },
-      "artists": [
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Shadowboxin'",
-      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Wu-Tang Forever",
         "url": "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Liquid Swords",
+        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Shadowboxin'",
+      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1143,22 +1159,6 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "I Got Next",
-        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Step into a World (Rapture's Delight)",
-      "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 270493,
       "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
       "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "I Got Next",
+        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Step into a World (Rapture's Delight)",
+      "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
     },
     {
       "added_at": "2024-06-28 10:14:13",

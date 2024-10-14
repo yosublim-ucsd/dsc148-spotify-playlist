@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 384715,
+  "num_followers": 384883,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADq/k/Ns1nODI+zjqnr3M5F",
+  "snapshot_id": "Zwm8AAAAAADXGkJQKzzmndzFsjrNw7rP",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 278106,
-      "name": "Romantic Dreams",
-      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Root",
-      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+      "duration_ms": 278106,
+      "name": "Romantic Dreams",
+      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 🍂
 
-121 songs - 6 hr 8 min
+122 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [henda i været](https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [henda i været](https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP) | 2:41 | 2024-06-27 |  |
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 |  |
 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 | 2024-06-27 | 2024-07-30 |
+| [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 | 2024-10-10 |  |
 | [Hvalfangerbyen](https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Hvalfangerbyen](https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK) | 3:20 | 2024-06-27 |  |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-06-27 | 2024-10-11 |
 | [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 |  |
@@ -118,7 +119,7 @@
 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 | 2024-06-27 |  |
 | [Ti tusen](https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Ti tusen](https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X) | 3:00 | 2024-06-27 |  |
 | [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2024-06-27 |  |
-| [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 |  |
+| [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-10-14 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 |  |
 | [Tre sekunder](https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Tre sekunder](https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ) | 3:09 | 2024-06-27 | 2024-09-15 |
 | [Trodde aldri](https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k), [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Trodde aldri](https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC) | 2:14 | 2024-07-11 | 2024-08-25 |

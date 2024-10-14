@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 145602,
+  "num_followers": 145621,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADvTOaC/MofC9f+fT+Y6rP9",
+  "snapshot_id": "Zwm8AAAAAACNqqAtunZ5FR3yxFovgrAk",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 240240,
       "name": "Mama's Song",
       "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": null,

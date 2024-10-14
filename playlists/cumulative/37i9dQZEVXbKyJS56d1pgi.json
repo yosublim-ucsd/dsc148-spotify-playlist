@@ -563,6 +563,40 @@
     },
     {
       "album": {
+        "name": "A Danada Me Ligando",
+        "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "A Danada Me Ligando",
+      "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -1148,7 +1182,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1174,7 +1208,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -3528,7 +3562,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 176320,
       "name": "Brutos Diamantes",
       "url": "https://open.spotify.com/track/0Mt4MqKdU2Z5wcBE9vybbi"
@@ -7589,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -10842,7 +10894,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -12074,7 +12126,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 155368,
       "name": "Imagina esse Cen\u00e1rio",
       "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
@@ -17502,7 +17554,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -19268,7 +19320,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 167012,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW"
@@ -19358,7 +19410,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/02iIJMe5jh7rdnTO6dcPQL"
@@ -19944,7 +19996,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
@@ -22508,7 +22560,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -23922,7 +23974,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
@@ -26492,7 +26544,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 140438,
       "name": "Vai L\u00e1 - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V"

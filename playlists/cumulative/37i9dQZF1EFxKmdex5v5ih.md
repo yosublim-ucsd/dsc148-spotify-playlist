@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-440 songs - 1 day 0 hr 14 min
+441 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [fuck, i'm lonely](https://open.spotify.com/track/09PGubKAMryhOWv1LHpCYz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:18 | 2021-12-27 | 2022-11-18 |
 | [fuck, i'm lonely](https://open.spotify.com/track/2RNsweBBb1a6tAHXQtt2xH) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:18 | 2022-11-17 |  |
 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 | 2021-12-27 |  |
+| [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 | 2024-10-13 |  |
 | [Get Out Of My Head](https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u) | 2:08 | 2023-04-28 |  |
 | [Get Out Of My Head](https://open.spotify.com/track/4HeMLD2QxHLf5NFq6oRmFw) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/3rykHBjW6lyquYjnl0jS0D) | 2:08 | 2022-12-15 | 2023-04-29 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-27 |  |

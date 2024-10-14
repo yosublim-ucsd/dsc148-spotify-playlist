@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 616116,
+  "num_followers": 616282,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Awakening - Live From Chicago",
-        "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 487506,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 291986,
       "name": "My Savior My God",
       "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Awakening - Live From Chicago",
+        "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 487506,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE"
     },
     {
       "added_at": "2024-06-23 01:51:00",

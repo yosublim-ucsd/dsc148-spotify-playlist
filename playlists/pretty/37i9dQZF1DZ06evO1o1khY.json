@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 22100,
+  "num_followers": 22169,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACSKnABobuxoIKjUNVKtwxs",
+  "snapshot_id": "Zwm8AAAAAAB2dEXBtyvwNFDltJ9q9FoD",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lick Or Sum",
         "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 141604,
       "name": "Lick Or Sum",
       "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
     },
     {
       "added_at": null,
@@ -219,6 +219,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "PROCEDURE (feat. Latto)",
+      "url": "https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -235,26 +275,6 @@
       "duration_ms": 199741,
       "name": "Accent (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Leave My Baby Tonight (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
     },
     {
       "added_at": null,
@@ -279,6 +299,42 @@
       "duration_ms": 213524,
       "name": "WYD (with GloRilla & Big Boogie)",
       "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Leave My Baby Tonight (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 88662,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/0dRbvh8sbJXB6craHlcmKv"
     },
     {
       "added_at": null,
@@ -323,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "PROCEDURE (feat. Latto)",
-      "url": "https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get In There (feat. GloRilla)",
         "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
       },
@@ -359,6 +395,22 @@
       "duration_ms": 195005,
       "name": "Get In There (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "LET HER COOK",
+      "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
     },
     {
       "added_at": null,
@@ -407,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
         "url": "https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk"
       },
@@ -447,6 +479,26 @@
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 163018,
+      "name": "STEP (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/4agcKl7c21pVR2SIkjag40"
     },
     {
       "added_at": null,
@@ -479,22 +531,6 @@
       "duration_ms": 216000,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "I AIN\u2019T GOING",
-      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
     },
     {
       "added_at": null,
@@ -539,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "I AIN\u2019T GOING",
+      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -571,22 +623,6 @@
       "duration_ms": 113844,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "STOP PLAYING",
-      "url": "https://open.spotify.com/track/0fuRuaV8XYN6h5kWrJ57rQ"
     },
     {
       "added_at": null,
@@ -655,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 88662,
-      "name": "INTRO",
-      "url": "https://open.spotify.com/track/0dRbvh8sbJXB6craHlcmKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -711,54 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "No More Love",
-      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
-      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internet Trolls (feat. Hitkidd)",
         "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
       },
@@ -775,6 +747,22 @@
       "duration_ms": 140572,
       "name": "Internet Trolls (feat. Hitkidd)",
       "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
     },
     {
       "added_at": null,
@@ -799,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170711,
-      "name": "Out Loud Thinking",
-      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strictly 4 My Fans 2",
         "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
@@ -835,26 +807,6 @@
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Foxes Only",
-        "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
-      },
-      "artists": [
-        {
-          "name": "YTB Fatt",
-          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 143992,
-      "name": "Embarrassing (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
     },
     {
       "added_at": null,
@@ -888,9 +840,29 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foxes Only",
+        "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 143992,
+      "name": "Embarrassing (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
     },
     {
       "added_at": null,
@@ -951,26 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
       "artists": [
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 211006,
-      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
-      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": null,
@@ -995,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loving U 2 Hard",
         "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
       },
@@ -1011,26 +999,6 @@
       "duration_ms": 205271,
       "name": "Loving U 2 Hard",
       "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Self Paid",
-        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
-      },
-      "artists": [
-        {
-          "name": "Big Homiie G",
-          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190008,
-      "name": "When She Drunk",
-      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
     }
   ],
   "unique_name": "This Is GloRilla",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,338 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,351 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,20 +24,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 14 | [ANTENNA](https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:30 |
 | 15 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 |
 | 16 | [都会病](https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [都会病](https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls) | 2:06 |
-| 17 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
+| 17 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 18 | [僕らまた](https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [僕らまた](https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE) | 3:17 |
-| 19 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 19 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
 | 20 | [欲望に満ちた青年団](https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [ゼイタクビョウ](https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP) | 3:22 |
 | 21 | [HAITE](https://open.spotify.com/track/2fu0mblB8cp6MtM9nwtZrL) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [HAITE](https://open.spotify.com/album/6FoB6c4HuW9Po26G4i4xol) | 2:11 |
-| 22 | [ねぇ](https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ねぇ](https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR) | 3:20 |
-| 23 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
+| 22 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
+| 23 | [ねぇ](https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ねぇ](https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR) | 3:20 |
 | 24 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 |
 | 25 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
-| 26 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
+| 26 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
 | 27 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 28 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
-| 29 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
-| 30 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
+| 29 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
+| 30 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 | 31 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 |
 | 32 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
 | 33 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |

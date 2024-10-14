@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 155474,
+  "num_followers": 155566,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 144426,
       "name": "Baby What You Want Me To Do",
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 187240,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -519,6 +503,22 @@
       "duration_ms": 169306,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -635,30 +635,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        },
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Double Crossing Time - Mono",
-      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Blues Brothers 2000",
         "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
       },
@@ -739,6 +715,30 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Double Crossing Time - Mono",
+      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "What It Takes: The Chess Years",
         "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Shake Down",
         "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 210106,
       "name": "Ain't Superstitious",
       "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Addressing The Nation With The Blues",
-        "url": "https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        }
-      ],
-      "duration_ms": 360067,
-      "name": "I Was Coming Home",
-      "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Lost A Good Girl",
         "url": "https://open.spotify.com/album/0eYqgedY7hE1bkeZbUAKms"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 212266,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Addressing The Nation With The Blues",
+        "url": "https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 360067,
+      "name": "I Was Coming Home",
+      "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
     }
   ],
   "unique_name": "Electric Blues Classics",

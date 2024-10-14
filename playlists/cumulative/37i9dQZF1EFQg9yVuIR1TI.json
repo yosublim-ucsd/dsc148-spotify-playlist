@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4NUSPaeTc26ngwt4koXxDI"
+      },
+      "artists": [
+        {
+          "name": "Tony DeSare",
+          "url": "https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "Baby Dream Your Dream",
+      "url": "https://open.spotify.com/track/7AfkrxjhBgMt0oUtEkbGRw"
+    },
+    {
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/6rkonLk9wgbl8OLRSWLmZi"
       },

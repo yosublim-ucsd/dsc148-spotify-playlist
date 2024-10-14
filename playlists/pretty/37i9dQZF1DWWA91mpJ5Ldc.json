@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 128859,
+  "num_followers": 128885,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Banho de Folhas",
         "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 137739,
       "name": "Aqui n\u00e3o",
       "url": "https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Desastre Solar",
-        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
-      },
-      "artists": [
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Desastre Solar",
+        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
+      },
+      "artists": [
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Al\u00f4 Al\u00f4, Como Vai?",
         "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Quem Me Conhece Sabe",
-      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Tim Maia",
         "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
       },
@@ -1051,6 +1035,38 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Choror\u00f4",
+      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Quem Me Conhece Sabe",
+      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Apesar de Voc\u00ea",
         "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 242130,
       "name": "Caju",
       "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "A Pele do Futuro",
-        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 283137,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
     }
   ],
   "unique_name": "Cozinhando em Casa",

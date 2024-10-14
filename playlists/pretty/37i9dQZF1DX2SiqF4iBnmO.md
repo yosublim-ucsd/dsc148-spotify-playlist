@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,692 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,796 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 9 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
 | 10 | [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 |
 | 11 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
-| 12 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
-| 13 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
-| 14 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
+| 12 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
+| 13 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
+| 14 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
 | 15 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 16 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
 | 17 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 25 | [Push It](https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 3:28 |
 | 26 | [4 Seasons Of Loneliness](https://open.spotify.com/track/1TyNecZDYU3BP3EitfpgnT) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/50NJ3kg2byqp460tCPpRF7) | 4:52 |
 | 27 | [Down In It](https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 3:46 |
-| 28 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
-| 29 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
+| 28 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
+| 29 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
 | 30 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 31 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 |
 | 32 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |

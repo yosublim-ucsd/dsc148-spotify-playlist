@@ -2,7 +2,7 @@
 
 ### [This Is Los Jaivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046)
 
-> This Is Los Jaivas\. Los temas esenciales, todos en una lista.
+> This is Los Jaivas\. The essential tracks, all in one playlist.
 
 79 songs - 7 hr 7 min
 
@@ -30,7 +30,7 @@
 | [Del Aire al Aire](https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 2:16 | 2022-09-18 |  |
 | [Desde un Barrial](https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 5:28 | 2022-09-16 |  |
 | [Donde Estabas Tú](https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:46 | 2022-09-16 |  |
-| [Dum Dum Tambora](https://open.spotify.com/track/5HBCz39TTaVbn7ihkA7XBp) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:58 | 2024-10-12 |  |
+| [Dum Dum Tambora](https://open.spotify.com/track/5HBCz39TTaVbn7ihkA7XBp) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:58 | 2024-10-12 | 2024-10-14 |
 | [El Guillatún](https://open.spotify.com/track/13TCqLr84jJcEkQfjFcigu) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 8:47 | 2022-09-16 | 2022-10-24 |
 | [El Tambo](https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 4:50 | 2023-12-16 | 2024-03-06 |
 | [En el Tren a Paisandú](https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 4:30 | 2022-09-16 |  |
@@ -62,7 +62,7 @@
 | [Niña Serrana \(En Vivo\)](https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Jaivas En Vivo: Gira Chile '88](https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp) | 4:15 | 2022-09-16 | 2024-03-30 |
 | [Niña Serrana \(En Vivo\) \- 2024 Remasterizado](https://open.spotify.com/track/5sFEFAxRykBNA1xQRrzzRl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas En Vivo: Gira Chile '88 \(2024 Remasterizado\)](https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9) | 4:12 | 2024-07-29 |  |
 | [Pregon Para Iluminarse](https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 5:17 | 2022-09-16 |  |
-| [Pájaro Errante](https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:14 | 2022-10-05 | 2024-07-31 |
+| [Pájaro Errante](https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:14 | 2022-10-05 |  |
 | [Pájaro Errante \(En Vivo\) \- 2024 Remasterizado](https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas En Vivo: Gira Chile '88 \(2024 Remasterizado\)](https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9) | 4:36 | 2024-07-31 | 2024-10-05 |
 | [Que o la Tumba Serás](https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 3:22 | 2022-09-16 |  |
 | [Rosas en el Jardín](https://open.spotify.com/track/6dg0PZQs7WR8MMcz2SJdBh) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:42 | 2022-09-20 | 2022-09-22 |

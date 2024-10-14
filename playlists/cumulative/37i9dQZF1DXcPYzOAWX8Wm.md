@@ -4,7 +4,7 @@
 
 > A look back at tracks from over the past four years\. A mixtape of music made for the Class of 2023.
 
-538 songs - 1 day 4 hr 45 min
+539 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2021-05-10 | 2023-05-06 |
 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2022-05-10 | 2022-07-29 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-10 |  |
-| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-05-05 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-05-05 | 2024-10-14 |
+| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2023-05-05 |  |
 | [Acid at 7/11](https://open.spotify.com/track/3L60fLXCpeTF4jRL8a7kk9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:12 | 2021-05-10 | 2022-05-20 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2021-05-10 | 2022-04-22 |
 | [Adore You](https://open.spotify.com/track/1M4qEo4HE3PRaCOM7EXNJq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Adore You](https://open.spotify.com/album/5SL9nXZYZZl68bHwaM8uLa) | 3:27 | 2021-05-10 | 2022-07-29 |

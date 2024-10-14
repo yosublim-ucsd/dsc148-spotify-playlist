@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 462233,
+  "num_followers": 462277,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-04-15 18:24:33",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2024-04-15 18:24:33",
-      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 368770,
       "name": "Daydream Repeat",
       "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
+    },
+    {
+      "added_at": "2024-04-15 18:24:33",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-07-02 21:24:59",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
-      "added_at": "2023-01-04 00:21:35",
-      "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
-    },
-    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -441,6 +425,22 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
+    },
+    {
       "added_at": "2022-08-03 03:56:04",
       "album": {
         "name": "Planta Dance",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
       "added_at": "2023-06-27 23:11:49",
       "album": {
         "name": "In The Afterworld",
@@ -493,22 +509,6 @@
       "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-04-12 14:46:36",
       "album": {
         "name": "As Fallen Leaves",
@@ -523,6 +523,22 @@
       "duration_ms": 299558,
       "name": "Don't Know What You Are Thinking",
       "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+    },
+    {
+      "added_at": "2022-03-11 06:33:02",
+      "album": {
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -555,22 +571,6 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
-    },
-    {
-      "added_at": "2022-03-11 06:33:02",
-      "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
       "added_at": "2023-11-08 01:35:05",
@@ -625,20 +625,24 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2023-03-31 19:28:59",
+      "added_at": "2024-01-05 03:32:15",
       "album": {
-        "name": "Verve EP",
-        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
+        },
+        {
+          "name": "Le Dom",
+          "url": "https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P"
         }
       ],
-      "duration_ms": 337194,
-      "name": "Opak",
-      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
+      "duration_ms": 226118,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -665,24 +669,20 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2024-01-05 03:32:15",
+      "added_at": "2023-03-31 19:28:59",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON"
+        "name": "Verve EP",
+        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
       },
       "artists": [
         {
-          "name": "Sunareht",
-          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
-        },
-        {
-          "name": "Le Dom",
-          "url": "https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 226118,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
       "added_at": "2023-11-15 16:34:12",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -731,6 +715,22 @@
       "duration_ms": 262240,
       "name": "tracing Rays [reality glo]",
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
-      "added_at": "2023-05-24 02:20:35",
-      "album": {
-        "name": "More Truth",
-        "url": "https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 200044,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
-    },
-    {
       "added_at": "2023-03-03 04:17:23",
       "album": {
         "name": "Flooding Meadow",
@@ -871,6 +855,22 @@
       "duration_ms": 290526,
       "name": "Flooding Meadow",
       "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
+    },
+    {
+      "added_at": "2023-05-24 02:20:35",
+      "album": {
+        "name": "More Truth",
+        "url": "https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 200044,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
     }
   ],
   "unique_name": "Genre Glitch",

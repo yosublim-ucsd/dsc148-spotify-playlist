@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Yami Safdie & Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,364 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,385 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

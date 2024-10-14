@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,046 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,080 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 | 38 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 |
 | 39 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
 | 40 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
-| 41 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \- Remix](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
+| 41 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
 | 42 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 |
 | 43 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 44 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 |

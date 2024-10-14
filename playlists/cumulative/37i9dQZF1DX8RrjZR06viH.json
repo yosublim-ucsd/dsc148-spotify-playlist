@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Hva vi kunne bli",
+        "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175360,
+      "name": "Hva vi kunne bli",
+      "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 245640,
       "name": "To Be Alright",
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"

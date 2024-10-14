@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,753 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,813 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 8 | [Mann Tou Jaanay Na](https://open.spotify.com/track/1BHrUB3Gr81oKcGaTCtMq2) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8), [Nivedita Bhargava](https://open.spotify.com/artist/4CDYuIl8Pz3WwHkUcr9AiB) | [Mann Tou Jaanay Na](https://open.spotify.com/album/3jL45Im5JON57pxveyF0yi) | 3:25 |
 | 9 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
 | 10 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
-| 11 | [Piya \(From "Midnight Melodies"\)](https://open.spotify.com/track/5WbXYWeo4OjfVM2ByPztQW) | [Suddipta Borthakur](https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D), [Aryan Singh](https://open.spotify.com/artist/6PaD0ifGlywMOX0OVehxXR), [Yasir Nadim](https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ) | [Piya \(From "Midnight Melodies"\)](https://open.spotify.com/album/6Lqyiczvk4j6vMowV4Zbwi) | 3:33 |
+| 11 | [Piya \(From "Midnight Melodies"\)](https://open.spotify.com/track/5WbXYWeo4OjfVM2ByPztQW) | [Suddipta Borthakur](https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D), [Aryan Singh](https://open.spotify.com/artist/4cekoMaIUuCxNHwA1qOJmR), [Yasir Nadim](https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ) | [Piya \(From "Midnight Melodies"\)](https://open.spotify.com/album/6Lqyiczvk4j6vMowV4Zbwi) | 3:33 |
 | 12 | [Ghum](https://open.spotify.com/track/4KJUTpVHxRNGEf8UxSdnTz) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Ghum](https://open.spotify.com/album/16nwvylfu4PFM6jvckEMjD) | 3:12 |
 | 13 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 14 | [Bandeyaa \(Unplugged\)](https://open.spotify.com/track/6siaS68UXrW7wLVxlP3DMl) | [Mihir Sama](https://open.spotify.com/artist/0j8ROxq5MU9RtxYg0M0FZW) | [Bandeyaa \(Unplugged\)](https://open.spotify.com/album/4xOhKWDcBhKC5SuMfzoKjD) | 2:34 |

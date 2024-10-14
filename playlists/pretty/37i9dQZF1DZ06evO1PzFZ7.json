@@ -1,12 +1,12 @@
 {
   "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 151704,
+  "num_followers": 151714,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADr2gTUVAeZ9ggfMX6Kbb0m",
+  "snapshot_id": "Zwm8AAAAAACsC0Ic6czeztOoAt5Ep2y+",
   "tracks": [
     {
       "added_at": null,
@@ -247,7 +247,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda - Remix",
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
         "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde la Azotea - Fase II",
         "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 242429,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
     },
     {
       "added_at": null,

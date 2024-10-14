@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,602 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,621 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 38 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 |
 | 39 | [Because He Lives](https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:47 |
 | 40 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 |
-| 41 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
-| 42 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
+| 41 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
+| 42 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 43 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
 | 44 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 45 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 50 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 |
 | 51 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 
-Snapshot ID: `ZwhqgAAAAADvTOaC/MofC9f+fT+Y6rP9`
+Snapshot ID: `Zwm8AAAAAACNqqAtunZ5FR3yxFovgrAk`

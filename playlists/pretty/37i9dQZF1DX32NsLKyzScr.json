@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2588708,
+  "num_followers": 2588862,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -179,30 +179,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -287,18 +263,26 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -319,6 +303,22 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -703,26 +703,6 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -767,46 +747,22 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Asking",
-        "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 191590,
-      "name": "Asking",
-      "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -831,6 +787,30 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "Asking",
+        "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 191590,
+      "name": "Asking",
+      "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1179,22 +1175,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "Chills (Feel My Love)",
         "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 163399,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Thick Of It All",
-        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Thick Of It All",
-      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "Heart Like Mine (feat. Rosa Linn)",
+        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 149673,
+      "name": "Heart Like Mine (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "Don't Stop (The Music)",
         "url": "https://open.spotify.com/album/4vF5KckGOBr5srPsCy2SCN"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 156567,
       "name": "Don't Stop (The Music)",
       "url": "https://open.spotify.com/track/6x0eMOT5uyCgtmOxzWVATc"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "Heart Like Mine (feat. Rosa Linn)",
-        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 149673,
-      "name": "Heart Like Mine (feat. Rosa Linn)",
-      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1811,6 +1811,30 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
       },
@@ -1847,30 +1871,6 @@
       "duration_ms": 127380,
       "name": "Lucky (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "stayinit",
-        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 274925,
-      "name": "stayinit",
-      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 290625,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "When I Push (Edit)",
         "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "Tears (with Paige Cavell) [Max Styler Remix]",
         "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 253228,
       "name": "Tears (with Paige Cavell) - Max Styler Remix",
       "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -2291,30 +2291,6 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Lately (Adam Ten & Mita Gami Remix)",
-        "url": "https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Mita Gami",
-          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "Lately - Adam Ten & Mita Gami Remix",
-      "url": "https://open.spotify.com/track/5HgrvZrpVrxBNoI7ZBrVm6"
-    },
-    {
-      "added_at": "2024-10-04 16:00:00",
-      "album": {
         "name": "YES B!TCH (feat. Rome Fortune)",
         "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
       },
@@ -2343,26 +2319,26 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "RATATA",
-        "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
+        "name": "Lately (Adam Ten & Mita Gami Remix)",
+        "url": "https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
         },
         {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
         }
       ],
-      "duration_ms": 126774,
-      "name": "RATATA",
-      "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
+      "duration_ms": 216255,
+      "name": "Lately - Adam Ten & Mita Gami Remix",
+      "url": "https://open.spotify.com/track/5HgrvZrpVrxBNoI7ZBrVm6"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -2391,18 +2367,26 @@
     {
       "added_at": "2024-10-04 16:00:00",
       "album": {
-        "name": "Outside Of Love",
-        "url": "https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3"
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
         }
       ],
-      "duration_ms": 175628,
-      "name": "Outside Of Love",
-      "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
+      "duration_ms": 126774,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
     },
     {
       "added_at": "2024-10-04 16:00:00",
@@ -2419,6 +2403,22 @@
       "duration_ms": 222043,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE"
+    },
+    {
+      "added_at": "2024-10-04 16:00:00",
+      "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
     },
     {
       "added_at": "2024-10-04 16:00:00",

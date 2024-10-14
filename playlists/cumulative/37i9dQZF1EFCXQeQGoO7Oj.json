@@ -1483,7 +1483,7 @@
     },
     {
       "album": {
-        "name": "My Everything - Deluxe",
+        "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -3186,10 +3186,28 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 236230,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
+    },
+    {
+      "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236230,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8"
     },
     {
       "album": {
@@ -4588,10 +4606,28 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 183371,
       "name": "iAAM",
       "url": "https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk"
+    },
+    {
+      "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183371,
+      "name": "iAAM",
+      "url": "https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a"
     },
     {
       "album": {
@@ -5089,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -5100,7 +5154,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 240508,
       "name": "JUPiTER",
       "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
@@ -5753,7 +5807,7 @@
     },
     {
       "album": {
-        "name": "My Everything - Deluxe",
+        "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -7163,7 +7217,7 @@
     },
     {
       "album": {
-        "name": "My Everything - Deluxe",
+        "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
@@ -8022,6 +8076,28 @@
       "duration_ms": 206186,
       "name": "Show Me What You Got",
       "url": "https://open.spotify.com/track/6xIkmrDfxXnaj0oU5o88zk"
+    },
+    {
+      "album": {
+        "name": "Si em dius que m'estimes (La Marat\u00f3)",
+        "url": "https://open.spotify.com/album/1rWekeUHhCibiqWjUCMY0M"
+      },
+      "artists": [
+        {
+          "name": "La Folie",
+          "url": "https://open.spotify.com/artist/3V04RiVWK0b5fTZvRNKXQR"
+        },
+        {
+          "name": "Jordi Ninus",
+          "url": "https://open.spotify.com/artist/7p8moQihVnOhzU4jVHMuT4"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210906,
+      "name": "Si em dius que m'estimes (La Marat\u00f3)",
+      "url": "https://open.spotify.com/track/3zWygnScS0UrAfTNqmeumC"
     },
     {
       "album": {
@@ -9889,6 +9965,40 @@
     },
     {
       "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -9916,7 +10026,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: FULCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,497 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,498 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

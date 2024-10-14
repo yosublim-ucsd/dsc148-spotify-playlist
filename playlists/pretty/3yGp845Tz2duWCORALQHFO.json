@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhOEdH0aw3CJA1jTvFWwtk1ssfcl8i",
+  "snapshot_id": "AABhO9MMVL77jWGtCF/17RzEGcQequoJ",
   "tracks": [
     {
       "added_at": "2024-10-11 13:03:12",
@@ -357,6 +357,38 @@
       "url": "https://open.spotify.com/track/0DFn6gpTjvLGhbtTLUHxLh"
     },
     {
+      "added_at": "2024-10-13 17:00:52",
+      "album": {
+        "name": "No Escape (Prologue)",
+        "url": "https://open.spotify.com/album/0w94EKPlpCMy4wSm0KIr18"
+      },
+      "artists": [
+        {
+          "name": "AZRUM",
+          "url": "https://open.spotify.com/artist/7bTFAkGhYwOnqxYQEAQHzz"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "No Escape (Prologue)",
+      "url": "https://open.spotify.com/track/2Pob1ZqVBeI4cM688L3ZRr"
+    },
+    {
+      "added_at": "2024-10-13 16:59:51",
+      "album": {
+        "name": "STRAYS",
+        "url": "https://open.spotify.com/album/6nHFC0hHXDYXGxnkWLWW5B"
+      },
+      "artists": [
+        {
+          "name": "ground score",
+          "url": "https://open.spotify.com/artist/1IqXxACKoGdw5fz7dE6DSi"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "STRAYS",
+      "url": "https://open.spotify.com/track/4u99FSiKFheD4aNlwjZJPP"
+    },
+    {
       "added_at": "2024-10-11 13:03:12",
       "album": {
         "name": "Just A Dream",
@@ -567,6 +599,22 @@
       "duration_ms": 203750,
       "name": "Afraid To Live - Blacklizt Version",
       "url": "https://open.spotify.com/track/3IuvLlZrJGdYAke9ilIRIP"
+    },
+    {
+      "added_at": "2024-10-13 16:59:52",
+      "album": {
+        "name": "Looking Away",
+        "url": "https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk"
+      },
+      "artists": [
+        {
+          "name": "Monotronic",
+          "url": "https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU"
+        }
+      ],
+      "duration_ms": 167490,
+      "name": "Looking Away",
+      "url": "https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx"
     },
     {
       "added_at": "2024-10-11 13:03:12",

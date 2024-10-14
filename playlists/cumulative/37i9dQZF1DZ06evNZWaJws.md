@@ -2,13 +2,13 @@
 
 ### [This Is Los Tucanes De Tijuana](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWaJws)
 
-> This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
+> This Is Los Tucanes De Tijuana\. Los temas esenciales, todos en una lista.
 
 61 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6 Pies Boca Abajo](https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 3:05 | 2024-01-29 | 2024-06-02 |
+| [6 Pies Boca Abajo](https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 3:05 | 2024-01-29 |  |
 | [Amor Platónico](https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:59 | 2024-01-29 |  |
 | [Arreola Reyes](https://open.spotify.com/track/2slnziPTde2v5fGFtN0mxL) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:37 | 2024-02-08 | 2024-10-01 |
 | [Carrera Prohibida](https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:25 | 2024-01-29 |  |
@@ -47,7 +47,7 @@
 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2024-01-29 | 2024-05-11 |
 | [La Pista Secreta](https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:58 | 2024-01-29 |  |
 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 | 2024-01-29 |  |
-| [La Profecia](https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Felones \- Serie 35](https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5) | 2:38 | 2024-01-29 |  |
+| [La Profecia](https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Felones \- Serie 35](https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5) | 2:38 | 2024-01-29 | 2024-10-14 |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2024-01-29 |  |
 | [La Troca](https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 3:19 | 2024-01-29 | 2024-03-01 |
 | [Las Heladas](https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:44 | 2024-01-29 |  |

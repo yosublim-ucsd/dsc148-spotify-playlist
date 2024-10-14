@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1589296,
+  "num_followers": 1589470,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,42 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
+        }
+      ],
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Living In Darkness (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
       },
@@ -207,22 +243,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Songs The Lord Taught Us",
         "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 146560,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Collection 2",
-        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        },
-        {
-          "name": "Glenn Danzig",
-          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
-        }
-      ],
-      "duration_ms": 119826,
-      "name": "Last Caress",
-      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Gloria: In Excelsis Deo",
-      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Candy Apple Grey",
         "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 210866,
       "name": "Don't Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Gloria: In Excelsis Deo",
+      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 100600,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
+      "duration_ms": 120360,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 100600,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120360,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Record",
         "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 125040,
       "name": "I Love Livin' in the City",
       "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Blister in the Sun - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "This Year's Model",
         "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Ramones (Expanded)",
-        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
         }
       ],
-      "duration_ms": 133440,
-      "name": "Blitzkrieg Bop - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+      "duration_ms": 144333,
+      "name": "Blister in the Sun - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1267,50 +1251,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+        "name": "Ramones (Expanded)",
+        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Angels With Dirty Faces",
-        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
-      },
-      "artists": [
-        {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1331,22 +1283,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1356,41 +1292,41 @@
           "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Love Bites (Special Edition)",
-        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
       "artists": [
         {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
     },
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+        "name": "Angels With Dirty Faces",
+        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
       "artists": [
         {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
         }
       ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+      "duration_ms": 206666,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1411,6 +1347,38 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Love Bites (Special Edition)",
+        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Blank Generation",
         "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
       },
@@ -1423,6 +1391,22 @@
       "duration_ms": 163000,
       "name": "Blank Generation",
       "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1503,6 +1519,22 @@
       "duration_ms": 231706,
       "name": "Happy House",
       "url": "https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd"
+    },
+    {
+      "added_at": "2024-01-11 00:51:37",
+      "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/1Ojre9LKo2kR0FMb6VVSe3"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/5NMnpiXpslafTY8vxCOGOZ"
-    },
-    {
-      "added_at": "2024-01-11 00:51:37",
-      "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9"
+        "name": "First Two 7s",
+        "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
       },
       "artists": [
         {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 164640,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/6sC3btkeaVA9IEhe0qbifj"
+      "duration_ms": 47226,
+      "name": "Straight Edge",
+      "url": "https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1"
     }
   ],
   "unique_name": "Classic Punk",

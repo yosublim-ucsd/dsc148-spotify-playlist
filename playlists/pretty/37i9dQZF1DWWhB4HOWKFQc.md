@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Ernie Zakri, Ade Govinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,067 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,225 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

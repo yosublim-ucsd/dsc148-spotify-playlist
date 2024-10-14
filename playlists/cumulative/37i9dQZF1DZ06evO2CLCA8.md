@@ -2,7 +2,7 @@
 
 ### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This is Tom Petty and the Heartbreakers\. Todos os maiores hits em uma só playlist.
+> This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
 108 songs - 6 hr 50 min
 
@@ -77,7 +77,7 @@
 | [Mystery Man](https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 | 2023-04-17 | 2024-06-23 |
 | [Mystery of Love](https://open.spotify.com/track/3Q3a1YNSrQCUvAxnzUJWp3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo \(Extra Mojo Version\)](https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP) | 4:05 | 2023-11-10 | 2024-02-02 |
 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 | 2022-10-17 |  |
-| [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 | 2022-06-19 | 2024-10-13 |
+| [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 | 2022-06-19 |  |
 | [No Reason to Cry](https://open.spotify.com/track/0lG9clpLuNyQs9XfJd4EFF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:04 | 2022-03-29 | 2022-03-31 |
 | [Nowhere](https://open.spotify.com/track/61chTBkjt6A8GsrXOojdPV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:38 | 2022-08-15 | 2022-08-26 |
 | [Out In The Cold](https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:41 | 2022-01-16 | 2024-07-24 |
@@ -104,7 +104,7 @@
 | [The Waiting](https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:58 | 2022-01-11 |  |
 | [The Wild One, Forever](https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 | 2022-02-10 | 2024-07-20 |
 | [The Wild One, Forever](https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heatbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 | 2024-08-25 |  |
-| [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 | 2022-01-11 |  |
+| [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 | 2022-01-11 | 2024-10-14 |
 | [Time is on My Side \- Live at the Fillmore, 1997](https://open.spotify.com/track/11CKXkaU9QyKosyiTv7AGV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:05 | 2022-12-02 | 2022-12-10 |
 | [Turning Point \- Original Drums Version](https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Turning Point / Between Two Worlds / Straight Into Darkness](https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97) | 3:01 | 2024-10-13 |  |
 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 | 2022-01-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 
 > Los grandes hits y los sonidos emergentes de la música electrónica latina están aquí\. Foto: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,956 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,938 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 | 4 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 |
 | 5 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 6 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
-| 7 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
+| 7 | [NAZARENO](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [NAZARENO](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
 | 8 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 | 9 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 10 | [KRAUT! \- Folgar Remix](https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [UNO Remixes](https://open.spotify.com/album/0fv3mGJAZuumLQxr1yUn5J) | 7:17 |

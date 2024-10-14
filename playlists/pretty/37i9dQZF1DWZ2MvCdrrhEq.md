@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2MvCdrrhEq.md) - [plain]
 
 > did your boots start working?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,378 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2MvCdrrhEq.md) - [plain]
 | 31 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 32 | [Fake ID \(feat\. Gretchen Wilson\)](https://open.spotify.com/track/6dFcL5hsy8dy0RCFx7f5FD) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Fake ID \(feat\. Gretchen Wilson\)](https://open.spotify.com/album/3hxw1XKY4DB8QukhlHkcrp) | 3:23 |
 | 33 | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/album/3Nfd8Qm3oYcFqMsa527Lvc) | 2:45 |
-| 34 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
+| 34 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
 | 35 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 |
 | 36 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 37 | [You're Easy On The Eyes](https://open.spotify.com/track/4av5wg7WAM6Bofc0Almsh0) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [How I Feel](https://open.spotify.com/album/19vSZScLNvBVcuARwA5CEO) | 3:33 |

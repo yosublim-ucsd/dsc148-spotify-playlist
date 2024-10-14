@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,599 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,671 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 19 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 20 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 21 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
-| 22 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
-| 23 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
+| 22 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
+| 23 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 24 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 25 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
 | 26 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 43 | [Panic](https://open.spotify.com/track/12IgeOceRuMzBymb9zTAWr) | [Force Mass Motion](https://open.spotify.com/artist/3RKv86Dvl132jbxDVUmXNX) | [The Stone Of The 5th Sun](https://open.spotify.com/album/4iA3qCKxfySUWnOed7zUGz) | 5:08 |
 | 44 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 |
 | 45 | [Dirty Games](https://open.spotify.com/track/21X3WGIPMTDpZcjln2N2n3) | [Studio 2](https://open.spotify.com/artist/3y0Epqi7Oca2rKcMSClv1G) | [Jungle Hits, Vol\. 3](https://open.spotify.com/album/6HGdaWqz5J0Inr4AkPEZlX) | 4:11 |
-| 46 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
-| 47 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
+| 46 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
+| 47 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
 | 48 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3Npjea52mXpWbrxaobH0rj) | 3:59 |
 | 49 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
 | 50 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |

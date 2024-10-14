@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB?si=DX1AnrFkTBGcGqexVR3FhQ>KobbySalm</a>
 
-226 songs - 18 hr 21 min
+227 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 |  |
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2024-04-03 |
 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 | 2024-03-22 | 2024-10-09 |
-| [Favour](https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Favour](https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK) | 2:32 | 2024-04-26 |  |
+| [Favour](https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Favour](https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK) | 2:32 | 2024-04-26 | 2024-10-14 |
 | [Fighting for me](https://open.spotify.com/track/525mBgyWmOUgeJLl6ZcOFl) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Elizabeth Tendai](https://open.spotify.com/artist/29RbIWF60KrBy2eP4fNZo9), [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW) | [Fighting for me](https://open.spotify.com/album/4HZNjFrlwtOnT4S9AvGkOU) | 3:42 | 2023-10-06 | 2023-11-03 |
 | [Fire on my Altar](https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Fire on my Altar](https://open.spotify.com/album/2sNGMK8jCbywP4dUAZpBbU) | 10:39 | 2024-01-12 | 2024-01-26 |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2023-09-15 | 2024-03-16 |
@@ -123,6 +123,7 @@
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-09-15 | 2024-03-16 |
 | [Make A Way \(feat\. Chandler Moore & Brandon Lake\)](https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 8:32 | 2023-09-15 | 2024-03-16 |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 | 2024-07-12 |
+| [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 | 2024-10-11 |  |
 | [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 | 2024-10-11 |  |
 | [Mayo](https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Mayo](https://open.spotify.com/album/186Ly8U3fdCHSAxSRI4gt2) | 2:10 | 2024-02-16 | 2024-05-28 |
 | [Mercy \(All My Days\)](https://open.spotify.com/track/2oigCnQtcssHbowb4I0yqA) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Mercy \(All My Days\)](https://open.spotify.com/album/7CVqDwQ7kujshFySgeyw3W) | 3:02 | 2023-11-03 | 2023-11-10 |

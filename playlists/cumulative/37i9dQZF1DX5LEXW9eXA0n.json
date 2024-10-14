@@ -10741,6 +10741,24 @@
     },
     {
       "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/3xkzWatd2eyaTR6wiyBB7i"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201903,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/79tpcoJe0n5uKGPXCq8TGM"
+    },
+    {
+      "album": {
         "name": "Track 01",
         "url": "https://open.spotify.com/album/30bYSVfQCQ8sozUnbEsFrh"
       },
@@ -14016,6 +14034,28 @@
       "duration_ms": 244080,
       "name": "Nagging",
       "url": "https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF"
+    },
+    {
+      "album": {
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/6fA8MmZ0GQO8RP0zsX85gb"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        },
+        {
+          "name": "Jang Hye-Jin",
+          "url": "https://open.spotify.com/artist/2vG3ydmgAksU2M1qIE89Bo"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283186,
+      "name": "Nameless",
+      "url": "https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld"
     },
     {
       "album": {

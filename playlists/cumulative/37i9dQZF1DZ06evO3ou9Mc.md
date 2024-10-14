@@ -2,9 +2,9 @@
 
 ### [This Is The Offspring](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ou9Mc)
 
-> This is The Offspring\. The essential tracks, all in one playlist.
+> This is The Offspring\. Todos os maiores hits em uma só playlist.
 
-75 songs - 4 hr 0 min
+76 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dividing By Zero](https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:22 | 2022-09-16 |  |
 | [Feelings](https://open.spotify.com/track/50UeatbSCQaOInjokdo7WQ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:52 | 2024-07-09 | 2024-07-10 |
 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 | 2024-05-18 | 2024-07-21 |
+| [Get Some](https://open.spotify.com/track/74hPndfrMhs1TcKkW2JF2Q) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:57 | 2024-10-14 |  |
 | [Gone Away \- 1997](https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 4:28 | 2022-09-16 |  |
 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 | 2022-09-16 |  |
 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 | 2022-09-16 |  |
@@ -41,7 +42,7 @@
 | [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 | 2022-09-16 | 2024-07-23 |
 | [Jennifer Lost The War](https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 2:35 | 2023-11-10 | 2024-08-06 |
 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 | 2022-10-26 | 2024-08-31 |
-| [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 | 2022-09-16 |  |
+| [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 | 2022-09-16 | 2024-10-14 |
 | [Leave It Behind](https://open.spotify.com/track/1fqfG5TGzOkSsaWSEEYrYb) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:58 | 2024-05-22 | 2024-05-27 |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-09-16 |  |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-06 |  |

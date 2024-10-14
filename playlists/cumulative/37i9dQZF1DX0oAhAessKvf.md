@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-180 songs - 9 hr 29 min
+181 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 | 2024-03-25 |  |
 | [Intervención Hablada](https://open.spotify.com/track/6SUfZYRRxLZGctDGHRmRSG) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf) | [Gargolas 2](https://open.spotify.com/album/4au8VGPKvHYnrVeEPY3ouJ) | 1:20 | 2021-12-20 | 2022-07-26 |
 | [Intervención Musical](https://open.spotify.com/track/4XynhHjxuvisIvG9AZGHqS) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Gargolas 2](https://open.spotify.com/album/4au8VGPKvHYnrVeEPY3ouJ) | 0:33 | 2021-12-20 | 2022-07-24 |
-| [Intro \- Soy El Sandunguero](https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:27 | 2021-12-20 |  |
+| [Intro \- Soy El Sandunguero](https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:27 | 2021-12-20 | 2024-10-14 |
 | [Kla Kla](https://open.spotify.com/track/5q7IfZDSdCl3I44k6ZL0Zf) | [Jason](https://open.spotify.com/artist/7lpBDOsl24wwZYbq4xaE4j) | [DJ Chiclin Presenta Los Mas Buscados](https://open.spotify.com/album/2GhS7NSz3RFjtExIxC0C2p) | 1:14 | 2021-12-20 | 2022-07-27 |
 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 | 2021-12-20 |  |
 | [La Combinacion Perfercta Old School](https://open.spotify.com/track/3crfoeHYf54mrjkONHq5jN) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero DJ Live](https://open.spotify.com/album/0qtFSFZ5TdkUESepdZJ3FD) | 6:56 | 2021-12-20 | 2022-07-29 |
@@ -93,6 +93,7 @@
 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 | 2021-12-20 | 2024-04-19 |
 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 | 2021-12-20 |  |
 | [Maldita P\*\*a 2 \(feat\. Georgie las Guanabanas\)](https://open.spotify.com/track/2aBISW5jHPzEnbQtBOtMPx) | [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Hammo Sung](https://open.spotify.com/artist/4Xvs1tYzvKaJ67kxz0EL3w), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Georgie las Guanabanas](https://open.spotify.com/artist/1rZqCPw6W0JtEx7bgYPre8) | [Maldita P\*\*a 2 \(feat\. Georgie las Guanabanas\)](https://open.spotify.com/album/1B6YEgTU3msLgMyAp16t36) | 3:09 | 2021-12-20 | 2022-07-22 |
+| [Mami Chula](https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy) | [Blade Pacino](https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:59 | 2024-03-25 |  |
 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 | 2021-12-20 |  |
 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 | 2021-12-20 |  |
 | [Materia Prima](https://open.spotify.com/track/0aULcqsoAnMu0lWmBSRpTZ) | [Teddy Gee](https://open.spotify.com/artist/35uqnzQFJThKfo0tAgfPHq) | [DJ Chiclin Presenta Los Mas Buscados](https://open.spotify.com/album/2GhS7NSz3RFjtExIxC0C2p) | 1:44 | 2021-12-20 | 2022-07-26 |

@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Chloe Slater",
-  "num_followers": 114299,
+  "num_followers": 114300,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -299,34 +267,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -347,6 +299,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
@@ -363,18 +331,34 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 203037,
-      "name": "Sickly Sweet",
-      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -395,18 +379,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 268906,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -463,22 +447,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -511,6 +479,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196804,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 268906,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Little Chaos",
         "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 196804,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi"
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "M",
-        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "M",
-      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Lifetime of Wanting",
         "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "M",
+      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Everybody Needs a Hero",
-        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 269440,
       "name": "Deep End (Paul's in Pieces)",
       "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Spells",
         "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
       },
@@ -863,34 +847,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "In My Bed",
-        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 162405,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -911,18 +879,50 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Tonight, Tonight",
-        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
+        "name": "In My Bed",
+        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
       },
       "artists": [
         {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 261088,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
+      "duration_ms": 162405,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Tonight, Tonight",
+        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 261088,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/14kgkS1NCj30NzAbfEh3TN"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 211107,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/1BHiyIkqnRN6YKMx2kOPKr"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/14kgkS1NCj30NzAbfEh3TN"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 211107,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/1BHiyIkqnRN6YKMx2kOPKr"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 261798,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "The Tw*ts",
-        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "The only conscious being in the universe",
-      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "The Tw*ts",
+        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 198417,
+      "name": "The only conscious being in the universe",
+      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
     }
   ],
   "unique_name": "pulp",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 
 > omw to the function.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,102 likes - 90 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,124 likes - 90 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 | 29 | [Lady Marmalade](https://open.spotify.com/track/2gocMpiwnMRLDejlcSJt7J) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/0DyzCew2xlGXaxaD0UFR9C) | 4:25 |
 | 30 | [Never Leave You \(Uh Oooh, Uh Oooh\) \- Uh Oooh Remix](https://open.spotify.com/track/6EketUwfdodOxclK4lOaxP) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/album/3csb64nRwg6FitqaCB5DRF) | 3:33 |
 | 31 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
-| 32 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
+| 32 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
 | 33 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 34 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
 | 35 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |

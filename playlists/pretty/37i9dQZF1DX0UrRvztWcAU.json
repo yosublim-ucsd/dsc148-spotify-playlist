@@ -1,6 +1,6 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1350246,
+  "num_followers": 1350270,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "MKTO",
         "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Paper Rings",
+      "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Paper Rings",
-      "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Four Tops - Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1459,22 +1475,6 @@
       "duration_ms": 200106,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Four Tops - Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -1859,18 +1839,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1895,22 +1879,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 164205,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1931,6 +1911,26 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 164205,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1943,22 +1943,6 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1983,18 +1967,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
         }
       ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2019,6 +2003,22 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+        "url": "https://open.spotify.com/album/09K53TLaJZ156prccNvwuS"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+      "url": "https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 188359,
       "name": "I'll Be There for You - Theme From \"Friends\"",
       "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
-        "url": "https://open.spotify.com/album/09K53TLaJZ156prccNvwuS"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
-      "url": "https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "How Bizarre (Deluxe)",
         "url": "https://open.spotify.com/album/3CwsEC1FP4XUgECfy1z479"
       },
@@ -2415,6 +2399,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -2427,6 +2427,22 @@
       "duration_ms": 222044,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2459,22 +2475,6 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2024-07-12 06:06:06",

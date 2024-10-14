@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 108481,
+  "num_followers": 108496,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -584,6 +584,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "Walking On A Dream - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -600,17 +616,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 237693,
-      "name": "Walking On A Dream - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c"
+      "duration_ms": 304845,
+      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -664,22 +680,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 304845,
-      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
       },
       "artists": [
@@ -712,22 +712,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
       },
       "artists": [
@@ -739,6 +723,22 @@
       "duration_ms": 315953,
       "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
       "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -760,22 +760,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 236644,
-      "name": "Feeling Like I Do - Spotify Singles",
-      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
@@ -792,17 +776,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
         }
       ],
-      "duration_ms": 233854,
-      "name": "Partner in Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+      "duration_ms": 236644,
+      "name": "Feeling Like I Do - Spotify Singles",
+      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -851,6 +835,22 @@
       "duration_ms": 220098,
       "name": "Glory - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Partner in Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -968,22 +968,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
       },
       "artists": [
@@ -995,6 +979,22 @@
       "duration_ms": 311320,
       "name": "This Life - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
     },
     {
-      "added_at": "2023-11-07 19:15:28",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 196992,
-      "name": "Window Shopper - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gJxzkUOyC30TxOkWw2LDH"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -1059,6 +1043,22 @@
       "duration_ms": 213480,
       "name": "Dead Boys - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
+    },
+    {
+      "added_at": "2023-11-07 19:15:28",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 196992,
+      "name": "Window Shopper - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gJxzkUOyC30TxOkWw2LDH"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1176,22 +1176,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 337837,
-      "name": "Everything Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
       },
       "artists": [
@@ -1219,6 +1203,22 @@
       "duration_ms": 136706,
       "name": "RBF: Part 1 - Spotify Singles",
       "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 337837,
+      "name": "Everything Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1504,22 +1504,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 252048,
-      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
       },
       "artists": [
@@ -1547,6 +1531,42 @@
       "duration_ms": 208159,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 252048,
+      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1595,26 +1615,6 @@
       "duration_ms": 261586,
       "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        },
-        {
-          "name": "BLACKPAW",
-          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
-      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1828,22 +1828,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 370674,
-      "name": "Blood Under My Belt - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
@@ -1871,6 +1855,22 @@
       "duration_ms": 344666,
       "name": "tonite - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 370674,
+      "name": "Blood Under My Belt - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2004,6 +2004,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 229916,
+      "name": "Fountain Of Youth",
+      "url": "https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
       },
       "artists": [
@@ -2015,22 +2031,6 @@
       "duration_ms": 175946,
       "name": "Night So Long - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Prass",
-          "url": "https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX"
-        }
-      ],
-      "duration_ms": 283001,
-      "name": "Deja Vu - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

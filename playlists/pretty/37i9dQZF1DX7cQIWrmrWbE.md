@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,478 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,523 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 40 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
 | 41 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 |
 | 42 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
-| 43 | [BUBALU](https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:48 |
-| 44 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
-| 45 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
+| 43 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
+| 44 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
+| 45 | [BUBALU](https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:48 |
 | 46 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 |
 | 47 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 |
 | 48 | [Hace Mucho Tiempo](https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe) | 2:51 |

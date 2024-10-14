@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Nala Sinephro",
-  "num_followers": 41324,
+  "num_followers": 41365,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "Collected Pieces",
         "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 300747,
       "name": "Morning Spring",
       "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 571000,
       "name": "Epistasis",
       "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/5W2aiFIeMvEJx7zJpwRFbJ"
-      },
-      "artists": [
-        {
-          "name": "MEL\u00c9N",
-          "url": "https://open.spotify.com/artist/4JyfNm7VfMwqu4HId6a2sX"
-        }
-      ],
-      "duration_ms": 192563,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1tN2BgjAGlIjM3KLV1bS9M"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "The Light That's Left",
         "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/5W2aiFIeMvEJx7zJpwRFbJ"
+      },
+      "artists": [
+        {
+          "name": "MEL\u00c9N",
+          "url": "https://open.spotify.com/artist/4JyfNm7VfMwqu4HId6a2sX"
+        }
+      ],
+      "duration_ms": 192563,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1tN2BgjAGlIjM3KLV1bS9M"
     },
     {
       "added_at": "2024-09-12 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-09-12 04:00:00",
       "album": {
-        "name": "Desert Ballads",
-        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "As We Record the Disappearing Ice",
-      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
-    },
-    {
-      "added_at": "2024-09-12 04:00:00",
-      "album": {
         "name": "Sky Flesh",
         "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 158826,
       "name": "Adventures",
       "url": "https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Desert Ballads",
+        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "As We Record the Disappearing Ice",
+      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     }
   ],
   "unique_name": "Women of Ambient",

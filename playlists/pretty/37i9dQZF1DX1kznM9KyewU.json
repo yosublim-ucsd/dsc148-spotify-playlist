@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84609,
+  "num_followers": 84618,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -519,6 +503,22 @@
       "duration_ms": 266560,
       "name": "Runaway Train (2022 Remaster)",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Until It Sleeps",
-      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Mad Mad World (Deluxe)",
         "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 358520,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 260600,
       "name": "Word Up - Radio Mix",
       "url": "https://open.spotify.com/track/17CWwbHJ2ThM5MXj90ObrS"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 380893,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 289560,
       "name": "Nookie",
       "url": "https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "(What's the Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"
     }
   ],
   "unique_name": "90s Summer Rock",

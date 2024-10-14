@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jore & Zpoppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,394 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,413 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 30 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 |
 | 31 | [Edes takas](https://open.spotify.com/track/6NuWVmm8npIuW5lVmPYDo7) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Edes takas](https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK) | 3:01 |
 | 32 | [Huuto](https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:57 |
-| 33 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/7Jj21VbE0QN6OtL2MRtRbr) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
+| 33 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/65OgVQYELTQ8RwaqBKPCJQ) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
 | 34 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 |
 | 35 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 |
 | 36 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 |

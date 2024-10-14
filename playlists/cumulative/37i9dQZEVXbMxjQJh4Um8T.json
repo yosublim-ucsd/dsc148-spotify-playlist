@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 186508,
       "name": "ACTITUD",
       "url": "https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3bE8SznOXJ990MK1ElQnfr"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 189066,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/4eo11GQla5DlqMHQ76ym3l"
@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 239760,
       "name": "La Gent Que Estimo",
       "url": "https://open.spotify.com/track/2aTvlIMGoo2L9x5YzJNjj5"
@@ -5885,6 +5885,24 @@
     },
     {
       "album": {
+        "name": "Un Secreto Al Que Gritar",
+        "url": "https://open.spotify.com/album/1uchPdOVlzgQLwUPwUqXQk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218079,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/1kG7gfH4HDUlDht0VZYkiP"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour - 10th Anniversary Edition / Deluxe",
         "url": "https://open.spotify.com/album/16HVR99NpuRONFToq3hEET"
       },
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
@@ -6755,28 +6773,6 @@
     },
     {
       "album": {
-        "name": "Mirame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "date_added": "2024-07-01",
-      "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
-      "duration_ms": 157453,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
-    },
-    {
-      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -6844,7 +6840,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -6928,6 +6924,28 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157453,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "album": {
@@ -7444,7 +7462,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 224120,
       "name": "OTRA NOCHE (feat. Darell)",
       "url": "https://open.spotify.com/track/0dLdTvslcZVsncSMyVvP7n"
@@ -10926,7 +10944,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu"
@@ -11344,7 +11362,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

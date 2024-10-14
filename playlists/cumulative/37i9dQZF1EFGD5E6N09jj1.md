@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 10 hr 53 min
+201 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 | 2023-12-30 |  |
 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 | 2023-12-30 |  |
 | [Girl, so confusing](https://open.spotify.com/track/41krZZovstMJKeJZJtbL78) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:54 | 2024-08-07 |  |
-| [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-08-09 |  |
+| [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-08-09 | 2024-10-14 |
+| [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 | 2024-10-13 |  |
 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 | 2023-12-30 |  |
 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 | 2023-12-30 |  |
 | [Gold Coins](https://open.spotify.com/track/1WkWCzQiPOYMWHO9wOMpHq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:02 | 2023-12-30 |  |

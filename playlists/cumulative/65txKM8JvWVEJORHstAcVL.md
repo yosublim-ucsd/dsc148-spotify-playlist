@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(6/10/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(13/10/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-105 songs - 5 hr 16 min
+107 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Jenifer](https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Jenifer](https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh) | 2:56 | 2024-01-14 | 2024-04-01 |
 | [JUBILAR\-ME](https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 3:08 | 2024-06-23 |  |
 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 | 2023-12-31 | 2024-05-06 |
-| [La Faràndula](https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [La Faràndula](https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC) | 3:06 | 2024-06-09 |  |
+| [La Faràndula](https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [La Faràndula](https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC) | 3:06 | 2024-06-09 | 2024-10-14 |
 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 | 2024-07-14 |  |
 | [La meva sort](https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [La meva sort](https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9) | 2:34 | 2024-02-18 |  |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-26 | 2024-08-19 |
@@ -84,7 +84,9 @@
 | [Sant Tornem\-hi](https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Only Hits](https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ) | 2:35 | 2024-09-22 |  |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-05-26 | 2024-08-26 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-07 |  |
+| [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-13 |  |
 | [SOLUCIONS i NO PROBLEMES](https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA CALÇOTADA](https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF) | 2:20 | 2024-05-05 |  |
+| [SORT DE TU](https://open.spotify.com/track/054BhpaxELmhu24ECqU8un) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 2:47 | 2024-10-13 |  |
 | [Stargazing](https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \- Moonlight Version](https://open.spotify.com/album/5995013HazvYze8wmylSzw) | 2:52 | 2024-08-04 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-05-05 |  |
 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 | 2023-11-19 | 2024-07-08 |
@@ -103,7 +105,7 @@
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-06-11 | 2024-03-18 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-23 | 2024-05-13 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-10-22 | 2024-06-24 |
-| [Volver a Nacer](https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Noctalgia](https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE) | 3:16 | 2024-08-25 |  |
+| [Volver a Nacer](https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Noctalgia](https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE) | 3:16 | 2024-08-25 | 2024-10-14 |
 | [Vull estar amb tu](https://open.spotify.com/track/6hlg2g54ixRhEMlcbiWiqX) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [ZOO](https://open.spotify.com/artist/7a3ryRcO3alwbqaX4RagzM) | [Vull estar amb tu](https://open.spotify.com/album/0JNlqzvLCSmOtN5kL9Ysev) | 3:08 | 2023-10-15 | 2024-05-20 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-02-18 | 2024-04-22 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-24 | 2024-07-22 |

@@ -2,7 +2,7 @@
 
 ### [This Is Leon Leiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H5LUI)
 
-> This is Leon Leiden\. The essential tracks, all in one playlist.
+> This Is Leon Leiden\. Los temas esenciales, todos en una lista.
 
 72 songs - 3 hr 24 min
 

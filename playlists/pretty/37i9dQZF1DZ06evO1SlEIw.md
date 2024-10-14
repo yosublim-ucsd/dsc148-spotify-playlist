@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 
-> This is Linked Horizon\. Todos os maiores hits em uma só playlist.
+> This is Linked Horizon\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,512 likes - 25 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,513 likes - 25 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 24 | [風の行方 \- Vocalized Version](https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:11 |
 | 25 | [ルクセンダルク紀行](https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 11:27 |
 
-Snapshot ID: `ZwhqgAAAAAB37Th7kEGMYc8ibhOMrSea`
+Snapshot ID: `Zwm8AAAAAABkVEm/e1rL3+RbBD+e9F3N`

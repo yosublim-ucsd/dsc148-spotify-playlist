@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,314 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,311 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 8 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 |
 | 9 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
 | 10 | [Lo Contrario](https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Lo Contrario](https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8) | 3:10 |
-| 11 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 12 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
-| 13 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
-| 14 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
+| 11 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
+| 12 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
+| 13 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
+| 14 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 15 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
 | 16 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 17 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 26 | [Crecer](https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Crecer](https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg) | 3:37 |
 | 27 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
 | 28 | [Conversacion con mi ex](https://open.spotify.com/track/78vPSJOTl86KUM3cAVjty3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Conversación con mi ex](https://open.spotify.com/album/29gAeBgjScLcbj805uuTsL) | 2:16 |
-| 29 | [Viernes 13 V](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
-| 30 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY) | 3:42 |
-| 31 | [OCEAN PIANO \)\)\)\)\)](https://open.spotify.com/track/7xKoXCGoIhL4TuSfLQCUuG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:15 |
-| 32 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 29 | [OCEAN PIANO \)\)\)\)\)](https://open.spotify.com/track/7xKoXCGoIhL4TuSfLQCUuG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:15 |
+| 30 | [Viernes 13 V](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
+| 31 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 32 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY) | 3:42 |
 | 33 | [Todo de mí](https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Todo de mí](https://open.spotify.com/album/2JPlMayuOd6kvCYkGKjw1T) | 2:53 |
 | 34 | [Rabia](https://open.spotify.com/track/1GFGKmCrG2LjXZCah0i8mG) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años \(notas de diario\)](https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp) | 3:36 |
 | 35 | [Ferrari](https://open.spotify.com/track/4kT2Jw1LlqYEWev9JpIExG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:14 |

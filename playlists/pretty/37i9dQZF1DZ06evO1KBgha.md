@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This Is Kenia OS\. Los temas esenciales, todos en una lista.
+> This is Kenia OS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,790 likes - 48 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,882 likes - 48 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 11 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 12 | [Año Sabático](https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:42 |
 | 13 | [Mamita Rica](https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:58 |
-| 14 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
-| 15 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
+| 14 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
+| 15 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
 | 16 | [Good Boy](https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:03 |
 | 17 | [Ojo X Ojo](https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:00 |
 | 18 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 41 | [Diamantes](https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Diamantes](https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA) | 2:58 |
 | 42 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 |
 | 43 | [La Niña](https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:35 |
-| 44 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
-| 45 | [Escríbeme](https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Escríbeme](https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL) | 2:24 |
+| 44 | [Escríbeme](https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Escríbeme](https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL) | 2:24 |
+| 45 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
 | 46 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 |
 | 47 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 48 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 |
 
-Snapshot ID: `ZwhqgAAAAADq3P3JAWf4w0mE15rrlUcv`
+Snapshot ID: `Zwm8AAAAAAChR1T1zgwgG7TqoC6Za5fY`

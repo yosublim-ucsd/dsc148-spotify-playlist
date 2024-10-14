@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,471 likes - 100 songs - 5 hr 5 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,470 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 96 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 |
 | 97 | [KIDS](https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [KIDS](https://open.spotify.com/album/2o9v5fIWqt0P0aeKtBnzxE) | 3:04 |
 | 98 | [Turn Up This Song](https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A) | [Turn Up This Song](https://open.spotify.com/album/2Q4uiWyQlOr9P2mFdCxbym) | 2:56 |
-| 99 | [Lucky Ones \- Farzin Salehi Remix](https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0) | [Bassanova](https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Farzin Salehi](https://open.spotify.com/artist/2bOYi40lviElkE1aywiyw7) | [Lucky Ones \(Farzin Salehi Remix\)](https://open.spotify.com/album/5cP40uBsVxP4YNHlSFktiZ) | 2:46 |
-| 100 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
+| 99 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
+| 100 | [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 |
 
-Snapshot ID: `AAAHxeTipg9dxRHOkQCiAxzfTxDWFzxy`
+Snapshot ID: `AAAHxl5Oe6+f/KlLLCgRpN6ygQWkt36W`

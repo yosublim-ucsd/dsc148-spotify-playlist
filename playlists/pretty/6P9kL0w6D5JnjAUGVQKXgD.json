@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47471,
+  "num_followers": 47470,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHxeTipg9dxRHOkQCiAxzfTxDWFzxy",
+  "snapshot_id": "AAAHxl5Oe6+f/KlLLCgRpN6ygQWkt36W",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -2061,30 +2061,6 @@
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
-      "added_at": "2024-03-29 11:27:06",
-      "album": {
-        "name": "Lucky Ones (Farzin Salehi Remix)",
-        "url": "https://open.spotify.com/album/5cP40uBsVxP4YNHlSFktiZ"
-      },
-      "artists": [
-        {
-          "name": "Bassanova",
-          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "Farzin Salehi",
-          "url": "https://open.spotify.com/artist/2bOYi40lviElkE1aywiyw7"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Lucky Ones - Farzin Salehi Remix",
-      "url": "https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0"
-    },
-    {
       "added_at": "2023-12-13 11:28:03",
       "album": {
         "name": "Life Goes On (feat. Alex Hosking)",
@@ -2103,6 +2079,26 @@
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
+    },
+    {
+      "added_at": "2024-10-14 00:41:04",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Roses (feat. ROZES)",
+      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     }
   ],
   "unique_name": "EDM Top 100",

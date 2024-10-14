@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 125714,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk"
@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Recurring (Live At King's Place)",
+        "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320826,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "album": {
         "name": "delaye",
         "url": "https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK"
       },
@@ -1228,6 +1250,28 @@
       "duration_ms": 90194,
       "name": "deep space",
       "url": "https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/5kH5Eq898z06gEUNGjWFIL"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3BrRYzSKc8oLFBeFmyXm4G"
     },
     {
       "album": {
@@ -1364,6 +1408,24 @@
       "duration_ms": 240000,
       "name": "Dog Dad",
       "url": "https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo"
+    },
+    {
+      "album": {
+        "name": "Dolphin Lundgren",
+        "url": "https://open.spotify.com/album/2zaHJvV670I9vPd7tRpRaV"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343907,
+      "name": "Dolphin Lundgren",
+      "url": "https://open.spotify.com/track/6dA7ZskIeNPLKzMxWxlpu1"
     },
     {
       "album": {
@@ -1644,6 +1706,24 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
+    },
+    {
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/2HLZ1WUOHUXfZczO2YUmQm"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108493,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/2hsTchN3E8IIepsCdoszaE"
     },
     {
       "album": {
@@ -2258,7 +2338,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 138795,
       "name": "Hypnagogia Wakefull Dreams",
       "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
@@ -4372,7 +4452,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 112000,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84"
@@ -5728,7 +5808,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 199500,
       "name": "Wonderment",
       "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"

@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 33 min
+72 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2023-02-14 |  |
 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 | 2022-09-16 |  |
 | [A Poco Sí A Poco No](https://open.spotify.com/track/6PPtVe7mYShJD9wIie5MKa) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w), [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Cuéntales](https://open.spotify.com/album/1Ktc4MmcSCn0ddnT8Uin9D) | 3:15 | 2022-09-16 |  |
-| [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 | 2023-04-04 |  |
+| [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 | 2023-04-04 | 2024-10-14 |
+| [A Ver Cómo Le Haces](https://open.spotify.com/track/7E3UrySjZ5OL5Xo5j72ayR) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amor Ranchero](https://open.spotify.com/album/6FvBBSD0Pdn5NCM28khRHS) | 3:59 | 2024-10-13 |  |
 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 | 2024-03-17 |  |
 | [Alguien De Aquí](https://open.spotify.com/track/1REGjqcXyf81VkBX94hIL9) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 3:03 | 2024-03-17 |  |
 | [Alguien De Aquí](https://open.spotify.com/track/4jkdEOFesiftLvR7AUF1Rg) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Alguien De Aquí](https://open.spotify.com/album/36839XI2Rb2cQQHWckHZe7) | 3:03 | 2023-12-13 | 2024-03-18 |

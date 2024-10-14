@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 8 hr 51 min
+156 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 | 2024-02-27 |  |
 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/2s00kIWrL8TIsYWz67P7ff) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [The Martin Garrix Experience](https://open.spotify.com/album/3UwcZ5menPSCTvdxyYgxZj) | 3:20 | 2024-02-27 | 2024-06-25 |
 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 | 2024-06-24 |  |
+| [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 | 2024-10-13 |  |
 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 | 2024-02-27 |  |
 | [Cattitude \(feat\. RuPaul\)](https://open.spotify.com/track/7s4xQU7Tz9vyxD5a3golZc) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:09 | 2024-02-27 |  |
 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-05-18 | 2024-06-03 |

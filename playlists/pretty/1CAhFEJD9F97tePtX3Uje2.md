@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 339 likes - 234 songs - 13 hr 50 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 339 likes - 235 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 232 | [Crystal Dreams](https://open.spotify.com/track/4SoUatn0KvfIJHPPor26vm) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Crystal Dreams](https://open.spotify.com/album/39krWY3FoWRS6jCHCkZ2F7) | 3:10 |
 | 233 | [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 |
 | 234 | [Outrun](https://open.spotify.com/track/3XRkyIC6ws5tL8etnHb0GS) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [Outrun](https://open.spotify.com/album/4FifF7GfWYB7s0mMCYCiyb) | 2:38 |
+| 235 | [I WANT YOU](https://open.spotify.com/track/67tXRCoy5R0Mu6pSxeYjp4) | [V.I.P.N](https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro) | [I WANT YOU](https://open.spotify.com/album/5SfgUQ5ItNWrIqR9b8H0pn) | 2:18 |
 
-Snapshot ID: `AAAA+lc5qq2oZdlSwPXreyKkGG0aHBG4`
+Snapshot ID: `AAAA+wMpU5wFvZ9uf9Mxvp3mYWmYjY/2`

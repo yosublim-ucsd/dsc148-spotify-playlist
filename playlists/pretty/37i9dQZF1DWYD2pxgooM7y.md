@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > why so hot?
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,556 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,558 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 51 | [On My Way](https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [On My Way](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm) | 3:13 |
 | 52 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 | 53 | [Everyday](https://open.spotify.com/track/30TmLgK0ja5O8q9l4BShIX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:14 |
-| 54 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
+| 54 | [Fire Burning](https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:59 |
 | 55 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 |
-| 56 | [Fire Burning](https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:59 |
+| 56 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 57 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 58 | [Don't Cha](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 4:32 |
-| 59 | [motive \(with Doja Cat\)](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:47 |
+| 59 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 |
 | 60 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 
 Snapshot ID: `ZrsBPQAAAADdY3RYwtotqqN7kPm7EWjg`

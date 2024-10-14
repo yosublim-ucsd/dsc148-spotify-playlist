@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 349306,
+  "num_followers": 349291,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Steady My Heart",
-        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
-      },
-      "artists": [
-        {
-          "name": "METRUTH",
-          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 236832,
-      "name": "Steady My Heart",
-      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Surrendered",
         "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Steady My Heart",
+        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
+      },
+      "artists": [
+        {
+          "name": "METRUTH",
+          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 236832,
+      "name": "Steady My Heart",
+      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Is He Worthy?",
+        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Is He Worthy?",
-        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Sanctuary (Live from Ocean Way)",
         "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 240337,
       "name": "One Too Many Reasons",
       "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2024-07-26 09:52:44",

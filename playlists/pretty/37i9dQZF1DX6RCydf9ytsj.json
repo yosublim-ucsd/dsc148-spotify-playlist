@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 651446,
+  "num_followers": 651616,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+        "name": "Let It Roll",
+        "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
         }
       ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+      "duration_ms": 179653,
+      "name": "Baby's Got Her Blue Jeans On",
+      "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Let It Roll",
-        "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
       "artists": [
         {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
         }
       ],
-      "duration_ms": 179653,
-      "name": "Baby's Got Her Blue Jeans On",
-      "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+        "name": "Fancy Free",
+        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+      "duration_ms": 225626,
+      "name": "Elvira",
+      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Fancy Free",
-        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Elvira",
-      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Ultimate Alabama 20 # 1 Hits",
-        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Mountain Music",
-      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "There's No Gettin' Over Me",
         "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 217826,
       "name": "I Wouldn't Have Missed It For The World",
       "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Ultimate Alabama 20 # 1 Hits",
+        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "Mountain Music",
+      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Best Of Michael Martin Murphey",
         "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 171906,
       "name": "What's Forever For?",
       "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Greatest Hits, Vol. 2",
         "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 178840,
       "name": "All My Rowdy Friends Are Coming Over Tonight",
       "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 245573,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1828,22 +1828,6 @@
       "added_at": "2024-07-05 20:32:07",
       "album": {
         "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
       "artists": [
@@ -1855,6 +1839,22 @@
       "duration_ms": 241026,
       "name": "Sunday In the South",
       "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
+      },
+      "artists": [
+        {
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1871,22 +1871,6 @@
       "duration_ms": 170733,
       "name": "Same Ole Me",
       "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1919,6 +1903,22 @@
       "duration_ms": 251600,
       "name": "Good Ole Boys Like Me - Single Version",
       "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Heartbroke",
+      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -2007,22 +2023,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Heartbroke",
-      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The First Of A Million Kisses",
         "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
       },
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "My Kind Of Country",
-        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Somebody Should Leave",
-      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 220426,
       "name": "I Loved 'Em Every One",
       "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "My Kind Of Country",
+        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Somebody Should Leave",
+      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Step That Step",
-      "url": "https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Voice Box, Vol. 1",
         "url": "https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 161493,
       "name": "I Can Tell By the Way You Dance",
       "url": "https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Step That Step",
+      "url": "https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
-      },
-      "artists": [
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Woke Up In Love",
-      "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Truly Great Hits",
         "url": "https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 209866,
       "name": "Dim Lights, Thick Smoke (And Loud, Loud Music)",
       "url": "https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Woke Up In Love",
+      "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Kentucky Hearts",
-        "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
+        "name": "The Essential Rosanne Cash",
+        "url": "https://open.spotify.com/album/0Ko0hOl571b8Z2HWdzNCCc"
       },
       "artists": [
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 168666,
-      "name": "Give Me One More Chance",
-      "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
+      "duration_ms": 266666,
+      "name": "Blue Moon With Heartache",
+      "url": "https://open.spotify.com/track/4TDX7TaAUcdb7Emfgh5Vif"
     }
   ],
   "unique_name": "80s Country",

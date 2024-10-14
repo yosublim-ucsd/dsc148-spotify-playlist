@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Charli xcx, Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,574 likes - 92 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,597 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

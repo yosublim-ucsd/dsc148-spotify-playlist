@@ -2,7 +2,7 @@
 
 ### [This Is Alexis Ffrench](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31nMcV)
 
-> This is Alexis Ffrench\. The essential tracks, all in one playlist.
+> This Is Alexis Ffrench\. Los temas esenciales, todos en una lista.
 
 60 songs - 2 hr 53 min
 

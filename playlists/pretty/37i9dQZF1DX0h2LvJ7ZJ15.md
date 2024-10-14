@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415,870 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416,515 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 20 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
 | 21 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
 | 22 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
-| 23 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am empty](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
-| 24 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
-| 25 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
+| 23 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
+| 24 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am empty](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
+| 25 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
 | 26 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
 | 27 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 28 | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG) | 2:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 46 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
 | 47 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
 | 48 | [Black Out Days \- Future Islands Remix \(Slowed\)](https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \[Future Islands Remix \(Slowed\)\]](https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj) | 3:34 |
-| 49 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
-| 50 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
+| 49 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
+| 50 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 |
 
 Snapshot ID: `ZlAZ0AAAAABB7GOL9X42ACg141osjsV+`

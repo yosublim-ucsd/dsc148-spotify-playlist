@@ -1,6 +1,6 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 89894,
+  "num_followers": 90428,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2024-08-09 15:11:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 240254,
-      "name": "BODYGUARD",
-      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
     },
     {
       "added_at": "2024-08-09 15:11:20",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "Breakthrough (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Fallin' For You",
-      "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "Black & White (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 231960,
       "name": "Slow Hand",
       "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "Breakthrough (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Fallin' For You",
+      "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
     },
     {
       "added_at": "2024-08-09 15:11:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-09 15:11:20",
       "album": {
-        "name": "Chicago IX: Chicago's Greatest Hits",
-        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Saturday in the Park",
-      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
-    },
-    {
-      "added_at": "2024-08-09 15:11:20",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2024-08-09 15:11:20",
+      "album": {
+        "name": "Chicago IX: Chicago's Greatest Hits",
+        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Saturday in the Park",
+      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
     },
     {
       "added_at": "2024-08-09 15:11:20",

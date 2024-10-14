@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 230624,
       "name": "almaenpena_rmx128bpm",
       "url": "https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE"
@@ -4428,6 +4428,24 @@
       "duration_ms": 230794,
       "name": "MALOS D\u00cdAS",
       "url": "https://open.spotify.com/track/09xDpPPwrI5BF77raOOgNY"
+    },
+    {
+      "album": {
+        "name": "Manos En La Mesa (Opening)",
+        "url": "https://open.spotify.com/album/4RoHRwHDKCqJK0jJcnHXXt"
+      },
+      "artists": [
+        {
+          "name": "LHARA",
+          "url": "https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156458,
+      "name": "Manos En La Mesa (Opening)",
+      "url": "https://open.spotify.com/track/0oNLml5Tz2KGy6G9aC0xVJ"
     },
     {
       "album": {

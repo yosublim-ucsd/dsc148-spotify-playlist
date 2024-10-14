@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 ### [This Is Architects](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kuq2c)
 
-> This Is Architects\. Los temas esenciales, todos en una lista.
+> This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,268 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 39 | [Castles in the Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 |
 | 40 | [Dead Man Talking](https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:04 |
 
-Snapshot ID: `ZwhqgAAAAADQAXRWT7i45crrdPUZP7g5`
+Snapshot ID: `Zwm8AAAAAACURFoHn9eFg83Wta9+S5hA`

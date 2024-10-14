@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 43 min
+84 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 | 2022-10-27 |  |
 | [Let Light Be Light](https://open.spotify.com/track/5xmcaaw5Sj0AXftGNesoxc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:00 | 2022-09-16 | 2022-10-28 |
 | [Like It Tends To Do](https://open.spotify.com/track/0UmNhsqUlGWs9h44hIQNAm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:25 | 2024-04-07 | 2024-05-04 |
+| [Like It Tends To Do](https://open.spotify.com/track/63dsEiCSDhptLAaTR7dVV7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:25 | 2024-10-14 |  |
 | [Means Something](https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:24 | 2022-09-16 | 2022-10-30 |
 | [Means Something](https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:24 | 2022-10-29 |  |
 | [Method Acting \(Demo\)](https://open.spotify.com/track/0cCTtURCc4SYu9NHfbS7Ac) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:38 | 2024-10-07 |  |

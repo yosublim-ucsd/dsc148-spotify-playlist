@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 852239,
+  "num_followers": 852555,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lp3mIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lp81SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Depuis le temps - Part. 2",
-        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "Ca parle mal",
-      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Depuis le temps - Part. 2",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Monaco",
         "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
@@ -89,7 +89,27 @@
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -113,27 +133,23 @@
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
         }
       ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -153,23 +169,7 @@
       "url": "https://open.spotify.com/track/1IPHJxo4Y20Rki9beIP1bN"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -209,27 +209,7 @@
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 201912,
-      "name": "METALLICA",
-      "url": "https://open.spotify.com/track/0saCzF4CuH4ru3PrGDM2UV"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -245,43 +225,7 @@
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "I'M SORRY",
-        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "I'M SORRY",
-      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -301,7 +245,47 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 201912,
+      "name": "METALLICA",
+      "url": "https://open.spotify.com/track/0saCzF4CuH4ru3PrGDM2UV"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
@@ -317,23 +301,7 @@
       "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Pyramide",
-        "url": "https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 210247,
-      "name": "P\u00e9tunias",
-      "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -357,23 +325,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Minimum \u00e7a",
-        "url": "https://open.spotify.com/album/60rg9NAmtNCkIcculZeX5n"
-      },
-      "artists": [
-        {
-          "name": "Dr. Yaro",
-          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
-        }
-      ],
-      "duration_ms": 149811,
-      "name": "Minimum \u00e7a",
-      "url": "https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
@@ -397,7 +349,71 @@
       "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Passe ton chemin",
+        "url": "https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 169256,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Aucune attache",
         "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
@@ -433,55 +449,23 @@
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Minimum \u00e7a",
+        "url": "https://open.spotify.com/album/60rg9NAmtNCkIcculZeX5n"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 149811,
+      "name": "Minimum \u00e7a",
+      "url": "https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Capitaine fait de l'art",
-        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "J\u2019crois qu\u2019ils ont pas compris",
-      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Passe ton chemin",
-        "url": "https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 169256,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -497,7 +481,7 @@
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
@@ -517,10 +501,10 @@
       "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ"
+        "name": "Pyramide",
+        "url": "https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS"
       },
       "artists": [
         {
@@ -528,12 +512,12 @@
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Laboratoire",
-      "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
+      "duration_ms": 210247,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Imad",
         "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
@@ -549,47 +533,7 @@
       "url": "https://open.spotify.com/track/7EMzOyDT87Uq9Hi08Mxe31"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148657,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "EL GEMANO",
-        "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "EL GEMANO",
-      "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -605,39 +549,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 192858,
-      "name": "MERCI",
-      "url": "https://open.spotify.com/track/01fP5VcXu544TYCNSK60ha"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Hakayet",
-        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 158208,
-      "name": "Hakayet",
-      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -657,23 +569,151 @@
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
         }
       ],
-      "duration_ms": 198200,
-      "name": "ALVALM",
-      "url": "https://open.spotify.com/track/3oeJ9cWatzXfUUovbRB9Te"
+      "duration_ms": 158208,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 148657,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "FLASHBACK",
+      "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "EL GEMANO",
+        "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "EL GEMANO",
+      "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "Joie de filles (feat. Vacra)",
+      "url": "https://open.spotify.com/track/0s6VVcHt9LBdoMhR2itOQ8"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "RECOMMENCE-MOI",
+        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -697,27 +737,23 @@
       "url": "https://open.spotify.com/track/6gF9liH6UwYm2eQqyuP7SH"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
       },
       "artists": [
         {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 176120,
-      "name": "FLASHBACK",
-      "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -741,111 +777,7 @@
       "url": "https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Depuis le temps",
-        "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Parler tout bas",
-      "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "JEUX D'ECHECS",
-      "url": "https://open.spotify.com/track/2Ipnen45T4dlbKS8I7Bcsa"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Joie de filles (feat. Vacra)",
-      "url": "https://open.spotify.com/track/0s6VVcHt9LBdoMhR2itOQ8"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "AFFRANCHIS",
-      "url": "https://open.spotify.com/track/40nHQru2NM1JEEj3p8Bxje"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "PLUS RIEN",
-      "url": "https://open.spotify.com/track/5GJUMdVellleheGdi1gfl9"
-    },
-    {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -861,47 +793,55 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "L'\u00c9trange Histoire de Mr.Anderson",
-        "url": "https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz"
+        "name": "Depuis le temps",
+        "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
       },
       "artists": [
         {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 277506,
-      "name": "UNE HISTOIRE \u00c9TRANGE",
-      "url": "https://open.spotify.com/track/1LqDW54jByEjfZJMadiLJU"
+      "duration_ms": 201750,
+      "name": "Parler tout bas",
+      "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 187826,
-      "name": "G.A.N.G",
-      "url": "https://open.spotify.com/track/5B286OoIX6KAJezPQ02dgz"
+      "duration_ms": 198200,
+      "name": "ALVALM",
+      "url": "https://open.spotify.com/track/3oeJ9cWatzXfUUovbRB9Te"
     },
     {
-      "added_at": "2024-10-12 12:57:04",
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 192858,
+      "name": "MERCI",
+      "url": "https://open.spotify.com/track/01fP5VcXu544TYCNSK60ha"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -931,6 +871,74 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "UnRappeur\u00c7aRap #1",
+        "url": "https://open.spotify.com/album/0x37rZGffTPSOVC8nGptOl"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 184156,
+      "name": "UnRappeur\u00c7aRap #1",
+      "url": "https://open.spotify.com/track/3q0XkoVwowF4itkx9EMt6y"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Petit g\u00e9nie",
+        "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Abou Debeing",
+          "url": "https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "duration_ms": 217259,
+      "name": "Petit g\u00e9nie",
+      "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
+    },
+    {
+      "added_at": "2024-10-13 12:50:06",
+      "album": {
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "O\u00f9 aller",
+      "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
     }
   ],
   "unique_name": "Top 50 - France",

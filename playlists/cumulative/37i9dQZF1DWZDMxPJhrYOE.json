@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "album": {
         "name": "Jylland",
         "url": "https://open.spotify.com/album/1g9JFulc8UWHOAzL6dy22d"
       },
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
@@ -4154,6 +4172,28 @@
       "duration_ms": 150190,
       "name": "S\u00e5 l\u00e6nge jeg er sexy.",
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
+    },
+    {
+      "album": {
+        "name": "Take Me to the Beach (feat. Baker Boy)",
+        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185352,
+      "name": "Take Me to the Beach (feat. Baker Boy)",
+      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
     },
     {
       "album": {

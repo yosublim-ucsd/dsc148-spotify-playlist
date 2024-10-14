@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-12-17",
-  "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
+  "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
   "name": "This Is Los inquietos del vallenato",
   "tracks": [
+    {
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305320,
+      "name": "Ahora Que Te Vas",
+      "url": "https://open.spotify.com/track/2rGBCsiDxWsTPaNZeGLlSk"
+    },
     {
       "album": {
         "name": "Presente Y Futuro",
@@ -23,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305826,
+      "name": "Buscare Otro Amor",
+      "url": "https://open.spotify.com/track/1b1fgYQgiR1Ynmy8pwx9Yy"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -34,7 +70,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 305826,
       "name": "Buscar\u00e9 Otro Amor",
       "url": "https://open.spotify.com/track/0awm6OBJOIRLhmkqA9ox4H"
@@ -365,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306600,
+      "name": "No Queda Nada",
+      "url": "https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0e3lJIEqUMNMf0S1WLjdkL"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -466,7 +538,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 297413,
       "name": "Quiero Saber De Ti",
       "url": "https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI"
@@ -520,8 +592,8 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
-      "duration_ms": 308035,
+      "date_removed": null,
+      "duration_ms": 308040,
       "name": "Regalame Una Noche",
       "url": "https://open.spotify.com/track/3A75fcWtHqmTESwNZFYcDY"
     },
@@ -671,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Inquietos por el Mundo",
+        "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288533,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1scX9xCsjlD02BxIv1cGe9"
+    },
+    {
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
@@ -743,6 +833,24 @@
     },
     {
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303546,
+      "name": "Ven Y Dime",
+      "url": "https://open.spotify.com/track/3xIFpzSM6Em1AxkIQh8OaI"
+    },
+    {
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
@@ -772,10 +880,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 294295,
       "name": "Volver",
       "url": "https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6"
+    },
+    {
+      "album": {
+        "name": "30 Mejores Vol. 2",
+        "url": "https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294295,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3"
     },
     {
       "album": {

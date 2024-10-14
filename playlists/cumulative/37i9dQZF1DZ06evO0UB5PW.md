@@ -4,7 +4,7 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-74 songs - 6 hr 23 min
+75 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Feast Your Eyes](https://open.spotify.com/track/3qwRA8Q3e77HVNnBqMoRko) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 3:23 | 2022-05-30 | 2022-06-01 |
 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 | 2024-09-14 |  |
 | [Forged By Neron](https://open.spotify.com/track/0FwJA4tBsAmfWo1QlnX033) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Forged By Neron](https://open.spotify.com/album/4jdNvSi7ujZEW8KQ3gk1iD) | 3:05 | 2022-05-30 | 2022-11-08 |
-| [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 | 2022-05-30 |  |
+| [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 | 2022-05-30 | 2024-10-14 |
+| [Ghost of Karelia \- 2024 Remaster](https://open.spotify.com/track/6EKABTSG265qiaZbg1w3XD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/22BMsIMHQ5TayHOJvjF4y4) | 5:24 | 2024-10-14 |  |
 | [Had It All](https://open.spotify.com/track/5yOoY69sRaLWyQLkmwhGLi) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:25 | 2022-05-30 | 2022-10-13 |
 | [Halloween](https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:39 | 2022-08-31 | 2022-10-12 |
 | [Hearts Alive](https://open.spotify.com/track/5ZwXpxkFA2qW0nGCXwpIx4) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 13:39 | 2022-05-31 | 2022-10-13 |
@@ -40,7 +41,7 @@
 | [Iron Tusk](https://open.spotify.com/track/7zF8QWnnpQ1xNTWmCdsQCX) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:03 | 2022-05-30 |  |
 | [Jaguar God](https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 7:56 | 2022-05-30 | 2023-02-01 |
 | [Joseph Merrick \- Instrumental](https://open.spotify.com/track/10DrDEatayhTM9dx9FIHSF) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:33 | 2022-05-30 | 2022-10-12 |
-| [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 | 2022-05-30 |  |
+| [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 | 2022-05-30 | 2024-10-14 |
 | [Megalodon](https://open.spotify.com/track/1rLDTmI8quVUsGy9mzrXBx) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:22 | 2022-05-30 |  |
 | [More Than I Could Chew](https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:51 | 2022-05-30 |  |
 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 | 2022-05-30 | 2024-01-04 |

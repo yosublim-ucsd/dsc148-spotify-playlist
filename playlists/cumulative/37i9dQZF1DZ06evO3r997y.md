@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3r997y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3r997y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3r997y)
 
-### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
+### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is 鬼頭明里\. The essential tracks, all in one playlist.
+> This is Akari Kito\. The essential tracks, all in one playlist.
 
 78 songs - 5 hr 11 min
 
@@ -29,7 +29,7 @@
 | [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 | 2022-06-09 |  |
 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 | 2022-06-09 |  |
 | [Dive to World](https://open.spotify.com/track/4yoRRxSVF6beV7G61R1scj) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:35 | 2023-03-03 | 2024-02-02 |
-| [Dive to World](https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [キミのとなりで](https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm) | 3:35 | 2022-06-09 | 2022-10-17 |
+| [Dive to World](https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [キミのとなりで](https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm) | 3:35 | 2022-06-09 |  |
 | [Dive to World](https://open.spotify.com/track/7wbBMQzj1i5ATT60X4OYvC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/3Xu8RDPELgeBO6qZQuHvpn) | 3:35 | 2022-07-14 | 2022-08-04 |
 | [Drawing a Wish](https://open.spotify.com/track/59uBrvjez0jjtCGiKequ7H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:15 | 2022-07-28 | 2022-09-05 |
 | [Drawing a Wish](https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:15 | 2022-06-09 |  |

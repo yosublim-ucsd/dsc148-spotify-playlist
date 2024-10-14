@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 38036,
+  "num_followers": 38089,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Equilibrio 432Hz",
-        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
-      },
-      "artists": [
-        {
-          "name": "Invocaciones",
-          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Equilibrio 432Hz",
-      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Relieving",
         "url": "https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Soothe",
-        "url": "https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP"
+        "name": "Equilibrio 432Hz",
+        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
       },
       "artists": [
         {
-          "name": "Damir Yamm",
-          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
         }
       ],
-      "duration_ms": 155730,
-      "name": "Soothe",
-      "url": "https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc"
+      "duration_ms": 150870,
+      "name": "Equilibrio 432Hz",
+      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "duration_ms": 203353,
+      "name": "Kalmte",
+      "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP"
+      },
+      "artists": [
+        {
+          "name": "Damir Yamm",
+          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Leuchten",
         "url": "https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 162500,
       "name": "Leuchten",
       "url": "https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
-      },
-      "artists": [
-        {
-          "name": "Femke Edelijn",
-          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
-        }
-      ],
-      "duration_ms": 203353,
-      "name": "Kalmte",
-      "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mesmeric Quietude",
-        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
-      },
-      "artists": [
-        {
-          "name": "Wes Gold",
-          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
-        }
-      ],
-      "duration_ms": 149795,
-      "name": "Mesmeric Quietude",
-      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 144333,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Mesmeric Quietude",
+        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
+      },
+      "artists": [
+        {
+          "name": "Wes Gold",
+          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
+        }
+      ],
+      "duration_ms": 149795,
+      "name": "Mesmeric Quietude",
+      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Inner Universe",
-        "url": "https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G"
-      },
-      "artists": [
-        {
-          "name": "Von Goo",
-          "url": "https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Inner Universe",
-      "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/0veARGclLULEvfaKbbLr0H"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 209259,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/3uq6352VXgMMJ2VvVXLgI0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Inner Universe",
+        "url": "https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G"
+      },
+      "artists": [
+        {
+          "name": "Von Goo",
+          "url": "https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Inner Universe",
+      "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Shimmering Forest",
-        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
-      },
-      "artists": [
-        {
-          "name": "Ashcan Johansen",
-          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
-        }
-      ],
-      "duration_ms": 187169,
-      "name": "Shimmering Forest",
-      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dreams of Calmness",
         "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 156500,
       "name": "Clear Skies Ahead",
       "url": "https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Shimmering Forest",
+        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
+      },
+      "artists": [
+        {
+          "name": "Ashcan Johansen",
+          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
+        }
+      ],
+      "duration_ms": 187169,
+      "name": "Shimmering Forest",
+      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Aamani",
-        "url": "https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT"
-      },
-      "artists": [
-        {
-          "name": "Mathura Horizon",
-          "url": "https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm"
-        }
-      ],
-      "duration_ms": 190446,
-      "name": "Shalika",
-      "url": "https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Into The Present",
         "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dawn Of Tomorrow",
-        "url": "https://open.spotify.com/album/6Z0UF4HIF3PrwAjfm9gJt7"
+        "name": "Aamani",
+        "url": "https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT"
       },
       "artists": [
         {
-          "name": "Nima Noi",
-          "url": "https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy"
+          "name": "Mathura Horizon",
+          "url": "https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm"
         }
       ],
-      "duration_ms": 195831,
-      "name": "Dawn Of Tomorrow",
-      "url": "https://open.spotify.com/track/3ofVagnPk4aGFmQRBQNv8x"
+      "duration_ms": 190446,
+      "name": "Shalika",
+      "url": "https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 138000,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dawn Of Tomorrow",
+        "url": "https://open.spotify.com/album/6Z0UF4HIF3PrwAjfm9gJt7"
+      },
+      "artists": [
+        {
+          "name": "Nima Noi",
+          "url": "https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy"
+        }
+      ],
+      "duration_ms": 195831,
+      "name": "Dawn Of Tomorrow",
+      "url": "https://open.spotify.com/track/3ofVagnPk4aGFmQRBQNv8x"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv"
-      },
-      "artists": [
-        {
-          "name": "faintface",
-          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
-        }
-      ],
-      "duration_ms": 193885,
-      "name": "Looking for the Self",
-      "url": "https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Layers Of Trust",
         "url": "https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 197555,
       "name": "Joyous Flow",
       "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv"
+      },
+      "artists": [
+        {
+          "name": "faintface",
+          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
+        }
+      ],
+      "duration_ms": 193885,
+      "name": "Looking for the Self",
+      "url": "https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dock Of A Bay",
-        "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
-      },
-      "artists": [
-        {
-          "name": "Jo Quinn",
-          "url": "https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Dock Of A Bay",
-      "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Peace Within",
-        "url": "https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb"
+        "name": "Dock Of A Bay",
+        "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
       },
       "artists": [
         {
-          "name": "Holly Summers",
-          "url": "https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es"
+          "name": "Jo Quinn",
+          "url": "https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr"
         }
       ],
-      "duration_ms": 136009,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
+      "duration_ms": 185480,
+      "name": "Dock Of A Bay",
+      "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 180107,
       "name": "Clear Thoughts",
       "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Peace Within",
+        "url": "https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb"
+      },
+      "artists": [
+        {
+          "name": "Holly Summers",
+          "url": "https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es"
+        }
+      ],
+      "duration_ms": 136009,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Coastal Route",
         "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 196535,
       "name": "Rila",
       "url": "https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
-      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Tantra",
+        "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Prav\u0101sa",
+      "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "All Love 432 Hz",
         "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
       },
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Tantra",
-        "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
         }
       ],
-      "duration_ms": 177500,
-      "name": "Prav\u0101sa",
-      "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
       },
@@ -1879,22 +1879,6 @@
       "duration_ms": 150250,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "A Time To Pause",
-        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
-      },
-      "artists": [
-        {
-          "name": "Sierra Rubio",
-          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "A Time To Pause",
-      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "A Time To Pause",
+        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "A Time To Pause",
+      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Wander",
         "url": "https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 200706,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Afternoon in Gelug",
+        "url": "https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Tribe",
+          "url": "https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Afternoon in Gelug",
+      "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Afternoon in Gelug",
-        "url": "https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE"
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
       },
       "artists": [
         {
-          "name": "Tibetan Tribe",
-          "url": "https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN"
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Afternoon in Gelug",
-      "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
+      "duration_ms": 112999,
+      "name": "Polysomnography",
+      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Somniloquy",
-        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
-      },
-      "artists": [
-        {
-          "name": "Mentitoso",
-          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
-        }
-      ],
-      "duration_ms": 112999,
-      "name": "Polysomnography",
-      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dream Spheres",
         "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
       },
@@ -2055,22 +2055,6 @@
       "duration_ms": 127113,
       "name": "Gateless Gate (Sound Bath)",
       "url": "https://open.spotify.com/track/1Mdsrdktj3SxXe0MrLJ6rj"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Flute Healing",
-        "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
-      },
-      "artists": [
-        {
-          "name": "Johan Davidsson",
-          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Flute Healing",
-      "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2107,6 +2091,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Flute Healing",
+        "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
+      },
+      "artists": [
+        {
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Flute Healing",
+      "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Perceive",
         "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
       },
@@ -2123,8 +2123,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
+        "name": "Vi\u1e63\u1e47u",
+        "url": "https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY"
       },
       "artists": [
         {
@@ -2132,9 +2132,9 @@
           "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 160759,
-      "name": "Sakshi / Witness",
-      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
+      "duration_ms": 166270,
+      "name": "Vi\u1e63\u1e47u / The Awakened One",
+      "url": "https://open.spotify.com/track/4Hv1xig7t4bHkOQjuGFlJc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 160759,
+      "name": "Sakshi / Witness",
+      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Beyond Thought",
         "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 184000,
       "name": "Star Above Parvati",
       "url": "https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Vi\u1e63\u1e47u",
-        "url": "https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 166270,
-      "name": "Vi\u1e63\u1e47u / The Awakened One",
-      "url": "https://open.spotify.com/track/4Hv1xig7t4bHkOQjuGFlJc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
         }
       ],
-      "duration_ms": 158000,
-      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
-      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2395,6 +2379,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
+      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+        "name": "Testanaadee",
+        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
       "artists": [
         {
-          "name": "Heart Chakra",
-          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+      "duration_ms": 184512,
+      "name": "Testanaadee",
+      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Testanaadee",
-        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
       },
       "artists": [
         {
-          "name": "Shikha Chadha",
-          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+          "name": "Heart Chakra",
+          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
         }
       ],
-      "duration_ms": 184512,
-      "name": "Testanaadee",
-      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+      "duration_ms": 226000,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "low pass vision",
-        "url": "https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF"
-      },
-      "artists": [
-        {
-          "name": "Irma Leko",
-          "url": "https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR"
-        }
-      ],
-      "duration_ms": 198641,
-      "name": "low pass vision",
-      "url": "https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Terrestrial",
         "url": "https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 183857,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "low pass vision",
+        "url": "https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF"
+      },
+      "artists": [
+        {
+          "name": "Irma Leko",
+          "url": "https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR"
+        }
+      ],
+      "duration_ms": 198641,
+      "name": "low pass vision",
+      "url": "https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
-      },
-      "artists": [
-        {
-          "name": "Sleep Advisor",
-          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
-        }
-      ],
-      "duration_ms": 154751,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Temple of the Heart",
         "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 216672,
       "name": "Temple",
       "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "duration_ms": 154751,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 65143,
+  "num_followers": 65166,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 230967,
       "name": "Can You Feel It - 7\" Version",
       "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -375,6 +343,38 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Stand on the Word",
         "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Donna Summer (Re-Mastered & Expanded)",
         "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 262320,
       "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
       "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
-        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 346600,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 346600,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
     },
     {
       "added_at": "2024-09-07 16:02:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663 likes - 146 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,666 likes - 146 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 23 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
 | 24 | [Selfish](https://open.spotify.com/track/64WL36LvfiLGQJIDqLPAwB) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:49 |
 | 25 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
-| 26 | [Vicious](https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:29 |
-| 27 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
+| 26 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
+| 27 | [Vicious](https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:29 |
 | 28 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:59 |
 | 29 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 30 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
-| 31 | [Do Right](https://open.spotify.com/track/0c37uJwj7mpovCAuFY5ofQ) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:17 |
-| 32 | [Coincidence](https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:44 |
+| 31 | [Coincidence](https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:44 |
+| 32 | [Do Right](https://open.spotify.com/track/0c37uJwj7mpovCAuFY5ofQ) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:17 |
 | 33 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
 | 34 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 |
 | 35 | [Vulnerable](https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 39 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 |
 | 40 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
 | 41 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
-| 42 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
-| 43 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
+| 42 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
+| 43 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
 | 44 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
 | 45 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
 | 46 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 145 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 146 | [choices](https://open.spotify.com/track/1ew8ziYcyv8627lgOtppuf) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 
-Snapshot ID: `AbenSgAAAAA3cauVSpaNzec2WqTNpbst`
+Snapshot ID: `Abes6gAAAAAwIl3w/rNatP6zxANmavWE`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34671,
+  "num_followers": 34676,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACy01Zbd6hzu3mOpisbQMlD",
+  "snapshot_id": "Zwm8AAAAAAAInZve9pfQBVJSjTe5iIuz",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
+      },
+      "artists": [
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
+        }
+      ],
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade - Remix",
+      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bate Com Vontade (Remix)",
-        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
-      },
-      "artists": [
-        {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Tarik Lima",
-          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Bate Com Vontade - Remix",
-      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1527,30 +1527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegas (Remix Piseiro)",
-        "url": "https://open.spotify.com/album/4u6EMgeXtdjrWmqLtGGetF"
-      },
-      "artists": [
-        {
-          "name": "DJKCASSIANO",
-          "url": "https://open.spotify.com/artist/6wYLeA1MJc6EUSzMhBVHiS"
-        },
-        {
-          "name": "DJ Malicia",
-          "url": "https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 141196,
-      "name": "Vegas (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/2oIKtW4w96tCcmiUfJmCND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colocadinha",
         "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
       },
@@ -1571,22 +1547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Olha e Me Respeita",
-        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Me Olha e Me Respeita",
-      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caldeir\u00e3o",
         "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
       },
@@ -1603,6 +1563,46 @@
       "duration_ms": 122317,
       "name": "Inten\u00e7\u00e3o do Vapo Vapo",
       "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Olha e Me Respeita",
+        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Me Olha e Me Respeita",
+      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vegas (Remix Piseiro)",
+        "url": "https://open.spotify.com/album/4u6EMgeXtdjrWmqLtGGetF"
+      },
+      "artists": [
+        {
+          "name": "DJKCASSIANO",
+          "url": "https://open.spotify.com/artist/6wYLeA1MJc6EUSzMhBVHiS"
+        },
+        {
+          "name": "DJ Malicia",
+          "url": "https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 141196,
+      "name": "Vegas (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/2oIKtW4w96tCcmiUfJmCND"
     }
   ],
   "unique_name": "This Is Mc Dricka",

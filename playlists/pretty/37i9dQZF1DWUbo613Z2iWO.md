@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,480 likes - 155 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,499 likes - 155 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

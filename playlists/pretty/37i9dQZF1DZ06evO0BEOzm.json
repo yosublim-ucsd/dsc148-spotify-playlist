@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 287476,
+  "num_followers": 287539,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAB4Z8uhI6VQYIH+iJJ5egMF",
+  "snapshot_id": "Zwm8AAAAAAA0HbsUqXr2hmC/REv3c+zp",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
@@ -551,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
       },
@@ -571,22 +607,6 @@
       "duration_ms": 207000,
       "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Captain Hook",
-      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
     },
     {
       "added_at": null,
@@ -707,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 172155,
-      "name": "Gift & A Curse",
-      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -759,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -791,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tina Snow",
         "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 118518,
-      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 145074,
-      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 153645,
       "name": "Scary (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 145074,
+      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
     },
     {
       "added_at": null,

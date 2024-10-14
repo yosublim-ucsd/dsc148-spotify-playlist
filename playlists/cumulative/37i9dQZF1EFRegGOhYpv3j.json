@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156186,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2"
+    },
+    {
+      "album": {
         "name": "butterfly (feat. Karen Fairchild)",
         "url": "https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y"
       },
@@ -320,6 +338,24 @@
       "duration_ms": 188946,
       "name": "Grow Young With You",
       "url": "https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p"
     },
     {
       "album": {

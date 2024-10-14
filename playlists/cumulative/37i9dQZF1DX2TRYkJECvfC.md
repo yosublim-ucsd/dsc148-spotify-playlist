@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-553 songs - 1 day 22 hr 37 min
+554 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [been here before](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Dylan Yem](https://open.spotify.com/artist/40a0aZCzsqU7fIi6nmoZrs) | [been here before](https://open.spotify.com/album/67vURYRTpK2n6hKtcq31nG) | 3:19 | 2024-04-12 |  |
 | [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 |  |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 |  |
-| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 |  |
+| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2024-10-14 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
 | [Blue](https://open.spotify.com/track/1klWyUOiPXV7p5UFjBxPmf) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue EP](https://open.spotify.com/album/2m2QhcRmT9REjQt5QoFOk1) | 4:46 | 2024-03-01 | 2024-04-13 |
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 | 2024-03-02 |
@@ -419,6 +419,7 @@
 | [Save Us](https://open.spotify.com/track/1jBoW8YIgtkXowgc3RPxnq) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Save Us](https://open.spotify.com/album/2Ias0xFLvCVO6MQd31vzyy) | 5:12 | 2024-08-02 | 2024-09-07 |
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-08 | 2022-02-22 |
+| [searchingforthelights](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [searchingforthelights](https://open.spotify.com/album/0PHUdMruU2l6acvyz0RvXD) | 3:12 | 2024-10-11 |  |
 | [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 |  |
 | [She's A Replicant \- Afriqua Remix](https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [The Replicant EP](https://open.spotify.com/album/3oQWq2N3ZHTLTHZATQorQU) | 8:23 | 2021-12-08 | 2022-07-27 |
 | [Sherwood Forest](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sherwood Forest](https://open.spotify.com/album/0yhqyTd1ulAT8kADrHfRiu) | 2:55 | 2023-06-30 |  |

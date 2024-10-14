@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 85252,
+  "num_followers": 85274,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAACXFfMefkkxphaKI5BdRHJb",
+  "snapshot_id": "Zwm8AAAAAAA2x5Wa+EZ6bdC9Mmz6pDBV",
   "tracks": [
     {
       "added_at": null,
@@ -338,11 +338,15 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 124504,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
+      "duration_ms": 222839,
+      "name": "Think Fast (feat. Weezer)",
+      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
       "added_at": null,
@@ -406,15 +410,11 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 222839,
-      "name": "Think Fast (feat. Weezer)",
-      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+      "duration_ms": 124504,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
     },
     {
       "added_at": null,

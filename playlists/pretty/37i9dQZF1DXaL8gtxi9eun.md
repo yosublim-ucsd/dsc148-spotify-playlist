@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,720 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,753 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

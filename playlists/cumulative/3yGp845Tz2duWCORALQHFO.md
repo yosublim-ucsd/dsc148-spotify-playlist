@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,195 songs - 2 day 16 hr 36 min
+1,198 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 | 2024-05-30 | 2024-06-08 |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-23 | 2024-08-31 |
 | [Look for the sun](https://open.spotify.com/track/1oUIhYJfczr4QrpkfYZM1m) | [Konstantin & Hal](https://open.spotify.com/artist/3vkgLFyuwezp5HNm64wx9p) | [Look for the sun](https://open.spotify.com/album/14A3ioHb6fujIVXFesgR4z) | 4:50 | 2024-06-18 | 2024-06-22 |
+| [Looking Away](https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Looking Away](https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk) | 2:47 | 2024-10-13 |  |
 | [LOSE CONTROL](https://open.spotify.com/track/15gBrrouXXYK1nczQ54wVZ) | [TARISH](https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0) | [LOSE CONTROL](https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO) | 3:06 | 2024-06-21 | 2024-06-29 |
 | [Losing My Mind](https://open.spotify.com/track/6g2uHVAb4gFmLNkmp4aPcW) | [Will Plaze](https://open.spotify.com/artist/3fFPyMScdyz7zoHK2A3uvu) | [Losing My Mind](https://open.spotify.com/album/0Pp8nE187FWq1hqY6RTaNU) | 3:20 | 2024-07-14 | 2024-07-19 |
 | [Lost](https://open.spotify.com/track/7GSncnWI6pkrxm60qMW1HS) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3), [Chelsea Holland](https://open.spotify.com/artist/003pIw7FyWyjYvjQHtx2DA) | [Lost](https://open.spotify.com/album/0WLVGkkmHIOWKnqHJxjsuJ) | 3:46 | 2024-07-05 | 2024-07-12 |
@@ -753,6 +754,7 @@
 | [Nirvana](https://open.spotify.com/track/6UORRBZMfhTpqQRQy9TBwP) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [CLUBWRK](https://open.spotify.com/artist/1SBbv5nJw69OqrklyYaaWg) | [Nirvana](https://open.spotify.com/album/596QDlYgrp1C3l1NzSBW8A) | 2:30 | 2024-05-17 | 2024-05-25 |
 | [NMF](https://open.spotify.com/track/2tdkpdOhUP3RnVS2Snl7b4) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [NMF](https://open.spotify.com/album/2PN4QOzldg4guJ6B5RqbhL) | 3:31 | 2024-07-12 | 2024-07-19 |
 | [No Brakes](https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [No Brakes](https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3) | 1:48 | 2024-10-04 | 2024-10-12 |
+| [No Escape \(Prologue\)](https://open.spotify.com/track/2Pob1ZqVBeI4cM688L3ZRr) | [AZRUM](https://open.spotify.com/artist/7bTFAkGhYwOnqxYQEAQHzz) | [No Escape \(Prologue\)](https://open.spotify.com/album/0w94EKPlpCMy4wSm0KIr18) | 3:34 | 2024-10-13 |  |
 | [NO FLEX](https://open.spotify.com/track/5jtuallvZreOdY3EaKed9k) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 3:10 | 2024-07-19 | 2024-07-27 |
 | [No Gravity](https://open.spotify.com/track/1DB7f0nDMTvCuiEv5wf7Ny) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [No Gravity](https://open.spotify.com/album/6ymnSDoRxoibJX3gIl46xx) | 3:26 | 2024-09-12 | 2024-09-21 |
 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 | 2024-08-30 | 2024-09-06 |
@@ -998,6 +1000,7 @@
 | [Storm](https://open.spotify.com/track/3C8plG5fEATh87WlghzrMc) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Anton By](https://open.spotify.com/artist/0mJySQY1eyiUUWAObnlxyo), [AV](https://open.spotify.com/artist/3fnqw26wyOPyO9ov4gWaoa) | [Storm](https://open.spotify.com/album/6NQoGQrjBtcIyPlGp5h0Tf) | 2:16 | 2024-08-02 | 2024-08-09 |
 | [Strange Feelings \- Solomun Remix](https://open.spotify.com/track/0mouZlwz32yBlVbDHaH1QJ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Strange Feelings \- Solomun Remix](https://open.spotify.com/album/5Ltey6d0mxTU1gKfD8Js51) | 3:40 | 2024-08-30 | 2024-09-06 |
 | [Strangers in the Night \- Radio\-Edit](https://open.spotify.com/track/1P0AkIjAqZx5Pz6Lq3RVP3) | [Gördön Vïëchïëlstëïn](https://open.spotify.com/artist/3lPVbcoBrGJe2KNsKWQwHp), [jaixj](https://open.spotify.com/artist/18wXu2rWY2oPRBgg9vMhup) | [Strangers in the Night \(Radio\-Edit\)](https://open.spotify.com/album/0LvLW5YsMwMZpWZt0vStMQ) | 3:29 | 2024-06-09 | 2024-06-17 |
+| [STRAYS](https://open.spotify.com/track/4u99FSiKFheD4aNlwjZJPP) | [ground score](https://open.spotify.com/artist/1IqXxACKoGdw5fz7dE6DSi) | [STRAYS](https://open.spotify.com/album/6nHFC0hHXDYXGxnkWLWW5B) | 3:21 | 2024-10-13 |  |
 | [Strobe \- Layton Giordani Remix](https://open.spotify.com/track/2So9vITovkovvxlVerZccz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Strobe \- Layton Giordani Remix](https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm) | 3:35 | 2024-09-12 | 2024-09-21 |
 | [Strong Together](https://open.spotify.com/track/6jAZBDPz197kAN6FcKIE4V) | [Johnny Bolzan](https://open.spotify.com/artist/4fKTfY2zmy8iON72LI1Oqq) | [Strong Together](https://open.spotify.com/album/3Z5roFelhHwdpAKD0pSJCV) | 2:02 | 2024-07-26 | 2024-08-02 |
 | [Struggle](https://open.spotify.com/track/15Gt5Kk0eHxbIeeuW21zFm) | [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd) | [Struggle](https://open.spotify.com/album/0heFBp1hKE9TCU8NbMiLW3) | 2:00 | 2024-09-13 | 2024-09-21 |

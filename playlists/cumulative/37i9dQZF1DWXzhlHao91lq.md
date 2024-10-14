@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-256 songs - 14 hr 34 min
+257 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-25 | 2024-04-19 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-08-08 |  |
 | [Friends](https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Friends](https://open.spotify.com/album/01iEjRypuKMgwDVw2jKxAz) | 2:11 | 2022-10-17 | 2022-10-25 |
-| [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 | 2024-04-08 |  |
+| [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 | 2024-04-08 | 2024-10-14 |
 | [Glass on the Shelf](https://open.spotify.com/track/0coaS3vPUhouAAWWhZtXYx) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Glass on the Shelf](https://open.spotify.com/album/31ig3AL64lmrzBDbuTRdJa) | 3:40 | 2023-03-06 | 2023-03-14 |
 | [God Only Knows](https://open.spotify.com/track/2I2gBMNuQAbuqcEvdmoZlF) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 2:18 | 2022-06-13 | 2022-06-20 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2022-07-25 |  |
@@ -99,6 +99,7 @@
 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 | 2022-05-30 |  |
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-05-30 | 2022-07-29 |
 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 | 2024-02-19 |  |
+| [Home](https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Home](https://open.spotify.com/album/539iarhmTZTyjeyxPQPJeL) | 3:19 | 2024-10-14 |  |
 | [Honest Man](https://open.spotify.com/track/725idQDxyOq1atgCsutMrS) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Honest Man](https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP) | 3:49 | 2024-04-08 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2022-05-30 | 2023-04-26 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW) | 2:57 | 2022-05-30 | 2022-07-28 |

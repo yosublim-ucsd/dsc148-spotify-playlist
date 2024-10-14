@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,478 songs - 2 day 7 hr 39 min
+1,479 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1201,7 +1201,7 @@
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
-| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
+| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 | 2024-10-14 |
 | [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-07-09 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |
@@ -1291,6 +1291,7 @@
 | [Tasty Nights](https://open.spotify.com/track/74vCmNQT1XOW4WXQwmi0DR) | [Pickle Bits](https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s) | [Tasty Nights](https://open.spotify.com/album/5YLX9sM6F36cFURWA3hIF7) | 2:32 | 2023-06-05 |  |
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2022-01-27 | 2023-01-20 |
 | [Tea time](https://open.spotify.com/track/0fnWJywk4S7Ximq3fEg9tI) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Tea time](https://open.spotify.com/album/0Cm6KJ5lw1XmoeCoWYUvAC) | 1:57 | 2022-08-05 | 2022-12-17 |
+| [Tears are emotional sweat](https://open.spotify.com/track/7yMF4wBYMIrHsLU8GJ8e2B) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Tears are emotional sweat](https://open.spotify.com/album/0B6SXm65XQz7bdyVGDzGng) | 2:01 | 2024-10-04 |  |
 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 | 2022-01-27 | 2022-09-17 |
 | [Teknical Development.IS \- Instrumental](https://open.spotify.com/track/5lQo3jLHAwDUJjcnh9o8FO) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:43 | 2022-11-11 | 2023-02-25 |
 | [Teknical Development.IS \- Instrumental](https://open.spotify.com/track/7kkzUPHYLyHWcqgBQgrU6v) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/3AN4WUcAGI6cEEqgyIC5P8) | 2:43 | 2022-09-16 | 2022-11-20 |

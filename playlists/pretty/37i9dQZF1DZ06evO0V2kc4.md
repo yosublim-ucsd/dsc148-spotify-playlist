@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,689 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,697 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 30 | [Colours](https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:05 |
 | 31 | [I Am A Poor Wayfaring Stranger](https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 4:41 |
 | 32 | [Catch The Wind](https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:59 |
-| 33 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
-| 34 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
+| 33 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
+| 34 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
 | 35 | [Pack Up Your Sorrows](https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:53 |
 | 36 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
 | 37 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
 | 50 | [Help Me Make It Through The Night](https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:02 |
 
-Snapshot ID: `ZwhqgAAAAADK+JrFCpo4rq8D9R57PhBf`
+Snapshot ID: `Zwm8AAAAAAD98n+6BecnVZ/9HknaUhKt`

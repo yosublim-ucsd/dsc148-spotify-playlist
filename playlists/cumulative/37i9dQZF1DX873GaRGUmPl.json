@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
@@ -1854,6 +1854,28 @@
       "duration_ms": 175800,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/2SBzyzjN6a75JGvCddno2J"
+    },
+    {
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "Friends (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
     },
     {
       "album": {

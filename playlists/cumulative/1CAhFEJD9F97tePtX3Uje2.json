@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "I WANT YOU",
+        "url": "https://open.spotify.com/album/5SfgUQ5ItNWrIqR9b8H0pn"
+      },
+      "artists": [
+        {
+          "name": "V.I.P.N",
+          "url": "https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "I WANT YOU",
+      "url": "https://open.spotify.com/track/67tXRCoy5R0Mu6pSxeYjp4"
+    },
+    {
+      "album": {
         "name": "Scattering",
         "url": "https://open.spotify.com/album/1b0CSmlpQl7ztIcYe02wkM"
       },

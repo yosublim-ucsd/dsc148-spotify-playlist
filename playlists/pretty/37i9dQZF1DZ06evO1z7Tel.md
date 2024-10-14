@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 
-> This Is Carlos Y Jose\. Los temas esenciales, todos en una lista.
+> This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,417 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,434 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 18 | [El Taxista Enamorado](https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Vienen Los Recuerdos](https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1) | 2:22 |
 | 19 | [Corrido De Armando Martínez](https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:38 |
 | 20 | [Se Vende Esta Casa](https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Rosa De Castilla](https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP) | 3:03 |
-| 21 | [Jacinto el Tullido](https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 3:52 |
-| 22 | [El Capitan Fantasma](https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:35 |
+| 21 | [El Capitan Fantasma](https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:35 |
+| 22 | [Jacinto el Tullido](https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 3:52 |
 | 23 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 2:37 |
 | 24 | [Cheque Al Portador](https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:31 |
 | 25 | [Jorge Y El Comandante](https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:44 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 33 | [Los Dos Contrabandos](https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:40 |
 | 34 | [Paloma Piquito de Oro](https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:26 |
 | 35 | [Dos Seres Que Se Aman](https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Busca Otro Amor](https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO) | 2:44 |
-| 36 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 |
+| 36 | [El Pasito Vaquero](https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Recuerdos De Carlos y Jose Vol\. 1](https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l) | 2:43 |
 | 37 | [Dos Cruces En La Curva](https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 3:47 |
-| 38 | [El Pasito Vaquero](https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Recuerdos De Carlos y Jose Vol\. 1](https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l) | 2:43 |
+| 38 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 |
 | 39 | [Ramiro Y Miguel](https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:03 |
-| 40 | [Al Pie De Un Arbol](https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:07 |
+| 40 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 41 | [La Emboscada Del Gallo](https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:54 |
-| 42 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
+| 42 | [Al Pie De Un Arbol](https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:07 |
 | 43 | [Con Cartitas](https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:13 |
 | 44 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 |
 | 45 | [El Gallo De San Juan](https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Gallo De San Juan](https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [El Gavilan De Aguaprieta](https://open.spotify.com/track/4hk3488nPDQS3btUXS2Xyq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Agallas](https://open.spotify.com/album/4ximJZUR4dgV4ecjmAlsWF) | 3:10 |
 | 50 | [Maquina 501](https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 3:00 |
 
-Snapshot ID: `ZwhqgAAAAACoJbxG3BBQc+1W03/01O89`
+Snapshot ID: `Zwm8AAAAAADh0uWHCk9EnfxxuKhXlvRj`

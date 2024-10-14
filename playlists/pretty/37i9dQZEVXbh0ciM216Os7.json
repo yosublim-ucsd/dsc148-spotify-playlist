@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADsqpD6MixF4o+9oSTGbrmX",
+  "snapshot_id": "AAAAAAAAAAAu5+Wn9T4eo+T+JIT3qob/",
   "tracks": [
     {
       "added_at": "2024-10-11 04:00:00",
@@ -31,8 +31,8 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "Sympathy is a knife featuring ariana grande",
+        "url": "https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv"
       },
       "artists": [
         {
@@ -46,35 +46,31 @@
       ],
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
-      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+      "url": "https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof"
     },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/4MWinG4vldffCa8pVOJ26i"
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/0cPsq00Sji6goDviluDhHo"
       },
       "artists": [
         {
-          "name": "King Femi",
-          "url": "https://open.spotify.com/artist/3u2XHXFnaH88I7oqCm9qTf"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Teabag da herbalist",
+          "url": "https://open.spotify.com/artist/5gQIzHOfHtBVVwcgtHaxsg"
         },
         {
           "name": "Method Man",
           "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         },
         {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/4ptUchUEXihnODzs6fNXzw"
+      "duration_ms": 208000,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/1K9TC3YyS2sT5gzn6h9Xja"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -96,9 +92,9 @@
           "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
         }
       ],
-      "duration_ms": 162687,
-      "name": "I See",
-      "url": "https://open.spotify.com/track/1fsH3mGEnWttKnz6S4Qeir"
+      "duration_ms": 157242,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1g0dXFJqYvTmFEN3LkPFza"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -515,6 +511,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Marathon Racing",
         "url": "https://open.spotify.com/album/7yQW3zLypi8fMyzB6hocOO"
       },
@@ -535,26 +551,6 @@
       "duration_ms": 184390,
       "name": "Marathon Racing",
       "url": "https://open.spotify.com/track/31vW5iPfBge4raNU2Uy2xQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted (feat. kamasi washington)",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Charli xcx & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,890 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,008 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

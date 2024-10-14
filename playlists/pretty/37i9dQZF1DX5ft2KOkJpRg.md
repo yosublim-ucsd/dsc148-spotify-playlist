@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ft2KOkJpRg.md) - [plain]
 
 > solo recuerda el día en que te conocí, un jueves 10 😔🥀💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,092 likes - 78 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,215 likes - 78 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

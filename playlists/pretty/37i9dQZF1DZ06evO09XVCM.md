@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 ### [This Is Ziggy Marley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09XVCM)
 
-> This Is Ziggy Marley\. Los temas esenciales, todos en una lista.
+> This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,512 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,516 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 37 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 |
 | 38 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
 | 39 | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 |
-| 40 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
-| 41 | [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 |
+| 40 | [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 |
+| 41 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
 | 42 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 |
 | 43 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
-| 44 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
-| 45 | [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 |
-| 46 | [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 |
+| 44 | [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 |
+| 45 | [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 |
+| 46 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
 | 47 | [This Train \(feat\. Willie Nelson\)](https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:38 |
 | 48 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
 | 49 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 |
 | 50 | [Black Cat](https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 2:41 |
 
-Snapshot ID: `ZwhqgAAAAADmcxj9MtP7TdgVAmD2aJ3f`
+Snapshot ID: `Zwm8AAAAAABa+mLfTb806B6QP2vx04UC`

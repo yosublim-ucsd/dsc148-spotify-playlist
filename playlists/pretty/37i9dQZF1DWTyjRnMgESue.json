@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80303,
+  "num_followers": 80318,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -351,22 +355,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -587,6 +571,54 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -611,22 +643,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fighting For - Hailey Whitters Version",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
       "artists": [
         {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 249523,
-      "name": "Fighting For - (Hailey Whitters Version)",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+        "name": "Fighting For - Hailey Whitters Version",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Crimes of the Heart",
-      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Starling",
-        "url": "https://open.spotify.com/album/70hcrcjqV7wtpXOTLMMgJ7"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 242636,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/6IR4qfEu8sswMYBuQUyQAw"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Wishes",
         "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 249138,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Starling",
+        "url": "https://open.spotify.com/album/70hcrcjqV7wtpXOTLMMgJ7"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 242636,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/6IR4qfEu8sswMYBuQUyQAw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
         }
       ],
-      "duration_ms": 209770,
-      "name": "Carry You On",
-      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
+      "duration_ms": 190195,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1183,6 +1183,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Carry You On",
+      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },
       "artists": [
         {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
         }
       ],
-      "duration_ms": 190195,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

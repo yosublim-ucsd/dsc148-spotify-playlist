@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR"
@@ -1238,6 +1238,24 @@
       "duration_ms": 210213,
       "name": "How Can You Swallow So Much Sleep",
       "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love?",
+        "url": "https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387640,
+      "name": "How Deep Is Your Love?",
+      "url": "https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Calibre 50](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wpQxW)
 
-> This is Calibre 50\. The essential tracks, all in one playlist.
+> This Is Calibre 50\. Los temas esenciales, todos en una lista.
 
 74 songs - 3 hr 57 min
 
@@ -16,7 +16,7 @@
 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 | 2023-08-08 |  |
 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 | 2023-08-10 | 2024-04-04 |
 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 | 2024-01-27 |  |
-| [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 | 2024-04-23 |  |
+| [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 | 2024-04-23 | 2024-10-14 |
 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 | 2024-08-09 |  |
 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 | 2023-08-08 | 2024-08-09 |
@@ -37,7 +37,7 @@
 | [El Niño Sicario](https://open.spotify.com/track/4gLEbXINCGCMmqfnWa5iqw) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 4:46 | 2024-06-30 |  |
 | [El Niño Sicario](https://open.spotify.com/track/1sVNgN59IWB81LiT1Agz9e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 4:46 | 2023-08-08 | 2024-06-30 |
 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 | 2023-08-08 |  |
-| [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 | 2023-08-08 | 2024-04-29 |
+| [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 | 2023-08-08 |  |
 | [El Viejo](https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 3:50 | 2023-08-08 |  |
 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 | 2023-08-08 |  |
 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 | 2023-08-08 |  |

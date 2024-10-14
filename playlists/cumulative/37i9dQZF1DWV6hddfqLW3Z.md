@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-164 songs - 9 hr 54 min
+165 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(Álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 | 2022-08-19 |  |
 | [Janta](https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl) | [Marcelo Camelo](https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR) | [Sou](https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A) | 3:24 | 2023-06-16 | 2023-08-08 |
 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 | 2022-08-19 | 2024-04-19 |
-| [Lança Perfume](https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 5:14 | 2024-04-05 |  |
+| [Lança Perfume](https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 5:14 | 2024-04-05 | 2024-10-14 |
 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 | 2022-08-19 |  |
 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 | 2024-04-05 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-08-19 |  |
@@ -89,7 +89,8 @@
 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 | 2022-08-19 |  |
 | [Morro Dois Irmãos](https://open.spotify.com/track/0KFRKD16R8XL619JkEh241) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Morro Dois Irmãos](https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16) | 4:19 | 2023-06-02 | 2023-06-17 |
 | [Moço](https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Moço](https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs) | 4:27 | 2023-06-02 | 2023-06-17 |
-| [Mundo Livre](https://open.spotify.com/track/750UCyeKNcmpRQmJ2ZmPgR) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Mundo Livre](https://open.spotify.com/album/5gm7GD0exznuIqxRCHHM9B) | 2:48 | 2024-10-11 |  |
+| [Mundo Livre](https://open.spotify.com/track/750UCyeKNcmpRQmJ2ZmPgR) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ), [Pio Rodrigues Neto](https://open.spotify.com/artist/7yFpl7sixRaAvmFejezwZt) | [Mundo Livre](https://open.spotify.com/album/5gm7GD0exznuIqxRCHHM9B) | 2:48 | 2024-10-11 |  |
+| [Mutirão de Amor \- Ao Vivo](https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Eterna Alegria \(Special Edition\) \- Ao Vivo](https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z) | 3:25 | 2024-10-11 |  |
 | [Neste Contexto](https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Neste Contexto](https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE) | 3:02 | 2024-04-01 | 2024-07-06 |
 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 | 2022-08-19 |  |
 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 | 2022-08-19 | 2024-04-19 |

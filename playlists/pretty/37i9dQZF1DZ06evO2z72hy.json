@@ -1,12 +1,12 @@
 {
   "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
-  "num_followers": 83906,
+  "num_followers": 83924,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADfwwUfIaH7sZIuc5mfUgiP",
+  "snapshot_id": "Zwm8AAAAAADTqiO7amVyP2BFsQfSdIPD",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Piensame",
-      "url": "https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 188080,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Piensame",
+      "url": "https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiliente",
         "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Could You Be Loved",
         "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
       },
@@ -551,86 +551,6 @@
       "duration_ms": 338653,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00f3tem",
-        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
-      },
-      "artists": [
-        {
-          "name": "Shamanes Crew",
-          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
-        },
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Tiano Bless",
-          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "San\u00e1ndonos",
-      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        },
-        {
-          "name": "Matthew Jacquette",
-          "url": "https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE"
-        }
-      ],
-      "duration_ms": 204152,
-      "name": "We Push Away Good Memories",
-      "url": "https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliente",
-        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Absalom",
-      "url": "https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 247999,
-      "name": "Nada Cambio",
-      "url": "https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm"
     },
     {
       "added_at": null,
@@ -667,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
       },
       "artists": [
         {
@@ -676,9 +596,73 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 194749,
-      "name": "Susurro",
-      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
+      "duration_ms": 204933,
+      "name": "Absalom",
+      "url": "https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        },
+        {
+          "name": "Matthew Jacquette",
+          "url": "https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE"
+        }
+      ],
+      "duration_ms": 204152,
+      "name": "We Push Away Good Memories",
+      "url": "https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 247999,
+      "name": "Nada Cambio",
+      "url": "https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
+      },
+      "artists": [
+        {
+          "name": "Shamanes Crew",
+          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "San\u00e1ndonos",
+      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Para Quien Avanza",
-      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
+      "duration_ms": 194749,
+      "name": "Susurro",
+      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 233465,
       "name": "Mejor que intentes otra vez",
       "url": "https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Para Quien Avanza",
+      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La 100 Vivo! 2da Edici\u00f3n (Parte 2)",
-        "url": "https://open.spotify.com/album/028601b3iM0PZtzD76eKRv"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 216865,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gondwana En Vivo En Buenos Aires",
         "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
@@ -812,9 +796,25 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 226480,
-      "name": "Sigo creyendo",
-      "url": "https://open.spotify.com/track/5G27QQ1ydgYpI2FAKwSIot"
+      "duration_ms": 222093,
+      "name": "Warning!",
+      "url": "https://open.spotify.com/track/4YvGJze3VIIxtOQzSWaQLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La 100 Vivo! 2da Edici\u00f3n (Parte 2)",
+        "url": "https://open.spotify.com/album/028601b3iM0PZtzD76eKRv"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 216865,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 219561,
-      "name": "No Es el Fin",
-      "url": "https://open.spotify.com/track/0O5IS3ScZsV9A3Z84eBHzy"
+      "duration_ms": 226480,
+      "name": "Sigo creyendo",
+      "url": "https://open.spotify.com/track/5G27QQ1ydgYpI2FAKwSIot"
     }
   ],
   "unique_name": "This Is Gondwana",

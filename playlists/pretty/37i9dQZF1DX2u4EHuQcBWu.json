@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 199400,
+  "num_followers": 199453,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,54 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 343701,
+      "name": "El Baile De Los Que Sobran",
+      "url": "https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Donde Jurgaran Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/5SFYZd4HOnlHunnO1z6y09"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6FY8Imjs6YSglIAqnbU9mM"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -267,50 +315,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Donde Jurgaran Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/5SFYZd4HOnlHunnO1z6y09"
+        "name": "Cuba Classics 1: Silvio Rodriguez",
+        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 250293,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6FY8Imjs6YSglIAqnbU9mM"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Pateando Piedras",
-        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 343701,
-      "name": "El Baile De Los Que Sobran",
-      "url": "https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "El Aguante",
-      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+      "duration_ms": 351400,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cuba Classics 1: Silvio Rodriguez",
-        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "HILDA CANTA CHARLY",
         "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 209005,
       "name": "Los dinosaurios",
       "url": "https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        }
-      ],
-      "duration_ms": 257181,
-      "name": "Escribo Rap Con R De Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -471,6 +451,26 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "duration_ms": 257181,
+      "name": "Escribo Rap Con R De Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -695,6 +695,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 242216,
+      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
+      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
       },
@@ -723,54 +755,6 @@
       "duration_ms": 272800,
       "name": "En Paro",
       "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 242216,
-      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
-      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -823,6 +807,42 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        }
+      ],
+      "duration_ms": 226922,
+      "name": "Somos Sur",
+      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 483360,
       "name": "El Padre Antonio - Y El Monaguillo Andres",
       "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Shadia Mansour",
-          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
-        }
-      ],
-      "duration_ms": 226922,
-      "name": "Somos Sur",
-      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Antifa Dance",
+        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Antifa Dance",
+      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
         "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 284693,
       "name": "Cancion Pacifico-Violenta",
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Antifa Dance",
-        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Antifa Dance",
-      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Le\u00f3n Gieco",
+        "url": "https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "S\u00f3lo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 237080,
       "name": "Rompan Todo",
       "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Le\u00f3n Gieco",
-        "url": "https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "S\u00f3lo Le Pido A Dios",
-      "url": "https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "M\u00fasica Guerrera",
         "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+        }
+      ],
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "2 de Octubre",
+      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Nada en Contra del K-pop",
         "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 256306,
       "name": "Balada Del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "2 de Octubre",
-      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
-        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
-      },
-      "artists": [
-        {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
-        },
-        {
-          "name": "Paulina Lasa",
-          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Verte Regresar",
-      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1479,22 +1455,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Gieco Y Heredia En Vivo",
-        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
+        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
+        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
         },
         {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+          "name": "Paulina Lasa",
+          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 226120,
-      "name": "Todavia Cantamos",
-      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
+      "duration_ms": 182439,
+      "name": "Verte Regresar",
+      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1515,6 +1495,42 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
+        "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
+      "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Gieco Y Heredia En Vivo",
+        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "Todavia Cantamos",
+      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
-        "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
-      "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Dieta del Lagarto",
-        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Empresaurio",
-      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mar\u00eda Land\u00f3",
         "url": "https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 270088,
       "name": "Mar\u00eda Land\u00f3",
       "url": "https://open.spotify.com/track/1GVgU5BK361ZtYx17yxaUZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "La Dieta del Lagarto",
+        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Empresaurio",
+      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
     },
     {
       "added_at": "2024-05-10 03:00:00",

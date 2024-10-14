@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 200716,
+  "num_followers": 200736,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAAC8wflq7QRj45H84GCEoOZr",
+  "snapshot_id": "Zwm8AAAAAADWqXKUsmJgXbd8Lkcxjsyc",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+      "duration_ms": 294155,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
     },
     {
       "added_at": null,
@@ -443,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 294155,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
     },
     {
       "added_at": null,

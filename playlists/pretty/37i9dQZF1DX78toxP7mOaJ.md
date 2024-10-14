@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: shego
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,300 likes - 126 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,334 likes - 126 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

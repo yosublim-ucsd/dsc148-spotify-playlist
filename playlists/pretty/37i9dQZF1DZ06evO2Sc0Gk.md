@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,540 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 14 | [Saudi Arabia](https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 1:59 |
 | 15 | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh) | 3:24 |
 | 16 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 17 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 |
-| 18 | [Doyin](https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Doyin](https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9) | 2:33 |
+| 17 | [Doyin](https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Doyin](https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9) | 2:33 |
+| 18 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 |
 | 19 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
 | 20 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
 | 21 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Oh My Gawd](https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd](https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0) | 3:00 |
 | 50 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
 
-Snapshot ID: `ZwhqgAAAAAA/WGGvPr+I2GYhPEChdUmW`
+Snapshot ID: `Zwm8AAAAAAC90T6DY038ltxUupR7jJL3`

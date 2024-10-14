@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI-fhS1qjt9pyyAggSQ>Judikay</a>",
-  "num_followers": 77368,
+  "num_followers": 77545,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -553,26 +553,6 @@
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
@@ -591,6 +571,26 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -865,26 +865,6 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
-      "added_at": "2024-08-30 00:01:00",
-      "album": {
-        "name": "Yes Sir",
-        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Mercy",
@@ -907,6 +887,26 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "added_at": "2024-08-30 00:01:00",
+      "album": {
+        "name": "Yes Sir",
+        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "B'ola (Live)",
+        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Sola Allyson",
+          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 650499,
+      "name": "B'ola (Live)",
+      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -997,6 +1001,22 @@
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
       "added_at": "2024-08-30 00:01:00",
       "album": {
         "name": "Lead Me",
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "B'ola (Live)",
-        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Sola Allyson",
-          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
-        }
-      ],
-      "duration_ms": 650499,
-      "name": "B'ola (Live)",
-      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 364762,
       "name": "Kadosh",
       "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Talk & Do",
         "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
       },
@@ -1107,26 +1107,6 @@
       "duration_ms": 165254,
       "name": "Talk & Do",
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Frankincense",
-        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Ka Anyi Bulie (feat. Don Moen)",
-      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1149,6 +1129,26 @@
       "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Frankincense",
+        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Ka Anyi Bulie (feat. Don Moen)",
+      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
+    },
+    {
       "added_at": "2024-04-26 00:01:00",
       "album": {
         "name": "El-Roi",
@@ -1163,6 +1163,22 @@
       "duration_ms": 224070,
       "name": "El-Roi",
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Lai Lai",
+        "url": "https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn"
+      },
+      "artists": [
+        {
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
+        }
+      ],
+      "duration_ms": 167094,
+      "name": "Lai Lai",
+      "url": "https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 153103,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Lai Lai",
-        "url": "https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn"
-      },
-      "artists": [
-        {
-          "name": "Aremmic",
-          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
-        }
-      ],
-      "duration_ms": 167094,
-      "name": "Lai Lai",
-      "url": "https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
     },
     {
-      "added_at": "2024-09-06 00:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "The Conqueror\u2019s Chant (Agalliao)",
@@ -1407,6 +1391,22 @@
       "duration_ms": 524409,
       "name": "The Conqueror\u2019s Chant (Agalliao)",
       "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
+    },
+    {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "God Reigns",
-        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "You Saved Me",
-      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Apostolos (Sounds of Transition)",
@@ -1575,6 +1559,26 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Watching All over Me",
+        "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Watching All over Me",
+      "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
     }
   ],
   "unique_name": "Be Lifted ",

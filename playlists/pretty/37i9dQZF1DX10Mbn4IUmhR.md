@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5?si=wL5NXq6BQyaWosHAJTCy5w">Gracie Abrams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

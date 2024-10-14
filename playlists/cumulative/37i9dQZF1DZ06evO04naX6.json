@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "AFTERPARTY",
+      "url": "https://open.spotify.com/track/17MinbZK1ISSSPrRFCqrDV"
+    },
+    {
+      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -186,7 +208,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 318259,
       "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
       "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"

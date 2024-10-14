@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,882 songs - 6 day 9 hr 22 min
+2,883 songs - 6 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 | 2022-10-21 | 2022-11-05 |
 | [Bicycle \(Rework\)](https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle \(Rework\)](https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK) | 3:05 | 2023-01-06 | 2023-01-21 |
 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 | 2023-07-07 | 2023-07-15 |
+| [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 | 2024-10-11 |  |
 | [Big boy](https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Big boy](https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7) | 2:29 | 2022-09-30 | 2022-10-15 |
 | [Big Day](https://open.spotify.com/track/4nltl0ZfRm7L6YrNduGARB) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Big Day](https://open.spotify.com/album/3C8wMCFoToMmA4tFFd04tG) | 2:53 | 2024-02-16 | 2024-03-02 |
 | [Big Pharma](https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Prinzly](https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1) | [Club des Coeurs Solitaires](https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo) | 4:35 | 2023-11-24 | 2023-12-16 |
@@ -2016,7 +2017,7 @@
 | [Personne pour écouter](https://open.spotify.com/track/5x7unXijaVCzrVhdcPFjuJ) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Personne pour écouter](https://open.spotify.com/album/46IG5QSRdDVkVdYxoBaOG1) | 3:37 | 2024-08-30 | 2024-09-07 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2024-05-03 | 2024-05-11 |
 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-20 |  |
-| [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 |  |
+| [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 | 2024-10-14 |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |

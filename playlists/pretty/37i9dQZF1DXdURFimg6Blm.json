@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1428637,
+  "num_followers": 1428690,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -151,26 +151,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "I've Arrived (with Tomike)",
-        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        },
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 150923,
-      "name": "I've Arrived (with Tomike)",
-      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "duration_ms": 92226,
+      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
-        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Shamiya Battles",
-          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
-        }
-      ],
-      "duration_ms": 92226,
-      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
-      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Receipts (feat. Gunna)",
-        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Receipts (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Dudada",
         "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
       },
@@ -1647,18 +1623,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Choose Your Fighter (From Barbie The Album)",
         "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Zeros (feat. Headie One)",
         "url": "https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub"
       },
@@ -1955,22 +1971,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Like Wooh Wooh",
         "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-10-04 04:00:00",

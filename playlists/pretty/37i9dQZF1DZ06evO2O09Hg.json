@@ -1,12 +1,12 @@
 {
-  "description": "This is Juice WRLD. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1585861,
+  "description": "This Is Juice WRLD. Los temas esenciales, todos en una lista.",
+  "num_followers": 1585967,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABx/UreLNrFaFyRrvJYcLq8",
+  "snapshot_id": "Zwm8AAAAAACHmZCRedCP+VGC9WGvG75A",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Suicidal (Remix) [feat. Juice WRLD]",
+        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 189322,
-      "name": "Bandit (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
+      "duration_ms": 225857,
+      "name": "Suicidal (feat. Juice WRLD) - Remix",
+      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
     },
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suicidal (Remix) [feat. Juice WRLD]",
-        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 225857,
-      "name": "Suicidal (feat. Juice WRLD) - Remix",
-      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
+      "duration_ms": 189322,
+      "name": "Bandit (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STOKELEY",
         "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 166400,
       "name": "Nuketown (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "lonely is the muse! Foto: Halsey",
-  "num_followers": 112507,
+  "num_followers": 112501,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -163,18 +147,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 149835,
-      "name": "OFF MY FACE",
-      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -191,6 +175,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -275,26 +259,6 @@
       "duration_ms": 151027,
       "name": "Explode!",
       "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 300213,
-      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -363,6 +327,42 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Camadas",
         "url": "https://open.spotify.com/album/3CiqBBWdpsCeEOpUIPE3yz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 228000,
       "name": "Camadas",
       "url": "https://open.spotify.com/track/1FJcwfMjSB0HAbSgiv4LJW"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -483,22 +483,6 @@
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "leave me for dead",
-        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "leave me for dead",
-      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -551,6 +535,42 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -583,38 +603,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6yJkO476ilaoawcOVa0JqD"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "A ONDA",
-        "url": "https://open.spotify.com/album/68c9VYmRhQo7KdGo1CWXcs"
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 186302,
-      "name": "A ONDA",
-      "url": "https://open.spotify.com/track/1WFUR7D53hV8D7HoufoTWm"
+      "duration_ms": 166854,
+      "name": "NOCTURNAL",
+      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
+        "name": "A ONDA",
+        "url": "https://open.spotify.com/album/68c9VYmRhQo7KdGo1CWXcs"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
         }
       ],
-      "duration_ms": 166854,
-      "name": "NOCTURNAL",
-      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
+      "duration_ms": 186302,
+      "name": "A ONDA",
+      "url": "https://open.spotify.com/track/1WFUR7D53hV8D7HoufoTWm"
     },
     {
       "added_at": "2024-10-04 03:00:00",

@@ -2,16 +2,17 @@
 
 ### [This Is Lizzo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZTWSp)
 
-> This is Lizzo\. The essential tracks, all in one playlist.
+> This Is Lizzo\. Les titres incontournables, réunis dans une seule et même playlist.
 
-72 songs - 3 hr 58 min
+73 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-10-10 |  |
 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 | 2023-10-10 |  |
 | [A Change Is Gonna Come \(feat\. Lizzo\) \- Live at SXSW 2013](https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Spotify Sessions \(Live at SXSW 2014\)](https://open.spotify.com/album/36YdveJJhT49E0blTQODsS) | 5:16 | 2023-10-10 |  |
-| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-10-10 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-10-10 | 2024-10-14 |
+| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2024-10-14 |  |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2023-10-10 |  |
 | [Ain't I](https://open.spotify.com/track/0uaeowtteE1XHrrC79oTfT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:56 | 2024-05-10 | 2024-07-24 |
 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 | 2023-10-10 |  |
@@ -53,7 +54,7 @@
 | [Lizzie Borden](https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 2:37 | 2023-10-10 |  |
 | [Luv It](https://open.spotify.com/track/3LTyuPKZiIGdhRtP2SHjqh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:03 | 2024-05-19 | 2024-07-24 |
 | [My Skin](https://open.spotify.com/track/6Dzt5qOuxnYHHXbOlhVhZc) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 4:18 | 2024-05-10 | 2024-07-24 |
-| [Naked](https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:00 | 2024-05-10 |  |
+| [Naked](https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:00 | 2024-05-10 | 2024-10-14 |
 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 | 2023-10-10 |  |
 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/6xyJHp3nAJGOc2Xy7ACsg1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) | 3:46 | 2024-03-13 | 2024-08-07 |
 | [Paris](https://open.spotify.com/track/1criDzaWgUFbgT69WoqjjX) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:11 | 2024-06-09 | 2024-07-24 |

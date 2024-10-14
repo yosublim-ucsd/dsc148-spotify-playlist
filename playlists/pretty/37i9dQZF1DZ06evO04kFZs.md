@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 ### [This Is Pop Smoke](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04kFZs)
 
-> This is Pop Smoke\. Todos os maiores hits em uma só playlist.
+> This Is Pop Smoke\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,683 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,716 likes - 46 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \- Deluxe](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
 | 46 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
 
-Snapshot ID: `ZwhqgAAAAADiyoWLFGmQSUSIqaDE7zDN`
+Snapshot ID: `Zwm8AAAAAAA3uwhwU1NOnx3J/fACO62S`

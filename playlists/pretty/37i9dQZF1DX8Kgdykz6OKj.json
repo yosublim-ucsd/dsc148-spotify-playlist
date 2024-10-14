@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1351230,
+  "num_followers": 1351781,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -239,18 +235,18 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
         }
       ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -519,6 +519,46 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Paul Ferguson",
+          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
+        },
+        {
+          "name": "Baybe",
+          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Feel The Music",
+      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -571,22 +611,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Paul Ferguson",
-          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
-        },
-        {
-          "name": "Baybe",
-          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Feel The Music",
-      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
       "artists": [
         {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
         }
       ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1251,6 +1235,22 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "DADADOO",
-        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "DADADOO",
-      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "DADADOO",
+        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "DADADOO",
+      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
+        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193721,
+      "name": "Menthol (Live) - Spotify Ten Version",
+      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Nigga Dreams",
         "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 177977,
       "name": "Nigga Dreams",
       "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
-        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193721,
-      "name": "Menthol (Live) - Spotify Ten Version",
-      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1791,26 +1791,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Morning Walk",
-        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
       "artists": [
         {
-          "name": "AzMattic",
-          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
         },
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        },
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 193450,
-      "name": "Morning Walk",
-      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1835,22 +1831,26 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "AzMattic",
+          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
         },
         {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 193450,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
     },
     {
       "added_at": "2024-10-11 06:46:18",

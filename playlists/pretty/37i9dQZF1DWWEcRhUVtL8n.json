@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Faye Webster",
-  "num_followers": 1687708,
+  "num_followers": 1687713,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 204857,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs"
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -623,22 +607,6 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -663,6 +631,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181586,
       "name": "Touching Yourself",
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -777,20 +777,24 @@
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -811,22 +815,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -843,6 +831,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Summer Song",
         "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
       },
@@ -855,6 +875,22 @@
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -891,42 +927,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "My House Is Not A Home",
-        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 239181,
-      "name": "My House Is Not A Home",
-      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "brown eyes*",
         "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "You Keep Me Up At Night",
         "url": "https://open.spotify.com/album/3Tt8qHRIi8pRlMLISmVQE3"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1321,90 +1305,6 @@
       "url": "https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 176632,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Cacophony",
-        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 259273,
-      "name": "last woman on earth",
-      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Ghost of Chicago",
-        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 187100,
-      "name": "Ghost of Chicago",
-      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 113385,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Love Me Not (feat. Rex Orange County)",
@@ -1427,6 +1327,106 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 259273,
+      "name": "last woman on earth",
+      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Good Neighbours",
         "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 186405,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Blackout Drunk",
-        "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "Blackout Drunk",
-      "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Blackout Drunk",
+        "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 148021,
+      "name": "Blackout Drunk",
+      "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
     },
     {
       "added_at": "2024-09-13 04:00:00",

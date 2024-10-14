@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30469,
+  "num_followers": 30474,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,38 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -415,38 +447,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 205276,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05d7\u05dc\u05dc",
+        "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 252231,
+      "name": "\u05d7\u05dc\u05dc",
+      "url": "https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
         "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 218500,
       "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
       "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -571,38 +587,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
-        "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
-      },
-      "artists": [
-        {
-          "name": "Avihu Pinhasov Rhythm Club",
-          "url": "https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r"
-        }
-      ],
-      "duration_ms": 234477,
-      "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
-      "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "\u05d7\u05dc\u05dc",
-        "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 252231,
-      "name": "\u05d7\u05dc\u05dc",
-      "url": "https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d0'",
         "url": "https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
+      },
+      "artists": [
+        {
+          "name": "Avihu Pinhasov Rhythm Club",
+          "url": "https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r"
+        }
+      ],
+      "duration_ms": 234477,
+      "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
         "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
       },
@@ -631,6 +631,38 @@
       "duration_ms": 159679,
       "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
       "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -655,22 +687,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
         "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 174585,
       "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
       "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05dc\u05d9\u05df",
         "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 195000,
       "name": "\u05dc\u05d9\u05df",
       "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
       "artists": [
         {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
-        },
-        {
-          "name": "VuVuVu",
-          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 229362,
-      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
       "artists": [
         {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "VuVuVu",
+          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
         }
       ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+      "duration_ms": 229362,
+      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
-      },
-      "artists": [
-        {
-          "name": "Noifeld's Glasses",
-          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
-        },
-        {
-          "name": "Guy Mazig",
-          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
         "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 343074,
       "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
       "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+      },
+      "artists": [
+        {
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
     },
     {
       "added_at": "2024-10-10 21:00:00",

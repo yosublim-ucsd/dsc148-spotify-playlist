@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-56 songs - 5 hr 4 min
+57 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 |  |
 | [Lord Reign in Me](https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8) | [Watershed Worship](https://open.spotify.com/artist/6ylTf1eWq7u2VNgnY3bj9w) | [Audience of One](https://open.spotify.com/album/7lloLTbXisV6ZJjheZLQDZ) | 1:56 | 2024-09-27 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2024-10-04 |  |
+| [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 | 2024-10-11 |  |
 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 | 2024-09-27 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 |  |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
@@ -50,7 +51,7 @@
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-09-27 | 2024-10-01 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2024-09-27 |  |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2024-09-27 |  |
-| [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2024-09-27 |  |
+| [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2024-09-27 | 2024-10-14 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2024-09-27 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-09-27 |  |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-09-27 |  |

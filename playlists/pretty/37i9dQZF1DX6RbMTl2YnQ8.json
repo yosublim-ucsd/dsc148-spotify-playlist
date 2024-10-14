@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n",
-  "num_followers": 251930,
+  "num_followers": 252033,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Finisterra",
         "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 296751,
       "name": "Fiesta Pagana",
       "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Amantes Sunt Amentes",
+        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -267,18 +267,50 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Los Malaventurados No Lloran",
-      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -335,54 +367,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -447,18 +415,18 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -479,6 +447,22 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -527,6 +495,22 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
         "name": "Revoluci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
       "added_at": "2024-06-12 20:40:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,718 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,735 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 17 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\) \- Single Version](https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [San Francisco](https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez) | 2:58 |
 | 18 | [Un Beso Y Una Flor](https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 4:32 |
 | 19 | [Piano Man](https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) | 5:36 |
-| 20 | [Fuiste Mía un Verano](https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 2:55 |
-| 21 | [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 |
+| 20 | [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 |
+| 21 | [Fuiste Mía un Verano](https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 2:55 |
 | 22 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
 | 23 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
 | 24 | [Todas las Hojas Son del Viento](https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 2:10 |
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 35 | [Tengo](https://open.spotify.com/track/4ADkfiY6Dejdr3ukiLF4MJ) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 2:02 |
 | 36 | [Confesiones de Invierno](https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 4:05 |
 | 37 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 |
-| 38 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 |
-| 39 | [Soy un Truhán, Soy un Señor](https://open.spotify.com/track/2XDrvJ6uhiwVLNj25eDCLW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A MIS 33 AÑOS](https://open.spotify.com/album/6CCoLPMFkWAwd08TZzvQlY) | 3:03 |
-| 40 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
+| 38 | [Soy un Truhán, Soy un Señor](https://open.spotify.com/track/2XDrvJ6uhiwVLNj25eDCLW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A MIS 33 AÑOS](https://open.spotify.com/album/6CCoLPMFkWAwd08TZzvQlY) | 3:03 |
+| 39 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
+| 40 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 |
 | 41 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
 | 42 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 |
-| 43 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
-| 44 | [Quiereme Mucho \- Yours](https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 4:06 |
-| 45 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
-| 46 | [Eres Tú](https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Serie Platino](https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g) | 3:27 |
+| 43 | [Quiereme Mucho \- Yours](https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 4:06 |
+| 44 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
+| 45 | [Eres Tú](https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Serie Platino](https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g) | 3:27 |
+| 46 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
 | 47 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
 | 48 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
 | 49 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |

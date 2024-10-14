@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,938 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,980 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 32 | [Reflection \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 2:39 |
 | 33 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:59 |
 | 34 | [Tough Lover \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:00 |
-| 35 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 |
+| 35 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 36 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 |
-| 37 | [Not Myself Tonight](https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:06 |
+| 37 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
 | 38 | [Something's Got A Hold On Me \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 3:04 |
-| 39 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
-| 40 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
+| 39 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 |
+| 40 | [Not Myself Tonight](https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:06 |
 | 41 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
 | 42 | [But I Am A Good Girl \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:29 |
 | 43 | [Contigo en la Distancia](https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 50 | [Tell Me \(feat\. Christina Aguilera\)](https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:06 |
 | 51 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 |
 
-Snapshot ID: `ZwhqgAAAAAA/B9I0/XF/jaXo4p0HdSux`
+Snapshot ID: `Zwm8AAAAAAAUEE6N57uMlKPxyvfpUMJO`

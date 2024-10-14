@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring The Mar\u00edas.",
-  "num_followers": 165739,
+  "num_followers": 165738,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Destrucci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
@@ -323,38 +323,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 178041,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -379,18 +359,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
+      "duration_ms": 178041,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -407,6 +391,22 @@
       "duration_ms": 189801,
       "name": "Meu Amore",
       "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Se siente bien",
         "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Si Esto Es",
         "url": "https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Discoman\u00eda",
         "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Live For Me",
-        "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Live For Me",
-      "url": "https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb"
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 212160,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Live For Me",
+        "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Live For Me",
+      "url": "https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "deja vu",
         "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 142329,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Radiocaset",
         "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 182546,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "CELL",
-        "url": "https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "CELL",
-      "url": "https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "CELL",
+        "url": "https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "CELL",
+      "url": "https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc"
     },
     {
       "added_at": "2024-09-20 04:00:00",

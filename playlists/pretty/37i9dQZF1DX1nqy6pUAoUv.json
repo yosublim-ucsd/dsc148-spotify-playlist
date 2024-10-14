@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 180629,
+  "num_followers": 180642,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
+        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 303626,
+      "name": "Lockdown On Date Night Tuesday",
+      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
-        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 303626,
-      "name": "Lockdown On Date Night Tuesday",
-      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Poor David's Almanack",
-        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
-      },
-      "artists": [
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Poor David's Almanack",
+        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
+      },
+      "artists": [
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "Walk Through Fire",
-      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Love Will Win the War",
-      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+      "duration_ms": 234826,
+      "name": "Avalon (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,728,102 likes - 42 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,728,256 likes - 42 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 25 | [Psycho \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:41 |
 | 26 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 |
 | 27 | [Ain’t How It Ends](https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:21 |
-| 28 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
+| 28 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
 | 29 | [Candy Paint](https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:47 |
-| 30 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
+| 30 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 31 | [Dead At The Honky Tonk](https://open.spotify.com/track/0b89M5bonRIcsR781e4xGT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:33 |
 | 32 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
 | 33 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 41 | [Homemade Dynamite \(Feat\. Khalid, Post Malone & SZA\) \- REMIX](https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Homemade Dynamite \(Feat\. Khalid, Post Malone & SZA\) \[REMIX\]](https://open.spotify.com/album/7kXQ0AvaykUJMxR0gRfr4d) | 3:34 |
 | 42 | [Overdrive](https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:27 |
 
-Snapshot ID: `ZwhqgAAAAAAPOB8yYrkJkT7DKu0OYTi3`
+Snapshot ID: `Zwm8AAAAAAByBpZwqgCJQiftmZRBXHIV`

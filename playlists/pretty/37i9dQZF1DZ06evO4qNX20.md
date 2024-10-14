@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 ### [This Is Chalino Sanchez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qNX20)
 
-> This Is Chalino Sanchez\. Los temas esenciales, todos en una lista.
+> This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,527 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,623 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 42 | [Eladio Félix](https://open.spotify.com/track/4a2GA2x6dwdI8jy2YaWZ3j) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:39 |
 | 43 | [Dinastía De Los Ochoa](https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:09 |
 | 44 | [Nieves De Enero \(A Dueto Con Chalino Sánchez\)](https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [30 Éxitos Con El Inolvidable](https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb) | 3:33 |
-| 45 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 |
-| 46 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 |
+| 45 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 |
+| 46 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 |
 | 47 | [Flor Margarita](https://open.spotify.com/track/4JwdKHP4C2d4sc3KakrPiK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [26 Exitos Favoritos de la Raza](https://open.spotify.com/album/55Iyqdjed7KB5AgQFDPz6N) | 3:35 |
 | 48 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
 | 49 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
 
-Snapshot ID: `ZwhqgAAAAADA0d4aLG26qHkHozd6RomD`
+Snapshot ID: `Zwm8AAAAAAA7Xm7RBmI2+/a+a8VGNwXQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 136388,
+  "num_followers": 136394,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAADCW3jc1VFqrQgBM7acU0qg",
+  "snapshot_id": "Zwm8AAAAAABXPXUMiguXNG9NKJeaKaCW",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 291410,
-      "name": "10,000 Reasons (Bless The Lord)",
-      "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
+      "duration_ms": 349545,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 349545,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
+      "duration_ms": 291410,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 229680,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 229680,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -668,9 +668,29 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 326960,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Forever (Instrumental)",
+        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
+      },
+      "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 480193,
+      "name": "Holy Forever - Instrumental",
+      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
     },
     {
       "added_at": null,
@@ -707,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Forever (Instrumental)",
-        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
-      },
-      "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 480193,
-      "name": "Holy Forever - Instrumental",
-      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+      "duration_ms": 326960,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
     },
     {
       "added_at": null,

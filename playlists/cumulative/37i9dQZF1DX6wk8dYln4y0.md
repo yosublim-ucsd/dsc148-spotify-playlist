@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: keshi
 
-349 songs - 19 hr 23 min
+350 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2023-04-28 | 2024-06-28 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-04-28 | 2023-12-20 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-16 | 2024-06-12 |
+| [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-11 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2023-03-16 | 2023-09-02 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-08-31 | 2024-07-19 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2023-03-16 | 2024-06-28 |
@@ -226,7 +227,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-07-09 |  |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-11-04 |  |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-08-25 |  |
-| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2024-08-27 |  |
+| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2024-08-27 | 2024-10-14 |
 | [Oontz](https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Oontz](https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS) | 3:01 | 2024-07-18 | 2024-08-28 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-05-10 | 2023-05-30 |
 | [Out of the Blue](https://open.spotify.com/track/2gyibgga6kveFORdRYvJAu) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [Out of the Blue](https://open.spotify.com/album/5F1WisCbMkTQscHZcDVnvY) | 2:56 | 2024-07-26 | 2024-08-02 |

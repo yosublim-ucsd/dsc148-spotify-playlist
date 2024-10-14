@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Nico Collins and C\. J\. Stroud
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,478,957 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,480,759 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

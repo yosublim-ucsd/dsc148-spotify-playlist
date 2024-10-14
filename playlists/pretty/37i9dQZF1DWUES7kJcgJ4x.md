@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,240 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,239 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 12 | [Siempre es domingo \- 2015 Remaster](https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp) | [Gelu](https://open.spotify.com/artist/2yjN5JRnodrl8NsktcIZ8A) | [Los EP's Originales \(Remastered 2015\)](https://open.spotify.com/album/1KmBro1fKa2NTUyuGqo3VS) | 2:02 |
 | 13 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 |
 | 14 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 |
-| 15 | [Muévanse Todos \(Twist & Shout\)](https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 1:58 |
-| 16 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 |
+| 15 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 |
+| 16 | [Muévanse Todos \(Twist & Shout\)](https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 1:58 |
 | 17 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
 | 18 | [Más Bonita Que Ninguna](https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Más Bonita Que Ninguna](https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK) | 2:55 |
 | 19 | [Supercalifragilisticoespialidoso](https://open.spotify.com/track/2nsdIXWjz3oq7uK75aJldh) | [Tania Velia](https://open.spotify.com/artist/7JphpBGpfygziWKh2Wuu3G) | [Donde Están las Llaves](https://open.spotify.com/album/60BZH8eGyNMsjl3WvcZVYn) | 2:10 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 40 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 |
 | 41 | [Ne Me Laisse Pas L'Aimer](https://open.spotify.com/track/4D2nYW0lvUSkkaQsD9B21F) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum \(Vol\. 2\)](https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0) | 1:57 |
 | 42 | [Let's Spend The Night Together](https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV) | 3:52 |
-| 43 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
-| 44 | [Ponte Bajo el Sol](https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia y Elizabeth](https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq) | 2:05 |
-| 45 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 |
-| 46 | [Superpitagorico](https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Abrazame Fuerte](https://open.spotify.com/album/1K734Om38JYLMwRSycrMkp) | 1:36 |
-| 47 | [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 |
+| 43 | [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 |
+| 44 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
+| 45 | [Ponte Bajo el Sol](https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia y Elizabeth](https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq) | 2:05 |
+| 46 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 |
+| 47 | [Superpitagorico](https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Abrazame Fuerte](https://open.spotify.com/album/1K734Om38JYLMwRSycrMkp) | 1:36 |
 | 48 | [Nous tous](https://open.spotify.com/track/6lTNBo7bOR5gH2JPH1TnWZ) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise hardy](https://open.spotify.com/album/40uyk9JHoTD2P5IpPBomsI) | 1:42 |
-| 49 | [Fallin'](https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:13 |
-| 50 | [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 |
+| 49 | [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 |
+| 50 | [Fallin'](https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:13 |
 
 Snapshot ID: `ZiCdoAAAAADkEKEdA9nxFECMove2Mq6q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,513 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,520 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 33 | [Arrepentida](https://open.spotify.com/track/0uNH2bpQFlUku6mPcdk9up) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:27 |
 | 34 | [Extravíate](https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a Frente](https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz) | 3:09 |
 | 35 | [Llamarada \(feat\. Edith Márquez\) \- En Vivo](https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h) | 3:40 |
-| 36 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
-| 37 | [El Último Beso](https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:49 |
+| 36 | [El Último Beso](https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:49 |
+| 37 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
 | 38 | [El Nido \(with Edith Márquez\)](https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:56 |
 | 39 | [Pero Me Fui](https://open.spotify.com/track/2bvEzKkRkUl7SOvrGQglzA) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:39 |
-| 40 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
-| 41 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
+| 40 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
+| 41 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
 | 42 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
 | 43 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 |
-| 44 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 |
-| 45 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
+| 44 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
+| 45 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 |
 | 46 | [Qué Sabe Nadie \- Versión Banda](https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:56 |
 | 47 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 | 48 | [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 50 | [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 |
 | 51 | [Hazme Olvidarlo](https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Edith Márquez\. Sólo Éxitos](https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw) | 3:59 |
 
-Snapshot ID: `ZwhqgAAAAAB9SjqLDd7JNyjJ6AC1K4YP`
+Snapshot ID: `Zwm8AAAAAAChJuJDejnpy/IkA9Vz0K0U`

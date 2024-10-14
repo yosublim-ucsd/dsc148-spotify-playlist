@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "album": {
         "name": "Famous for a Day",
         "url": "https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M"
       },

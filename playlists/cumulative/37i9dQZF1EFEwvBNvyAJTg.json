@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
       },

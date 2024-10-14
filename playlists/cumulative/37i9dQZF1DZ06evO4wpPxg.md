@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
+> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
 312 songs - 19 hr 37 min
 
@@ -73,7 +73,7 @@
 | [God's Gonna Separate](https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 2:49 | 2022-05-25 |  |
 | [Goin' to Chattanooga](https://open.spotify.com/track/1Yo8qxF2WwuCNlXbndYeDW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 5:06 | 2022-12-25 | 2022-12-28 |
 | [Goin' To Sit Down On The Banks Of The River](https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 2:55 | 2022-05-26 | 2024-10-13 |
-| [Got On My Traveling Shoes](https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:06 | 2022-06-15 |  |
+| [Got On My Traveling Shoes](https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:06 | 2022-06-15 | 2024-10-14 |
 | [Great Change Since I Been Born](https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2022-05-25 | 2024-07-24 |
 | [Guitar Blues](https://open.spotify.com/track/01UgtgbJos0HfqF7U47pof) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Civil War March](https://open.spotify.com/album/10PA0jCgJkbyL89HCodP69) | 6:06 | 2022-11-13 | 2022-11-15 |
 | [Guitar Blues](https://open.spotify.com/track/12uEHx1ZcdEko5AdZmUIm2) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Church of Ragtime](https://open.spotify.com/album/0HZw5Tuvez7f5i16d0D7jS) | 6:06 | 2023-03-07 | 2023-04-20 |
@@ -235,7 +235,7 @@
 | [She's Funny That Way \- Live in Portland, OR](https://open.spotify.com/track/4hTyxAwowbSsShhdRPXFuY) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 11:27 | 2022-11-07 | 2023-03-10 |
 | [She's Just Funny That Way \- Live in Seattle, WA](https://open.spotify.com/track/24DDo7cKRZCrvjxSbbTVJM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 5:15 | 2024-01-01 | 2024-01-03 |
 | [She's Just Funny That Way \- Live in Seattle, WA](https://open.spotify.com/track/5CdsdahLJglofONPvbzGET) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 5:15 | 2022-11-04 | 2022-11-08 |
-| [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 | 2022-05-25 | 2024-08-30 |
+| [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 | 2022-05-25 |  |
 | [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 | 2024-04-21 | 2024-08-16 |
 | [Slippin' Till My Gal Comes in Partner](https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:41 | 2022-09-18 | 2022-11-24 |
 | [Slippin' to My Gal Comes in Partner](https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:00 | 2023-04-25 | 2024-09-08 |

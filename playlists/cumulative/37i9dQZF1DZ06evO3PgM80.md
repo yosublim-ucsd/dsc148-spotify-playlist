@@ -2,7 +2,7 @@
 
 ### [This Is Julia Vitória](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PgM80)
 
-> This is Julia Vitória\. Todos os maiores hits em uma só playlist.
+> This is Julia Vitória。アーティストの代表曲をひとつのプレイリストに。
 
 52 songs - 4 hr 56 min
 

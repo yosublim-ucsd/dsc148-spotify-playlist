@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Bellakath
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,135 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,182 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

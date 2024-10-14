@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-14",
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"

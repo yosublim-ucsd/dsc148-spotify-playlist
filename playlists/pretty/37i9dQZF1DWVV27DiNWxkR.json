@@ -1,6 +1,6 @@
 {
   "description": "The premier alternative melancholia playlist, featuring The Mar\u00edas",
-  "num_followers": 1840875,
+  "num_followers": 1841449,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": "2024-10-04 21:34:43",
+      "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
-    },
-    {
-      "added_at": "2024-10-04 21:34:43",
-      "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2024-10-04 21:34:43",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
-    },
-    {
-      "added_at": "2024-10-04 21:34:43",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+    },
+    {
+      "added_at": "2024-10-04 21:34:43",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
     },
     {
       "added_at": "2024-10-04 21:34:43",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2024-10-04 21:34:43",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-10-04 21:34:43",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2024-10-04 21:34:43",
-      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+    },
+    {
+      "added_at": "2024-10-04 21:34:43",
+      "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2024-10-04 21:34:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-04 21:34:43",
       "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
-    },
-    {
-      "added_at": "2024-10-04 21:34:43",
-      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 160991,
       "name": "Another One",
       "url": "https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf"
+    },
+    {
+      "added_at": "2024-10-04 21:34:43",
+      "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
       "added_at": "2024-10-04 21:34:43",

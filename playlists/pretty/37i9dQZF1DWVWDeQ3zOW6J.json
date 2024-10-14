@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 45689,
+  "num_followers": 45697,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Cheo",
+        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -207,22 +207,6 @@
       "duration_ms": 302413,
       "name": "Trucutu",
       "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -295,6 +279,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Salsa De La Mata, Vol. 2",
         "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
       },
@@ -351,54 +351,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Fania Live 02 From Miami With DJ LeSpam",
-        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 357386,
-      "name": "Merecumbe",
-      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -443,6 +395,38 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Fania Live 02 From Miami With DJ LeSpam",
+        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "duration_ms": 357386,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 290456,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -655,6 +635,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Simplemente... Lalo",
         "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
       },
@@ -667,6 +663,26 @@
       "duration_ms": 458760,
       "name": "M\u00e1ximo Chamorro",
       "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 290456,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -687,22 +703,6 @@
       "duration_ms": 268628,
       "name": "Yamulemau",
       "url": "https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -924,13 +924,13 @@
       },
       "artists": [
         {
-          "name": "Barbarito Diez",
-          "url": "https://open.spotify.com/artist/7moJIKSJ8ja7keltIrZzjE"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 186306,
-      "name": "La Cumbancha",
-      "url": "https://open.spotify.com/track/66dtKlJQaldv0pL0zASzGm"
+      "duration_ms": 163560,
+      "name": "Juancito Trucupey",
+      "url": "https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -940,13 +940,13 @@
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Barbarito Diez",
+          "url": "https://open.spotify.com/artist/7moJIKSJ8ja7keltIrZzjE"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Juancito Trucupey",
-      "url": "https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf"
+      "duration_ms": 186306,
+      "name": "La Cumbancha",
+      "url": "https://open.spotify.com/track/66dtKlJQaldv0pL0zASzGm"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "El Cantante de los Cantantes",
         "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 622520,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
     }
   ],
   "unique_name": "Cocina con Salsa",

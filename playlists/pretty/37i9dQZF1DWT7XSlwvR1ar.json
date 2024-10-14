@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2088614,
+  "num_followers": 2088663,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 208653,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Something Tells Me",
-      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Something Tells Me",
+      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 250346,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Feet Off The Ground (feat. Jade Bird)",
         "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
       },
@@ -1267,6 +1235,22 @@
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1331,6 +1315,22 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 217966,
       "name": "Time",
       "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Yours in the Morning",
         "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 214919,
       "name": "Yours in the Morning",
       "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Long Limbs",
         "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 196885,
       "name": "Long Limbs",
       "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     }
   ],
   "unique_name": "Totally Stress Free",

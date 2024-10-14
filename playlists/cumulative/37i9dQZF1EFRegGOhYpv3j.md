@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 2 hr 56 min
+58 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Blindsided \(Yeah, Sure, Okay\)](https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:47 | 2024-04-03 |  |
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2024-04-03 |  |
 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2024-04-03 |  |
+| [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 | 2024-10-13 |  |
 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 | 2024-04-03 |  |
 | [Cowboys Cry Too](https://open.spotify.com/track/3jSN1UlLaeWYRjjIIeAJkd) | [Good Girls Inc.](https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA) | [Cowboys Cry Too](https://open.spotify.com/album/1Wc45qb892V3zVDdDdrHzl) | 2:58 | 2024-07-18 | 2024-08-13 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/0ITWLlbQ01CXHmh5j7XD5k) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:51 | 2024-08-12 |  |
@@ -25,6 +26,7 @@
 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 | 2024-07-11 |  |
 | [good to be back](https://open.spotify.com/track/7ANnNigWJq48bNgpN3k5KH) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:06 | 2024-04-03 | 2024-07-12 |
 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 | 2024-04-03 |  |
+| [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 | 2024-10-13 |  |
 | [HEARTFIRST](https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:07 | 2024-04-03 |  |
 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 | 2024-04-03 |  |
 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2024-04-03 |  |

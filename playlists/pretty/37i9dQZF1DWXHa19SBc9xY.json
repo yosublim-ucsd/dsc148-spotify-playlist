@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 99471,
+  "num_followers": 99515,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,30 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Bateu",
+        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Bateu",
+      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
       },
@@ -227,8 +251,8 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Bateu",
-        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
@@ -236,17 +260,13 @@
           "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         },
         {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        },
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 206511,
-      "name": "Bateu",
-      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -291,22 +311,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Beleza Rara",
         "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
       },
@@ -323,22 +327,54 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Oceana",
+        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Oceana",
+      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
         {
           "name": "Lagum",
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "Vem de L\u00e1",
+      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -367,26 +403,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Oceana",
-        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Oceana",
-      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -447,6 +463,22 @@
       "duration_ms": 197610,
       "name": "Menina",
       "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -471,58 +503,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "Vem de L\u00e1",
-      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 188210,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -667,30 +667,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Balan\u00e7o de Amor",
-        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Curandeira",
-          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 199231,
-      "name": "Balan\u00e7o de Amor",
-      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Juntin",
         "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
       },
@@ -731,6 +707,30 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Balan\u00e7o de Amor",
+        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Curandeira",
+          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 199231,
+      "name": "Balan\u00e7o de Amor",
+      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -779,6 +763,22 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Carnaval a Dois",
-        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 185865,
-      "name": "Carnaval a Dois",
-      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+        "name": "Carnaval a Dois",
+        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+      "duration_ms": 185865,
+      "name": "Carnaval a Dois",
+      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -899,6 +883,22 @@
       "duration_ms": 192371,
       "name": "Conto as Horas",
       "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "borboletas",
+        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
+      },
+      "artists": [
+        {
+          "name": "VELINO",
+          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "borboletas",
+      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "borboletas",
-        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
-      },
-      "artists": [
-        {
-          "name": "VELINO",
-          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "borboletas",
-      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Minha Preta",
-        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
-      },
-      "artists": [
-        {
-          "name": "Bistro",
-          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "Minha Preta",
-      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Minha Preta",
+        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
+      },
+      "artists": [
+        {
+          "name": "Bistro",
+          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Minha Preta",
+      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Estrela do Mar",
         "url": "https://open.spotify.com/album/5pFfBXvJWGPdRxxgaT8C9e"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 179327,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eQnp2hdYxu5iprEeZC5Kq"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3JwfgMmiaVQq7Dqv2hQKot"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1447,6 +1431,22 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eQnp2hdYxu5iprEeZC5Kq"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3JwfgMmiaVQq7Dqv2hQKot"
     },
     {
       "added_at": "2023-11-24 08:42:40",

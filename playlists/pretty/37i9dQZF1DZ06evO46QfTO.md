@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 ### [This Is Maren Morris](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46QfTO)
 
-> This is Maren Morris\. Todos os maiores hits em uma só playlist.
+> This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,327 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,330 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 10 | [Chasing After You](https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:27 |
 | 11 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
 | 12 | [Craving You](https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:43 |
-| 13 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
-| 14 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
+| 13 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
+| 14 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 15 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
 | 16 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
 | 17 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 50 | [Way Too Pretty for Prison \(with Maren Morris\)](https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:14 |
 | 51 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 |
 
-Snapshot ID: `ZwhqgAAAAABrj5Vojl3d1DMJY9AK3OlH`
+Snapshot ID: `Zwm8AAAAAAD5BXdvWmACsFbPFXKqcocK`

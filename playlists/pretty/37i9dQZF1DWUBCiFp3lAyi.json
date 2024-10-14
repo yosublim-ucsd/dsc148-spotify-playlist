@@ -1,6 +1,6 @@
 {
   "description": "Your personalized GTA radio station. ",
-  "num_followers": 618605,
+  "num_followers": 618928,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Hold the Line",
-      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Hold the Line",
+      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Swimming Pools (Drank)",
         "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
       },
@@ -215,26 +215,6 @@
       "duration_ms": 247800,
       "name": "Swimming Pools (Drank)",
       "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -255,6 +235,26 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 299960,
       "name": "Collard Greens",
       "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Sexy Movimiento",
-      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Sexy Movimiento",
+      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "Eazy-Duz-It",
+        "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+      "duration_ms": 234360,
+      "name": "No More ?'s",
+      "url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Eazy-Duz-It",
-        "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "No More ?'s",
-      "url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126446,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "iDon",
         "url": "https://open.spotify.com/album/20Jf4Vb1V3MMv1QI1cKNNI"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239493,
       "name": "Virtual Diva",
       "url": "https://open.spotify.com/track/5nJaS3PEpyPfaWiLxIGtRX"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Climbing!",
-        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
-      },
-      "artists": [
-        {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1363,6 +1379,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Get It Shawty",
+      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1383,22 +1415,6 @@
       "duration_ms": 175213,
       "name": "Wow Freestyle (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0gV5B7zmJkS1aaH9APokrH"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Get It Shawty",
-      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "El Documental II",
+        "url": "https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Siente El Boom",
+      "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "El Documental II",
-        "url": "https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Siente El Boom",
-      "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "CrasH Talk",
-        "url": "https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 107146,
-      "name": "Numb Numb Juice",
-      "url": "https://open.spotify.com/track/6tByydPskASjm9jTPkNQq0"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Ignorance is Bliss",
         "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 168400,
       "name": "Greaze Mode",
       "url": "https://open.spotify.com/track/3nG784YlxS4VQOF0qiHKVP"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "CrasH Talk",
+        "url": "https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 107146,
+      "name": "Numb Numb Juice",
+      "url": "https://open.spotify.com/track/6tByydPskASjm9jTPkNQq0"
     },
     {
       "added_at": "2023-12-15 05:01:00",

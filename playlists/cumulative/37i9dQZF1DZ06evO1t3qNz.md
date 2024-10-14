@@ -4,7 +4,7 @@
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 21 min
+29 songs - 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [Bang Bang \(The Ballad Of Amy Fisher\)](https://open.spotify.com/track/5D5heO1PsYu1ThDAXzWkpw) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:08 | 2024-09-08 | 2024-10-11 |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-08-08 |  |
 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 | 2024-08-08 |  |
-| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-08 |  |
-| [Gotta Hold](https://open.spotify.com/track/7c03FKl3V9wffosgIEN2Co) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:51 | 2024-09-08 |  |
+| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-08 | 2024-10-14 |
+| [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:53 | 2024-10-14 |  |
+| [Gotta Hold](https://open.spotify.com/track/7c03FKl3V9wffosgIEN2Co) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:51 | 2024-09-08 | 2024-10-14 |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 | 2024-08-08 |  |
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 | 2024-08-08 |  |
 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 | 2024-08-08 |  |

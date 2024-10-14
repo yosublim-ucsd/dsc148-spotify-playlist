@@ -4,7 +4,7 @@
 
 > ang lalim
 
-173 songs - 10 hr 58 min
+178 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dear](https://open.spotify.com/track/0tJVONdzeXt2ZfNH77FkKx) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Dear](https://open.spotify.com/album/0PKDAS1gX4hAuXatya1kgM) | 5:06 | 2023-10-18 | 2023-11-11 |
 | [Di Man Tinadhana](https://open.spotify.com/track/7osu5JQDE0riRg4ewMNHrg) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Di Man Tinadhana](https://open.spotify.com/album/3xPg2ALbLbmE4w6qQsEX53) | 4:10 | 2023-10-18 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-10-18 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-14 |  |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-02-07 | 2024-06-06 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2023-10-18 |  |
 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2024-04-30 | 2024-07-18 |
@@ -64,13 +65,13 @@
 | [Gusto Ko Nang Bumitaw \- R&B Version](https://open.spotify.com/track/5A0iwwO0qsBL1xNejV3F0q) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Gusto Ko Nang Bumitaw \(R&B Version\)](https://open.spotify.com/album/31hgf1HCoTGPJroYu2VMcb) | 6:13 | 2023-10-18 | 2024-07-19 |
 | [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-10-18 |  |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-10-18 |  |
-| [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2024-06-05 |  |
+| [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2024-06-05 | 2024-10-14 |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-10-18 | 2024-02-08 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-10-18 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2024-03-04 |  |
 | [Hilom \(from "Unbreak My Heart"\)](https://open.spotify.com/track/6eOxuWzhQy41tq3SsySKfw) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hilom \(from "Unbreak My Heart"\)](https://open.spotify.com/album/56thWKxUYXQaC9r0to6KKn) | 4:33 | 2023-10-18 |  |
 | [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 | 2024-06-06 |
-| [Hindi Ikaw](https://open.spotify.com/track/4stLOefA68fsJ9fE6Xx9RN) | [LTNM](https://open.spotify.com/artist/081ibuzgI42pUawKfisL7G) | [Hindi Ikaw](https://open.spotify.com/album/6ZLY1zlqZMK98NEzYdx9z0) | 3:04 | 2023-10-18 |  |
+| [Hindi Ikaw](https://open.spotify.com/track/4stLOefA68fsJ9fE6Xx9RN) | [LTNM](https://open.spotify.com/artist/081ibuzgI42pUawKfisL7G) | [Hindi Ikaw](https://open.spotify.com/album/6ZLY1zlqZMK98NEzYdx9z0) | 3:04 | 2023-10-18 | 2024-10-14 |
 | [hindi ko alam](https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [hindi ko alam](https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF) | 3:31 | 2024-02-07 | 2024-06-06 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-07 | 2024-06-06 |
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-02-07 | 2024-06-06 |
@@ -79,8 +80,10 @@
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-10-18 |  |
 | [i know you know](https://open.spotify.com/track/61FGR56QJ94BHIkfh755s4) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/2nNQOtUsfNhwJguQorQmNK) | 4:24 | 2023-10-18 | 2024-04-19 |
 | [i know you know](https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1) | 4:24 | 2024-03-04 |  |
+| [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 |  |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-17 |  |
 | [in another life](https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K) | [Zion Aguirre](https://open.spotify.com/artist/5U09RsRxa8IQ9GYtIsxY3d) | [in another life](https://open.spotify.com/album/5cvdRWWh28Uh6ZprLNUici) | 3:12 | 2023-10-18 | 2024-07-19 |
+| [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-10-14 |  |
 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 | 2024-02-07 | 2024-06-06 |
 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 | 2023-10-18 | 2024-04-19 |
 | [Isip](https://open.spotify.com/track/2yvs8IrjxD0Qtiz4qw27rp) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/0yPrxYB9mn4KOybHemESoF) | 4:25 | 2024-03-04 |  |
@@ -129,6 +132,7 @@
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2023-10-18 |  |
 | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 | 2023-10-18 |  |
 | [pages](https://open.spotify.com/track/4hNVgNMncBxoYrb5D7dikN) | [WIMY](https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z) | [pages](https://open.spotify.com/album/6kJJ5c2JWMvNPyLQ0SMegd) | 3:18 | 2024-02-07 | 2024-06-06 |
+| [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \- TJxKZ Version](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-10-14 |  |
 | [Pelikula](https://open.spotify.com/track/5CHxZuUwZqeK7WU4fAQ0ub) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4NkcWiR6GiARbl7ANX9m4u) | 3:24 | 2024-06-05 | 2024-06-12 |
 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 | 2023-10-18 | 2023-11-11 |
 | [perfect blues](https://open.spotify.com/track/0b5EKv77RtqF8JU64u1Q1Y) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [perfect blues](https://open.spotify.com/album/09JlCYQ9z7cCoFoBQMqUN7) | 2:40 | 2023-10-18 |  |
@@ -138,6 +142,7 @@
 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2024-07-19 |  |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-10-18 | 2024-04-19 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2024-03-04 |  |
+| [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-10-14 |  |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 |  |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-07-17 |  |
 | [Sandig](https://open.spotify.com/track/7I9I0ImS8CKwuUKtlpuRLM) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Sandig](https://open.spotify.com/album/7xrmiIlcsru3uWGRNeMZZn) | 3:37 | 2023-10-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 315435,
+  "num_followers": 315500,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Virtua.Zip",
+        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
+      },
+      "artists": [
+        {
+          "name": "ESPRIT \u7a7a\u60f3",
+          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esprit.Wav",
+      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "New World Disciples",
         "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 187050,
       "name": "SNAKE WAY",
       "url": "https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Virtua.Zip",
-        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
-      },
-      "artists": [
-        {
-          "name": "ESPRIT \u7a7a\u60f3",
-          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esprit.Wav",
-      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u56da\u4eba",
-        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
       "artists": [
         {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 320462,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+        "name": "\u56da\u4eba",
+        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
         }
       ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
+      "duration_ms": 320462,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Sonic in the Holobeach",
         "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 256096,
       "name": "Sonic in the Holobeach",
       "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Videopolis",
-        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
-      },
-      "artists": [
-        {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Soul-Vibration",
-      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dragonball Wave",
         "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Videopolis",
+        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
+      },
+      "artists": [
+        {
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Soul-Vibration",
+      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1015,6 +1015,22 @@
       "duration_ms": 212079,
       "name": "Courtwalk",
       "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1043,34 +1059,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 106802,
-      "name": "I Used To Make Vaporwave",
-      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+      "duration_ms": 106802,
+      "name": "I Used To Make Vaporwave",
+      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1123,22 +1123,6 @@
       "duration_ms": 280000,
       "name": "Melatonin High - Rework 2021",
       "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "The 33rd Split",
-        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
-      },
-      "artists": [
-        {
-          "name": "King Quartz",
-          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
-        }
-      ],
-      "duration_ms": 115802,
-      "name": "King Quartz - 4:14 in 313",
-      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Aeris",
         "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
@@ -1179,18 +1179,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
       "artists": [
         {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
         }
       ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+      "duration_ms": 115802,
+      "name": "King Quartz - 4:14 in 313",
+      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fire Magic",
+        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Fire Magic",
+      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1211,22 +1227,6 @@
       "duration_ms": 484471,
       "name": "Downpour",
       "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Fire Magic",
-        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Fire Magic",
-      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Screensaver",
-        "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
+        "name": "Exit simulation",
+        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
       },
       "artists": [
         {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        },
-        {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Screensaver",
-      "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
+      "duration_ms": 104337,
+      "name": "Procedurally Generated Corridor",
+      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Exit simulation",
-        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
+        "name": "Screensaver",
+        "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        },
+        {
+          "name": "Vivi Vulture",
+          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
         }
       ],
-      "duration_ms": 104337,
-      "name": "Procedurally Generated Corridor",
-      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+      "duration_ms": 147280,
+      "name": "Screensaver",
+      "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1371,6 +1371,38 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+        }
+      ],
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 208831,
+      "name": "Oso",
+      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Wish We Were Sightseers",
         "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
       },
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
-      },
-      "artists": [
-        {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 208831,
-      "name": "Oso",
-      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "CasaBlanca",
+        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 183371,
+      "name": "CasaBlanca",
+      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 200000,
       "name": "Beijing",
       "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "CasaBlanca",
-        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 183371,
-      "name": "CasaBlanca",
-      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
     },
     {
       "added_at": "2023-07-18 02:19:19",

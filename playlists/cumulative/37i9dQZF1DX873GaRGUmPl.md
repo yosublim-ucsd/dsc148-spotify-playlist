@@ -4,11 +4,11 @@
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-341 songs - 22 hr 48 min
+342 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-09-29 |  |
+| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 | 2022-09-29 | 2024-10-14 |
 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/5oK98mpTJSU0iqLHN1hZ3y) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 2:48 | 2021-11-15 | 2022-07-05 |
 | [33 “GOD”](https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 3:33 | 2021-11-15 | 2022-07-21 |
 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 | 2021-11-15 | 2022-07-15 |
@@ -110,6 +110,7 @@
 | [Fool to Love](https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:26 | 2022-09-29 | 2022-11-18 |
 | [Forever](https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 | 2022-02-21 | 2022-07-29 |
 | [Formidable](https://open.spotify.com/track/2SBzyzjN6a75JGvCddno2J) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Love In The 4th Dimension](https://open.spotify.com/album/6A3pxUItYNmraeFxuRsCqs) | 2:55 | 2022-02-21 | 2022-07-26 |
+| [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 | 2022-09-29 |  |
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2021-11-15 | 2022-07-29 |
 | [Fvrs](https://open.spotify.com/track/37CZhIhYiW8P65ojRG1DgS) | [Moxiie](https://open.spotify.com/artist/2qoIcb4cpTovV78vSABg67) | [Fvrs](https://open.spotify.com/album/2IxxgxsAxGF6k0YR0SUZDH) | 3:49 | 2022-09-29 | 2022-11-18 |
 | [Garden](https://open.spotify.com/track/5xcTXsQCDfyT5fHwrzPgzW) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Leave Me Alone](https://open.spotify.com/album/2ILzlgDg3yqPT1xxf1f52I) | 4:07 | 2021-11-15 | 2022-07-20 |

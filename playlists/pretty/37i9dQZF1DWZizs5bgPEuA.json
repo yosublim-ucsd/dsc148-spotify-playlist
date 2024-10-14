@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5545,
+  "num_followers": 5548,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Cumbialicious",
+        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 134549,
+      "name": "la cumbia del cucuy",
+      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -183,38 +199,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cumbialicious",
-        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 134549,
-      "name": "la cumbia del cucuy",
-      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "LA CALMA",
-      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -239,6 +235,42 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "LA CALMA",
+      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "YO KIERO",
         "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
       },
@@ -259,34 +291,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+        "name": "CLIMA (with Foreign Teck)",
+        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
       },
       "artists": [
         {
           "name": "Dei V",
           "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
         }
       ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -307,6 +327,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "la manera que me ves",
+        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 229549,
+      "name": "la manera que me ves",
+      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ya Te Super\u00e9",
         "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
       },
@@ -323,22 +359,6 @@
       "duration_ms": 226476,
       "name": "Ya Te Super\u00e9",
       "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "la manera que me ves",
-        "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 229549,
-      "name": "la manera que me ves",
-      "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -375,6 +395,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Modales",
+        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Buen Provecho",
+      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "SANDUNGUEA",
         "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
       },
@@ -395,26 +431,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "CLIMA (with Foreign Teck)",
-        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "CLIMA (with Foreign Teck)",
-      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Nos Entendemos",
         "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 176016,
       "name": "Nos Entendemos",
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Modales",
-        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Buen Provecho",
-      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
     },
     {
       "added_at": "2024-07-12 04:00:00",

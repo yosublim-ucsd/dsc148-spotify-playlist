@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 40656,
+  "num_followers": 40762,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqgAAAAABoLOrsM0kAMj0dv/U+sOTP",
+  "snapshot_id": "Zwm8AAAAAAC1AiRfY+1NodRnK9+u+cGY",
   "tracks": [
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Music for the strange, unusual, and recently deceased\. Get ready for the Spooky Season with Halloween Hits including 'Spooky, Scary Skeletons', 'Monster Mash' and 'Super Freak'.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 113,219 likes - 81 songs - 5 hr 19 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 113,218 likes - 81 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 80 | [Skulls](https://open.spotify.com/track/5GVJMiKlCEQUPDzaZaYHfO) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 4:11 |
 | 81 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 |
 
-Snapshot ID: `AAAUBU+q6aiIFHE6nmhlUOhbp1RXV1Bu`
+Snapshot ID: `AAAUCMJKUZHxmLbhqjkGieuqV14mP/VX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,333 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,342 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 7 | [The Bird and the Worm](https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:45 |
 | 8 | [I Caught Fire](https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:25 |
 | 9 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 |
-| 10 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
-| 11 | [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 |
+| 10 | [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 |
+| 11 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
 | 12 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 |
 | 13 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
-| 14 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 |
+| 14 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 |
 | 15 | [Fuck You](https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:57 |
 | 16 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 |
 | 17 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 |
-| 18 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 |
+| 18 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 |
 | 19 | [People Are Vomit](https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:52 |
 | 20 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 |
 | 21 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 46 | [River Stay](https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:04 |
 | 47 | [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 |
 
-Snapshot ID: `ZwhqgAAAAAAJkBy3GEohs7wa5sL7vext`
+Snapshot ID: `Zwm8AAAAAAC618zlBarRs43EPgus5H6m`

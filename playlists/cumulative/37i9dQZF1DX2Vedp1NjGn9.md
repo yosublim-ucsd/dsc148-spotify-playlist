@@ -4,7 +4,7 @@
 
 > 2011 highlights from the home of indie music.
 
-181 songs - 12 hr 23 min
+182 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 | 2021-09-02 |  |
 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 | 2021-09-02 | 2024-04-19 |
 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 | 2021-09-02 |  |
-| [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 | 2024-03-18 |  |
+| [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 | 2024-03-18 | 2024-10-14 |
 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 | 2021-09-02 | 2024-04-19 |
 | [Helplessness Blues](https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 5:03 | 2021-09-02 | 2024-04-19 |
 | [Helplessness Blues](https://open.spotify.com/track/0dO6w8Z5ZUPSeuARe0sebQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Spring Break 2011](https://open.spotify.com/album/3qmc45KqeQB4VBa8QhvJQX) | 5:03 | 2021-09-02 | 2022-11-13 |
@@ -76,6 +76,7 @@
 | [Holocene](https://open.spotify.com/track/6DESft0qm6RhoYf5wzeoGH) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 5:36 | 2024-03-18 |  |
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2021-09-02 |  |
 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 | 2021-09-02 |  |
+| [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 | 2024-03-18 |  |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2021-09-02 |  |
 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 | 2021-09-02 |  |
 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 | 2021-09-02 |  |
